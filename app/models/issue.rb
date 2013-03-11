@@ -1,0 +1,3 @@
+class Issue < ActiveRecord::Base
+  attr_accessible :description
+end

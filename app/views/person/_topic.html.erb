@@ -1,0 +1,53 @@
+<div class="people_header clearfix" style=" background: url(/images/<%= @person.photo_path %>) 610px bottom no-repeat;">
+  <div id="name">
+    <h3><em><%= @person.title_common %> <%= @person.full_name %></em></h3>
+    <h5>
+      <%= @person.party %> &nbsp;&bull;&nbsp;
+      <%= link_to("#{@person.district.to_i.ordinalize} District", state_district_path(@person.state, @person.district)) + ', ' if @person.in_a_valid_district? %>
+      <%= "#{State.for_abbrev(@person.state)} &nbsp;&bull;&nbsp;".html_safe unless @person.state.blank? %> 
+      <%= @person.is_sitting? ? "#{@person.consecutive_roles.size.ordinalize} Term" : "#{@person.consecutive_roles.size} Terms" %> &nbsp;&bull;&nbsp;
+      Sworn In <%= @person.consecutive_roles.last.startdate.strftime("%Y") %>
+    </h5>
+  </div>
+
+  <div id="term">
+    <em><%= @person.is_sitting? ? "Current Term" : "Last Term" %></em>
+    <strong><%= "#{@person.roles_sorted.first.startdate.year} - #{@person.roles_sorted.first.enddate.year}" %></strong>
+    <%  if @person.roles_sorted.size > 1 %>
+    <%= toggler("rolehistory_list", "View All", "Hide").html_safe %>
+    <ul id="rolehistory_list" style="display:none;"> 
+      <% @person.roles_sorted[1..@person.roles_sorted.size].each do |role| %>
+      <li><strong><%= "#{role.startdate.year} - #{role.enddate.year}" %></strong></li>
+      <% end %>
+    </ul>
+    <% end %>
+  </div>  
+
+  <% unless @person.person_stats.nil? %>
+    <ul id="sponsor_stats" class="clearfix">
+      <%= sponsored_bill_stats %>
+    </ul>
+  <% end %>
+  
+  <% unless (voting_similarities_html = top_voting_similarities).nil? %>
+    <!-- Should be popup <%# site_text_explain('voting_similarities')%> -->
+    <%= voting_similarities_html %>
+  <% end %> 
+  
+  <% unless @bio_summary.blank? %> 
+    <div class='bio_summary'><%= @bio_summary.html_safe %></div>
+  <% end %>
+</div>
+
+<% if admin_logged_in? %>
+  <div style="padding-left: 30px;">
+    <%= link_to "New news/blog article", :controller => 'admin/commentary', :action => 'new', :commentariable_type => 'Person', :commentariable_id => @person.id %> | 
+    <%= link_to "Cleanup news/blog articles (This may take several minutes)", :controller => 'admin/commentary', :action => 'person_cleanup', :person_id => @person.id %>
+  </div>
+<% end %>
+
+<div id="tabs"> 
+  <ul class="un">
+    <%= make_tabs(@tabs) %>
+  </ul>
+</div>

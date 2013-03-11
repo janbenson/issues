@@ -1,0 +1,1543 @@
+
+Connecting to database specified by database.yml
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2013-03-10 18:46:41 -0700
+Served asset /rails.png - 304 Not Modified (51ms)
+
+
+Started GET "/issues" for 127.0.0.1 at 2013-03-10 18:46:47 -0700
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from column_definitions_with_silencer at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from column_definitions_with_silencer at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from table_exists_with_silencer? at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from table_exists_with_silencer? at (eval):2)
+  [1m[36mCongressSession Load (2.3ms)[0m  [1mSELECT "congress_sessions".* FROM "congress_sessions" WHERE (date >='2013-03-10' AND chamber='house' AND is_in_session='t') LIMIT 1[0m
+  [1m[35mCongressSession Load (0.8ms)[0m  SELECT "congress_sessions".* FROM "congress_sessions" WHERE (date >='2013-03-10' AND chamber='senate' AND is_in_session='t') LIMIT 1
+  [1m[36mCongressSession Load (0.7ms)[0m  [1mSELECT "congress_sessions".* FROM "congress_sessions" WHERE (chamber='recess') LIMIT 1[0m
+Processing by IssuesController#index as HTML
+  Rendered shared/_notices.html.erb (1.4ms)
+  Rendered layouts/_user_nav.html.erb (5.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from table_exists_with_silencer? at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from table_exists_with_silencer? at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from column_definitions_with_silencer at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from column_definitions_with_silencer at (eval):2)
+  [1m[35mArticle Load (2.2ms)[0m  SELECT "articles".* FROM "articles" WHERE (frontpage = true) ORDER BY created_at DESC LIMIT 7
+  Rendered articles/_frontpage.html.erb (1.8ms)
+  Rendered issues/index.html.erb within layouts/frontpage (215.2ms)
+  Rendered shared/_analytics_head.html.erb (1.2ms)
+  Rendered layouts/_header.html.erb (18.2ms)
+  Rendered layouts/_footer.html.erb (13.8ms)
+  Rendered shared/_analytics_foot.html.erb (1.0ms)
+Completed 200 OK in 458ms (Views: 448.3ms | ActiveRecord: 8.5ms)
+
+
+Started GET "/assets/master.css?body=1" for 127.0.0.1 at 2013-03-10 18:46:51 -0700
+Served asset /master.css - 304 Not Modified (29ms)
+
+
+Started GET "/assets/throbber.gif" for 127.0.0.1 at 2013-03-10 18:46:53 -0700
+Served asset /throbber.gif - 304 Not Modified (22ms)
+
+
+Started GET "/assets/open-congress.png" for 127.0.0.1 at 2013-03-10 18:46:55 -0700
+Served asset /open-congress.png - 304 Not Modified (23ms)
+
+
+Started GET "/assets/spin.gif" for 127.0.0.1 at 2013-03-10 18:46:57 -0700
+Served asset /spin.gif - 304 Not Modified (20ms)
+
+
+Started GET "/assets/login.png" for 127.0.0.1 at 2013-03-10 18:46:59 -0700
+Served asset /login.png - 304 Not Modified (21ms)
+
+
+Started GET "/assets/search_submit.gif" for 127.0.0.1 at 2013-03-10 18:47:02 -0700
+Served asset /search_submit.gif - 304 Not Modified (21ms)
+
+
+Started GET "/images/body-bg.png" for 127.0.0.1 at 2013-03-10 18:47:04 -0700
+
+ActionController::RoutingError (No route matches [GET] "/images/body-bg.png"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  thin (1.5.0) lib/thin/connection.rb:81:in `block in pre_process'
+  thin (1.5.0) lib/thin/connection.rb:79:in `catch'
+  thin (1.5.0) lib/thin/connection.rb:79:in `pre_process'
+  thin (1.5.0) lib/thin/connection.rb:54:in `process'
+  thin (1.5.0) lib/thin/connection.rb:39:in `receive_data'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run_machine'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run'
+  thin (1.5.0) lib/thin/backends/base.rb:63:in `start'
+  thin (1.5.0) lib/thin/server.rb:159:in `start'
+  rack (1.4.5) lib/rack/handler/thin.rb:13:in `run'
+  rack (1.4.5) lib/rack/server.rb:268:in `start'
+  railties (3.2.12) lib/rails/commands/server.rb:70:in `start'
+  railties (3.2.12) lib/rails/commands.rb:55:in `block in <top (required)>'
+  railties (3.2.12) lib/rails/commands.rb:50:in `tap'
+  railties (3.2.12) lib/rails/commands.rb:50:in `<top (required)>'
+  script/rails:6:in `require'
+  script/rails:6:in `<main>'
+
+
+  Rendered /usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/images/throbber-bg.png" for 127.0.0.1 at 2013-03-10 18:47:06 -0700
+
+ActionController::RoutingError (No route matches [GET] "/images/throbber-bg.png"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  thin (1.5.0) lib/thin/connection.rb:81:in `block in pre_process'
+  thin (1.5.0) lib/thin/connection.rb:79:in `catch'
+  thin (1.5.0) lib/thin/connection.rb:79:in `pre_process'
+  thin (1.5.0) lib/thin/connection.rb:54:in `process'
+  thin (1.5.0) lib/thin/connection.rb:39:in `receive_data'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run_machine'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run'
+  thin (1.5.0) lib/thin/backends/base.rb:63:in `start'
+  thin (1.5.0) lib/thin/server.rb:159:in `start'
+  rack (1.4.5) lib/rack/handler/thin.rb:13:in `run'
+  rack (1.4.5) lib/rack/server.rb:268:in `start'
+  railties (3.2.12) lib/rails/commands/server.rb:70:in `start'
+  railties (3.2.12) lib/rails/commands.rb:55:in `block in <top (required)>'
+  railties (3.2.12) lib/rails/commands.rb:50:in `tap'
+  railties (3.2.12) lib/rails/commands.rb:50:in `<top (required)>'
+  script/rails:6:in `require'
+  script/rails:6:in `<main>'
+
+
+  Rendered /usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/assets/tool_arrow-trans.png" for 127.0.0.1 at 2013-03-10 18:47:09 -0700
+Served asset /tool_arrow-trans.png - 304 Not Modified (26ms)
+
+
+Started GET "/images/top_bar.png" for 127.0.0.1 at 2013-03-10 18:47:11 -0700
+
+ActionController::RoutingError (No route matches [GET] "/images/top_bar.png"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  thin (1.5.0) lib/thin/connection.rb:81:in `block in pre_process'
+  thin (1.5.0) lib/thin/connection.rb:79:in `catch'
+  thin (1.5.0) lib/thin/connection.rb:79:in `pre_process'
+  thin (1.5.0) lib/thin/connection.rb:54:in `process'
+  thin (1.5.0) lib/thin/connection.rb:39:in `receive_data'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run_machine'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run'
+  thin (1.5.0) lib/thin/backends/base.rb:63:in `start'
+  thin (1.5.0) lib/thin/server.rb:159:in `start'
+  rack (1.4.5) lib/rack/handler/thin.rb:13:in `run'
+  rack (1.4.5) lib/rack/server.rb:268:in `start'
+  railties (3.2.12) lib/rails/commands/server.rb:70:in `start'
+  railties (3.2.12) lib/rails/commands.rb:55:in `block in <top (required)>'
+  railties (3.2.12) lib/rails/commands.rb:50:in `tap'
+  railties (3.2.12) lib/rails/commands.rb:50:in `<top (required)>'
+  script/rails:6:in `require'
+  script/rails:6:in `<main>'
+
+
+  Rendered /usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/images/oc-logo.png" for 127.0.0.1 at 2013-03-10 18:47:13 -0700
+
+ActionController::RoutingError (No route matches [GET] "/images/oc-logo.png"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  thin (1.5.0) lib/thin/connection.rb:81:in `block in pre_process'
+  thin (1.5.0) lib/thin/connection.rb:79:in `catch'
+  thin (1.5.0) lib/thin/connection.rb:79:in `pre_process'
+  thin (1.5.0) lib/thin/connection.rb:54:in `process'
+  thin (1.5.0) lib/thin/connection.rb:39:in `receive_data'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run_machine'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run'
+  thin (1.5.0) lib/thin/backends/base.rb:63:in `start'
+  thin (1.5.0) lib/thin/server.rb:159:in `start'
+  rack (1.4.5) lib/rack/handler/thin.rb:13:in `run'
+  rack (1.4.5) lib/rack/server.rb:268:in `start'
+  railties (3.2.12) lib/rails/commands/server.rb:70:in `start'
+  railties (3.2.12) lib/rails/commands.rb:55:in `block in <top (required)>'
+  railties (3.2.12) lib/rails/commands.rb:50:in `tap'
+  railties (3.2.12) lib/rails/commands.rb:50:in `<top (required)>'
+  script/rails:6:in `require'
+  script/rails:6:in `<main>'
+
+
+  Rendered /usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/images/forms.png" for 127.0.0.1 at 2013-03-10 18:47:16 -0700
+
+ActionController::RoutingError (No route matches [GET] "/images/forms.png"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  thin (1.5.0) lib/thin/connection.rb:81:in `block in pre_process'
+  thin (1.5.0) lib/thin/connection.rb:79:in `catch'
+  thin (1.5.0) lib/thin/connection.rb:79:in `pre_process'
+  thin (1.5.0) lib/thin/connection.rb:54:in `process'
+  thin (1.5.0) lib/thin/connection.rb:39:in `receive_data'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run_machine'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run'
+  thin (1.5.0) lib/thin/backends/base.rb:63:in `start'
+  thin (1.5.0) lib/thin/server.rb:159:in `start'
+  rack (1.4.5) lib/rack/handler/thin.rb:13:in `run'
+  rack (1.4.5) lib/rack/server.rb:268:in `start'
+  railties (3.2.12) lib/rails/commands/server.rb:70:in `start'
+  railties (3.2.12) lib/rails/commands.rb:55:in `block in <top (required)>'
+  railties (3.2.12) lib/rails/commands.rb:50:in `tap'
+  railties (3.2.12) lib/rails/commands.rb:50:in `<top (required)>'
+  script/rails:6:in `require'
+  script/rails:6:in `<main>'
+
+
+  Rendered /usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/images/autocomplete_bg.png" for 127.0.0.1 at 2013-03-10 18:47:18 -0700
+
+ActionController::RoutingError (No route matches [GET] "/images/autocomplete_bg.png"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  thin (1.5.0) lib/thin/connection.rb:81:in `block in pre_process'
+  thin (1.5.0) lib/thin/connection.rb:79:in `catch'
+  thin (1.5.0) lib/thin/connection.rb:79:in `pre_process'
+  thin (1.5.0) lib/thin/connection.rb:54:in `process'
+  thin (1.5.0) lib/thin/connection.rb:39:in `receive_data'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run_machine'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run'
+  thin (1.5.0) lib/thin/backends/base.rb:63:in `start'
+  thin (1.5.0) lib/thin/server.rb:159:in `start'
+  rack (1.4.5) lib/rack/handler/thin.rb:13:in `run'
+  rack (1.4.5) lib/rack/server.rb:268:in `start'
+  railties (3.2.12) lib/rails/commands/server.rb:70:in `start'
+  railties (3.2.12) lib/rails/commands.rb:55:in `block in <top (required)>'
+  railties (3.2.12) lib/rails/commands.rb:50:in `tap'
+  railties (3.2.12) lib/rails/commands.rb:50:in `<top (required)>'
+  script/rails:6:in `require'
+  script/rails:6:in `<main>'
+
+
+  Rendered /usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/images/twitter.png" for 127.0.0.1 at 2013-03-10 18:47:21 -0700
+
+ActionController::RoutingError (No route matches [GET] "/images/twitter.png"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  thin (1.5.0) lib/thin/connection.rb:81:in `block in pre_process'
+  thin (1.5.0) lib/thin/connection.rb:79:in `catch'
+  thin (1.5.0) lib/thin/connection.rb:79:in `pre_process'
+  thin (1.5.0) lib/thin/connection.rb:54:in `process'
+  thin (1.5.0) lib/thin/connection.rb:39:in `receive_data'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run_machine'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run'
+  thin (1.5.0) lib/thin/backends/base.rb:63:in `start'
+  thin (1.5.0) lib/thin/server.rb:159:in `start'
+  rack (1.4.5) lib/rack/handler/thin.rb:13:in `run'
+  rack (1.4.5) lib/rack/server.rb:268:in `start'
+  railties (3.2.12) lib/rails/commands/server.rb:70:in `start'
+  railties (3.2.12) lib/rails/commands.rb:55:in `block in <top (required)>'
+  railties (3.2.12) lib/rails/commands.rb:50:in `tap'
+  railties (3.2.12) lib/rails/commands.rb:50:in `<top (required)>'
+  script/rails:6:in `require'
+  script/rails:6:in `<main>'
+
+
+  Rendered /usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/images/main_bg.jpg" for 127.0.0.1 at 2013-03-10 18:47:23 -0700
+
+ActionController::RoutingError (No route matches [GET] "/images/main_bg.jpg"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  thin (1.5.0) lib/thin/connection.rb:81:in `block in pre_process'
+  thin (1.5.0) lib/thin/connection.rb:79:in `catch'
+  thin (1.5.0) lib/thin/connection.rb:79:in `pre_process'
+  thin (1.5.0) lib/thin/connection.rb:54:in `process'
+  thin (1.5.0) lib/thin/connection.rb:39:in `receive_data'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run_machine'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run'
+  thin (1.5.0) lib/thin/backends/base.rb:63:in `start'
+  thin (1.5.0) lib/thin/server.rb:159:in `start'
+  rack (1.4.5) lib/rack/handler/thin.rb:13:in `run'
+  rack (1.4.5) lib/rack/server.rb:268:in `start'
+  railties (3.2.12) lib/rails/commands/server.rb:70:in `start'
+  railties (3.2.12) lib/rails/commands.rb:55:in `block in <top (required)>'
+  railties (3.2.12) lib/rails/commands.rb:50:in `tap'
+  railties (3.2.12) lib/rails/commands.rb:50:in `<top (required)>'
+  script/rails:6:in `require'
+  script/rails:6:in `<main>'
+
+
+  Rendered /usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/images/footer-bg.png" for 127.0.0.1 at 2013-03-10 18:47:25 -0700
+
+ActionController::RoutingError (No route matches [GET] "/images/footer-bg.png"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  thin (1.5.0) lib/thin/connection.rb:81:in `block in pre_process'
+  thin (1.5.0) lib/thin/connection.rb:79:in `catch'
+  thin (1.5.0) lib/thin/connection.rb:79:in `pre_process'
+  thin (1.5.0) lib/thin/connection.rb:54:in `process'
+  thin (1.5.0) lib/thin/connection.rb:39:in `receive_data'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run_machine'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run'
+  thin (1.5.0) lib/thin/backends/base.rb:63:in `start'
+  thin (1.5.0) lib/thin/server.rb:159:in `start'
+  rack (1.4.5) lib/rack/handler/thin.rb:13:in `run'
+  rack (1.4.5) lib/rack/server.rb:268:in `start'
+  railties (3.2.12) lib/rails/commands/server.rb:70:in `start'
+  railties (3.2.12) lib/rails/commands.rb:55:in `block in <top (required)>'
+  railties (3.2.12) lib/rails/commands.rb:50:in `tap'
+  railties (3.2.12) lib/rails/commands.rb:50:in `<top (required)>'
+  script/rails:6:in `require'
+  script/rails:6:in `<main>'
+
+
+  Rendered /usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/images/feed_small_gray.png" for 127.0.0.1 at 2013-03-10 18:47:28 -0700
+
+ActionController::RoutingError (No route matches [GET] "/images/feed_small_gray.png"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  thin (1.5.0) lib/thin/connection.rb:81:in `block in pre_process'
+  thin (1.5.0) lib/thin/connection.rb:79:in `catch'
+  thin (1.5.0) lib/thin/connection.rb:79:in `pre_process'
+  thin (1.5.0) lib/thin/connection.rb:54:in `process'
+  thin (1.5.0) lib/thin/connection.rb:39:in `receive_data'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run_machine'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run'
+  thin (1.5.0) lib/thin/backends/base.rb:63:in `start'
+  thin (1.5.0) lib/thin/server.rb:159:in `start'
+  rack (1.4.5) lib/rack/handler/thin.rb:13:in `run'
+  rack (1.4.5) lib/rack/server.rb:268:in `start'
+  railties (3.2.12) lib/rails/commands/server.rb:70:in `start'
+  railties (3.2.12) lib/rails/commands.rb:55:in `block in <top (required)>'
+  railties (3.2.12) lib/rails/commands.rb:50:in `tap'
+  railties (3.2.12) lib/rails/commands.rb:50:in `<top (required)>'
+  script/rails:6:in `require'
+  script/rails:6:in `<main>'
+
+
+  Rendered /usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/assets/show_me-trans.png" for 127.0.0.1 at 2013-03-10 18:47:30 -0700
+Served asset /show_me-trans.png - 304 Not Modified (20ms)
+
+
+Started GET "/images/footer-left.png" for 127.0.0.1 at 2013-03-10 18:47:33 -0700
+
+ActionController::RoutingError (No route matches [GET] "/images/footer-left.png"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  thin (1.5.0) lib/thin/connection.rb:81:in `block in pre_process'
+  thin (1.5.0) lib/thin/connection.rb:79:in `catch'
+  thin (1.5.0) lib/thin/connection.rb:79:in `pre_process'
+  thin (1.5.0) lib/thin/connection.rb:54:in `process'
+  thin (1.5.0) lib/thin/connection.rb:39:in `receive_data'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run_machine'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run'
+  thin (1.5.0) lib/thin/backends/base.rb:63:in `start'
+  thin (1.5.0) lib/thin/server.rb:159:in `start'
+  rack (1.4.5) lib/rack/handler/thin.rb:13:in `run'
+  rack (1.4.5) lib/rack/server.rb:268:in `start'
+  railties (3.2.12) lib/rails/commands/server.rb:70:in `start'
+  railties (3.2.12) lib/rails/commands.rb:55:in `block in <top (required)>'
+  railties (3.2.12) lib/rails/commands.rb:50:in `tap'
+  railties (3.2.12) lib/rails/commands.rb:50:in `<top (required)>'
+  script/rails:6:in `require'
+  script/rails:6:in `<main>'
+
+
+  Rendered /usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/images/footer-right.png" for 127.0.0.1 at 2013-03-10 18:47:35 -0700
+
+ActionController::RoutingError (No route matches [GET] "/images/footer-right.png"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  thin (1.5.0) lib/thin/connection.rb:81:in `block in pre_process'
+  thin (1.5.0) lib/thin/connection.rb:79:in `catch'
+  thin (1.5.0) lib/thin/connection.rb:79:in `pre_process'
+  thin (1.5.0) lib/thin/connection.rb:54:in `process'
+  thin (1.5.0) lib/thin/connection.rb:39:in `receive_data'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run_machine'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run'
+  thin (1.5.0) lib/thin/backends/base.rb:63:in `start'
+  thin (1.5.0) lib/thin/server.rb:159:in `start'
+  rack (1.4.5) lib/rack/handler/thin.rb:13:in `run'
+  rack (1.4.5) lib/rack/server.rb:268:in `start'
+  railties (3.2.12) lib/rails/commands/server.rb:70:in `start'
+  railties (3.2.12) lib/rails/commands.rb:55:in `block in <top (required)>'
+  railties (3.2.12) lib/rails/commands.rb:50:in `tap'
+  railties (3.2.12) lib/rails/commands.rb:50:in `<top (required)>'
+  script/rails:6:in `require'
+  script/rails:6:in `<main>'
+
+
+  Rendered /usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/images/oc-logo.png" for 127.0.0.1 at 2013-03-10 18:47:46 -0700
+
+ActionController::RoutingError (No route matches [GET] "/images/oc-logo.png"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  thin (1.5.0) lib/thin/connection.rb:81:in `block in pre_process'
+  thin (1.5.0) lib/thin/connection.rb:79:in `catch'
+  thin (1.5.0) lib/thin/connection.rb:79:in `pre_process'
+  thin (1.5.0) lib/thin/connection.rb:54:in `process'
+  thin (1.5.0) lib/thin/connection.rb:39:in `receive_data'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run_machine'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run'
+  thin (1.5.0) lib/thin/backends/base.rb:63:in `start'
+  thin (1.5.0) lib/thin/server.rb:159:in `start'
+  rack (1.4.5) lib/rack/handler/thin.rb:13:in `run'
+  rack (1.4.5) lib/rack/server.rb:268:in `start'
+  railties (3.2.12) lib/rails/commands/server.rb:70:in `start'
+  railties (3.2.12) lib/rails/commands.rb:55:in `block in <top (required)>'
+  railties (3.2.12) lib/rails/commands.rb:50:in `tap'
+  railties (3.2.12) lib/rails/commands.rb:50:in `<top (required)>'
+  script/rails:6:in `require'
+  script/rails:6:in `<main>'
+
+
+  Rendered /usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/issues/index" for 127.0.0.1 at 2013-03-10 18:50:14 -0700
+Processing by IssuesController#index as HTML
+  Rendered shared/_notices.html.erb (0.3ms)
+  Rendered layouts/_user_nav.html.erb (2.8ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  [1m[36mArticle Load (1.4ms)[0m  [1mSELECT "articles".* FROM "articles" WHERE (frontpage = true) ORDER BY created_at DESC LIMIT 7[0m
+  Rendered articles/_frontpage.html.erb (0.2ms)
+  Rendered issues/index.html.erb within layouts/frontpage (72.5ms)
+  Rendered shared/_analytics_head.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (12.0ms)
+  Rendered layouts/_footer.html.erb (18.2ms)
+  Rendered shared/_analytics_foot.html.erb (0.1ms)
+Completed 200 OK in 207ms (Views: 205.4ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/assets/master.css?body=1" for 127.0.0.1 at 2013-03-10 18:50:17 -0700
+Served asset /master.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/throbber.gif" for 127.0.0.1 at 2013-03-10 18:50:19 -0700
+Served asset /throbber.gif - 304 Not Modified (1ms)
+
+
+Started GET "/assets/open-congress.png" for 127.0.0.1 at 2013-03-10 18:50:21 -0700
+Served asset /open-congress.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/spin.gif" for 127.0.0.1 at 2013-03-10 18:50:24 -0700
+Served asset /spin.gif - 304 Not Modified (1ms)
+
+
+Started GET "/assets/login.png" for 127.0.0.1 at 2013-03-10 18:50:26 -0700
+Served asset /login.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/search_submit.gif" for 127.0.0.1 at 2013-03-10 18:50:28 -0700
+Served asset /search_submit.gif - 304 Not Modified (1ms)
+
+
+Started GET "/assets/tool_arrow-trans.png" for 127.0.0.1 at 2013-03-10 18:50:31 -0700
+Served asset /tool_arrow-trans.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/show_me-trans.png" for 127.0.0.1 at 2013-03-10 18:50:33 -0700
+Served asset /show_me-trans.png - 304 Not Modified (2ms)
+
+
+Started GET "/issues/index" for 127.0.0.1 at 2013-03-10 18:56:49 -0700
+Processing by IssuesController#index as HTML
+  Rendered shared/_notices.html.erb (0.1ms)
+  Rendered layouts/_user_nav.html.erb (1.5ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  [1m[35mArticle Load (0.8ms)[0m  SELECT "articles".* FROM "articles" WHERE (frontpage = true) ORDER BY created_at DESC LIMIT 7
+  Rendered articles/_frontpage.html.erb (0.1ms)
+  Rendered issues/index.html.erb within layouts/frontpage (37.7ms)
+  Rendered shared/_analytics_head.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (9.1ms)
+  Rendered layouts/_footer.html.erb (10.4ms)
+  Rendered shared/_analytics_foot.html.erb (0.1ms)
+Completed 200 OK in 126ms (Views: 124.7ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/assets/master.css?body=1" for 127.0.0.1 at 2013-03-10 18:56:51 -0700
+Served asset /master.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/throbber.gif" for 127.0.0.1 at 2013-03-10 18:56:53 -0700
+Served asset /throbber.gif - 304 Not Modified (1ms)
+
+
+Started GET "/assets/ltc.png" for 127.0.0.1 at 2013-03-10 18:56:56 -0700
+Served asset /ltc.png - 200 OK (344ms)
+
+
+Started GET "/assets/spin.gif" for 127.0.0.1 at 2013-03-10 18:56:58 -0700
+Served asset /spin.gif - 304 Not Modified (1ms)
+
+
+Started GET "/assets/login.png" for 127.0.0.1 at 2013-03-10 18:57:00 -0700
+Served asset /login.png - 304 Not Modified (5ms)
+
+
+Started GET "/assets/search_submit.gif" for 127.0.0.1 at 2013-03-10 18:57:03 -0700
+Served asset /search_submit.gif - 304 Not Modified (2ms)
+
+
+Started GET "/assets/tool_arrow-trans.png" for 127.0.0.1 at 2013-03-10 18:57:05 -0700
+Served asset /tool_arrow-trans.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/show_me-trans.png" for 127.0.0.1 at 2013-03-10 18:57:07 -0700
+Served asset /show_me-trans.png - 304 Not Modified (1ms)
+
+
+Started GET "/issues/index" for 127.0.0.1 at 2013-03-10 19:00:51 -0700
+Processing by IssuesController#index as HTML
+  Rendered shared/_notices.html.erb (0.3ms)
+  Rendered layouts/_user_nav.html.erb (2.7ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  [1m[36mArticle Load (1.4ms)[0m  [1mSELECT "articles".* FROM "articles" WHERE (frontpage = true) ORDER BY created_at DESC LIMIT 7[0m
+  Rendered articles/_frontpage.html.erb (0.2ms)
+  Rendered issues/index.html.erb within layouts/frontpage (70.8ms)
+  Rendered shared/_analytics_head.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (13.6ms)
+  Rendered layouts/_footer.html.erb (83.7ms)
+  Rendered shared/_analytics_foot.html.erb (0.1ms)
+Completed 200 OK in 273ms (Views: 270.9ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/assets/master.css?body=1" for 127.0.0.1 at 2013-03-10 19:00:53 -0700
+Served asset /master.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/throbber.gif" for 127.0.0.1 at 2013-03-10 19:00:55 -0700
+Served asset /throbber.gif - 304 Not Modified (1ms)
+
+
+Started GET "/assets/assets/images/ltc.png" for 127.0.0.1 at 2013-03-10 19:00:57 -0700
+Served asset /assets/images/ltc.png - 404 Not Found (56ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/assets/images/ltc.png"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  thin (1.5.0) lib/thin/connection.rb:81:in `block in pre_process'
+  thin (1.5.0) lib/thin/connection.rb:79:in `catch'
+  thin (1.5.0) lib/thin/connection.rb:79:in `pre_process'
+  thin (1.5.0) lib/thin/connection.rb:54:in `process'
+  thin (1.5.0) lib/thin/connection.rb:39:in `receive_data'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run_machine'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run'
+  thin (1.5.0) lib/thin/backends/base.rb:63:in `start'
+  thin (1.5.0) lib/thin/server.rb:159:in `start'
+  rack (1.4.5) lib/rack/handler/thin.rb:13:in `run'
+  rack (1.4.5) lib/rack/server.rb:268:in `start'
+  railties (3.2.12) lib/rails/commands/server.rb:70:in `start'
+  railties (3.2.12) lib/rails/commands.rb:55:in `block in <top (required)>'
+  railties (3.2.12) lib/rails/commands.rb:50:in `tap'
+  railties (3.2.12) lib/rails/commands.rb:50:in `<top (required)>'
+  script/rails:6:in `require'
+  script/rails:6:in `<main>'
+
+
+  Rendered /usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/assets/spin.gif" for 127.0.0.1 at 2013-03-10 19:01:00 -0700
+Served asset /spin.gif - 304 Not Modified (2ms)
+
+
+Started GET "/assets/login.png" for 127.0.0.1 at 2013-03-10 19:01:02 -0700
+Served asset /login.png - 304 Not Modified (2ms)
+
+
+Started GET "/assets/search_submit.gif" for 127.0.0.1 at 2013-03-10 19:01:05 -0700
+Served asset /search_submit.gif - 304 Not Modified (1ms)
+
+
+Started GET "/assets/tool_arrow-trans.png" for 127.0.0.1 at 2013-03-10 19:01:07 -0700
+Served asset /tool_arrow-trans.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/show_me-trans.png" for 127.0.0.1 at 2013-03-10 19:01:09 -0700
+Served asset /show_me-trans.png - 304 Not Modified (1ms)
+
+
+Started GET "/issues/index" for 127.0.0.1 at 2013-03-10 19:08:23 -0700
+Processing by IssuesController#index as HTML
+  Rendered shared/_notices.html.erb (0.1ms)
+  Rendered layouts/_user_nav.html.erb (1.7ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  [1m[35mArticle Load (0.8ms)[0m  SELECT "articles".* FROM "articles" WHERE (frontpage = true) ORDER BY created_at DESC LIMIT 7
+  Rendered articles/_frontpage.html.erb (0.1ms)
+  Rendered issues/index.html.erb within layouts/frontpage (37.6ms)
+  Rendered shared/_analytics_head.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (6.4ms)
+  Rendered layouts/_footer.html.erb (10.6ms)
+  Rendered shared/_analytics_foot.html.erb (0.1ms)
+Completed 200 OK in 125ms (Views: 123.7ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/assets/master.css?body=1" for 127.0.0.1 at 2013-03-10 19:08:25 -0700
+Served asset /master.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/throbber.gif" for 127.0.0.1 at 2013-03-10 19:08:26 -0700
+Served asset /throbber.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/assets/images/ltc.png" for 127.0.0.1 at 2013-03-10 19:08:28 -0700
+Served asset /assets/images/ltc.png - 404 Not Found (17ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/assets/images/ltc.png"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  thin (1.5.0) lib/thin/connection.rb:81:in `block in pre_process'
+  thin (1.5.0) lib/thin/connection.rb:79:in `catch'
+  thin (1.5.0) lib/thin/connection.rb:79:in `pre_process'
+  thin (1.5.0) lib/thin/connection.rb:54:in `process'
+  thin (1.5.0) lib/thin/connection.rb:39:in `receive_data'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run_machine'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run'
+  thin (1.5.0) lib/thin/backends/base.rb:63:in `start'
+  thin (1.5.0) lib/thin/server.rb:159:in `start'
+  rack (1.4.5) lib/rack/handler/thin.rb:13:in `run'
+  rack (1.4.5) lib/rack/server.rb:268:in `start'
+  railties (3.2.12) lib/rails/commands/server.rb:70:in `start'
+  railties (3.2.12) lib/rails/commands.rb:55:in `block in <top (required)>'
+  railties (3.2.12) lib/rails/commands.rb:50:in `tap'
+  railties (3.2.12) lib/rails/commands.rb:50:in `<top (required)>'
+  script/rails:6:in `require'
+  script/rails:6:in `<main>'
+
+
+  Rendered /usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/assets/spin.gif" for 127.0.0.1 at 2013-03-10 19:08:29 -0700
+Served asset /spin.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/login.png" for 127.0.0.1 at 2013-03-10 19:08:31 -0700
+Served asset /login.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/search_submit.gif" for 127.0.0.1 at 2013-03-10 19:08:32 -0700
+Served asset /search_submit.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tool_arrow-trans.png" for 127.0.0.1 at 2013-03-10 19:08:34 -0700
+Served asset /tool_arrow-trans.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/show_me-trans.png" for 127.0.0.1 at 2013-03-10 19:08:35 -0700
+Served asset /show_me-trans.png - 304 Not Modified (0ms)
+
+
+Started GET "/issues/index" for 127.0.0.1 at 2013-03-10 20:32:33 -0700
+Processing by IssuesController#index as HTML
+  Rendered shared/_notices.html.erb (0.3ms)
+  Rendered layouts/_user_nav.html.erb (2.9ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  [1m[36mArticle Load (1.0ms)[0m  [1mSELECT "articles".* FROM "articles" WHERE (frontpage = true) ORDER BY created_at DESC LIMIT 7[0m
+  Rendered articles/_frontpage.html.erb (0.1ms)
+  Rendered issues/index.html.erb within layouts/frontpage (41.2ms)
+  Rendered shared/_analytics_head.html.erb (0.1ms)
+ERROR: compiling _app_views_layouts__header_html_erb__479754715_92689380 RAISED /media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:14: unknown regexp options - ltc
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:14: syntax error, unexpected tCONSTANT, expecting ')'
+...ltc.png', :alt => 'OpenCongress/images/body-bg.png -' );@out...
+...                               ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:14: syntax error, unexpected tUMINUS, expecting ')'
+...enCongress/images/body-bg.png -' );@output_buffer.append= ( ...
+...                               ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:14: unknown regexp option - h
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:14: syntax error, unexpected tINTEGER, expecting ')'
+...ut_buffer.safe_concat('</a></h1>
+...                               ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:18: syntax error, unexpected '<'
+		<span id="autocomplete-spin" style="display: none;">
+		 ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:18: syntax error, unexpected tIDENTIFIER, expecting ')'
+		<span id="autocomplete-spin" style="display: none;">
+		                                  ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:19: syntax error, unexpected tIDENTIFIER, expecting ')'
+...uffer.append= ( image_tag 'spin.gif', :alt => 'Working...' )...
+...                               ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:19: syntax error, unexpected tCONSTANT, expecting ')'
+...ag 'spin.gif', :alt => 'Working...' );@output_buffer.safe_co...
+...                               ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:23: unknown regexp options - lg
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:23: syntax error, unexpected tSTRING_BEG, expecting ')'
+			<form action="/login" method="post">
+			                     ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+			<form action="/login" method="post">
+			                                  ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:24: syntax error, unexpected tIDENTIFIER, expecting ')'
+				<input id="login_field" name="user[login]" size="10...
+				                      ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:24: syntax error, unexpected tIDENTIFIER, expecting ')'
+...put id="login_field" name="user[login]" size="10" type="text...
+...                               ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:24: syntax error, unexpected tSTRING_BEG, expecting ')'
+...login_field" name="user[login]" size="10" type="text" value=...
+...                               ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:24: syntax error, unexpected tINTEGER, expecting ')'
+...ld" name="user[login]" size="10" type="text" value="Your Use...
+...                               ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:24: syntax error, unexpected tIDENTIFIER, expecting ')'
+...er[login]" size="10" type="text" value="Your Username" onfoc...
+...                               ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:24: syntax error, unexpected tCONSTANT, expecting ')'
+...ze="10" type="text" value="Your Username" onfocus="if (this....
+...                               ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:24: syntax error, unexpected tIDENTIFIER, expecting ')'
+....value==this.defaultValue) this.value=\'\';" />
+...                               ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:24: syntax error, unexpected $undefined
+...this.defaultValue) this.value=\'\';" />
+...                               ^
+Function body:           def _app_views_layouts__header_html_erb__479754715_92689380(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "layouts/_header";_old_output_buffer = @output_buffer;header = local_assigns[:header];;@output_buffer = output_buffer || ActionView::OutputBuffer.new;@output_buffer.safe_concat('<div id="header" class="clearfix">
+
+	<div class="bar">
+		<p class="project">
+			A project of the <a href="http://participatorypolitics.org/" target="_blank">Participatory Politics Foundation</a> and the <a href="http://sunlightfoundation.com/" target="_blank">Sunlight Foundation</a>
+		</p>
+		
+		<div id="user_account">
+		
+		</div>	
+	</div>
+
+  
+	<h1><a class="logo" href="/" title="link to the home page">');@output_buffer.append= ( image_tag /images/ltc.png', :alt => 'OpenCongress/images/body-bg.png -' );@output_buffer.append= ( "#{@page_title_prefix} - " if @page_title_prefix );@output_buffer.append= ( truncate(@page_title, :length => 100) );@output_buffer.safe_concat(' ');@output_buffer.append= ( truncate(@head_title, :length => 90) if @head_title );@output_buffer.safe_concat('</a></h1>
+
+	<div class="right">
+
+		<span id="autocomplete-spin" style="display: none;">
+			');@output_buffer.append= ( image_tag 'spin.gif', :alt => 'Working...' );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('		</span>
+      
+		<div id="login" style="display:none;">
+			<form action="/login" method="post">
+				<input id="login_field" name="user[login]" size="10" type="text" value="Your Username" onfocus="if (this.value==this.defaultValue) this.value=\'\';" />
+				<input id="password_field" name="user[password]" size="10" type="password" value="Password" onfocus="if (this.value==this.defaultValue) this.value=\'\';" />
+				<input name="commit" type="image" src="');@output_buffer.append= ( image_path 'login.png' );@output_buffer.safe_concat('" value="Login" />
+			</form>
+												
+			<div class="login_options">
+			  <a href="/login">or Login with your OpenID</a> - 
+			  <a href="/account/forgot_password">Forgot Password?</a>
+			</div>
+		</div>
+		
+		<form action="/search/result" id="form-search" method="get">
+   	 	<div id="search">
+
+
+
+   				<div class="search">
+   					<label for="search-field">Search</label>
+   					<input name="q" id="search-field" type="text" value="');@output_buffer.append= ( @query.blank? ? '' : @query );@output_buffer.safe_concat('" />
+   					<input class="search_button" type="image" src="');@output_buffer.append= ( image_path 'search_submit.gif' );@output_buffer.safe_concat('" name="submit" id="search_submit" value="Search" />
+   				</div>
+
+   			<div id="search-autocomplete-choices" class="autocomplete"></div>
+   		</div>
+
+   		<script type="text/javascript">
+   		new Ajax.Autocompleter("search-field", "search-autocomplete-choices", "/search/autocomplete", {
+   		  paramName: "value", 
+   		  minChars: 3, 
+   		  indicator: \'autocomplete-spin\'
+   		});
+   		</script>
+		
+   	</div> 
+		
+   	<div class="tagline">
+		
+   		<p>A non-profit, non-partisan public resource</p>
+   		Everyone can be an insider. <a class="learn_it" href="/#pitch">Learn how</a>.	
+   	</div>
+
+      <div id="advanced" style="display: none;">
+
+      </div>
+
+</form>
+
+</div> <!-- // header -->
+
+
+
+
+<div id="nav" class="un">
+	<div class="left">
+		<div class="right">
+			<ul>
+				<li id="bill_nav">');@output_buffer.append= ( link_to '<span>Bills</span>' );@output_buffer.safe_concat('</li>
+				<li id="sens_nav">');@output_buffer.append= ( link_to '<span>Senators</span>' );@output_buffer.safe_concat('</li>
+				<li id="reps_nav">');@output_buffer.append= ( link_to '<span>Representatives</span>' );@output_buffer.safe_concat('</li>
+				<li id="vote_nav">');@output_buffer.append= ( link_to '<span>Votes</span>' );@output_buffer.safe_concat('</li>		
+				<li id="ishu_nav">');@output_buffer.append= ( link_to '<span>Issues</span>' );@output_buffer.safe_concat('</li>
+				<li id="comm_nav">');@output_buffer.append= ( link_to '<span>Committees</span>' );@output_buffer.safe_concat('</li>
+				<li id="muny_nav">');@output_buffer.append= ( link_to '<span>The Money Trail</span>' );@output_buffer.safe_concat('</li>
+				<li id="blog_nav" class="sub">');@output_buffer.append= ( link_to '<span>Blog</span>' );@output_buffer.safe_concat('</li>
+        <li id="groups_nav" class="sub">
+            <li>');@output_buffer.append= ( link_to "<span>Start a New Group</span>".html_safe, new_group_path );@output_buffer.safe_concat('</li>
+          </ul>
+        </li>
+				<li id="tool_nav" class="sub">		
+				');@output_buffer.append= ( link_to ('<span>Resources ' + image_tag('tool_arrow-trans.png', :alt => '&gt;') + '</span>').html_safe, tools_path );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('				<ul class="sub">
+  				<li id="wiki_nav">');@output_buffer.append= ( link_to '<span>Wiki</span>'  );@output_buffer.safe_concat('</li>		
+					<li id="compare_nav">');@output_buffer.append= ( link_to '<span>Vote Comparison</span>' );@output_buffer.safe_concat('</li> 
+					<li id="widget_nav"><a href="/widgets"><span>Site Widgets</span></a></li>
+					<li id="states_nav">');@output_buffer.append= ( link_to '<span>States</span>' );@output_buffer.safe_concat('</li>
+					<li id="howitworks_nav"><a href="/about/howtouse"><span>How-to Use OpenCongress</span></a></li>
+					<li id="twitter_nav"><a href="http://twitter.com/opencongress"><span>Follow Our Twitter</span></a></li>
+					<li id="allresources_nav">');@output_buffer.append= ( link_to '<span><strong>All Resources</strong></span>' );@output_buffer.safe_concat('</li>
+				</ul>
+				</li>
+
+				<!--<li id="battle_nav" class="sub">');@output_buffer.append= ( link_to '<span>Battle Royale</span>', :controller => 'battle_royale' );@output_buffer.safe_concat('</li> -->
+
+			</ul>
+		</div>
+	</div>
+</div>
+
+
+');@output_buffer.to_s
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: /usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_view/template.rb:297:in `module_eval'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_view/template.rb:297:in `compile'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_view/template.rb:244:in `block in compile!'
+<internal:prelude>:10:in `synchronize'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_view/template.rb:232:in `compile!'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_view/template.rb:144:in `block in render'
+/usr/lib/ruby/gems/1.9.1/gems/activesupport-3.2.12/lib/active_support/notifications.rb:125:in `instrument'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_view/template.rb:143:in `render'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_view/renderer/partial_renderer.rb:265:in `render_partial'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_view/renderer/partial_renderer.rb:238:in `block in render'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+/usr/lib/ruby/gems/1.9.1/gems/activesupport-3.2.12/lib/active_support/notifications.rb:123:in `block in instrument'
+/usr/lib/ruby/gems/1.9.1/gems/activesupport-3.2.12/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/usr/lib/ruby/gems/1.9.1/gems/activesupport-3.2.12/lib/active_support/notifications.rb:123:in `instrument'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_view/renderer/partial_renderer.rb:237:in `render'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_view/renderer/renderer.rb:41:in `render_partial'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_view/renderer/renderer.rb:15:in `render'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_view/helpers/rendering_helper.rb:24:in `render'
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/frontpage.html.erb:34:in `_app_views_layouts_frontpage_html_erb__209264803_93223480'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_view/template.rb:145:in `block in render'
+/usr/lib/ruby/gems/1.9.1/gems/activesupport-3.2.12/lib/active_support/notifications.rb:125:in `instrument'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_view/template.rb:143:in `render'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:59:in `render_with_layout'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:45:in `render_template'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:18:in `render'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_view/renderer/renderer.rb:36:in `render_template'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_view/renderer/renderer.rb:17:in `render'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/abstract_controller/rendering.rb:110:in `_render_template'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_controller/metal/streaming.rb:225:in `_render_template'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/abstract_controller/rendering.rb:103:in `render_to_body'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_controller/metal/renderers.rb:28:in `render_to_body'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_controller/metal/compatibility.rb:50:in `render_to_body'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/abstract_controller/rendering.rb:88:in `render'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_controller/metal/rendering.rb:16:in `render'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+/usr/lib/ruby/gems/1.9.1/gems/activesupport-3.2.12/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+/usr/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+/usr/lib/ruby/gems/1.9.1/gems/activesupport-3.2.12/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:83:in `cleanup_view_runtime'
+/usr/lib/ruby/gems/1.9.1/gems/activerecord-3.2.12/lib/active_record/railties/controller_runtime.rb:24:in `cleanup_view_runtime'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:39:in `render'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/abstract_controller/base.rb:167:in `process_action'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_controller/metal/rendering.rb:10:in `process_action'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+/usr/lib/ruby/gems/1.9.1/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:414:in `_run__86730195__process_action__159164710__callbacks'
+/usr/lib/ruby/gems/1.9.1/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+/usr/lib/ruby/gems/1.9.1/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+/usr/lib/ruby/gems/1.9.1/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/abstract_controller/callbacks.rb:17:in `process_action'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_controller/metal/rescue.rb:29:in `process_action'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+/usr/lib/ruby/gems/1.9.1/gems/activesupport-3.2.12/lib/active_support/notifications.rb:123:in `block in instrument'
+/usr/lib/ruby/gems/1.9.1/gems/activesupport-3.2.12/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/usr/lib/ruby/gems/1.9.1/gems/activesupport-3.2.12/lib/active_support/notifications.rb:123:in `instrument'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+/usr/lib/ruby/gems/1.9.1/gems/activerecord-3.2.12/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/abstract_controller/base.rb:121:in `process'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/abstract_controller/rendering.rb:45:in `process'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_controller/metal.rb:203:in `dispatch'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_controller/metal.rb:246:in `block in action'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:73:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:36:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/journey-1.0.4/lib/journey/router.rb:68:in `block in call'
+/usr/lib/ruby/gems/1.9.1/gems/journey-1.0.4/lib/journey/router.rb:56:in `each'
+/usr/lib/ruby/gems/1.9.1/gems/journey-1.0.4/lib/journey/router.rb:56:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:601:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/rack-1.4.5/lib/rack/etag.rb:23:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/rack-1.4.5/lib/rack/conditionalget.rb:25:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/head.rb:14:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/flash.rb:242:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/rack-1.4.5/lib/rack/session/abstract/id.rb:210:in `context'
+/usr/lib/ruby/gems/1.9.1/gems/rack-1.4.5/lib/rack/session/abstract/id.rb:205:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/cookies.rb:341:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/activerecord-3.2.12/lib/active_record/query_cache.rb:64:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/activerecord-3.2.12/lib/active_record/connection_adapters/abstract/connection_pool.rb:479:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+/usr/lib/ruby/gems/1.9.1/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `_run__670095221__call__601858283__callbacks'
+/usr/lib/ruby/gems/1.9.1/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+/usr/lib/ruby/gems/1.9.1/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+/usr/lib/ruby/gems/1.9.1/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/reloader.rb:65:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/railties-3.2.12/lib/rails/rack/logger.rb:32:in `call_app'
+/usr/lib/ruby/gems/1.9.1/gems/railties-3.2.12/lib/rails/rack/logger.rb:16:in `block in call'
+/usr/lib/ruby/gems/1.9.1/gems/activesupport-3.2.12/lib/active_support/tagged_logging.rb:22:in `tagged'
+/usr/lib/ruby/gems/1.9.1/gems/railties-3.2.12/lib/rails/rack/logger.rb:16:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/rack-1.4.5/lib/rack/methodoverride.rb:21:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/rack-1.4.5/lib/rack/runtime.rb:17:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/activesupport-3.2.12/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/rack-1.4.5/lib/rack/lock.rb:15:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/static.rb:62:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/railties-3.2.12/lib/rails/engine.rb:479:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/railties-3.2.12/lib/rails/application.rb:223:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/rack-1.4.5/lib/rack/content_length.rb:14:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/railties-3.2.12/lib/rails/rack/log_tailer.rb:17:in `call'
+/usr/lib/ruby/gems/1.9.1/gems/thin-1.5.0/lib/thin/connection.rb:81:in `block in pre_process'
+/usr/lib/ruby/gems/1.9.1/gems/thin-1.5.0/lib/thin/connection.rb:79:in `catch'
+/usr/lib/ruby/gems/1.9.1/gems/thin-1.5.0/lib/thin/connection.rb:79:in `pre_process'
+/usr/lib/ruby/gems/1.9.1/gems/thin-1.5.0/lib/thin/connection.rb:54:in `process'
+/usr/lib/ruby/gems/1.9.1/gems/thin-1.5.0/lib/thin/connection.rb:39:in `receive_data'
+/usr/lib/ruby/gems/1.9.1/gems/eventmachine-1.0.3/lib/eventmachine.rb:187:in `run_machine'
+/usr/lib/ruby/gems/1.9.1/gems/eventmachine-1.0.3/lib/eventmachine.rb:187:in `run'
+/usr/lib/ruby/gems/1.9.1/gems/thin-1.5.0/lib/thin/backends/base.rb:63:in `start'
+/usr/lib/ruby/gems/1.9.1/gems/thin-1.5.0/lib/thin/server.rb:159:in `start'
+/usr/lib/ruby/gems/1.9.1/gems/rack-1.4.5/lib/rack/handler/thin.rb:13:in `run'
+/usr/lib/ruby/gems/1.9.1/gems/rack-1.4.5/lib/rack/server.rb:268:in `start'
+/usr/lib/ruby/gems/1.9.1/gems/railties-3.2.12/lib/rails/commands/server.rb:70:in `start'
+/usr/lib/ruby/gems/1.9.1/gems/railties-3.2.12/lib/rails/commands.rb:55:in `block in <top (required)>'
+/usr/lib/ruby/gems/1.9.1/gems/railties-3.2.12/lib/rails/commands.rb:50:in `tap'
+/usr/lib/ruby/gems/1.9.1/gems/railties-3.2.12/lib/rails/commands.rb:50:in `<top (required)>'
+script/rails:6:in `require'
+script/rails:6:in `<main>'
+  Rendered layouts/_header.html.erb (103.7ms)
+Completed 500 Internal Server Error in 193ms
+
+ActionView::Template::Error (/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:14: unknown regexp options - ltc
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:14: syntax error, unexpected tCONSTANT, expecting ')'
+...ltc.png', :alt => 'OpenCongress/images/body-bg.png -' );@out...
+...                               ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:14: syntax error, unexpected tUMINUS, expecting ')'
+...enCongress/images/body-bg.png -' );@output_buffer.append= ( ...
+...                               ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:14: unknown regexp option - h
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:14: syntax error, unexpected tINTEGER, expecting ')'
+...ut_buffer.safe_concat('</a></h1>
+...                               ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:18: syntax error, unexpected '<'
+		<span id="autocomplete-spin" style="display: none;">
+		 ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:18: syntax error, unexpected tIDENTIFIER, expecting ')'
+		<span id="autocomplete-spin" style="display: none;">
+		                                  ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:19: syntax error, unexpected tIDENTIFIER, expecting ')'
+...uffer.append= ( image_tag 'spin.gif', :alt => 'Working...' )...
+...                               ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:19: syntax error, unexpected tCONSTANT, expecting ')'
+...ag 'spin.gif', :alt => 'Working...' );@output_buffer.safe_co...
+...                               ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:23: unknown regexp options - lg
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:23: syntax error, unexpected tSTRING_BEG, expecting ')'
+			<form action="/login" method="post">
+			                     ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:23: syntax error, unexpected tIDENTIFIER, expecting ')'
+			<form action="/login" method="post">
+			                                  ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:24: syntax error, unexpected tIDENTIFIER, expecting ')'
+				<input id="login_field" name="user[login]" size="10...
+				                      ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:24: syntax error, unexpected tIDENTIFIER, expecting ')'
+...put id="login_field" name="user[login]" size="10" type="text...
+...                               ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:24: syntax error, unexpected tSTRING_BEG, expecting ')'
+...login_field" name="user[login]" size="10" type="text" value=...
+...                               ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:24: syntax error, unexpected tINTEGER, expecting ')'
+...ld" name="user[login]" size="10" type="text" value="Your Use...
+...                               ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:24: syntax error, unexpected tIDENTIFIER, expecting ')'
+...er[login]" size="10" type="text" value="Your Username" onfoc...
+...                               ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:24: syntax error, unexpected tCONSTANT, expecting ')'
+...ze="10" type="text" value="Your Username" onfocus="if (this....
+...                               ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:24: syntax error, unexpected tIDENTIFIER, expecting ')'
+....value==this.defaultValue) this.value=\'\';" />
+...                               ^
+/media/My Passport/ruby/rails_projects/issues/app/views/layouts/_header.html.erb:24: syntax error, unexpected $undefined
+...this.defaultValue) this.value=\'\';" />
+...                               ^):
+    11: 	</div>
+    12: 
+    13:   
+    14: 	<h1><a class="logo" href="/" title="link to the home page"><%= image_tag /images/ltc.png', :alt => 'OpenCongress/images/body-bg.png -' %><%= "#{@page_title_prefix} - " if @page_title_prefix %><%= truncate(@page_title, :length => 100) %> <%= truncate(@head_title, :length => 90) if @head_title %></a></h1>
+    15: 
+    16: 	<div class="right">
+    17: 
+  app/views/layouts/frontpage.html.erb:34:in `_app_views_layouts_frontpage_html_erb__209264803_93223480'
+
+
+  Rendered /usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+  Rendered /usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.7ms)
+  Rendered /usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (20.8ms)
+
+
+Started GET "/issues/index" for 127.0.0.1 at 2013-03-10 20:33:12 -0700
+Processing by IssuesController#index as HTML
+  Rendered shared/_notices.html.erb (0.2ms)
+  Rendered layouts/_user_nav.html.erb (3.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  [1m[35mArticle Load (1.5ms)[0m  SELECT "articles".* FROM "articles" WHERE (frontpage = true) ORDER BY created_at DESC LIMIT 7
+  Rendered articles/_frontpage.html.erb (0.1ms)
+  Rendered issues/index.html.erb within layouts/frontpage (56.7ms)
+  Rendered shared/_analytics_head.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (15.8ms)
+  Rendered layouts/_footer.html.erb (15.9ms)
+  Rendered shared/_analytics_foot.html.erb (0.1ms)
+Completed 200 OK in 179ms (Views: 176.9ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/assets/master.css?body=1" for 127.0.0.1 at 2013-03-10 20:33:14 -0700
+Served asset /master.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/throbber.gif" for 127.0.0.1 at 2013-03-10 20:33:16 -0700
+Served asset /throbber.gif - 304 Not Modified (1ms)
+
+
+Started GET "/images/ltc.png" for 127.0.0.1 at 2013-03-10 20:33:18 -0700
+
+ActionController::RoutingError (No route matches [GET] "/images/ltc.png"):
+  actionpack (3.2.12) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.12) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.12) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.12) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.12) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.12) lib/action_dispatch/middleware/static.rb:62:in `call'
+  railties (3.2.12) lib/rails/engine.rb:479:in `call'
+  railties (3.2.12) lib/rails/application.rb:223:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.12) lib/rails/rack/log_tailer.rb:17:in `call'
+  thin (1.5.0) lib/thin/connection.rb:81:in `block in pre_process'
+  thin (1.5.0) lib/thin/connection.rb:79:in `catch'
+  thin (1.5.0) lib/thin/connection.rb:79:in `pre_process'
+  thin (1.5.0) lib/thin/connection.rb:54:in `process'
+  thin (1.5.0) lib/thin/connection.rb:39:in `receive_data'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run_machine'
+  eventmachine (1.0.3) lib/eventmachine.rb:187:in `run'
+  thin (1.5.0) lib/thin/backends/base.rb:63:in `start'
+  thin (1.5.0) lib/thin/server.rb:159:in `start'
+  rack (1.4.5) lib/rack/handler/thin.rb:13:in `run'
+  rack (1.4.5) lib/rack/server.rb:268:in `start'
+  railties (3.2.12) lib/rails/commands/server.rb:70:in `start'
+  railties (3.2.12) lib/rails/commands.rb:55:in `block in <top (required)>'
+  railties (3.2.12) lib/rails/commands.rb:50:in `tap'
+  railties (3.2.12) lib/rails/commands.rb:50:in `<top (required)>'
+  script/rails:6:in `require'
+  script/rails:6:in `<main>'
+
+
+  Rendered /usr/lib/ruby/gems/1.9.1/gems/actionpack-3.2.12/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/assets/spin.gif" for 127.0.0.1 at 2013-03-10 20:33:21 -0700
+Served asset /spin.gif - 304 Not Modified (2ms)
+
+
+Started GET "/assets/login.png" for 127.0.0.1 at 2013-03-10 20:33:23 -0700
+Served asset /login.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/search_submit.gif" for 127.0.0.1 at 2013-03-10 20:33:26 -0700
+Served asset /search_submit.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tool_arrow-trans.png" for 127.0.0.1 at 2013-03-10 20:33:28 -0700
+Served asset /tool_arrow-trans.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/show_me-trans.png" for 127.0.0.1 at 2013-03-10 20:33:30 -0700
+Served asset /show_me-trans.png - 304 Not Modified (0ms)
+
+
+Started GET "/issues/index" for 127.0.0.1 at 2013-03-10 20:33:51 -0700
+Processing by IssuesController#index as HTML
+  Rendered shared/_notices.html.erb (0.2ms)
+  Rendered layouts/_user_nav.html.erb (2.9ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  [1m[36mArticle Load (1.5ms)[0m  [1mSELECT "articles".* FROM "articles" WHERE (frontpage = true) ORDER BY created_at DESC LIMIT 7[0m
+  Rendered articles/_frontpage.html.erb (0.2ms)
+  Rendered issues/index.html.erb within layouts/frontpage (56.9ms)
+  Rendered shared/_analytics_head.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (16.5ms)
+  Rendered layouts/_footer.html.erb (12.6ms)
+  Rendered shared/_analytics_foot.html.erb (0.1ms)
+Completed 200 OK in 172ms (Views: 170.2ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/assets/master.css?body=1" for 127.0.0.1 at 2013-03-10 20:33:53 -0700
+Served asset /master.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/throbber.gif" for 127.0.0.1 at 2013-03-10 20:33:54 -0700
+Served asset /throbber.gif - 304 Not Modified (1ms)
+
+
+Started GET "/assets/spin.gif" for 127.0.0.1 at 2013-03-10 20:33:56 -0700
+Served asset /spin.gif - 304 Not Modified (1ms)
+
+
+Started GET "/assets/login.png" for 127.0.0.1 at 2013-03-10 20:33:58 -0700
+Served asset /login.png - 304 Not Modified (2ms)
+
+
+Started GET "/assets/search_submit.gif" for 127.0.0.1 at 2013-03-10 20:34:01 -0700
+Served asset /search_submit.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tool_arrow-trans.png" for 127.0.0.1 at 2013-03-10 20:34:03 -0700
+Served asset /tool_arrow-trans.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/show_me-trans.png" for 127.0.0.1 at 2013-03-10 20:34:06 -0700
+Served asset /show_me-trans.png - 304 Not Modified (1ms)
+
+
+Started GET "/issues/index" for 127.0.0.1 at 2013-03-10 20:34:24 -0700
+Processing by IssuesController#index as HTML
+  Rendered shared/_notices.html.erb (0.2ms)
+  Rendered layouts/_user_nav.html.erb (2.8ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  [1m[35mArticle Load (1.8ms)[0m  SELECT "articles".* FROM "articles" WHERE (frontpage = true) ORDER BY created_at DESC LIMIT 7
+  Rendered articles/_frontpage.html.erb (0.2ms)
+  Rendered issues/index.html.erb within layouts/frontpage (76.1ms)
+  Rendered shared/_analytics_head.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (84.1ms)
+  Rendered layouts/_footer.html.erb (12.9ms)
+  Rendered shared/_analytics_foot.html.erb (0.2ms)
+Completed 200 OK in 279ms (Views: 276.3ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/assets/master.css?body=1" for 127.0.0.1 at 2013-03-10 20:34:26 -0700
+Served asset /master.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/throbber.gif" for 127.0.0.1 at 2013-03-10 20:34:28 -0700
+Served asset /throbber.gif - 304 Not Modified (2ms)
+
+
+Started GET "/assets/spin.gif" for 127.0.0.1 at 2013-03-10 20:34:30 -0700
+Served asset /spin.gif - 304 Not Modified (1ms)
+
+
+Started GET "/assets/login.png" for 127.0.0.1 at 2013-03-10 20:34:33 -0700
+Served asset /login.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/search_submit.gif" for 127.0.0.1 at 2013-03-10 20:34:35 -0700
+Served asset /search_submit.gif - 304 Not Modified (1ms)
+
+
+Started GET "/assets/tool_arrow-trans.png" for 127.0.0.1 at 2013-03-10 20:34:37 -0700
+Served asset /tool_arrow-trans.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/show_me-trans.png" for 127.0.0.1 at 2013-03-10 20:34:40 -0700
+Served asset /show_me-trans.png - 304 Not Modified (0ms)
+
+
+Started GET "/issues/index" for 127.0.0.1 at 2013-03-10 20:35:25 -0700
+Processing by IssuesController#index as HTML
+  Rendered shared/_notices.html.erb (0.3ms)
+  Rendered layouts/_user_nav.html.erb (2.7ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  [1m[36mArticle Load (1.5ms)[0m  [1mSELECT "articles".* FROM "articles" WHERE (frontpage = true) ORDER BY created_at DESC LIMIT 7[0m
+  Rendered articles/_frontpage.html.erb (0.1ms)
+  Rendered issues/index.html.erb within layouts/frontpage (67.5ms)
+  Rendered shared/_analytics_head.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (11.9ms)
+  Rendered layouts/_footer.html.erb (16.8ms)
+  Rendered shared/_analytics_foot.html.erb (0.1ms)
+Completed 200 OK in 213ms (Views: 211.1ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/assets/master.css?body=1" for 127.0.0.1 at 2013-03-10 20:35:28 -0700
+Served asset /master.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/throbber.gif" for 127.0.0.1 at 2013-03-10 20:35:30 -0700
+Served asset /throbber.gif - 304 Not Modified (1ms)
+
+
+Started GET "/assets/spin.gif" for 127.0.0.1 at 2013-03-10 20:35:32 -0700
+Served asset /spin.gif - 304 Not Modified (1ms)
+
+
+Started GET "/assets/login.png" for 127.0.0.1 at 2013-03-10 20:35:34 -0700
+Served asset /login.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/search_submit.gif" for 127.0.0.1 at 2013-03-10 20:35:37 -0700
+Served asset /search_submit.gif - 304 Not Modified (1ms)
+
+
+Started GET "/assets/tool_arrow-trans.png" for 127.0.0.1 at 2013-03-10 20:35:39 -0700
+Served asset /tool_arrow-trans.png - 304 Not Modified (3ms)
+
+
+Started GET "/assets/show_me-trans.png" for 127.0.0.1 at 2013-03-10 20:35:42 -0700
+Served asset /show_me-trans.png - 304 Not Modified (1ms)
+
+
+Started GET "/issues/index" for 127.0.0.1 at 2013-03-10 20:41:28 -0700
+Processing by IssuesController#index as HTML
+  Rendered shared/_notices.html.erb (0.2ms)
+  Rendered layouts/_user_nav.html.erb (2.6ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  Rendered collection (0.0ms)
+  [1m[35mArticle Load (1.6ms)[0m  SELECT "articles".* FROM "articles" WHERE (frontpage = true) ORDER BY created_at DESC LIMIT 7
+  Rendered articles/_frontpage.html.erb (0.1ms)
+  Rendered issues/index.html.erb within layouts/frontpage (60.2ms)
+  Rendered shared/_analytics_head.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (11.0ms)
+  Rendered layouts/_footer.html.erb (9.7ms)
+  Rendered shared/_analytics_foot.html.erb (0.1ms)
+Completed 200 OK in 184ms (Views: 181.9ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/assets/master.css?body=1" for 127.0.0.1 at 2013-03-10 20:41:30 -0700
+Served asset /master.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/throbber.gif" for 127.0.0.1 at 2013-03-10 20:41:32 -0700
+Served asset /throbber.gif - 304 Not Modified (1ms)
+
+
+Started GET "/assets/ltc.png" for 127.0.0.1 at 2013-03-10 20:41:34 -0700
+Served asset /ltc.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/spin.gif" for 127.0.0.1 at 2013-03-10 20:41:36 -0700
+Served asset /spin.gif - 304 Not Modified (1ms)
+
+
+Started GET "/assets/login.png" for 127.0.0.1 at 2013-03-10 20:41:39 -0700
+Served asset /login.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/search_submit.gif" for 127.0.0.1 at 2013-03-10 20:41:41 -0700
+Served asset /search_submit.gif - 304 Not Modified (1ms)
+
+
+Started GET "/assets/tool_arrow-trans.png" for 127.0.0.1 at 2013-03-10 20:41:43 -0700
+Served asset /tool_arrow-trans.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/show_me-trans.png" for 127.0.0.1 at 2013-03-10 20:41:45 -0700
+Served asset /show_me-trans.png - 304 Not Modified (0ms)

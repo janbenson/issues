@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <%= render :partial => 'shared/analytics_head' %>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="content-script-type" content="text/javascript" />
+    <meta name="description" content="OpenCongress brings together official government data with news and blog coverage to give you the real story behind each bill." />
+    <% if @meta_keywords %>
+      <meta name="keywords" content="<%= @meta_keywords %>" />
+     <%= javascript_include_tag :defaults %>
+    <% end %>
+
+    <title>Longtermcare -  Long Term Care - All the news that fits  </title>
+  	<link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" href="/ltc.png" />
+
+    <%= csrf_meta_tag %>
+    <script type="text/javascript">
+     // Disable and pause carousel autoscrolling
+     function mycarousel_initCallback(a){a.buttonNext.bind("click",function(){a.startAuto(0)});a.buttonPrev.bind("click",
+     function(){a.startAuto(0)});a.clip.hover(function(){a.stopAuto()},function(){a.startAuto()})}$j(document).ready(function(){$j("#why_carousel").jcarousel({auto:5,wrap:"last",initCallback:mycarousel_initCallback})});
+    </script>
+  </head>
+  <%= stylesheet_link_tag "master"%>
+  
+  <body id="home">
+    <div style="display:none;" id="loading">
+      <div><%= image_tag 'throbber.gif', :border=> '0', :alt => 'Loading' %></div>
+    </div>
+
+  <div class="top_bar">
+    <div id="wrapper">
+  	  <%= render :partial => 'layouts/header' %>
+
+      <%= yield %>
+
+    </div>
+       <div class="clear">&nbsp;</div>
+  </div> <!-- // top bar -->
+      <%= render :partial => 'layouts/footer' %>
+      <%= render :partial => 'shared/analytics_foot' %>
+  </body>
+</html>

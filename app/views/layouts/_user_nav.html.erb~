@@ -1,0 +1,8 @@
+ <% if @logged_in %>
+     <%= link_to "My Profile", issues_path %>
+ <% end %>   
+ <li class="mypn_link"> <%= link_to "My Political Notebook", issues_path %></li>
+		<li class="watchdog_link"><%= link_to "Watchdog",issues_path %></li>
+		<li class="friends_link"><%= link_to "Friends",issues_path %></li>
+		<li class="actions_link"><%= link_to "Actions",issues_path %></li>   
+		<li class="tracked_link"><%= link_to "Tracked Items",issues_path %></li>

@@ -1,0 +1,17 @@
+<div class="tos">
+<p>
+OpenCongress has recently updated our official <a href="/about/terms_of_service">Terms of Service</a> and <a href="/about/privacy_policy">Privacy Policy</a>. Please review these policies and confirm you accept them before continuing.</p>
+
+<% form_tag '/account/accept_tos' do |f| %>
+
+<div title="Accept Terms of Service" id="accept_tos" class="form">
+  <%= error_messages_for 'user' %><br />
+ 		  <%= check_box_tag "accept_tos" %>
+ 		  <label for "accept_tos">I agree to the <a href="/about/terms_of_service">Terms of Service</a> and <a href="/about/privacy_policy">Privacy Policy</a>.
+	<br /><br />
+ 	<input type="image" src="<%= image_path 'agree.png' %>" value="submit" />
+</div>
+
+<% end %>
+
+</div>
