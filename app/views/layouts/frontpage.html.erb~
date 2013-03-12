@@ -22,7 +22,7 @@
      function(){a.startAuto(0)});a.clip.hover(function(){a.stopAuto()},function(){a.startAuto()})}$j(document).ready(function(){$j("#why_carousel").jcarousel({auto:5,wrap:"last",initCallback:mycarousel_initCallback})});
     </script>
   </head>
-  <%= stylesheet_link_tag "master"%>
+  <%= stylesheet_link_tag "master", "articles","api","home","classes","resources" %>
   
   <body id="home">
     <div style="display:none;" id="loading">

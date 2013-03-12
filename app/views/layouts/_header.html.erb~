@@ -2,7 +2,7 @@
 
 	<div class="bar">
 		<p class="project">
-			A project of the <a href="http://participatorypolitics.org/" target="_blank">Participatory Politics Foundation</a> and the <a href="http://sunlightfoundation.com/" target="_blank">Sunlight Foundation</a>
+			A project utilizing  <a href="http://sunlightfoundation.com/" target="_blank">Sunlight Foundation</a>
 		</p>
 		
 		<div id="user_account">
@@ -11,7 +11,7 @@
 	</div>
 
   
-	<h1><a class="logo" href="/" title="link to the home page"><%= image_tag 'open-congress.png', :alt => 'OpenCongress -' %><%= "#{@page_title_prefix} - " if @page_title_prefix %><%= truncate(@page_title, :length => 100) %> <%= truncate(@head_title, :length => 90) if @head_title %></a></h1>
+	<h1><a class="logo" href="/" title="link to the home page"><%= image_tag 'bg_ltc.png', :alt => 'issues/app/images/bg_ltc.png -' %><%= "#{@page_title_prefix} - " if @page_title_prefix %><%= truncate(@page_title, :length => 100) %> <%= truncate(@head_title, :length => 90) if @head_title %></a></h1>
 
 	<div class="right">
 
@@ -70,23 +70,20 @@
 
 </div> <!-- // header -->
 
-
-
-
 <div id="nav" class="un">
 	<div class="left">
 		<div class="right">
 			<ul>
-				<li id="bill_nav"><%= link_to '<span>Bills</span>' %></li>
-				<li id="sens_nav"><%= link_to '<span>Senators</span>' %></li>
-				<li id="reps_nav"><%= link_to '<span>Representatives</span>' %></li>
-				<li id="vote_nav"><%= link_to '<span>Votes</span>' %></li>		
-				<li id="ishu_nav"><%= link_to '<span>Issues</span>' %></li>
-				<li id="comm_nav"><%= link_to '<span>Committees</span>' %></li>
-				<li id="muny_nav"><%= link_to '<span>The Money Trail</span>' %></li>
-				<li id="blog_nav" class="sub"><%= link_to '<span>Blog</span>' %></li>
+				<li id="bill_nav"><%= link_to 'Health Care Bills' %></li>
+				<li id="sens_nav"><%= link_to 'Federal record ' %></li>
+				<li id="reps_nav"><%= link_to 'State record' %></li>
+				<li id="vote_nav"><%= link_to 'Media ' %></li>		
+				<li id="ishu_nav"><%= link_to 'Providers ' %></li>
+				<li id="comm_nav"><%= link_to 'Advocates' %></li>
+				<li id="muny_nav"><%= link_to 'The Money Trail' %></li>
+				<li id="blog_nav" class="sub"><%= link_to 'Blog' %></li>
         <li id="groups_nav" class="sub">
-            <li><%= link_to "<span>Start a New Group</span>".html_safe, new_group_path %></li>
+            <li><%= link_to "Groups".html_safe, new_group_path %></li>
           </ul>
         </li>
 				<li id="tool_nav" class="sub">		

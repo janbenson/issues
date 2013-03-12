@@ -5,7 +5,7 @@ defaults: &defaults
   twitter_consumer: xxx
   twitter_secret: xxx
   sunlightlabs_key: abd6701acbdd4acaac4781db70c455b0
-  maplight:  e5ab2775f9d10e9bbff3408d4873ae45
+  maplight: xxx
   wiki_pass: xxx
   wiki_key: xxx
   wiki_callback_key: xx

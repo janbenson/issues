@@ -12,7 +12,7 @@ margin-top: 13px;
 
 #heading{
 padding: 15px;
-background: url('../images/bill_heading_salmon.png') left top;
+background: url('../images/bill_heading_teal.png') left top;
 _background: url('../images/bill_heading_seagreen.gif') repeat left top;
 height: 45px !important; 
 border-bottom: 1px solid #abd1e2;
@@ -262,7 +262,7 @@ background-position: 0 -1px;
 line-height: 2.7em;
 border: 0;
 border-bottom: 1px solid #ccc;
-background: url(../images/issuesblog.gif) left bottom no-repeat;
+background: url(../images/blog_bg.jpg) left bottom no-repeat;
 }
 
 .congress_status h2 span{
@@ -321,7 +321,7 @@ padding: 0px 0 8px 0px;
 
 .small_heading{
 font-size: 12px;
-background: url(../images/issuesblog.gif) left bottom no-repeat;
+background: url(../images/cooldoor.jpg) left bottom no-repeat;
 clear: both;
 line-height: 2.5em;
 padding: 0 0 0 10px;
@@ -453,7 +453,7 @@ display: block;
 
 
 .top_area{
-background: url(../images/issuesblog.gif) left bottom no-repeat;
+background: url(../images/cooldoor.jpg) left bottom no-repeat;
 border-bottom: 1px solid #ccc;
 }
 

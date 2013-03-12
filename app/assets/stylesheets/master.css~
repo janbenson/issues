@@ -10,8 +10,8 @@
 
 
 body{
-	background:#f7f7ee url('../images/body-bg.png') repeat-x left top;
-	_background:#f7f7ee url('../images/body-bg.gif') repeat-x left top;
+	background:#f7f7ee url('../images/bg_ltc.png') repeat-x left top;
+	_background:#f7f7ee url('../images/bg_ltc.png') repeat-x left top;
 	padding: 0;
 	margin: 0;
 	color:#333;
@@ -87,7 +87,7 @@ h3{ font-size: 13px; }
 
 
 .top_bar{
-	background: url('../images/top_bar.png') center top no-repeat;
+	background: url('../images/top_bar1.png') center top no-repeat;
 	padding: 0;
 	margin: 0;
 	}  
@@ -97,7 +97,7 @@ h3{ font-size: 13px; }
 	position: absolute;
 	padding: 0px;
 z-index: 456782323;
-background: #fff url('../images/top_bar.png') -830px -32px no-repeat;
+background: #fff url('../images/top_bar1.png') -830px -32px no-repeat;
 	margin-left: -30px;
 	width: 315px;
 	}
@@ -161,11 +161,11 @@ a.logo{
 	padding-top:78px;
 	overflow: hidden;
 	height: 0;
-	background: url('../images/oc-logo.png') no-repeat 17px 6px;
+	background: url('../images/ltc_1.png') no-repeat 17px 6px;
 	}
 
 a.logo:hover{
-	background: url('../images/oc-logo.png') no-repeat 17px -100px;
+	background: url('../images/ltc_1.png') no-repeat 17px -100px;
 	}
 	
 	
@@ -5701,5 +5701,5 @@ border-radius:0px !important;
 	width: 257px;
 	padding-top:78px;
 	overflow: hidden;
-	background: url('../images/oc-logo.png') no-repeat 17px 6px;
+	background: url('../images/ltc_1.png') no-repeat 17px 6px;
 	}
