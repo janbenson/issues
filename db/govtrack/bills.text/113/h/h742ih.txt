@@ -1,0 +1,93 @@
+                                                                                                                                   I
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                          H. R. 742
+                                  To amend the Securities Exchange Act of 1934 and the Commodity Exchange
+                                      Act to repeal the indemnification requirements for regulatory authorities
+                                      to obtain access to swap data required to be provided by swaps entities
+                                      under such Acts.
+
+
+
+
+                                                IN THE HOUSE OF REPRESENTATIVES
+                                                                FEBRUARY 15, 2013
+                                  Mr. CRAWFORD (for himself, Ms. MOORE, Mr. SEAN PATRICK MALONEY of
+                                      New York, and Mr. HUIZENGA of Michigan) introduced the following bill;
+                                      which was referred to the Committee on Agriculture, and in addition to
+                                      the Committee on Financial Services, for a period to be subsequently de-
+                                      termined by the Speaker, in each case for consideration of such provisions
+                                      as fall within the jurisdiction of the committee concerned
+
+
+
+
+                                                                            A BILL
+                                  To amend the Securities Exchange Act of 1934 and the
+                                     Commodity Exchange Act to repeal the indemnification
+                                     requirements for regulatory authorities to obtain access
+                                     to swap data required to be provided by swaps entities
+                                     under such Acts.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+
+
+
+
+
+                                    1     SECTION 1. SHORT TITLE.                            2
+                                    2              This Act may be cited as the ‘‘Swap Data Repository
+                                    3 and Clearinghouse Indemnification Correction Act of
+                                    4 2013’’.
+                                    5     SEC. 2. REPEAL OF INDEMNIFICATION REQUIREMENTS.
+
+                                    6              (a) DERIVATIVES CLEARING ORGANIZATIONS.—Sec-
+                                    7 tion 5b(k)(5) of the Commodity Exchange Act (7 U.S.C.
+                                    8 7a–1(k)(5)) is amended to read as follows:
+                                    9                        ‘‘(5) CONFIDENTIALITY                           AGREEMENT.—Before
+                                  10               the Commission may share information with any en-
+                                  11               tity described in paragraph (4), the Commission
+                                  12               shall receive a written agreement from each entity
+                                  13               stating that the entity shall abide by the confiden-
+                                  14               tiality requirements described in section 8 relating to
+                                  15               the information on swap transactions that is pro-
+                                  16               vided.’’.
+                                  17               (b) SWAP DATA REPOSITORIES.—Section 21(d) of
+                                  18 the Commodity Exchange Act (7 U.S.C. 24a(d)) is amend-
+                                  19 ed to read as follows:
+                                  20               ‘‘(d) CONFIDENTIALITY AGREEMENT.—Before the
+                                  21 swap data repository may share information with any enti-
+                                  22 ty described in subsection (c)(7), the swap data repository
+                                  23 shall receive a written agreement from each entity stating
+                                  24 that the entity shall abide by the confidentiality require-
+
+
+
+
+                                  25 ments described in section 8 relating to the information
+                                  26 on swap transactions that is provided.’’.
+                                              •HR 742 IH
+
+                                                                                             3
+                                    1              (c) SECURITY-BASED SWAP DATA REPOSITORIES.—
+                                    2 Section 13(n)(5)(H) of the Securities Exchange Act of
+                                    3 1934 (15 U.S.C. 78m(n)(5)(H)) is amended to read as
+                                    4 follows:
+                                    5                                 ‘‘(H) CONFIDENTIALITY                                 AGREEMENT.—
+                                    6                        Before the security-based swap data repository
+                                    7                        may share information with any entity de-
+                                    8                        scribed in subparagraph (G), the security-based
+                                    9                        swap data repository shall receive a written
+                                  10                         agreement from each entity stating that the en-
+                                  11                         tity shall abide by the confidentiality require-
+                                  12                         ments described in section 24 relating to the in-
+                                  13                         formation on security-based swap transactions
+                                  14                         that is provided.’’.
+                                  15               (d) EFFECTIVE DATE.—The amendments made by
+                                  16 this Act shall take effect as if enacted as part of the Dodd-
+                                  17 Frank Wall Street Reform and Consumer Protection Act
+                                  18 (Public Law 111–203) on July 21, 2010.
+                                              •HR 742 IH                                   Æ

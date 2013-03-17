@@ -1,0 +1,59 @@
+<bill session="113" type="h" number="822" updated="2013-03-12T04:45:49-04:00">
+  <state datetime="2013-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-26"/>
+  </status>
+  <introduced datetime="2013-02-26"/>
+  <titles>
+    <title as="introduced" type="short">Teaching Geography is Fundamental Act</title>
+    <title as="introduced" type="official">To improve and expand geographic literacy among kindergarten through grade 12 students in the United States by improving professional development programs for kindergarten through grade 12 teachers offered through institutions of higher education.</title>
+  </titles>
+  <sponsor id="400415"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2013-03-11"/>
+    <cosponsor id="400033" joined="2013-03-11"/>
+    <cosponsor id="400074" joined="2013-03-04"/>
+    <cosponsor id="400077" joined="2013-03-11"/>
+    <cosponsor id="412272" joined="2013-03-04"/>
+    <cosponsor id="400116" joined="2013-03-04"/>
+    <cosponsor id="412215" joined="2013-03-11"/>
+    <cosponsor id="400160" joined="2013-03-11"/>
+    <cosponsor id="412282" joined="2013-03-04"/>
+    <cosponsor id="412293" joined="2013-03-11"/>
+    <cosponsor id="400259" joined="2013-03-04"/>
+    <cosponsor id="400263" joined="2013-03-04"/>
+    <cosponsor id="400274" joined="2013-03-11"/>
+    <cosponsor id="400283" joined="2013-03-04"/>
+    <cosponsor id="400318" joined="2013-02-26"/>
+    <cosponsor id="400364" joined="2013-03-11"/>
+    <cosponsor id="412396" joined="2013-03-04"/>
+    <cosponsor id="412319" joined="2013-03-04"/>
+    <cosponsor id="412214" joined="2013-02-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-26">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="370"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Area studies and international education"/>
+    <term name="Earth sciences"/>
+    <term name="Education programs funding"/>
+    <term name="Educational technology and distance education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Geography"/>
+    <term name="Higher education"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2013--Introduced.
+Teaching Geography is Fundamental Act - Amends the Higher Education Act of 1965 to establish a geography education grant program under title II (Teacher Quality Enhancement). Authorizes the Secretary of Education to award a grant to a national nonprofit educational organization or consortium, with 75% to be used for matching subgrants to institutions of higher education associated with state geographic alliances, nonprofit educational organizations, or state or local educational agencies. Requires program participants to use their grants and subgrants to enhance the geographic literacy of students in kindergarten through grade 12 by supporting specified activities, including: (1) educational research; (2) teacher training; (3) the development of effective teaching tools and learning materials; (4) the application of rigorous academic standards and assessment techniques; (5) comparative studies of world cultures, economies, and environments; and (6) the exchange of information regarding the state of geographic literacy and strategies for its improvement.</summary>
+</bill>

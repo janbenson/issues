@@ -1,0 +1,280 @@
+                                                                                                                                   I
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                          H. R. 691
+                                  To require the Secretary of Labor to issue an interim occupational safety
+                                      and health standard regarding worker exposure to combustible dust,
+                                      and for other purposes.
+
+
+
+
+                                                IN THE HOUSE OF REPRESENTATIVES
+                                                            FEBRUARY 14, 2013
+                                  Mr. GEORGE MILLER of California (for himself, Mr. BARROW of Georgia, and
+                                      Mr. COURTNEY) introduced the following bill; which was referred to the
+                                      Committee on Education and the Workforce
+
+
+
+
+                                                                            A BILL
+                                  To require the Secretary of Labor to issue an interim occupa-
+                                      tional safety and health standard regarding worker expo-
+                                      sure to combustible dust, and for other purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Worker Protection
+                                    5 Against Combustible Dust Explosions and Fires Act of
+                                    6 2013’’.
+                                    7     SEC. 2. FINDINGS.
+                                    8              Congress finds the following:
+
+
+
+                                                                                             2
+                                    1                        (1) An emergency exists concerning worker ex-
+                                    2              posure to combustible dust explosions and fires, and
+                                    3              there is a significant risk of death or severe injury
+                                    4              to workers employed at facilities where combustible
+                                    5              dusts are present.
+                                    6                        (2) Following 3 catastrophic dust explosions
+                                    7              that killed 14 workers in 2003, the Chemical Safety
+                                    8              and Hazard Investigation Board (CSB) issued a re-
+                                    9              port in November 2006, which identified 281 com-
+                                  10               bustible dust incidents between 1980 and 2005 that
+                                  11               killed 119 workers and injured 718. The CSB con-
+                                  12               cluded that ‘‘combustible dust explosions are a seri-
+                                  13               ous hazard in American industry’’. A quarter of the
+                                  14               explosions occurred at food industry facilities, in-
+                                  15               cluding sugar plants.
+                                  16                         (3) In November 2006, the CSB recommended
+                                  17               that the Occupational Safety and Health Adminis-
+                                  18               tration (OSHA) issue a standard designed to pre-
+                                  19               vent combustible dust fires and explosions in general
+                                  20               industry, based on current National Fire Protection
+                                  21               Association (NFPA) dust explosion standards.
+                                  22                         (4) Fourteen workers were killed and more than
+                                  23               38 seriously injured in a catastrophic combustible
+
+
+
+
+                                  24               dust explosion at Imperial Sugar in Port Wentworth,
+                                  25               Georgia on February 7, 2008.
+
+
+                                              •HR 691 IH
+
+                                                                                             3
+                                    1                        (5) An investigation by the CSB found that the
+                                    2              explosion at Imperial Sugar was fueled by a massive
+                                    3              accumulation of sugar dust throughout the pack-
+                                    4              aging building, triggering a series of secondary ex-
+                                    5              plosions throughout the factory.
+                                    6                        (6) The CSB’s final report of September 24,
+                                    7              2009, regarding the Imperial Sugar Refinery explo-
+                                    8              sion reiterated its previous recommendation from
+                                    9              November 2006 that OSHA proceed expeditiously
+                                  10               ‘‘to promulgate a comprehensive standard to reduce
+                                  11               or eliminate hazards from fire and explosion from
+                                  12               combustible powders and dust’’.
+                                  13                         (7) Combustible dust explosions and fires con-
+                                  14               tinue to injure workers and cause property damage.
+                                  15               In the 5 years since the February 7, 2008, explosion
+                                  16               at Imperial Sugar, there have been 50 additional
+                                  17               combustible dust explosions or fires resulting in 15
+                                  18               deaths and 127 injuries to workers through Feb-
+                                  19               ruary 7, 2013, according to estimates released by
+                                  20               the Chemical Safety Board.
+                                  21                         (8) On October 21, 2009, OSHA issued an ad-
+                                  22               vance notice of proposed rulemaking in response to
+                                  23               the CSB’s recommendation; however, a final rule
+
+
+
+
+                                  24               will take at least 4 more years, during which it is
+                                              •HR 691 IH
+
+                                                                                             4
+                                    1              foreseeable that additional workers will be seriously
+                                    2              injured or killed.
+                                    3                        (9) OSHA issued a grain handling facilities
+                                    4              standard (29 C.F.R. 1910.272) in 1987 that has
+                                    5              proven highly effective in reducing the risk of com-
+                                    6              bustible grain dust explosions, according to an
+                                    7              OSHA evaluation.
+                                    8                        (10) No OSHA standard comprehensively ad-
+                                    9              dresses combustible dust explosion hazards in gen-
+                                  10               eral industry.
+                                  11                         (11) Voluntary NFPA standards exist that,
+                                  12               when implemented, effectively reduce the likelihood
+                                  13               and impact of combustible dust explosions. In par-
+                                  14               ticular—
+                                  15                                  (A) certain requirements currently apply to
+                                  16                         existing establishments, which NFPA refers to
+                                  17                         as a ‘‘retroactive’’ application, and include haz-
+                                  18                         ard assessment, housekeeping, control of static
+                                  19                         electricity, control of open flames and sparks,
+                                  20                         use of certain tools, employee training, and re-
+                                  21                         quirements for inspection and maintenance of
+                                  22                         equipment;
+                                  23                                  (B) other requirements include conven-
+
+
+
+
+                                  24                         tional ignition source control and dust emission
+                                  25                         control technologies, such as ventilation systems
+
+
+                                              •HR 691 IH
+
+                                                                                             5
+                                    1                        that capture fugitive dust, and enclosure of
+                                    2                        dust generating processes;
+                                    3                                 (C) many employers currently implement
+                                    4                        such requirements from NFPA standards to ad-
+                                    5                        dress combustible dust hazards in the work-
+                                    6                        place; and
+                                    7                                 (D) many employers maintain written com-
+                                    8                        bustible dust safety programs and involve em-
+                                    9                        ployees in implementing the program, which are
+                                  10                         important aspects of a comprehensive combus-
+                                  11                         tible dust hazard control system.
+                                  12                         (12) Implementation of such means of hazard
+                                  13               control is both technologically and economically fea-
+                                  14               sible and would substantially reduce risks related to
+                                  15               combustible dust fires and explosions to workers.
+                                  16      SEC. 3. ISSUANCE OF INTERIM STANDARD ON COMBUS-
+                                  17                              TIBLE DUST.
+                                  18               (a) APPLICATION AND RULEMAKING.—Not later than
+                                  19 1 year after the date of enactment of this Act, the Sec-
+                                  20 retary of Labor shall promulgate an interim final standard
+                                  21 regulating occupational exposure to combustible dust haz-
+                                  22 ards. The interim final standard shall, at a minimum,
+                                  23 apply to manufacturing, processing, blending, conveying,
+
+
+
+
+                                  24 repackaging, and handling of combustible particulate sol-
+                                  25 ids and their dusts, including organic dusts (such as
+
+
+                                              •HR 691 IH
+
+                                                                                             6
+                                    1 sugar, candy, paper, soap, and dried blood), plastics, sul-
+                                    2 fur, wood, rubber, furniture, textiles, pesticides, pharma-
+                                    3 ceuticals, fibers, dyes, coal, metals (such as aluminum,
+                                    4 chromium, iron, magnesium, and zinc), fossil fuels, and
+                                    5 others determined by the Secretary, but shall not apply
+                                    6 to processes already covered by the occupational safety
+                                    7 and health standard on grain facilities contained in section
+                                    8 1910.272 of title 29, Code of Federal Regulations.
+                                    9              (b) APPLICATION.—The interim final standard re-
+                                  10 quired under this section shall be based on those portions
+                                  11 of the National Fire Protection Association Standards in
+                                  12 effect on the date of enactment of this Act that—
+                                  13                         (1) apply to existing facilities; or
+                                  14                         (2) call for source and dust emission control
+                                  15               technologies, such as ventilation systems that cap-
+                                  16               ture fugitive dust, and enclosure of dust generating
+                                  17               processes.
+                                  18               (c) REQUIREMENTS.—The interim final standard re-
+                                  19 quired under this section shall include the following ele-
+                                  20 ments:
+                                  21                         (1) Requirements for hazard assessment to
+                                  22               identify, evaluate, and control combustible dust haz-
+                                  23               ards.
+
+
+
+
+
+                                  24                         (2) Requirements for a written program that
+                                  25               includes provisions for hazardous dust inspection,
+
+
+                                              •HR 691 IH
+
+                                                                                             7
+                                    1              testing, hot work, ignition control, and house-
+                                    2              keeping, including the frequency and method or
+                                    3              methods used to minimize accumulations of combus-
+                                    4              tible dust on ledges, floors, equipment, and other ex-
+                                    5              posed surfaces.
+                                    6                        (3) Requirements for engineering controls, ad-
+                                    7              ministrative controls, and operating procedures, in-
+                                    8              cluding means to control fugitive dust emissions and
+                                    9              ignition sources, and the safe use and maintenance
+                                  10               of process equipment and dust collection systems
+                                  11               and filters.
+                                  12                         (4) Requirements for workplace inspection and
+                                  13               housekeeping to prevent accumulation of combustible
+                                  14               dust in places of employment in such depths that it
+                                  15               can present explosion, deflagration, or other fire
+                                  16               hazards, including safe methods of dust removal.
+                                  17                         (5) Requirements for participation of employees
+                                  18               and their representatives in hazard assessment, de-
+                                  19               velopment of and compliance with the written pro-
+                                  20               gram, incident investigation, and other elements of
+                                  21               hazard management.
+                                  22                         (6) Requirements to provide written safety and
+                                  23               health information and annual training to managers
+
+
+
+
+                                  24               and employees and their representatives, including
+                                  25               housekeeping procedures, hot work procedures, pre-
+
+
+                                              •HR 691 IH
+
+                                                                                             8
+                                    1              ventive, predictive, and periodic maintenance proce-
+                                    2              dures, common ignition sources, and lock-out, tag-
+                                    3              out procedures.
+                                    4              (d) APPLICABILITY                         OF     OTHER STATUTORY RE-
+                                    5     QUIREMENTS.—The                         requirements applicable to occupa-
+                                    6 tional safety and health standards under section 6(b) of
+                                    7 the Occupational Safety and Health Act of 1970 (29
+                                    8 U.S.C. 655(b)), the requirements of chapters 5 and 6 of
+                                    9 title 5, United States Code, and titles 2 and 42, United
+                                  10 States Code, shall not apply to the issuance of the interim
+                                  11 final standard required under this section.
+                                  12               (e) EFFECTIVE DATE                        OF INTERIM              STANDARD.—The
+                                  13 interim final standard shall take effect 30 days after
+                                  14 issuance, except that such standard may include a reason-
+                                  15 able phase-in period for implementation of required engi-
+                                  16 neering controls. The interim final standard shall have the
+                                  17 legal effect of an occupational safety and health standard,
+                                  18 and shall apply until a final standard becomes effective
+                                  19 under section 6 of the Occupational Safety and Health Act
+                                  20 (29 U.S.C. 655).
+                                  21      SEC. 4. FINAL STANDARD ON COMBUSTIBLE DUST.
+                                  22               Not later than 18 months after the date on which
+                                  23 the interim final standard is issued under section 3, the
+
+
+
+
+                                  24 Secretary of Labor shall, pursuant to section 6 of the Oc-
+                                  25 cupational Safety and Health Act (29 U.S.C. 655), issue
+
+
+                                              •HR 691 IH
+
+                                                                                             9
+                                    1 a proposed rule for regulating combustible dust explosions
+                                    2 that includes the major elements contained in the interim
+                                    3 final standard issued under section 3, and shall issue a
+                                    4 final rule 3 years after the issuance of a proposed rule.
+                                              •HR 691 IH                                   Æ

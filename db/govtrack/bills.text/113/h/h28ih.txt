@@ -1,0 +1,194 @@
+                                                                                                                                                             I
+
+
+
+
+                                                              113TH CONGRESS
+                                                                 1ST SESSION                             H. R. 28
+                                                              To amend the Small Business Act to provide loan guarantees for the acquisi-
+                                                                  tion of health information technology by eligible professionals in solo
+                                                                  and small group practices, and for other purposes.
+
+
+
+
+                                                                            IN THE HOUSE OF REPRESENTATIVES
+                                                                           ´                         JANUARY 3, 2013
+                                                                    Ms. VELAZQUEZ            introduced the following bill; which was referred to the
+                                                                                                 Committee on Small Business
+
+
+
+
+                                                                                                        A BILL
+                                                              To amend the Small Business Act to provide loan guarantees
+                                                                  for the acquisition of health information technology by
+                                                                  eligible professionals in solo and small group practices,
+                                                                  and for other purposes.
+                                                                1               Be it enacted by the Senate and House of Representa-
+                                                                2 tives of the United States of America in Congress assembled,
+                                                                3     SECTION 1. SHORT TITLE.
+                                                                4               This Act may be cited as the ‘‘Working Families’ Ac-
+jbell on DSK7SPTVN1PROD with                                    5 cess to Health Innovations Act of 2013’’.
+                                                                1     SEC. 2. AMENDMENT OF SMALL BUSINESS ACT.           2
+                                                                2               The Small Business Act is amended by redesignating
+                                                                3 section 45 as section 46 and by inserting after section 44
+                                                                4 the following:
+                                                                5     ‘‘SEC. 45. LOAN GUARANTEES FOR HEALTH INFORMATION
+                                                                6                             TECHNOLOGY.
+                                                                7               ‘‘(a) DEFINITIONS.—As used in this section:
+                                                                8                        ‘‘(1) The term ‘health information technology’
+                                                                9               means computer hardware, software, and related
+                                                              10                technology (including electronic medical record tech-
+                                                              11                nology) that—
+                                                              12                                  ‘‘(A) supports the compliance with the
+                                                              13                         meaningful EHR use requirements set forth in
+                                                              14                         section 1848(o)(2)(A) of the Social Security Act
+                                                              15                         (42 U.S.C. 1395w–4(o)(2)(A));
+                                                              16                                  ‘‘(B) is purchased by an eligible profes-
+                                                              17                         sional to aid in the provision of health care in
+                                                              18                         a health care setting; and
+                                                              19                                  ‘‘(C) provides for—
+                                                              20                                          ‘‘(i) enhancement of continuity of care
+                                                              21                                  for patients through electronic storage,
+                                                              22                                  transmission, and exchange of relevant
+                                                              23                                  personal health data and information, such
+                                                              24                                  that this information is accessible at the
+jbell on DSK7SPTVN1PROD with                                  25                                  times and places where clinical decisions
+                                                              26                                  will be or are likely to be made;
+                                                                           •HR 28 IH
+
+                                                                                                                         3
+                                                                1                                         ‘‘(ii) enhancement of communication
+                                                                2                                 between patients and health care providers;
+                                                                3                                         ‘‘(iii) improvement of quality measure-
+                                                                4                                 ment by eligible professionals enabling
+                                                                5                                 them to collect, store, measure, and report
+                                                                6                                 on the processes and outcomes of indi-
+                                                                7                                 vidual and population performance and
+                                                                8                                 quality of care;
+                                                                9                                         ‘‘(iv) improvement of evidence-based
+                                                              10                                  decision support; or
+                                                              11                                          ‘‘(v) enhancement of consumer and
+                                                              12                                  patient empowerment.
+                                                              13                Such term does not include information technology
+                                                              14                the sole use of which is financial management, main-
+                                                              15                tenance of inventory of basic supplies, or appoint-
+                                                              16                ment scheduling.
+                                                              17                         ‘‘(2) The term ‘eligible professional’ means any
+                                                              18                of the following:
+                                                              19                                  ‘‘(A) A physician (as defined in section
+                                                              20                         1861(r) of the Social Security Act (42 U.S.C.
+                                                              21                         1395x(r))).
+                                                              22                                  ‘‘(B) A practitioner described in section
+                                                              23                         1842(b)(18)(C)                      of      such      Act           (42   U.S.C.
+                                                              24                         1395u(b)(18)(C)).
+jbell on DSK7SPTVN1PROD with
+
+
+
+
+                                                                           •HR 28 IH
+
+                                                                                                                         4
+                                                                1                                 ‘‘(C) A physical or occupational therapist
+                                                                2                        or a qualified speech-language pathologist.
+                                                                3                                 ‘‘(D) A qualified audiologist (as defined in
+                                                                4                        section 1861(ll)(4)(B) of such Act (42 U.S.C.
+                                                                5                        1395x(ll)(4)(B))).
+                                                                6                                 ‘‘(E) A State-licensed pharmacist.
+                                                                7                                 ‘‘(F) A State-licensed supplier of durable
+                                                                8                        medical equipment, prosthetics, orthotics, or
+                                                              109                        supplies.‘‘(G) A State-licensed, a State-certified, or
+                                                              11                         a nationally accredited home health care pro-
+                                                              12                         vider.
+                                                              13                         ‘‘(3) The term ‘qualified eligible professional’
+                                                              14                means an eligible professional whose practice—
+                                                              15                                  ‘‘(A) is a small business concern; and
+                                                              16                                  ‘‘(B)(i) is in a medically underserved com-
+                                                              17                         munity (as defined in section 799B(6) of the
+                                                              18                         Public          Health              Service          Act            (42   U.S.C.
+                                                              19                         295p(6)));
+                                                              20                                  ‘‘(ii) serves individuals at least 50 percent
+                                                              21                         of whom are entitled to benefits or enrolled
+                                                              22                         under title XVIII of the Social Security Act; or
+                                                              23                                  ‘‘(iii) serves an area that consists predomi-
+jbell on DSK7SPTVN1PROD with                                  24                         nantly of low-income families (as defined in sec-
+                                                                           •HR 28 IH
+
+                                                                                                                         5
+                                                                1                        tion 3 of the United States Housing Act of
+                                                                2                        1937 (42 U.S.C. 1437a)).
+                                                                3               ‘‘(b) LOAN GUARANTEES                           FOR      QUALIFIED ELIGIBLE
+                                                                4 PROFESSIONALS.—
+                                                                5                        ‘‘(1) GUARANTEE                      PERCENTAGE.—Subject            to
+                                                                6               paragraph (2), the Administrator may guarantee up
+                                                                7               to 90 percent of the amount of the loan made to a
+                                                                8               qualified eligible professional for the acquisition of
+                                                                9               health information technology for use in such eligible
+                                                              10                professional’s medical practice and for the costs as-
+                                                              11                sociated with the installation of such technology.
+                                                              12                         ‘‘(2) LIMITATIONS                   ON GUARANTEE AMOUNTS.—
+                                                              13                The maximum amount of loan principal guaranteed
+                                                              14                under this subsection may not exceed—
+                                                              15                                  ‘‘(A) $350,000 with respect to any single
+                                                              16                         qualified eligible professional; and
+                                                              17                                  ‘‘(B) $2,000,000 with respect to a single
+                                                              18                         group of affiliated qualified eligible profes-
+                                                              19                         sionals.
+                                                              20                ‘‘(c) FEES.—(1) The Administrator may impose a
+                                                              21 guarantee fee on the borrower in an amount not to exceed
+                                                              22 2 percent of the total guaranteed portion of any loan guar-
+                                                              23 anteed under this section. The Administrator may also im-
+jbell on DSK7SPTVN1PROD with                                  24 pose annual servicing fees on lenders not to exceed 0.5
+                                                                           •HR 28 IH
+
+                                                                                                                         6
+                                                                1 percent of the outstanding balance of the guarantees on
+                                                                2 lenders’ books.
+                                                                3               ‘‘(2) No service fees, processing fees, origination fees,
+                                                                4 application fees, points, brokerage fees, bonus points, or
+                                                                5 other fees may be charged to a loan applicant or recipient
+                                                                6 by a lender in the case of a loan guaranteed under this
+                                                                7 section.
+                                                                8               ‘‘(d) INTEREST RATES.—The interest rate charged
+                                                                9 on a loan guaranteed under this section shall not be great-
+                                                              10 er than 25 basis points below the rate provided for a loan
+                                                              11 under the program under section 7(a).
+                                                              12                ‘‘(e) DEFERRAL PERIOD.—Loans guaranteed under
+                                                              13 this section shall carry a deferral period of not more than
+                                                              14 3 years.
+                                                              15                ‘‘(f) TERMS            AND       CONDITIONS                FOR         LOAN GUARAN-
+                                                              16      TEES.—The               loans guaranteed under this section shall be
+                                                              17 subject to the terms and conditions that apply to the pro-
+                                                              18 gram under section 7(a) or other such terms and condi-
+                                                              19 tions as are prescribed by the Administrator.’’.
+                                                              20      SEC. 3. SMALL BUSINESS DEVELOPMENT CENTER DUTIES.
+                                                              21                Section 21(c)(3) of the Small Business Act (15
+                                                              22 U.S.C. 648(c)(3)) is amended—
+                                                              23                         (1) by striking ‘‘and’’ at the end of subpara-
+jbell on DSK7SPTVN1PROD with                                  24                graph (S);
+                                                                           •HR 28 IH
+
+                                                                                                                         7
+                                                                1                        (2) by striking the period at the end of sub-
+                                                                2               paragraph (T) and inserting a semicolon; and
+                                                                3                        (3) by adding at the end the following:
+                                                                4                        ‘‘(U) facilitating the training of medical profes-
+                                                                5               sionals in health information technology systems;
+                                                                6               and
+                                                                7                        ‘‘(V) establishing and providing a network of
+                                                                8               small health information technology companies avail-
+                                                                9               able to medical professionals in low-income and un-
+                                                              10                derserved areas, as defined by the Secretary of
+                                                              11                Health and Human Services, for the purpose of aid-
+                                                              12                ing medical professionals in such areas to purchase,
+                                                              13                utilize, and maintain such technology.’’.
+                                                                                                                         Æ
+jbell on DSK7SPTVN1PROD with
+
+
+
+
+                                                                           •HR 28 IH
+

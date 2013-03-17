@@ -1,0 +1,30 @@
+<bill session="113" type="h" number="1110" updated="2013-03-15T04:47:27-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Tsunami Warning and Education Act to direct the Administrator of the National Oceanic and Atmospheric Administration, through the National Weather Service, to establish, maintain, and operate an additional tsunami forecast and warning center for the improvement of the evaluation of tsunami risk to, and the dissemination of forecasts and tsunami warning bulletins for, the public in Puerto Rico and the United States Virgin Islands.</title>
+  </titles>
+  <sponsor id="412306"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2013-03-13"/>
+    <cosponsor id="400073" joined="2013-03-13"/>
+    <cosponsor id="400128" joined="2013-03-13"/>
+    <cosponsor id="400253" joined="2013-03-14"/>
+    <cosponsor id="412312" joined="2013-03-14"/>
+    <cosponsor id="400366" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-13">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

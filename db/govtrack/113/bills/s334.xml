@@ -1,0 +1,28 @@
+<bill session="113" type="s" number="334" updated="2013-03-02T06:16:35-05:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title as="introduced" type="official">A bill to terminate agricultural direct payments beginning with the 2013 crop year.</title>
+  </titles>
+  <sponsor id="412243"/>
+  <cosponsors>
+    <cosponsor id="400134" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-14">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural prices, subsidies, credit"/>
+  </subjects>
+  <amendments/>
+</bill>

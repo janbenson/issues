@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="508" updated="2013-03-09T06:20:00-05:00">
+  <state datetime="2013-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-05"/>
+  </status>
+  <introduced datetime="2013-02-05"/>
+  <titles>
+    <title as="introduced" type="short">Terrorism Risk Insurance Act of 2002 Reauthorization Act of 2013</title>
+    <title as="introduced" type="short">TRIA Reauthorization Act of 2013</title>
+    <title as="introduced" type="official">To extend the Terrorism Risk Insurance Program for five years.</title>
+  </titles>
+  <sponsor id="412451"/>
+  <cosponsors>
+    <cosponsor id="400031" joined="2013-02-05"/>
+    <cosponsor id="412258" joined="2013-02-05"/>
+    <cosponsor id="412488" joined="2013-02-05"/>
+    <cosponsor id="412479" joined="2013-02-27"/>
+    <cosponsor id="400219" joined="2013-02-05"/>
+    <cosponsor id="400251" joined="2013-02-05"/>
+    <cosponsor id="400257" joined="2013-02-05"/>
+    <cosponsor id="400271" joined="2013-02-05"/>
+    <cosponsor id="412411" joined="2013-02-05"/>
+    <cosponsor id="400367" joined="2013-02-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-05">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="Life, casualty, property insurance"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2013--Introduced.
+Terrorism Risk Insurance Act of 2002 Reauthorization Act of 2013 or the TRIA Reauthorization Act of 2013 - Amends the Terrorism Risk Insurance Act of 2002 to extend the Terrorism Insurance Program until December 31, 2019 (under current law the Program expires on December 31, 2014). Requires the Secretary of the Treasury to collect all required terrorism loss risk-spreading premiums for any act of terrorism that occurs on or after January 1, 2012, by September 30, 2024 (currently, by September 30, 2017).</summary>
+</bill>

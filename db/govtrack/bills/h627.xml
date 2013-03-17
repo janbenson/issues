@@ -1,0 +1,110 @@
+<bill session="113" type="h" number="627" updated="2013-03-14T04:46:00-04:00">
+  <state datetime="2013-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-13"/>
+  </status>
+  <introduced datetime="2013-02-13"/>
+  <titles>
+    <title as="introduced" type="short">National Park Service 100th Anniversary Commemorative Coin Act</title>
+    <title as="introduced" type="official">To provide for the issuance of coins to commemorate the 100th anniversary of the establishment of the National Park Service, and for other purposes.</title>
+  </titles>
+  <sponsor id="412303"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2013-03-12"/>
+    <cosponsor id="412469" joined="2013-02-28"/>
+    <cosponsor id="400032" joined="2013-03-04"/>
+    <cosponsor id="400033" joined="2013-02-28"/>
+    <cosponsor id="400041" joined="2013-02-14"/>
+    <cosponsor id="412208" joined="2013-03-13"/>
+    <cosponsor id="412427" joined="2013-02-28"/>
+    <cosponsor id="400616" joined="2013-03-12"/>
+    <cosponsor id="400061" joined="2013-02-28"/>
+    <cosponsor id="400062" joined="2013-03-12"/>
+    <cosponsor id="400080" joined="2013-02-25"/>
+    <cosponsor id="400081" joined="2013-03-13"/>
+    <cosponsor id="400087" joined="2013-03-13"/>
+    <cosponsor id="400089" joined="2013-03-13"/>
+    <cosponsor id="412536" joined="2013-03-13"/>
+    <cosponsor id="412477" joined="2013-03-13"/>
+    <cosponsor id="400110" joined="2013-03-05"/>
+    <cosponsor id="400116" joined="2013-02-26"/>
+    <cosponsor id="412215" joined="2013-02-27"/>
+    <cosponsor id="400129" joined="2013-02-14"/>
+    <cosponsor id="412476" joined="2013-03-13"/>
+    <cosponsor id="400147" joined="2013-02-26"/>
+    <cosponsor id="400157" joined="2013-03-13"/>
+    <cosponsor id="400162" joined="2013-02-25"/>
+    <cosponsor id="412278" joined="2013-02-28"/>
+    <cosponsor id="400165" joined="2013-02-28"/>
+    <cosponsor id="400170" joined="2013-02-25"/>
+    <cosponsor id="412584" joined="2013-03-13"/>
+    <cosponsor id="400641" joined="2013-03-13"/>
+    <cosponsor id="400195" joined="2013-03-12"/>
+    <cosponsor id="412460" joined="2013-03-04"/>
+    <cosponsor id="412199" joined="2013-03-12"/>
+    <cosponsor id="400211" joined="2013-02-13"/>
+    <cosponsor id="412465" joined="2013-02-28"/>
+    <cosponsor id="400218" joined="2013-02-13"/>
+    <cosponsor id="412421" joined="2013-02-28"/>
+    <cosponsor id="412557" joined="2013-03-13"/>
+    <cosponsor id="412290" joined="2013-02-14"/>
+    <cosponsor id="412256" joined="2013-03-13"/>
+    <cosponsor id="400237" joined="2013-03-12"/>
+    <cosponsor id="412297" joined="2013-03-13"/>
+    <cosponsor id="412468" joined="2013-02-28"/>
+    <cosponsor id="400253" joined="2013-02-25"/>
+    <cosponsor id="400259" joined="2013-02-14"/>
+    <cosponsor id="400263" joined="2013-02-25"/>
+    <cosponsor id="400266" joined="2013-02-28"/>
+    <cosponsor id="412189" joined="2013-03-12"/>
+    <cosponsor id="400661" joined="2013-02-25"/>
+    <cosponsor id="400283" joined="2013-02-25"/>
+    <cosponsor id="400289" joined="2013-03-12"/>
+    <cosponsor id="408211" joined="2013-02-28"/>
+    <cosponsor id="400295" joined="2013-03-12"/>
+    <cosponsor id="400313" joined="2013-02-28"/>
+    <cosponsor id="412523" joined="2013-03-13"/>
+    <cosponsor id="400316" joined="2013-02-26"/>
+    <cosponsor id="400318" joined="2013-02-28"/>
+    <cosponsor id="412331" joined="2013-02-25"/>
+    <cosponsor id="400333" joined="2013-03-13"/>
+    <cosponsor id="400660" joined="2013-02-13"/>
+    <cosponsor id="412310" joined="2013-03-13"/>
+    <cosponsor id="400344" joined="2013-03-13"/>
+    <cosponsor id="400364" joined="2013-02-25"/>
+    <cosponsor id="400365" joined="2013-02-28"/>
+    <cosponsor id="400373" joined="2013-02-28"/>
+    <cosponsor id="400378" joined="2013-03-12"/>
+    <cosponsor id="400379" joined="2013-03-13"/>
+    <cosponsor id="412461" joined="2013-02-25"/>
+    <cosponsor id="412520" joined="2013-03-12"/>
+    <cosponsor id="412317" joined="2013-02-28"/>
+    <cosponsor id="400406" joined="2013-02-14"/>
+    <cosponsor id="412319" joined="2013-03-13"/>
+    <cosponsor id="400415" joined="2013-03-12"/>
+    <cosponsor id="412522" joined="2013-02-25"/>
+    <cosponsor id="412214" joined="2013-02-25"/>
+    <cosponsor id="400623" joined="2013-03-12"/>
+    <cosponsor id="412255" joined="2013-03-12"/>
+    <cosponsor id="412211" joined="2013-03-13"/>
+    <cosponsor id="400440" joined="2013-03-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-13">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Currency"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2013--Introduced.
+National Park Service 100th Anniversary Commemorative Coin Act - Directs the Secretary of the Treasury to mint and issue gold, silver, and half-dollar clad coins in commemoration of the 100th anniversary of the establishment of the National Park Service (NPS). Authorizes the issuance of coins under this Act only for a one-year period, beginning on January 1, 2016. Requires all sales of coins minted under this Act to include a surcharge of $35 per gold coin, $10 per silver coin, and $5 per half-dollar clad coin. Requires all of the surcharges received from the sale of such coins to be paid to the National Park Foundation for projects and programs to help preserve and protect resources under the stewardship of the NPS and to promote public enjoyment and appreciation of those resources. Prohibits the surcharges paid to the Foundation from being used for land acquisition.</summary>
+</bill>

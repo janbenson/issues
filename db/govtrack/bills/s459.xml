@@ -1,0 +1,25 @@
+<bill session="113" type="s" number="459" updated="2013-03-06T04:45:57-05:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title as="introduced" type="official">A bill to modify the boundary of the Minuteman Missile National Historic Site in the State of South Dakota, and for other purposes.</title>
+  </titles>
+  <sponsor id="300058"/>
+  <cosponsors>
+    <cosponsor id="400546" joined="2013-03-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-05">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="113" type="h" number="904" updated="2013-03-14T04:46:13-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">Justice for the American Diplomats Held Hostage in Tehran Act</title>
+    <title as="introduced" type="official">To establish a common fund to pay claims to the Americans held hostage in Iran, and to members of their families, who are identified as class members in case number 1:08-CV-00487 (EGS) of the United States District Court for the District of Columbia, and for other purposes.</title>
+  </titles>
+  <sponsor id="412208"/>
+  <cosponsors>
+    <cosponsor id="400006" joined="2013-03-13"/>
+    <cosponsor id="400030" joined="2013-03-13"/>
+    <cosponsor id="400075" joined="2013-03-13"/>
+    <cosponsor id="412271" joined="2013-03-04"/>
+    <cosponsor id="412272" joined="2013-03-05"/>
+    <cosponsor id="412453" joined="2013-03-13"/>
+    <cosponsor id="412454" joined="2013-03-04"/>
+    <cosponsor id="412421" joined="2013-03-05"/>
+    <cosponsor id="400251" joined="2013-03-12"/>
+    <cosponsor id="400259" joined="2013-03-12"/>
+    <cosponsor id="400274" joined="2013-03-12"/>
+    <cosponsor id="400283" joined="2013-03-07"/>
+    <cosponsor id="412474" joined="2013-03-13"/>
+    <cosponsor id="400344" joined="2013-02-28"/>
+    <cosponsor id="400356" joined="2013-03-05"/>
+    <cosponsor id="412314" joined="2013-03-05"/>
+    <cosponsor id="400363" joined="2013-03-12"/>
+    <cosponsor id="412239" joined="2013-03-12"/>
+    <cosponsor id="400433" joined="2013-03-12"/>
+    <cosponsor id="412428" joined="2013-03-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="113" type="s" number="170" updated="2013-03-13T04:45:32-04:00">
+  <state datetime="2013-01-29">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-29"/>
+  </status>
+  <introduced datetime="2013-01-29"/>
+  <titles>
+    <title as="introduced" type="short">Recreational Fishing and Hunting Heritage and Opportunities Act</title>
+    <title as="introduced" type="official">A bill to recognize the heritage of recreational fishing, hunting, and recreational shooting on Federal public land and ensure continued opportunities for those activities.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2013-01-30"/>
+    <cosponsor id="300030" joined="2013-03-12"/>
+    <cosponsor id="300041" joined="2013-02-25"/>
+    <cosponsor id="412391" joined="2013-01-29"/>
+    <cosponsor id="400325" joined="2013-02-25"/>
+    <cosponsor id="412322" joined="2013-02-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-29">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S367"/>
+    </action>
+    <action state="REFERRED" datetime="2013-01-29">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Congressional oversight"/>
+    <term name="Firearms and explosives"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Hunting and fishing"/>
+    <term name="Land use and conservation"/>
+    <term name="Outdoor recreation"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+</bill>

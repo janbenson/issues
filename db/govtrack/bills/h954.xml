@@ -1,0 +1,32 @@
+<bill session="113" type="h" number="954" updated="2013-03-09T06:21:54-05:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title as="introduced" type="short">WISE Investment Act</title>
+    <title as="introduced" type="short">Workforce Infrastructure for Skilled Employees Investment Act</title>
+    <title as="introduced" type="official">To amend the Workforce Investment Act of 1998 to provide for the establishment of the Small Business Liaison Pilot Program.</title>
+  </titles>
+  <sponsor id="412501"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2013-03-05"/>
+    <cosponsor id="400097" joined="2013-03-05"/>
+    <cosponsor id="400278" joined="2013-03-05"/>
+    <cosponsor id="400350" joined="2013-03-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-05">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>3/5/2013--Introduced.
+Workforce Infrastructure for Skilled Employees Investment Act or WISE Investment Act - Amends the Workforce Investment Act of 1998 to authorize the Secretary of Labor to award competitive grants to local boards, community colleges, postsecondary vocational institutions, community-based organizations, and apprenticeship programs and joint labor-management training programs, to promote local economic growth and eliminate gaps between the workforce skills available and the workforce skills needed with respect to small businesses in local areas or regions.</summary>
+</bill>

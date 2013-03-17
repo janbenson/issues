@@ -1,0 +1,47 @@
+<bill session="113" type="h" number="356" updated="2013-02-12T04:45:26-05:00">
+  <state datetime="2013-01-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-23"/>
+  </status>
+  <introduced datetime="2013-01-23"/>
+  <titles>
+    <title as="introduced" type="short">Hill Creek Cultural Preservation and Energy Development Act</title>
+    <title as="introduced" type="official">To clarify authority granted under the Act entitled "An Act to define the exterior boundary of the Uintah and Ouray Indian Reservation in the State of Utah, and for other purposes".</title>
+  </titles>
+  <sponsor id="400029"/>
+  <cosponsors>
+    <cosponsor id="412270" joined="2013-01-23"/>
+    <cosponsor id="400255" joined="2013-01-23"/>
+    <cosponsor id="412581" joined="2013-01-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-01-23">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-02-01">
+      <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-02-01">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII24" subcommittee="Indian and Alaska Native Affairs" name="House Natural Resources"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="27"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Land transfers"/>
+    <term name="Utah"/>
+  </subjects>
+  <amendments/>
+  <summary>1/23/2013--Introduced.
+Hill Creek Cultural Preservation and Energy Development Act - Authorizes Utah to relinquish for the benefit of the Ute Indian Tribe of the Uintah and Ouray Reservation certain of its school trust or subsurface mineral lands south of the border between Grand County and Uintah County, Utah, in exchange for certain federal subsurface mineral lands north of that border. Directs the Secretary of the Interior to reserve an overriding interest in that portion of the mineral estate composed of minerals subject to leasing under the Mineral Leasing Act in the mineral lands conveyed to Utah. Delineates the extent of that interest. Requires Utah to reserve, for the benefit of its school trust, an overriding interest in that portion of the mineral estate composed of minerals subject to leasing under the Mineral Leasing Act in the mineral lands it relinquished to the federal government. Delineates the extent of that interest.</summary>
+</bill>

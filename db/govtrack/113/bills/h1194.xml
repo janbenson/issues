@@ -1,0 +1,30 @@
+<bill session="113" type="h" number="1194" updated="2013-03-15T04:47:53-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="official">To terminate the National Flood Insurance Program and related mandatory purchase and compliance requirements, and for other purposes.</title>
+  </titles>
+  <sponsor id="400276"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Referred to House Judiciary</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

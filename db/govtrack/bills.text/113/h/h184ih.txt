@@ -1,0 +1,164 @@
+                                                                                                                                                                   I
+
+
+
+
+                                                                  113TH CONGRESS
+                                                                     1ST SESSION                           H. R. 184
+                                                                        To amend the Internal Revenue Code of 1986 to provide a tax incentive
+                                                                        for the installation and maintenance of mechanical insulation property.
+
+
+
+
+                                                                                IN THE HOUSE OF REPRESENTATIVES
+                                                                                                    JANUARY 4, 2013
+                                                                         Mr. GRIMM (for himself and Mr. BISHOP of New York) introduced the
+                                                                        following bill; which was referred to the Committee on Ways and Means
+
+
+
+
+                                                                                                            A BILL
+                                                                  To amend the Internal Revenue Code of 1986 to provide
+                                                                     a tax incentive for the installation and maintenance of
+                                                                     mechanical insulation property.
+                                                                    1               Be it enacted by the Senate and House of Representa-
+                                                                    2 tives of the United States of America in Congress assembled,
+                                                                    3     SECTION 1. SHORT TITLE.
+                                                                    4               This Act may be cited as the ‘‘Mechanical Insulation
+                                                                    5 Installation Incentive Act of 2013’’.
+                                                                    6     SEC. 2. EXPENSING OF MECHANICAL INSULATION PROP-
+                                                                    7                             ERTY.
+srobinson on DSK4SPTVN1PROD with                                    8               (a) IN GENERAL.—Part VI of subchapter B of chap-
+                                                                    9 ter 1 of subtitle A of the Internal Revenue Code of 1986
+                                                                  10 (relating to itemized deductions for individuals and cor-
+
+                                                                                                                             2
+                                                                    1 porations) is amended by inserting after section 179E the
+                                                                    2 following new section:
+                                                                    3     ‘‘SEC. 179F. MECHANICAL INSULATION PROPERTY.
+
+                                                                    4               ‘‘(a) TREATMENT                  AS      EXPENSES.—In addition to any
+                                                                    5 other deduction in this subtitle, there shall be allowed as
+                                                                    6 a deduction an amount equal to the applicable percentage
+                                                                    7 of the cost of mechanical insulation property placed in
+                                                                    8 service during the taxable year.
+                                                                    9               ‘‘(b) APPLICABLE PERCENTAGE.—For purposes of
+                                                                  10 subsection (a)—
+                                                                  11                         ‘‘(1) IN        GENERAL.—The                     term ‘applicable per-
+                                                                  12                centage’ means the lesser of—
+                                                                  13                                  ‘‘(A) 30 percent, and
+                                                                  14                                  ‘‘(B) the reduction in energy loss (ex-
+                                                                  15                         pressed as a percentage) from the installed me-
+                                                                  16                         chanical insulation property compared to ref-
+                                                                  17                         erence mechanical insulation property which
+                                                                  18                         meets the minimum requirements of ASHRAE
+                                                                  19                         standard 90.1–2007.
+                                                                  20                         ‘‘(2) SPECIAL                   RULE RELATING TO MAINTE-
+                                                                  21                NANCE.—In              the case of mechanical insulation prop-
+                                                                  22                erty placed in service as a replacement for insulation
+                                                                  23                property—
+srobinson on DSK4SPTVN1PROD with                                  24                                  ‘‘(A) paragraph (1)(B) shall not apply, and
+                                                                               •HR 184 IH
+
+                                                                                                                             3
+                                                                    1                                 ‘‘(B) the cost of such property shall be
+                                                                    2                        treated as an expense for which a deduction is
+                                                                    3                        allowed under section 162 instead of being
+                                                                    4                        treated as depreciable for purposes of the de-
+                                                                    5                        duction provided by section 167.
+                                                                    6               ‘‘(c) DEFINITIONS.—For purposes of this section—
+                                                                    7                        ‘‘(1) MECHANICAL                      INSULATION PROPERTY.—
+                                                                    8               The term ‘mechanical insulation property’ means in-
+                                                                    9               sulation materials, facings, and accessory products—
+                                                                  10                                  ‘‘(A) placed in service in connection with a
+                                                                  11                         mechanical system which—
+                                                                  12                                          ‘‘(i) is located in the United States,
+                                                                  13                                  and
+                                                                  14                                          ‘‘(ii) is of a character subject to an al-
+                                                                  15                                  lowance for depreciation, and
+                                                                  16                                  ‘‘(B) utilized for thermal requirements for
+                                                                  17                         mechanical piping and equipment, hot and cold
+                                                                  18                         applications, and heating, venting and air con-
+                                                                  19                         ditioning applications which can be used in a
+                                                                  20                         variety of facilities.
+                                                                  21                         ‘‘(2) COST.—The cost of mechanical insulation
+                                                                  22                property includes—
+                                                                  23                                  ‘‘(A) the amounts paid or incurred for the
+srobinson on DSK4SPTVN1PROD with                                  24                         installation of such property for that incre-
+                                                                  25                         mental          portion             above         the          minimums   in
+
+
+                                                                               •HR 184 IH
+
+                                                                                                                             4
+                                                                    1                        ASHRAE standard 90.1–2007 and the total in-
+                                                                    2                        sulation cost for maintenance applications,
+                                                                    3                                 ‘‘(B) in the case of removal and disposal of
+                                                                    4                        the old mechanical insulation property, 10 per-
+                                                                    5                        cent of the cost of the new mechanical insula-
+                                                                    6                        tion property (determined without regard to
+                                                                    7                        this subparagraph), and
+                                                                    8                                 ‘‘(C) expenditures for labor costs properly
+                                                                    9                        allocable to the preparation, assembly, and in-
+                                                                  10                         stallation of mechanical insulation property.
+                                                                  11                ‘‘(d) COORDINATION.—Subsection (a) shall not apply
+                                                                  12 to the cost of mechanical insulation property which is
+                                                                  13 taken into account under section 179D or which, but for
+                                                                  14 subsection (b) of section 179D, would be taken into ac-
+                                                                  15 count under such section.
+                                                                  16                ‘‘(e) ALLOCATION                 OF      DEDUCTION              FOR      TAX-EXEMPT
+                                                                  17 PROPERTY.—In the case of mechanical insulation prop-
+                                                                  18 erty installed on or in property owned by an entity de-
+                                                                  19 scribed in paragraph (3) or (4) of section 50(b), the per-
+                                                                  20 son who is the primary contractor for the installation of
+                                                                  21 such property shall be treated as the taxpayer that placed
+                                                                  22 such property in service.
+                                                                  23                ‘‘(f) CERTIFICATION.—For purposes of this section,
+srobinson on DSK4SPTVN1PROD with                                  24 energy savings shall be certified under regulations or other
+                                                                               •HR 184 IH
+
+                                                                                                                             5
+                                                                    1 guidance provided by the Secretary, in consultation with
+                                                                    2 the Secretary of Energy.
+                                                                    3               ‘‘(g) TERMINATION.—This section shall not apply to
+                                                                    4 any property placed in service after the end of the 5-year
+                                                                    5 period beginning on the date of the enactment of this sec-
+                                                                    6 tion.’’.
+                                                                    7               (b) DEDUCTION                    FOR         CAPITAL EXPENDITURES.—
+                                                                    8 Section 263(a)(1) of such Code (relating to capital ex-
+                                                                    9 penditures) is amended by striking ‘‘or’’ at the end of sub-
+                                                                  10 paragraph (K), by striking the period at the end of para-
+                                                                  11 graph (L) and inserting ‘‘, or’’, and by adding at the end
+                                                                  12 the following new subparagraph:
+                                                                  13                                  ‘‘(M) expenditures for which a deduction is
+                                                                  14                         allowed under section 179F.’’.
+                                                                  15                (c) TECHNICAL AND CLERICAL AMENDMENTS.—
+                                                                  16                         (1) Section 312(k)(3)(B) of such Code is
+                                                                  17                amended by striking ‘‘or 179E’’ each place it ap-
+                                                                  18                pears in the text or heading thereof and inserting
+                                                                  19                ‘‘179E, or 179F’’.
+                                                                  20                         (2) Paragraphs (2)(C) and (3)(C) of section
+                                                                  21                1245(a) of such Code are each amended by inserting
+                                                                  22                ‘‘179F,’’ after ‘‘179E,’’.
+                                                                  23                         (3) The table of sections for part VI of sub-
+srobinson on DSK4SPTVN1PROD with                                  24                chapter B of chapter 1 of subtitle A of such Code
+                                                                               •HR 184 IH
+
+                                                                                                                             6
+                                                                    1               is amended by inserting after the item relating to
+                                                                    2               section 179E the following new item:
+                                                                          ‘‘Sec. 179F. Mechanical insulation property.’’.
+
+                                                                    3               (d) EFFECTIVE DATE.—The amendments made by
+                                                                    4 this section shall apply to property placed in service after
+                                                                    5 the date of enactment of this Act.
+                                                                                                                             Æ
+srobinson on DSK4SPTVN1PROD with
+
+
+
+
+                                                                               •HR 184 IH
+

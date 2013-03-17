@@ -1,0 +1,34 @@
+<bill session="113" type="s" number="211" updated="2013-02-27T04:46:23-05:00">
+  <state datetime="2013-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-04"/>
+  </status>
+  <introduced datetime="2013-02-04"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend certain definitions contained in the Provo River Project Transfer Act for purposes of clarifying certain property descriptions, and for other purposes.</title>
+  </titles>
+  <sponsor id="300052"/>
+  <cosponsors>
+    <cosponsor id="412495" joined="2013-02-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-04">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="255"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Dams and canals"/>
+    <term name="Land transfers"/>
+    <term name="Utah"/>
+    <term name="Water storage"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+</bill>

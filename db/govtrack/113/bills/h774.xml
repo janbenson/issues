@@ -1,0 +1,35 @@
+<bill session="113" type="h" number="774" updated="2013-02-28T15:46:42-05:00">
+  <state datetime="2013-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-15"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title as="introduced" type="short">Small Business Start-up Savings Accounts Act of 2013</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to establish small business start-up savings accounts.</title>
+  </titles>
+  <sponsor id="412406"/>
+  <cosponsors>
+    <cosponsor id="412436" joined="2013-02-15"/>
+    <cosponsor id="400032" joined="2013-02-15"/>
+    <cosponsor id="412271" joined="2013-02-15"/>
+    <cosponsor id="412403" joined="2013-02-15"/>
+    <cosponsor id="400651" joined="2013-02-15"/>
+    <cosponsor id="412510" joined="2013-02-15"/>
+    <cosponsor id="412294" joined="2013-02-15"/>
+    <cosponsor id="412461" joined="2013-02-25"/>
+    <cosponsor id="412213" joined="2013-02-15"/>
+    <cosponsor id="400433" joined="2013-02-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-15">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

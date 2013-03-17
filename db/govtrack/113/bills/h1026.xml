@@ -1,0 +1,32 @@
+<bill session="113" type="h" number="1026" updated="2013-03-14T04:46:18-04:00">
+  <state datetime="2013-03-07">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-07"/>
+  </status>
+  <introduced datetime="2013-03-07"/>
+  <titles>
+    <title as="introduced" type="official">To exempt certain class A CDL drivers from the requirement to obtain a hazardous material endorsement while operating a service vehicle with a fuel tank containing 3,785 liters (1,000 gallons) or less of diesel fuel.</title>
+  </titles>
+  <sponsor id="400441"/>
+  <cosponsors>
+    <cosponsor id="412555" joined="2013-03-12"/>
+    <cosponsor id="412429" joined="2013-03-12"/>
+    <cosponsor id="400209" joined="2013-03-13"/>
+    <cosponsor id="400316" joined="2013-03-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-07">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="485"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>3/7/2013--Introduced.
+Directs the Secretary of Transportation (DOT) to exempt from the requirement to obtain a hazardous material (hazmat) endorsement all class A commercial driver's license (CDL) holders who are custom harvesters, agricultural retailers, agricultural business employees, agricultural cooperative employees, or agricultural producers who operate a service vehicle with a fuel tank containing 3,785 liters (1,000) gallons or less of diesel fuel if the tank is clearly marked with a placard reading "Diesel Fuel."</summary>
+</bill>

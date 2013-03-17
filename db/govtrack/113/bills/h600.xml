@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="600" updated="2013-03-02T06:19:59-05:00">
+  <state datetime="2013-02-08">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-08"/>
+  </status>
+  <introduced datetime="2013-02-08"/>
+  <titles>
+    <title as="introduced" type="short">Great Lakes Nutrient Removal Assistance Act</title>
+    <title as="introduced" type="official">To amend the Federal Water Pollution Control Act to provide assistance for nutrient removal technologies to States in the Great Lakes System.</title>
+  </titles>
+  <sponsor id="400641"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2013-02-08"/>
+    <cosponsor id="400110" joined="2013-02-08"/>
+    <cosponsor id="400238" joined="2013-02-08"/>
+    <cosponsor id="400661" joined="2013-02-08"/>
+    <cosponsor id="400352" joined="2013-02-08"/>
+    <cosponsor id="400378" joined="2013-02-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-08">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-02-09">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Aquatic ecology"/>
+    <term name="Environmental technology"/>
+    <term name="Great Lakes"/>
+    <term name="Lakes and rivers"/>
+    <term name="Water quality"/>
+    <term name="Water resources funding"/>
+  </subjects>
+  <amendments/>
+</bill>

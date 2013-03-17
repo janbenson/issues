@@ -1,0 +1,41 @@
+<bill session="113" type="s" number="203" updated="2013-03-08T04:45:40-05:00">
+  <state datetime="2013-01-31">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-31"/>
+  </status>
+  <introduced datetime="2013-01-31"/>
+  <titles>
+    <title as="introduced" type="short">Pro Football Hall of Fame Commemorative Coin Act</title>
+    <title as="introduced" type="official">A bill to require the Secretary of the Treasury to mint coins in recognition and celebration of the Pro Football Hall of Fame.</title>
+  </titles>
+  <sponsor id="400325"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2013-01-31"/>
+    <cosponsor id="400040" joined="2013-01-31"/>
+    <cosponsor id="400050" joined="2013-03-07"/>
+    <cosponsor id="412248" joined="2013-01-31"/>
+    <cosponsor id="412494" joined="2013-02-14"/>
+    <cosponsor id="400194" joined="2013-01-31"/>
+    <cosponsor id="412391" joined="2013-01-31"/>
+    <cosponsor id="400284" joined="2013-01-31"/>
+    <cosponsor id="412491" joined="2013-01-31"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-01-31">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Currency"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+    <term name="Professional sports"/>
+  </subjects>
+  <amendments/>
+  <summary>1/31/2013--Introduced.
+Pro Football Hall of Fame Commemorative Coin Act - Directs the Secretary of the Treasury to mint and issue not more than 50,000 $5-gold coins, 400,000 $1-silver coins, and 750,000 half-dollar coins emblematic of the game of professional football. Requires all sales of such coins to include specified surcharges, which shall be paid by the Secretary to the Pro Football Hall of Fame to help finance the construction of a new building and the renovation of existing Pro Football Hall of Fame facilities.</summary>
+</bill>

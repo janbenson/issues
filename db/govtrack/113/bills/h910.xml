@@ -1,0 +1,36 @@
+<bill session="113" type="h" number="910" updated="2013-03-09T04:45:42-05:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">Sikes Act Reauthorization Act of 2013</title>
+    <title as="introduced" type="official">To reauthorize the Sikes Act.</title>
+  </titles>
+  <sponsor id="412275"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2013-03-04">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII22" subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" name="House Natural Resources"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

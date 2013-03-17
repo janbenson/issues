@@ -1,0 +1,27 @@
+<bill session="113" type="h" number="1011" updated="2013-03-07T04:46:00-05:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="official">To prohibit the Secretary of the Interior from issuing oil and gas leases on portions of the Outer Continental Shelf located off the coast of New Jersey.</title>
+  </titles>
+  <sponsor id="400244"/>
+  <cosponsors>
+    <cosponsor id="400142" joined="2013-03-06"/>
+    <cosponsor id="412290" joined="2013-03-06"/>
+    <cosponsor id="400380" joined="2013-03-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

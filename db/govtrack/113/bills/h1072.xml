@@ -1,0 +1,41 @@
+<bill session="113" type="h" number="1072" updated="2013-03-15T09:46:16-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="short">Freedom from Government Competition Act of 2013</title>
+    <title as="introduced" type="official">To require that the Federal Government procure from the private sector the goods and services necessary for the operations and management of certain Government agencies, and for other purposes.</title>
+  </titles>
+  <sponsor id="400116"/>
+  <cosponsors>
+    <cosponsor id="412436" joined="2013-03-12"/>
+    <cosponsor id="412478" joined="2013-03-12"/>
+    <cosponsor id="400032" joined="2013-03-12"/>
+    <cosponsor id="412252" joined="2013-03-12"/>
+    <cosponsor id="412271" joined="2013-03-12"/>
+    <cosponsor id="412555" joined="2013-03-12"/>
+    <cosponsor id="412472" joined="2013-03-12"/>
+    <cosponsor id="400158" joined="2013-03-12"/>
+    <cosponsor id="412388" joined="2013-03-12"/>
+    <cosponsor id="412454" joined="2013-03-12"/>
+    <cosponsor id="412437" joined="2013-03-12"/>
+    <cosponsor id="400367" joined="2013-03-12"/>
+    <cosponsor id="412581" joined="2013-03-14"/>
+    <cosponsor id="400627" joined="2013-03-12"/>
+    <cosponsor id="412430" joined="2013-03-14"/>
+    <cosponsor id="400440" joined="2013-03-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

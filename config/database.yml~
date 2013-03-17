@@ -1,25 +1,37 @@
-# SQLite version 3.x
-#   gem install sqlite3
+###
+# Issues development database configuration
 #
-#   Ensure the SQLite 3 gem is defined in your Gemfile
-#   gem 'sqlite3'
-development:
-  adapter: sqlite3
-  database: db/development.sqlite3
-  pool: 5
-  timeout: 5000
+# You can override  this file. To do so, create
+# a .issues directory in your homedir:#
+#
+#   $ mkdir -p ~/.issues
+#
+# Then, to override a given section, copy it in its entirety to
+# ~/.opencongress/dbconfig.yml and make any changes you want.
+#
 
-# Warning: The database defined as "test" will be erased and
-# re-generated from your development database when you run "rake".
-# Do not set this db to the same as development or production.
+common: &common
+  adapter: postgresql
+  database: issues
+  username: jan
+  password: jan
+  host: localhost
+
+development: &dev
+  <<: *common
+  database: issues_development
+
+drm: &drm
+  <<: *common
+  database: issues_development
+
 test:
-  adapter: sqlite3
-  database: db/test.sqlite3
-  pool: 5
-  timeout: 5000
+  <<: *common
+  database: issues_test
+<%= '  username: postgres' if ENV.key?('TRAVIS') %>
 
 production:
-  adapter: sqlite3
-  database: db/production.sqlite3
-  pool: 5
-  timeout: 5000
+  <<: *dev
+  database: issues_production
+
+<%= File.read( File.expand_path("~/.issues/dbconfig.yml") ) rescue nil %>

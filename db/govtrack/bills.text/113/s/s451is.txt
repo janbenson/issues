@@ -1,0 +1,1759 @@
+                                                                                                                                   II
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                            S. 451
+                                      To make technical corrections to the Dodd-Frank Wall Street Reform and
+                                                             Consumer Protection Act.
+
+
+
+
+                                              IN THE SENATE OF THE UNITED STATES
+                                                                MARCH 5, 2013
+                                    Mr. SHELBY introduced the following bill; which was read twice and referred
+                                           to the Committee on Banking, Housing, and Urban Affairs
+
+
+
+
+                                                                            A BILL
+                                  To make technical corrections to the Dodd-Frank Wall Street
+                                            Reform and Consumer Protection Act.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Dodd-Frank Wall
+                                    5 Street Reform and Consumer Protection Technical Cor-
+                                    6 rections Act of 2013’’.
+                                    7     SEC. 2. TABLE OF CONTENTS; DEFINITIONAL CORREC-
+                                    8                             TIONS.
+                                    9              (a) TABLE            OF    CONTENTS.—The table of contents for
+                                  10 the Dodd-Frank Wall Street Reform and Consumer Pro-
+
+
+
+                                                                                             2
+                                    1 tection Act (Public Law 111–203; 124 Stat. 1376) is
+                                    2 amended by striking the items relating to section 407
+                                    3 through 416 and inserting the following:
+                                          ‘‘Sec.   407.    Exemption of and reporting by venture capital fund advisers.
+                                          ‘‘Sec.   408.    Exemption of and reporting by certain private fund advisers.
+                                          ‘‘Sec.   409.    Family offices.
+                                          ‘‘Sec.   410.    State and Federal responsibilities; asset threshold for Federal reg-
+                                                                istration of investment advisers.
+                                          ‘‘Sec.   411.    Custody of client assets.
+                                          ‘‘Sec.   412.    Comptroller General study on custody rule costs.
+                                          ‘‘Sec.   413.    Adjusting the accredited investor standard.
+                                          ‘‘Sec.   414.    Rule of construction relating to the Commodity Exchange Act.
+                                          ‘‘Sec.   415.    GAO study and report on accredited investors.
+                                          ‘‘Sec.   416.    GAO study on self-regulatory organization for private funds.
+                                          ‘‘Sec.   417.    Commission study and report on short selling.
+                                          ‘‘Sec.   418.    Qualified client standard.
+                                          ‘‘Sec.   419.    Transition period.’’.
+
+                                    4              (b) DEFINITIONS.—Section 2 of the Dodd-Frank
+                                    5 Wall Street Reform and Consumer Protection Act (12
+                                    6 U.S.C. 5301) is amended—
+                                    7                        (1) in paragraph (1)—
+                                    8                                 (A) by striking ‘‘section 3’’ and inserting
+                                    9                        ‘‘section 3(w)’’; and
+                                  10                                  (B) by striking ‘‘(12 U.S.C. 1813)’’ and
+                                  11                         inserting ‘‘(12 U.S.C. 1813(w))’’;
+                                  12                         (2) in paragraph (6), by striking ‘‘1 et seq.’’
+                                  13               and inserting ‘‘1a’’; and
+                                  14                         (3) in paragraph (18)(A)—
+                                  15                                  (A) by striking ‘‘ ‘bank holding company’,’’;
+                                  16                         and
+                                  17                                  (B) by inserting ‘‘ ‘includes’,’’ before ‘‘ ‘in-
+
+
+
+
+                                  18                         cluding’,’’.
+                                              •S 451 IS
+
+                                    1     SEC. 3. ANTITRUST SAVINGS CLAUSE CORRECTIONS.      3
+                                    2              Section 6 of the Dodd-Frank Wall Street Reform and
+                                    3 Consumer Protection Act (12 U.S.C. 5303) is amended,
+                                    4 in the second sentence—
+                                    5                        (1) by inserting ‘‘(15 U.S.C. 12(a))’’ after
+                                    6              ‘‘Clayton Act’’; and
+                                    7                        (2) by striking ‘‘Act, to’’ and inserting ‘‘Act (15
+                                    8              U.S.C. 45) to’’.
+                                    9     SEC. 4. TITLE I CORRECTIONS.
+                                  10               Title I of the Dodd-Frank Wall Street Reform and
+                                  11 Consumer Protection Act (12 U.S.C. 5311 et seq.) is
+                                  12 amended—
+                                  13                         (1)        in        section           102(a)(6)                (12   U.S.C.
+                                  14               5311(a)(6)), by inserting ‘‘(12 U.S.C. 1843(k))’’
+                                  15               after ‘‘of 1956’’ each place that term appears;
+                                  16                         (2) in section 111 (12 U.S.C. 5321)—
+                                  17                                  (A) in subsection (b)—
+                                  18                                         (i) in paragraph (1)(G), by striking
+                                  19                                  ‘‘Chairperson’’ and inserting ‘‘Chairman’’;
+                                  20                                  and
+                                  21                                         (ii) in paragraph (2)(E), by striking
+                                  22                                  ‘‘such’’ and inserting ‘‘the’’; and
+                                  23                                  (B) in subsection (c)(3), by striking ‘‘that
+                                  24                         agency or department head’’ and inserting ‘‘the
+
+
+
+
+                                  25                         head of that member agency or department’’;
+                                  26                         (3) in section 112 (12 U.S.C. 5322)—
+                                              •S 451 IS
+
+                                                                                             4
+                                    1                                 (A) in subsection (a)(2)—
+                                    2                                         (i) in subparagraph (D)—
+                                    3                                                  (I) by striking ‘‘to monitor’’ and
+                                    4                                         inserting ‘‘monitor’’; and
+                                    5                                                  (II) by striking ‘‘to advise’’ and
+                                    6                                         inserting ‘‘advise’’;
+                                    7                                         (ii) in subparagraph (J)—
+                                    8                                                  (I) by striking ‘‘that term is’’
+                                    9                                         and inserting ‘‘those terms are’’; and
+                                  10                                                   (II) by striking ‘‘and settlement’’
+                                  11                                          and inserting ‘‘or settlement’’; and
+                                  12                                          (iii) in subparagraph (L), by striking
+                                  13                                  ‘‘may’’; and
+                                  14                                  (B) in subsection (d)(5)—
+                                  15                                          (i) in subparagraph (B), by striking
+                                  16                                  ‘‘subsection and’’ and inserting ‘‘subtitle
+                                  17                                  or’’; and
+                                  18                                          (ii) in subparagraph (C), by striking
+                                  19                                  ‘‘subsection and’’ and inserting ‘‘subtitle
+                                  20                                  or’’;
+                                  21                         (4) in section 154(c) (12 U.S.C. 5344(c))—
+                                  22                                  (A) by striking ‘‘CENTER.—’’ and all that
+                                  23                         follows through ‘‘The Research’’ and inserting
+
+
+
+
+
+                                  24                         ‘‘CENTER.—The Research’’; and
+
+
+
+
+                                              •S 451 IS
+
+                                                                                             5
+                                    1                                 (B) by redesignating subparagraphs (A)
+                                    2                        through (H) as paragraphs (1) through (8), re-
+                                    3                        spectively, and moving the margins 2 ems to
+                                    4                        the left;
+                                    5                        (5)        in        section           155(a)(2)                (12    U.S.C.
+                                    6              5345(a)(2)), by striking ‘‘(c),’’ and inserting ‘‘(c)’’;
+                                    7                        (6) in section 164 (12 U.S.C. 5364), by striking
+                                    8              ‘‘Institutions’’ and inserting ‘‘Institution’’;
+                                    9                        (7) in section 167(b)(1)(B)(ii) (12 U.S.C.
+                                  10               5367(b)(1)(B)(ii)), by striking ‘‘to ensure’’ and in-
+                                  11               serting ‘‘ensure’’; and
+                                  12                         (8)       in     section            171(b)(4)(D)                 (12   U.S.C.
+                                  13               5371(b)(4)(D)), by adding a period at the end.
+                                  14      SEC. 5. TITLE II CORRECTIONS.
+                                  15               Title II of the Dodd-Frank Wall Street Reform and
+                                  16 Consumer Protection Act (12 U.S.C. 5381 et seq.) is
+                                  17 amended—
+                                  18                         (1) in section 210 (12 U.S.C. 5390)—
+                                  19                                  (A) in subsection (a)—
+                                  20                                         (i) in paragraph (1)(D), by striking
+                                  21                                  ‘‘wind-up’’ and inserting ‘‘wind up’’; and
+                                  22                                         (ii) in paragraph (5)(C), by striking
+                                  23                                  ‘‘receiver seeking’’ and inserting ‘‘receiver)
+
+
+
+
+                                  24                                  seeking’’;
+                                  25                                  (B) in subsection (b)(1)—
+
+
+                                              •S 451 IS
+
+                                                                                              6
+                                    1                                        (i) in subparagraph (C), by striking
+                                    2                                 ‘‘to the extent of’’ and all that follows
+                                    3                                 through ‘‘for each individual’’ and insert-
+                                    4                                 ing ‘‘to the extent of $11,725 for each in-
+                                    5                                 dividual’’; and
+                                    6                                        (ii) in subparagraph (D), by striking
+                                    7                                 ‘‘multiplied by’’ and all that follows
+                                    8                                 through ‘‘(as indexed’’ and inserting ‘‘mul-
+                                    9                                 tiplied by $11,725 (as indexed’’;
+                                  10                                  (C) in subsection (m)(1)(B), by inserting
+                                  11                         ‘‘of’’ before ‘‘the Bankruptcy Code’’; and
+                                  12                                  (D) in subsection (o)(1)(D)(i)(I), by strik-
+                                  13                         ing       ‘‘and          (h)(5)(E)’’              and           inserting   ‘‘or
+                                  14                         (h)(5)(E)’’;
+                                  15                         (2)       in         section         211(d)(1)(C)                 (12   U.S.C.
+                                  16               5391(d)(1)(C)), by striking ‘‘orderly liquidation plan
+                                  17               under section 210(n)(14)’’ and inserting ‘‘an orderly
+                                  18               liquidation plan under section 210(n)(9)’’; and
+                                  19                         (3) in section 215(a)(5) (124 Stat. 1518), by
+                                  20               striking ‘‘amd’’ and inserting ‘‘and’’.
+                                  21      SEC. 6. TITLE III CORRECTIONS.
+
+                                  22               (a) IN GENERAL.—Title III of the Dodd-Frank Wall
+                                  23 Street Reform and Consumer Protection Act (12 U.S.C.
+
+
+
+
+                                  24 5401 et seq.) is amended—
+                                              •S 451 IS
+
+                                                                                             7
+                                    1                        (1)        in        section           327(b)(5)                (12   U.S.C.
+                                    2              5437(b)(5)), by striking ‘‘in’’ and inserting ‘‘into’’;
+                                    3                        (2) in section 333(b)(2) (124 Stat. 1539), by
+                                    4              inserting ‘‘the second place that term appears’’ be-
+                                    5              fore ‘‘and inserting’’; and
+                                    6                        (3) in section 369(5) (124 Stat. 1559)—
+                                    7                                 (A) in subparagraph (D)(i)—
+                                    8                                        (i) in subclause (III), by redesignating
+                                    9                                 items (aa), (bb), and (cc) as subitems
+                                  10                                  (AA), (BB), and (CC), respectively, and
+                                  11                                  adjusting the margins accordingly;
+                                  12                                         (ii) in subclause (IV), redesignating
+                                  13                                  items (aa) and (bb) as subitems (AA) and
+                                  14                                  (BB), respectively, and adjusting the mar-
+                                  15                                  gins accordingly;
+                                  16                                         (iii) in subclause (V), by redesignating
+                                  17                                  items (aa), (bb), and (cc) as subitems
+                                  18                                  (AA), (BB), and (CC), respectively, and
+                                  19                                  adjusting the margins accordingly; and
+                                  20                                         (iv) by redesignating subclauses (III),
+                                  21                                  (IV), and (V) as items (bb), (cc), and (dd),
+                                  22                                  respectively, and adjusting the margins ac-
+                                  23                                  cordingly;
+
+
+
+
+
+                                  24                                  (B) in subparagraph (F)—
+
+
+
+
+                                              •S 451 IS
+
+                                                                                             8
+                                    1                                        (i) in clause (ii), by adding ‘‘and’’ at
+                                    2                                 the end;
+                                    3                                        (ii) in clause (iii), by striking ‘‘; and’’
+                                    4                                 and inserting a period; and
+                                    5                                        (iii) by striking clause (iv); and
+                                    6                                 (C) in subparagraph (G)(i), by inserting
+                                    7                        ‘‘each place such term appears’’ before ‘‘and in-
+                                    8                        serting’’.
+                                    9              (b) EFFECTIVE DATES.—
+                                  10                         (1) SECTION               333.—The              amendment made by
+                                  11               subsection (a)(2) of this section shall take effect as
+                                  12               though enacted as part of subtitle C of title III of
+                                  13               the Dodd-Frank Wall Street Reform and Consumer
+                                  14               Protection Act (124 Stat. 1538).
+                                  15                         (2) SECTION              369.—The              amendments made by
+                                  16               subsection (a)(3) of this section shall take effect as
+                                  17               though enacted as part of subtitle E of title III of
+                                  18               the Dodd-Frank Wall Street Reform and Consumer
+                                  19               Protection Act (124 Stat. 1546).
+                                  20      SEC. 7. TITLE IV CORRECTION.
+                                  21               Section 414 of the Dodd-Frank Wall Street Reform
+                                  22 and Consumer Protection Act (124 Stat. 1578) is amend-
+                                  23 ed in the section heading by striking ‘‘COMMODITIES’’
+
+
+
+
+                                  24 and inserting ‘‘COMMODITY’’.
+                                              •S 451 IS
+
+                                    1     SEC. 8. TITLE VI CORRECTIONS.                       9
+                                    2              (a) IN GENERAL.—Title VI of the Dodd-Frank Wall
+                                    3 Street Reform and Consumer Protection Act (124 Stat.
+                                    4 1596) is amended—
+                                    5                        (1) in section 610 (124 Stat. 1611)—
+                                    6                                 (A) by striking subsection (b); and
+                                    7                                 (B) by redesignating subsection (c) as sub-
+                                    8                        section (b); and
+                                    9                        (2) in section 618(a) (12 U.S.C. 1850a(a))—
+                                  10                                  (A) in paragraph (4)(B)(i), by inserting
+                                  11                         ‘‘of Governors’’ after ‘‘Board’’; and
+                                  12                                  (B) in paragraph (6), by inserting ‘‘(12
+                                  13                         U.S.C. 1841)’’ after ‘‘Act of 1956’’.
+                                  14               (b) EFFECTIVE DATE.—The amendments made by
+                                  15 subsection (a)(1) of this section shall take effect as though
+                                  16 enacted as part of section 610 of the Dodd-Frank Wall
+                                  17 Street Reform and Consumer Protection Act (124 Stat.
+                                  18 1611).
+                                  19      SEC. 9. TITLE VII CORRECTIONS.
+
+                                  20               (a) IN GENERAL.—Title VII of the Dodd-Frank Wall
+                                  21 Street Reform and Consumer Protection Act (15 U.S.C.
+                                  22 8301 et seq.) is amended—
+                                  23                         (1)       in         section         719(c)(1)(B)                 (15   U.S.C.
+                                  24               8307(c)(1)(B)), by adding a period at the end;
+
+
+
+
+
+                                  25                         (2) in section 723(a)(1)(B) (124 Stat. 1675),
+                                  26               by inserting ‘‘, as added by section 107 of the Com-
+                                              •S 451 IS
+
+                                                                                         10
+                                    1              modity Futures Modernization Act of 2000 (Appen-
+                                    2              dix E of Public Law 106–554; 114 Stat. 2763A–
+                                    3              382),’’ after ‘‘subsection (i)’’;
+                                    4                        (3) in section 734(b)(1) (124 Stat. 1718), by
+                                    5              striking ‘‘is amended’’ and all that follows through
+                                    6              ‘‘(B) in’’ and inserting ‘‘is amended in’’;
+                                    7                        (4) in section 741(b)(10) (124 Stat. 1732), by
+                                    8              striking ‘‘1a(19)(A)(iv)(II)’’ each place it appears
+                                    9              and inserting ‘‘1a(18)(A)(iv)(II)’’; and
+                                  10                         (5) in section 749 (124 Stat. 1746)—
+                                  11                                  (A) in subsection (a)(2), by striking ‘‘add-
+                                  12                         ing at the end’’ and inserting ‘‘inserting after
+                                  13                         subsection (f)’’; and
+                                  14                                  (B) in subsection (h)(1)(B), by inserting
+                                  15                         ‘‘the second place that term appears’’ before the
+                                  16                         semicolon.
+                                  17               (b) EFFECTIVE DATE.—The amendments made by
+                                  18 paragraphs (3), (4), and (5) of subsection (a) of this sec-
+                                  19 tion shall take effect as though enacted as part of part
+                                  20 II of subtitle A of title VII of the Dodd-Frank Wall Street
+                                  21 Reform and Consumer Protection Act (124 Stat. 1658).
+                                  22      SEC. 10. TITLE VIII CORRECTIONS.
+                                  23               Title VIII of the Dodd-Frank Wall Street Reform
+
+
+
+
+                                  24 and Consumer Protection Act (12 U.S.C. 5461 et seq.)
+                                  25 is amended—
+
+
+                                              •S 451 IS
+
+                                                                                          11
+                                    1                        (1)       in         section         805(a)(2)(E)                 (12   U.S.C.
+                                    2              5464(a)(2)(E)), by striking the quotation marks at
+                                    3              the end;
+                                    4                        (2) in section 806 (12 U.S.C. 5465)—
+                                    5                                 (A) in subsection (b), in the first sentence,
+                                    6                        by striking ‘‘(2)) after’’ and inserting ‘‘(2)))
+                                    7                        after’’; and
+                                    8                                 (B) in subsection (e)(1)(A)—
+                                    9                                        (i) by striking ‘‘advance notice’’ and
+                                  10                                  inserting ‘‘advance’’; and
+                                  11                                         (ii) by striking ‘‘each Supervisory
+                                  12                                  Agency’’ and inserting ‘‘its Supervisory
+                                  13                                  Agency’’;
+                                  14                         (3) in section 807 (12 U.S.C. 5466)—
+                                  15                                  (A) in subsection (d)(1), by adding a pe-
+                                  16                         riod at the end; and
+                                  17                                  (B) in subsection (f)(2), by inserting a
+                                  18                         comma after ‘‘under’’ the second place that
+                                  19                         term appears;
+                                  20                         (4) in section 808(b) (12 U.S.C. 5467(b)), by
+                                  21               inserting a comma after ‘‘under’’ the third place
+                                  22               that term appears; and
+                                  23                         (5) in section 813 (12 U.S.C. 5472), in the
+
+
+
+
+                                  24               matter preceding paragraph (1), by inserting ‘‘that
+                                  25               includes’’ after ‘‘Representatives’’.
+
+
+                                              •S 451 IS
+
+                                    1     SEC. 11. TITLE IX CORRECTIONS.                 12
+                                    2              Title IX of the Dodd-Frank Wall Street Reform and
+                                    3 Consumer Protection Act (124 Stat. 1822) is amended—
+                                    4                        (1) in section 929Z(a) (124 Stat. 1871)—
+                                    5                                 (A) in paragraph (2), by striking ‘‘courts
+                                    6                        interpretation’’ and inserting ‘‘court interpreta-
+                                    7                        tions’’; and
+                                    8                                 (B) in paragraph (3), by striking ‘‘Act of
+                                    9                        1995’’ and inserting ‘‘Reform Act of 1995
+                                  10                         (Public Law 104–67; 109 Stat. 737)’’;
+                                  11                         (2) in section 939(h)(1) (124 Stat. 1887)—
+                                  12                                  (A) in the matter preceding subparagraph
+                                  13                         (A), by inserting ‘‘The’’ before ‘‘Commission’’;
+                                  14                         and
+                                  15                                  (B) by striking ‘‘feasability’’ and inserting
+                                  16                         ‘‘feasibility’’; and
+                                  17                         (3) in section 953 (124 Stat. 1903), by adding
+                                  18               at the end the following:
+                                  19               ‘‘(c) EXEMPTION.—The Commission may, by rule or
+                                  20 order, exempt an issuer or class of issuers from the re-
+                                  21 quirements under section 14(i) of the Securities Exchange
+                                  22 Act of 1934 (as amended by subsection (a) of this section)
+                                  23 or subsection (b) of this section. In determining whether
+                                  24 to make an exemption under this subsection, the Commis-
+
+
+
+
+                                  25 sion shall take into account, among other considerations,
+                                              •S 451 IS
+
+                                                                                          13
+                                    1 whether the requirements under subsections (a) and (b)
+                                    2 disproportionately burden small issuers.’’.
+                                    3     SEC. 12. TITLE X CORRECTIONS.
+
+                                    4              (a) IN GENERAL.—Title X of the Dodd-Frank Wall
+                                    5 Street Reform and Consumer Protection Act (12 U.S.C.
+                                    6 5481 et seq.) is amended—
+                                    7                        (1)       in         section         1002(12)(G)                  (12    U.S.C.
+                                    8              5481(12)(G)), by striking ‘‘Home Owners’’ and in-
+                                    9              serting ‘‘Homeowners’’;
+                                  10                         (2)      in      section           1013(a)(1)(C)                   (12   U.S.C.
+                                  11               5493(a)(1)(C)), by striking ‘‘section 11(1)’’ and in-
+                                  12               serting ‘‘subsection (l) of section 11’’;
+                                  13                         (3)        in        section           1017(a)(5)                 (12    U.S.C.
+                                  14               5497(a)(5))—
+                                  15                                  (A) in subparagraph (A), in the last sen-
+                                  16                         tence by striking ‘‘716(c) of title 31, United
+                                  17                         States Code’’ and inserting ‘‘716 of title 31,
+                                  18                         United States Code’’; and
+                                  19                                  (B) in subparagraph (C), by striking ‘‘sec-
+                                  20                         tion 3709 of the Revised Statutes of the United
+                                  21                         States (41 U.S.C. 5)’’ and inserting ‘‘section
+                                  22                         6101 of title 41, United States Code’’;
+                                  23                         (4)      in      section            1022(c)(9)(B)                  (12   U.S.C.
+
+
+
+
+                                  24               5512(c)(9)(B)), by striking ‘‘1978,’’ and inserting
+                                  25               ‘‘1978’’;
+
+
+                                              •S 451 IS
+
+                                                                                         14
+                                    1                        (5) in section 1025 (12 U.S.C. 5515)—
+                                    2                                 (A) in subsection (b)(1), by inserting ‘‘cov-
+                                    3                        ered’’ before ‘‘persons’’ each place that term ap-
+                                    4                        pears;
+                                    5                                 (B) in subsection (d), by striking ‘‘12
+                                    6                        U.S.C. 1867(c)’’ and inserting ‘‘(12 U.S.C.
+                                    7                        1867(c))’’; and
+                                    8                                 (C) in subsection (e)(4)(F), by striking
+                                    9                        ‘‘212 of the Federal Credit Union Act (112
+                                  10                         U.S.C. 1790a)’’ and inserting ‘‘216 of the Fed-
+                                  11                         eral Credit Union Act (12 U.S.C. 1790d)’’;
+                                  12                         (6)      in      section          1027(d)(1)(B)                   (12   U.S.C.
+                                  13               5517(d)(1)(B)), by inserting a comma after ‘‘(A)’’;
+                                  14                         (7) in section 1029(d) (12 U.S.C. 5519(d)), by
+                                  15               striking the period after ‘‘Commission Act’’;
+                                  16                         (8) in section 1061 (12 U.S.C. 5581)—
+                                  17                                  (A) in subsection (b)(7)—
+                                  18                                         (i) by striking ‘‘Secretary of the De-
+                                  19                                  partment of Housing and Urban Develop-
+                                  20                                  ment’’ each place that term appears and
+                                  21                                  inserting ‘‘Department of Housing and
+                                  22                                  Urban Development’’; and
+                                  23                                         (ii) in subparagraph (A), by striking
+
+
+
+
+
+                                  24                                  ‘‘(12 U.S.C. 5102 et seq.)’’ and inserting
+                                  25                                  ‘‘(12 U.S.C. 5101 et seq.)’’; and
+
+
+                                              •S 451 IS
+
+                                                                                         15
+                                    1                                 (B) in subsection (c)(2)(A), by striking
+                                    2                        ‘‘procedures in’’ and inserting ‘‘procedures’’;
+                                    3                        (9) in section 1063 (12 U.S.C. 5583)—
+                                    4                                 (A) in subsection (f)(1)(B), by striking
+                                    5                        ‘‘that’’; and
+                                    6                                 (B) in subsection (g)(1)(A)—
+                                    7                                         (i) by striking ‘‘(12 U.S.C. 5102 et
+                                    8                                 seq.)’’ and inserting ‘‘(12 U.S.C. 5101 et
+                                    9                                 seq.)’’; and
+                                  10                                          (ii) by striking ‘‘seq)’’ and inserting
+                                  11                                  ‘‘seq.)’’;
+                                  12                         (10) in section 1064(i)(1)(A)(iii) (12 U.S.C.
+                                  13               5584(i)(1)(A)(iii)), by inserting a period before ‘‘If
+                                  14               an’’;
+                                  15                         (11)        in       section           1073(c)(2)                (12   U.S.C.
+                                  16               5601(c)(2))—
+                                  17                                  (A) in the paragraph heading, by inserting
+                                  18                         ‘‘AND        EDUCATION’’                    after ‘‘FINANCIAL            LIT-
+                                  19                         ERACY’’;         and
+                                  20                                  (B) by striking ‘‘its duties’’ and inserting
+                                  21                         ‘‘their duties’’;
+                                  22                         (12)        in       section           1076(b)(1)                (12   U.S.C.
+                                  23               5602(b)(1)), by inserting before the period at the
+
+
+
+
+                                  24               end the following: ‘‘, the Bureau may, after notice
+                                              •S 451 IS
+
+                                                                                         16
+                                    1              and opportunity for comment, prescribe regula-
+                                    2              tions’’;
+                                    3                        (13) in section 1077(b)(4)(F) (124 Stat. 2076),
+                                    4              by striking ‘‘associates’’ and inserting ‘‘associate’s’’;
+                                    5                        (14) in section 1084(1) (124 Stat. 2081)—
+                                    6                                 (A) by inserting ‘‘paragraph (3) of section
+                                    7                        903 (15 U.S.C. 1693a),’’ before ‘‘subsections
+                                    8                        (a) and (e) of section 904’’;
+                                    9                                 (B) by striking ‘‘and in 918’’ and inserting
+                                  10                         ‘‘, section 916(d) (15 U.S.C. 1693m(d)), section
+                                  11                         918’’; and
+                                  12                                  (C) by inserting a comma after ‘‘2009)’’;
+                                  13                         (15) by striking section 1087 (124 Stat. 2086);
+                                  14                         (16) in section 1089 (124 Stat. 2092)—
+                                  15                                  (A) in paragraph (3)—
+                                  16                                         (i) in subparagraph (A), by striking
+                                  17                                  ‘‘and’’ at the end; and
+                                  18                                         (ii) in subparagraph (B)(vi), by strik-
+                                  19                                  ing the period at the end and inserting ‘‘;
+                                  20                                  and’’; and
+                                  21                                  (B) by redesignating paragraph (4) as sub-
+                                  22                         paragraph (C) and adjusting the margins ac-
+                                  23                         cordingly; and
+
+
+
+
+
+                                              •S 451 IS
+
+                                                                                         17
+                                    1                        (17) in section 1098(6) (124 Stat. 2104), by in-
+                                    2              serting ‘‘the first place that term appears’’ before
+                                    3              ‘‘and’’.
+                                    4              (b) EFFECTIVE DATE.—The amendments made by
+                                    5 paragraphs (14), (15), (16), and (17) of subsection (a)
+                                    6 of this section shall take effect as though enacted as part
+                                    7 of subtitle H of title X of the Dodd-Frank Wall Street
+                                    8 Reform and Consumer Protection Act (124 Stat. 2080).
+                                    9     SEC. 13. TITLE XI CORRECTION.
+                                  10               Title XI of the Dodd-Frank Wall Street Reform and
+                                  11 Consumer Protection Act (124 Stat. 2113) is amended,
+                                  12 in section 1105(d)(1) (12 U.S.C. 5612(d)(1)), by striking
+                                  13 ‘‘AUTHORITY.—’’ and all that follows through ‘‘by the
+                                  14 President’’ and inserting ‘‘AUTHORITY.—A request by the
+                                  15 President’’.
+                                  16      SEC. 14. TITLE XII CORRECTION.
+                                  17               Title XII of the Dodd-Frank Wall Street Reform and
+                                  18 Consumer Protection Act (124 Stat. 2129) is amended,
+                                  19 in section 1208(b) (12 U.S.C. 5626(b)), by inserting ‘‘,
+                                  20 as defined in section 103(10) of the Riegle Community
+                                  21 Development and Regulatory Improvement Act of 1994
+                                  22 (12 U.S.C. 4702(10)),’’ after ‘‘Fund’’.
+                                  23      SEC. 15. TITLE XIV CORRECTION.
+                                  24               Title XIV of the Dodd-Frank Wall Street Reform and
+                                  25 Consumer Protection Act (124 Stat. 2136) is amended,
+
+
+                                              •S 451 IS
+
+                                                                                         18
+                                    1 in section 1451(c) (12 U.S.C. 1701x–1(c)), by striking
+                                    2 ‘‘pursuant’’.
+                                    3     SEC. 16. CONFORMING CORRECTIONS TO OTHER STAT-
+                                    4                              UTES.
+                                    5              (a) ALTERNATIVE MORTGAGE TRANSACTION PARITY
+                                    6 ACT            OF     1982.—The Alternative Mortgage Transaction
+                                    7 Parity Act of 1982 (12 U.S.C. 3801 et seq.) is amended—
+                                    8                        (1)        in        section           802(a)(3)                (12   U.S.C.
+                                    9              3801(a)(3)), by striking ‘‘the Director of the Office
+                                  10               of Thrift Supervision’’ and inserting ‘‘the Bureau of
+                                  11               Consumer Financial Protection’’; and
+                                  12                         (2)        in        section           804(d)(1)                (12   U.S.C.
+                                  13               3803(d)(1))—
+                                  14                                  (A) by striking ‘‘identified’’ and inserting
+                                  15                         ‘‘issued’’; and
+                                  16                                  (B) by striking the comma after ‘‘Adminis-
+                                  17                         tration’’.
+                                  18               (b) BANK HOLDING COMPANY ACTS.—
+                                  19                         (1) BANK              HOLDING               COMPANY             ACT   AMEND-
+                                  20               MENTS OF 1970.—Section                                106(b)(1) of the Bank
+                                  21               Holding Company Act Amendments of 1970 (12
+                                  22               U.S.C. 1972(1)) is amended, in the undesignated
+                                  23               matter at the end—
+
+
+
+
+
+                                  24                                  (A) by inserting ‘‘Office of the’’ before
+                                  25                         ‘‘Comptroller of the’’; and
+
+
+                                              •S 451 IS
+
+                                                                                         19
+                                    1                                 (B) by striking ‘‘Federal Deposit Insur-
+                                    2                        ance Company’’ and inserting ‘‘Federal Deposit
+                                    3                        Insurance Corporation’’.
+                                    4                        (2) BANK             HOLDING COMPANY ACT OF 1956.—
+                                    5              Section 13 of the Bank Holding Company Act of
+                                    6              1956 (12 U.S.C. 1851) is amended—
+                                    7                                 (A) in subsection (d)(1)(E), by striking
+                                    8                        ‘‘102 of the Small Business Investment Act of
+                                    9                        1958 (15 U.S.C. 662)’’ and inserting ‘‘103(3)
+                                  10                         of the Small Business Investment Act of 1958
+                                  11                         (15 U.S.C. 662(3))’’;
+                                  12                                  (B) in subsection (f)(3)(A)(ii), by striking
+                                  13                         ‘‘(d)(1)(g)(v)’’ and inserting ‘‘(d)(1)(G)(v)’’;
+                                  14                         and
+                                  15                                  (C) in subsection (h)(1), by striking ‘‘sec-
+                                  16                         tion 8 of the International Banking Act of
+                                  17                         1978’’ and inserting ‘‘section 8(a) of the Inter-
+                                  18                         national Banking Act of 1978 (12 U.S.C.
+                                  19                         3106(a))’’.
+                                  20               (c) BALANCED BUDGET                            AND        EMERGENCY DEFICIT
+                                  21 CONTROL ACT.—Section 255(g)(1)(A) of the Balanced
+                                  22 Budget and Emergency Deficit Control Act of 1985 (2
+                                  23 U.S.C. 905(g)(1)(A)) is amended by striking ‘‘Office of
+
+
+
+
+                                  24 Thrift Supervision (20–4108–0–3–373).’’.
+                                              •S 451 IS
+
+                                                                                         20
+                                    1              (d) BRETTON WOODS AGREEMENTS ACT.—Section
+                                    2 68(a)(1) of the Bretton Woods Agreements Act (22 U.S.C.
+                                    3 286tt(a)(1)) is amended by striking ‘‘Fund ,’’ and insert-
+                                    4 ing ‘‘Fund,’’.
+                                    5              (e) CAN–SPAM ACT                          OF    2003.—Section 7(b)(1)(D)
+                                    6 of           the        CAN–SPAM                       Act         of    2003           (15   U.S.C.
+                                    7 7706(b)(1)(D)) is amended by striking ‘‘Director of the
+                                    8 Office of Thrift Supervision’’ and inserting ‘‘Comptroller
+                                    9 of the Currency or the Board of Directors of the Federal
+                                  10 Deposit Insurance Corporation, as applicable’’.
+                                  11               (f) CHILDREN’S ONLINE PRIVACY PROTECTION ACT
+                                  12      OF      1998.—Section 1306(b)(2) of the Children’s Online
+                                  13 Privacy Protection Act of 1998 (15 U.S.C. 6505(b)(2))
+                                  14 is amended by striking ‘‘Director of the Office of Thrift
+                                  15 Supervision’’ and inserting ‘‘Comptroller of the Currency
+                                  16 and the Board of Directors of the Federal Deposit Insur-
+                                  17 ance Corporation, as applicable’’.
+                                  18               (g) COMMODITY EXCHANGE ACT.—The Commodity
+                                  19 Exchange Act (7 U.S.C. 1 et seq.) is amended—
+                                  20                         (1) in section 1a (7 U.S.C. 1a)—
+                                  21                                  (A) in paragraph (12)(A)(i)(II), by adding
+                                  22                         a semicolon at the end;
+                                  23                                  (B) in paragraph (39)(A)(iv), by striking
+
+
+
+
+
+                                  24                         ‘‘225’’ and inserting ‘‘25’’; and
+
+
+
+
+                                              •S 451 IS
+
+                                                                                         21
+                                    1                                 (C) in paragraph (47)(B)(viii)(II), by
+                                    2                        striking ‘‘(15 U.S.C. 77b(a)(11))’’ and inserting
+                                    3                        ‘‘(15 U.S.C. 77b(a)(11)))’’;
+                                    4                        (2) in section 2 (7 U.S.C. 2)—
+                                    5                                 (A) in subsection (c)(2)(D)(ii)(I), by strik-
+                                    6                        ing ‘‘subparagraphs’’ and inserting ‘‘subpara-
+                                    7                        graph’’; and
+                                    8                                 (B) in subsection (h)—
+                                    9                                        (i) in paragraph (5)(A)—
+                                  10                                                   (I) by striking ‘‘Swaps’’ and in-
+                                  11                                         serting ‘‘Each swap’’; and
+                                  12                                                   (II) by striking ‘‘no later than
+                                  13                                         180 days after the effective date of
+                                  14                                         this subsection.’’ and inserting ‘‘no
+                                  15                                         later than—
+                                  16                                         ‘‘(i) 30 days after the issuance of the
+                                  17                                  interim final rule; or
+                                  18                                         ‘‘(ii) such other date as the Commis-
+                                  19                                  sion determines appropriate.’’;
+                                  20                                         (ii) in paragraph (7)—
+                                  21                                                   (I) in subparagraph (C)(i)(VII),
+                                  22                                         by inserting ‘‘or a governmental plan’’
+                                  23                                         after ‘‘employee benefit plan’’; and
+
+
+
+
+
+                                              •S 451 IS
+
+                                                                                         22
+                                    1                                                  (II) in subparagraph (D)(ii)(V),
+                                    2                                        by striking ‘‘of that Act’’ and insert-
+                                    3                                        ing ‘‘of that section’’; and
+                                    4                                        (iii) in paragraph (8)(A)(ii), by insert-
+                                    5                                 ing ‘‘section’’ before ‘‘5h or’’;
+                                    6                        (3) in section 4 (7 U.S.C. 6)—
+                                    7                                 (A) in subsection (b)(1)(A), by striking
+                                    8                        ‘‘commission’’ each place that term appears and
+                                    9                        inserting ‘‘Commission’’; and
+                                  10                                  (B) in subsection (c)(1)—
+                                  11                                         (i) in subparagraph (A)—
+                                  12                                                   (I) by inserting ‘‘the Commission
+                                  13                                         shall not grant exemptions,’’ after
+                                  14                                         ‘‘grant exemptions,’’; and
+                                  15                                                   (II) in clause (i)—
+                                  16                                                            (aa) in subclause (I)—
+                                  17                                                                     (AA) by striking ‘‘5(g),
+                                  18                                                            5(h),’’; and
+                                  19                                                                     (BB) by striking ‘‘8e,’’;
+                                  20                                                            and
+                                  21                                                            (bb) in subclause (II), by
+                                  22                                                   striking ‘‘206(e)’’ and inserting
+                                  23                                                   ‘‘206’’; and
+
+
+
+
+
+                                  24                                         (ii) in subparagraph (B), by striking
+                                  25                                  ‘‘(D))’’ and inserting ‘‘(D)’’;
+
+
+                                              •S 451 IS
+
+                                                                                         23
+                                    1                        (4)        in        section           4d(f)(2)(A)                (7     U.S.C.
+                                    2              6d(f)(2)(A)), by striking ‘‘though’’ and inserting
+                                    3              ‘‘through’’;
+                                    4                        (5) in section 4s (7 U.S.C. 6s)—
+                                    5                                 (A) in subsection (e)(3)—
+                                    6                                        (i) in subparagraph (B)(i)(II), by
+                                    7                                 striking ‘‘(11))’’ and inserting ‘‘(11)))’’;
+                                    8                                 and
+                                    9                                        (ii) in subparagraph (D)(ii), in the
+                                  10                                  matter preceding subclause (I), by striking
+                                  11                                  ‘‘non        cash          collateral’’               and     inserting
+                                  12                                  ‘‘noncash collateral’’;
+                                  13                                  (B) in subsection (f)(1)(B)(i), by striking
+                                  14                         ‘‘Commission’’ and inserting ‘‘prudential regu-
+                                  15                         lator’’;
+                                  16                                  (C) in subsection (h)—
+                                  17                                         (i) in paragraph (2)(B), by inserting
+                                  18                                  ‘‘a’’ before ‘‘swap with’’; and
+                                  19                                         (ii) in paragraph (5)(A)—
+                                  20                                                   (I) in clause (i)—
+                                  21                                                            (aa) by striking ‘‘section
+                                  22                                                   1a(18)’’ and inserting ‘‘section
+                                  23                                                   1a(18)(A)’’; and
+
+
+
+
+
+                                              •S 451 IS
+
+                                                                                         24
+                                    1                                                           (bb) in subclause (VII), by
+                                    2                                                  striking ‘‘act of’’ and inserting
+                                    3                                                  ‘‘Act of’’; and
+                                    4                                                  (II) in clause (ii), by inserting
+                                    5                                        ‘‘in connection with the transaction’’
+                                    6                                        after ‘‘acting’’; and
+                                    7                                 (D) in subsection (k)(3)(A)(ii), by striking
+                                    8                        ‘‘the code’’ and inserting ‘‘any code’’;
+                                    9                        (6)        in        section          5(d)(19)(A)                     (7   U.S.C.
+                                  10               7(d)(19)(A)), by striking ‘‘taking’’ and inserting
+                                  11               ‘‘take’’;
+                                  12                         (7) in section 5b (7 U.S.C. 7a–1), by redesig-
+                                  13               nating subsection (k) as subsection (j);
+                                  14                         (8) in section 5c(c) (7 U.S.C. 7a–2(c))—
+                                  15                                  (A) in paragraph (4)(B), by striking
+                                  16                         ‘‘1a(10)’’ and inserting ‘‘1a(9)’’; and
+                                  17                                  (B) in paragraph (5)—
+                                  18                                         (i) in subparagraph (A), by striking
+                                  19                                  ‘‘this subtitle’’ and inserting ‘‘this Act’’;
+                                  20                                  and
+                                  21                                         (ii) in subparagraph (C)(i), by strik-
+                                  22                                  ing ‘‘1a(2)(i)’’ and inserting ‘‘1a(9)’’;
+                                  23                         (9) in section 5h (7 U.S.C. 7b–3)—
+
+
+
+
+
+                                              •S 451 IS
+
+                                                                                         25
+                                    1                                 (A) in subsection (a)(1) , by striking ‘‘a fa-
+                                    2                        cility’’ and inserting ‘‘a swap execution facil-
+                                    3                        ity’’; and
+                                    4                                 (B) in subsection (f)(11)(A), by striking
+                                    5                        ‘‘taking’’ and inserting ‘‘take’’;
+                                    6                        (10) in section 22(a)(1)(C)(ii) (7 U.S.C.
+                                    7              25(a)(1)(C)(ii)), by striking ‘‘or’’ at the end; and
+                                    8                        (11) in section 23 (7 U.S.C. 26)—
+                                    9                                 (A) in subsection (c)—
+                                  10                                         (i) in paragraph (1)(B)(III), by strik-
+                                  11                                  ing ‘‘the Act’’ both places it appears and
+                                  12                                  inserting ‘‘this Act’’; and
+                                  13                                         (ii) in paragraph (2)(A)(i), by striking
+                                  14                                  ‘‘a appropriate’’ and inserting ‘‘an appro-
+                                  15                                  priate’’; and
+                                  16                                  (B) in subsection (f)(3), by striking
+                                  17                         ‘‘7064’’ and inserting ‘‘706’’.
+                                  18               (h) COMMUNITY REINVESTMENT ACT OF 1977.—The
+                                  19 Community Reinvestment Act of 1977 (12 U.S.C. 2901
+                                  20 et seq.) is amended—
+                                  21                         (1)        in        section           803(1)(C)                (12   U.S.C.
+                                  22               2902(1)(C)), by striking the period at the end and
+                                  23               inserting a semicolon; and
+
+
+
+
+
+                                  24                         (2) in section 806 (12 U.S.C. 2905), by striking
+                                  25               ‘‘companies,,’’ and inserting ‘‘companies,’’.
+
+
+                                              •S 451 IS
+
+                                                                                         26
+                                    1              (i) CREDIT REPAIR ORGANIZATIONS ACT.—Section
+                                    2 403(4) of the Credit Repair Organizations Act (15 U.S.C.
+                                    3 1679a(4)) is amended by striking ‘‘103(e)’’ and inserting
+                                    4 ‘‘103(f)’’.
+                                    5              (j) DEPOSITORY INSTITUTION MANAGEMENT INTER-
+                                    6     LOCKS        ACT.—Section 205(9) of the Depository Institution
+                                    7 Management Interlocks Act (12 U.S.C. 3204(9)) is
+                                    8 amended by striking ‘‘Director of the Office of Thrift Su-
+                                    9 pervision’’ and inserting ‘‘appropriate Federal banking
+                                  10 agency’’.
+                                  11               (k) ECONOMIC GROWTH                             AND       REGULATORY PAPER-
+                                  12      WORK         REDUCTION ACT                   OF     1996.—Section 2227(a)(1) of
+                                  13 the Economic Growth and Regulatory Paperwork Reduc-
+                                  14 tion Act of 1996 (12 U.S.C. 252(a)(1)) is amended by
+                                  15 striking ‘‘the Director of the Office of Thrift Super-
+                                  16 vision,’’.
+                                  17               (l) ELECTRONIC FUND TRANSFER ACT.—The Elec-
+                                  18 tronic Fund Transfer Act (15 U.S.C. 1693 et seq.) is
+                                  19 amended—
+                                  20                         (1) in section 903 (15 U.S.C. 1693a)—
+                                  21                                  (A) in paragraph (2), by striking ‘‘103(i)’’
+                                  22                         and inserting ‘‘103(j)’’; and
+                                  23                                  (B) by redesignating the first paragraph
+
+
+
+
+                                  24                         designated as paragraph (4) (defining the term
+                                  25                         ‘‘Board’’), as paragraph (3);
+
+
+                                              •S 451 IS
+
+                                                                                         27
+                                    1                        (2) in section 904(a) (15 U.S.C. 1693b(a))—
+                                    2                                 (A) by redesignating the second paragraph
+                                    3                        designated as paragraph (1) (relating to con-
+                                    4                        sultation with other agencies), the second para-
+                                    5                        graph designated as paragraph (2) (relating to
+                                    6                        the preparation of an analysis of economic im-
+                                    7                        pact), paragraph (3), and paragraph (4), as
+                                    8                        subparagraphs (A), (B), (C), and (D), respec-
+                                    9                        tively, and adjusting the margins accordingly;
+                                  10                         and
+                                  11                                  (B) by striking ‘‘In prescribing such regu-
+                                  12                         lations, the Board shall:’’ and inserting the fol-
+                                  13                         lowing:
+                                  14                         ‘‘(3) REGULATIONS.—In prescribing regulations
+                                  15               under this subsection, the Bureau and the Board
+                                  16               shall—’’;
+                                  17                         (3) in section 909(c) (15 U.S.C. 1693g(c)), by
+                                  18               striking ‘‘103(e)’’ and inserting ‘‘103(f)’’;
+                                  19                         (4)        in        section           918(a)(4)                (15   U.S.C.
+                                  20               1693o(a)(4), by striking ‘‘Act and’’ and inserting
+                                  21               ‘‘Act; and’’; and
+                                  22                         (5) in section 920(a)(4)(C) (15 U.S.C. 1693o–
+                                  23               2(a)(4)(C)), by striking ‘‘the Director of the Office
+
+
+
+
+                                  24               of Thrift Supervision,’’.
+                                              •S 451 IS
+
+                                                                                         28
+                                    1              (m) EMERGENCY ECONOMIC STABILIZATION ACT                                              OF
+                                    2 2008.—Section 101(b) of the Emergency Economic Sta-
+                                    3 bilization Act of 2008 (12 U.S.C. 5211(b)) is amended
+                                    4 by striking ‘‘the Director of the Office of Thrift Super-
+                                    5 vision,’’.
+                                    6              (n) EQUAL CREDIT OPPORTUNITY ACT.—The Equal
+                                    7 Credit Opportunity Act (15 U.S.C. 1691 et seq.) is
+                                    8 amended—
+                                    9                        (1) in section 703 (15 U.S.C. 1691b)—
+                                  10                                  (A) in each of subsections (c) and (d), by
+                                  11                         striking ‘‘paragraph’’ each place that term ap-
+                                  12                         pears and inserting ‘‘subsection’’; and
+                                  13                                  (B) in subsection (g), by adding a period
+                                  14                         at the end;
+                                  15                         (2) in section 704 (15 U.S.C. 1691c)—
+                                  16                                  (A) in subsection (a), by striking ‘‘Con-
+                                  17                         sumer Protection Financial Protection Act of
+                                  18                         2010 with’’ and inserting ‘‘Consumer Financial
+                                  19                         Protection Act of 2010, compliance with’’; and
+                                  20                                  (B) in subsection (c), in the second sen-
+                                  21                         tence, by striking ‘‘subchapter’’ and inserting
+                                  22                         ‘‘title’’;
+                                  23                         (3) in section 704B(e)(3) (15 U.S.C. 1691c–
+
+
+
+
+                                  24               2(e)(3)),            by        striking          ‘‘(1)(E)’’              and    inserting
+                                  25               ‘‘(2)(E)’’; and
+
+
+                                              •S 451 IS
+
+                                                                                          29
+                                    1                        (4) in section 706(k) (15 U.S.C. 1691e(k)), by
+                                    2              striking ‘‘, (2), or (3)’’ and inserting ‘‘or (2)’’.
+                                    3              (o) EXPEDITED FUNDS AVAILABILITY ACT.—The
+                                    4 Expedited Funds Availability Act (12 U.S.C. 4001 et seq.)
+                                    5 is amended—
+                                    6                        (1)       in         section         605(f)(2)(A)                 (12   U.S.C.
+                                    7              4004(f)(2)(A)), by striking ‘‘,,’’ and inserting a
+                                    8              semicolon; and
+                                    9                        (2)        in         section           610(a)(2)                (12    U.S.C.
+                                  10               4009(a)(2)), by striking ‘‘Director of the Office of
+                                  11               Thrift Supervision’’ and inserting ‘‘Comptroller of
+                                  12               the Currency and the Board of Directors of the Fed-
+                                  13               eral Deposit Insurance Corporation, as appro-
+                                  14               priate,’’.
+                                  15               (p) FAIR CREDIT REPORTING ACT.—The Fair Credit
+                                  16 Reporting Act (15 U.S.C. 1681 et seq.) is amended—
+                                  17                         (1) in section 603 (15 U.S.C. 1681a)—
+                                  18                                  (A) in subsection (d)(2)(D), by striking
+                                  19                         ‘‘(x)’’ and inserting ‘‘(y)’’;
+                                  20                                  (B) in subsection (q)(5), by striking
+                                  21                         ‘‘103(i)’’ and inserting ‘‘103(j)’’; and
+                                  22                                  (C) in subsection (v), by striking ‘‘Bureau’’
+                                  23                         and inserting ‘‘Federal Trade Commission’’;
+
+
+
+
+
+                                  24                         (2) in section 604 (15 U.S.C. 1681b)—
+
+
+
+
+                                              •S 451 IS
+
+                                                                                          30
+                                    1                                 (A) in subsection (b)(2)(B)(i), by striking
+                                    2                        ‘‘section 615(a)(3)’’ and inserting ‘‘section
+                                    3                        615(a)(4)’’; and
+                                    4                                 (B) in subsection (g)(5), by striking
+                                    5                        ‘‘PARAGRAPH                 (2).—’’           and all that follows
+                                    6                        through ‘‘The Bureau’’ and inserting ‘‘PARA-
+                                    7                        GRAPH (2).—The                   Bureau’’;
+                                    8                        (3)       in         section         605(h)(2)(A)                 (15   U.S.C.
+                                    9              1681c(h)(2)(A))—
+                                  10                                  (A) by striking ‘‘shall,,’’ and inserting
+                                  11                         ‘‘shall,’’; and
+                                  12                                  (B) by striking ‘‘Commission,,’’ and insert-
+                                  13                         ing ‘‘Commission,’’;
+                                  14                         (4) in section 605A(h)(1)(A) (15 U.S.C. 1681c–
+                                  15               1(h)(1)(A)), by striking ‘‘103(i)’’ and inserting
+                                  16               ‘‘103(j)’’;
+                                  17                         (5) in section 609 (15 U.S.C. 1681g)—
+                                  18                                  (A) in subsection (c)(1)—
+                                  19                                         (i) in the paragraph heading, by strik-
+                                  20                                  ing ‘‘COMMISSION’’ and inserting ‘‘BU-
+                                  21                                  REAU’’;        and
+                                  22                                         (ii) in subparagraph (B)(vi), by strik-
+                                  23                                  ing ‘‘603(w)’’ and inserting ‘‘603(x)’’; and
+
+
+
+
+
+                                              •S 451 IS
+
+                                                                                         31
+                                    1                                 (B) by striking ‘‘The Commission’’ each
+                                    2                        place that term appears and inserting ‘‘The Bu-
+                                    3                        reau’’;
+                                    4                        (6) in section 611 (15 U.S.C. 1681i), by strik-
+                                    5              ing ‘‘The Commission’’ each place that term appears
+                                    6              and inserting ‘‘The Bureau’’;
+                                    7                        (7) in section 612 (15 U.S.C. 1681j)—
+                                    8                                 (A) in subsection (a)(1), by striking ‘‘(w)’’
+                                    9                        and inserting ‘‘(x)’’; and
+                                  10                                  (B) by striking ‘‘The Commission’’ each
+                                  11                         place that term appears and inserting ‘‘The Bu-
+                                  12                         reau’’; and
+                                  13                         (8) in section 621 (15 U.S.C. 1681s)—
+                                  14                                  (A) in subsection (a)(1), in the first sen-
+                                  15                         tence, by striking ‘‘, subsection (b)’’;
+                                  16                                  (B) in subsection (e)(2), by inserting a pe-
+                                  17                         riod after ‘‘provisions of this title’’; and
+                                  18                                  (C) in subsection (f)(2), by striking ‘‘The
+                                  19                         Commission’’ and inserting ‘‘The Bureau’’.
+                                  20               (q)        FEDERAL                CREDIT              UNION              ACT.—Section
+                                  21 206(g)(7)(D)(iv) of the Federal Credit Union Act (12
+                                  22 U.S.C. 1786(g)(7)(D)(iv)) is amended by striking the
+                                  23 semicolon at the end and inserting a period.
+
+
+
+
+
+                                              •S 451 IS
+
+                                                                                         32
+                                    1              (r) FEDERAL DEPOSIT INSURANCE ACT.—The Fed-
+                                    2 eral Deposit Insurance Act (12 U.S.C. 1811 et seq.) is
+                                    3 amended—
+                                    4                        (1)        in        section          3(q)(2)(C)                 (12   U.S.C.
+                                    5              1813(q)(2)(C)), by adding ‘‘and’’ at the end;
+                                    6                        (2) in section 7 (12 U.S.C. 1817)—
+                                    7                                 (A) in subsection (b)(2)—
+                                    8                                        (i) in subparagraph (A), by striking
+                                    9                                 ‘‘(D)’’ and inserting ‘‘(C)’’; and
+                                  10                                         (ii) by redesignating subparagraphs
+                                  11                                  (D) and (E) as subparagraphs (C) and
+                                  12                                  (D), respectively; and
+                                  13                                  (B) in subsection (e)(2)(C), by adding a
+                                  14                         period at the end;
+                                  15                         (3) in section 8 (12 U.S.C. 1818)—
+                                  16                                  (A) in subsection (b)(3), by striking
+                                  17                         ‘‘Act))’’ and inserting ‘‘Act)’’; and
+                                  18                                  (B) in subsection (t)—
+                                  19                                         (i) in paragraph (2)—
+                                  20                                                   (I) in subparagraph (C), by strik-
+                                  21                                         ing ‘‘depositors or’’ and inserting ‘‘de-
+                                  22                                         positors; or’’; and
+                                  23                                                   (II) in subparagraph (D), by
+
+
+
+
+                                  24                                         striking the semicolon at the end and
+                                  25                                         inserting a period; and
+
+
+                                              •S 451 IS
+
+                                                                                         33
+                                    1                                        (ii) by redesignating the second para-
+                                    2                                 graph designated as paragraph (6), as
+                                    3                                 added by section 1090(1) of the Dodd-
+                                    4                                 Frank Wall Street Reform and Consumer
+                                    5                                 Protection Act (124 Stat. 2093) (relating
+                                    6                                 to referral to the Bureau of Consumer Fi-
+                                    7                                 nancial Protection), as paragraph (7);
+                                    8                        (4)       in         section         10(b)(3)(A)                 (12   U.S.C.
+                                    9              1820(b)(3)(A)), by striking ‘‘any special examination
+                                  10               of any insured depository institution’’ and all that
+                                  11               follows and inserting the following: ‘‘any special ex-
+                                  12               amination of any insured depository institution or
+                                  13               nonbank financial company supervised by the Board
+                                  14               of Governors or a bank holding company described
+                                  15               in section 165(a) of the Financial Stability Act of
+                                  16               2010, whenever the Board of Directors determines
+                                  17               that a special examination of any such depository in-
+                                  18               stitution is necessary to determine the condition of
+                                  19               such depository institution for insurance purposes,
+                                  20               or of such nonbank financial company supervised by
+                                  21               the Board of Governors or bank holding company
+                                  22               described in section 165(a) of the Financial Stability
+                                  23               Act of 2010, for the purpose of implementing its au-
+
+
+
+
+                                  24               thority to provide for orderly liquidation of any such
+                                  25               company under title II of the Dodd-Frank Wall
+
+
+                                              •S 451 IS
+
+                                                                                         34
+                                    1              Street Reform and Consumer Protection Act, pro-
+                                    2              vided that such authority may not be used with re-
+                                    3              spect to any such company that is in a generally
+                                    4              sound condition.’’;
+                                    5                        (5) in section 11 (12 U.S.C. 1821)—
+                                    6                                 (A) in subsection (d)(2)(I)(ii), by striking
+                                    7                        ‘‘and section 21A(b)(4)’’; and
+                                    8                                 (B) in subsection (m), in each of para-
+                                    9                        graphs (16) and (18), by striking the comma
+                                  10                         after ‘‘Comptroller of the Currency’’ each place
+                                  11                         it appears; and
+                                  12                         (6) in section 26(a) (12 U.S.C. 1831c(a)), by
+                                  13               striking ‘‘Holding Company Act’’ each place that
+                                  14               term appears and inserting ‘‘Holding Company Act
+                                  15               of 1956’’.
+                                  16               (s) FEDERAL FINANCIAL INSTITUTIONS EXAMINA-
+                                  17      TION        COUNCIL ACT                  OF    1978.—Section 1003(1) of the
+                                  18 Federal Financial Institutions Examination Council Act of
+                                  19 1978 (12 U.S.C. 3302(1)) is amended by striking ‘‘the
+                                  20 Office of Thrift Supervision,’’.
+                                  21               (t) FEDERAL FIRE PREVENTION                                    AND       CONTROL ACT
+                                  22      OF     1974.—Section 31(a)(5)(B) of the Federal Fire Pre-
+                                  23 vention                 and         Control             Act         of     1974          (15   U.S.C.
+
+
+
+
+                                  24 2227(a)(5)(B)) is amended by striking ‘‘the Federal De-
+                                  25 posit Insurance Corporation’’ and all that follows through
+
+
+                                              •S 451 IS
+
+                                                                                         35
+                                    1 the period and inserting ‘‘or the Federal Deposit Insur-
+                                    2 ance Corporation under the affordable housing program
+                                    3 under section 40 of the Federal Deposit Insurance Act.’’.
+                                    4              (u) FEDERAL HOME LOAN BANK ACT.—The Federal
+                                    5 Home Loan Bank Act (12 U.S.C. 1421 et seq.) is amend-
+                                    6 ed—
+                                    7                        (1) in section 10(h)(1) (12 U.S.C. 1430(h)(1)),
+                                    8              by striking ‘‘Director of the Office of Thrift Super-
+                                    9              vision’’ and inserting ‘‘Comptroller of the Currency
+                                  10               or the Board of Directors of the Federal Deposit In-
+                                  11               surance Corporation, as applicable’’; and
+                                  12                         (2) in section 22(a) (12 U.S.C. 1442(a))—
+                                  13                                  (A) in the matter preceding paragraph (1),
+                                  14                         by striking ‘‘Currency’’ and all that follows
+                                  15                         through ‘‘Supervision’’ and inserting ‘‘Cur-
+                                  16                         rency, the Chairman of the Board of Governors
+                                  17                         of the Federal Reserve System, the Chairperson
+                                  18                         of the Federal Deposit Insurance Corporation,
+                                  19                         and the Chairman of the National Credit Union
+                                  20                         Administration’’; and
+                                  21                                  (B) in the undesignated matter following
+                                  22                         paragraph (2), by striking ‘‘Currency’’ and all
+                                  23                         that follows through ‘‘Supervision’’ and insert-
+
+
+
+
+                                  24                         ing ‘‘Currency, the Chairman of the Board of
+                                  25                         Governors of the Federal Reserve System, and
+
+
+                                              •S 451 IS
+
+                                                                                         36
+                                    1                        the Chairman of the National Credit Union Ad-
+                                    2                        ministration’’.
+                                    3              (v) FEDERAL RESERVE ACT.—The Federal Reserve
+                                    4 Act (12 U.S.C. 221 et seq.) is amended in section 11 (12
+                                    5 U.S.C. 248)—
+                                    6                        (1) by redesignating subsection (s), as added by
+                                    7              section 1103(b) of the Dodd-Frank Wall Street Re-
+                                    8              form and Consumer Protection Act (124 Stat. 2118)
+                                    9              (relating to Federal Reserve transparency and re-
+                                  10               lease of information), as subsection (t); and
+                                  11                         (2) in subsection (t), as so redesignated, in
+                                  12               paragraph (8)(B), by striking ‘‘this section’’ and in-
+                                  13               serting ‘‘this subsection’’.
+                                  14               (w) FINANCIAL INSTITUTIONS REFORM, RECOVERY,
+                                  15      AND       ENFORCEMENT ACT                          OF   1989.—The Financial Insti-
+                                  16 tutions Reform, Recovery, and Enforcement Act of 1989
+                                  17 (Public Law 101–73; 103 Stat. 183) is amended—
+                                  18                         (1) in section 1121(6) (12 U.S.C. 3350(6)), by
+                                  19               striking ‘‘the Office of Thrift Supervision,’’; and
+                                  20                         (2) in section 1206(a) (12 U.S.C. 1833b(a)), by
+                                  21               striking ‘‘and the Bureau of Consumer Financial
+                                  22               Protection,’’ and inserting ‘‘the Bureau of Consumer
+                                  23               Financial Protection, and’’.
+
+
+
+
+
+                                              •S 451 IS
+
+                                                                                         37
+                                    1              (x)       GRAMM-LEACH-BLILEY                               ACT.—The             Gramm-
+                                    2 Leach-Bliley Act (Public Law 106–102; 113 Stat. 1338)
+                                    3 is amended—
+                                    4                        (1) in section 132(a) (12 U.S.C. 1828b(a)), by
+                                    5              striking ‘‘the Director of the Office of Thrift Super-
+                                    6              vision,’’;
+                                    7                        (2) in section 206(a) (15 U.S.C. 78c note), by
+                                    8              striking ‘‘Except as provided in subsection (e), for’’
+                                    9              and inserting ‘‘For’’;
+                                  10                         (3) in section 502(e)(5) (15 U.S.C. 6802(e)(5)),
+                                  11               by inserting a comma after ‘‘Protection’’;
+                                  12                         (4)        in        section           504(a)(2)                (15    U.S.C.
+                                  13               6804(a)(2)), by striking ‘‘and, as appropriate, and
+                                  14               with’’ and inserting ‘‘and, as appropriate, with’’;
+                                  15                         (5) in section 509(2) (15 U.S.C. 6809(2))—
+                                  16                                  (A) by striking subparagraph (D); and
+                                  17                                  (B) by redesignating subparagraphs (E)
+                                  18                         and (F) as subparagraphs (D) and (E), respec-
+                                  19                         tively; and
+                                  20                         (6) in section 522(b)(1)(A)(iv) (15 U.S.C.
+                                  21               6822(b)(1)(A)(iv)), by striking ‘‘Director of the Of-
+                                  22               fice of Thrift Supervision’’ and inserting ‘‘Comp-
+                                  23               troller of the Currency and the Board of Directors
+
+
+
+
+                                  24               of the Federal Deposit Insurance Corporation, as
+                                  25               appropriate’’.
+
+
+                                              •S 451 IS
+
+                                                                                         38
+                                    1              (y) HELPING FAMILIES SAVE THEIR HOMES ACT                                       OF
+                                    2 2009.—Section 104 of the Helping Families Save Their
+                                    3 Homes Act of 2009 (12 U.S.C. 1715z–25) is amended—
+                                    4                        (1) in subsection (a)—
+                                    5                                 (A) by striking ‘‘and the Director of the
+                                    6                        Office of Thrift Supervision, shall jointly’’ and
+                                    7                        inserting ‘‘shall’’;
+                                    8                                 (B) by striking ‘‘and the Office of Thrift
+                                    9                        Supervision’’; and
+                                  10                                  (C) by striking ‘‘each such’’ and inserting
+                                  11                         ‘‘such’’; and
+                                  12                         (2) in subsection (b)(1)—
+                                  13                                  (A) in subparagraph (A)—
+                                  14                                         (i) in the first sentence—
+                                  15                                                   (I) by striking ‘‘and the Director
+                                  16                                         of the Office of Thrift Supervision,’’;
+                                  17                                         and
+                                  18                                                   (II) by striking ‘‘or the Direc-
+                                  19                                         tor’’;
+                                  20                                         (ii) in the second sentence, by striking
+                                  21                                  ‘‘and the Director of the Office of Thrift
+                                  22                                  Supervision’’; and
+                                  23                                  (B) in subparagraph (B), by striking ‘‘and
+
+
+
+
+                                  24                         the Director of the Office of Thrift Super-
+                                  25                         vision’’.
+
+
+                                              •S 451 IS
+
+                                    1              (z) HOME MORTGAGE DISCLOSURE ACT      39                                        OF   1975.—
+                                    2 The Home Mortgage Disclosure Act of 1975 (12 U.S.C.
+                                    3 2801 et seq.) is amended—
+                                    4                        (1) in section 304(j)(3) (12 U.S.C. 2803(j)(3)),
+                                    5              by adding a period at the end; and
+                                    6                        (2) in section 305(b)(1)(A)(iii) (12 U.S.C.
+                                    7              2804(b)(1)(A)(iii)), by striking ‘‘bank as,’’ and in-
+                                    8              serting ‘‘bank, as’’.
+                                    9              (aa) HOME OWNERS’ LOAN ACT.—The Home Own-
+                                  10 ers’ Loan Act (12 U.S.C. 1461 et seq.) is amended—
+                                  11                         (1) in section 5 (12 U.S.C. 1464)—
+                                  12                                  (A) in subsection (d)(2)(E)(ii)—
+                                  13                                         (i) in the first sentence, by striking
+                                  14                                  ‘‘Except as provided in section 21A of the
+                                  15                                  Federal Home Loan Bank Act, the’’ and
+                                  16                                  inserting ‘‘The’’; and
+                                  17                                         (ii) by striking ‘‘, at the Director’s
+                                  18                                  discretion,’’;
+                                  19                                  (B) in subsection (i)(6), by striking ‘‘the
+                                  20                         Office of Thrift Supervision or’’;
+                                  21                                  (C) in subsection (m), by striking ‘‘Direc-
+                                  22                         tor’s’’ each place that term appears and insert-
+                                  23                         ing ‘‘appropriate Federal banking agency’s’’;
+
+
+
+
+
+                                  24                                  (D) in subsection (n)(9)(B), by striking
+                                  25                         ‘‘Director’s’’ and inserting ‘‘Comptroller’s’’; and
+
+
+                                              •S 451 IS
+
+                                                                                         40
+                                    1                                 (E) in subsection (s)—
+                                    2                                        (i) in paragraph (1)—
+                                    3                                                  (I) in the matter preceding sub-
+                                    4                                        paragraph (A), by striking ‘‘of such
+                                    5                                        Act)’’ and all that follows through
+                                    6                                        ‘‘shall require’’ and inserting ‘‘of such
+                                    7                                        Act), the appropriate Federal banking
+                                    8                                        agency shall require’’; and
+                                    9                                                  (II) in subparagraph (B), by
+                                  10                                         striking ‘‘other methods’’ and all that
+                                  11                                         follows through ‘‘determines’’ and in-
+                                  12                                         serting ‘‘other methods as the appro-
+                                  13                                         priate Federal banking agency deter-
+                                  14                                         mines’’;
+                                  15                                         (ii) in paragraph (2)—
+                                  16                                                   (I) by striking ‘‘DETERMINED’’
+                                  17                                         and all that follows through ‘‘may,
+                                  18                                         consistent’’ and inserting ‘‘DETER-
+                                  19                                         MINED            BY         APPROPRIATE               FEDERAL
+                                  20                                         BANKING               AGENCY             CASE-BY-CASE.—
+                                  21                                         The         appropriate                Federal         banking
+                                  22                                         agency may, consistent’’; and
+                                  23                                                   (II) by striking ‘‘capital-to-as-
+
+
+
+
+                                  24                                         sets’’ and all that follows through
+                                  25                                         ‘‘determines to be necessary’’ and in-
+
+
+                                              •S 451 IS
+
+                                                                                         41
+                                    1                                        serting ‘‘capital-to-assets as the ap-
+                                    2                                        propriate Federal banking agency de-
+                                    3                                        termines to be necessary’’;
+                                    4                        (2) in section 6(c) (12 U.S.C. 1465(c)), by
+                                    5              striking ‘‘sections’’ and inserting ‘‘section’’;
+                                    6                        (3) in section 10 (12 U.S.C. 1467a)—
+                                    7                                 (A) in subsection (b)(6), by striking
+                                    8                        ‘‘time’’ and all that follows through ‘‘release’’
+                                    9                        and inserting ‘‘time, upon the motion or appli-
+                                  10                         cation of the Board, release’’;
+                                  11                                  (B) in subsection (c)(2)(H)—
+                                  12                                         (i) in the matter preceding clause
+                                  13                                  (i)—
+                                  14                                                   (I) by striking ‘‘1841(p))’’ and
+                                  15                                         inserting ‘‘1841(p)))’’; and
+                                  16                                                   (II) by inserting ‘‘(12 U.S.C.
+                                  17                                         1843(k))’’ before ‘‘if—’’; and
+                                  18                                         (ii) in clause (i), by inserting ‘‘of 1956
+                                  19                                  (12 U.S.C. 1843(l) and (m))’’ after ‘‘Com-
+                                  20                                  pany Act’’; and
+                                  21                                  (C) in subsection (e)(7)(B)(iii)—
+                                  22                                         (i) by striking ‘‘Board of the Office of
+                                  23                                  Thrift Supervision’’ and inserting ‘‘Direc-
+
+
+
+
+                                  24                                  tor of the Office of Thrift Supervision’’;
+                                  25                                  and
+
+
+                                              •S 451 IS
+
+                                                                                         42
+                                    1                                        (ii) by inserting ‘‘, as defined in sec-
+                                    2                                 tion 2 of the Dodd-Frank Wall Street Re-
+                                    3                                 form and Consumer Protection Act (12
+                                    4                                 U.S.C. 5301)’’ after ‘‘transfer date’’; and
+                                    5                        (4) in section 13 (12 U.S.C. 1468b), by striking
+                                    6              ‘‘the a’’ and inserting ‘‘a’’.
+                                    7              (bb) HOME OWNERSHIP                             AND       EQUITY PROTECTION
+                                    8 ACT           OF     1994.—Section 158 of the Home Ownership and
+                                    9 Equity Protection Act of 1994 (15 U.S.C. 1601 note) is
+                                  10 amended by striking ‘‘Bureau’’ each place that term ap-
+                                  11 pears and inserting ‘‘Bureau of Consumer Financial Pro-
+                                  12 tection’’.
+                                  13               (cc) HOUSING ACT                     OF      1948.—Section 502(c)(3) of
+                                  14 the Housing Act of 1948 (12 U.S.C. 1701c(c)(3)) is
+                                  15 amended by striking ‘‘Federal Home Loan Bank Agency’’
+                                  16 and inserting ‘‘Federal Housing Finance Agency’’.
+                                  17               (dd) HOUSING                   AND    URBAN DEVELOPMENT ACT                        OF
+                                  18 1968.—Section 106(h)(5) of the Housing and Urban De-
+                                  19 velopment Act of 1968 (12 U.S.C. 1701x(h)(5)) is amend-
+                                  20 ed by striking ‘‘authorised’’ and inserting ‘‘authorized’’.
+                                  21               (ee) INTERNATIONAL BANKING ACT                                       OF     1978.—Sec-
+                                  22 tion 15 of the International Banking Act of 1978 (12
+                                  23 U.S.C. 3109) is amended—
+
+
+
+
+
+                                  24                         (1) in each of subsections (a) and (b)—
+
+
+
+
+                                              •S 451 IS
+
+                                                                                         43
+                                    1                                 (A) by striking ‘‘, and Director of the Of-
+                                    2                        fice of Thrift Supervision’’ each place that term
+                                    3                        appears; and
+                                    4                                 (B) by inserting ‘‘and’’ before ‘‘Federal
+                                    5                        Deposit’’ each place that term appears;
+                                    6                        (2) in subsection (a), by striking ‘‘Comptroller,
+                                    7              Corporation, or Director’’ and inserting ‘‘Comp-
+                                    8              troller, or Corporation’’; and
+                                    9                        (3) in subsection (c)(4)—
+                                  10                                  (A) by inserting ‘‘and’’ before ‘‘the Federal
+                                  11                         Deposit’’; and
+                                  12                                  (B) by striking ‘‘, and the Director of the
+                                  13                         Office of Thrift Supervision’’.
+                                  14               (ff) INTERNATIONAL LENDING SUPERVISION ACT                                      OF
+                                  15 1983.—Section 912 of the International Lending Super-
+                                  16 vision Act of 1983 (12 U.S.C. 3911) is amended—
+                                  17                         (1) in the section heading, by striking ‘‘AND
+                                  18               THE OFFICE OF THRIFT SUPERVISION’’;
+
+                                  19                         (2) by striking ‘‘(a) IN GENERAL.—’’; and
+                                  20                         (3) by striking subsection (b).
+                                  21               (gg) INTERSTATE LAND SALES FULL DISCLOSURE
+                                  22 ACT.—The Interstate Land Sales Full Disclosure Act (15
+                                  23 U.S.C. 1701 et seq.) is amended—
+
+
+
+
+
+                                  24                         (1) in section 1402(1) (15 U.S.C. 1701(1)) by
+                                  25               striking ‘‘Bureau of’’ and all that follows through
+
+
+                                              •S 451 IS
+
+                                                                                         44
+                                    1              the semicolon at the end and inserting ‘‘Bureau of
+                                    2              Consumer Financial Protection;’’; and
+                                    3                        (2) in each of section 1411(b) (15 U.S.C.
+                                    4              1710(b)) and subsections (b)(4) and (d) of section
+                                    5              1418a (15 U.S.C. 1717a), by striking ‘‘Secretary’s’’
+                                    6              each place that term appears and inserting ‘‘Direc-
+                                    7              tor’s’’.
+                                    8              (hh) INVESTMENT ADVISERS ACT                                    OF       1940.—Section
+                                    9 224 of the Investment Advisers Act of 1940 (15 U.S.C.
+                                  10 80b–18c) is amended in the section heading, by striking
+                                  11 ‘‘COMMODITIES’’ and inserting ‘‘COMMODITY’’.
+                                  12               (ii) LEGAL CERTAINTY                          FOR       BANK PRODUCTS ACT
+                                  13      OF     2000.—Section 403(b)(1) of the Legal Certainty for
+                                  14 Bank Products Act of 2000 (7 U.S.C. 27a(b)(1)) is
+                                  15 amended by striking ‘‘that section’’ and inserting ‘‘sec-
+                                  16 tion’’.
+                                  17               (jj) OMNIBUS APPROPRIATIONS ACT, 2009.—Section
+                                  18 626(b) of the Omnibus Appropriations Act, 2009 (12
+                                  19 U.S.C. 5538(b)) is amended, in each of paragraphs (2)
+                                  20 and (3), by inserting a comma after ‘‘as appropriate’’ each
+                                  21 place that term appears.
+                                  22               (kk) PUBLIC LAW 93–495.—Section 111 of Public
+                                  23 Law 93–495 (12 U.S.C. 250) is amended by striking ‘‘the
+
+
+
+
+                                  24 Director of the Office of Thrift Supervision,’’.
+                                              •S 451 IS
+
+                                                                                         45
+                                    1              (ll) REVISED STATUTES                         OF THE          UNITED STATES.—
+                                    2 Section 5136C(i) of the Revised Statutes of the United
+                                    3 States (12 U.S.C. 25b(i)) is amended by striking ‘‘POW-
+                                    4     ERS.—’’          and all that follows through ‘‘In accordance’’ and
+                                    5 inserting ‘‘POWERS.—In accordance’’.
+                                    6              (mm) RIEGLE COMMUNITY DEVELOPMENT                                                 AND
+                                    7 REGULATORY IMPROVEMENT ACT                                                 OF         1994.—Section
+                                    8 117(e) of the Riegle Community Development and Regu-
+                                    9 latory Improvement Act of 1994 (12 U.S.C. 4716(e)) is
+                                  10 amended by striking ‘‘the Director of the Office of Thrift
+                                  11 Supervision,’’.
+                                  12               (nn) S.A.F.E. MORTGAGE LICENSING ACT                                               OF
+                                  13 2008.—Section 1514 of the S.A.F.E. Mortgage Licensing
+                                  14 Act of 2008 (12 U.S.C. 5113) is amended in each of sub-
+                                  15 sections (b)(5) and (c)(4)(C), by striking ‘‘Secretary’s’’
+                                  16 each place that term appears and inserting ‘‘Director’s’’.
+                                  17               (oo) SECURITIES EXCHANGE ACT OF 1934.—The Se-
+                                  18 curities Exchange Act of 1934 (15 U.S.C. 78a et seq.)
+                                  19 is amended—
+                                  20                         (1) in section 3C(g)(4)(B)(v) (15 U.S.C. 78c–
+                                  21               3(g)(4)(B)(v)), by striking ‘‘of that Act’’ and insert-
+                                  22               ing ‘‘of that section’’;
+                                  23                         (2) in section 3D(d)(10)(A) (15 U.S.C. 78c–
+
+
+
+
+                                  24               4(d)(10)(A)), by striking ‘‘taking’’ and inserting
+                                  25               ‘‘take’’;
+
+
+                                              •S 451 IS
+
+                                                                                         46
+                                    1                        (3) in section 3E(b)(1) (15 U.S.C. 78c–
+                                    2              5(b)(1)),            by        striking         ‘‘though’’               and     inserting
+                                    3              ‘‘through’’;
+                                    4                        (4)        in        section          4(g)(8)(A)                 (15     U.S.C.
+                                    5              78d(g)(8)(A)), by striking ‘‘(2)(A)(i)’’ and inserting
+                                    6              ‘‘(2)(A)(ii)’’;
+                                    7                        (5) in section 15 (15 U.S.C. 78o)—
+                                    8                                 (A) in each of subparagraphs (B)(ii) and
+                                    9                        (C) of subsection (b)(4), by striking ‘‘dealer
+                                  10                         municipal advisor,,’’ and inserting ‘‘dealer, mu-
+                                  11                         nicipal advisor,’’;
+                                  12                                  (B) by redesignating subsection (j) (relat-
+                                  13                         ing to the authority of the Commission) as sub-
+                                  14                         section (p) and moving that subsection to the
+                                  15                         end;
+                                  16                                  (C) by redesignating subsections (k) and
+                                  17                         (l) (relating to standard of conduct and other
+                                  18                         matters, respectively), as added by section
+                                  19                         913(g)(1) of the Dodd-Frank Wall Street Re-
+                                  20                         form and Consumer Protection Act (124 Stat.
+                                  21                         1828), as subsections (q) and (r), respectively
+                                  22                         and moving those subsections to the end; and
+                                  23                                  (D) in subsection (m), by inserting ‘‘the’’
+
+
+
+
+                                  24                         before ‘‘same extent’’;
+                                  25                         (6) in section 15F(h) (15 U.S.C. 78o–10(h))—
+
+
+                                              •S 451 IS
+
+                                                                                         47
+                                    1                                 (A) in paragraph (2)(A), by inserting ‘‘a’’
+                                    2                        after ‘‘that acts as an advisor to’’;
+                                    3                                 (B) in paragraph (2)(B), by inserting ‘‘a’’
+                                    4                        after ‘‘offers to enter into’’; and
+                                    5                                 (C) in paragraph (5)(A)(i)—
+                                    6                                        (i) by inserting ‘‘(A)’’ after ‘‘(18)’’;
+                                    7                                 and
+                                    8                                        (ii) in subclause (VII), by striking
+                                    9                                 ‘‘act of’’ and inserting ‘‘Act of’’;
+                                  10                         (7) in section 15G (15 U.S.C. 78o–11)—
+                                  11                                  (A) in subsection (b)(2), by inserting ‘‘Di-
+                                  12                         rector of the’’ before ‘‘Federal Housing’’;
+                                  13                                  (B) in subsection (e)(4)(A), by striking
+                                  14                         ‘‘subsection’’ and inserting ‘‘section’’;
+                                  15                                  (C) in subsection (e)(4)(C)—
+                                  16                                         (i) by striking ‘‘129C(c)(2)’’ and in-
+                                  17                                  serting ‘‘129C(b)(2)(A)’’; and
+                                  18                                         (ii)        by         inserting               ‘‘(15   U.S.C.
+                                  19                                  1639c(b)(2)(A))’’ after ‘‘Lending Act’’;
+                                  20                                  and
+                                  21                                  (D) in subsection (e)(5), by striking ‘‘sub-
+                                  22                         section’’ and inserting ‘‘section’’; and
+                                  23                         (8) in section 17A (15 U.S.C. 78q–1), by redes-
+
+
+
+
+                                  24               ignating subsection (g), as added by section 929W
+                                  25               of the Dodd-Frank Wall Street Reform and Con-
+
+
+                                              •S 451 IS
+
+                                                                                         48
+                                    1              sumer Protection Act (relating to due diligence for
+                                    2              the delivery of dividends, interest, and other valuable
+                                    3              property rights) as subsection (n) and moving that
+                                    4              subsection to the end.
+                                    5              (pp) TELEMARKETING                          AND       CONSUMER FRAUD            AND
+                                    6 ABUSE PREVENTION ACT.—Section 3(b) of the Tele-
+                                    7 marketing and Consumer Fraud and Abuse Prevention
+                                    8 Act (15 U.S.C. 6102(b)) is amended by inserting before
+                                    9 the period at the end the following: ‘‘, provided, however,
+                                  10 nothing in this section shall conflict with or supersede sec-
+                                  11 tion 6 of the Federal Trade Commission Act (15 U.S.C.
+                                  12 46)’’.
+                                  13               (qq) TITLE 5.—Title 5, United States Code, is
+                                  14 amended—
+                                  15                         (1) in section 3132(a)(1)(D), by striking ‘‘the
+                                  16               Office of Thrift Supervision,, the Resolution Trust
+                                  17               Corporation,’’; and
+                                  18                         (2) in section 5314, by striking ‘‘Director of the
+                                  19               Office of Thrift Supervision.’’.
+                                  20               (rr) TITLE 10.—Section 987(h)(3) of title 10, United
+                                  21 States Code, is amended—
+                                  22                         (1) by striking subparagraph (E); and
+                                  23                         (2) by redesignating subparagraphs (F) and
+
+
+
+
+
+                                  24               (G) as subparagraphs (E) and (F), respectively.
+                                  25               (ss) TITLE 31.—
+
+
+                                              •S 451 IS
+
+                                                                                         49
+                                    1                        (1) AMENDMENTS.—Title 31, United States
+                                    2              Code, is amended—
+                                    3                                 (A) by striking section 309;
+                                    4                                 (B) in section 313—
+                                    5                                        (i) in subsection (j)(2), by striking
+                                    6                                 ‘‘Agency’’; and
+                                    7                                        (ii) in subsection (r)(4), by striking
+                                    8                                 ‘‘the Office of Thrift Supervision,’’; and
+                                    9                                 (C) in section 714(d)(3)(B) by striking ‘‘a
+                                  10                         audit’’ and inserting ‘‘an audit’’.
+                                  11                         (2) ANALYSIS.—The analysis for subchapter I
+                                  12               of chapter 3 of title 31, United States Code, is
+                                  13               amended by striking the item relating to section
+                                  14               309.
+                                  15               (tt) TRUTH             IN      LENDING ACT.—The Truth in Lend-
+                                  16 ing Act (15 U.S.C. 1601 et seq.) is amended—
+                                  17                         (1) in section 103 (15 U.S.C. 1602)—
+                                  18                                  (A) by redesignating subsections (aa) and
+                                  19                         (bb) as subsections (bb) and (aa), respectively,
+                                  20                         and moving subsection (bb), as so redesignated,
+                                  21                         after subsection (aa), as so redesignated;
+                                  22                                  (B) by redesignating the subsection (cc),
+                                  23                         as added by section 1401 of the Dodd-Frank
+
+
+
+
+                                  24                         Wall Street Reform and Consumer Protection
+                                              •S 451 IS
+
+                                                                                         50
+                                    1                        Act (124 Stat. 2137), as subsection (ee), and
+                                    2                        by moving such subsection to the end; and
+                                    3                                 (C) in paragraph (2)(E)(v) of subsection
+                                    4                        (ee), as so redesignated, by striking ‘‘Board’’
+                                    5                        and inserting ‘‘Bureau’’;
+                                    6                        (2) in section 105 (15 U.S.C. 1604), by insert-
+                                    7              ing subsection (h), as added by section 1472(c) of
+                                    8              the Dodd-Frank Wall Street Reform and Consumer
+                                    9              Protection Act (124 Stat. 2187), before subsection
+                                  10               (i), as added by section 1100A(7) of that Act (124
+                                  11               Stat. 2108);
+                                  12                         (3) in section 106(f)(2)(B)(i) (15 U.S.C.
+                                  13               1605(f)(2)(B)(i)), by striking ‘‘103(w)’’ and insert-
+                                  14               ing ‘‘103(x)’’;
+                                  15                         (4) in section 121(b) (15 U.S.C. 1631(b)), by
+                                  16               striking ‘‘103(f)’’ and inserting ‘‘103(g)’’;
+                                  17                         (5)        in        section           122(d)(5)                (15   U.S.C.
+                                  18               1632(d)(5)), by striking ‘‘and the Bureau’’ before ‘‘,
+                                  19               may promulgate regulations’’;
+                                  20                         (6) in section 125(e)(1) (15 U.S.C. 1635(e)(1)),
+                                  21               by striking ‘‘103(w)’’ and inserting ‘‘103(x)’’;
+                                  22                         (7) in section 129 (15 U.S.C. 1639)—
+                                  23                                  (A) in subsection (q), by striking ‘‘(l)(2)’’
+
+
+
+
+                                  24                         and inserting ‘‘(p)(2)’’; and
+                                              •S 451 IS
+
+                                                                                         51
+                                    1                                 (B) in subsection (u)(3), by striking
+                                    2                        ‘‘Board’’ each place that term appears and in-
+                                    3                        serting ‘‘Bureau’’;
+                                    4                        (8) in section 129C (15 U.S.C. 1639c)—
+                                    5                                 (A) in subsection (b)(2)(B), by striking the
+                                    6                        second period at the end; and
+                                    7                                 (B) in subsection (c)(1)(B)(ii)(I), by strik-
+                                    8                        ing ‘‘a original’’ and inserting ‘‘an original’’;
+                                    9                        (9) in section 140A (15 U.S.C. 1651), by strik-
+                                  10               ing ‘‘the Bureau and’’;
+                                  11                         (10) in section 148(d) (15 U.S.C. 1665c(d)), by
+                                  12               striking ‘‘Bureau’’ and inserting ‘‘Board’’;
+                                  13                         (11) in section 149 (15 U.S.C. 1665d)—
+                                  14                                  (A) by striking ‘‘the Director of the Office
+                                  15                         of Thrift Supervision,’’ each place that term ap-
+                                  16                         pears;
+                                  17                                  (B) by striking ‘‘National Credit Union
+                                  18                         Administration Bureau’’ and inserting ‘‘Na-
+                                  19                         tional Credit Union Administration Board’’
+                                  20                         each place that term appears; and
+                                  21                                  (C) by striking ‘‘Bureau of Directors of
+                                  22                         the Federal Deposit Insurance Corporation’’
+                                  23                         and inserting ‘‘Board of Directors of the Fed-
+
+
+
+
+                                  24                         eral Deposit Insurance Corporation’’ each place
+                                  25                         that term appears; and
+
+
+                                              •S 451 IS
+
+                                                                                         52
+                                    1                        (12) in section 181(1) (15 U.S.C. 1667(1)), by
+                                    2              striking ‘‘103(g)’’ and inserting ‘‘103(h)’’.
+                                    3              (uu) TRUTH               IN     SAVINGS ACT.—The Truth in Sav-
+                                    4 ings Act (12 U.S.C. 4301 et seq.) is amended in each of
+                                    5 sections 269(a)(4) (12 U.S.C. 4308(a)(4)), 270(a)(2) (12
+                                    6 U.S.C. 4309(a)(2)), and 274(6) (12 U.S.C. 4313(6)), by
+                                    7 striking ‘‘Administration Bureau’’ each place that term
+                                    8 appears and inserting ‘‘Administration Board’’.
+                                    9     SEC. 17. RULEMAKING DEADLINES.
+
+                                  10               (a)       ONE-YEAR                EXTENSION.—The                          deadline   for
+                                  11 issuance of any rule or regulation, conduct of any study,
+                                  12 or submission of any report required by the Dodd-Frank
+                                  13 Wall Street Reform and Consumer Protection Act (Public
+                                  14 Law 111–203) or amendments made by that Act that has
+                                  15 not been met or is not met in final form by the date speci-
+                                  16 fied in that Act or those amendments, shall be extended
+                                  17 for 1 year.
+                                  18               (b) NO EFFECT                  ON     FINALIZED RULES.—The exten-
+                                  19 sion provided under subsection (a) shall have no effect on
+                                  20 any rule required by the Dodd-Frank Wall Street Reform
+                                  21 and Consumer Protection Act (Public Law 111–203) or
+                                  22 amendments made by that Act that have been issued in
+                                  23 final form before the date of enactment of this Act.
+
+
+
+
+
+                                              •S 451 IS
+
+                                    1     SEC. 18. EFFECTIVE DATES.                      53
+                                    2              Except as otherwise specifically provided in this
+                                    3 Act—
+                                    4                        (1) the amendments made by this Act to a pro-
+                                    5              vision of the Dodd-Frank Wall Street Reform and
+                                    6              Consumer Protection Act (Public Law 111–203)
+                                    7              shall take effect as if enacted on the effective date
+                                    8              of the provision, immediately after the provision
+                                    9              takes effect; and
+                                  10                         (2) the amendments made by this Act to a pro-
+                                  11               vision of law amended by the Dodd-Frank Wall
+                                  12               Street Reform and Consumer Protection Act shall
+                                  13               take effect as if enacted on the effective date of the
+                                  14               amendment to that provision of law made by the
+                                  15               Dodd-Frank Wall Street Reform and Consumer Pro-
+                                  16               tection Act, immediately after the amendment made
+                                  17               by the Dodd-Frank Wall Street Reform and Con-
+                                  18               sumer Protection Act takes effect.
+                                              •S 451 IS                                    Æ

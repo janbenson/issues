@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="719" updated="2013-03-14T04:46:03-04:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title as="introduced" type="short">Capital Access for Small Businesses and Jobs Act</title>
+    <title as="introduced" type="official">To clarify the National Credit Union Administration authority to improve credit union safety and soundness.</title>
+  </titles>
+  <sponsor id="400219"/>
+  <cosponsors>
+    <cosponsor id="400031" joined="2013-02-14"/>
+    <cosponsor id="400033" joined="2013-02-14"/>
+    <cosponsor id="412501" joined="2013-02-14"/>
+    <cosponsor id="412563" joined="2013-03-13"/>
+    <cosponsor id="400160" joined="2013-03-13"/>
+    <cosponsor id="412454" joined="2013-02-14"/>
+    <cosponsor id="400209" joined="2013-02-14"/>
+    <cosponsor id="412209" joined="2013-02-14"/>
+    <cosponsor id="412297" joined="2013-02-27"/>
+    <cosponsor id="400271" joined="2013-02-14"/>
+    <cosponsor id="400274" joined="2013-02-14"/>
+    <cosponsor id="400279" joined="2013-02-26"/>
+    <cosponsor id="400295" joined="2013-02-14"/>
+    <cosponsor id="412307" joined="2013-02-14"/>
+    <cosponsor id="412308" joined="2013-02-14"/>
+    <cosponsor id="412309" joined="2013-02-14"/>
+    <cosponsor id="400371" joined="2013-02-14"/>
+    <cosponsor id="412319" joined="2013-02-25"/>
+    <cosponsor id="400422" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-14">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="National Credit Union Administration"/>
+  </subjects>
+  <amendments/>
+</bill>

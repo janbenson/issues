@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="924" updated="2013-03-07T04:45:50-05:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">Incentivizing Offshore Wind Power Act</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to provide for an investment tax credit related to the production of electricity from offshore wind.</title>
+  </titles>
+  <sponsor id="400309"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2013-03-06"/>
+    <cosponsor id="412407" joined="2013-02-28"/>
+    <cosponsor id="400244" joined="2013-02-28"/>
+    <cosponsor id="400253" joined="2013-03-06"/>
+    <cosponsor id="400283" joined="2013-03-06"/>
+    <cosponsor id="400295" joined="2013-03-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="401"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

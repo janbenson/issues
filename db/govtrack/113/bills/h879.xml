@@ -1,0 +1,43 @@
+<bill session="113" type="h" number="879" updated="2013-03-09T06:21:35-05:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">Biennial Budgeting and Appropriations Act</title>
+    <title as="introduced" type="official">To provide for a biennial budget process and a biennial appropriations process and to enhance oversight and the performance of the Federal Government.</title>
+  </titles>
+  <sponsor id="400433"/>
+  <cosponsors>
+    <cosponsor id="412485" joined="2013-02-28"/>
+    <cosponsor id="400209" joined="2013-02-28"/>
+    <cosponsor id="412294" joined="2013-02-28"/>
+    <cosponsor id="412392" joined="2013-03-05"/>
+    <cosponsor id="400419" joined="2013-03-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the Committee on the Budget, and in addition to the Committees on Rules, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to House Rules</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBU" name="House Budget" activity="Referral, In Committee"/>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="280"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

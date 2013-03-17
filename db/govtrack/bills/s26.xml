@@ -1,0 +1,36 @@
+<bill session="113" type="s" number="26" updated="2013-02-03T15:47:19-05:00">
+  <state datetime="2013-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-22"/>
+  </status>
+  <introduced datetime="2013-01-22"/>
+  <titles>
+    <title as="introduced" type="short">Bonneville Unit Clean Hydropower Facilitation Act</title>
+    <title as="introduced" type="official">A bill to authorize the Secretary of the Interior to facilitate the development of hydroelectric power on the Diamond Fork System of the Central Utah Project.</title>
+  </titles>
+  <sponsor id="300052"/>
+  <cosponsors>
+    <cosponsor id="412495" joined="2013-01-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-01-22">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="254"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Public utilities and utility rates"/>
+    <term name="Utah"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2013--Introduced.
+Bonneville Unit Clean Hydropower Facilitation Act - Declares that, in order to facilitate hydropower development on the Diamond Fork System (Utah), a certain amount of reimbursable costs allocated to project power in the Power Appendix of the October 2004 Supplement to the 1988 Bonneville Unit Definite Plan Report shall be considered final costs, as well as specified costs in excess of the total maximum repayment obligation, subject to the same terms and conditions. States that: (1) this Act does not obligate the Western Area Power Administration to purchase or market any of the power produced by the Diamond Fork power plant; and (2) none of the costs associated with development of transmission facilities to transmit power from the Diamond Fork power plant shall be assigned to power for the purpose of Colorado River Storage Project ratemaking. Prohibits any hydroelectric power generation or transmission facility on the Diamond Fork System from being financed or refinanced with any obligation: (1) whose interest enjoys federal tax-exempt status; or (2) which enjoys certain federal tax credits. Directs the Secretary of the Interior to report to certain congressional committees if hydropower production on the Diamond Fork System has not commenced 24 months after enactment of this Act, stating the reasons such production has not commenced, and presenting a detailed timeline for future hydropower production. Prohibits the use of Western Area Power Administration borrowing authority under the Hoover Power Plant Act of 1984 to fund any study or construction of transmission facilities developed as a result of this Act.</summary>
+</bill>

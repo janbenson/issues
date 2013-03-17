@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="1167" updated="2013-03-15T04:47:40-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="official">To quitclaim surface rights to certain Federal land under the jurisdiction of the Bureau of Land Management in Virginia City, Nevada, to Storey County, Nevada, to resolve conflicting ownership and title claims, and for other purposes.</title>
+  </titles>
+  <sponsor id="412500"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

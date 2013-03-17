@@ -1,0 +1,45 @@
+<bill session="113" type="s" number="381" updated="2013-03-09T06:16:49-05:00">
+  <state datetime="2013-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-26"/>
+  </status>
+  <introduced datetime="2013-02-26"/>
+  <titles>
+    <title as="introduced" type="official">A bill to award a Congressional Gold Medal to the World War II members of the "Doolittle Tokyo Raiders", for outstanding heroism, valor, skill, and service to the United States in conducting the bombings of Tokyo.</title>
+  </titles>
+  <sponsor id="400050"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="2013-02-26"/>
+    <cosponsor id="400040" joined="2013-02-26"/>
+    <cosponsor id="300018" joined="2013-02-26"/>
+    <cosponsor id="300064" joined="2013-02-26"/>
+    <cosponsor id="300076" joined="2013-02-26"/>
+    <cosponsor id="300078" joined="2013-02-26"/>
+    <cosponsor id="412507" joined="2013-02-26"/>
+    <cosponsor id="412244" joined="2013-02-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-26">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1146-1147"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Asia"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Japan"/>
+    <term name="Military history"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+  </subjects>
+  <amendments/>
+</bill>

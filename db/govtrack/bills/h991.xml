@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="991" updated="2013-03-11T12:45:26-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="short">CT Colonography Screening for Colorectal Cancer Act of 2013</title>
+    <title as="introduced" type="official">To amend title XVIII of the Social Security Act to cover screening computed tomography colonography as a colorectal cancer screening test under the Medicare program.</title>
+  </titles>
+  <sponsor id="400165"/>
+  <cosponsors>
+    <cosponsor id="400093" joined="2013-03-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Ways and Means</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

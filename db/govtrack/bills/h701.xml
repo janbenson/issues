@@ -1,0 +1,34 @@
+<bill session="113" type="h" number="701" updated="2013-03-02T06:20:25-05:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title as="introduced" type="official">To amend a provision of the Securities Act of 1933 directing the Securities and Exchange Commission to add a particular class of securities to those exempted under such Act to provide a deadline for such action.</title>
+  </titles>
+  <sponsor id="400644"/>
+  <cosponsors>
+    <cosponsor id="400124" joined="2013-02-14"/>
+    <cosponsor id="400145" joined="2013-02-14"/>
+    <cosponsor id="412399" joined="2013-02-14"/>
+    <cosponsor id="400363" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-14">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Financial services and investments"/>
+    <term name="Securities"/>
+    <term name="Securities and Exchange Commission (SEC)"/>
+  </subjects>
+  <amendments/>
+</bill>

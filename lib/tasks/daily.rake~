@@ -1,13 +1,10 @@
 require 'o_c_logger'
-
 namespace :update do
   desc "controls the running of parsing scripts that are intended to be run daily"
 
   task :rsync => :environment do
     begin
-      OCLogger.log "rsync with govtrack beginning...\n\n"
-      system "sh #{Rails.root}/bin/daily/govtrack-rsync.sh #{Settings.data_path}"
-      OCLogger.log "rsync with govtrack finished.\n\n"
+      system "sh #{Rails.root}/bin/daily/govtrack-rsync.sh #{Rails.root}/db/ "
     rescue Exception => e
       if (['production', 'staging'].include?(Rails.env))
         Emailer.deliver_rake_error(e, "Error rsyncing govtrack data!")
@@ -20,22 +17,6 @@ namespace :update do
   
   task :mailing_list => :environment do
     load 'bin/daily/civicrm_sync.rb'
-  end
-
-  task :photos => :environment do
-    begin
-      system "sh #{Rails.root}/bin/daily/govtrack-photo-rsync.sh #{Settings.data_path}"
-      unless (['production', 'staging'].include?(Rails.env))
-        system "ln -s -i -F #{Settings.data_path}/govtrack/photos #{Rails.root}/public/images/photos"
-      end
-    rescue Exception => e
-      if (['production', 'staging'].include?(Rails.env))
-        Emailer.deliver_rake_error(e, "Error updating photos!")
-      else
-        puts "Error updating photos!"
-      end
-      throw e
-    end
   end
 
   task :bios => :environment do
@@ -76,8 +57,6 @@ namespace :update do
         Person.transaction {
           load 'bin/daily/daily_parse_people.rb'
         }
-      else
-        OCLogger.log "Legislator data file people.xml has not been updated since last parse. Skipping."
       end
     rescue Exception => e
       if (['production', 'staging'].include?(Rails.env))
@@ -90,7 +69,7 @@ namespace :update do
 
   task :bills => :environment do
     begin
-      load 'bin/daily/daily_parse_bills.rb'
+      load '{Rails.root}/bin/daily/daily_parse_bills.rb'
     rescue Exception => e
       if (['production', 'staging'].include?(Rails.env))
         Emailer.deliver_rake_error(e, "Error parsing bills!")
@@ -103,7 +82,7 @@ namespace :update do
 
   task :bill_text => :environment do
     begin
-      load 'bin/daily/daily_parse_bill_text.rb'
+      load '#{Rails.root}/bin/daily/daily_parse_bill_text.rb'
     rescue Exception => e
       if (['production', 'staging'].include?(Rails.env))
         Emailer.deliver_rake_error(e, "Error parsing bill text!")
@@ -373,7 +352,7 @@ namespace :update do
     end
   end
 
-  task :all => [:rsync, :photos, :people, :bills, :amendments, :roll_calls, :committee_reports, :committee_schedule, :person_voting_similarities, :sponsored_bill_stats, :expire_cached_bill_fragments, :expire_cached_person_fragments]
+  task :all => [:rsync, :people, :bills, :amendments, :roll_calls, :committee_reports, :committee_schedule, :person_voting_similarities, :sponsored_bill_stats, :expire_cached_bill_fragments, :expire_cached_person_fragments]
   task :parse_all => [ :people, :bills, :amendments, :roll_calls, :committee_reports, :committee_schedule]
   task :govtrack => [ :rsync, :people, :bills, :amendments, :roll_calls, :expire_cached_bill_fragments, :expire_cached_person_fragments]
   task :committee_info => [:committee_reports, :committee_schedule]

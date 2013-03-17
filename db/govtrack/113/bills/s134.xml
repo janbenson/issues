@@ -1,0 +1,46 @@
+<bill session="113" type="s" number="134" updated="2013-02-27T04:46:04-05:00">
+  <state datetime="2013-01-24">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-24"/>
+  </status>
+  <introduced datetime="2013-01-24"/>
+  <titles>
+    <title as="introduced" type="short">Violent Content Research Act of 2013</title>
+    <title as="introduced" type="official">A bill to arrange for the National Academy of Sciences to study the impact of violent video games and violent video programming on children.</title>
+  </titles>
+  <sponsor id="300084"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2013-01-24"/>
+    <cosponsor id="400576" joined="2013-01-24"/>
+    <cosponsor id="412218" joined="2013-01-24"/>
+    <cosponsor id="412320" joined="2013-01-24"/>
+    <cosponsor id="412242" joined="2013-02-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-24">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S287-288"/>
+    </action>
+    <action state="REFERRED" datetime="2013-01-24">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <reference ref="CR S288" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Child health"/>
+    <term name="Congressional oversight"/>
+    <term name="Games and hobbies"/>
+    <term name="Government studies and investigations"/>
+    <term name="Internet and video services"/>
+    <term name="Mental health"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>1/24/2013--Introduced.
+Violent Content Research Act of 2013 - Directs the Federal Trade Commission (FTC), the Federal Communications Commission (FCC), and the Department of Health and Human Services (HSS), jointly, to undertake to enter into appropriate arrangements with the National Academy of Sciences (NAS) to conduct a comprehensive study and investigation of whether there is a connection between exposure to violent video games and programming and harmful effects on children. Requires such investigation to consider whether: (1) such exposure causes children to act aggressively or causes other measurable harm to children, has a harmful effect on children already prone to aggressive behavior or on other identifiable groups of children, and causes effects distinguishable from other types of media; (2) any identified harm has a direct and long-lasting impact on a child's well-being; and (3) current or emerging characteristics of video games have a unique impact on children, considering video games' interactive nature and the personal and vivid way violence might be portrayed in such video games. Requires such agencies, in entering into any such arrangements, to request the NAS to report the results to Congress, FTC, FCC, and HSS.</summary>
+</bill>

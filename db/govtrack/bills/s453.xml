@@ -1,0 +1,28 @@
+<bill session="113" type="s" number="453" updated="2013-03-09T06:17:08-05:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title as="introduced" type="official">A bill to require that certain Federal job training and career education programs give priority to programs that lead to an industry-recognized and nationally portable credential.</title>
+  </titles>
+  <sponsor id="412324"/>
+  <cosponsors>
+    <cosponsor id="412205" joined="2013-03-05"/>
+    <cosponsor id="412218" joined="2013-03-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-05">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="497"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

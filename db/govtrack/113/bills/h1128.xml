@@ -1,0 +1,40 @@
+<bill session="113" type="h" number="1128" updated="2013-03-15T04:47:29-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="official">To ensure the effectiveness of the missile defense system of the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="412395"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2013-03-13"/>
+    <cosponsor id="400038" joined="2013-03-14"/>
+    <cosponsor id="412567" joined="2013-03-13"/>
+    <cosponsor id="400089" joined="2013-03-14"/>
+    <cosponsor id="400141" joined="2013-03-13"/>
+    <cosponsor id="400209" joined="2013-03-13"/>
+    <cosponsor id="412191" joined="2013-03-13"/>
+    <cosponsor id="400341" joined="2013-03-13"/>
+    <cosponsor id="400411" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-13">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-13">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2013-03-13">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,37 @@
+<bill session="113" type="s" number="347" updated="2013-03-02T06:16:38-05:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title as="introduced" type="short">First State National Historical Park Act</title>
+    <title as="introduced" type="official">A bill to establish the First State National Historical Park in the State of Delaware, and for other purposes.</title>
+  </titles>
+  <sponsor id="300019"/>
+  <cosponsors>
+    <cosponsor id="412390" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-14">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="703"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Delaware"/>
+    <term name="Government studies and investigations"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Land transfers"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Pennsylvania"/>
+    <term name="Travel and tourism"/>
+  </subjects>
+  <amendments/>
+</bill>

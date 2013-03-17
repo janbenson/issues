@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="1090" updated="2013-03-14T04:46:19-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="official">To establish an Elementary Educator Science, Technology, Engineering, and Mathematics (STEM) Content Coach program.</title>
+  </titles>
+  <sponsor id="400185"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2013-03-12"/>
+    <cosponsor id="412470" joined="2013-03-12"/>
+    <cosponsor id="400080" joined="2013-03-12"/>
+    <cosponsor id="412215" joined="2013-03-12"/>
+    <cosponsor id="400290" joined="2013-03-12"/>
+    <cosponsor id="412506" joined="2013-03-12"/>
+    <cosponsor id="400333" joined="2013-03-12"/>
+    <cosponsor id="412520" joined="2013-03-12"/>
+    <cosponsor id="412579" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

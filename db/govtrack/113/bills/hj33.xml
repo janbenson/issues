@@ -1,0 +1,27 @@
+<bill session="113" type="hj" number="33" updated="2013-03-15T04:48:03-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="official">Proposing an amendment to the Constitution of the United States to prohibit a law increasing the compensation for the services of the Senators and Representatives from taking effect until an election of Representatives has intervened, and to permit a law otherwise varying such compensation to take effect upon enactment.</title>
+  </titles>
+  <sponsor id="400628"/>
+  <cosponsors>
+    <cosponsor id="400195" joined="2013-03-14"/>
+    <cosponsor id="412209" joined="2013-03-14"/>
+    <cosponsor id="412297" joined="2013-03-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

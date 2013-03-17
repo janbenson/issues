@@ -1,0 +1,26 @@
+<bill session="113" type="s" number="577" updated="2013-03-15T15:46:13-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend title XVIII of the Social Security Act to provide for the distribution of additional residency positions, and for other purposes.</title>
+  </titles>
+  <sponsor id="300078"/>
+  <cosponsors>
+    <cosponsor id="300082" joined="2013-03-14"/>
+    <cosponsor id="300087" joined="2013-03-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

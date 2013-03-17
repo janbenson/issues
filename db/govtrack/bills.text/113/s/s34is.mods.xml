@@ -1,0 +1,297 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee183b9bf4e">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To increase public safety by permitting the Attorney General to deny the transfer of firearms or the issuance of firearms and explosives licenses to known or suspected dangerous terrorists.;
+   		Denying Firearms and Explosives to Dangerous Terrorists Act of 2013;S. 34 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-01-29</dateIngested>
+</extension>
+<titleInfo>
+ <title>To increase public safety by permitting the Attorney General to deny the transfer of firearms or the issuance of firearms and explosives licenses to known or suspected dangerous terrorists.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Denying Firearms and Explosives to Dangerous Terrorists Act of 2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 34 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-01-22</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>18 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee183b9bf4e</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s34is</identifier>
+<identifier type="preferred citation">S. 34</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s34_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s34is/html/BILLS-113s34is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s34is/pdf/BILLS-113s34is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s34is/xml/BILLS-113s34is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-01-29</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2013-01-29</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s34is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mr. Lautenberg</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Schumer</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Durbin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mrs. Feinstein</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Reed</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mrs. Boxer</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Menendez</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Whitehouse</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Levin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mrs. Gillibrand</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Judiciary</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 8 Section 1101(a)(43)(E)(ii)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">8 U.S.C. 1101(a)(43)(E)(ii)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 18 Section 842(d)</partNumber>
+  <partNumber>Title 18 Section 842(i)</partNumber>
+  <partNumber>Title 18 Section 843</partNumber>
+  <partNumber>Title 18 Section 843(d)</partNumber>
+  <partNumber>Title 18 Section 843(e)</partNumber>
+  <partNumber>Title 18 Section 843(h)(2)</partNumber>
+  <partNumber>Title 18 Section 922B</partNumber>
+  <partNumber>Title 18 Section 922(d)</partNumber>
+  <partNumber>Title 18 Section 922(g)</partNumber>
+  <partNumber>Title 18 Section 922(t)</partNumber>
+  <partNumber>Title 18 Section 922note</partNumber>
+  <partNumber>Title 18 Section 923(d)</partNumber>
+  <partNumber>Title 18 Section 923(e)</partNumber>
+  <partNumber>Title 18 Section 923(f)(1)</partNumber>
+  <partNumber>Title 18 Section 923(f)(3)</partNumber>
+  <partNumber>Title 18 Section 924(k)</partNumber>
+  <partNumber>Title 18 Section 925A</partNumber>
+  <partNumber>Title 18 Section 925(c)</partNumber>
+  <partNumber>Title 18 Chapter 44</partNumber>
+</titleInfo>
+ <identifier type="USC citation">18 U.S.C. 842(d)</identifier>
+ <identifier type="USC citation">18 U.S.C. 842(i)</identifier>
+ <identifier type="USC citation">18 U.S.C. 843</identifier>
+ <identifier type="USC citation">18 U.S.C. 843(d)</identifier>
+ <identifier type="USC citation">18 U.S.C. 843(e)</identifier>
+ <identifier type="USC citation">18 U.S.C. 843(h)(2)</identifier>
+ <identifier type="USC citation">18 U.S.C. 922B</identifier>
+ <identifier type="USC citation">18 U.S.C. 922(d)</identifier>
+ <identifier type="USC citation">18 U.S.C. 922(g)</identifier>
+ <identifier type="USC citation">18 U.S.C. 922(t)</identifier>
+ <identifier type="USC citation">18 U.S.C. 922note</identifier>
+ <identifier type="USC citation">18 U.S.C. 923(d)</identifier>
+ <identifier type="USC citation">18 U.S.C. 923(e)</identifier>
+ <identifier type="USC citation">18 U.S.C. 923(f)(1)</identifier>
+ <identifier type="USC citation">18 U.S.C. 923(f)(3)</identifier>
+ <identifier type="USC citation">18 U.S.C. 924(k)</identifier>
+ <identifier type="USC citation">18 U.S.C. 925A</identifier>
+ <identifier type="USC citation">18 U.S.C. 925(c)</identifier>
+ <identifier type="USC citation">18 U.S.C. Chapter 44</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s34is</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>34</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle>Denying Firearms and Explosives to Dangerous Terrorists Act of 2013</shortTitle>
+ <action date="2013-01-22" legislativeDay="2013-01-03">Mr. Lautenberg (for himself, Mr. Schumer, Mr. Durbin, Mrs. Feinstein, Mr. Reed, Mrs. Boxer, Mr. Menendez, Mr. Whitehouse, Mr. Levin, Mr. Blumenthal, and Mrs. Gillibrand) introduced the following bill; which was read twice and referred to the Committee on the Judiciary</action>
+ <congCommittee authorityId="ssju00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Judiciary</name>
+                      <name type="authority-short">Judiciary</name>
+                </congCommittee>
+ <congMember chamber="S" congress="113" role="SPONSOR">
+                      <name type="parsed">Mr. Lautenberg</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Schumer</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Durbin</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mrs. Feinstein</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Reed</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mrs. Boxer</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Menendez</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Whitehouse</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Levin</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mrs. Gillibrand</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="8">
+                      <section detail="(a)(43)(E)(ii)" number="1101"></section>
+                </USCode>
+ <USCode title="18">
+                      <section detail="(d)" number="842"></section>
+                      <section detail="(i)" number="842"></section>
+                      <section number="843"></section>
+                      <section detail="(d)" number="843"></section>
+                      <section detail="(e)" number="843"></section>
+                      <section detail="(h)(2)" number="843"></section>
+                      <section number="922B"></section>
+                      <section detail="(d)" number="922"></section>
+                      <section detail="(g)" number="922"></section>
+                      <section detail="(t)" number="922"></section>
+                      <section detail="note" number="922"></section>
+                      <section detail="(d)" number="923"></section>
+                      <section detail="(e)" number="923"></section>
+                      <section detail="(f)(1)" number="923"></section>
+                      <section detail="(f)(3)" number="923"></section>
+                      <section detail="(k)" number="924"></section>
+                      <section number="925A"></section>
+                      <section detail="(c)" number="925"></section>
+                      <chapter number="44"></chapter>
+                </USCode>
+</extension>
+</mods>

@@ -1,0 +1,516 @@
+                                                                                                                                                                 I
+
+
+
+
+                                                                113TH CONGRESS
+                                                                   1ST SESSION                           H. R. 341
+                                                                    To facilitate nationwide availability of volunteer income tax assistance for
+                                                                        low-income and underserved populations, and for other purposes.
+
+
+
+
+                                                                              IN THE HOUSE OF REPRESENTATIVES
+                                                                                              JANUARY 22, 2013
+                                                                 Mr. HONDA (for himself and Mr. DANNY K. DAVIS of Illinois) introduced the
+                                                                   following bill; which was referred to the Committee on Ways and Means
+
+
+
+
+                                                                                                          A BILL
+                                                                To facilitate nationwide availability of volunteer income tax
+                                                                   assistance for low-income and underserved populations,
+                                                                   and for other purposes.
+                                                                  1               Be it enacted by the Senate and House of Representa-
+                                                                  2 tives of the United States of America in Congress assembled,
+                                                                  3     SECTION 1. SHORT TITLE.
+                                                                  4               This Act may be cited as the ‘‘Volunteer Income Tax
+                                                                  5 Assistance (VITA) Act’’.
+                                                                  6     SEC. 2. FINDINGS.
+                                                                  7               Congress makes the following findings:
+pwalker on DSK7TPTVN1PROD with                                    8                        (1) Community Volunteer Income Tax Assist-
+                                                                  9               ance (VITA) programs offer tax preparation and re-
+                                                                10                lated financial services, free of charge, to middle-
+
+                                                                                                                           2
+                                                                  1               and low-income individuals and families. The major-
+                                                                  2               ity of individuals served by VITA programs have an-
+                                                                  3               nual household earnings below $40,000.
+                                                                  4                        (2) During the 2012 Federal income tax filing
+                                                                  5               season, VITA programs filed 1,600,000 Federal in-
+                                                                  6               come tax returns and prepared more than 505,000
+                                                                  7               returns for the earned income tax credit (EITC),
+                                                                  8               helping program recipients claim $2,200,000,000 in
+                                                                  9               Federal tax refunds. One in five taxpayers who were
+                                                                10                eligible to claim the EITC failed to do so.
+                                                                11                         (3) VITA programs assist underserved tax-
+                                                                12                payers, including low-wage workers, persons with
+                                                                13                disabilities, the elderly, Native Americans, rural pop-
+                                                                14                ulations, and taxpayers with limited English pro-
+                                                                15                ficiency.
+                                                                16                         (4) Volunteer tax preparation programs save
+                                                                17                the        Internal            Revenue               Service            an     estimated
+                                                                18                $5,500,000 a year in return processing costs. In
+                                                                19                2012, clients of VITA programs electronically filed
+                                                                20                their tax returns at a much higher rate (95 percent)
+                                                                21                than the general population (82 percent).
+                                                                22                         (5) Not only do electronic returns cost the In-
+                                                                23                ternal Revenue Service considerably less to process
+pwalker on DSK7TPTVN1PROD with                                  24                ($0.17 per return) than paper returns ($3.66 per re-
+                                                                25                turn), but electronic returns also generate a low
+
+
+                                                                             •HR 341 IH
+
+                                                                                                                           3
+                                                                  1               error rate of 2.5 percent compared with a 25 percent
+                                                                  2               error rate for paper returns. Low error rates reduce
+                                                                  3               the need for the Internal Revenue Service to cor-
+                                                                  4               respond with taxpayers and for taxpayers to resub-
+                                                                  5               mit paperwork.
+                                                                  6                        (6) The use of technology in meeting the needs
+                                                                  7               of taxpayers with physical, sensory, or cognitive dis-
+                                                                  8               abilities is essential to the success of the VITA pro-
+                                                                  9               gram, as demonstrated through the expanded use of
+                                                                10                innovative assistive technology and strategies in-
+                                                                11                tended to expand free tax preparation for deaf and
+                                                                12                hearing impaired taxpayers. These innovative uses of
+                                                                13                assistive technologies should continue to be rep-
+                                                                14                licated and tested to expand capacity of VITA pro-
+                                                                15                grams in successfully meeting the needs of taxpayers
+                                                                16                with various disabilities.
+                                                                17                         (7) An Internal Revenue Service survey has
+                                                                18                shown that very low-income taxpayers are twice as
+                                                                19                likely as the general population to visit a Taxpayer
+                                                                20                Assistance Center and half as likely to use the Inter-
+                                                                21                nal Revenue Service Web site. Volunteer tax prepa-
+                                                                22                ration programs serve as an accessible and cost-ef-
+                                                                23                fective alternative to other Internal Revenue Service
+pwalker on DSK7TPTVN1PROD with                                  24                channels.
+                                                                             •HR 341 IH
+
+                                                                                                                           4
+                                                                  1                        (8) Internal Revenue Service estimates from fis-
+                                                                  2               cal year 2005 found that the volunteer preparation
+                                                                  3               program cost $12.01 per contact, while Taxpayer
+                                                                  4               Assistance Centers and assisted toll-free calls aver-
+                                                                  5               aged $28.73 and $19.46 per contact, respectively.
+                                                                  6                        (9) The number of tax returns prepared by the
+                                                                  7               VITA program increased 220 percent between the
+                                                                  8               2004 (500,000) and 2012 (1,600,000 returns) tax
+                                                                  9               filing seasons.
+                                                                10                         (10) The demand on this integral community
+                                                                11                service continues to rise as the nation recovers from
+                                                                12                the significant economic downturn of recent years
+                                                                13                and VITA programs are experiencing strained re-
+                                                                14                sources and limited capacity.
+                                                                15                         (11) In fiscal year 2013, 333 organizations ap-
+                                                                16                plied to the Internal Revenue Service seeking more
+                                                                17                than $27,900,000 in grant funding—more than dou-
+                                                                18                ble the available resources—through the VITA pro-
+                                                                19                gram, and 206 received grants at a median grant of
+                                                                20                approximately $38,500.
+                                                                21      SEC. 3. DEFINITIONS.
+                                                                22                As used in this Act:
+                                                                23                         (1) QUALIFIED                       RETURN         PREPARATION        PRO-
+pwalker on DSK7TPTVN1PROD with                                  24                GRAM.—The               term ‘‘qualified return preparation pro-
+                                                                25                gram’’ means any program—
+
+
+                                                                             •HR 341 IH
+
+                                                                                                                           5
+                                                                  1                                 (A) which provides assistance to individ-
+                                                                  2                        uals, not less than 90 percent of whom are low-
+                                                                  3                        income taxpayers, in preparing and filing Fed-
+                                                                  4                        eral income tax returns, including schedules re-
+                                                                  5                        porting sole proprietorship or farm income,
+                                                                  6                                 (B) which is administered by a qualified
+                                                                  7                        entity,
+                                                                  8                                 (C) in which all of the volunteers who as-
+                                                                  9                        sist in the preparation of Federal income tax
+                                                                10                         returns meet the training requirements pre-
+                                                                11                         scribed by the Secretary, and
+                                                                12                                  (D) which uses a quality review process
+                                                                13                         which reviews 100 percent of all returns.
+                                                                14                         (2) QUALIFIED               ENTITY.—
+
+                                                                15                                  (A) IN       GENERAL.—The                    term ‘‘qualified en-
+                                                                16                         tity’’ means any entity which—
+                                                                17                                          (i) is described in subparagraph (B),
+                                                                18                                          (ii) is in compliance with Federal tax
+                                                                19                                  filing and payment requirements,
+                                                                20                                          (iii) is not debarred or suspended
+                                                                21                                  from Federal contracts, grants, or coopera-
+                                                                22                                  tive agreements, and
+                                                                23                                          (iv) agrees to provide documentation
+pwalker on DSK7TPTVN1PROD with                                  24                                  to substantiate any matching funds pro-
+                                                                25                                  vided under the VITA grant program.
+
+
+                                                                             •HR 341 IH
+
+                                                                                                                           6
+                                                                  1                                 (B) ENTITY                 DESCRIBED.—An                 entity is de-
+                                                                  2                        scribed in this subparagraph if such entity is—
+                                                                  3                                         (i) an institution of higher education
+                                                                  4                                 which is described in section 102 (other
+                                                                  5                                 than subsection (a)(1)(C) thereof) of the
+                                                                  6                                 Higher Education Act of 1965 (20 U.S.C.
+                                                                  7                                 1088), as in effect on the date of the en-
+                                                                  8                                 actment of this section, and which has not
+                                                                  9                                 been disqualified from participating in a
+                                                                10                                  program under title IV of such Act,
+                                                                11                                          (ii) an organization described in sec-
+                                                                12                                  tion 501(c) of the Internal Revenue Code
+                                                                13                                  of 1986 and exempt from tax under sec-
+                                                                14                                  tion 501(a) of such Code,
+                                                                15                                          (iii) a State or local government agen-
+                                                                16                                  cy, including—
+                                                                17                                                   (I) a county or municipal govern-
+                                                                18                                          ment agency,
+                                                                19                                                   (II) an Indian tribe, as defined in
+                                                                20                                          section 4(12) of the Native American
+                                                                21                                          Housing Assistance and Self-Deter-
+                                                                22                                          mination Act of 1996 (25 U.S.C.
+                                                                23                                          4103(12)), including any tribally des-
+pwalker on DSK7TPTVN1PROD with                                  24                                          ignated housing entity (as defined in
+                                                                25                                          section 4(21) of such Act (25 U.S.C.
+
+
+                                                                             •HR 341 IH
+
+                                                                                                                           7
+                                                                  1                                         4103(21))), tribal subsidiary, subdivi-
+                                                                  2                                         sion, or other wholly owned tribal en-
+                                                                  3                                         tity, and
+                                                                  4                                                  (III) a State government agency,
+                                                                  5                                         but only if no other eligible organiza-
+                                                                  6                                         tion is available to assist the targeted
+                                                                  7                                         population or community,
+                                                                  8                                         (iv) local, State, regional, or national
+                                                                  9                                 coalition (with one lead organization which
+                                                                10                                  meets the eligibility requirements of clause
+                                                                11                                  (i), (ii), or (iii) acting as the applicant or-
+                                                                12                                  ganization), or
+                                                                13                                          (v) a Cooperative Extension Service
+                                                                14                                  office, but only if no other eligible organi-
+                                                                15                                  zation is available to assist the targeted
+                                                                16                                  population or community.
+                                                                17                         (3) LOW-INCOME                      TAXPAYERS.—The                    term ‘‘low-
+                                                                18                income taxpayer’’ means a taxpayer who has an in-
+                                                                19                come which does not exceed 250 percent of the pov-
+                                                                20                erty level, as determined in accordance with criteria
+                                                                21                established by the Director of the Office of Manage-
+                                                                22                ment and Budget.
+                                                                23                         (4) UNDERSERVED                         POPULATION.—The                     term
+pwalker on DSK7TPTVN1PROD with                                  24                ‘‘underserved population’’ includes populations of
+                                                                25                persons with disabilities, persons with limited
+
+
+                                                                             •HR 341 IH
+
+                                                                                                                           8
+                                                                  1               English proficiency, Native Americans, individuals
+                                                                  2               living in rural areas, and the elderly.
+                                                                  3                        (5) LEAD             NATIONAL ORGANIZATION.—The                       term
+                                                                  4               ‘‘lead national organization’’ means an organization
+                                                                  5               described in section 501(c) of the Internal Revenue
+                                                                  6               Code of 1986 and exempt from tax under section
+                                                                  7               501(a) of such Code which has demonstrated, to the
+                                                                  8               satisfaction of the Secretary—
+                                                                  9                                 (A) capacity in a minimum of 15 States,
+                                                                10                         territories, or tribal areas,
+                                                                11                                  (B) expertise in the provision of tax prepa-
+                                                                12                         ration services to low-income taxpayers and un-
+                                                                13                         derserved populations,
+                                                                14                                  (C) an ability to train program leadership
+                                                                15                         and staff,
+                                                                16                                  (D) capacity to disseminate information
+                                                                17                         throughout the United States, and
+                                                                18                                  (E) capacity to—
+                                                                19                                          (i) maintain a Web site through which
+                                                                20                                  information is disseminated in an easily ac-
+                                                                21                                  cessible manner, and
+                                                                22                                          (ii) to provide technical assistance and
+pwalker on DSK7TPTVN1PROD with                                  23                                  training through Web-based technologies.
+                                                                             •HR 341 IH
+
+                                                                                                                           9
+                                                                  1                        (6) SECRETARY.—The term ‘‘Secretary’’ means
+                                                                  2               the Secretary of the Treasury or the Secretary’s del-
+                                                                  3               egate.
+                                                                  4     SEC.        4.    GRANTS           TO      FACILITATE                NATIONWIDE          AVAIL-
+                                                                  5                             ABILITY OF VOLUNTEER INCOME TAX ASSIST-
+                                                                  6                             ANCE FOR LOW-INCOME AND UNDERSERVED
+                                                                  7                             POPULATIONS.
+                                                                  8               (a) IN GENERAL.—The Secretary, through the Inter-
+                                                                  9 nal Revenue Service, shall establish a Community Volun-
+                                                                10 teer Income Tax Assistance Matching Grant Program
+                                                                11 (hereinafter in this section referred to as the ‘‘VITA grant
+                                                                12 program’’). Except as otherwise provided in this section,
+                                                                13 the VITA grant program shall be administered in the
+                                                                14 same manner as the Community Volunteer Income Tax
+                                                                15 Assistance matching grants demonstration program estab-
+                                                                16 lished under title I of division D of the Consolidated Ap-
+                                                                17 propriations Act, 2008.
+                                                                18                (b) MATCHING GRANTS.—
+                                                                19                         (1) IN        GENERAL.—The                      Secretary shall make
+                                                                20                available grants under the VITA grant program to
+                                                                21                provide matching funds for the development, expan-
+                                                                22                sion, or continuation of qualified return preparation
+                                                                23                programs assisting low-income taxpayers and mem-
+pwalker on DSK7TPTVN1PROD with                                  24                bers of underserved populations.
+                                                                             •HR 341 IH
+
+                                                                                                                       10
+                                                                  1                        (2) APPLICATION.—In order to be eligible for a
+                                                                  2               grant under this section, a qualified return prepara-
+                                                                  3               tion program shall submit an application to the Sec-
+                                                                  4               retary at such time, in such manner, and containing
+                                                                  5               such information as the Secretary may reasonably
+                                                                  6               require for each fiscal year.
+                                                                  7                        (3) PRIORITY.—In awarding grants under this
+                                                                  8               section, the Secretary shall give priority to applica-
+                                                                109               tions—          (A) demonstrating assistance to low-in-
+                                                                11                         come taxpayers, with emphasis on outreach to
+                                                                12                         and services for persons with an income at or
+                                                                13                         below 250 percent of the Federal poverty level,
+                                                                14                         as determined in accordance with criteria estab-
+                                                                15                         lished by the Director of the Office of Manage-
+                                                                16                         ment and Budget,
+                                                                17                                  (B) demonstrating taxpayer outreach and
+                                                                18                         education around available income supports and
+                                                                19                         refundable credits such as the earned income
+                                                                20                         tax credit under section 32 of the Internal Rev-
+                                                                21                         enue Code of 1986, and
+                                                                22                                  (C) demonstrating specific outreach and
+pwalker on DSK7TPTVN1PROD with                                  23                         focus on one or more underserved populations.
+                                                                             •HR 341 IH
+
+                                                                                                                       11
+                                                                  1                        (4) USE         OF FUNDS.—Qualified                            return prepara-
+                                                                  2               tion programs receiving a grant under this section
+                                                                  3               may use the grant for—
+                                                                  4                                 (A) ordinary and necessary costs associ-
+                                                                  5                        ated with program operation in accordance with
+                                                                  6                        Cost Principles Circulars as set forth by the Of-
+                                                                  7                        fice of Management and Budget,
+                                                                  8                                 (B) outreach and educational activities re-
+                                                                  9                        lating to eligibility and availability of income
+                                                                10                         supports available through the Internal Revenue
+                                                                11                         Code of 1986, such as the earned income tax
+                                                                12                         credit, and
+                                                                13                                  (C) services related to financial education
+                                                                14                         and capability, asset development, and the es-
+                                                                15                         tablishment of savings accounts in connection
+                                                                16                         with tax return preparation.
+                                                                17                         (5) DURATION               OF GRANTS.—
+
+                                                                18                                  (A) IN        GENERAL.—Except                         as provided in
+                                                                19                         subparagraph (B), a grant awarded under this
+                                                                20                         section shall be for a period of 1 year and shall
+                                                                21                         not be renewed other than through an applica-
+                                                                22                         tion under paragraph (2).
+                                                                23                                  (B) EXTENDED                       GRANTS.—The                Secretary
+pwalker on DSK7TPTVN1PROD with                                  24                         may award a grant under this section for a pe-
+                                                                             •HR 341 IH
+
+                                                                                                                       12
+                                                                  1                        riod of not more than 3 years to any qualified
+                                                                  2                        return preparation program which—
+                                                                  3                                         (i) received a grant under this section
+                                                                  4                                 for the preceding year, and
+                                                                  5                                         (ii) received a score of 90 percent or
+                                                                  6                                 better on a technical evaluation.
+                                                                  7               (c) PROMOTION AND REFERRAL.—
+                                                                  8                        (1) PROMOTION.—The Secretary shall promote
+                                                                  9               the benefits of, and encourage the use of, tax prepa-
+                                                                10                ration through the Volunteer Income Tax Assistance
+                                                                11                program through the use of mass communications,
+                                                                12                referrals, and other means.
+                                                                13                         (2)       INTERNAL               REVENUE               SERVICE        REFER-
+                                                                14                RALS.—The              Secretary may refer taxpayers to quali-
+                                                                15                fied return preparation programs receiving funding
+                                                                16                under this section.
+                                                                17                         (3) VITA             GRANTEE REFERRAL.—Qualified                         re-
+                                                                18                turn preparation programs receiving a grant under
+                                                                19                this section are encouraged to refer, as appropriate,
+                                                                20                to local or regional Low Income Tax Clinics individ-
+                                                                21                uals who are eligible to receive services at such clin-
+                                                                22                ics.
+                                                                23                (d) AUTHORIZATION OF APPROPRIATIONS.—
+pwalker on DSK7TPTVN1PROD with                                  24                         (1) IN         GENERAL.—For                      each of fiscal years
+                                                                25                2014, 2015, 2016, 2017, and 2018, there are au-
+
+
+                                                                             •HR 341 IH
+
+                                                                                                                       13
+                                                                  1               thorized to be appropriated $30,000,000 to carry
+                                                                  2               out the purposes of this section.
+                                                                  3                        (2) RESERVATION.—From the funds appro-
+                                                                  4               priated under paragraph (1) for any fiscal year, the
+                                                                  5               Secretary shall reserve not more than 3 percent for
+                                                                  6               administration of the program.
+                                                                  7                        (3) AVAILABILITY.—Amounts appropriated pur-
+                                                                  8               suant to the authority of paragraph (1) shall remain
+                                                                  9               available without fiscal year limitation until ex-
+                                                                10                pended.
+                                                                11      SEC. 5. NATIONAL CENTER TO PROMOTE QUALITY, EXCEL-
+                                                                12                              LENCE, AND EVALUATION IN VOLUNTEER IN-
+                                                                13                              COME TAX ASSISTANCE.
+
+                                                                14                (a) NATIONAL CENTER TO PROMOTE QUALITY, EX-
+                                                                15      CELLENCE, AND                     EVALUATION                   IN   VOLUNTEER INCOME
+                                                                16 TAX ASSISTANCE.—
+                                                                17                         (1) ESTABLISHMENT.—There is hereby estab-
+                                                                18                lished the National Center to Promote Quality, Ex-
+                                                                19                cellence, and Evaluation in Volunteer Income Tax
+                                                                20                Assistance (hereinafter in this section referred to as
+                                                                21                the ‘‘Center’’).
+                                                                22                         (2) PURPOSE.—The Center shall—
+                                                                23                                  (A) promote the adoption of a universally
+pwalker on DSK7TPTVN1PROD with                                  24                         accessible volunteer training platform for the
+                                                                25                         preparation of Federal income tax returns,
+
+
+                                                                             •HR 341 IH
+
+                                                                                                                       14
+                                                                  1                                 (B) provide capacity-building technical as-
+                                                                  2                        sistance to qualified return preparation pro-
+                                                                  3                        gram managers,
+                                                                  4                                 (C) identify and disseminate best practices
+                                                                  5                        related to tax site management emerging from
+                                                                  6                        States, community-based organizations, non-
+                                                                  7                        profit providers, and local government entities,
+                                                                  8                                 (D) support outreach and marketing ef-
+                                                                  9                        forts to encourage the use of qualified return
+                                                                10                         preparation programs receiving funding under
+                                                                11                         section 4, and
+                                                                12                                  (E) provide evaluation of programs and ac-
+                                                                13                         tivities funded under this Act, including—
+                                                                14                                          (i) identification, both in aggregate
+                                                                15                                  and disaggregate, of gaps in services for
+                                                                16                                  low-income taxpayers and underserved pop-
+                                                                17                                  ulations, and
+                                                                18                                          (ii) independent evaluation of progress
+                                                                19                                  toward program objectives, as defined by
+                                                                20                                  the Secretary.
+                                                                21                         (3) ADMINISTRATION.—
+                                                                22                                  (A) IN       GENERAL.—The                   Secretary shall—
+                                                                23                                          (i) designate, through a competitive
+pwalker on DSK7TPTVN1PROD with                                  24                                  process, one qualified entity to be the lead
+                                                                25                                  national organization, and
+
+
+                                                                             •HR 341 IH
+
+                                                                                                                       15
+                                                                  1                                         (ii) provide an annual grant to the
+                                                                  2                                 lead        national               organization               designated
+                                                                  3                                 under clause (i).
+                                                                  4                                 (B) DUTIES              OF LEAD NATIONAL ORGANI-
+                                                                  5                        ZATION.—The                lead national organization shall
+                                                                  6                        use funds provided through the grant in sub-
+                                                                  7                        paragraph (A)(ii) to—
+                                                                  8                                         (i) carry out the purposes of the Cen-
+                                                                109                                 ter, and(ii) make subgrants as provided in
+                                                                11                                  subsection (b).
+                                                                12                (b) SUBGRANTS.—
+                                                                13                         (1) IN       GENERAL.—The                      lead national organiza-
+                                                                14                tion shall make available subgrants to eligible orga-
+                                                                15                nizations to facilitate specialized technical assistance
+                                                                16                in reaching one or more underserved populations.
+                                                                17                         (2) ELIGIBLE              ORGANIZATION.—For                            purposes of
+                                                                18                this subsection, the term ‘‘eligible organization’’
+                                                                19                means any organization which—
+                                                                20                                  (A) is described in section 501(c) of the
+                                                                21                         Internal Revenue Code of 1986 and exempt
+                                                                22                         from tax under section 501(a) of such Code,
+                                                                23                                  (B) has, to the satisfaction of the lead na-
+pwalker on DSK7TPTVN1PROD with                                  24                         tional organization, demonstrated expertise and
+                                                                25                         evidenced-based practices in specialized out-
+
+
+                                                                             •HR 341 IH
+
+                                                                                                                       16
+                                                                  1                        reach to, and service of, one or more under-
+                                                                  2                        served populations, and
+                                                                  3                                 (C) has, to the satisfaction of the lead na-
+                                                                  4                        tional organization, demonstrated expertise in
+                                                                  5                        the provision of specialized technical assistance
+                                                                  6                        relating to qualified return preparation pro-
+                                                                  7                        grams for one or more targeted underserved
+                                                                  8                        populations.
+                                                                  9                        (3) APPLICATION.—In order to be eligible for a
+                                                                10                subgrant under this subsection, an eligible organiza-
+                                                                11                tion shall submit an application to the lead national
+                                                                12                organization at such time, in such manner, and con-
+                                                                13                taining such information as the lead national organi-
+                                                                14                zation may reasonably require for each fiscal year.
+                                                                15                         (4) USE          OF FUNDS.—An                      eligible organization
+                                                                16                which receives a subgrant under this subsection shall
+                                                                17                assist the Center by—
+                                                                18                                  (A) providing technical assistance to quali-
+                                                                19                         fied return preparation programs with targeted
+                                                                20                         outreach and assistance to one or more under-
+                                                                21                         served populations, and
+                                                                22                                  (B) including strategies for the provision
+                                                                23                         of technical assistance targeting individuals and
+pwalker on DSK7TPTVN1PROD with                                  24                         families with annual household earnings at or
+                                                                             •HR 341 IH
+
+                                                                                                                       17
+                                                                  1                        below 250 percent of the poverty line within the
+                                                                  2                        underserved populations served by the subgrant.
+                                                                  3                        (5) SUBGRANT               AMOUNT.—
+
+                                                                  4                                 (A) IN       GENERAL.—Each                     year, the lead na-
+                                                                  5                        tional organization shall make available sub-
+                                                                  6                        grants which, in the aggregate, do not exceed
+                                                                  7                        40 percent of the grant received under sub-
+                                                                  8                        section (a).
+                                                                  9                                 (B) UNDERSERVED                      POPULATIONS.—Of              the
+                                                                10                         amount of subgrants provided under subpara-
+                                                                11                         graph (A)—
+                                                                12                                          (i) not less than 25 percent shall be
+                                                                13                                  dedicated to specialized technical assist-
+                                                                14                                  ance in serving taxpayers with disabilities,
+                                                                15                                          (ii) not less than 25 percent shall be
+                                                                16                                  dedicated to specialized technical assist-
+                                                                17                                  ance in serving limited English speaking
+                                                                18                                  taxpayers, and
+                                                                19                                          (iii) not less than 25 percent shall be
+                                                                20                                  dedicated to specialized technical assist-
+                                                                21                                  ance in serving Native American taxpayers.
+                                                                22                         (6) DURATION                    OF SUBGRANTS.—A                       subgrant
+                                                                23                awarded under this subsection shall be for a period
+pwalker on DSK7TPTVN1PROD with                                  24                of 1 year and shall not be renewed other than
+                                                                25                through an application under paragraph (3).
+
+
+                                                                             •HR 341 IH
+
+                                                                                                                       18
+                                                                  1               (c) AUTHORIZATION OF APPROPRIATIONS.—
+                                                                  2                        (1) IN         GENERAL.—For                      each of fiscal years
+                                                                  3               2014, 2015, 2016, 2017, and 2018, there are au-
+                                                                  4               thorized to be appropriated $5,000,000 to carry out
+                                                                  5               the purposes of this section.
+                                                                  6                        (2) AVAILABILITY.—Amounts appropriated pur-
+                                                                  7               suant to the authority of paragraph (1) shall remain
+                                                                  8               available without fiscal year limitation until ex-
+                                                                  9               pended.
+                                                                                                                           Æ
+pwalker on DSK7TPTVN1PROD with
+
+
+
+
+                                                                             •HR 341 IH
+

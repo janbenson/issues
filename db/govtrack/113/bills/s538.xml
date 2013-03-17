@@ -1,0 +1,23 @@
+<bill session="113" type="s" number="538" updated="2013-03-13T04:45:41-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend title 10, United States Code, to modify the authorities and responsibilities of convening authorities in taking actions on the findings and sentences of courts-martial.</title>
+  </titles>
+  <sponsor id="412243"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

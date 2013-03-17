@@ -1,0 +1,48 @@
+<bill session="113" type="h" number="756" updated="2013-03-15T04:47:04-04:00">
+  <state datetime="2013-03-14">REPORTED</state>
+  <status>
+    <unknown datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title as="introduced" type="short">Cybersecurity Enhancement Act of 2013</title>
+    <title as="introduced" type="official">To advance cybersecurity research, development, and technical standards, and for other purposes.</title>
+  </titles>
+  <sponsor id="400654"/>
+  <cosponsors>
+    <cosponsor id="412524" joined="2013-03-12"/>
+    <cosponsor id="400145" joined="2013-02-25"/>
+    <cosponsor id="400165" joined="2013-02-15"/>
+    <cosponsor id="400230" joined="2013-02-15"/>
+    <cosponsor id="400630" joined="2013-02-15"/>
+    <cosponsor id="412293" joined="2013-02-15"/>
+    <cosponsor id="400663" joined="2013-02-15"/>
+    <cosponsor id="412466" joined="2013-02-15"/>
+    <cosponsor id="400276" joined="2013-02-25"/>
+    <cosponsor id="400342" joined="2013-02-25"/>
+    <cosponsor id="400381" joined="2013-02-15"/>
+    <cosponsor id="412581" joined="2013-02-27"/>
+    <cosponsor id="400404" joined="2013-02-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-15">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Science, Space, and Technology"/>
+    </action>
+    <calendar state="REPORTED" datetime="2013-03-14">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Science, Space, and Technology"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral, Markup, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>2/15/2013--Introduced.
+Cybersecurity Enhancement Act of 2013 - Directs specified federal agencies participating in the National High-Performance Computing Program to: (1) transmit to Congress a cybersecurity strategic research and development plan and triennial updates, and (2) develop and annually update an implementation roadmap for such plan. Provides for the award of computer and network security research grants by the National Science Foundation (NSF) in the research areas of social and behavioral factors, including human-computer interactions, identity management, as well as the detection, investigation, and prosecution of cyber-crimes involving organized crime and crimes against children. Requires applications for the establishment of Computer and Network Security Research Centers to include a description of how such Centers will partner with government laboratories, for-profit entities, other institutions of higher education, or nonprofit research institutions. Repeals the Cyber Security Faculty Development Traineeship Program. Requires the NSF Director to continue carrying out a Scholarship for Service program under the Cyber Security Research and Development Act. Directs the President to transmit a report to Congress addressing the cybersecurity workforce needs of the federal government. Requires the Director of the Office of Science and Technology Policy to convene a cybersecurity university-industry task force to explore mechanisms for carrying out collaborative R&amp;D activities. Terminates the task force upon transmittal of a report to Congress. Revises provisions under the Cyber Security Research and Development Act concerning the development and dissemination by the National Institute of Standards and Technology (NIST) of security risk checklists associated with computer systems that are, or are likely to become, widely used within the federal government. Requires the NIST to: (1) establish priorities for the development, and revision as necessary, of security automation standards, associated reference materials (including protocols), and checklists associated with such systems in order to enable standardized and interoperable technologies, architectures, and frameworks to continuously monitor information security within the federal government; (2) conduct intramural security research activities under its computing standards program; (3) ensure the coordination of federal agencies engaged in the development of international technical standards related to information system security; and (4) continue to encourage implementation of a comprehensive strategy for the use and adoption of cloud computing services, to coordinate a cybersecurity awareness and education program, and to develop technical standards, metrology, testbeds, and conformance criteria with regard to identity management research and development.</summary>
+</bill>

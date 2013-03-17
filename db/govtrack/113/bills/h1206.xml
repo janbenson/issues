@@ -1,0 +1,25 @@
+<bill session="113" type="h" number="1206" updated="2013-03-15T04:47:59-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="official">To grant the Secretary of the Interior permanent authority to authorize States to issue electronic duck stamps, and for other purposes.</title>
+  </titles>
+  <sponsor id="412255"/>
+  <cosponsors>
+    <cosponsor id="400218" joined="2013-03-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

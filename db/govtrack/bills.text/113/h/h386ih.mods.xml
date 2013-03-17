@@ -1,0 +1,432 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee183c809ff">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To provide housing assistance for very low-income veterans.;
+   		Homes for Heroes Act of 2013;H.R. 386 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-02-06</dateIngested>
+</extension>
+<titleInfo>
+ <title>To provide housing assistance for very low-income veterans.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Homes for Heroes Act of 2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 386 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-01-23</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>49 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee183c809ff</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr386ih</identifier>
+<identifier type="preferred citation">H.R. 386</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h386_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr386ih/html/BILLS-113hr386ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr386ih/pdf/BILLS-113hr386ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr386ih/xml/BILLS-113hr386ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-02-06</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2013-02-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr386ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mr. Al Green of Texas</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ms. Bordallo</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Gene Green of Texas</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Grijalva</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Hinojosa</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Conyers</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Hastings of Florida</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Holt</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Honda</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ms. Kaptur</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. McDermott</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. McGovern</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Michaud</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Rangel</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Rush</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ms. Moore</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Serrano</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Financial Services</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Ways and Means</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 12 Section 1701q</partNumber>
+  <partNumber>Title 12 Section 1715z-1</partNumber>
+</titleInfo>
+ <identifier type="USC citation">12 U.S.C. 1701q</identifier>
+ <identifier type="USC citation">12 U.S.C. 1715z-1</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 4103</partNumber>
+  <partNumber>Title 25 Section 4111et seq.</partNumber>
+  <partNumber>Title 25 Section 4221</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 4103</identifier>
+ <identifier type="USC citation">25 U.S.C. 4111et seq.</identifier>
+ <identifier type="USC citation">25 U.S.C. 4221</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 38 Section 101</partNumber>
+  <partNumber>Title 38 Section 101(13)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">38 U.S.C. 101</identifier>
+ <identifier type="USC citation">38 U.S.C. 101(13)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 11302</partNumber>
+  <partNumber>Title 42 Section 11381et seq.</partNumber>
+  <partNumber>Title 42 Section 11401</partNumber>
+  <partNumber>Title 42 Section 11403et seq.</partNumber>
+  <partNumber>Title 42 Section 12705</partNumber>
+  <partNumber>Title 42 Section 12709</partNumber>
+  <partNumber>Title 42 Section 12721et seq.</partNumber>
+  <partNumber>Title 42 Section 12901et seq.</partNumber>
+  <partNumber>Title 42 Section 13601et seq.</partNumber>
+  <partNumber>Title 42 Section 1437c-1</partNumber>
+  <partNumber>Title 42 Section 1437c-1(d)(1)</partNumber>
+  <partNumber>Title 42 Section 1437et seq.</partNumber>
+  <partNumber>Title 42 Section 1437f</partNumber>
+  <partNumber>Title 42 Section 1437f(o)(19)</partNumber>
+  <partNumber>Title 42 Section 1485</partNumber>
+  <partNumber>Title 42 Section 1490a(a)(2)(A)</partNumber>
+  <partNumber>Title 42 Section 1490p-2</partNumber>
+  <partNumber>Title 42 Section 1701z-1</partNumber>
+  <partNumber>Title 42 Section 2000aet seq.</partNumber>
+  <partNumber>Title 42 Section 3533</partNumber>
+  <partNumber>Title 42 Section 3601</partNumber>
+  <partNumber>Title 42 Section 8011(d)(3)</partNumber>
+  <partNumber>Title 42 Section 8013</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 11302</identifier>
+ <identifier type="USC citation">42 U.S.C. 11381et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 11401</identifier>
+ <identifier type="USC citation">42 U.S.C. 11403et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 12705</identifier>
+ <identifier type="USC citation">42 U.S.C. 12709</identifier>
+ <identifier type="USC citation">42 U.S.C. 12721et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 12901et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 13601et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 1437c-1</identifier>
+ <identifier type="USC citation">42 U.S.C. 1437c-1(d)(1)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1437et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 1437f</identifier>
+ <identifier type="USC citation">42 U.S.C. 1437f(o)(19)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1485</identifier>
+ <identifier type="USC citation">42 U.S.C. 1490a(a)(2)(A)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1490p-2</identifier>
+ <identifier type="USC citation">42 U.S.C. 1701z-1</identifier>
+ <identifier type="USC citation">42 U.S.C. 2000aet seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 3533</identifier>
+ <identifier type="USC citation">42 U.S.C. 3601</identifier>
+ <identifier type="USC citation">42 U.S.C. 8011(d)(3)</identifier>
+ <identifier type="USC citation">42 U.S.C. 8013</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr386ih</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>386</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle>Homes for Heroes Act of 2013</shortTitle>
+ <action date="2013-01-23">Mr. Al Green of Texas (for himself, Ms. Bordallo, Mr. Gene Green of Texas, Mr. Grijalva, Mr. Hinojosa, Mr. Conyers, Ms. Hahn, Mr. Hastings of Florida, Mr. Holt, Mr. Honda, Ms. Kaptur, Mr. McDermott, Mr. McGovern, Mr. Michaud, Ms. Pingree of Maine, Mr. Rangel, Mr. Rush, Ms. Moore, and Mr. Serrano) introduced the following bill; which was referred to the Committee on Financial Services, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action>
+ <congCommittee authorityId="hsba00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Financial Services</name>
+                      <name type="authority-short">Financial Services</name>
+                </congCommittee>
+ <congCommittee authorityId="hswm00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Ways and Means</name>
+                      <name type="authority-short">Ways and Means</name>
+                </congCommittee>
+ <congMember chamber="H" congress="113" role="SPONSOR" state="TX">
+                      <name type="parsed">Mr. Al Green of Texas</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Ms. Bordallo</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Gene Green of Texas</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Grijalva</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Hinojosa</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Conyers</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Hastings of Florida</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Holt</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Honda</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Ms. Kaptur</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. McDermott</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. McGovern</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Michaud</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Rangel</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Rush</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Ms. Moore</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Serrano</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="12">
+                      <section number="1701q"></section>
+                      <section number="1715z-1"></section>
+                </USCode>
+ <USCode title="25">
+                      <section number="4103"></section>
+                      <section detail="et seq." number="4111"></section>
+                      <section number="4221"></section>
+                </USCode>
+ <USCode title="38">
+                      <section number="101"></section>
+                      <section detail="(13)" number="101"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="11302"></section>
+                      <section detail="et seq." number="11381"></section>
+                      <section number="11401"></section>
+                      <section detail="et seq." number="11403"></section>
+                      <section number="12705"></section>
+                      <section number="12709"></section>
+                      <section detail="et seq." number="12721"></section>
+                      <section detail="et seq." number="12901"></section>
+                      <section detail="et seq." number="13601"></section>
+                      <section number="1437c-1"></section>
+                      <section detail="(d)(1)" number="1437c-1"></section>
+                      <section detail="et seq." number="1437"></section>
+                      <section number="1437f"></section>
+                      <section detail="(o)(19)" number="1437f"></section>
+                      <section number="1485"></section>
+                      <section detail="(a)(2)(A)" number="1490a"></section>
+                      <section number="1490p-2"></section>
+                      <section number="1701z-1"></section>
+                      <section detail="et seq." number="2000a"></section>
+                      <section number="3533"></section>
+                      <section number="3601"></section>
+                      <section detail="(d)(3)" number="8011"></section>
+                      <section number="8013"></section>
+                </USCode>
+</extension>
+</mods>

@@ -1,0 +1,66 @@
+<bill session="113" type="s" number="169" updated="2013-03-08T04:45:38-05:00">
+  <state datetime="2013-01-29">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-29"/>
+  </status>
+  <introduced datetime="2013-01-29"/>
+  <titles>
+    <title as="introduced" type="short">I-Squared Act of 2013</title>
+    <title as="introduced" type="short">Immigration Innovation Act of 2013</title>
+    <title as="introduced" type="official">A bill to amend the Immigration and Nationality Act to authorize additional visas for well-educated aliens to live and work in the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="300052"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2013-01-30"/>
+    <cosponsor id="412490" joined="2013-01-29"/>
+    <cosponsor id="412390" joined="2013-01-29"/>
+    <cosponsor id="400134" joined="2013-01-29"/>
+    <cosponsor id="412223" joined="2013-01-31"/>
+    <cosponsor id="412554" joined="2013-03-07"/>
+    <cosponsor id="412218" joined="2013-01-29"/>
+    <cosponsor id="412494" joined="2013-01-29"/>
+    <cosponsor id="300055" joined="2013-03-07"/>
+    <cosponsor id="412545" joined="2013-02-07"/>
+    <cosponsor id="412242" joined="2013-01-29"/>
+    <cosponsor id="412495" joined="2013-01-31"/>
+    <cosponsor id="412243" joined="2013-02-25"/>
+    <cosponsor id="300078" joined="2013-01-29"/>
+    <cosponsor id="412491" joined="2013-01-29"/>
+    <cosponsor id="412507" joined="2013-01-29"/>
+    <cosponsor id="412323" joined="2013-01-29"/>
+    <cosponsor id="400546" joined="2013-02-13"/>
+    <cosponsor id="412321" joined="2013-01-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-29">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S360-361, S362-363, S364"/>
+    </action>
+    <action state="REFERRED" datetime="2013-01-29">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S364-367" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Administrative remedies"/>
+    <term name="Computers and information technology"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Employment and training programs"/>
+    <term name="Foreign labor"/>
+    <term name="Higher education"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Science and engineering education"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="User charges and fees"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+</bill>

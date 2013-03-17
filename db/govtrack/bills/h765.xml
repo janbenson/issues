@@ -1,0 +1,47 @@
+<bill session="113" type="h" number="765" updated="2013-03-09T06:21:06-05:00">
+  <state datetime="2013-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-15"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title as="introduced" type="short">Water Infrastructure Resiliency and Sustainability Act of 2013</title>
+    <title as="introduced" type="official">To authorize the Administrator of the Environmental Protection Agency to establish a program of awarding grants to owners or operators of water systems to increase resiliency or adaptability of the systems to any ongoing or forecasted changes to the hydrologic conditions of a region of the United States.</title>
+  </titles>
+  <sponsor id="400062"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-15">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to the Subcommittee on Environment and the Economy.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-03-01">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF18" subcommittee="Environment and the Economy" name="House Energy and Commerce"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>2/15/2013--Introduced.
+Water Infrastructure Resiliency and Sustainability Act of 2013 - Requires the Administrator of the Environmental Protection Agency (EPA) to: (1) establish the Water Infrastructure Resiliency and Sustainability Program to provide grants to owners or operators of water systems for programs or projects to increase the resiliency or adaptability of the systems to any ongoing or forecasted changes to the hydrologic conditions of a U.S. region, and (2) give priority to owners or operators of water systems that are at the greatest and most immediate risk of facing significant negative impacts due to changing hydrologic conditions. Requires the Administrator to ensure that the list of grant applications funded includes a substantial number that propose to utilize innovative approaches that: (1) promote more efficient water use, water conservation, water reuse, or recycling; (2) use decentralized, low-impact development technologies and nonstructural approaches, including practices that use, enhance, or mimic the natural hydrological cycle or protect natural flows; (3) reduce stormwater runoff or flooding by protecting or enhancing natural ecosystem functions; (4) modify, upgrade, enhance, or replace existing water system infrastructure in response to changing hydrologic conditions; (5) improve water quality or quantity for agricultural and municipal uses, including through salinity reduction; and (6) provide multiple benefits, including to water supply enhancement or demand reduction, water quality protection or improvement, increased flood protection, and ecosystem protection or improvement.</summary>
+</bill>

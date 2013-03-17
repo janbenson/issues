@@ -1,0 +1,28 @@
+<bill session="113" type="s" number="447" updated="2013-03-11T09:45:37-04:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title as="introduced" type="short">Black Hills Cemetery Act</title>
+    <title as="introduced" type="official">A bill to provide for the conveyance of certain cemeteries that are located on National Forest System land in Black Hills National Forest, South Dakota.</title>
+  </titles>
+  <sponsor id="400546"/>
+  <cosponsors>
+    <cosponsor id="300058" joined="2013-03-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-05">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="291"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

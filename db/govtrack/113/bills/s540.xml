@@ -1,0 +1,25 @@
+<bill session="113" type="s" number="540" updated="2013-03-13T04:45:42-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="official">A bill to designate the air route traffic control center located in Nashua, New Hampshire, as the "Patricia Clark Boston Air Route Traffic Control Center".</title>
+  </titles>
+  <sponsor id="412323"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

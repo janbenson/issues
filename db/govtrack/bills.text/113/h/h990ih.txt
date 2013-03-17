@@ -1,0 +1,1089 @@
+                                                                                                                                   I
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                          H. R. 990
+                                        To amend the Truth in Lending Act to address certain issues related to
+                                              the extension of consumer credit, and for other purposes.
+
+
+
+
+                                                IN THE HOUSE OF REPRESENTATIVES
+                                                                MARCH 6, 2013
+                                  Ms. BONAMICI (for herself, Mr. CUMMINGS, Mr. BLUMENAUER, Mrs. DAVIS
+                                      of California, Mr. SARBANES, Ms. NORTON, Ms. DELAURO, Mr. CON-
+                                                              ´
+                                      YERS, Ms. LINDA T. SANCHEZ of California, Mr. GRIJALVA, Mr. ELLI-
+                                      SON, Ms. WATERS, Mr. TAKANO, Mr. MCGOVERN, Mr. WELCH, Ms. LOF-
+                                      GREN, Ms. LEE of California, and Ms. CHU) introduced the following bill;
+                                      which was referred to the Committee on Financial Services
+
+
+
+
+                                                                            A BILL
+                                  To amend the Truth in Lending Act to address certain
+                                     issues related to the extension of consumer credit, and
+                                     for other purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Stopping Abuse and
+                                    5 Fraud in Electronic Lending Act of 2013’’ or the ‘‘SAFE
+                                    6 Lending Act of 2013’’.
+
+
+
+
+
+                                    1     SEC. 2. CONSUMER CONTROL OVER BANK ACCOUNTS.       2
+                                    2              (a) PROHIBITING UNAUTHORIZED REMOTELY CRE-
+                                    3     ATED         CHECKS.—Section 905 of the Electronic Fund
+                                    4 Transfer Act (15 U.S.C. 1693c) is amended by adding at
+                                    5 the end the following:
+                                    6              ‘‘(d)         LIMITATIONS                     ON       REMOTELY                 CREATED
+                                    7 CHECKS.—
+                                    8                        ‘‘(1) IN        GENERAL.—Subject                       to the limitations
+                                    9              set forth under paragraph (2) and any additional
+                                  10               limitations that the Bureau may establish, by rule,
+                                  11               a remotely created check may only be issued by a
+                                  12               person designated in writing by the consumer, such
+                                  13               designation specifically provided in writing by the
+                                  14               consumer to the insured depository institution at
+                                  15               which the consumer maintains the account from
+                                  16               which the check is to be drawn.
+                                  17                         ‘‘(2) ADDITIONAL                    LIMITATIONS.—
+
+                                  18                                  ‘‘(A) IN       GENERAL.—An                    authorization pro-
+                                  19                         vided under paragraph (1) may be revoked at
+                                  20                         any time by the consumer.
+                                  21                                  ‘‘(B) CONSUMER                     FINANCIAL PROTECTION
+                                  22                         LAWS.—No               payment order, including a re-
+                                  23                         motely created check, may be issued by any per-
+                                  24                         son in response to the exercise of, or attempt to
+
+
+
+
+                                  25                         exercise, any rights by a consumer under any
+                                  26                         Federal consumer financial law (as defined in
+                                              •HR 990 IH
+
+                                                                                             3
+                                    1                        section 1002(14) of the Consumer Financial
+                                    2                        Protection Act of 2010 (12 U.S.C. 5481(14)))
+                                    3                        or any other provision of any law or regulation
+                                    4                        within the jurisdiction of the Bureau.
+                                    5                        ‘‘(3) REMOTELY                  CREATED CHECK DEFINED.—
+                                    6              For purposes of this subsection, the term ‘remotely
+                                    7              created check’ means a check (including paper and
+                                    8              electronic checks and any other payment order that
+                                    9              the Bureau, by rule, determines is appropriately cov-
+                                  10               ered by this subsection) that—
+                                  11                                  ‘‘(A) is not created by the financial institu-
+                                  12                         tion that holds the customer account from
+                                  13                         which the check is to be paid; and
+                                  14                                  ‘‘(B) does not bear a signature applied, or
+                                  15                         purported to be applied, by the person from
+                                  16                         whose account the check is to be paid.’’.
+                                  17               (b) CONSUMER PROTECTIONS                                    FOR          CERTAIN ONE-
+                                  18 TIME ELECTRONIC FUND TRANSFERS.—Section 913 of
+                                  19 the Electronic Fund Transfer Act (15 U.S.C. 1693k) is
+                                  20 amended—
+                                  21                         (1) by inserting ‘‘(a) IN GENERAL.—’’ before
+                                  22               ‘‘No person’’;
+                                  23                         (2) striking ‘‘preauthorized electronic fund
+
+
+
+
+                                  24               transfers’’ and inserting ‘‘an electronic fund trans-
+                                  25               fer’’; and
+
+
+                                              •HR 990 IH
+
+                                                                                             4
+                                    1                        (3) by adding at the end the following:
+                                    2              ‘‘(b) TREATMENT                    FOR        ELECTRONIC FUND TRANS-
+                                    3     FERS IN          CREDIT EXTENSIONS.—If a consumer voluntarily
+                                    4 agrees to repay an extension of small-dollar consumer
+                                    5 credit transaction (as defined in section 110(b) of the
+                                    6 Truth in Lending Act) by means of an electronic fund
+                                    7 transfer, such electronic fund transfer shall be treated as
+                                    8 a preauthorized electronic fund transfer subject to the pro-
+                                    9 tections of this title.’’.
+                                  10      SEC. 3. CONSISTENT APPLICATION OF LAW FOR SMALL-
+                                  11                              DOLLAR LENDING.
+                                  12               (a) CONSISTENT APPLICATION                                  OF     STATE LAW    FOR
+                                  13 SMALL-DOLLAR LENDING.—The Truth in Lending Act
+                                  14 (15 U.S.C. 1601 et seq.) is amended by inserting after
+                                  15 section 109 the following:
+                                  16      ‘‘SEC. 110. CONSISTENT APPLICATION OF LAW FOR SMALL-
+                                  17                              DOLLAR LENDING.
+                                  18               ‘‘(a) IN GENERAL.—Notwithstanding any other pro-
+                                  19 vision of law, and except to the extent that Federal or
+                                  20 applicable tribal law affords greater protection to the con-
+                                  21 sumer, any small-dollar consumer credit transaction made
+                                  22 over the Internet, telephone, facsimile, mail, electronic
+                                  23 mail, or other electronic communication, and any small-
+
+
+
+
+                                  24 dollar consumer credit transaction conducted by a national
+                                  25 bank shall comply with the laws of the State in which the
+
+
+                                              •HR 990 IH
+
+                                                                                             5
+                                    1 consumer resides with respect to annual percentage rates,
+                                    2 interest, fees, charges, and such other similar or related
+                                    3 matters as the Bureau may, by rule, determine.
+                                    4              ‘‘(b) DEFINITIONS.—As used in this section, the term
+                                    5 ‘small-dollar consumer credit transaction’ means any
+                                    6 transaction that extends, facilitates, brokers, arranges, or
+                                    7 gathers applications for credit that is—
+                                    8                        ‘‘(1) made to a consumer in an amount of not
+                                    9              more than $5,000, or such greater amount as the
+                                  10               Bureau may, by rule, determine, such amount to be
+                                  11               adjusted annually to reflect changes in the Con-
+                                  12               sumer Price Index for all urban consumers published
+                                  13               by the Department of Labor; and
+                                  14                         ‘‘(2) extended pursuant to an agreement that
+                                  15               is—
+                                  16                                  ‘‘(A) other than an open-end credit plan
+                                  17                         and is payable in one or more installments of
+                                  18                         less than 12 months (or such longer period as
+                                  19                         the Bureau may, by rule, determine);
+                                  20                                  ‘‘(B) an open-end credit plan in which each
+                                  21                         advance is fully repayable within a defined time
+                                  22                         or in connection with a defined event, or both;
+                                  23                         or
+
+
+
+
+
+                                  24                                  ‘‘(C) such other plan as the Bureau deter-
+                                  25                         mines, by rule.’’.
+
+
+                                              •HR 990 IH
+
+                                                                                             6
+                                    1              (b) ENFORCEMENT.—Section 130 of the Truth in
+                                    2 Lending Act (15 U.S.C. 1640) is amended by inserting
+                                    3 ‘‘section 110,’’ before ‘‘or chapter 4’’.
+                                    4     SEC. 4. RESTRICTIONS ON LEAD GENERATION IN SMALL-
+                                    5                             DOLLAR CONSUMER CREDIT TRANSACTIONS.
+                                    6              The Truth in Lending Act (15 U.S.C. 1601 et seq.)
+                                    7 is amended by adding at the end the following:
+                                    8     ‘‘SEC. 140B. RESTRICTIONS ON LEAD GENERATION IN
+                                    9                             SMALL-DOLLAR CONSUMER CREDIT TRANS-
+                                  10                              ACTIONS.
+
+                                  11               ‘‘(a) IDENTIFICATION INFORMATION.—Any person
+                                  12 facilitating, brokering, arranging, gathering applications
+                                  13 for, or distributing sensitive personal financial information
+                                  14 in connection with small-dollar consumer credit trans-
+                                  15 actions shall prominently disclose information by which
+                                  16 they may be contacted or identified, including for service
+                                  17 of process and for identification of the registrant of any
+                                  18 domain name registered or used.
+                                  19               ‘‘(b) PROHIBITION ON LEAD GENERATION IN SMALL-
+                                  20 DOLLAR CONSUMER CREDIT TRANSACTIONS.—No person
+                                  21 may facilitate, broker, arrange, gather applications for, or
+                                  22 distribute sensitive personal financial information in con-
+                                  23 nection with small-dollar consumer credit transactions,
+
+
+
+
+                                  24 unless the person is directly providing the small-dollar
+                                  25 consumer credit to the consumer.
+
+
+                                              •HR 990 IH
+
+                                                                                             7
+                                    1              ‘‘(c) DEFINITIONS.—For purposes of this section—
+                                    2                        ‘‘(1) the term ‘sensitive personal financial infor-
+                                    3              mation’ means the consumer’s Social Security num-
+                                    4              ber, financial account number, bank routing number,
+                                    5              bank account number, or any required security or
+                                    6              access code that is immediately necessary to permit
+                                    7              access to an individual’s financial account; and
+                                    8                        ‘‘(2) the term ‘small-dollar consumer credit
+                                    9              transaction’ has the same meaning as in section
+                                  10               110(b).
+                                  11               ‘‘(d) RULE OF CONSTRUCTION.—
+                                  12                         ‘‘(1) IN         GENERAL.—Nothing                          in this section
+                                  13               may be interpreted to limit the authority of the Bu-
+                                  14               reau to further restrict activities covered by this sec-
+                                  15               tion.
+                                  16                         ‘‘(2) CLARIFICATION.—It shall not be consid-
+                                  17               ered ‘facilitating’ in connection with small-dollar
+                                  18               consumer credit transactions to be engaged solely in
+                                  19               1 the following activities:
+                                  20                                  ‘‘(A) The provision of a telecommuni-
+                                  21                         cations service, or of an Internet access service
+                                  22                         or Internet information location tool (as those
+                                  23                         terms are defined in section 231 of the Commu-
+
+
+
+
+                                  24                         nications Act of 1934 (47 U.S.C. 231)).
+                                              •HR 990 IH
+
+                                                                                             8
+                                    1                                 ‘‘(B) The transmission, storage, retrieval,
+                                    2                        hosting, formatting, or translation (or any com-
+                                    3                        bination thereof) of a communication, without
+                                    4                        selection or alteration of the content of the
+                                    5                        communication, except that deletion of a par-
+                                    6                        ticular communication or material made by an-
+                                    7                        other person in a manner consistent with sec-
+                                    8                        tion 230(c) of the Communications Act of 1934
+                                    9                        (47 U.S.C. 230(c)).’’.
+                                  10      SEC. 5. ENHANCED ENFORCEMENT AUTHORITY AGAINST
+                                  11                              CERTAIN INTERNET LENDING.
+                                  12               The Truth in Lending Act (15 U.S.C. 1601 et seq.)
+                                  13 is amended by inserting after section 108 the following:
+                                  14      ‘‘SEC. 108A. ENHANCED ENFORCEMENT AUTHORITY RELAT-
+                                  15                              ING TO CONSUMER FINANCIAL ACTIVITIES
+                                  16                              BY CERTAIN INTERNET SITES.
+
+                                  17               ‘‘(a) DEFINITIONS.—In this section, the following
+                                  18 definitions shall apply:
+                                  19                         ‘‘(1) COMPLAINANT.—The term ‘complainant’
+                                  20               means a State attorney general or State or tribal
+                                  21               agency with enforcement authority over prohibited
+                                  22               activity who files a complaint with the Bureau under
+                                  23               subsection (d).
+
+
+
+
+
+                                              •HR 990 IH
+
+                                                                                             9
+                                    1                        ‘‘(2) COVERED                   ONSHORE PERSON.—The                     term
+                                    2              ‘covered onshore person’ means a State government
+                                    3              or an Indian tribe.
+                                    4                        ‘‘(3) FEDERAL                   CONSUMER FINANCIAL LAW.—
+                                    5              The term ‘Federal consumer financial law’ has the
+                                    6              same meaning as in section 1002 of the Consumer
+                                    7              Financial Protection Act of 2010 (12 U.S.C. 5481).
+                                    8                        ‘‘(4) FINANCIAL                 TRANSACTION PROVIDER.—
+
+                                    9                                 ‘‘(A) IN       GENERAL.—Except                        as provided in
+                                  10                         subparagraph (B), the term ‘financial trans-
+                                  11                         action provider’ has the same meaning as in
+                                  12                         section 5362(4) of title 31, United States Code.
+                                  13                                  ‘‘(B) EXCEPTION.—The term ‘financial
+                                  14                         transaction provider’ does not include an Inter-
+                                  15                         net service platform or an affiliate of an Inter-
+                                  16                         net service platform.
+                                  17                         ‘‘(5) INDIAN             TRIBE.—The                 term ‘Indian tribe’
+                                  18               has the same meaning as in section 4 of the Indian
+                                  19               Self-Determination and Education Assistance Act
+                                  20               (25 U.S.C. 450b).
+                                  21                         ‘‘(6)       INTERNET                SERVICE             PLATFORM.—The
+                                  22               term ‘Internet service platform’ means an interactive
+                                  23               digital service the provider of which—
+
+
+
+
+
+                                              •HR 990 IH
+
+                                                                                         10
+                                    1                                 ‘‘(A) does not act merely as a payment
+                                    2                        intermediary between a user and a supplier of
+                                    3                        goods or services; and
+                                    4                                 ‘‘(B) provides additional services to facili-
+                                    5                        tate interaction between users unrelated to pur-
+                                    6                        chases from suppliers of goods and services.
+                                    7                        ‘‘(7) INTERNET                  SITE.—The            term ‘Internet site’
+                                    8              means the collection of digital assets, including links,
+                                    9              indexes, or pointers to digital assets, accessible
+                                  10               through the Internet that are addressed relative to
+                                  11               a common domain name.
+                                  12                         ‘‘(8) COVERED              OFFSHORE PERSON.—
+
+                                  13                                  ‘‘(A) IN       GENERAL.—The                    term ‘covered off-
+                                  14                         shore person’ means a person (and if such per-
+                                  15                         son is not known, the Internet site or other
+                                  16                         electronic representation of such person such as
+                                  17                         a telephone number, text message service, or
+                                  18                         mobile application) that—
+                                  19                                         ‘‘(i) conducts business directed to resi-
+                                  20                                  dents of the United States;
+                                  21                                         ‘‘(ii) does not have a domain name
+                                  22                                  that is registered or assigned by a domain
+                                  23                                  name registrar, domain name registry, or
+
+
+
+
+                                  24                                  other domain name registration authority
+                                              •HR 990 IH
+
+                                                                                         11
+                                    1                                 that is located within a judicial district of
+                                    2                                 the United States; and
+                                    3                                        ‘‘(iii) is not operated by an entity that
+                                    4                                 is located within a judicial district of the
+                                    5                                 United States.
+                                    6                                 ‘‘(B) BUSINESS                DIRECTED TO RESIDENTS
+                                    7                        OF THE UNITED STATES.—For                                         purposes of
+                                    8                        making a determination under subparagraph
+                                    9                        (A)(i), the Bureau may consider, among other
+                                  10                         indicators, whether—
+                                  11                                         ‘‘(i) the person extends, facilitates,
+                                  12                                  brokers, arranges, or gathers applications
+                                  13                                  for credit to persons located in the United
+                                  14                                  States;
+                                  15                                         ‘‘(ii) the person has reasonable meas-
+                                  16                                  ures in place to prevent its services from
+                                  17                                  being accessed from or delivered to the
+                                  18                                  United States; and
+                                  19                                         ‘‘(iii) any prices for goods and services
+                                  20                                  provided are indicated in the currency of
+                                  21                                  the United States.
+                                  22                         ‘‘(9) OPERATOR.—The term ‘operator’, when
+                                  23               used in connection with an Internet site, includes
+
+
+
+
+                                  24               any person with authority to operate the Internet
+                                  25               site.
+
+
+                                              •HR 990 IH
+
+                                                                                         12
+                                    1                        ‘‘(10) OWNER.—The term ‘owner’, when used
+                                    2              in connection with an Internet site, includes any
+                                    3              owner of a majority interest in the Internet site.
+                                    4                        ‘‘(11) STATE            CONSUMER FINANCIAL LAW.—The
+                                    5              term ‘State consumer financial law’ means a provi-
+                                    6              sion of State law that either constitutes a ‘State
+                                    7              consumer financial law’ as that term is defined in
+                                    8              section 5136C of title LXII of the Revised Statutes
+                                    9              of the United States (12 U.S.C. 21 et seq.), or pro-
+                                  10               hibits unfair or deceptive acts or practices.
+                                  11               ‘‘(b) APPLICABILITY                       OF   SECTION.—It shall be a vio-
+                                  12 lation of this section—
+                                  13                         ‘‘(1) for a covered offshore person to violate an
+                                  14               applicable Federal, State, or tribal consumer finan-
+                                  15               cial law; and
+                                  16                         ‘‘(2) for a covered onshore person to violate an
+                                  17               applicable Federal, State, or tribal consumer finan-
+                                  18               cial law.
+                                  19               ‘‘(c) INVESTIGATION                       OF   VIOLATIONS                BY     BUREAU.—
+                                  20                         ‘‘(1) IN      GENERAL.—The                    Bureau—
+                                  21                                  ‘‘(A) may investigate any alleged violation
+                                  22                         of subsection (b) on its own initiative; and
+                                  23                                  ‘‘(B) shall—
+
+
+
+
+
+                                              •HR 990 IH
+
+                                                                                         13
+                                    1                                        ‘‘(i) review any alleged violation of
+                                    2                                 subsection (b) upon receiving a complaint
+                                    3                                 filed under subsection (d); and
+                                    4                                        ‘‘(ii) adjudicate and otherwise inves-
+                                    5                                 tigate and respond to such complaint, as
+                                    6                                 appropriate.
+                                    7                        ‘‘(2) CONSULTATIONS.—In taking action under
+                                    8              paragraph (1), the Bureau shall, as the Bureau de-
+                                    9              termines appropriate, consult with and seek advice
+                                  10               and information from the Attorney General of the
+                                  11               United States, the Federal Trade Commission, the
+                                  12               International Trade Commission, the Bureau of In-
+                                  13               dian Affairs (in the case of matters involving an In-
+                                  14               dian tribe), federally recognized Indian tribes (in the
+                                  15               case of rulemakings involving Indian tribes), and
+                                  16               such other agencies and officials as the Bureau con-
+                                  17               siders appropriate.
+                                  18                         ‘‘(3) LIMITATION                  ON INVESTIGATIONS OF DO-
+                                  19               MAIN NAMES; CONSENT TO JURISDICTION.—Subject
+                                  20               to such limitations as the Bureau may, by rule, de-
+                                  21               termine, the Bureau shall terminate, or not initiate,
+                                  22               an investigation or adjudication under paragraph (1)
+                                  23               with respect to a person or a domain name—
+
+
+
+
+
+                                  24                                  ‘‘(A) if a person or the operator of the
+                                  25                         Internet site associated with the domain name
+
+
+                                              •HR 990 IH
+
+                                                                                         14
+                                    1                        provides in a legal notice on the site accurate
+                                    2                        information consisting of—
+                                    3                                        ‘‘(i) the name of an individual author-
+                                    4                                 ized to receive process on behalf of the site;
+                                    5                                        ‘‘(ii) an address at which process may
+                                    6                                 be served;
+                                    7                                        ‘‘(iii) a telephone number at which the
+                                    8                                 individual described in clause (i) may be
+                                    9                                 contacted; and
+                                  10                                         ‘‘(iv) a statement that the operator of
+                                  11                                  the site consents to the jurisdiction and
+                                  12                                  venue of the United States district courts
+                                  13                                  with respect to a violation of State con-
+                                  14                                  sumer lending laws;
+                                  15                                  ‘‘(B) provided that, in the event of the fil-
+                                  16                         ing of any civil action in the appropriate United
+                                  17                         States district court for a violation of State or
+                                  18                         tribal consumer lending laws, the operator of
+                                  19                         the Internet site accepts service and waives, in
+                                  20                         a timely manner, any objections to jurisdiction,
+                                  21                         as set forth in the statement described in sub-
+                                  22                         paragraph (A)(iv); and
+                                  23                                  ‘‘(C) provided that, any limitations on in-
+
+
+
+
+                                  24                         vestigations under this subsection shall not
+                                  25                         apply if—
+
+
+                                              •HR 990 IH
+
+                                                                                         15
+                                    1                                        ‘‘(i) any of the information provided
+                                    2                                 by the operator is inaccurate in any way;
+                                    3                                 or
+                                    4                                        ‘‘(ii) at any point, the relevant party
+                                    5                                 fails to respond to or abide by any order
+                                    6                                 or request of the relevant court.
+                                    7                        ‘‘(4) RULE           OF CONSTRUCTION.—It                          shall not be
+                                    8              considered a violation of this section to be engaged
+                                    9              solely in 1 of the following activities:
+                                  10                                  ‘‘(A) The provision of a telecommuni-
+                                  11                         cations service, or of an Internet access service
+                                  12                         or Internet information location tool (as those
+                                  13                         terms are defined in section 231 of the Commu-
+                                  14                         nications Act of 1934 (47 U.S.C. 231)).
+                                  15                                  ‘‘(B) The transmission, storage, retrieval,
+                                  16                         hosting, formatting, or translation (or any com-
+                                  17                         bination thereof) of a communication, without
+                                  18                         selection or alteration of the content of the
+                                  19                         communication, except that deletion of a par-
+                                  20                         ticular communication or material made by an-
+                                  21                         other person in a manner consistent with sec-
+                                  22                         tion 230(c) of the Communications Act of 1934
+                                  23                         (47 U.S.C. 230(c)).
+                                  24               ‘‘(d) COMPLAINTS.—
+
+
+
+
+                                              •HR 990 IH
+
+                                                                                         16
+                                    1                        ‘‘(1) IN      GENERAL.—A                    complaint alleging, under
+                                    2              oath, that a covered onshore person or a covered off-
+                                    3              shore person is in violation of subsection (b) may be
+                                    4              filed with the Bureau.
+                                    5                        ‘‘(2) NOTICE.—
+                                    6                                 ‘‘(A) IN         GENERAL.—Upon                        filing a com-
+                                    7                        plaint under paragraph (1), if the identity of
+                                    8                        the covered offshore person is not known, but
+                                    9                        the Internet site or other electronic representa-
+                                  10                         tion is, the complainant shall send a notice of
+                                  11                         the violation alleged in the complaint to the reg-
+                                  12                         istrant of the domain name of the Internet site
+                                  13                         (or relevant operator of the electronic represen-
+                                  14                         tation) alleged to be operated or maintained in
+                                  15                         violation of subsection (b)—
+                                  16                                         ‘‘(i) at the postal and e-mail addresses
+                                  17                                  appearing in the applicable publicly acces-
+                                  18                                  sible database of registrations, if any, to
+                                  19                                  the extent such addresses are reasonably
+                                  20                                  available;
+                                  21                                         ‘‘(ii) via the postal and e-mail ad-
+                                  22                                  dresses of the registrar, registry, or other
+                                  23                                  domain name registration authority that
+
+
+
+
+                                  24                                  registered or assigned the domain name, to
+                                              •HR 990 IH
+
+                                                                                         17
+                                    1                                 the extent such addresses are reasonably
+                                    2                                 available; and
+                                    3                                        ‘‘(iii) in any other such form as the
+                                    4                                 Bureau finds necessary.
+                                    5                                 ‘‘(B) RULE             OF CONSTRUCTION.—For                  pur-
+                                    6                        poses of this subsection, the actions described
+                                    7                        in this paragraph shall constitute service of
+                                    8                        process.
+                                    9                        ‘‘(3) IDENTIFICATION                        OF, AND NOTICE TO, EN-
+                                  10               TITIES THAT MAY BE REQUIRED TO TAKE ACTION
+                                  11               PURSUANT TO THIS SECTION.—
+
+                                  12                                  ‘‘(A) IDENTIFICATION.—A complaint filed
+                                  13                         under paragraph (1) shall identify any financial
+                                  14                         transaction provider that may be required to
+                                  15                         take measures described in subsection (g)(2) if
+                                  16                         the Bureau issues an order under subsection (f)
+                                  17                         with respect to the complaint and the order is
+                                  18                         served on the provider or service pursuant to
+                                  19                         subsection (g)(1).
+                                  20                                  ‘‘(B) NOTICE.—Upon filing a complaint
+                                  21                         under paragraph (1), the complainant shall pro-
+                                  22                         vide notice to any financial transaction provider
+                                  23                         identified in the complaint pursuant to subpara-
+
+
+
+
+                                  24                         graph (A) or any amendments to the complaint.
+                                  25                                  ‘‘(C) INTERVENTION.—
+
+
+                                              •HR 990 IH
+
+                                                                                         18
+                                    1                                        ‘‘(i) IN        GENERAL.—A                     financial trans-
+                                    2                                 action provider or identified in a complaint
+                                    3                                 pursuant to subparagraph (A) may inter-
+                                    4                                 vene upon timely request filed with the Bu-
+                                    5                                 reau in—
+                                    6                                                  ‘‘(I) an investigation initiated
+                                    7                                        under subsection (c) pursuant to the
+                                    8                                        complaint; or
+                                    9                                                  ‘‘(II)       pursuant                to      subsection
+                                  10                                         (f)(3), an action to modify, suspend,
+                                  11                                         or vacate an order issued pursuant to
+                                  12                                         the complaint.
+                                  13                                         ‘‘(ii) RULE            OF CONSTRUCTION.—Fail-
+                                  14                                  ure to intervene under clause (i) in an in-
+                                  15                                  vestigation under subsection (c) does not
+                                  16                                  preclude a financial transaction provider
+                                  17                                  notified of the investigation from subse-
+                                  18                                  quently seeking an order to modify, sus-
+                                  19                                  pend, or vacate an order issued by the Bu-
+                                  20                                  reau under subsection (f).
+                                  21               ‘‘(e) DETERMINATIONS.—
+                                  22                         ‘‘(1) IN        GENERAL.—The                      Bureau shall deter-
+                                  23               mine, with respect to each investigation initiated
+
+
+
+
+                                  24               under subsection (c), whether the respective covered
+                                              •HR 990 IH
+
+                                                                                         19
+                                    1              onshore person or covered offshore person under in-
+                                    2              vestigation is in violation of subsection (b).
+                                    3                        ‘‘(2) EFFECTIVE                 DATE.—A             determination made
+                                    4              under paragraph (1) shall take effect on the date on
+                                    5              which the Bureau publishes the determination in the
+                                    6              Federal Register.
+                                    7                        ‘‘(3) ELECTRONIC                     SUBMISSION OF INFORMA-
+                                    8              TION         AND       PROCEEDINGS.—The                           Bureau may, in
+                                    9              making any determination under this section—
+                                  10                                  ‘‘(A) allow the submission of information
+                                  11                         electronically; and
+                                  12                                  ‘‘(B) hold hearings electronically or obtain
+                                  13                         testimony or other information electronically or
+                                  14                         by such means as the Bureau determines allows
+                                  15                         participation in proceedings under this section
+                                  16                         at as low a cost as possible to participants in
+                                  17                         the proceedings.
+                                  18               ‘‘(f) CEASE AND DESIST ORDERS.—
+                                  19                         ‘‘(1) IN        GENERAL.—If                  the Bureau determines
+                                  20               under subsection (e) that the covered onshore person
+                                  21               or covered offshore person is in violation of sub-
+                                  22               section (b), in addition to any actions which the Bu-
+                                  23               reau could otherwise take, the Bureau may—
+
+
+
+
+
+                                  24                                  ‘‘(A) issue an order to cease and desist
+                                  25                         from violation of subsection (b) to the covered
+
+
+                                              •HR 990 IH
+
+                                                                                         20
+                                    1                        onshore person or covered offshore person (and
+                                    2                        if the identity of the covered offshore person is
+                                    3                        not known, to the relevant Internet site and to
+                                    4                        the owner and the operator of the Internet site
+                                    5                        or relevant electronic representation); and
+                                    6                                 ‘‘(B) cause the order to be served on the
+                                    7                        relevant person.
+                                    8                        ‘‘(2) TEMPORARY                      AND        PRELIMINARY             CEASE
+                                    9              AND DESIST ORDERS.—
+                                  10                                  ‘‘(A)       PETITION               BY        COMPLAINANT.—A
+                                  11                         complainant may file with the Bureau a peti-
+                                  12                         tion, in accordance with this paragraph, for the
+                                  13                         issuance of a temporary or preliminary order.
+                                  14                                  ‘‘(B) ISSUANCE                 OF ORDER.—If,                 upon re-
+                                  15                         ceiving a petition under subparagraph (A) and
+                                  16                         after providing an opportunity to be heard
+                                  17                         under subparagraph (C), the Bureau deter-
+                                  18                         mines that the covered onshore person or cov-
+                                  19                         ered offshore person is in violation of subsection
+                                  20                         (b), in addition to any actions which the Direc-
+                                  21                         tor could otherwise take, the Bureau may issue
+                                  22                         a temporary or preliminary cease and desist
+                                  23                         order against, and cause the order to be served
+
+
+
+
+                                  24                         on the relevant person pursuant to paragraph
+                                  25                         (1).
+
+
+                                              •HR 990 IH
+
+                                                                                         21
+                                    1                                 ‘‘(C) OPPORTUNITY                    TO BE HEARD.—
+
+                                    2                                        ‘‘(i) IN         GENERAL.—Before                      issuing a
+                                    3                                 temporary or preliminary cease and desist
+                                    4                                 order under this paragraph, the Bureau
+                                    5                                 shall provide to any person (including any
+                                    6                                 applicable Internet site or electronic rep-
+                                    7                                 resentation and the owner and the oper-
+                                    8                                 ator of such Internet site or electronic rep-
+                                    9                                 resentation) alleged to be in violation of
+                                  10                                  subsection (b) an opportunity to be heard
+                                  11                                  and to submit relevant information to the
+                                  12                                  Bureau.
+                                  13                                         ‘‘(ii) ELECTRONIC                   SUBMISSION OF IN-
+                                  14                                  FORMATION AND PROCEEDINGS.—The                                    Bu-
+                                  15                                  reau may provide an opportunity to be
+                                  16                                  heard and to submit information under
+                                  17                                  clause (i) electronically or in such other
+                                  18                                  manner as the Bureau determines appro-
+                                  19                                  priate.
+                                  20                                  ‘‘(D) STANDARD                 FOR RELIEF.—If                 the Bu-
+                                  21                         reau issues a temporary or preliminary cease
+                                  22                         and desist order under this paragraph, the
+                                  23                         order shall be issued in a manner consistent
+
+
+
+
+                                  24                         with the provisions of rule 65 of the Federal
+                                  25                         Rules of Civil Procedure, or any successor
+
+
+                                              •HR 990 IH
+
+                                                                                         22
+                                    1                        thereto, relating to preliminary injunctions and
+                                    2                        temporary restraining orders.
+                                    3                                 ‘‘(E)        PROCEDURES                     FOR          TEMPORARY
+                                    4                        CEASE AND DESIST ORDER.—
+                                    5                                         ‘‘(i) EXPEDITED                     CONSIDERATION.—
+                                    6                                 Upon a showing of extraordinary cir-
+                                    7                                 cumstances by the complainant filing a pe-
+                                    8                                 tition for a temporary cease and desist
+                                    9                                 order under subparagraph (A), the Bureau
+                                  10                                  may make a determination with respect to
+                                  11                                  the petition on an expedited basis.
+                                  12                                          ‘‘(ii) EXPIRATION                 OF ORDER.—
+
+                                  13                                                   ‘‘(I) IN            GENERAL.—Except            as
+                                  14                                          provided in subclause (II), a tem-
+                                  15                                          porary cease and desist order issued
+                                  16                                          under this paragraph shall expire at a
+                                  17                                          time determined by the Bureau that is
+                                  18                                          not later than 14 days after the
+                                  19                                          issuance of the order.
+                                  20                                                   ‘‘(II) EXTENSION                     OF ORDER.—
+                                  21                                          The Bureau may extend a temporary
+                                  22                                          cease and desist order issued under
+                                  23                                          this paragraph for additional periods
+
+
+
+
+                                  24                                          of not more than 14 days for good
+                                              •HR 990 IH
+
+                                                                                         23
+                                    1                                         cause or with the consent of the entity
+                                    2                                         against which the order is issued.
+                                    3                                 ‘‘(F)       PROCEDURES                    FOR          PRELIMINARY
+                                    4                        CEASE AND DESIST ORDER.—
+                                    5                                         ‘‘(i) IN          GENERAL.—Except                    as pro-
+                                    6                                 vided in clause (ii), the Bureau shall make
+                                    7                                 a determination with respect to a petition
+                                    8                                 for a preliminary cease and desist order
+                                    9                                 not later than 30 days after the Bureau
+                                  10                                  publishes notice of the initiation of an in-
+                                  11                                  vestigation under subsection (c) in the
+                                  12                                  Federal Register.
+                                  13                                          ‘‘(ii) EXTENSIONS                    OF TIME FOR DE-
+                                  14                                  TERMINATION.—The                         Bureau may extend
+                                  15                                  the date by which the Bureau is required
+                                  16                                  to make a determination under clause (i)
+                                  17                                  with respect to a petition for a preliminary
+                                  18                                  cease and desist order for an additional 30
+                                  19                                  days, if the Bureau—
+                                  20                                                   ‘‘(I) determines that the petition
+                                  21                                          presents a more complicated case; and
+                                  22                                                   ‘‘(II) publishes in the Federal
+                                  23                                          Register an explanation of why the
+
+
+
+
+                                  24                                          Bureau determined that the case is
+                                  25                                          more complicated under subclause (I).
+
+
+                                              •HR 990 IH
+
+                                    1                        ‘‘(3) MODIFICATION      24              OR REVOCATION OF OR-
+                                    2              DERS.—
+
+                                    3                                 ‘‘(A) IN       GENERAL.—At                   any time after the
+                                    4                        issuance of an order under this subsection, a
+                                    5                        motion to modify, suspend, or vacate the order
+                                    6                        may be filed by—
+                                    7                                        ‘‘(i) any covered onshore person or
+                                    8                                 covered offshore person bound by the
+                                  109                                 order; ‘‘(ii) the owner or operator of any
+                                  11                                  Internet site or electronic representation
+                                  12                                  subject to the order;
+                                  13                                         ‘‘(iii) any domain name registrar or
+                                  14                                  registry that has registered or assigned the
+                                  15                                  domain name of the Internet site subject
+                                  16                                  to the order; or
+                                  17                                         ‘‘(iv) a financial transaction provider
+                                  18                                  on which a copy of an order has been
+                                  19                                  served pursuant to paragraph (1) of sub-
+                                  20                                  section (g) requiring the provider or service
+                                  21                                  to take action described in paragraph (2)
+                                  22                                  of that subsection.
+                                  23                                  ‘‘(B) RELIEF.—The Bureau shall modify,
+
+
+
+
+                                  24                         suspend, or vacate an order, as appropriate, if
+                                  25                         the Bureau determines that—
+
+
+                                              •HR 990 IH
+
+                                                                                         25
+                                    1                                        ‘‘(i) the subject to the order is no
+                                    2                                 longer, or never was in violation of sub-
+                                    3                                 section (b); or
+                                    4                                        ‘‘(ii) the interests of justice require
+                                    5                                 that the order be modified, suspended, or
+                                    6                                 vacated.
+                                    7                                 ‘‘(C) CONSIDERATION.—In making a de-
+                                    8                        termination under subparagraph (B), the Bu-
+                                    9                        reau may consider whether any domain name of
+                                  10                         an Internet site (or the relevant electronic rep-
+                                  11                         resentation) subject to the order has expired or
+                                  12                         has been re-registered by a different entity.
+                                  13                         ‘‘(4) AMENDMENT                    OF ORDERS.—A                   complainant
+                                  14               may petition the Bureau to amend an order issued
+                                  15               under this subsection if any relevant an Internet site
+                                  16               or electronic representation determined under sub-
+                                  17               section (e) to be in violation of subsection (b) is ac-
+                                  18               cessible or has been reconstituted at a different do-
+                                  19               main name.
+                                  20                         ‘‘(5) OPPORTUNITY                   TO BE HEARD FOR CERTAIN
+                                  21               ENTITIES.—Before                      the Bureau issues an order
+                                  22               under this subsection or modifies, suspends, vacates,
+                                  23               or amends such an order under paragraph (3) or
+
+
+
+
+
+                                  24               (4), a financial transaction provider that intervened
+                                  25               pursuant to subsection (d)(3) in an investigation or
+
+
+                                              •HR 990 IH
+
+                                                                                         26
+                                    1              action relating to the order shall have an oppor-
+                                    2              tunity to be heard before the Bureau with respect to
+                                    3              whether the Bureau should issue the order and the
+                                    4              scope of relief available under the order or whether
+                                    5              the Bureau should modify, suspend, vacate, or
+                                    6              amend the order, as the case may be.
+                                    7                        ‘‘(6) EXPIRATION                   OF ORDERS WITH RESPECT
+                                    8              TO INTERNET SITE.—An                                  order issued under this
+                                    9              subsection against an Internet site (or relevant elec-
+                                  10               tronic representation) shall cease to have any force
+                                  11               or effect upon expiration of the registration of the
+                                  12               domain name of the Internet site (or relevant elec-
+                                  13               tronic representation).
+                                  14               ‘‘(g) REQUIRED ACTIONS BASED                                      ON      BUREAU OR-
+                                  15      DERS.—
+
+                                  16                         ‘‘(1) IN        GENERAL.—If                  the Bureau reasonably
+                                  17               believes that a financial transaction provider identi-
+                                  18               fied in a complaint pursuant to subsection (d)(3), or
+                                  19               any amendment to the complaint, supplies services
+                                  20               to the covered onshore person or covered offshore
+                                  21               person subject to the order issued under subsection
+                                  22               (f) with respect to the complaint—
+                                  23                                  ‘‘(A) the Bureau may give permission to
+
+
+
+
+                                  24                         the complainant to serve a copy of the order on
+                                  25                         the financial transaction provider;
+
+
+                                              •HR 990 IH
+
+                                                                                         27
+                                    1                                 ‘‘(B) if the Bureau gives permission to the
+                                    2                        complainant under subparagraph (A), the com-
+                                    3                        plainant shall file proof of service with the Bu-
+                                    4                        reau; and
+                                    5                                 ‘‘(C) upon receiving a copy of the order
+                                    6                        pursuant to subparagraph (A), the financial
+                                    7                        transaction provider shall implement the meas-
+                                    8                        ures described in paragraph (2).
+                                    9                        ‘‘(2) MEASURES                  TO BE IMPLEMENTED BY FI-
+                                  10               NANCIAL TRANSACTION PROVIDERS.—
+                                  11                                  ‘‘(A) IN         GENERAL.—Subject                        to subpara-
+                                  12                         graph (B), a financial transaction provider
+                                  13                         shall, as expeditiously as is reasonable, take
+                                  14                         reasonable and technically feasible measures, as
+                                  15                         expeditiously as reasonable, designed to prevent
+                                  16                         or prohibit the completion of payment trans-
+                                  17                         actions by the provider that involve customers
+                                  18                         located in the United States and the covered
+                                  19                         onshore person or covered offshore person (in-
+                                  20                         cluding the relevant Internet site or electronic
+                                  21                         representation) subject to the order issued
+                                  22                         under subsection (f).
+                                  23                                  ‘‘(B) LIMITATIONS                    ON MEASURES.—A               fi-
+
+
+
+
+                                  24                         nancial transaction provider may not be re-
+                                  25                         quired pursuant to subparagraph (A)—
+
+
+                                              •HR 990 IH
+
+                                                                                         28
+                                    1                                        ‘‘(i) to implement measures that are
+                                    2                                 not commercially reasonable;
+                                    3                                        ‘‘(ii) to modify services or facilities of
+                                    4                                 the provider to comply with the order
+                                    5                                 issued under subsection (f); or
+                                    6                                        ‘‘(iii) to prevent or prohibit the com-
+                                    7                                 pletion of a payment transaction if the pro-
+                                    8                                 vider could not reasonably determine in ad-
+                                    9                                 vance whether the entity was using the
+                                  10                                  Internet site subject to the order.
+                                  11                         ‘‘(3) COMMUNICATION                         WITH USERS.—A             finan-
+                                  12               cial transaction provider required to implement
+                                  13               measures described in paragraph (2) shall determine
+                                  14               how to communicate with the users or customers of
+                                  15               the provider or service, as the case may be, with re-
+                                  16               spect to those measures.
+                                  17                         ‘‘(4) RULES           OF CONSTRUCTION.—
+
+                                  18                                  ‘‘(A) LIMITATION                   ON OBLIGATIONS.—A            fi-
+                                  19                         nancial transaction provider required to imple-
+                                  20                         ment measures described in paragraph (2) shall
+                                  21                         not be required to take measures or actions in
+                                  22                         addition to the measures described in para-
+                                  23                         graph (2) pursuant to this section or an order
+
+
+
+
+                                  24                         issued under this section.
+                                              •HR 990 IH
+
+                                                                                         29
+                                    1                                 ‘‘(B) MANNER                OF COMPLIANCE.—A                 finan-
+                                    2                        cial transaction provider required to implement
+                                    3                        measures described in paragraph (2) shall be in
+                                    4                        compliance with this subsection if the provider
+                                    5                        implements the measures described in that
+                                    6                        paragraph with respect to accounts of the pro-
+                                    7                        vider, as of the date on which a copy of an
+                                    8                        order is served under paragraph (1) or, if appli-
+                                    9                        cable, the date on which the order is modified
+                                  10                         or amended under paragraph (3) or (4) of sub-
+                                  11                         section (f).
+                                  12                         ‘‘(5) ACTIONS             PURSUANT TO BUREAU ORDER.—
+
+                                  13                                  ‘‘(A) IMMUNITY               FROM CIVIL ACTIONS.—No
+                                  14                         cause of action shall lie in any court against a
+                                  15                         financial transaction provider on which a copy
+                                  16                         of an order is served under paragraph (1), or
+                                  17                         against any director, officer, employee, or agent
+                                  18                         thereof, other than in an action pursuant to
+                                  19                         subsection (h), for—
+                                  20                                         ‘‘(i) any act reasonably designed to
+                                  21                                  comply with this subsection or reasonably
+                                  22                                  arising from the order; or
+                                  23                                         ‘‘(ii) any act, failure, or inability to
+
+
+
+
+                                  24                                  meet the obligations under this subsection
+                                  25                                  of the provider or service if the provider or
+
+
+                                              •HR 990 IH
+
+                                                                                         30
+                                    1                                 service, as the case may be, makes a good
+                                    2                                 faith effort to comply with such obliga-
+                                    3                                 tions.
+                                    4                                 ‘‘(B) IMMUNITY                     FROM LIABILITY.—A         fi-
+                                    5                        nancial transaction provider on which a copy of
+                                    6                        an order is served under paragraph (1), and
+                                    7                        any director, officer, employee, or agent thereof,
+                                    8                        shall not be liable to any person for any acts
+                                    9                        reasonably designed to comply with this sub-
+                                  10                         section or reasonably arising from the order,
+                                  11                         other than in an action pursuant to subsection
+                                  12                         (h).
+                                  13                                  ‘‘(C) IMMUNITY                FROM ACTIONS OF THIRD
+                                  14                         PARTIES.—An                action taken by a third party to
+                                  15                         circumvent any measures implemented pursuant
+                                  16                         to an order served on a financial transaction
+                                  17                         provider under paragraph (1) may not be used
+                                  18                         by any person in any claim or cause of action
+                                  19                         against the provider or service, as the case may
+                                  20                         be, other than in an action pursuant to sub-
+                                  21                         section (h).
+                                  22               ‘‘(h) ENFORCEMENT OF ORDERS.—
+                                  23                         ‘‘(1) IN       GENERAL.—In                   order to compel compli-
+
+
+
+
+                                  24               ance with this section, the Bureau and any State At-
+                                  25               torney General (or other appropriate State or tribal
+
+
+                                              •HR 990 IH
+
+                                                                                         31
+                                    1              entity) having enforcement authority over prohibited
+                                    2              activity may bring an action for injunctive relief
+                                    3              against any person subject to an order issued under
+                                    4              subsection (f) or on which such an order is served
+                                    5              under subsection (g) that fails to comply with the
+                                    6              order.
+                                    7                        ‘‘(2) RULE            OF CONSTRUCTION.—The                            authority
+                                    8              granted to the Bureau, State, and tribal authorities
+                                    9              under paragraph (1) shall be the sole legal remedy
+                                  10               for enforcing the obligations under subsection (g) of
+                                  11               a financial transaction provider on which an order is
+                                  12               served under paragraph (1) of that subsection.
+                                  13                         ‘‘(3) AFFIRMATIVE                   DEFENSES.—A                  defendant in
+                                  14               an action commenced under paragraph (1) may es-
+                                  15               tablish an affirmative defense by showing that the
+                                  16               defendant does not have the technical means to com-
+                                  17               ply with this section without incurring an unreason-
+                                  18               able economic burden or that the order is incon-
+                                  19               sistent with this section. That showing shall serve as
+                                  20               a defense only to the extent of the inability of the
+                                  21               defendant to comply or to the extent of the incon-
+                                  22               sistency.
+                                  23               ‘‘(i) SANCTIONS                FOR        ABUSE         OF    PROCESS           AND   DIS-
+                                  24      COVERY.—The                  Bureau may, by rule, prescribe sanctions
+                                  25 for abuse of process in a manner consistent with the provi-
+
+
+                                              •HR 990 IH
+
+                                                                                         32
+                                    1 sions of rule 11 and rule 37 of the Federal Rules of Civil
+                                    2 Procedure.
+                                    3              ‘‘(j) IMMUNITY                 FOR        ENFORCEMENT                    OF     ORDERS.—
+                                    4 No cause of action shall lie in any court, no person may
+                                    5 rely on any claim or cause of action, and no liability for
+                                    6 damages to any person shall be granted, against a finan-
+                                    7 cial transaction provider for taking any action pursuant
+                                    8 to subsection (g)(2).
+                                    9              ‘‘(k) SAVINGS CLAUSE.—Nothing in this section, in-
+                                  10 cluding subsection (c), may be construed to limit the au-
+                                  11 thority or jurisdiction of the Bureau or any State or tribe
+                                  12 to review, regulate, investigate, enforce against, or other-
+                                  13 wise restrict activities covered by this section.’’.
+                                  14      SEC. 6. STUDIES.
+                                  15               Not later than 180 days after enactment of this sec-
+                                  16 tion, the Government Accountability Office (in this section
+                                  17 referred to as the ‘‘GAO’’) shall conduct a study regarding
+                                  18 the availability of capital on reservations of Indian tribes
+                                  19 (as such term is defined in section 4 of the Indian Self-
+                                  20 Determination and Education Assistance Act (25 U.S.C.
+                                  21 450b)) and the impact that small-dollar consumer credit
+                                  22 extended through Internet and non-Internet means to
+                                  23 members of Indian tribes has had on economic opportunity
+
+
+
+
+                                  24 and wealth for members of Indian tribes. In conducting
+                                  25 the study, the GAO shall consult, as appropriate, with the
+
+
+                                              •HR 990 IH
+
+                                                                                         33
+                                    1 Bureau of Consumer Financial Protection, the Board of
+                                    2 Governors of the Federal Reserve System, the Bureau of
+                                    3 Indian Affairs, federally recognized Indian tribes, and
+                                    4 community development financial institutions operating in
+                                    5 Indian lands. The report shall be presented to the Com-
+                                    6 mittee on Banking, Housing, and Urban Affairs and the
+                                    7 Committee on Indian Affairs of the Senate and the Com-
+                                    8 mittee on Financial Services and the Committee on Nat-
+                                    9 ural Resources of the House of Representatives.
+                                  10      SEC. 7. RULEMAKING.
+                                  11               Not later than 1 year after the date of enactment
+                                  12 of this Act, the Bureau shall adopt any final rules nec-
+                                  13 essary to implement the provisions of this Act and the
+                                  14 amendments made by this Act.
+                                              •HR 990 IH                                   Æ

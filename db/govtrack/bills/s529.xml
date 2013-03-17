@@ -1,0 +1,27 @@
+<bill session="113" type="s" number="529" updated="2013-03-13T04:45:39-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend title 38, United States Code, to modify the commencement date of the period of service at Camp Lejeune, North Carolina, for eligibility for hospital care and medical services in connection with exposure to contaminated water, and for other purposes.</title>
+  </titles>
+  <sponsor id="400054"/>
+  <cosponsors>
+    <cosponsor id="412324" joined="2013-03-12"/>
+    <cosponsor id="300078" joined="2013-03-12"/>
+    <cosponsor id="412491" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

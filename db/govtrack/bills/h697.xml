@@ -1,0 +1,35 @@
+<bill session="113" type="h" number="697" updated="2013-03-02T06:20:23-05:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title as="introduced" type="short">Three Kids Mine Remediation and Reclamation Act</title>
+    <title as="introduced" type="official">To provide for the conveyance of certain Federal land in Clark County, Nevada, for the environmental remediation and reclamation of the Three Kids Mine Project Site, and for other purposes.</title>
+  </titles>
+  <sponsor id="412446"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2013-02-14"/>
+    <cosponsor id="412559" joined="2013-02-14"/>
+    <cosponsor id="412318" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-14">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Land transfers"/>
+    <term name="Mining"/>
+    <term name="Nevada"/>
+  </subjects>
+  <amendments/>
+</bill>

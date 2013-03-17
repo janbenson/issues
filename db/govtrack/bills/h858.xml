@@ -1,0 +1,30 @@
+<bill session="113" type="h" number="858" updated="2013-03-04T15:45:32-05:00">
+  <state datetime="2013-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-27"/>
+  </status>
+  <introduced datetime="2013-02-27"/>
+  <titles>
+    <title as="introduced" type="short">Rural Housing Preservation Act of 2013</title>
+    <title as="introduced" type="official">To amend section 520 of the Housing Act of 1949 to revise the requirements for areas to be considered as rural areas for purposes of such Act.</title>
+  </titles>
+  <sponsor id="400640"/>
+  <cosponsors>
+    <cosponsor id="400061" joined="2013-02-27"/>
+    <cosponsor id="412193" joined="2013-02-27"/>
+    <cosponsor id="400179" joined="2013-02-27"/>
+    <cosponsor id="412214" joined="2013-02-27"/>
+    <cosponsor id="412402" joined="2013-02-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-27">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

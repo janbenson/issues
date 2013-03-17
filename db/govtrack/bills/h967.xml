@@ -1,0 +1,29 @@
+<bill session="113" type="h" number="967" updated="2013-03-13T04:46:28-04:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title as="introduced" type="short">Advancing America's Networking and Information Technology Research and Development Act of 2013</title>
+    <title as="introduced" type="official">To amend the High-Performance Computing Act of 1991 to authorize activities for support of networking and information technology research, and for other purposes.</title>
+  </titles>
+  <sponsor id="412294"/>
+  <cosponsors>
+    <cosponsor id="412555" joined="2013-03-12"/>
+    <cosponsor id="400204" joined="2013-03-05"/>
+    <cosponsor id="400381" joined="2013-03-05"/>
+    <cosponsor id="412514" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-05">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

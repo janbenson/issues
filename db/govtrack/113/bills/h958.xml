@@ -1,0 +1,70 @@
+<bill session="113" type="h" number="958" updated="2013-03-15T04:47:18-04:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title as="introduced" type="short">Women Veterans and Other Health Care Improvements Act of 2013</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to improve the reproductive assistance provided by the Department of Veterans Affairs to severely wounded, ill, or injured veterans and their spouses, and for other purposes.</title>
+  </titles>
+  <sponsor id="400232"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2013-03-12"/>
+    <cosponsor id="412501" joined="2013-03-05"/>
+    <cosponsor id="400047" joined="2013-03-05"/>
+    <cosponsor id="412516" joined="2013-03-05"/>
+    <cosponsor id="412379" joined="2013-03-05"/>
+    <cosponsor id="400080" joined="2013-03-05"/>
+    <cosponsor id="400097" joined="2013-03-05"/>
+    <cosponsor id="412505" joined="2013-03-05"/>
+    <cosponsor id="412535" joined="2013-03-13"/>
+    <cosponsor id="400163" joined="2013-03-12"/>
+    <cosponsor id="412418" joined="2013-03-05"/>
+    <cosponsor id="412584" joined="2013-03-05"/>
+    <cosponsor id="400184" joined="2013-03-13"/>
+    <cosponsor id="412557" joined="2013-03-14"/>
+    <cosponsor id="400259" joined="2013-03-05"/>
+    <cosponsor id="400661" joined="2013-03-12"/>
+    <cosponsor id="400283" joined="2013-03-12"/>
+    <cosponsor id="400290" joined="2013-03-05"/>
+    <cosponsor id="400295" joined="2013-03-05"/>
+    <cosponsor id="400350" joined="2013-03-14"/>
+    <cosponsor id="400352" joined="2013-03-13"/>
+    <cosponsor id="412396" joined="2013-03-14"/>
+    <cosponsor id="400378" joined="2013-03-05"/>
+    <cosponsor id="412461" joined="2013-03-05"/>
+    <cosponsor id="412520" joined="2013-03-13"/>
+    <cosponsor id="400623" joined="2013-03-05"/>
+    <cosponsor id="412412" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-05">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committees on the Budget, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-05">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2013-03-05">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2013-03-05">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2013-03-08">
+      <text>Referred to the Subcommittee on Health.</text>
+      <committee name="House Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR03" subcommittee="Health" name="House Veterans' Affairs"/>
+    <committee code="HSBU" name="House Budget" activity="Referral, In Committee"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="131"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

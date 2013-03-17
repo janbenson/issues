@@ -1,0 +1,61 @@
+<bill session="113" type="h" number="601" updated="2013-02-26T04:46:04-05:00">
+  <state datetime="2013-02-08">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-08"/>
+  </status>
+  <introduced datetime="2013-02-08"/>
+  <titles>
+    <title as="introduced" type="short">Permanent Repeal of Oil Subsidies Act</title>
+    <title as="introduced" type="short">Deficit Reduction Through Fair Oil Royalties Act</title>
+    <title as="introduced" type="short">End Big Oil Tax Subsidies Act of 2013</title>
+    <title as="introduced" type="short">No Free Inspections for Oil Companies Act</title>
+    <title as="introduced" type="short">United States Exploration on Idle Tracts Act</title>
+    <title as="introduced" type="short">USE IT Act</title>
+    <title as="introduced" type="official">To direct the Secretary of the Interior to establish an annual production incentive fee with respect to Federal onshore and offshore lands that are subject to a lease for production of oil or natural gas under which production is not occurring, and for other purposes.</title>
+  </titles>
+  <sponsor id="400253"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2013-02-08"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-08">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-08">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-02-08">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-02-21">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="609"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Accounting and auditing"/>
+    <term name="Alaska"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Business investment and capital"/>
+    <term name="Energy revenues and royalties"/>
+    <term name="Foreign and international corporations"/>
+    <term name="Government trust funds"/>
+    <term name="Gulf of Mexico"/>
+    <term name="Income tax credits"/>
+    <term name="Income tax deductions"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Oil and gas"/>
+    <term name="Taxation of foreign income"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+</bill>

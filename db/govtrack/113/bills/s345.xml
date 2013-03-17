@@ -1,0 +1,46 @@
+<bill session="113" type="s" number="345" updated="2013-03-02T06:16:38-05:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title as="introduced" type="short">Sugar Reform Act of 2013</title>
+    <title as="introduced" type="official">A bill to reform the Federal sugar program, and for other purposes.</title>
+  </titles>
+  <sponsor id="412323"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2013-02-14"/>
+    <cosponsor id="412493" joined="2013-02-14"/>
+    <cosponsor id="402675" joined="2013-02-28"/>
+    <cosponsor id="412248" joined="2013-02-14"/>
+    <cosponsor id="300038" joined="2013-02-14"/>
+    <cosponsor id="300043" joined="2013-02-14"/>
+    <cosponsor id="400222" joined="2013-02-14"/>
+    <cosponsor id="300064" joined="2013-02-14"/>
+    <cosponsor id="300071" joined="2013-02-28"/>
+    <cosponsor id="400325" joined="2013-02-14"/>
+    <cosponsor id="400408" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-14">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="693"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural marketing and promotion"/>
+    <term name="Agricultural prices, subsidies, credit"/>
+    <term name="Agricultural trade"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Motor fuels"/>
+    <term name="Tariffs"/>
+  </subjects>
+  <amendments/>
+</bill>

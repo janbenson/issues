@@ -1,5 +1,6 @@
 class IndexController < ApplicationController
   layout "frontpage"
+  require '/helpers/url_helper.rb'
 
   caches_page :pipa
   

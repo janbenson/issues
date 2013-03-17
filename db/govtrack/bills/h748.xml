@@ -1,0 +1,43 @@
+<bill session="113" type="h" number="748" updated="2013-03-07T12:45:33-05:00">
+  <state datetime="2013-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-15"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title as="introduced" type="short">Universal National Service Act</title>
+    <title as="introduced" type="official">To require all persons in the United States between the ages of 18 and 25 to perform national service, either as a member of the uniformed services or as civilian service in a Federal, State, or local government program or with a community-based agency or community-based entity, to authorize the induction of persons in the uniformed services during wartime to meet end-strength requirements of the uniformed services, to provide for the registration of women under the Military Selective Service Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="400333"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-15">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+      <committee name="House Committee on Armed Services"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive Office of the President"/>
+    <term name="Homeland security"/>
+    <term name="Licensing and registrations"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Mental health"/>
+    <term name="Military operations and strategy"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Military readiness"/>
+    <term name="National and community service"/>
+    <term name="War and emergency powers"/>
+  </subjects>
+  <amendments/>
+</bill>

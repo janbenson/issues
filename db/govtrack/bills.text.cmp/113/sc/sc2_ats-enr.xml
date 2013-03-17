@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<body status="enr" difference-size-chars="606" percent-change="40" total-changes="15" previous-status="ats">
+  <p nid="t0:enr:1">S<removed sequence="1">CON 2 ATS<p/><center><p nid="t0:ats:2">113th CONGRESS</p></center><p/><center><p nid="t0:ats:3">1st Session</p></center><p/><center><p nid="t0:ats:4">S. CON. RES. 2</p></center><p nid="t0:ats:5">Extending the life of the Joint Congressional Committee on Inaugural Ceremonies.</p><p/><center><p nid="t0:ats:6">IN THE SENATE OF THE UNITED STATES</p></center><p/></removed><inserted sequence="2">.Con.Res.2</inserted></p>
+  <p nid="t0:enr:2"><inserted sequence="3">Agreed to </inserted>January 3, 2013</p>
+  <p nid="t0:enr:3">
+    <em>
+      <center>
+        <p nid="t0:enr:4">
+          <removed sequence="4"><p nid="t0:ats:9">Mr. REID (for himself and Mr. MCCONNELL) submitted the following concurrent resolution; which was considered and agreed to</p><hr/><p/><center><p nid="t0:ats:10">CONCURRENT RESOLUTION</p></center>Extending the life of the Joint Congressional Committee</removed>
+          <inserted sequence="5">One Hundred Thirteenth Congress</inserted>
+        </p>
+      </center>
+    </em>
+  </p>
+  <inserted sequence="6">
+    <p nid="t0:enr:5">
+      <em>
+        <center>
+          <p nid="t0:enr:6">of the</p>
+        </center>
+      </em>
+    </p>
+    <p nid="t0:enr:7">
+      <em>
+        <center>
+          <p nid="t0:enr:8">United States of America</p>
+        </center>
+      </em>
+    </p>
+    <p nid="t0:enr:9">
+      <em>
+        <center>
+          <p nid="t0:enr:10">AT THE FIRST SESSION</p>
+        </center>
+      </em>
+    </p>
+  </inserted>
+  <p nid="t0:enr:11"><inserted sequence="7">Begun and held at the City of Washington</inserted> on <removed sequence="8">Inaugural Ceremonies.</removed><inserted sequence="9">Thursday,</inserted></p>
+  <inserted sequence="10">
+    <p nid="t0:enr:12">the third day of January, two thousand and thirteen</p>
+    <p nid="t0:enr:13">Concurrent Resolution</p>
+  </inserted>
+  <ul>
+    <p nid="t0:enr:14">
+      <em>Resolved by the Senate (the House of Representatives concurring),</em>
+    </p>
+  </ul>
+  <p/>
+  <h3 nid="t0:enr:15" tracking-nids="t0:ats:13">SECTION 1. REAUTHORIZATION OF JOINT COMMITTEE.</h3>
+  <ul>
+    <p nid="t0:enr:16" tracking-nids="t0:ats:14">Effective from January 3, 2013, the joint committee created by Senate Concurrent Resolution 35 (112th Congress), to make the necessary arrangements for the inauguration of the President-elect and the Vice President-elect of the United States, is continued with the same power and authority provided for in that resolution<inserted sequence="11">.</inserted></p>
+  </ul>
+  <inserted sequence="12">
+    <p/>
+  </inserted>
+  <h3 nid="t0:enr:17"><inserted sequence="13">SEC. 2</inserted>. <removed sequence="14"><p/>SEC. 2. </removed>USE OF CAPITOL.</h3>
+  <ul>
+    <p nid="t0:enr:18" tracking-nids="t0:ats:16">Effective from January 3, 2013, the provisions of Senate Concurrent Resolution 36 (112th Congress), to authorize the use of the rotunda and Emancipation Hall of the Capitol by the Joint Congressional Committee on Inaugural Ceremonies in connection with the proceedings and ceremonies conducted for the inauguration of the President-elect and the Vice President-elect of the United States are continued with the same power and authority provided for in that resolution.</p>
+  </ul>
+  <inserted sequence="15">
+    <p nid="t0:enr:19">Attest:</p>
+    <p nid="t0:enr:20">Secretary of the Senate.</p>
+    <p nid="t0:enr:21">Attest:</p>
+    <p nid="t0:enr:22">Clerk of the House of Representatives.</p>
+  </inserted>
+</body>

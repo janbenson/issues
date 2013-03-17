@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<body status="rfs" difference-size-chars="256" percent-change="2" total-changes="5" previous-status="eh">
+  <p nid="t0:rfs:1" tracking-nids="t0:eh:1">HR 267 <changed sequence="1"><changed-from>EH</changed-from><changed-to>RFS</changed-to></changed></p>
+  <p/>
+  <center>
+    <p nid="t0:rfs:2">113th CONGRESS</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:rfs:3" tracking-nids="t0:eh:3">1st Session</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:rfs:4" tracking-nids="t0:eh:4">H. R. 267</p>
+  </center>
+  <p/>
+  <inserted sequence="2">
+    <center>
+      <p nid="t0:rfs:5">IN THE SENATE OF THE UNITED STATES</p>
+    </center>
+    <p/>
+    <h3 nid="t0:rfs:6">
+      <center>
+        <p nid="t0:rfs:7">February 14, 2013</p>
+      </center>
+    </h3>
+    <p nid="t0:rfs:8">Received; read twice and referred to the Committee on Energy and Natural Resources</p>
+    <hr/>
+  </inserted>
+  <p/>
+  <center>
+    <p nid="t0:rfs:9">AN ACT</p>
+  </center>
+  <p nid="t0:rfs:10" tracking-nids="t0:eh:6">To improve hydropower, and for other purposes.</p>
+  <ul>
+    <p nid="t0:rfs:11" tracking-nids="t0:eh:7">
+      <em>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</em>
+    </p>
+  </ul>
+  <p/>
+  <h3 nid="t0:rfs:12" tracking-nids="t0:eh:8">SECTION 1. SHORT TITLE; TABLE OF CONTENTS.</h3>
+  <ul>
+    <p nid="t0:rfs:13" tracking-nids="t0:eh:9">(a) Short Title- This Act may be cited as the &#x2018;Hydropower Regulatory Efficiency Act of 2013&#x2019;.</p>
+    <p nid="t0:rfs:14" tracking-nids="t0:eh:10">(b) Table of Contents- The table of contents of this Act is as follows:</p>
+    <ul>
+      <p nid="t0:rfs:15" tracking-nids="t0:eh:11">Sec. 1. Short title; table of contents.</p>
+      <p nid="t0:rfs:16" tracking-nids="t0:eh:12">Sec. 2. Findings.</p>
+      <p nid="t0:rfs:17" tracking-nids="t0:eh:13">Sec. 3. Promoting small hydroelectric power projects.</p>
+      <p nid="t0:rfs:18" tracking-nids="t0:eh:14">Sec. 4. Promoting conduit hydropower projects.</p>
+      <p nid="t0:rfs:19" tracking-nids="t0:eh:15">Sec. 5. FERC authority to extend preliminary permit periods.</p>
+      <p nid="t0:rfs:20" tracking-nids="t0:eh:16">Sec. 6. Promoting hydropower development at nonpowered dams and closed loop pumped storage projects.</p>
+      <p nid="t0:rfs:21" tracking-nids="t0:eh:17">Sec. 7. DOE study of pumped storage and potential hydropower from conduits.</p>
+    </ul>
+  </ul>
+  <p/>
+  <h3 nid="t0:rfs:22" tracking-nids="t0:eh:18">SEC. 2. FINDINGS.</h3>
+  <ul>
+    <p nid="t0:rfs:23" tracking-nids="t0:eh:19">Congress finds that--</p>
+    <ul>
+      <p nid="t0:rfs:24" tracking-nids="t0:eh:20">(1) the hydropower industry currently employs approximately 300,000 workers across the United States;</p>
+      <p nid="t0:rfs:25" tracking-nids="t0:eh:21">(2) hydropower is the largest source of clean, renewable electricity in the United States;</p>
+      <p nid="t0:rfs:26" tracking-nids="t0:eh:22">(3) as of the date of enactment of this Act, hydropower resources, including pumped storage facilities, provide--</p>
+      <ul>
+        <p nid="t0:rfs:27" tracking-nids="t0:eh:23">(A) nearly 7 percent of the electricity generated in the United States; and</p>
+        <p nid="t0:rfs:28" tracking-nids="t0:eh:24">(B) approximately 100,000 megawatts of electric capacity in the United States;</p>
+      </ul>
+      <p nid="t0:rfs:29" tracking-nids="t0:eh:25">(4) only 3 percent of the 80,000 dams in the United States generate electricity, so there is substantial potential for adding hydropower generation to nonpowered dams; and</p>
+      <p nid="t0:rfs:30" tracking-nids="t0:eh:26">(5) according to one study, by utilizing currently untapped resources, the United States could add approximately 60,000 megawatts of new hydropower capacity by 2025, which could create 700,000 new jobs over the next 13 years.</p>
+    </ul>
+  </ul>
+  <p/>
+  <h3 nid="t0:rfs:31" tracking-nids="t0:eh:27">SEC. 3. PROMOTING SMALL HYDROELECTRIC POWER PROJECTS.</h3>
+  <ul>
+    <p nid="t0:rfs:32">Subsection (d) of section 405 of the Public Utility Regulatory Policies Act of 1978 (<usc-reference title="16" section="2705" paragraph=""><usc-reference title="16" section="2705" paragraph="">16 U.S.C. 2705</usc-reference></usc-reference>) is amended by striking &#x2018;5,000&#x2019; and inserting &#x2018;10,000&#x2019;.</p>
+  </ul>
+  <p/>
+  <h3 nid="t0:rfs:33" tracking-nids="t0:eh:29">SEC. 4. PROMOTING CONDUIT HYDROPOWER PROJECTS.</h3>
+  <ul>
+    <p nid="t0:rfs:34">(a) Applicability of, and Exemption From, Licensing Requirements- Section 30 of the Federal Power Act (<usc-reference title="16" section="823a" paragraph=""><usc-reference title="16" section="823a" paragraph="">16 U.S.C. 823a</usc-reference></usc-reference>) is amended--</p>
+    <ul>
+      <p nid="t0:rfs:35" tracking-nids="t0:eh:31">(1) by striking subsections (a) and (b) and inserting the following:</p>
+    </ul>
+    <blockquote>
+      <p nid="t0:rfs:36" tracking-nids="t0:eh:32">&#x2018;(a)(1) A qualifying conduit hydropower facility shall not be required to be licensed under this part.</p>
+      <p nid="t0:rfs:37" tracking-nids="t0:eh:33">&#x2018;(2)(A) Any person, State, or municipality proposing to construct a qualifying conduit hydropower facility shall file with the Commission a notice of intent to construct such facility. The notice shall include sufficient information to demonstrate that the facility meets the qualifying criteria.</p>
+      <p nid="t0:rfs:38" tracking-nids="t0:eh:34">&#x2018;(B) Not later than 15 days after receipt of a notice of intent filed under subparagraph (A), the Commission shall--</p>
+      <ul>
+        <p nid="t0:rfs:39" tracking-nids="t0:eh:35">&#x2018;(i) make an initial determination as to whether the facility meets the qualifying criteria; and</p>
+        <p nid="t0:rfs:40" tracking-nids="t0:eh:36">&#x2018;(ii) if the Commission makes an initial determination, pursuant to clause (i), that the facility meets the qualifying criteria, publish public notice of the notice of intent filed under subparagraph (A).</p>
+      </ul>
+      <p nid="t0:rfs:41" tracking-nids="t0:eh:37">&#x2018;(C) If, not later than 45 days after the date of publication of the public notice described in subparagraph (B)(ii)--</p>
+      <ul>
+        <p nid="t0:rfs:42" tracking-nids="t0:eh:38">&#x2018;(i) an entity contests whether the facility meets the qualifying criteria, the Commission shall promptly issue a written determination as to whether the facility meets such criteria; or</p>
+        <p nid="t0:rfs:43" tracking-nids="t0:eh:39">&#x2018;(ii) no entity contests whether the facility meets the qualifying criteria, the facility shall be deemed to meet such criteria.</p>
+      </ul>
+      <p nid="t0:rfs:44" tracking-nids="t0:eh:40">&#x2018;(3) For purposes of this section:</p>
+      <ul>
+        <p nid="t0:rfs:45" tracking-nids="t0:eh:41">&#x2018;(A) The term &#x2018;conduit&#x2019; means any tunnel, canal, pipeline, aqueduct, flume, ditch, or similar manmade water conveyance that is operated for the distribution of water for agricultural, municipal, or industrial consumption and not primarily for the generation of electricity.</p>
+        <p nid="t0:rfs:46" tracking-nids="t0:eh:42">&#x2018;(B) The term &#x2018;qualifying conduit hydropower facility&#x2019; means a facility (not including any dam or other impoundment) that is determined or deemed under paragraph (2)(C) to meet the qualifying criteria.</p>
+        <p nid="t0:rfs:47" tracking-nids="t0:eh:43">&#x2018;(C) The term &#x2018;qualifying criteria&#x2019; means, with respect to a facility--</p>
+        <ul>
+          <p nid="t0:rfs:48" tracking-nids="t0:eh:44">&#x2018;(i) the facility is constructed, operated, or maintained for the generation of electric power and uses for such generation only the hydroelectric potential of a non-federally owned conduit;</p>
+          <p nid="t0:rfs:49" tracking-nids="t0:eh:45">&#x2018;(ii) the facility has an installed capacity that does not exceed 5 megawatts; and</p>
+          <p nid="t0:rfs:50" tracking-nids="t0:eh:46">&#x2018;(iii) on or before the date of enactment of the Hydropower Regulatory Efficiency Act of 2013, the facility is not licensed under, or exempted from the license requirements contained in, this part.</p>
+        </ul>
+      </ul>
+      <p nid="t0:rfs:51" tracking-nids="t0:eh:47">&#x2018;(b) Subject to subsection (c), the Commission may grant an exemption in whole or in part from the requirements of this part, including any license requirements contained in this part, to any facility (not including any dam or other impoundment) constructed, operated, or maintained for the generation of electric power which the Commission determines, by rule or order--</p>
+      <ul>
+        <p nid="t0:rfs:52" tracking-nids="t0:eh:48">&#x2018;(1) utilizes for such generation only the hydroelectric potential of a conduit; and</p>
+        <p nid="t0:rfs:53" tracking-nids="t0:eh:49">&#x2018;(2) has an installed capacity that does not exceed 40 megawatts.&#x2019;;</p>
+        <p nid="t0:rfs:54" tracking-nids="t0:eh:50">(2) in subsection (c), by striking &#x2018;subsection (a)&#x2019; and inserting &#x2018;subsection (b)&#x2019;; and</p>
+        <p nid="t0:rfs:55" tracking-nids="t0:eh:51">(3) in subsection (d), by striking &#x2018;subsection (a)&#x2019; and inserting &#x2018;subsection (b)&#x2019;.</p>
+      </ul>
+    </blockquote>
+    <p nid="t0:rfs:56">(b) Conforming Amendment- Subsection (d) of section 405 of the Public Utility Regulatory Policies Act of 1978 (<usc-reference title="16" section="2705" paragraph=""><usc-reference title="16" section="2705" paragraph="">16 U.S.C. 2705</usc-reference></usc-reference>), as amended, is further amended by striking &#x2018;subsection (a) of such section 30&#x2019; and inserting &#x2018;subsection (b) of such section 30&#x2019;.</p>
+  </ul>
+  <p/>
+  <h3 nid="t0:rfs:57" tracking-nids="t0:eh:53">SEC. 5. FERC AUTHORITY TO EXTEND PRELIMINARY PERMIT PERIODS.</h3>
+  <ul>
+    <p nid="t0:rfs:58">Section 5 of the Federal Power Act (<usc-reference title="16" section="798" paragraph=""><usc-reference title="16" section="798" paragraph="">16 U.S.C. 798</usc-reference></usc-reference>) is amended--</p>
+    <ul>
+      <p nid="t0:rfs:59" tracking-nids="t0:eh:55">(1) by designating the first, second, and third sentences as subsections (a), (c), and (d), respectively; and</p>
+      <p nid="t0:rfs:60" tracking-nids="t0:eh:56">(2) by inserting after subsection (a) (as so designated) the following:</p>
+    </ul>
+    <blockquote>
+      <p nid="t0:rfs:61" tracking-nids="t0:eh:57">&#x2018;(b) The Commission may extend the period of a preliminary permit once for not more than 2 additional years beyond the 3 years permitted by subsection (a) if the Commission finds that the permittee has carried out activities under such permit in good faith and with reasonable diligence.&#x2019;.</p>
+    </blockquote>
+  </ul>
+  <p/>
+  <h3 nid="t0:rfs:62" tracking-nids="t0:eh:58">SEC. 6. PROMOTING HYDROPOWER DEVELOPMENT AT NONPOWERED DAMS AND CLOSED LOOP PUMPED STORAGE PROJECTS.</h3>
+  <ul>
+    <p nid="t0:rfs:63" tracking-nids="t0:eh:59">(a) In General- To improve the regulatory process and reduce delays and costs for hydropower development at nonpowered dams and closed loop pumped storage projects, the Federal Energy Regulatory Commission (referred to in this section as the &#x2018;Commission&#x2019;) shall investigate the feasibility of the issuance of a license for hydropower development at nonpowered dams and closed loop pumped storage projects in a 2-year period (referred to in this section as a &#x2018;2-year process&#x2019;). Such a 2-year process shall include any prefiling licensing process of the Commission.</p>
+    <p nid="t0:rfs:64" tracking-nids="t0:eh:60">(b) Workshops and Pilots- The Commission shall--</p>
+    <ul>
+      <p nid="t0:rfs:65" tracking-nids="t0:eh:61">(1) not later than 60 days after the date of enactment of this Act, hold an initial workshop to solicit public comment and recommendations on how to implement a 2-year process;</p>
+      <p nid="t0:rfs:66" tracking-nids="t0:eh:62">(2) develop criteria for identifying projects featuring hydropower development at nonpowered dams and closed loop pumped storage projects that may be appropriate for licensing within a 2-year process;</p>
+      <p nid="t0:rfs:67" tracking-nids="t0:eh:63">(3) not later than 180 days after the date of enactment of this Act, develop and implement pilot projects to test a 2-year process, if practicable; and</p>
+      <p nid="t0:rfs:68" tracking-nids="t0:eh:64">(4) not later than 3 years after the date of implementation of the final pilot project testing a 2-year process, hold a final workshop to solicit public comment on the effectiveness of each tested 2-year process.</p>
+    </ul>
+    <p nid="t0:rfs:69" tracking-nids="t0:eh:65">(c) Memorandum of Understanding- The Commission shall, to the extent practicable, enter into a memorandum of understanding with any applicable Federal or State agency to implement a pilot project described in subsection (b).</p>
+    <p nid="t0:rfs:70" tracking-nids="t0:eh:66">(d) Reports-</p>
+    <ul>
+      <p nid="t0:rfs:71" tracking-nids="t0:eh:67">(1) PILOT PROJECTS NOT IMPLEMENTED- If the Commission determines that no pilot project described in subsection (b) is practicable because no 2-year process is practicable, not later than 240 days after the date of enactment of this Act, the Commission shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that--</p>
+      <ul>
+        <p nid="t0:rfs:72" tracking-nids="t0:eh:68">(A) describes the public comments received as part of the initial workshop held under subsection (b)(1); and</p>
+        <p nid="t0:rfs:73" tracking-nids="t0:eh:69">(B) identifies the process, legal, environmental, economic, and other issues that justify the determination of the Commission that no 2-year process is practicable, with recommendations on how Congress may address or remedy the identified issues.</p>
+      </ul>
+      <p nid="t0:rfs:74" tracking-nids="t0:eh:70">(2) PILOT PROJECTS IMPLEMENTED- If the Commission develops and implements pilot projects involving a 2-year process, not later than 60 days after the date of completion of the final workshop held under subsection (b)(4), the Commission shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that--</p>
+      <ul>
+        <p nid="t0:rfs:75" tracking-nids="t0:eh:71">(A) describes the outcomes of the pilot projects;</p>
+        <p nid="t0:rfs:76" tracking-nids="t0:eh:72">(B) describes the public comments from the final workshop on the effectiveness of each tested 2-year process; and</p>
+        <p nid="t0:rfs:77" tracking-nids="t0:eh:73">(C)(i) outlines how the Commission will adopt policies under existing law (including regulations) that result in a 2-year process for appropriate projects;</p>
+        <p nid="t0:rfs:78" tracking-nids="t0:eh:74">(ii) outlines how the Commission will issue new regulations to adopt a 2-year process for appropriate projects; or</p>
+        <p nid="t0:rfs:79" tracking-nids="t0:eh:75">(iii) identifies the process, legal, environmental, economic, and other issues that justify a determination of the Commission that no 2-year process is practicable, with recommendations on how Congress may address or remedy the identified issues.</p>
+      </ul>
+    </ul>
+  </ul>
+  <p/>
+  <h3 nid="t0:rfs:80" tracking-nids="t0:eh:76">SEC. 7. DOE STUDY OF PUMPED STORAGE AND POTENTIAL HYDROPOWER FROM CONDUITS.</h3>
+  <ul>
+    <p nid="t0:rfs:81" tracking-nids="t0:eh:77">(a) In General- The Secretary of Energy shall conduct a study--</p>
+    <ul>
+      <p nid="t0:rfs:82" tracking-nids="t0:eh:78">(1)(A) of the technical flexibility that existing pumped storage facilities can provide to support intermittent renewable electric energy generation, including the potential for such existing facilities to be upgraded or retrofitted with advanced commercially available technology; and</p>
+      <p nid="t0:rfs:83" tracking-nids="t0:eh:79">(B) of the technical potential of existing pumped storage facilities and new advanced pumped storage facilities, to provide grid reliability benefits; and</p>
+      <p nid="t0:rfs:84" tracking-nids="t0:eh:80">(2)(A) to identify the range of opportunities for hydropower that may be obtained from conduits (as defined by the Secretary) in the United States; and</p>
+      <p nid="t0:rfs:85" tracking-nids="t0:eh:81">(B) through case studies, to assess amounts of potential energy generation from such conduit hydropower projects.</p>
+    </ul>
+    <p nid="t0:rfs:86" tracking-nids="t0:eh:82">(b) Report- Not later than 1 year after the date of enactment of this Act, the Secretary of Energy shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that describes the results of the study conducted under subsection (a), including any recommendations.</p>
+  </ul>
+  <p nid="t0:rfs:87" tracking-nids="t0:eh:83">Passed the House of Representatives February 13, 2013.</p>
+  <p nid="t0:rfs:88">Attest:</p>
+  <p nid="t0:rfs:89">
+    <removed sequence="3"><p nid="t0:eh:85">Clerk.</p><p/><center><p nid="t0:eh:86">113th CONGRESS</p></center><p/><center><p nid="t0:eh:87">1st Session</p></center><p/><center><p nid="t0:eh:88">H. R. 267</p></center><p/><center><p nid="t0:eh:89">AN ACT</p></center>To improve hydropower, and for other purposes</removed>
+    <inserted sequence="4">KAREN L. HAAS,</inserted>
+  </p>
+  <p nid="t0:rfs:90"><inserted sequence="5">Clerk</inserted>.</p>
+</body>

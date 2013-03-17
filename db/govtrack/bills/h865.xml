@@ -1,0 +1,32 @@
+<bill session="113" type="h" number="865" updated="2013-03-09T04:45:40-05:00">
+  <state datetime="2013-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-27"/>
+  </status>
+  <introduced datetime="2013-02-27"/>
+  <titles>
+    <title as="introduced" type="short">African Burial Ground International Memorial Museum and Educational Center Act</title>
+    <title as="introduced" type="official">To establish the African Burial Ground International Memorial Museum and Educational Center in New York, New York, and for other purposes.</title>
+  </titles>
+  <sponsor id="400289"/>
+  <cosponsors>
+    <cosponsor id="400271" joined="2013-02-27"/>
+    <cosponsor id="400333" joined="2013-02-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-27">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-03-04">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

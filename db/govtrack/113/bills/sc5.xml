@@ -1,0 +1,35 @@
+<bill session="113" type="sc" number="5" updated="2013-03-09T06:22:43-05:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution expressing the sense of Congress that John Arthur "Jack" Johnson should receive a posthumous pardon for the racially motivated conviction in 1913 that diminished the athletic, cultural, and historic significance of Jack Johnson and unduly tarnished his reputation.</title>
+  </titles>
+  <sponsor id="300071"/>
+  <cosponsors>
+    <cosponsor id="412586" joined="2013-03-05"/>
+    <cosponsor id="300082" joined="2013-03-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1134-1135"/>
+    </action>
+    <action state="REFERRED" datetime="2013-03-05">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S1134" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="hc" number="21"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>3/5/2013--Introduced.
+Expresses the sense of Congress that Jack Johnson (the first African-American professional boxer to hold the title of Heavyweight Champion of the World) should receive a posthumous pardon to expunge from the annals of American criminal justice a racially motivated abuse of the federal government's prosecutorial authority and to recognize his athletic and cultural contributions to society.</summary>
+</bill>

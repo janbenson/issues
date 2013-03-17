@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<body status="rds" difference-size-chars="638" percent-change="34" total-changes="8" previous-status="eh">
+  <p nid="t0:rds:1" tracking-nids="t0:eh:1">HCON 15 <changed sequence="1"><changed-from>EH</changed-from><changed-to>RDS</changed-to></changed></p>
+  <p/>
+  <center>
+    <p nid="t0:rds:2">113th CONGRESS</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:rds:3" tracking-nids="t0:eh:3">1st Session</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:rds:4">H. CON. RES. 15</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:rds:5">
+      <removed sequence="2">
+        <p/>
+        <center>
+          <p nid="t0:eh:5">CONCURRENT RESOLUTION</p>
+        </center>
+      </removed>
+      <inserted sequence="3">IN THE SENATE OF THE UNITED STATES</inserted>
+    </p>
+  </center>
+  <inserted sequence="4">
+    <p/>
+    <h3 nid="t0:rds:6">
+      <center>
+        <p nid="t0:rds:7">February 15, 2013</p>
+      </center>
+    </h3>
+    <p nid="t0:rds:8">Received</p>
+    <hr/>
+    <p/>
+    <center>
+      <p nid="t0:rds:9">CONCURRENT RESOLUTION</p>
+    </center>
+    <p nid="t0:rds:10">Providing for a conditional adjournment of the House of Representatives and a conditional recess or adjournment of the Senate.</p>
+  </inserted>
+  <ul>
+    <p nid="t0:rds:11"><em>Resolved by the House of Representatives (the Senate concurring),</em> That when the House adjourns on any legislative day from Friday, February 15, 2013, through Thursday, February 21, 2013, on a motion offered pursuant to this concurrent resolution by its Majority Leader or his designee, it stand adjourned until 2 p.m. on Monday, February 25, 2013, or until the time of any</p>
+    <p nid="t0:rds:12" tracking-nids="t0:eh:7">reassembly pursuant to section 2 of this concurrent resolution, whichever occurs first; and that when the Senate recesses or adjourns on Friday, February 15, 2013, on a motion offered pursuant to this concurrent resolution by its Majority Leader or his designee, it stand recessed or adjourned until noon on Monday, February 25, 2013, or such other time on that day as may be specified in the motion to recess or adjourn, or until the time of any reassembly pursuant to section 2 of this concurrent resolution, whichever occurs first.</p>
+    <p nid="t0:rds:13">Sec. 2.  The Speaker of the House and the Majority Leader of the Senate, or their respective designees, acting jointly after consultation with the Minority Leader of the House and the Minority Leader of the Senate, shall notify the Members of the House and the Senate, respectively, to reassemble at such place and time as they may designate if, in their opinion, the public interest shall warrant it.</p>
+  </ul>
+  <p nid="t0:rds:14">Passed the House of Representatives February 15, 2013.</p>
+  <p nid="t0:rds:15">Attest:</p>
+  <p nid="t0:rds:16"><changed sequence="5"><changed-from>Clerk</changed-from><changed-to>KAREN L</changed-to></changed>. <removed sequence="6"><p/><center><p nid="t0:eh:12">113th CONGRESS</p></center><p/><center><p nid="t0:eh:13">1st Session</p></center><p/><center><p nid="t0:eh:14">H. CON. RES. 15</p></center><p/><center><p nid="t0:eh:15">CONCURRENT RESOLUTION</p></center>Providing for a conditional adjournment of the House of Representatives and a conditional recess or adjournment of the Senate</removed><inserted sequence="7">HAAS,</inserted></p>
+  <p nid="t0:rds:17"><inserted sequence="8">Clerk</inserted>.</p>
+</body>

@@ -1,0 +1,37 @@
+<bill session="113" type="s" number="484" updated="2013-03-11T09:45:45-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="short">Lead Exposure Reduction Amendments Act of 2013</title>
+    <title as="introduced" type="official">A bill to amend the Toxic Substances Control Act relating to lead-based paint renovation and remodeling activities.</title>
+  </titles>
+  <sponsor id="300055"/>
+  <cosponsors>
+    <cosponsor id="400034" joined="2013-03-06"/>
+    <cosponsor id="400576" joined="2013-03-06"/>
+    <cosponsor id="300041" joined="2013-03-06"/>
+    <cosponsor id="412556" joined="2013-03-06"/>
+    <cosponsor id="300048" joined="2013-03-06"/>
+    <cosponsor id="400418" joined="2013-03-06"/>
+    <cosponsor id="400432" joined="2013-03-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1235-1236"/>
+    </action>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <reference ref="CR S1236-1237" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

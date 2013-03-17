@@ -1,0 +1,31 @@
+<bill session="113" type="h" number="874" updated="2013-03-13T04:46:21-04:00">
+  <state datetime="2013-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-27"/>
+  </status>
+  <introduced datetime="2013-02-27"/>
+  <titles>
+    <title as="introduced" type="short">Alice Paul Women's Suffrage Congressional Gold Medal Act</title>
+    <title as="introduced" type="official">To award a Congressional Gold Medal in recognition of Alice Paul's role in the women's suffrage movement and in advancing equal rights for women.</title>
+  </titles>
+  <sponsor id="412449"/>
+  <cosponsors>
+    <cosponsor id="400008" joined="2013-03-04"/>
+    <cosponsor id="400129" joined="2013-03-12"/>
+    <cosponsor id="400142" joined="2013-03-12"/>
+    <cosponsor id="400257" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-27">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="457"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

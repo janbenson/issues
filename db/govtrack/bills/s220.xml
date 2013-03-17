@@ -1,0 +1,47 @@
+<bill session="113" type="s" number="220" updated="2013-03-09T06:16:07-05:00">
+  <state datetime="2013-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-04"/>
+  </status>
+  <introduced datetime="2013-02-04"/>
+  <titles>
+    <title as="introduced" type="short">Citrus Disease Research and Development Trust Fund Act of 2013</title>
+    <title as="introduced" type="official">A bill to create a Citrus Disease Research and Developing Trust Fund to support research on diseases impacting the citrus industry, and for other purposes.</title>
+  </titles>
+  <sponsor id="300078"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2013-02-04"/>
+    <cosponsor id="300043" joined="2013-02-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-04">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="853"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Advisory bodies"/>
+    <term name="Agricultural research"/>
+    <term name="Agricultural trade"/>
+    <term name="Animal and plant health"/>
+    <term name="Congressional oversight"/>
+    <term name="Corporate finance and management"/>
+    <term name="Customs enforcement"/>
+    <term name="Fruit and vegetables"/>
+    <term name="Government trust funds"/>
+    <term name="Pest management"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+    <term name="Tariffs"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Trade agreements and negotiations"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+</bill>

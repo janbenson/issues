@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="1168" updated="2013-03-15T04:47:40-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="official">To direct the Secretary of the Interior, acting through the Bureau of Land Management, to convey to the City of Carlin, Nevada, in exchange for consideration, all right, title, and interest of the United States, to any Federal land within that city that is under the jurisdiction of that agency, and for other purposes.</title>
+  </titles>
+  <sponsor id="412500"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

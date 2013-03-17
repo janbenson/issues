@@ -1,0 +1,53 @@
+<bill session="113" type="h" number="384" updated="2013-02-27T04:47:24-05:00">
+  <state datetime="2013-01-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-23"/>
+  </status>
+  <introduced datetime="2013-01-23"/>
+  <titles>
+    <title as="introduced" type="short">Homes for Heroes Act of 2013</title>
+    <title as="introduced" type="official">To establish the position of Special Assistant for Veterans Affairs in the Department of Housing and Urban Development, and for other purposes.</title>
+  </titles>
+  <sponsor id="400653"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2013-01-23"/>
+    <cosponsor id="400080" joined="2013-01-23"/>
+    <cosponsor id="400160" joined="2013-01-23"/>
+    <cosponsor id="412451" joined="2013-01-23"/>
+    <cosponsor id="412498" joined="2013-01-23"/>
+    <cosponsor id="400170" joined="2013-01-23"/>
+    <cosponsor id="400179" joined="2013-01-23"/>
+    <cosponsor id="400184" joined="2013-01-23"/>
+    <cosponsor id="400185" joined="2013-01-23"/>
+    <cosponsor id="400211" joined="2013-01-23"/>
+    <cosponsor id="400244" joined="2013-02-26"/>
+    <cosponsor id="400262" joined="2013-01-23"/>
+    <cosponsor id="400263" joined="2013-01-23"/>
+    <cosponsor id="400274" joined="2013-01-23"/>
+    <cosponsor id="412307" joined="2013-01-23"/>
+    <cosponsor id="400333" joined="2013-01-23"/>
+    <cosponsor id="400350" joined="2013-01-23"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-01-23">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="386"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+  </subjects>
+  <amendments/>
+  <summary>1/23/2013--Introduced.
+Homes for Heroes Act of 2013 - Amends the Department of Housing and Urban Development Act to establish in the Department of Housing and Urban Development (HUD) a Special Assistant for Veterans Affairs to: (1) ensure veterans fair access to HUD housing and homeless assistance programs, (2) coordinate all HUD programs and activities relating to veterans, and (3) serve as a HUD liaison with the Department of Veterans Affairs (VA). Directs the Secretaries of HUD and VA to report annually to Congress with respect to veterans homelessness and housing assistance.</summary>
+</bill>

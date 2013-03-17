@@ -1,0 +1,27 @@
+<bill session="113" type="h" number="1171" updated="2013-03-15T04:47:42-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 40, United States Code, to improve veterans service organizations access to Federal surplus personal property.</title>
+  </titles>
+  <sponsor id="412436"/>
+  <cosponsors>
+    <cosponsor id="412516" joined="2013-03-14"/>
+    <cosponsor id="412575" joined="2013-03-14"/>
+    <cosponsor id="412310" joined="2013-03-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="113" type="s" number="320" updated="2013-03-01T04:50:26-05:00">
+  <state datetime="2013-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-13"/>
+  </status>
+  <introduced datetime="2013-02-13"/>
+  <titles>
+    <title as="introduced" type="short">Closing Regulatory Loopholes Act of 2013</title>
+    <title as="introduced" type="official">A bill to amend chapter 8 of title 5, United States Code, to provide for congressional review of agency guidance documents.</title>
+  </titles>
+  <sponsor id="412320"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2013-02-13"/>
+    <cosponsor id="300021" joined="2013-02-28"/>
+    <cosponsor id="402675" joined="2013-02-13"/>
+    <cosponsor id="300023" joined="2013-02-28"/>
+    <cosponsor id="300025" joined="2013-02-13"/>
+    <cosponsor id="412556" joined="2013-02-13"/>
+    <cosponsor id="300048" joined="2013-02-13"/>
+    <cosponsor id="412496" joined="2013-02-13"/>
+    <cosponsor id="412492" joined="2013-02-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-13">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S713-714"/>
+    </action>
+    <action state="REFERRED" datetime="2013-02-13">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Congressional oversight"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Government information and archives"/>
+    <term name="Inflation and prices"/>
+  </subjects>
+  <amendments/>
+</bill>

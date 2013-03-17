@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="915" updated="2013-03-13T04:46:23-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="official">To authorize the Peace Corps Commemorative Foundation to establish a commemorative work in the District of Columbia and its environs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412543"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2013-03-12"/>
+    <cosponsor id="412258" joined="2013-03-12"/>
+    <cosponsor id="412215" joined="2013-03-12"/>
+    <cosponsor id="400129" joined="2013-02-28"/>
+    <cosponsor id="412382" joined="2013-02-28"/>
+    <cosponsor id="400185" joined="2013-02-28"/>
+    <cosponsor id="412435" joined="2013-03-12"/>
+    <cosponsor id="400259" joined="2013-03-12"/>
+    <cosponsor id="400274" joined="2013-03-12"/>
+    <cosponsor id="400661" joined="2013-03-12"/>
+    <cosponsor id="400289" joined="2013-03-12"/>
+    <cosponsor id="408211" joined="2013-03-12"/>
+    <cosponsor id="400318" joined="2013-02-28"/>
+    <cosponsor id="412514" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2013-03-04">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee code="HSBU" name="House Budget" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

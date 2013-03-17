@@ -1,0 +1,3 @@
+congress,session,chamber,period,total_votes,missed_votes,percent,percentile,period_start,period_end,pctile25,pctile50,pctile75,pctile90
+113,2013,s,0,25,0,0.0,0.0,2013-01-24,2013-03-14,0.0,0.0,2.7027027027,5.40540540541
+lifetime,,s,,25,0,0.0,0.0,2013-02-07,2013-03-14,0.799573560768,1.90863579474,2.87120590648,4.41176470588

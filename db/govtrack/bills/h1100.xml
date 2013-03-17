@@ -1,0 +1,42 @@
+<bill session="113" type="h" number="1100" updated="2013-03-13T04:46:43-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Public Health Service Act to improve mental and behavioral health services on college campuses.</title>
+  </titles>
+  <sponsor id="400360"/>
+  <cosponsors>
+    <cosponsor id="412470" joined="2013-03-12"/>
+    <cosponsor id="412215" joined="2013-03-12"/>
+    <cosponsor id="412382" joined="2013-03-12"/>
+    <cosponsor id="400162" joined="2013-03-12"/>
+    <cosponsor id="400184" joined="2013-03-12"/>
+    <cosponsor id="400237" joined="2013-03-12"/>
+    <cosponsor id="400263" joined="2013-03-12"/>
+    <cosponsor id="412308" joined="2013-03-12"/>
+    <cosponsor id="400347" joined="2013-03-12"/>
+    <cosponsor id="400350" joined="2013-03-12"/>
+    <cosponsor id="412319" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-12">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-03-12">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

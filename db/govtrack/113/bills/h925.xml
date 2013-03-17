@@ -1,0 +1,36 @@
+<bill session="113" type="h" number="925" updated="2013-03-01T04:51:28-05:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Diplomatic Security Act to revise the provisions relating to personnel recommendations of the Accountability Review Board under such Act.</title>
+  </titles>
+  <sponsor id="412569"/>
+  <cosponsors>
+    <cosponsor id="412576" joined="2013-02-28"/>
+    <cosponsor id="412531" joined="2013-02-28"/>
+    <cosponsor id="412513" joined="2013-02-28"/>
+    <cosponsor id="400122" joined="2013-02-28"/>
+    <cosponsor id="400654" joined="2013-02-28"/>
+    <cosponsor id="400271" joined="2013-02-28"/>
+    <cosponsor id="412560" joined="2013-02-28"/>
+    <cosponsor id="412528" joined="2013-02-28"/>
+    <cosponsor id="400348" joined="2013-02-28"/>
+    <cosponsor id="400606" joined="2013-02-28"/>
+    <cosponsor id="412522" joined="2013-02-28"/>
+    <cosponsor id="412525" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

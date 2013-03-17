@@ -1,0 +1,41 @@
+<bill session="113" type="s" number="256" updated="2013-03-02T06:16:15-05:00">
+  <state datetime="2013-02-07">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-07"/>
+  </status>
+  <introduced datetime="2013-02-07"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend Public Law 93-435 with respect to the Northern Mariana Islands, providing parity with Guam, the Virgin Islands, and American Samoa.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="300075" joined="2013-02-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-07">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S524-525"/>
+    </action>
+    <action state="REFERRED" datetime="2013-02-07">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S525" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="573"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Land transfers"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Northern Mariana Islands"/>
+    <term name="Oil and gas"/>
+    <term name="U.S. territories and protectorates"/>
+  </subjects>
+  <amendments/>
+  <summary>2/7/2013--Introduced.
+Conveys to the government of the Commonwealth of the Northern Mariana Islands submerged lands surrounding such Islands and extending three geographical miles outward from their coastlines. Includes the Northern Mariana Islands among the islands where the President may establish naval defensive sea areas and airspace reservations when necessary for national defense.</summary>
+</bill>

@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<body status="eh" difference-size-chars="1138" percent-change="56" total-changes="3" previous-status="ih">
+  <p nid="t0:eh:1" tracking-nids="t0:ih:1">HR 41 <changed sequence="1"><changed-from>I</changed-from><changed-to>E</changed-to></changed>H</p>
+  <p/>
+  <center>
+    <p nid="t0:eh:2">113th CONGRESS</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:eh:3" tracking-nids="t0:ih:3">1st Session</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:eh:4" tracking-nids="t0:ih:4">H. R. 41</p>
+  </center>
+  <hr/>
+  <inserted sequence="2">
+    <p/>
+    <center>
+      <p nid="t0:eh:5">AN ACT</p>
+    </center>
+  </inserted>
+  <p nid="t0:eh:6">To temporarily increase the borrowing authority of the Federal Emergency Management Agency for carrying out the National Flood Insurance Program.</p>
+  <ul>
+    <p nid="t0:eh:7" tracking-nids="t0:ih:12">
+      <em>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</em>
+    </p>
+  </ul>
+  <p tracking-nids="t0:ih:13"/>
+  <h3 nid="t0:eh:8">SECTION 1. TEMPORARY INCREASE IN BORROWING AUTHORITY FOR NATIONAL FLOOD INSURANCE PROGRAM.</h3>
+  <ul>
+    <p nid="t0:eh:9">(a) Section 1309(a) of the National Flood Insurance Act of 1968 (<usc-reference title="42" section="4016" paragraph="a"><usc-reference title="42" section="4016" paragraph="a">42 U.S.C. 4016(a)</usc-reference></usc-reference>) is amended by striking &#x2018;$20,725,000,000&#x2019; and inserting &#x2018;$30,425,000,000&#x2019;.</p>
+    <p nid="t0:eh:10">(b) The amount provided by this section is designated by the Congress as an emergency requirement pursuant to section 403(a) of S. Con. Res. 13 (111th Congress), the concurrent resolution on the budget for fiscal year 2010, and as an emergency pursuant to section 4(g) of the Statutory Pay-As-You-Go Act of 2010 (<usc-reference title="2" section="933" paragraph="g"><usc-reference title="2" section="933" paragraph="g">2 U.S.C. 933(g)</usc-reference></usc-reference>).</p>
+  </ul>
+  <inserted sequence="3">
+    <p nid="t0:eh:11">Passed the House of Representatives January 4, 2013.</p>
+    <p nid="t0:eh:12">Attest:</p>
+    <p nid="t0:eh:13">Clerk.</p>
+    <p/>
+    <center>
+      <p nid="t0:eh:14">113th CONGRESS</p>
+    </center>
+    <p/>
+    <center>
+      <p nid="t0:eh:15">1st Session</p>
+    </center>
+    <p/>
+    <center>
+      <p nid="t0:eh:16">H. R. 41</p>
+    </center>
+    <p/>
+    <center>
+      <p nid="t0:eh:17">AN ACT</p>
+    </center>
+    <p nid="t0:eh:18">To temporarily increase the borrowing authority of the Federal Emergency Management Agency for carrying out the National Flood Insurance Program.</p>
+  </inserted>
+</body>

@@ -1,0 +1,26 @@
+<bill session="113" type="sc" number="8" updated="2013-03-15T15:46:19-04:00">
+  <state datetime="2013-03-15">REPORTED</state>
+  <status>
+    <unknown datetime="2013-03-15"/>
+  </status>
+  <introduced datetime="2013-03-15"/>
+  <titles>
+    <title as="introduced" type="official">An original concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2014, revising the appropriate budgetary levels for fiscal year 2013, and setting forth the appropriate budgetary levels for fiscal years 2015 through 2023.</title>
+  </titles>
+  <sponsor id="300076"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-03-15">
+      <text>Committee on the Budget. Original measure reported to Senate by Senator Murray under authority of the order of the Senate of 03/14/2013. Without written report.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2013-03-15" calendar="Senate Legislative" under="General Orders" number="28">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 28.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSBU" name="Senate Budget" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,25 @@
+<bill session="113" type="h" number="1137" updated="2013-03-14T04:46:28-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="official">To authorize the Secretary of the Interior, through the United States Fish and Wildlife Service, to conduct a Joint Venture Program to protect, restore, enhance, and manage migratory bird populations, their habitats, and the ecosystems they rely on, through voluntary actions on public and private lands, and for other purposes.</title>
+  </titles>
+  <sponsor id="400218"/>
+  <cosponsors>
+    <cosponsor id="412255" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-13">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,32 @@
+<bill session="113" type="s" number="378" updated="2013-03-09T06:16:48-05:00">
+  <state datetime="2013-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-25"/>
+  </status>
+  <introduced datetime="2013-02-25"/>
+  <titles>
+    <title as="introduced" type="short">Travel Reimbursement for Inactive Duty Training Personnel (TRIP) Act of 2013</title>
+    <title as="introduced" type="official">A bill to amend title 37, United States Code, to provide travel and transportation allowances for members of the reserve components for long distance and certain other travel to inactive duty training.</title>
+  </titles>
+  <sponsor id="412326"/>
+  <cosponsors>
+    <cosponsor id="412244" joined="2013-02-25"/>
+    <cosponsor id="300100" joined="2013-02-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-25">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military personnel and dependents"/>
+    <term name="National Guard and reserves"/>
+    <term name="Transportation costs"/>
+  </subjects>
+  <amendments/>
+</bill>

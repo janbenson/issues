@@ -1,0 +1,32 @@
+<bill session="113" type="sr" number="11" updated="2013-03-02T06:21:33-05:00">
+  <state datetime="2013-01-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-23"/>
+  </status>
+  <introduced datetime="2013-01-23"/>
+  <titles>
+    <title as="introduced" type="official">A resolution expressing support for prayer at school board meetings.</title>
+  </titles>
+  <sponsor id="400418"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-01-23">
+      <text>Referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S226" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="First Amendment rights"/>
+    <term name="Religion"/>
+    <term name="School administration"/>
+  </subjects>
+  <amendments/>
+  <summary>1/23/2013--Introduced.
+Recognizes that prayer before school board meetings is a protected act and expresses support for such prayer.</summary>
+</bill>

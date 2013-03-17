@@ -1,0 +1,47 @@
+<bill session="113" type="s" number="419" updated="2013-03-05T18:45:31-05:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">Cluster Munitions Civilian Protection Act of 2013</title>
+    <title as="introduced" type="official">A bill to limit the use of cluster munitions.</title>
+  </titles>
+  <sponsor id="300043"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2013-02-28"/>
+    <cosponsor id="400050" joined="2013-02-28"/>
+    <cosponsor id="300018" joined="2013-02-28"/>
+    <cosponsor id="400064" joined="2013-02-28"/>
+    <cosponsor id="300038" joined="2013-02-28"/>
+    <cosponsor id="412378" joined="2013-02-28"/>
+    <cosponsor id="300051" joined="2013-02-28"/>
+    <cosponsor id="300058" joined="2013-02-28"/>
+    <cosponsor id="412242" joined="2013-02-28"/>
+    <cosponsor id="300065" joined="2013-02-28"/>
+    <cosponsor id="300076" joined="2013-02-28"/>
+    <cosponsor id="300084" joined="2013-02-28"/>
+    <cosponsor id="400357" joined="2013-02-28"/>
+    <cosponsor id="400413" joined="2013-02-28"/>
+    <cosponsor id="412247" joined="2013-02-28"/>
+    <cosponsor id="300100" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1026-1028"/>
+    </action>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="881"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,60 @@
+<bill session="113" type="h" number="270" updated="2013-03-02T06:18:33-05:00">
+  <state datetime="2013-01-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-15"/>
+  </status>
+  <introduced datetime="2013-01-15"/>
+  <titles>
+    <title as="introduced" type="short">Empowering Citizens Act</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to reform the system of public financing for Presidential elections, to establish a system of public financing for Congressional elections, to promote the disclosure of disbursements made in coordination with campaigns for election for Federal office, and for other purposes.</title>
+  </titles>
+  <sponsor id="400326"/>
+  <cosponsors>
+    <cosponsor id="400047" joined="2013-01-15"/>
+    <cosponsor id="412263" joined="2013-01-23"/>
+    <cosponsor id="400124" joined="2013-01-15"/>
+    <cosponsor id="400184" joined="2013-01-15"/>
+    <cosponsor id="400209" joined="2013-01-15"/>
+    <cosponsor id="400233" joined="2013-01-15"/>
+    <cosponsor id="400278" joined="2013-01-15"/>
+    <cosponsor id="408211" joined="2013-01-15"/>
+    <cosponsor id="412575" joined="2013-01-15"/>
+    <cosponsor id="412308" joined="2013-01-15"/>
+    <cosponsor id="412212" joined="2013-01-15"/>
+    <cosponsor id="400415" joined="2013-01-15"/>
+    <cosponsor id="412211" joined="2013-01-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-01-15">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-01-15">
+      <text>Referred to House Administration</text>
+    </action>
+    <action datetime="2013-01-15">
+      <text>Referred to House Ways and Means</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Accounting and auditing"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional elections"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Federal Election Commission (FEC)"/>
+    <term name="Government information and archives"/>
+    <term name="Government trust funds"/>
+    <term name="Inflation and prices"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Political advertising"/>
+    <term name="Political parties and affiliation"/>
+    <term name="Public participation and lobbying"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+</bill>

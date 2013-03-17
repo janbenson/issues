@@ -1,0 +1,25 @@
+<bill session="113" type="h" number="965" updated="2013-03-12T04:45:56-04:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title as="introduced" type="official">To prohibit the possession or transfer of junk guns, also known as Saturday Night Specials.</title>
+  </titles>
+  <sponsor id="400163"/>
+  <cosponsors>
+    <cosponsor id="400333" joined="2013-03-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-05">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

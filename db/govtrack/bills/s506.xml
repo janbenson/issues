@@ -1,0 +1,32 @@
+<bill session="113" type="s" number="506" updated="2013-03-13T12:46:07-04:00">
+  <state datetime="2013-03-07">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-07"/>
+  </status>
+  <introduced datetime="2013-03-07"/>
+  <titles>
+    <title as="introduced" type="short">Volunteer Emergency Services Recruitment and Retention Act of 2013</title>
+    <title as="introduced" type="official">A bill to amend the Internal Revenue Code of 1986 to provide recruitment and retention incentives for volunteer emergency service workers.</title>
+  </titles>
+  <sponsor id="300025"/>
+  <cosponsors>
+    <cosponsor id="300087" joined="2013-03-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-07">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1271"/>
+    </action>
+    <action state="REFERRED" datetime="2013-03-07">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="1009"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

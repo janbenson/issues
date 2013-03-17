@@ -1,0 +1,36 @@
+<bill session="113" type="s" number="352" updated="2013-03-02T06:16:39-05:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title as="introduced" type="short">Devil's Staircase Wilderness Act of 2013</title>
+    <title as="introduced" type="official">A bill to provide for the designation of the Devil's Staircase Wilderness Area in the State of Oregon, to designate segments of Wasson and Franklin Creeks in the State of Oregon as wild rivers, and for other purposes.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="412325" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S780-782"/>
+    </action>
+    <action state="REFERRED" datetime="2013-02-14">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Lakes and rivers"/>
+    <term name="Land transfers"/>
+    <term name="Oregon"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+</bill>

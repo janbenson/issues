@@ -1,0 +1,32 @@
+<bill session="113" type="h" number="926" updated="2013-03-04T18:45:39-05:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">Social Security Identity Defense Act of 2013</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to permit the Secretary of the Treasury to disclose certain return information related to identity theft, and for other purposes.</title>
+  </titles>
+  <sponsor id="400318"/>
+  <cosponsors>
+    <cosponsor id="400116" joined="2013-02-28"/>
+    <cosponsor id="412451" joined="2013-02-28"/>
+    <cosponsor id="400209" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E224"/>
+    </action>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,372 @@
+                                                                                                                                   I
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                          H. R. 880
+                                       To amend the Internal Revenue Code of 1986 to impose a tax on certain
+                                                               trading transactions.
+
+
+
+
+                                                IN THE HOUSE OF REPRESENTATIVES
+                                                             FEBRUARY 28, 2013
+                                  Mr. DEFAZIO (for himself, Ms. SLAUGHTER, Ms. NORTON, Mr. SCOTT of Vir-
+                                      ginia, Mr. CAPUANO, Ms. PINGREE of Maine, Mr. MCGOVERN, Mr. CON-
+                                      YERS, Mr. HUFFMAN, Mr. GRIJALVA, Mr. WELCH, Ms. SCHAKOWSKY,
+                                      Mrs. NAPOLITANO, Ms. EDWARDS, Mr. SARBANES, Mr. MICHAUD, Ms.
+                                      BROWN of Florida, Mr. ELLISON, Ms. CHU, Ms. DELAURO, and Mr.
+                                      BLUMENAUER) introduced the following bill; which was referred to the
+                                      Committee on Ways and Means
+
+
+
+
+                                                                            A BILL
+                                        To amend the Internal Revenue Code of 1986 to impose
+                                                a tax on certain trading transactions.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Wall Street Trading
+                                    5 and Speculators Tax Act’’.
+
+
+
+
+
+                                    1     SEC. 2. TRANSACTION TAX.                           2
+                                    2              (a) IN GENERAL.—Chapter 36 of the Internal Rev-
+                                    3 enue Code of 1986 is amended by inserting after sub-
+                                    4 chapter B the following new subchapter:
+                                    5 ‘‘Subchapter C—Tax on Trading Transactions
+                                          ‘‘Sec. 4475. Tax on trading transactions.
+
+                                    6     ‘‘SEC. 4475. TAX ON TRADING TRANSACTIONS.
+
+                                    7              ‘‘(a) IMPOSITION                 OF       TAX.—There is hereby imposed
+                                    8 a tax on each covered transaction with respect to any secu-
+                                  109 rity.        ‘‘(b) RATE             OF      TAX.—The tax imposed under sub-
+                                  11 section (a) with respect to any covered transaction shall
+                                  12 be 0.03 percent of the specified base amount with respect
+                                  13 to such covered transaction.
+                                  14               ‘‘(c) SPECIFIED BASE AMOUNT.—For purposes of
+                                  15 this section, the term ‘specified base amount’ means—
+                                  16                         ‘‘(1) except as provided in paragraph (2), the
+                                  17               fair market value of the security (determined as of
+                                  18               the time of the covered transaction), and
+                                  19                         ‘‘(2) in the case of any payment described in
+                                  20               subsection (h), the amount of such payment.
+                                  21               ‘‘(d) COVERED TRANSACTION.—For purposes of this
+                                  22 section, the term ‘covered transaction’ means—
+                                  23                         ‘‘(1) except as provided in paragraph (2), any
+
+
+
+
+                                  24               purchase if—
+                                              •HR 880 IH
+
+                                                                                             3
+                                    1                                 ‘‘(A) such purchase occurs or is cleared on
+                                    2                        a facility located in the United States, or
+                                    3                                 ‘‘(B) the purchaser or seller is a United
+                                    4                        States person, and
+                                    5                        ‘‘(2) any transaction with respect to a security
+                                    6              described in subparagraph (D), (E), or (F) of sub-
+                                    7              section (e)(1), if—
+                                    8                                 ‘‘(A) such security is traded or cleared on
+                                    9                        a facility located in the United States, or
+                                  10                                  ‘‘(B) any party with rights under such se-
+                                  11                         curity is a United States person.
+                                  12               ‘‘(e) SECURITY AND OTHER DEFINITIONS.—For pur-
+                                  13 poses of this section—
+                                  14                         ‘‘(1)       IN        GENERAL.—The                        term        ‘security’
+                                  15               means—
+                                  16                                  ‘‘(A) any share of stock in a corporation,
+                                  17                                  ‘‘(B) any partnership or beneficial owner-
+                                  18                         ship interest in a partnership or trust,
+                                  19                                  ‘‘(C) any note, bond, debenture, or other
+                                  20                         evidence of indebtedness,
+                                  21                                  ‘‘(D) any evidence of an interest in, or a
+                                  22                         derivative financial instrument with respect to,
+                                  23                         any security or securities described in subpara-
+                                  24                         graph (A), (B), or (C),
+
+
+
+
+
+                                              •HR 880 IH
+
+                                                                                             4
+                                    1                                 ‘‘(E) any derivative financial instrument
+                                    2                        with respect to any currency or commodity, and
+                                    3                                 ‘‘(F) any notional principal contract.
+                                    4                        ‘‘(2) DERIVATIVE                     FINANCIAL INSTRUMENT.—
+                                    5              The term ‘derivative financial instrument’ includes
+                                    6              any option, forward contract, futures contract, or
+                                    7              any similar financial instrument.
+                                    8                        ‘‘(3) NOTIONAL                  PRINCIPAL CONTRACT.—Except
+                                    9              as otherwise provided by the Secretary, the term ‘no-
+                                  10               tional principal contract’ means any financial instru-
+                                  11               ment which requires two or more payments at speci-
+                                  12               fied intervals calculated by reference to a specified
+                                  13               index upon one or more notional principal amounts.
+                                  14               An amount shall not fail to be treated as a payment
+                                  15               described in the preceding sentence merely because
+                                  16               such amount is fixed on one date and paid or other-
+                                  17               wise taken into account on a different date.
+                                  18                         ‘‘(4) SPECIFIED                     INDEX.—The                 term ‘specified
+                                  19               index’ means any 1 or more of any combination of—
+                                  20                                  ‘‘(A) a fixed rate, price, or amount, or
+                                  21                                  ‘‘(B) a variable rate, price, or amount,
+                                  22                                  ‘‘(C) any index based on any objectively
+                                  23                         determinable information (including the occur-
+                                  24                         rence or nonoccurrence of any event) which is
+
+
+
+
+                                  25                         not within the control of any of the parties to
+                                              •HR 880 IH
+
+                                                                                             5
+                                    1                        the instrument and is not unique to any of the
+                                    2                        parties’ circumstances, and
+                                    3                                 ‘‘(D) any other index as the Secretary may
+                                    4                        prescribe.
+                                    5                        ‘‘(5) TREATMENT                     OF EXCHANGES.—
+
+                                    6                                 ‘‘(A) IN        GENERAL.—An                    exchange shall be
+                                    7                        treated as the sale of the property transferred
+                                    8                        and a purchase of the property received by each
+                                    9                        party to the exchange.
+                                  10                                  ‘‘(B) CERTAIN                DEEMED EXCHANGES.—In
+                                  11                         the case of a distribution treated as an ex-
+                                  12                         change for stock under section 302 or 331, the
+                                  13                         corporation making such distribution shall be
+                                  14                         treated as having purchased such stock for pur-
+                                  15                         poses of this section.
+                                  16               ‘‘(f) EXCEPTIONS.—
+                                  17                         ‘‘(1) EXCEPTION                     FOR INITIAL ISSUES.—No             tax
+                                  18               shall be imposed under subsection (a) on any cov-
+                                  19               ered transaction with respect to the initial issuance
+                                  20               of any security described in subparagraph (A), (B),
+                                  21               or (C) of subsection (e)(1).
+                                  22                         ‘‘(2) EXCEPTION                 FOR CERTAIN TRADED SHORT-
+                                  23               TERM INDEBTEDNESS.—A                                  note, bond, debenture, or
+                                  24               other evidence of indebtedness which—
+
+
+
+
+
+                                              •HR 880 IH
+
+                                                                                             6
+                                    1                                 ‘‘(A) is traded on a trading facility located
+                                    2                        in the United States, and
+                                    3                                 ‘‘(B) has a fixed maturity of not more
+                                    4                        than 100 days,
+                                    5              shall not be treated as described in subsection
+                                    6              (e)(1)(C).
+                                    7                        ‘‘(3) EXCEPTION                  FOR SECURITIES LENDING AR-
+                                    8              RANGEMENTS.—No                       tax shall be imposed under sub-
+                                    9              section (a) on any covered transaction with respect
+                                  10               to which gain or loss is not recognized by reason of
+                                  11               section 1058.
+                                  12               ‘‘(g) BY WHOM PAID.—
+                                  13                         ‘‘(1) IN        GENERAL.—The                     tax imposed by this
+                                  14               section shall be paid by—
+                                  15                                  ‘‘(A) in the case of a transaction which oc-
+                                  16                         curs or is cleared on a facility located in the
+                                  17                         United States, such facility, and
+                                  18                                  ‘‘(B) in the case of a purchase not de-
+                                  19                         scribed in subparagraph (A) which is executed
+                                  20                         by a broker (as defined in section 6045(c)(1))
+                                  21                         which is a United States person, such broker.
+                                  22                         ‘‘(2) SPECIAL                   RULES           FOR            DIRECT,   ETC.,
+                                  23               TRANSACTIONS.—In                          the case of any transaction to
+                                  24               which paragraph (1) does not apply, the tax imposed
+
+
+
+
+                                  25               by this section shall be paid by—
+                                              •HR 880 IH
+
+                                                                                             7
+                                    1                                 ‘‘(A) in the case of a transaction described
+                                    2                        in subsection (d)(1)—
+                                    3                                        ‘‘(i) the purchaser if the purchaser is
+                                    4                                 a United States person, and
+                                    5                                        ‘‘(ii) the seller if the purchaser is not
+                                    6                                 a United States person, and
+                                    7                                 ‘‘(B) in the case of a transaction described
+                                    8                        in subsection (d)(2)—
+                                    9                                        ‘‘(i) the payor if the payor is a United
+                                  10                                  States person, and
+                                  11                                         ‘‘(ii) the payee if the payor is not a
+                                  12                                  United States person.
+                                  13               ‘‘(h) CERTAIN PAYMENTS TREATED                                           AS     SEPARATE
+                                  14 TRANSACTIONS.—Except as otherwise provided by the
+                                  15 Secretary, any payment with respect to a security de-
+                                  16 scribed in subparagraph (D), (E), or (F) of subsection
+                                  17 (e)(1) shall be treated as a separate transaction for pur-
+                                  18 poses of this section, including—
+                                  19                         ‘‘(1) any net initial payment, net final or termi-
+                                  20               nating payment, or net periodical payment with re-
+                                  21               spect to a notional principal contract (or similar fi-
+                                  22               nancial instrument),
+                                  23                         ‘‘(2) any payment with respect to any forward
+                                  24               contract (or similar financial instrument), and
+
+
+
+
+
+                                              •HR 880 IH
+
+                                                                                             8
+                                    1                        ‘‘(3) any premium paid with respect to any op-
+                                    2              tion (or similar financial instrument).
+                                    3              ‘‘(i) APPLICATION                         TO    TRANSACTIONS                    BY   CON-
+                                    4     TROLLED            FOREIGN CORPORATIONS.—
+                                    5                        ‘‘(1) IN        GENERAL.—For                    purposes of this sec-
+                                    6              tion, a controlled foreign corporation shall be treated
+                                    7              as a United States person.
+                                    8                        ‘‘(2) SPECIAL             RULES FOR PAYMENT OF TAX ON
+                                    9              DIRECT, ETC., TRANSACTIONS.—In                                      the case of any
+                                  10               transaction which is a covered transaction solely by
+                                  11               reason of paragraph (1) and which is not described
+                                  12               in subsection (g)(1)—
+                                  13                                  ‘‘(A) PAYMENT               BY UNITED STATES SHARE-
+                                  14                         HOLDERS.—Any                    tax which would (but for this
+                                  15                         paragraph) be payable under subsection (g)(2)
+                                  16                         by the controlled foreign corporation shall, in
+                                  17                         lieu thereof, be paid by the United States
+                                  18                         shareholders of such controlled foreign corpora-
+                                  19                         tion as provided in subparagraph (B).
+                                  20                                  ‘‘(B) PRO                  RATA       SHARES.—Each                such
+                                  21                         United States shareholder shall pay the same
+                                  22                         proportion of such tax as—
+                                  23                                         ‘‘(i) the stock which such United
+                                  24                                  States shareholder owns (within the mean-
+
+
+
+
+
+                                              •HR 880 IH
+
+                                                                                             9
+                                    1                                 ing of section 958(a)) in such controlled
+                                    2                                 foreign corporation, bears to
+                                    3                                        ‘‘(ii) the stock so owned by all United
+                                    4                                 States shareholders in such controlled for-
+                                    5                                 eign corporation.
+                                    6                                 ‘‘(C) DEFINITIONS.—For purposes of this
+                                    7                        subsection, the terms ‘United States share-
+                                    8                        holder’ and ‘controlled foreign corporation’ have
+                                    9                        the meanings given such terms in sections
+                                  10                         951(b) and 957(a), respectively.
+                                  11               ‘‘(j) ADMINISTRATION.—The Secretary shall carry
+                                  12 out this section in consultation with the Securities and Ex-
+                                  13 change Commission and the Commodity Futures Trading
+                                  14 Commission.
+                                  15               ‘‘(k) GUIDANCE; REGULATIONS.—The Secretary
+                                  16 shall—
+                                  17                         ‘‘(1) provide guidance regarding such informa-
+                                  18               tion reporting concerning covered transactions as the
+                                  19               Secretary deems appropriate, and
+                                  20                         ‘‘(2) prescribe such regulations as are necessary
+                                  21               or appropriate to prevent avoidance of the purposes
+                                  22               of this section, including the use of non-United
+                                  23               States persons in such transactions.’’.
+                                  24               (b) CREDIT WITH RESPECT                                  TO     CERTAIN TAX-FA-
+                                  25      VORED            ACCOUNTS TO OFFSET TRANSACTION TAX.—
+
+
+                                              •HR 880 IH
+
+                                                                                         10
+                                    1                        (1) IN      GENERAL.—Subpart                       C of part IV of sub-
+                                    2              chapter A of chapter 1 of such Code is amended by
+                                    3              inserting after section 36B the following new sec-
+                                    4              tion:
+                                    5     ‘‘SEC. 36C. OFFSET FOR TRANSACTION TAX WITH RESPECT
+                                    6                             TO CERTAIN TAX-FAVORED ACCOUNTS.
+                                    7              ‘‘(a) IN GENERAL.—There shall be allowed as a cred-
+                                    8 it against the tax imposed by this subtitle for the taxable
+                                    9 year an amount equal to 0.03 percent of the qualified tax-
+                                  10 favored account contributions of the taxpayer for the tax-
+                                  11 able year.
+                                  12               ‘‘(b) QUALIFIED TAX-FAVORED ACCOUNT CON-
+                                  13      TRIBUTIONS.—For                         purposes of this section, the term
+                                  14 ‘qualified tax-favored account contributions’ means, with
+                                  15 respect to any taxable year, the sum of—
+                                  16                         ‘‘(1) with respect to qualified retirement plans
+                                  17               (as defined in section 4974(c)) of the taxpayer, the
+                                  18               amount contributed to such plans for such taxable
+                                  19               year to the extent that such contributions are allow-
+                                  20               able as a deduction or are excludable from gross in-
+                                  21               come (or, in the case of a Roth IRA (as defined in
+                                  22               section 408A(b)), the amount contributed),
+                                  23                         ‘‘(2) with respect to Archer MSAs of the tax-
+                                  24               payer, the amount allowed as a deduction under sec-
+
+
+
+
+                                  25               tion 220 for such taxable year,
+                                              •HR 880 IH
+
+                                                                                         11
+                                    1                        ‘‘(3) with respect to health savings accounts of
+                                    2              the taxpayer, the amount allowed as a deduction
+                                    3              under section 223 for such taxable year, plus
+                                    4                        ‘‘(4) with respect to qualified tuition programs
+                                    5              (as defined in section 529) and Coverdell education
+                                    6              savings accounts (as defined in section 530) with re-
+                                    7              spect to which the taxpayer is the designated bene-
+                                    8              ficiary (or, in the case of a designated beneficiary
+                                    9              with respect to whom another taxpayer is allowed a
+                                  10               deduction under section 151, such other taxpayer in
+                                  11               lieu of such designated beneficiary), the amount con-
+                                  12               tributed for such taxable year.’’.
+                                  13                         (2) CONFORMING                  AMENDMENTS.—
+
+                                  14                                  (A) Section 1324(b)(2) of title 31, United
+                                  15                         States Code, is amended by inserting ‘‘, 36C’’
+                                  16                         after ‘‘36B’’.
+                                  17                                  (B) The table of sections for subpart C of
+                                  18                         part IV of subchapter A of chapter 1 of the In-
+                                  19                         ternal Revenue Code of 1986 is amended by in-
+                                  20                         serting before the item relating to section 37
+                                  21                         the following new item:
+                                          ‘‘Sec. 36C. Offset for transaction tax on contributions to certain tax-favored ac-
+                                                           counts.’’.
+
+                                  22               (c) INFORMATION REPORTING WITH RESPECT                                          TO
+                                  23 CONTROLLED FOREIGN CORPORATIONS.—Subparagraph
+                                  24 (B) of section 6038(a)(1) is amended by inserting ‘‘and
+
+                                              •HR 880 IH
+
+                                                                                         12
+                                    1 transactions which are covered transactions for purposes
+                                    2 of section 4475 by reason of the application of section
+                                    3 4475(i)(1) to such corporation’’ before the semicolon at
+                                    4 the end.
+                                    5              (d) CLERICAL AMENDMENT.—The table of sub-
+                                    6 chapters for chapter 36 of the Internal Revenue Code of
+                                    7 1986 is amended by inserting after the item relating to
+                                    8 subchapter B the following new item:
+                                          ‘‘Subchapter C. Tax on trading transactions.’’.
+
+                                    9              (e) EFFECTIVE DATE.—The amendments made by
+                                  10 this section shall apply to transactions after December 31,
+                                  11 2013.    •HR 880 IH                                   Æ

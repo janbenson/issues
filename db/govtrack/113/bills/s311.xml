@@ -1,0 +1,41 @@
+<bill session="113" type="s" number="311" updated="2013-03-15T15:45:51-04:00">
+  <state datetime="2013-03-14">REPORTED</state>
+  <status>
+    <unknown datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-02-13"/>
+  <titles>
+    <title as="introduced" type="short">Lower Mississippi River Area Study Act</title>
+    <title as="introduced" type="official">A bill to direct the Secretary of the Interior to study the suitability and feasibility of designating sites in the Lower Mississippi River Area in the State of Louisiana as a unit of the National Park System, and for other purposes.</title>
+  </titles>
+  <sponsor id="300063"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-02-13">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S712-713"/>
+    </action>
+    <action state="REFERRED" datetime="2013-02-13">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2013-03-14">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Government studies and investigations"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Historical and cultural resources"/>
+    <term name="Louisiana"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2013--Introduced.
+Lower Mississippi River Area Study Act - Directs the Secretary of the Interior, through the National Park Service (NPS), to complete a special resource study that evaluates the national significance of a specified study area located in Plaquemines Parish in Louisiana, and the feasibility of designating such area as a unit of the National Park System. Requires such study to: (1) include cost estimates for the potential acquisition of the study area; and (2) identify alternatives for the management and protection of such area. Allows the Secretary to accept donated funds to carry out this Act.</summary>
+</bill>

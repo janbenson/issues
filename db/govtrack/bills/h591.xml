@@ -1,0 +1,27 @@
+<bill session="113" type="h" number="591" updated="2013-02-07T21:40:45-05:00">
+  <state datetime="2013-02-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-06"/>
+  </status>
+  <introduced datetime="2013-02-06"/>
+  <titles>
+    <title as="introduced" type="official">For the relief of Edi Orlando Garcia Armas.</title>
+  </titles>
+  <sponsor id="400310"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-06">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/6/2013--Introduced.
+Provides for the relief of Edi Orlando Garcia Armas.</summary>
+</bill>

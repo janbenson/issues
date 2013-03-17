@@ -1,0 +1,25 @@
+<bill session="113" type="h" number="1041" updated="2013-03-14T12:46:01-04:00">
+  <state datetime="2013-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-11"/>
+  </status>
+  <introduced datetime="2013-03-11"/>
+  <titles>
+    <title as="introduced" type="short">PRE-K Act</title>
+    <title as="introduced" type="short">Providing Resources Early for Kids Act of 2013</title>
+    <title as="introduced" type="official">To amend the Elementary and Secondary Education Act of 1965 to improve early education.</title>
+  </titles>
+  <sponsor id="400257"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-11">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

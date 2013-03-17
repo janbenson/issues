@@ -1,0 +1,27 @@
+<bill session="113" type="s" number="11" updated="2013-03-04T09:45:31-05:00">
+  <state datetime="2013-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-26"/>
+  </status>
+  <introduced datetime="2013-02-26"/>
+  <titles>
+    <title as="introduced" type="short">Fiscal Sustainability Act of 2013</title>
+    <title as="introduced" type="short">Medicare Total Health Act of 2013</title>
+    <title as="introduced" type="official">A bill to provide a comprehensive deficit reduction plan, and for other purposes.</title>
+  </titles>
+  <sponsor id="412248"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2013-02-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-26">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

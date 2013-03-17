@@ -1,0 +1,29 @@
+<bill session="113" type="s" number="547" updated="2013-03-14T04:45:39-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="official">A bill to prevent a fiscal crisis by enacting legislation to balance the Federal budget through reductions of discretionary and mandatory spending.</title>
+  </titles>
+  <sponsor id="300041"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2013-03-13"/>
+    <cosponsor id="400194" joined="2013-03-13"/>
+    <cosponsor id="412492" joined="2013-03-13"/>
+    <cosponsor id="412491" joined="2013-03-13"/>
+    <cosponsor id="400418" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-13">
+      <text>Read twice and referred to the Committee on the Budget.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBU" name="Senate Budget" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

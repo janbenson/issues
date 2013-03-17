@@ -1,0 +1,47 @@
+<bill session="113" type="s" number="371" updated="2013-03-09T06:16:46-05:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title as="introduced" type="short">Blackstone River Valley National Historical Park Establishment Act</title>
+    <title as="introduced" type="official">A bill to establish the Blackstone River Valley National Historical Park, to dedicate the Park to John H. Chafee, and for other purposes.</title>
+  </titles>
+  <sponsor id="300081"/>
+  <cosponsors>
+    <cosponsor id="412586" joined="2013-02-14"/>
+    <cosponsor id="412542" joined="2013-02-14"/>
+    <cosponsor id="412247" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S787"/>
+    </action>
+    <action state="REFERRED" datetime="2013-02-14">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="706"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Dams and canals"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Industrial facilities"/>
+    <term name="Lakes and rivers"/>
+    <term name="Massachusetts"/>
+    <term name="Members of Congress"/>
+    <term name="Monuments and memorials"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Rhode Island"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+</bill>

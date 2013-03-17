@@ -1,0 +1,43 @@
+<bill session="113" type="h" number="764" updated="2013-03-06T04:46:23-05:00">
+  <state datetime="2013-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-15"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title as="introduced" type="short">Coastal State Climate Change Planning Act</title>
+    <title as="introduced" type="official">To amend the Coastal Zone Management Act of 1972 to require the Secretary of Commerce to establish a coastal climate change adaptation planning and response program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400062"/>
+  <cosponsors>
+    <cosponsor id="412516" joined="2013-02-15"/>
+    <cosponsor id="400073" joined="2013-02-15"/>
+    <cosponsor id="400129" joined="2013-02-15"/>
+    <cosponsor id="400184" joined="2013-02-15"/>
+    <cosponsor id="412511" joined="2013-02-15"/>
+    <cosponsor id="412312" joined="2013-02-15"/>
+    <cosponsor id="412219" joined="2013-02-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H569"/>
+    </action>
+    <action state="REFERRED" datetime="2013-02-15">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-03-01">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII22" subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>2/15/2013--Introduced.
+Coastal State Climate Change Planning Act - Amends the Coastal Zone Management Act of 1972 to direct the Secretary of Commerce to establish a coastal climate change adaptation planning and response program to: (1) provide assistance to coastal states to voluntarily develop coastal climate change adaptation plans to minimize contributions to climate change and to prepare for and reduce the negative consequences that may result from climate change in the coastal zone, and (2) provide financial and technical assistance and training to enable coastal states to implement such plans through coastal states' enforceable policies. Authorizes the Secretary to make grants to coastal states to develop such plans and to support projects that implement strategies contained in such plans. Requires the Secretary to promote and encourage the use of National Estuarine Research Reserves as sites for pilot or demonstration projects carried out with such grants.</summary>
+</bill>

@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="911" updated="2013-03-04T18:45:36-05:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">Competitive Health Insurance Reform Act of 201</title>
+    <title as="introduced" type="official">To restore the application of the Federal antitrust laws to the business of health insurance to protect competition and consumers.</title>
+  </titles>
+  <sponsor id="412397"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

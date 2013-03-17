@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="1117" updated="2013-03-14T04:46:23-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Federal Election Campaign Act of 1971 to apply the ban on contributions and expenditures by foreign nationals to domestic corporations in which foreign principals have an ownership interest.</title>
+  </titles>
+  <sponsor id="412276"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-13">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

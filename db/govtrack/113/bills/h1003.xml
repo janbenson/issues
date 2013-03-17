@@ -1,0 +1,29 @@
+<bill session="113" type="h" number="1003" updated="2013-03-14T04:46:16-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="official">To improve consideration by the Commodity Futures Trading Commission of the costs and benefits of its regulations and orders.</title>
+  </titles>
+  <sponsor id="400655"/>
+  <cosponsors>
+    <cosponsor id="400145" joined="2013-03-06"/>
+    <cosponsor id="412226" joined="2013-03-06"/>
+    <cosponsor id="400644" joined="2013-03-06"/>
+    <cosponsor id="400363" joined="2013-03-06"/>
+    <cosponsor id="412522" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

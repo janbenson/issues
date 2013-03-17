@@ -1,0 +1,38 @@
+<bill session="113" type="s" number="156" updated="2013-02-27T04:46:09-05:00">
+  <state datetime="2013-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-28"/>
+  </status>
+  <introduced datetime="2013-01-28"/>
+  <titles>
+    <title as="introduced" type="short">Huna Tlingit Traditional Gull Egg Use Act</title>
+    <title as="introduced" type="official">A bill to allow for the harvest of gull eggs by the Huna Tlingit people within Glacier Bay National Park in the State of Alaska.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors>
+    <cosponsor id="412326" joined="2013-01-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S330"/>
+    </action>
+    <action state="REFERRED" datetime="2013-01-28">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Alaska"/>
+    <term name="Birds"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/2013--Introduced.
+Huna Tlingit Traditional Gull Egg Use Act - Authorizes the Secretary of the Interior to allow members of the Hoonah Indian Association to collect the eggs of glaucous-winged gulls up to two times a year at up to five locations within Alaska's Glacier Bay National Park. Requires collection schedules and locations to be based on an annual plan prepared jointly by the Secretary and the Hoonah Indian Association.</summary>
+</bill>

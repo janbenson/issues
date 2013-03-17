@@ -1,0 +1,27 @@
+<bill session="113" type="h" number="856" updated="2013-02-28T04:47:31-05:00">
+  <state datetime="2013-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-27"/>
+  </status>
+  <introduced datetime="2013-02-27"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to require the social security number of the student and the employer identification number of the educational institution for purposes of education tax credits.</title>
+  </titles>
+  <sponsor id="412478"/>
+  <cosponsors>
+    <cosponsor id="412310" joined="2013-02-27"/>
+    <cosponsor id="412314" joined="2013-02-27"/>
+    <cosponsor id="400627" joined="2013-02-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-27">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

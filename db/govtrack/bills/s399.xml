@@ -1,0 +1,53 @@
+<bill session="113" type="s" number="399" updated="2013-03-06T04:45:53-05:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">American Job Protection Act</title>
+    <title as="introduced" type="official">A bill to protect American job creation by striking the Federal mandate on employers to offer health insurance.</title>
+  </titles>
+  <sponsor id="300052"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2013-02-28"/>
+    <cosponsor id="412493" joined="2013-02-28"/>
+    <cosponsor id="412251" joined="2013-02-28"/>
+    <cosponsor id="400034" joined="2013-02-28"/>
+    <cosponsor id="400054" joined="2013-02-28"/>
+    <cosponsor id="300021" joined="2013-02-28"/>
+    <cosponsor id="402675" joined="2013-02-28"/>
+    <cosponsor id="400576" joined="2013-02-28"/>
+    <cosponsor id="300023" joined="2013-02-28"/>
+    <cosponsor id="300025" joined="2013-02-28"/>
+    <cosponsor id="300027" joined="2013-02-28"/>
+    <cosponsor id="300041" joined="2013-02-28"/>
+    <cosponsor id="412556" joined="2013-02-28"/>
+    <cosponsor id="400134" joined="2013-02-28"/>
+    <cosponsor id="300048" joined="2013-02-28"/>
+    <cosponsor id="412494" joined="2013-02-28"/>
+    <cosponsor id="300055" joined="2013-02-28"/>
+    <cosponsor id="400194" joined="2013-02-28"/>
+    <cosponsor id="412320" joined="2013-02-28"/>
+    <cosponsor id="400284" joined="2013-03-05"/>
+    <cosponsor id="400325" joined="2013-02-28"/>
+    <cosponsor id="412322" joined="2013-02-28"/>
+    <cosponsor id="300083" joined="2013-02-28"/>
+    <cosponsor id="412491" joined="2013-02-28"/>
+    <cosponsor id="400546" joined="2013-02-28"/>
+    <cosponsor id="400408" joined="2013-02-28"/>
+    <cosponsor id="400418" joined="2013-03-04"/>
+    <cosponsor id="400432" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

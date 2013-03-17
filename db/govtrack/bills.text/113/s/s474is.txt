@@ -1,0 +1,143 @@
+                                                                                                                                   II
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                            S. 474
+                                   To amend provisions in section 716 of the Dodd-Frank Wall Street Reform
+                                  and Consumer Protection Act relating to Federal assistance for swaps entities.
+
+
+
+
+                                              IN THE SENATE OF THE UNITED STATES
+                                                                  MARCH 6, 2013
+                                  Mrs. HAGAN (for herself, Mr. TOOMEY, Mr. WARNER, and Mr. JOHANNS) in-
+                                      troduced the following bill; which was read twice and referred to the Com-
+                                      mittee on Banking, Housing, and Urban Affairs
+
+
+
+
+                                                                            A BILL
+                                  To amend provisions in section 716 of the Dodd-Frank Wall
+                                     Street Reform and Consumer Protection Act relating
+                                     to Federal assistance for swaps entities.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Swaps Regulatory Im-
+                                    5 provement Act’’.
+
+
+
+
+
+                                    1     SEC. 2. REFORM OF PROHIBITION ON SWAP ACTIVITY AS- 2
+                                    2                             SISTANCE.
+                                    3              Section 716 of the Dodd-Frank Wall Street Reform
+                                    4 and Consumer Protection Act (15 U.S.C. 8305) is amend-
+                                    5 ed—
+                                    6                        (1) in subsection (b)—
+                                    7                                 (A) in paragraph (2)(B), by striking ‘‘in-
+                                    8                        sured depository institution’’ and inserting
+                                    9                        ‘‘covered depository institution’’; and
+                                  10                                  (B) by adding at the end the following:
+                                  11                         ‘‘(3) COVERED                       DEPOSITORY             INSTITUTION.—
+                                  12               The term ‘covered depository institution’ means—
+                                  13                                  ‘‘(A) an insured depository institution, as
+                                  14                         that term is defined in section 3 of the Federal
+                                  15                         Deposit Insurance Act (12 U.S.C. 1813); and
+                                  16                                  ‘‘(B) a United States uninsured branch or
+                                  17                         agency of a foreign bank.’’;
+                                  18                         (2) in subsection (c)—
+                                  19                                  (A) in the heading for such subsection, by
+                                  20                         striking ‘‘INSURED’’ and inserting ‘‘COVERED’’;
+                                  21                                  (B) by striking ‘‘an insured’’ and inserting
+                                  22                         ‘‘a covered’’;
+                                  23                                  (C) by striking ‘‘such insured’’ and insert-
+                                  24                         ing ‘‘such covered’’; and
+
+
+
+
+
+                                  25                                  (D) by striking ‘‘or savings and loan hold-
+                                  26                         ing company’’ and inserting ‘‘savings and loan
+                                              •S 474 IS
+
+                                                                                             3
+                                    1                        holding company, or foreign banking organiza-
+                                    2                        tion (as such term is defined under Regulation
+                                    3                        K of the Board of Governors of the Federal Re-
+                                    4                        serve System (12 C.F.R. 211.21(o)))’’;
+                                    5                        (3) by amending subsection (d) to read as fol-
+                                    6              lows:
+                                    7              ‘‘(d) ONLY BONA FIDE HEDGING                                    AND       TRADITIONAL
+                                    8 BANK ACTIVITIES PERMITTED.—
+                                    9                        ‘‘(1) IN         GENERAL.—The                      prohibition in sub-
+                                  10               section (a) shall not apply to any covered depository
+                                  11               institution that limits its swap and security-based
+                                  12               swap activities to the following:
+                                  13                                  ‘‘(A) HEDGING                AND OTHER SIMILAR RISK
+                                  14                         MITIGATION ACTIVITIES.—Hedging                                        and other
+                                  15                         similar risk mitigating activities directly related
+                                  16                         to the covered depository institution’s activities.
+                                  17                                  ‘‘(B) NON-STRUCTURED                              FINANCE        SWAP
+                                  18                         ACTIVITIES.—Acting                      as a swaps entity for
+                                  19                         swaps or security-based swaps other than a
+                                  20                         structured finance swap.
+                                  21                                  ‘‘(C)       CERTAIN                STRUCTURED                 FINANCE
+                                  22                         SWAP ACTIVITIES.—Acting                           as a swaps entity for
+                                  23                         swaps or security-based swaps that are struc-
+                                  24                         tured finance swaps, if—
+
+
+
+
+
+                                              •S 474 IS
+
+                                                                                             4
+                                    1                                         ‘‘(i) such structured finance swaps are
+                                    2                                 undertaken for hedging or risk manage-
+                                    3                                 ment purposes; or
+                                    4                                         ‘‘(ii) each asset-backed security under-
+                                    5                                 lying such structured finance swaps is of a
+                                    6                                 credit quality and of a type or category
+                                    7                                 with respect to which the prudential regu-
+                                    8                                 lators have jointly adopted rules author-
+                                    9                                 izing swap or security-based swap activity
+                                  10                                  by covered depository institutions.
+                                  11                         ‘‘(2) DEFINITIONS.—For purposes of this sub-
+                                  12               section:
+                                  13                                  ‘‘(A) STRUCTURED                      FINANCE SWAP.—The
+                                  14                         term ‘structured finance swap’ means a swap or
+                                  15                         security-based swap based on an asset-backed
+                                  16                         security (or group or index primarily comprised
+                                  17                         of asset-backed securities).
+                                  18                                  ‘‘(B)         ASSET-BACKED                       SECURITY.—The
+                                  19                         term ‘asset-backed security’ has the meaning
+                                  20                         given such term under section 3(a) of the Secu-
+                                  21                         rities Exchange Act of 1934 (15 U.S.C.
+                                  22                         78c(a)).’’;
+                                  23                         (4) in subsection (e), by striking ‘‘an insured’’
+                                  24               and inserting ‘‘a covered’’; and
+
+
+
+
+
+                                  25                         (5) in subsection (f)—
+
+
+                                              •S 474 IS
+
+                                                                                             5
+                                    1                                 (A) by striking ‘‘an insured depository’’
+                                    2                        and inserting ‘‘a covered depository’’; and
+                                    3                                 (B) by striking ‘‘the insured depository’’
+                                    4                        each place such term appears and inserting
+                                    5                        ‘‘the covered depository’’.
+                                              •S 474 IS                                    Æ

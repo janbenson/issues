@@ -1,0 +1,32 @@
+<bill session="113" type="s" number="408" updated="2013-03-05T18:45:28-05:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">Medicare Prescription Drug Savings and Choice Act of 2013</title>
+    <title as="introduced" type="official">A bill to amend title XVIII of the Social Security Act to deliver a meaningful benefit and lower prescription drug prices under the Medicare program.</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors>
+    <cosponsor id="300081" joined="2013-02-28"/>
+    <cosponsor id="412247" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1015-1016"/>
+    </action>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <reference ref="CR S1016-1017" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

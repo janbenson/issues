@@ -1,0 +1,29 @@
+<bill session="113" type="h" number="1086" updated="2013-03-15T09:46:19-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="short">Offshoring Prevention Act</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to provide for the taxation of income of controlled foreign corporations attributable to imported property.</title>
+  </titles>
+  <sponsor id="412470"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2013-03-12"/>
+    <cosponsor id="412215" joined="2013-03-12"/>
+    <cosponsor id="400162" joined="2013-03-12"/>
+    <cosponsor id="412219" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

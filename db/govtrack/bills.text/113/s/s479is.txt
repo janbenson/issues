@@ -1,0 +1,544 @@
+                                                                                                                                   II
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                            S. 479
+                                  To amend the Internal Revenue Code of 1986 to clarify the employment
+                                      tax treatment and reporting of wages paid by professional employer
+                                      organizations, and for other purposes.
+
+
+
+
+                                              IN THE SENATE OF THE UNITED STATES
+                                                                  MARCH 6, 2013
+                                  Mr. GRASSLEY (for himself, Mr. NELSON, Mr. PORTMAN, and Mr. PRYOR) in-
+                                      troduced the following bill; which was read twice and referred to the Com-
+                                      mittee on Finance
+
+
+
+
+                                                                            A BILL
+                                  To amend the Internal Revenue Code of 1986 to clarify
+                                     the employment tax treatment and reporting of wages
+                                     paid by professional employer organizations, and for
+                                     other purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Small Business Effi-
+                                    5 ciency Act’’.
+
+
+
+
+
+                                    1     SEC. 2. CERTIFIED PROFESSIONAL EMPLOYER ORGANIZA-  2
+                                    2                             TIONS.
+
+                                    3              (a) EMPLOYMENT TAXES.—Chapter 25 of the Inter-
+                                    4 nal Revenue Code of 1986 is amended by adding at the
+                                    5 end the following new section:
+                                    6     ‘‘SEC. 3511. CERTIFIED PROFESSIONAL EMPLOYER ORGANI-
+                                    7                             ZATIONS.
+                                    8              ‘‘(a) GENERAL RULES.—For purposes of the taxes,
+                                    9 and other obligations, imposed by this subtitle—
+                                  10                         ‘‘(1) a certified professional employer organiza-
+                                  11               tion shall be treated as the employer (and no other
+                                  12               person shall be treated as the employer) of any work
+                                  13               site employee performing services for any customer
+                                  14               of such organization, but only with respect to remu-
+                                  15               neration remitted by such organization to such work
+                                  16               site employee, and
+                                  17                         ‘‘(2) exclusions, definitions, and other rules
+                                  18               which are based on the type of employer and which
+                                  19               would (but for paragraph (1)) apply shall apply with
+                                  20               respect to such taxes imposed on such remuneration.
+                                  21               ‘‘(b) SUCCESSOR EMPLOYER STATUS.—For purposes
+                                  22 of sections 3121(a)(1), 3231(e)(2)(C), and 3306(b)(1)—
+                                  23                         ‘‘(1) a certified professional employer organiza-
+                                  24               tion entering into a service contract with a customer
+
+
+
+
+                                  25               with respect to a work site employee shall be treated
+                                  26               as a successor employer and the customer shall be
+                                              •S 479 IS
+
+                                                                                             3
+                                    1              treated as a predecessor employer during the term
+                                    2              of such service contract, and
+                                    3                        ‘‘(2) a customer whose service contract with a
+                                    4              certified professional employer organization is termi-
+                                    5              nated with respect to a work site employee shall be
+                                    6              treated as a successor employer and the certified
+                                    7              professional employer organization shall be treated
+                                    8              as a predecessor employer.
+                                    9              ‘‘(c) LIABILITY                OF    CERTIFIED PROFESSIONAL EM-
+                                  10      PLOYER           ORGANIZATION.—Solely for purposes of its liabil-
+                                  11 ity for the taxes, and other obligations, imposed by this
+                                  12 subtitle—
+                                  13                         ‘‘(1) a certified professional employer organiza-
+                                  14               tion shall be treated as the employer of any indi-
+                                  15               vidual (other than a work site employee or a person
+                                  16               described in subsection (f)) who is performing serv-
+                                  17               ices covered by a contract meeting the requirements
+                                  18               of section 7705(e)(2), but only with respect to remu-
+                                  19               neration remitted by such organization to such indi-
+                                  20               vidual, and
+                                  21                         ‘‘(2) exclusions, definitions, and other rules
+                                  22               which are based on the type of employer and which
+                                  23               would (but for paragraph (1)) apply shall apply with
+                                  24               respect to such taxes imposed on such remuneration.
+
+
+
+
+
+                                  25               ‘‘(d) TREATMENT OF CREDITS.—
+
+
+                                              •S 479 IS
+
+                                                                                             4
+                                    1                        ‘‘(1) IN       GENERAL.—For                    purposes of any credit
+                                    2              specified in paragraph (2)—
+                                    3                                 ‘‘(A) such credit with respect to a work
+                                    4                        site employee performing services for the cus-
+                                    5                        tomer applies to the customer, not the certified
+                                    6                        professional employer organization,
+                                    7                                 ‘‘(B) the customer, and not the certified
+                                    8                        professional employer organization, shall take
+                                    9                        into account wages and employment taxes—
+                                  10                                         ‘‘(i) paid by the certified professional
+                                  11                                  employer organization with respect to the
+                                  12                                  work site employee, and
+                                  13                                         ‘‘(ii) for which the certified profes-
+                                  14                                  sional employer organization receives pay-
+                                  15                                  ment from the customer, and
+                                  16                                  ‘‘(C) the certified professional employer or-
+                                  17                         ganization shall furnish the customer with any
+                                  18                         information necessary for the customer to claim
+                                  19                         such credit.
+                                  20                         ‘‘(2) CREDITS             SPECIFIED.—A                  credit is specified
+                                  21               in this paragraph if such credit is allowed under—
+                                  22                                  ‘‘(A) section 41 (credit for increasing re-
+                                  23                         search activity),
+                                  24                                  ‘‘(B) section 45A (Indian employment
+
+
+
+
+                                  25                         credit),
+                                              •S 479 IS
+
+                                                                                             5
+                                    1                                 ‘‘(C) section 45B (credit for portion of em-
+                                    2                        ployer social security taxes paid with respect to
+                                    3                        employee cash tips),
+                                    4                                 ‘‘(D) section 45C (clinical testing expenses
+                                    5                        for certain drugs for rare diseases or condi-
+                                    6                        tions),
+                                    7                                 ‘‘(E) section 45R (employee health insur-
+                                    8                        ance expenses of small employers),
+                                    9                                 ‘‘(F) section 51 (work opportunity credit),
+                                  10                                  ‘‘(G) section 51A (temporary incentives for
+                                  11                         employing long-term family assistance recipi-
+                                  12                         ents),
+                                  13                                  ‘‘(H) section 1396 (empowerment zone em-
+                                  14                         ployment credit),
+                                  15                                  ‘‘(I) 1400(d) (DC Zone employment cred-
+                                  16                         it),
+                                  17                                  ‘‘(J) Section 1400H (renewal community
+                                  18                         employment credit), and
+                                  19                                  ‘‘(K) any other section as provided by the
+                                  20                         Secretary.
+                                  21               ‘‘(e) SPECIAL RULE                        FOR         RELATED PARTY.—This
+                                  22 section shall not apply in the case of a customer which
+                                  23 bears a relationship to a certified professional employer
+                                  24 organization described in section 267(b) or 707(b). For
+
+
+
+
+
+                                              •S 479 IS
+
+                                                                                             6
+                                    1 purposes of the preceding sentence, such sections shall be
+                                    2 applied by substituting ‘10 percent’ for ‘50 percent’.
+                                    3              ‘‘(f) SPECIAL RULE                        FOR    CERTAIN INDIVIDUALS.—
+                                    4 For purposes of the taxes imposed under this subtitle, an
+                                    5 individual with net earnings from self-employment derived
+                                    6 from the customer’s trade or business is not a work site
+                                    7 employee with respect to remuneration paid by a certified
+                                    8 professional employer organization.
+                                    9              ‘‘(g) REGULATIONS.—The Secretary shall prescribe
+                                  10 such regulations as may be necessary or appropriate to
+                                  11 carry out the purposes of this section.’’.
+                                  12               (b) CERTIFIED PROFESSIONAL EMPLOYER ORGANI-
+                                  13      ZATION           DEFINED.—Chapter 79 of the Internal Revenue
+                                  14 Code of 1986 is amended by adding at the end the fol-
+                                  15 lowing new section:
+                                  16      ‘‘SEC. 7705. CERTIFIED PROFESSIONAL EMPLOYER ORGANI-
+                                  17                              ZATIONS DEFINED.
+                                  18               ‘‘(a) IN GENERAL.—For purposes of this title, the
+                                  19 term ‘certified professional employer organization’ means
+                                  20 a person who has been certified by the Secretary for pur-
+                                  21 poses of section 3511 as meeting the requirements of sub-
+                                  22 section (b).
+                                  23               ‘‘(b) GENERAL REQUIREMENTS.—A person meets the
+                                  24 requirements of this subsection if such person—
+
+
+
+
+
+                                              •S 479 IS
+
+                                                                                             7
+                                    1                        ‘‘(1) demonstrates that such person (and any
+                                    2              owner, officer, and such other persons as may be
+                                    3              specified in regulations) meets such requirements as
+                                    4              the Secretary shall establish with respect to tax sta-
+                                    5              tus, background, experience, business location, and
+                                    6              annual financial audits,
+                                    7                        ‘‘(2) computes its taxable income using an ac-
+                                    8              crual method of accounting unless the Secretary ap-
+                                    9              proves another method,
+                                  10                         ‘‘(3) agrees that it will satisfy the bond and
+                                  11               independent financial review requirements of sub-
+                                  12               section (c) on an ongoing basis,
+                                  13                         ‘‘(4) agrees that it will satisfy such reporting
+                                  14               obligations as may be imposed by the Secretary,
+                                  15                         ‘‘(5) agrees to verify on such periodic basis as
+                                  16               the Secretary may prescribe that it continues to
+                                  17               meet the requirements of this subsection, and
+                                  18                         ‘‘(6) agrees to notify the Secretary in writing
+                                  19               within such time as the Secretary may prescribe of
+                                  20               any change that materially affects whether it con-
+                                  21               tinues to meet the requirements of this subsection.
+                                  22               ‘‘(c) BOND            AND       INDEPENDENT FINANCIAL REVIEW
+                                  23 REQUIREMENTS.—
+                                              •S 479 IS
+
+                                                                                             8
+                                    1                        ‘‘(1) IN       GENERAL.—An                    organization meets the
+                                    2              requirements of this paragraph if such organiza-
+                                    3              tion—
+                                    4                                 ‘‘(A) meets the bond requirements of para-
+                                    5                        graph (2), and
+                                    6                                 ‘‘(B) meets the independent financial re-
+                                    7                        view requirements of paragraph (3).
+                                    8                        ‘‘(2) BOND.—
+                                    9                                 ‘‘(A) IN          GENERAL.—A                     certified profes-
+                                  10                         sional employer organization meets the require-
+                                  11                         ments of this paragraph if the organization has
+                                  12                         posted a bond for the payment of taxes under
+                                  13                         subtitle C (in a form acceptable to the Sec-
+                                  14                         retary) in an amount at least equal to the
+                                  15                         amount specified in subparagraph (B).
+                                  16                                  ‘‘(B) AMOUNT                OF BOND.—For                     the period
+                                  17                         April 1 of any calendar year through March 31
+                                  18                         of the following calendar year, the amount of
+                                  19                         the bond required is equal to the greater of—
+                                  20                                         ‘‘(i) 5 percent of the organization’s li-
+                                  21                                  ability under section 3511 for taxes im-
+                                  22                                  posed by subtitle C during the preceding
+                                  23                                  calendar           year            (but        not           to   exceed
+                                  24                                  $1,000,000), or
+
+
+
+
+
+                                  25                                         ‘‘(ii) $50,000.
+
+
+                                              •S 479 IS
+
+                                    1                        ‘‘(3) INDEPENDENT           9               FINANCIAL            REVIEW   RE-
+                                    2              QUIREMENTS.—A                     certified professional employer or-
+                                    3              ganization meets the requirements of this paragraph
+                                    4              if such organization—
+                                    5                                 ‘‘(A) has, as of the most recent review
+                                    6                        date, caused to be prepared and provided to the
+                                    7                        Secretary (in such manner as the Secretary
+                                    8                        may prescribe) an opinion of an independent
+                                    9                        certified public accountant that the certified
+                                  10                         professional employer organization’s financial
+                                  11                         statements are presented fairly in accordance
+                                  12                         with generally accepted accounting principles,
+                                  13                         and
+                                  14                                  ‘‘(B) provides, not later than the last day
+                                  15                         of the second month beginning after the end of
+                                  16                         each calendar quarter, to the Secretary from an
+                                  17                         independent certified public accountant an as-
+                                  18                         sertion regarding Federal employment tax pay-
+                                  19                         ments and an examination level attestation on
+                                  20                         such assertion.
+                                  21               Such assertion shall state that the organization has
+                                  22               withheld and made deposits of all taxes imposed by
+                                  23               chapters 21, 22, and 24 of the Internal Revenue
+                                  24               Code in accordance with regulations imposed by the
+
+
+
+
+                                  25               Secretary for such calendar quarter and such exam-
+                                              •S 479 IS
+
+                                                                                         10
+                                    1              ination level attestation shall state that such asser-
+                                    2              tion is fairly stated, in all material respects.
+                                    3                        ‘‘(4) CONTROLLED                      GROUP RULES.—For                pur-
+                                    4              poses of the requirements of paragraphs (2) and (3),
+                                    5              all professional employer organizations that are
+                                    6              members of a controlled group within the meaning
+                                    7              of sections 414(b) and (c) shall be treated as a sin-
+                                    8              gle organization.
+                                    9                        ‘‘(5) FAILURE              TO FILE ASSERTION AND ATTES-
+                                  10               TATION.—If              the certified professional employer orga-
+                                  11               nization fails to file the assertion and attestation re-
+                                  12               quired by paragraph (3) with respect to any cal-
+                                  13               endar quarter, then the requirements of paragraph
+                                  14               (3) with respect to such failure shall be treated as
+                                  15               not satisfied for the period beginning on the due
+                                  16               date for such attestation.
+                                  17                         ‘‘(6) REVIEW               DATE.—For                 purposes of para-
+                                  18               graph (3)(A), the review date shall be 6 months
+                                  19               after the completion of the organization’s fiscal year.
+                                  20               ‘‘(d) SUSPENSION                   AND       REVOCATION AUTHORITY.—
+                                  21 The Secretary may suspend or revoke a certification of
+                                  22 any person under subsection (b) for purposes of section
+                                  23 3511 if the Secretary determines that such person is not
+                                  24 satisfying the representations or requirements of sub-
+
+
+
+
+
+                                              •S 479 IS
+
+                                                                                         11
+                                    1 sections (b) or (c), or fails to satisfy applicable accounting,
+                                    2 reporting, payment, or deposit requirements.
+                                    3              ‘‘(e) WORK SITE EMPLOYEE.—For purposes of this
+                                    4 title—
+                                    5                        ‘‘(1) IN        GENERAL.—The                     term ‘work site em-
+                                    6              ployee’ means, with respect to a certified profes-
+                                    7              sional employer organization, an individual who—
+                                    8                                 ‘‘(A) performs services for a customer pur-
+                                    9                        suant to a contract which is between such cus-
+                                  10                         tomer and the certified professional employer
+                                  11                         organization and which meets the requirements
+                                  12                         of paragraph (2), and
+                                  13                                  ‘‘(B) performs services at a work site
+                                  14                         meeting the requirements of paragraph (3).
+                                  15                         ‘‘(2) SERVICE               CONTRACT REQUIREMENTS.—A
+                                  16               contract meets the requirements of this paragraph
+                                  17               with respect to an individual performing services for
+                                  18               a customer if such contract is in writing and pro-
+                                  19               vides that the certified professional employer organi-
+                                  20               zation shall—
+                                  21                                  ‘‘(A) assume responsibility for payment of
+                                  22                         wages to such individual, without regard to the
+                                  23                         receipt or adequacy of payment from the cus-
+                                  24                         tomer for such services,
+
+
+
+
+
+                                              •S 479 IS
+
+                                                                                         12
+                                    1                                 ‘‘(B) assume responsibility for reporting,
+                                    2                        withholding, and paying any applicable taxes
+                                    3                        under subtitle C, with respect to such individ-
+                                    4                        ual’s wages, without regard to the receipt or
+                                    5                        adequacy of payment from the customer for
+                                    6                        such services,
+                                    7                                 ‘‘(C) assume responsibility for any em-
+                                    8                        ployee benefits which the service contract may
+                                    9                        require the organization to provide, without re-
+                                  10                         gard to the receipt or adequacy of payment
+                                  11                         from the customer for such services,
+                                  12                                  ‘‘(D) assume responsibility for hiring, fir-
+                                  13                         ing, and recruiting workers in addition to the
+                                  14                         customer’s responsibility for hiring, firing and
+                                  15                         recruiting workers,
+                                  16                                  ‘‘(E) maintain employee records relating to
+                                  17                         such individual, and
+                                  18                                  ‘‘(F) agree to be treated as a certified pro-
+                                  19                         fessional employer organization for purposes of
+                                  20                         section 3511 with respect to such individual.
+                                  21                         ‘‘(3) WORK             SITE COVERAGE REQUIREMENT.—
+                                  22               The requirements of this paragraph are met with re-
+                                  23               spect to an individual if at least 85 percent of the
+                                  24               individuals performing services for the customer at
+
+
+
+
+                                  25               the work site where such individual performs serv-
+                                              •S 479 IS
+
+                                                                                         13
+                                    1              ices are subject to 1 or more contracts with the cer-
+                                    2              tified professional employer organization which meet
+                                    3              the requirements of paragraph (2) (but not taking
+                                    4              into account those individuals who are excluded em-
+                                    5              ployees within the meaning of section 414(q)(5)).
+                                    6              ‘‘(f) DETERMINATION                        OF     EMPLOYMENT STATUS.—
+                                    7 Except to the extent necessary for purposes of section
+                                    8 3511, nothing in this section shall be construed to affect
+                                    9 the determination of who is an employee or employer for
+                                  10 purposes of this title.
+                                  11               ‘‘(g) REGULATIONS.—The Secretary shall prescribe
+                                  12 such regulations as may be necessary or appropriate to
+                                  13 carry out the purposes of this section.’’.
+                                  14               (c) CONFORMING AMENDMENTS.—
+                                  15                         (1) Section 3302 of the Internal Revenue Code
+                                  16               of 1986 is amended by adding at the end the fol-
+                                  17               lowing new subsection:
+                                  18               ‘‘(h) TREATMENT OF CERTIFIED PROFESSIONAL EM-
+                                  19      PLOYER           ORGANIZATIONS.—If a certified professional em-
+                                  20 ployer organization (as defined in section 7705), or a cus-
+                                  21 tomer of such organization, makes a contribution to the
+                                  22 State’s unemployment fund with respect to a work site
+                                  23 employee, such organization shall be eligible for the credits
+                                  24 available under this section with respect to such contribu-
+
+
+
+
+                                  25 tion.’’.
+                                              •S 479 IS
+
+                                                                                         14
+                                    1                        (2) Section 3303(a) of such Code is amended—
+                                    2                                 (A) by striking the period at the end of
+                                    3                        paragraph (3) and inserting ‘‘; and’’ and by in-
+                                    4                        serting after paragraph (3) the following new
+                                    5                        paragraph:
+                                    6                        ‘‘(4) if the taxpayer is a certified professional
+                                    7              employer organization (as defined in section 7705)
+                                    8              that is treated as the employer under section 3511,
+                                    9              such certified professional employer organization is
+                                  10               permitted to collect and remit, in accordance with
+                                  11               paragraphs (1), (2), and (3), contributions during
+                                  12               the taxable year to the State unemployment fund
+                                  13               with respect to a work site employee.’’, and
+                                  14                                  (B) in the last sentence—
+                                  15                                         (i) by striking ‘‘paragraphs (1), (2),
+                                  16                                  and (3)’’ and inserting ‘‘paragraphs (1),
+                                  17                                  (2), (3), and (4)’’, and
+                                  18                                         (ii) by striking ‘‘paragraph (1), (2), or
+                                  19                                  (3)’’ and inserting ‘‘paragraph (1), (2),
+                                  20                                  (3), or (4)’’.
+                                  21                         (3) Section 6053(c) of such Code is amended by
+                                  22               adding at the end the following new paragraph:
+                                  23                         ‘‘(8) CERTIFIED                 PROFESSIONAL EMPLOYER OR-
+                                  24               GANIZATIONS.—For                      purposes of any report required
+
+
+
+
+                                  25               by this subsection, in the case of a certified profes-
+                                              •S 479 IS
+
+                                                                                         15
+                                    1              sional employer organization that is treated under
+                                    2              section 3511 as the employer of a work site em-
+                                    3              ployee, the customer with respect to whom a work
+                                    4              site employee performs services shall be the employer
+                                    5              for purposes of reporting under this section and the
+                                    6              certified professional employer organization shall
+                                    7              furnish to the customer any information necessary
+                                    8              to complete such reporting no later than such time
+                                    9              as the Secretary shall prescribe.’’.
+                                  10               (d) CLERICAL AMENDMENTS.—
+                                  11                         (1) The table of sections for chapter 25 of the
+                                  12               Internal Revenue Code of 1986 is amended by add-
+                                  13               ing at the end the following new item:
+                                          ‘‘Sec. 3511. Certified professional employer organizations.’’.
+
+                                  14                         (2) The table of sections for chapter 79 of such
+                                  15               Code is amended by inserting after the item relating
+                                  16               to section 7704 the following new item:
+                                          ‘‘Sec. 7705. Certified professional employer organizations defined.’’.
+
+                                  17               (e)       REPORTING                 REQUIREMENTS                         AND    OBLIGA-
+                                  18      TIONS.—The                  Secretary of the Treasury shall develop such
+                                  19 reporting and recordkeeping rules, regulations, and proce-
+                                  20 dures as the Secretary determines necessary or appro-
+                                  21 priate to ensure compliance with the amendments made
+                                  22 by this section with respect to entities applying for certifi-
+
+
+
+
+                                  23 cation as certified professional employer organizations or
+                                              •S 479 IS
+
+                                                                                         16
+                                    1 entities that have been so certified. Such rules shall in-
+                                    2 clude—
+                                    3                        (1) notification of the Secretary in the case of
+                                    4              the commencement or termination of a service con-
+                                    5              tract described in section 7705(e)(2) of the Internal
+                                    6              Revenue Code of 1986 between such a person and
+                                    7              a customer, and the employer identification number
+                                    8              of such customer, and
+                                    9                        (2) such other information as the Secretary de-
+                                  10               termines is essential to promote compliance with re-
+                                  11               spect to the credits identified in section 3511(d) of
+                                  12               such Code, and
+                                  13 shall be designed in a manner which streamlines, to the
+                                  14 extent possible, the application of requirements of such
+                                  15 amendments, the exchange of information between a cer-
+                                  16 tified professional employer organization and its cus-
+                                  17 tomers, and the reporting and recordkeeping obligations
+                                  18 of the certified professional employer organization.
+                                  19               (f) USER FEES.—Subsection (b) of section 7528 of
+                                  20 the Internal Revenue Code of 1986 is amended by adding
+                                  21 at the end the following new paragraph:
+                                  22                         ‘‘(4) CERTIFIED                 PROFESSIONAL EMPLOYER OR-
+                                  23               GANIZATIONS.—The                          annual fee charged under the
+                                  24               program in connection with the ongoing certification
+
+
+
+
+
+                                              •S 479 IS
+
+                                                                                         17
+                                    1              by the Secretary of a professional employer organi-
+                                    2              zation under section 7705 shall not exceed $1,000.’’.
+                                    3              (g) EFFECTIVE DATES.—
+                                    4                        (1) IN        GENERAL.—The                     amendments made by
+                                    5              this section shall apply with respect to wages for
+                                    6              services performed on or after January 1 of the first
+                                    7              calendar year beginning more than 12 months after
+                                    8              the date of the enactment of this Act.
+                                    9                        (2) CERTIFICATION                     PROGRAM.—The                    Secretary
+                                  10               of the Treasury shall establish the certification pro-
+                                  11               gram described in section 7705(b) of the Internal
+                                  12               Revenue Code of 1986, as added by subsection (b),
+                                  13               not later than 6 months before the effective date de-
+                                  14               termined under paragraph (1).
+                                  15               (h) NO INFERENCE.—Nothing contained in this sec-
+                                  16 tion or the amendments made by this section shall be con-
+                                  17 strued to create any inference with respect to the deter-
+                                  18 mination of who is an employee or employer—
+                                  19                         (1) for Federal tax purposes (other than the
+                                  20               purposes set forth in the amendments made by this
+                                  21               section), or
+                                  22                         (2) for purposes of any other provision of law.
+                                              •S 479 IS                                    Æ

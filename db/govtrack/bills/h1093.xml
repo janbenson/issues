@@ -1,0 +1,29 @@
+<bill session="113" type="h" number="1093" updated="2013-03-13T04:46:42-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="official">To direct the Assistant Secretary of Homeland Security (Transportation Security Administration) to prohibit airplane passengers from bringing aboard a passenger aircraft any item that was prohibited as of March 1, 2013.</title>
+  </titles>
+  <sponsor id="400253"/>
+  <cosponsors>
+    <cosponsor id="400162" joined="2013-03-12"/>
+    <cosponsor id="412451" joined="2013-03-12"/>
+    <cosponsor id="400249" joined="2013-03-12"/>
+    <cosponsor id="400289" joined="2013-03-12"/>
+    <cosponsor id="412319" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

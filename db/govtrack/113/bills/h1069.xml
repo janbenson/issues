@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="1069" updated="2013-03-15T09:46:15-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="short">TANF Substance Abuse Prevention Act</title>
+    <title as="introduced" type="official">To amend title IV of the Social Security Act to require States to implement a drug screening and testing program for applicants for and recipients of assistance under the Temporary Assistance for Needy Families (TANF) program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400636"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

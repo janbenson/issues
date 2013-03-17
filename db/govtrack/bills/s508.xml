@@ -1,0 +1,26 @@
+<bill session="113" type="s" number="508" updated="2013-03-12T09:46:27-04:00">
+  <state datetime="2013-03-07">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-07"/>
+  </status>
+  <introduced datetime="2013-03-07"/>
+  <titles>
+    <title as="introduced" type="short">Strengthen and Vitalize Enforcement of Child Support (SAVE Child Support) Act</title>
+    <title as="introduced" type="official">A bill to amend part D of title IV of the Social Security Act to improve the enforcement, collection, and administration of child support payments, and for other purposes.</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors>
+    <cosponsor id="300048" joined="2013-03-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-07">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

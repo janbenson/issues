@@ -1,0 +1,31 @@
+<bill session="113" type="h" number="884" updated="2013-03-04T15:45:37-05:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">Members of Congress Tax Accountability Act of 2013</title>
+    <title as="introduced" type="official">To require Members of Congress to disclose delinquent tax liability and to require an ethics inquiry into, and the garnishment of the wages of, a Member with Federal tax liability.</title>
+  </titles>
+  <sponsor id="412270"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to House Administration</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to House Rules</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

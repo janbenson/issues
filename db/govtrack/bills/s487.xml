@@ -1,0 +1,24 @@
+<bill session="113" type="s" number="487" updated="2013-03-12T09:46:27-04:00">
+  <state datetime="2013-03-07">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-07"/>
+  </status>
+  <introduced datetime="2013-03-07"/>
+  <titles>
+    <title as="introduced" type="short">Driver Fatigue Prevention Act</title>
+    <title as="introduced" type="official">A bill to amend the Fair Labor Standards Act of 1938 to provide that over-the-road bus drivers are covered under the maximum hours requirements.</title>
+  </titles>
+  <sponsor id="300087"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-07">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

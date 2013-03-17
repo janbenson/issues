@@ -1,0 +1,30 @@
+<bill session="113" type="sc" number="6" updated="2013-03-12T04:46:05-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution supporting the Local Radio Freedom Act.</title>
+  </titles>
+  <sponsor id="412251"/>
+  <cosponsors>
+    <cosponsor id="412554" joined="2013-03-06"/>
+    <cosponsor id="300055" joined="2013-03-07"/>
+    <cosponsor id="300083" joined="2013-03-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Referred to the Committee on Finance.</text>
+      <reference ref="CR S1237-1238" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="hc" number="16"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

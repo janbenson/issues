@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<body status="rfs" difference-size-chars="632" percent-change="43" total-changes="5" previous-status="ih">
+  <p nid="t0:rfs:1" tracking-nids="t0:ih:1">HR 338 <changed sequence="1"><changed-from>IH</changed-from><changed-to>RFS</changed-to></changed></p>
+  <p/>
+  <center>
+    <p nid="t0:rfs:2">113th CONGRESS</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:rfs:3" tracking-nids="t0:ih:3">1st Session</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:rfs:4" tracking-nids="t0:ih:4">H. R. 338</p>
+  </center>
+  <p/>
+  <inserted sequence="2">
+    <center>
+      <p nid="t0:rfs:5">IN THE SENATE OF THE UNITED STATES</p>
+    </center>
+    <p/>
+    <h3 nid="t0:rfs:6">
+      <center>
+        <p nid="t0:rfs:7">March 7, 2013</p>
+      </center>
+    </h3>
+  </inserted>
+  <p nid="t0:rfs:8"><inserted sequence="3">Received; read twice and</inserted> referred to the Committee on the Judiciary</p>
+  <hr/>
+  <p/>
+  <center>
+    <p nid="t0:rfs:9">A<changed sequence="4"><changed-from> BILL</changed-from><changed-to>N ACT</changed-to></changed></p>
+  </center>
+  <p nid="t0:rfs:10">To amend title 18, United States Code, to include certain territories and possessions of the United States in the definition of State for the purposes of chapter 114, relating to trafficking in contraband cigarettes and smokeless tobacco.</p>
+  <ul>
+    <p nid="t0:rfs:11" tracking-nids="t0:ih:12">
+      <em>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</em>
+    </p>
+  </ul>
+  <p/>
+  <h3 nid="t0:rfs:12" tracking-nids="t0:ih:13">SECTION 1. SHORT TITLE.</h3>
+  <ul>
+    <p nid="t0:rfs:13" tracking-nids="t0:ih:14">This Act may be cited as the &#x2018;Stop Tobacco Smuggling in the Territories Act of 2013&#x2019;.</p>
+  </ul>
+  <p/>
+  <h3 nid="t0:rfs:14" tracking-nids="t0:ih:15">SEC. 2. TERRITORIES AND POSSESSIONS OF THE UNITED STATES INCLUDED IN THE DEFINITION OF STATE FOR THE PURPOSES OF THE PROHIBITION AGAINST TRAFFICKING IN CONTRABAND CIGARETTES AND SMOKELESS TOBACCO.</h3>
+  <ul>
+    <p nid="t0:rfs:15">Paragraph (4) of <usc-reference title="18" section="2341" paragraph=""><usc-reference title="18" section="2341" paragraph="">section 2341 of title 18, United States Code</usc-reference></usc-reference>, is amended by striking &#x2018;or the Virgin Islands&#x2019; and inserting &#x2018;the Virgin Islands, American Samoa, the Commonwealth of the Northern Mariana Islands, or Guam&#x2019;.</p>
+  </ul>
+  <inserted sequence="5">
+    <p nid="t0:rfs:16">Passed the House of Representatives March 5, 2013.</p>
+    <p nid="t0:rfs:17">Attest:</p>
+    <p nid="t0:rfs:18">KAREN L. HAAS,</p>
+    <p nid="t0:rfs:19">Clerk.</p>
+  </inserted>
+</body>

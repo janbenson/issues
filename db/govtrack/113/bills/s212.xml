@@ -1,0 +1,32 @@
+<bill session="113" type="s" number="212" updated="2013-02-27T04:46:23-05:00">
+  <state datetime="2013-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-04"/>
+  </status>
+  <introduced datetime="2013-02-04"/>
+  <titles>
+    <title as="introduced" type="official">A bill to approve the transfer of Yellow Creek Port properties in Iuka, Mississippi.</title>
+  </titles>
+  <sponsor id="300023"/>
+  <cosponsors>
+    <cosponsor id="400432" joined="2013-02-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-04">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Land transfers"/>
+    <term name="Mississippi"/>
+    <term name="Navigation, waterways, harbors"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2013--Introduced.
+Approves the conveyance by the Tennessee Valley Authority (TVA) to the state of Mississippi of the federally-owned Yellow Creek Port properties in the custody of the TVA at Iuka, Mississippi.</summary>
+</bill>

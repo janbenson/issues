@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="556" updated="2013-03-15T04:46:49-04:00">
+  <state datetime="2013-02-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-06"/>
+  </status>
+  <introduced datetime="2013-02-06"/>
+  <titles>
+    <title as="introduced" type="short">Refundable Child Tax Credit Eligibility Verification Reform Act of 2013</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to require individuals to include their social security numbers on the income tax return as a condition of claiming the refundable portion of the child tax credit, and for other purposes.</title>
+  </titles>
+  <sponsor id="400206"/>
+  <cosponsors>
+    <cosponsor id="412290" joined="2013-03-14"/>
+    <cosponsor id="412417" joined="2013-03-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-06">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Income tax credits"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Tax treatment of families"/>
+  </subjects>
+  <amendments/>
+</bill>

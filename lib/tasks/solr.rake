@@ -1,5 +1,5 @@
 namespace :solr do
-
+SOLR_PATH = ENV['SOLR_PATH']
   desc "Rebuild the solr index"
   task :rebuild => :environment do
     require File.dirname(__FILE__) + '/../../app/controllers/application_controller'

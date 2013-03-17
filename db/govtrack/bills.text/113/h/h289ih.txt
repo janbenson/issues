@@ -1,0 +1,1492 @@
+                                                                                                                                                                 I
+
+
+
+
+                                                                113TH CONGRESS
+                                                                   1ST SESSION                           H. R. 289
+                                                                To amend the National Voter Registration Act of 1993 to modernize State
+                                                                    voting systems by allowing for increased use of the Internet in voter
+                                                                    registration, and for other purposes.
+
+
+
+
+                                                                              IN THE HOUSE OF REPRESENTATIVES
+                                                                                                    JANUARY 15, 2013
+                                                                Mr. MORAN          introduced the following bill; which was referred to the Committee
+                                                                                                 on House Administration
+
+
+
+
+                                                                                                          A BILL
+                                                                To amend the National Voter Registration Act of 1993 to
+                                                                   modernize State voting systems by allowing for increased
+                                                                   use of the Internet in voter registration, and for other
+                                                                   purposes.
+                                                                  1               Be it enacted by the Senate and House of Representa-
+                                                                  2 tives of the United States of America in Congress assembled,
+                                                                  3     SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+                                                                  4               (a) SHORT TITLE.—This Act may be cited as the
+                                                                  5 ‘‘Value Our Time Elections Act’’ or the ‘‘VOTE Act’’.
+                                                                  6               (b) TABLE           OF    CONTENTS.—The table of contents for
+pwalker on DSK7TPTVN1PROD with                                    7 this Act is as follows:
+                                                                        Sec. 1. Short title; table of contents.
+
+                                                                                         TITLE I—PROMOTING INTERNET REGISTRATION
+
+
+
+                                                                                                                           2
+                                                                        Sec. 101. Requiring availability of Internet for voter registration.
+                                                                        Sec. 102. Use of Internet to update registration information.
+
+                                                                        TITLE II—AUTOMATED REGISTRATION OF CERTAIN INDIVIDUALS
+
+                                                                        Sec.    201.     Automated voter registration.
+                                                                        Sec.    202.     List maintenance, privacy, and security.
+                                                                        Sec.    203.     Promoting accuracy of Statewide voter registration lists.
+                                                                        Sec.    204.     Definitions.
+
+                                                                        TITLE III—SHORTENING VOTER WAIT TIMES AND EARLY VOTING
+
+                                                                        Sec. 301. Equitable allocation of voting systems, poll workers, and election re-
+                                                                                        sources.
+                                                                        Sec. 302. Early voting.
+                                                                        Sec. 303. Conforming amendment to enforcement provision.
+
+                                                                                                    TITLE IV—GENERAL PROVISIONS
+
+                                                                        Sec. 401. Effective date.
+                                                                  1         TITLE I—PROMOTING INTERNET
+                                                                  2                 REGISTRATION
+                                                                  3     SEC. 101. REQUIRING AVAILABILITY OF INTERNET FOR
+                                                                  4                             VOTER REGISTRATION.
+                                                                  5               (a) REQUIRING AVAILABILITY                                   OF     INTERNET        FOR
+                                                                  6 REGISTRATION.—The National Voter Registration Act of
+                                                                  7 1993 (42 U.S.C. 1973gg et seq.) is amended by inserting
+                                                                  8 after section 6 the following new section:
+                                                                  9     ‘‘SEC. 6A. INTERNET REGISTRATION.
+
+                                                                10                ‘‘(a) REQUIRING AVAILABILITY                                  OF        INTERNET    FOR
+                                                                11 ONLINE REGISTRATION.—
+                                                                12                         ‘‘(1) AVAILABILITY                          OF     ONLINE             REGISTRA-
+                                                                13                TION.—Each               State, acting through the chief State
+                                                                14                election official, shall ensure that the following serv-
+pwalker on DSK7TPTVN1PROD with                                  15                ices are available to the public at any time on the
+                                                                16                official public websites of the appropriate State and
+                                                                17                local election officials in the State, in the same man-
+                                                                             •HR 289 IH
+
+                                                                                                                           3
+                                                                  1               ner and subject to the same terms and conditions as
+                                                                  2               the services provided by voter registration agencies
+                                                                  3               under section 7(a):
+                                                                  4                                 ‘‘(A) Online application for voter registra-
+                                                                  5                        tion.
+                                                                  6                                 ‘‘(B) Online assistance to applicants in ap-
+                                                                  7                        plying to register to vote.
+                                                                  8                                 ‘‘(C) Online completion and submission by
+                                                                  9                        applicants of the mail voter registration applica-
+                                                                10                         tion form prescribed by the Election Assistance
+                                                                11                         Commission pursuant to section 9(a)(2), includ-
+                                                                12                         ing assistance with providing a signature in
+                                                                13                         electronic form as required under subsection
+                                                                14                         (c).
+                                                                15                                  ‘‘(D) Online receipt of completed voter reg-
+                                                                16                         istration applications.
+                                                                17                ‘‘(b) ACCEPTANCE                  OF     COMPLETED APPLICATIONS.—
+                                                                18 A State shall accept an online voter registration applica-
+                                                                19 tion provided by an individual under this section, and en-
+                                                                20 sure that the individual is registered to vote in the State,
+                                                                21 if—
+                                                                22                         ‘‘(1) the individual meets the same voter reg-
+                                                                23                istration requirements applicable to individuals who
+pwalker on DSK7TPTVN1PROD with                                  24                register to vote by mail in accordance with section
+                                                                25                6(a)(1) using the mail voter registration application
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                           4
+                                                                  1               form prescribed by the Election Assistance Commis-
+                                                                  2               sion pursuant to section 9(a)(2); and
+                                                                  3                        ‘‘(2) the individual provides a signature in elec-
+                                                                  4               tronic form in accordance with subsection (c) (but
+                                                                  5               only in the case of applications submitted during or
+                                                                  6               after the second year in which this section is in ef-
+                                                                  7               fect in the State).
+                                                                  8               ‘‘(c) SIGNATURES                 IN      ELECTRONIC FORM.—For pur-
+                                                                  9 poses of this section, an individual provides a signature
+                                                                10 in electronic form by—
+                                                                11                         ‘‘(1) executing a computerized mark in the sig-
+                                                                12                nature field on an online voter registration applica-
+                                                                13                tion; or
+                                                                14                         ‘‘(2) submitting with the application an elec-
+                                                                15                tronic copy of the individual’s handwritten signature
+                                                                16                through electronic means.
+                                                                17                ‘‘(d) CONFIRMATION AND DISPOSITION.—
+                                                                18                         ‘‘(1) CONFIRMATION                          OF RECEIPT.—Upon          the
+                                                                19                online submission of a completed voter registration
+                                                                20                application by an individual under this section, the
+                                                                21                appropriate State or local election official shall send
+                                                                22                the individual a notice confirming the State’s receipt
+                                                                23                of the application and providing instructions on how
+pwalker on DSK7TPTVN1PROD with                                  24                the individual may check the status of the applica-
+                                                                25                tion.
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                           5
+                                                                  1                        ‘‘(2) NOTICE             OF DISPOSITION.—As                           soon as the
+                                                                  2               appropriate State or local election official has ap-
+                                                                  3               proved or rejected an application submitted by an in-
+                                                                  4               dividual under this section, the official shall send the
+                                                                  5               individual a notice of the disposition of the applica-
+                                                                  6               tion.
+                                                                  7                        ‘‘(3) METHOD                OF NOTIFICATION.—The                          appro-
+                                                                  8               priate State or local election official shall send the
+                                                                  9               notices required under this subsection by regular
+                                                                10                mail, and, in the case of an individual who has re-
+                                                                11                quested that the State provide voter registration and
+                                                                12                voting information through electronic mail, by both
+                                                                13                electronic mail and regular mail.
+                                                                14                ‘‘(e) PROVISION                   OF         SERVICES           IN      NONPARTISAN
+                                                                15 MANNER.—The services made available under subsection
+                                                                16 (a) shall be provided in a manner that ensures that, con-
+                                                                17 sistent with section 7(a)(5)—
+                                                                18                         ‘‘(1) the online application does not seek to in-
+                                                                19                fluence an applicant’s political preference or party
+                                                                20                registration; and
+                                                                21                         ‘‘(2) there is no display on the website pro-
+                                                                22                moting any political preference or party allegiance,
+                                                                23                except that nothing in this paragraph may be con-
+pwalker on DSK7TPTVN1PROD with                                  24                strued to prohibit an applicant from registering to
+                                                                25                vote as a member of a political party.
+
+
+                                                                             •HR 289 IH
+
+                                                                  1               ‘‘(f) PROTECTION                 OF  6   SECURITY           OF INFORMATION.—
+                                                                  2 In meeting the requirements of this section, the State shall
+                                                                  3 establish appropriate technological security measures to
+                                                                  4 prevent to the greatest extent practicable any unauthor-
+                                                                  5 ized access to information provided by individuals using
+                                                                  6 the services made available under subsection (a).
+                                                                  7               ‘‘(g) USE          OF    ADDITIONAL TELEPHONE-BASED SYS-
+                                                                  8     TEM.—A             State shall make the services made available on-
+                                                                  9 line under subsection (a) available through the use of an
+                                                                10 automated telephone-based system, subject to the same
+                                                                11 terms and conditions applicable under this section to the
+                                                                12 services made available online, in addition to making the
+                                                                13 services available online in accordance with the require-
+                                                                14 ments of this section.
+                                                                15                ‘‘(h)       NONDISCRIMINATION                           AMONG             REGISTERED
+                                                                16 VOTERS USING MAIL                               AND         ONLINE REGISTRATION.—In
+                                                                17 carrying out this Act, the Help America Vote Act of 2002
+                                                                18 (42 U.S.C. 15301 et seq.), or any other Federal, State,
+                                                                19 or local law governing the treatment of registered voters
+                                                                20 in the State or the administration of elections for public
+                                                                21 office in the State, a State shall treat a registered voter
+                                                                22 who registered to vote online in accordance with this sec-
+                                                                23 tion in the same manner as the State treats a registered
+pwalker on DSK7TPTVN1PROD with                                  24 voter who registered to vote by mail.’’.
+                                                                             •HR 289 IH
+
+                                                                  1               (b) SPECIAL REQUIREMENTS                 7                    FOR         INDIVIDUALS
+                                                                  2 USING ONLINE REGISTRATION.—
+                                                                  3                        (1) TREATMENT                   AS INDIVIDUALS REGISTERING
+                                                                  4               TO VOTE BY MAIL FOR PURPOSES OF FIRST-TIME
+                                                                  5               VOTER             IDENTIFICATION                 REQUIREMENTS.—Section
+                                                                  6               303(b)(1)(A) of the Help America Vote Act of 2002
+                                                                  7               (42 U.S.C. 15483(b)(1)(A)) is amended by striking
+                                                                  8               ‘‘by mail’’ and inserting ‘‘by mail or online under
+                                                                  9               section 6A of the National Voter Registration Act of
+                                                                10                1993’’.
+                                                                11                         (2) REQUIRING                       SIGNATURE FOR FIRST-TIME
+                                                                12                VOTERS IN JURISDICTION.—Section                                         303(b) of such
+                                                                13                Act (42 U.S.C. 15483(b)) is amended—
+                                                                14                                  (A) by redesignating paragraph (5) as
+                                                                15                         paragraph (6); and
+                                                                16                                  (B) by inserting after paragraph (4) the
+                                                                17                         following new paragraph:
+                                                                18                         ‘‘(5) SIGNATURE                     REQUIREMENTS FOR FIRST-
+                                                                19                TIME VOTERS USING ONLINE REGISTRATION.—
+                                                                20                                  ‘‘(A) IN         GENERAL.—A                   State shall, in a
+                                                                21                         uniform and nondiscriminatory manner, require
+                                                                22                         an individual to meet the requirements of sub-
+                                                                23                         paragraph (B) if—
+pwalker on DSK7TPTVN1PROD with                                  24                                          ‘‘(i) the individual registered to vote
+                                                                25                                  in the State online under section 6A of the
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                           8
+                                                                  1                                 National Voter Registration Act of 1993;
+                                                                  2                                 and
+                                                                  3                                         ‘‘(ii) the individual has not previously
+                                                                  4                                 voted in an election for Federal office in
+                                                                  5                                 the State.
+                                                                  6                                 ‘‘(B)         REQUIREMENTS.—An                               individual
+                                                                  7                        meets the requirements of this subparagraph
+                                                                  8                        if—
+                                                                  9                                         ‘‘(i) in the case of an individual who
+                                                                10                                  votes in person, the individual provides the
+                                                                11                                  appropriate State or local election official
+                                                                12                                  with a handwritten signature; or
+                                                                13                                          ‘‘(ii) in the case of an individual who
+                                                                14                                  votes by mail, the individual submits with
+                                                                15                                  the ballot a handwritten signature.
+                                                                16                                  ‘‘(C)           INAPPLICABILITY.—Subparagraph
+                                                                17                         (A) does not apply in the case of an individual
+                                                                18                         who is—
+                                                                19                                          ‘‘(i) entitled to vote by absentee ballot
+                                                                20                                  under the Uniformed and Overseas Citi-
+                                                                21                                  zens Absentee Voting Act (42 U.S.C.
+                                                                22                                  1973ff–1 et seq.);
+                                                                23                                          ‘‘(ii) provided the right to vote other-
+pwalker on DSK7TPTVN1PROD with                                  24                                  wise        than           in      person             under    section
+                                                                25                                  3(b)(2)(B)(ii) of the Voting Accessibility
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                           9
+                                                                  1                                 for the Elderly and Handicapped Act (42
+                                                                  2                                 U.S.C. 1973ee–1(b)(2)(B)(ii)); or
+                                                                  3                                         ‘‘(iii) entitled to vote otherwise than
+                                                                  4                                 in person under any other Federal law.’’.
+                                                                  5                        (3) CONFORMING                      AMENDMENT RELATING TO
+                                                                  6               EFFECTIVE DATE.—Section                                 303(d)(2)(A) of such
+                                                                  7               Act (42 U.S.C. 15483(d)(2)(A)) is amended by
+                                                                  8               striking ‘‘Each State’’ and inserting ‘‘Except as pro-
+                                                                  9               vided in subsection (b)(5), each State’’.
+                                                                10                (c) CONFORMING AMENDMENTS.—
+                                                                11                         (1) TIMING            OF REGISTRATION.—Section                        8(a)(1)
+                                                                12                of the National Voter Registration Act of 1993 (42
+                                                                13                U.S.C. 1973gg–6(a)(1)) is amended—
+                                                                14                                  (A) by striking ‘‘and’’ at the end of sub-
+                                                                15                         paragraph (C);
+                                                                16                                  (B) by redesignating subparagraph (D) as
+                                                                17                         subparagraph (E); and
+                                                                18                                  (C) by inserting after subparagraph (C)
+                                                                19                         the following new subparagraph:
+                                                                20                                  ‘‘(D) in the case of online registration
+                                                                21                         through the official public website of an election
+                                                                22                         official under section 6A, if the valid voter reg-
+                                                                23                         istration application is submitted online not
+pwalker on DSK7TPTVN1PROD with                                  24                         later than the lesser of 30 days, or the period
+                                                                25                         provided by State law, before the date of the
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                       10
+                                                                  1                        election (as determined by treating the date on
+                                                                  2                        which the application is sent electronically as
+                                                                  3                        the date on which it is submitted); and’’.
+                                                                  4                        (2) INFORMING                    APPLICANTS OF ELIGIBILITY
+                                                                  5               REQUIREMENTS AND PENALTIES.—Section                                            8(a)(5)
+                                                                  6               of such Act (42 U.S.C. 1973gg–6(a)(5)) is amended
+                                                                  7               by striking ‘‘and 7’’ and inserting ‘‘6A, and 7’’.
+                                                                  8     SEC. 102. USE OF INTERNET TO UPDATE REGISTRATION IN-
+                                                                  9                             FORMATION.
+                                                                10                (a) IN GENERAL.—
+                                                                11                         (1) UPDATES               TO INFORMATION CONTAINED ON
+                                                                12                COMPUTERIZED STATEWIDE VOTER REGISTRATION
+                                                                13                LIST.—Section                 303(a) of the Help America Vote Act
+                                                                14                of 2002 (42 U.S.C. 15483(a)) is amended by adding
+                                                                15                at the end the following new paragraph:
+                                                                16                         ‘‘(6) USE            OF INTERNET BY REGISTERED VOT-
+                                                                17                ERS TO UPDATE INFORMATION.—
+                                                                18                                  ‘‘(A) IN       GENERAL.—The                    appropriate State
+                                                                19                         or local election official shall ensure that any
+                                                                20                         registered voter on the computerized list may at
+                                                                21                         any time update the voter’s registration infor-
+                                                                22                         mation, including the voter’s address and elec-
+                                                                23                         tronic mail address, online through the official
+pwalker on DSK7TPTVN1PROD with                                  24                         public website of the election official responsible
+                                                                25                         for the maintenance of the list, so long as the
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                       11
+                                                                  1                        voter attests to the contents of the update by
+                                                                  2                        providing a signature in electronic form in the
+                                                                  3                        same manner required under section 6A(c) of
+                                                                  4                        the National Voter Registration Act of 1993.
+                                                                  5                                 ‘‘(B) PROCESSING                    OF UPDATED INFORMA-
+                                                                  6                        TION BY ELECTION OFFICIALS.—If                                        a registered
+                                                                  7                        voter updates registration information under
+                                                                  8                        subparagraph (A), the appropriate State or
+                                                                  9                        local election official shall—
+                                                                10                                          ‘‘(i) revise any information on the
+                                                                11                                  computerized list to reflect the update
+                                                                12                                  made by the voter; and
+                                                                13                                          ‘‘(ii) if the updated registration infor-
+                                                                14                                  mation affects the voter’s eligibility to vote
+                                                                15                                  in an election for Federal office, ensure
+                                                                16                                  that the information is processed with re-
+                                                                17                                  spect to the election if the voter updates
+                                                                18                                  the information not later than the lesser of
+                                                                19                                  7 days, or the period provided by State
+                                                                20                                  law, before the date of the election.
+                                                                21                                  ‘‘(C) CONFIRMATION                     AND DISPOSITION.—
+
+                                                                22                                          ‘‘(i) CONFIRMATION                        OF RECEIPT.—
+                                                                23                                  Upon the online submission of updated
+pwalker on DSK7TPTVN1PROD with                                  24                                  registration information by an individual
+                                                                25                                  under this paragraph, the appropriate
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                       12
+                                                                  1                                 State or local election official shall send
+                                                                  2                                 the individual a notice confirming the
+                                                                  3                                 State’s receipt of the updated information
+                                                                  4                                 and providing instructions on how the indi-
+                                                                  5                                 vidual may check the status of the update.
+                                                                  6                                         ‘‘(ii) NOTICE                 OF      DISPOSITION.—As
+                                                                  7                                 soon as the appropriate State or local elec-
+                                                                  8                                 tion official has accepted or rejected up-
+                                                                  9                                 dated information submitted by an indi-
+                                                                10                                  vidual under this paragraph, the official
+                                                                11                                  shall send the individual a notice of the
+                                                                12                                  disposition of the update.
+                                                                13                                          ‘‘(iii) METHOD                  OF NOTIFICATION.—
+                                                                14                                  The appropriate State or local election offi-
+                                                                15                                  cial shall send the notices required under
+                                                                16                                  this subparagraph by regular mail, and, in
+                                                                17                                  the case of an individual who has re-
+                                                                18                                  quested that the State provide voter reg-
+                                                                19                                  istration and voting information through
+                                                                20                                  electronic mail, by both electronic mail and
+                                                                21                                  regular mail.’’.
+                                                                22                         (2) CONFORMING                      AMENDMENT RELATING TO
+                                                                23                EFFECTIVE DATE.—Section                                 303(d)(1)(A) of such
+pwalker on DSK7TPTVN1PROD with                                  24                Act (42 U.S.C. 15483(d)(1)(A)) is amended by
+                                                                             •HR 289 IH
+
+                                                                                                                       13
+                                                                  1               striking ‘‘subparagraph (B)’’ and inserting ‘‘sub-
+                                                                  2               paragraph (B) and subsection (a)(6)’’.
+                                                                  3               (b) ABILITY             OF     REGISTRANT TO USE ONLINE UP-
+                                                                  4     DATE        TO PROVIDE INFORMATION                                ON     RESIDENCE.—Sec-
+                                                                  5 tion 8(d)(2)(A) of the National Voter Registration Act of
+                                                                  6 1993 (42 U.S.C. 1973gg–6(d)(2)(A)) is amended—
+                                                                  7                        (1) in the first sentence, by inserting after ‘‘re-
+                                                                  8               turn the card’’ the following: ‘‘or update the reg-
+                                                                  9               istrant’s information on the computerized Statewide
+                                                                10                voter registration list using the online method pro-
+                                                                11                vided under section 303(a)(6) of the Help America
+                                                                12                Vote Act of 2002 (42 U.S.C. 15483(a)(6))’’; and
+                                                                13                         (2) in the second sentence, by striking ‘‘re-
+                                                                14                turned,’’ and inserting the following: ‘‘returned or if
+                                                                15                the registrant does not update the registrant’s infor-
+                                                                16                mation on the computerized Statewide voter reg-
+                                                                17                istration list using such online method,’’.
+                                                                18      TITLE   II—AUTOMATED    REG-
+                                                                19         ISTRATION OF CERTAIN INDI-
+                                                                20         VIDUALS
+                                                                21      SEC. 201. AUTOMATED VOTER REGISTRATION.
+
+                                                                22                (a) COLLECTION                     OF       INFORMATION                   BY   SOURCE
+                                                                23 AGENCIES.—
+pwalker on DSK7TPTVN1PROD with                                  24                         (1) DUTIES                 OF        SOURCE             AGENCIES.—Each
+                                                                25                source agency in a State (as defined in subsection
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                       14
+                                                                  1               (e)) shall, with each application for services or as-
+                                                                  2               sistance by an individual, and with each recertifi-
+                                                                  3               cation, renewal, or change of address relating to
+                                                                  4               such services or assistance—
+                                                                  5                                 (A) notify each such individual of the sub-
+                                                                  6                        stantive qualifications of an elector in the State,
+                                                                  7                        using language approved by the State’s chief
+                                                                  8                        election official;
+                                                                  9                                 (B) notify each such individual that there
+                                                                10                         is an opportunity to be registered to vote or up-
+                                                                11                         date voter registration, but that voter registra-
+                                                                12                         tion is voluntary, and that neither registering
+                                                                13                         nor declining to register to vote will in any way
+                                                                14                         affect the availability of services or benefits, nor
+                                                                15                         be used for other purposes;
+                                                                16                                  (C) require that each such individual indi-
+                                                                17                         cate, after considering the substantive qualifica-
+                                                                18                         tion of an elector in the State, whether or not
+                                                                19                         the person wishes to be registered;
+                                                                20                                  (D) ensure that each such individual’s
+                                                                21                         transaction with the agency cannot be com-
+                                                                22                         pleted until the individual has indicated whether
+                                                                23                         he or she wishes to register to vote; and
+pwalker on DSK7TPTVN1PROD with                                  24                                  (E) for each such individual who consents
+                                                                25                         to using the individual’s records with the source
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                       15
+                                                                  1                        agency to enable the individual to register to
+                                                                  2                        vote under this section, collect a signed affirma-
+                                                                  3                        tion of eligibility to register to vote in the State.
+                                                                  4                        (2) NO        EFFECT ON RIGHT TO DECLINE VOTER
+                                                                  5               REGISTRATION.—Nothing                            in this subtitle shall be
+                                                                  6               construed to interfere with the right of any person
+                                                                  7               to decline to be registered to vote for any reason.
+                                                                  8               (b) TRANSFER                  OF     INFORMATION                  ON      INDIVIDUALS
+                                                                  9 CONSENTING TO VOTER REGISTRATION.—
+                                                                10                         (1) TRANSFER.—For each individual who noti-
+                                                                11                fies the source agency that the individual consents to
+                                                                12                voter registration under this section, the source
+                                                                13                agency shall transfer to the chief State election offi-
+                                                                14                cial of the State the following data, to the extent the
+                                                                15                data is available to the source agency:
+                                                                16                                  (A) The given name or names and sur-
+                                                                17                         name or surnames.
+                                                                18                                  (B) Date of birth.
+                                                                19                                  (C) Residential address.
+                                                                20                                  (D) Mailing address.
+                                                                21                                  (E) Signature, in electronic form.
+                                                                22                                  (F) Date of the last change to the infor-
+                                                                23                         mation.
+pwalker on DSK7TPTVN1PROD with                                  24                                  (G) The motor vehicle driver’s license
+                                                                25                         number.
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                       16
+                                                                  1                                 (H) The last four digits of the Social Secu-
+                                                                  2                        rity number.
+                                                                  3                        (2) TIMING            OF TRANSFER.—The                         source agency
+                                                                  4               shall transfer the data described in paragraph (1) to
+                                                                  5               the chief State election official on a daily basis.
+                                                                  6                        (3) FORMAT.—The data transferred under
+                                                                  7               paragraph (1) shall be transferred in a format com-
+                                                                  8               patible with the Statewide computerized voter reg-
+                                                                  9               istration list under section 303 of the Help America
+                                                                10                Vote Act of 2002 (42 U.S.C. 15483).
+                                                                11                         (4) PROHIBITING                  STORAGE OF INFORMATION.—
+                                                                12                Any information collected by the source agency
+                                                                13                under this section with respect to an individual who
+                                                                14                consents to register to vote under this section may
+                                                                15                not be stored by the source agency in any form after
+                                                                16                the information is transferred to the chief State elec-
+                                                                17                tion official under paragraph (1).
+                                                                18                (c) REGISTRATION OF INDIVIDUALS BY CHIEF STATE
+                                                                19 ELECTION OFFICIAL.—
+                                                                20                         (1) COMPARISON                  WITH STATEWIDE VOTER REG-
+                                                                21                ISTRATION LIST.—Upon                           receiving information from
+                                                                22                a source agency with respect to an individual under
+                                                                23                subsection (b), the chief State election official shall
+pwalker on DSK7TPTVN1PROD with                                  24                determine whether the individual is included in the
+                                                                25                computerized Statewide voter registration list estab-
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                       17
+                                                                  1               lished and maintained under section 303 of the Help
+                                                                  2               America Vote Act of 2002 (42 U.S.C. 15483).
+                                                                  3                        (2) REGISTRATION                      OF INDIVIDUALS NOT ON
+                                                                  4               STATEWIDE LIST.—If                        an individual for whom infor-
+                                                                  5               mation is received from a source agency under sub-
+                                                                  6               section (b) is eligible to vote in elections for Federal
+                                                                  7               office in the State and is not on the computerized
+                                                                  8               Statewide voter registration list, the chief State elec-
+                                                                  9               tion official shall—
+                                                                10                                  (A) ensure that the individual is registered
+                                                                11                         to vote in such elections not later than 5 days
+                                                                12                         after receiving the information, without regard
+                                                                13                         to whether or not the information provided by
+                                                                14                         the source agency includes the individual’s sig-
+                                                                15                         nature;
+                                                                16                                  (B) update the Statewide computerized
+                                                                17                         voter registration list to include the individual;
+                                                                18                         and
+                                                                19                                  (C) notify the individual that the individual
+                                                                20                         is registered to vote in elections for Federal of-
+                                                                21                         fice in the State.
+                                                                22                         (3) TREATMENT                        OF       INFORMATION             INCOR-
+                                                                23                RECTLY PROVIDED.—If                         a source agency provides the
+pwalker on DSK7TPTVN1PROD with                                  24                chief State election official with information with re-
+                                                                25                spect to an individual who did not consent to be reg-
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                       18
+                                                                  1               istered to vote under this section, the chief State
+                                                                  2               election official shall not take any action to register
+                                                                  3               the individual to vote, except that no such individual
+                                                                  4               who is already included on the computerized State-
+                                                                  5               wide voter registration list shall be removed from the
+                                                                  6               list solely because the information was incorrectly
+                                                                  7               provided under subsection (b).
+                                                                  8                        (4) NO          EFFECT ON OTHER MEANS OF REG-
+                                                                  9               ISTRATION.—Nothing                          in this section affects a
+                                                                10                State’s obligation to register voters upon receipt of
+                                                                11                a valid voter registration application through means
+                                                                12                provided by National Voter Registration Act of 1993
+                                                                13                (42 U.S.C. 1973gg et seq.), the Internet registration
+                                                                14                procedure described in section 101, or other valid
+                                                                15                means.
+                                                                16                         (5) INDIVIDUALS                   IN EXISTING RECORDS.—No
+                                                                17                later than January 2015, each individual who is list-
+                                                                18                ed in a source agency’s records and for whom there
+                                                                19                exists reason to believe the individual is a citizen
+                                                                20                and not otherwise ineligible to vote shall be mailed
+                                                                21                a postage pre-paid return postcard including a box
+                                                                22                for the individual to check, together with the state-
+                                                                23                ment (in close proximity to the box and in promi-
+pwalker on DSK7TPTVN1PROD with                                  24                nent type), ‘‘By checking this box, I affirm that I
+                                                                25                am a citizen of the United States, am eligible to vote
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                       19
+                                                                  1               in this State, and will be at least eighteen years old
+                                                                  2               by the next general election. I understand that by
+                                                                  3               checking this box, I will be registered to vote if I am
+                                                                  4               eligible to vote in the State.’’, along with a clear de-
+                                                                  5               scription of the voting eligibility requirements in the
+                                                                  6               State. The postcard shall also include, where re-
+                                                                  7               quired for voter registration, a place for the individ-
+                                                                  8               ual’s signature and designation of party affiliation.
+                                                                  9               An individual who checks the box and returns the
+                                                                10                completed postcard postmarked not later than the
+                                                                11                lesser of the fifteenth day before an election for Fed-
+                                                                12                eral office, or the period provided by State law, shall
+                                                                13                be registered to vote in that election.
+                                                                14                (d) OPTIONS                   FOR    STATE TO REQUIRE SPECIAL
+                                                                15 TREATMENT                        OF   INDIVIDUALS REGISTERED AUTOMATI-
+                                                                16      CALLY.—
+
+                                                                17                         (1) TREATMENT                   AS INDIVIDUALS REGISTERING
+                                                                18                TO VOTE BY MAIL FOR PURPOSES OF FIRST-TIME
+                                                                19                VOTER             IDENTIFICATION                 REQUIREMENTS.—Section
+                                                                20                303(b)(1)(A) of the Help America Vote Act of 2002
+                                                                21                (42 U.S.C. 15483(b)(1)(A)), as amended by section
+                                                                22                101(b)(1), is amended by striking ‘‘of 1993’’ and in-
+                                                                23                serting ‘‘of 1993 or (at the option of the State) was
+pwalker on DSK7TPTVN1PROD with                                  24                registered automatically under section 102 of the
+                                                                             •HR 289 IH
+
+                                                                                                                       20
+                                                                  1               Voting Line Reduction and Online Registration
+                                                                  2               Act’’.
+                                                                  3                        (2) REQUIRING                   SIGNATURE.—Section                    303(b) of
+                                                                  4               such Act (42 U.S.C. 15483(b)), as amended by sec-
+                                                                  5               tion 101(b)(2), is amended—
+                                                                  6                                 (A) by redesignating paragraph (6) as
+                                                                  7                        paragraph (7); and
+                                                                  8                                 (B) by inserting after paragraph (5) the
+                                                                  9                        following new paragraph:
+                                                                10                         ‘‘(6) OPTION              FOR STATE TO REQUIRE SIGNA-
+                                                                11                TURE REQUIREMENTS FOR FIRST-TIME VOTERS REG-
+                                                                12                ISTERED AUTOMATICALLY.—
+
+                                                                13                                  ‘‘(A) IN       GENERAL.—A                  State may, in a uni-
+                                                                14                         form and nondiscriminatory manner, require an
+                                                                15                         individual to meet the requirements of subpara-
+                                                                16                         graph (B) if—
+                                                                17                                          ‘‘(i) the individual was registered to
+                                                                18                                  vote in the State automatically under sec-
+                                                                19                                  tion 101 of the Voting Line Reduction and
+                                                                20                                  Online Registration Act; and
+                                                                21                                          ‘‘(ii) the individual has not previously
+                                                                22                                  voted in an election for Federal office in
+pwalker on DSK7TPTVN1PROD with                                  23                                  the State.
+                                                                             •HR 289 IH
+
+                                                                                                                       21
+                                                                  1                                 ‘‘(B)         REQUIREMENTS.—An                               individual
+                                                                  2                        meets the requirements of this subparagraph
+                                                                  3                        if—
+                                                                  4                                         ‘‘(i) in the case of an individual who
+                                                                  5                                 votes in person, the individual provides the
+                                                                  6                                 appropriate State or local election official
+                                                                  7                                 with a handwritten signature; or
+                                                                  8                                         ‘‘(ii) in the case of an individual who
+                                                                  9                                 votes by mail, the individual submits with
+                                                                10                                  the ballot a handwritten signature.
+                                                                11                                  ‘‘(C)           INAPPLICABILITY.—Subparagraph
+                                                                12                         (A) does not apply in the case of an individual
+                                                                13                         who is—
+                                                                14                                          ‘‘(i) entitled to vote by absentee ballot
+                                                                15                                  under the Uniformed and Overseas Citi-
+                                                                16                                  zens Absentee Voting Act (42 U.S.C.
+                                                                17                                  1973ff–1 et seq.);
+                                                                18                                          ‘‘(ii) provided the right to vote other-
+                                                                19                                  wise        than         in        person             under    section
+                                                                20                                  3(b)(2)(B)(ii) of the Voting Accessibility
+                                                                21                                  for the Elderly and Handicapped Act (42
+                                                                22                                  U.S.C. 1973ee–1(b)(2)(B)(ii)); or
+                                                                23                                          ‘‘(iii) entitled to vote otherwise than
+pwalker on DSK7TPTVN1PROD with                                  24                                  in person under any other Federal law.’’.
+                                                                             •HR 289 IH
+
+                                                                  1                        (3) CONFORMING              22      AMENDMENT RELATING TO
+                                                                  2               EFFECTIVE DATE.—Section                                 303(d)(2)(A) of such
+                                                                  3               Act (42 U.S.C. 15483(d)(2)(A)), as amended by sec-
+                                                                  4               tion 101(b)(3), is amended by striking ‘‘subsection
+                                                                  5               (b)(5)’’ and inserting ‘‘subsections (b)(5) and
+                                                                  6               (b)(6)’’.
+                                                                  7               (e) SOURCE AGENCIES DESCRIBED.—
+                                                                  8                        (1) IN      GENERAL.—With                     respect to any State, a
+                                                                  9               ‘‘source agency’’ is—
+                                                                10                                  (A) each State office which is described in
+                                                                11                         paragraph (2); and
+                                                                12                                  (B) each Federal office which is described
+                                                                13                         in paragraph (3) which is located in the State,
+                                                                14                         except that such office shall be a source agency
+                                                                15                         only with respect to individuals who are resi-
+                                                                16                         dents of the State in which the office is located.
+                                                                17                         (2) STATE            OFFICES DESCRIBED.—
+
+                                                                18                                  (A) IN         GENERAL.—The                     State offices de-
+                                                                19                         scribed in this paragraph are as follows:
+                                                                20                                          (i) The State motor vehicle authority.
+                                                                21                                          (ii) Each office in the State which is
+                                                                22                                  designated as a voter registration agency
+                                                                23                                  in a State pursuant to section 7(a) of the
+pwalker on DSK7TPTVN1PROD with                                  24                                  National Voter Registration Act of 1993
+                                                                25                                  (42 U.S.C. 1973gg–5(a)).
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                       23
+                                                                  1                                         (iii) Each State agency that admin-
+                                                                  2                                 isters a program providing assistance pur-
+                                                                  3                                 suant to pursuant to title III of the Social
+                                                                  4                                 Security Act (42 U.S.C. 501 et seq.).
+                                                                  5                                         (iv) Each State agency primarily re-
+                                                                  6                                 sponsible for maintaining identifying infor-
+                                                                  7                                 mation for students enrolled at public sec-
+                                                                  8                                 ondary schools in the State, including,
+                                                                  9                                 where applicable, the State agency respon-
+                                                                10                                  sible for maintaining the education data
+                                                                11                                  system described in section 6401(e)(2) of
+                                                                12                                  the America COMPETES Act (20 U.S.C.
+                                                                13                                  9871(e)(2)).
+                                                                14                                          (v) In the case of a State in which an
+                                                                15                                  individual disenfranchised by a criminal
+                                                                16                                  conviction may become eligible to vote
+                                                                17                                  upon completion of criminal sentence or
+                                                                18                                  any part thereof, or upon formal restora-
+                                                                19                                  tion of rights, the State agency responsible
+                                                                20                                  for administering that sentence, or part
+                                                                21                                  thereof, or that restoration of rights.
+                                                                22                                          (vi) In the case of a State in which an
+                                                                23                                  individual disenfranchised by adjudication
+pwalker on DSK7TPTVN1PROD with                                  24                                  of mental incompetence or similar condi-
+                                                                25                                  tion becomes eligible to register to vote
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                       24
+                                                                  1                                 upon the restoration of competence or
+                                                                  2                                 similar condition, each State agency re-
+                                                                  3                                 sponsible for determining when competence
+                                                                  4                                 or a similar condition is met.
+                                                                  5                                         (vii) Such other office which may be
+                                                                  6                                 designated as a source agency by the chief
+                                                                  7                                 State election official of the State.
+                                                                  8                                 (B) CRITERIA               FOR DESIGNATION OF ADDI-
+                                                                  9                        TIONAL SOURCE AGENCIES.—In                                     designating of-
+                                                                10                         fices of the State as source agencies for pur-
+                                                                11                         poses of subparagraph (A)(vii), the chief State
+                                                                12                         election official shall give priority on the basis
+                                                                13                         of the following criteria:
+                                                                14                                          (i) The extent to which individuals re-
+                                                                15                                  ceiving services or assistance from the of-
+                                                                16                                  fice are likely to be individuals who are eli-
+                                                                17                                  gible to register to vote in elections for
+                                                                18                                  Federal office in the State but who are not
+                                                                19                                  registered to vote in such elections.
+                                                                20                                          (ii) The accuracy of the office’s
+                                                                21                                  records with respect to identifying informa-
+                                                                22                                  tion (including age, citizenship status, and
+                                                                23                                  residency) for individuals receiving services
+pwalker on DSK7TPTVN1PROD with                                  24                                  or assistance from the office.
+                                                                             •HR 289 IH
+
+                                                                                                                       25
+                                                                  1                                         (iii) The cost-effectiveness of obtain-
+                                                                  2                                 ing such identifying information and trans-
+                                                                  3                                 mitting the information to the chief State
+                                                                  4                                 election official.
+                                                                  5                                         (iv) The extent to which the designa-
+                                                                  6                                 tion of the office as a voter registration
+                                                                  7                                 agency will promote the registration of eli-
+                                                                  8                                 gible individuals to vote in elections for
+                                                                  9                                 Federal office in the State and the accu-
+                                                                10                                  racy of the State’s Statewide computerized
+                                                                11                                  voter registration list under the Help
+                                                                12                                  America Vote Act of 2002 (42 U.S.C.
+                                                                13                                  15301 et seq.).
+                                                                14                         (3) FEDERAL               OFFICES DESCRIBED.—The                      Fed-
+                                                                15                eral offices described in this paragraph are as fol-
+                                                                16                lows:
+                                                                17                                  (A) Armed Forces recruitment offices.
+                                                                18                                  (B) The United States Immigration and
+                                                                19                         Customs Enforcement Bureau, but only with
+                                                                20                         respect to individuals who complete the natu-
+                                                                21                         ralization process.
+                                                                22                                  (C) The Social Security Administration.
+                                                                23                                  (D) The Administrative Office of the
+pwalker on DSK7TPTVN1PROD with                                  24                         United States Courts, the Federal Bureau of
+                                                                25                         Prisons, and the United States Probation Serv-
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                       26
+                                                                  1                        ice, but only with respect to individuals com-
+                                                                  2                        pleting terms of prison, sentences, probation, or
+                                                                  3                        parole.
+                                                                  4                                 (E) The Department of Veterans Affairs,
+                                                                  5                        but only with respect to individuals applying for
+                                                                  6                        or using health care services or services for
+                                                                  7                        homeless individuals.
+                                                                  8                                 (F) The Defense Manpower Data Center
+                                                                  9                        of the Department of Defense.
+                                                                10                                  (G) The Indian Health Services of the De-
+                                                                11                         partment of Health and Human Services.
+                                                                12                                  (H) The Center for Medicare and Medicaid
+                                                                13                         Services of the Department of Health and
+                                                                14                         Human Services.
+                                                                15                                  (I) Any other Federal office which is des-
+                                                                16                         ignated by a State (with the consent of the
+                                                                17                         President) as a source agency with respect to
+                                                                18                         the State.
+                                                                19      SEC. 202. LIST MAINTENANCE, PRIVACY, AND SECURITY.
+
+                                                                20                (a) DATABASE MANAGEMENT STANDARDS.—
+                                                                21                         (1) DATABASE                    MATCHING              STANDARDS.—The
+                                                                22                chief State election official of each State shall estab-
+                                                                23                lish standards governing the comparison of data on
+pwalker on DSK7TPTVN1PROD with                                  24                the Statewide computerized voter registration list
+                                                                25                under section 303 of the Help America Vote Act of
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                       27
+                                                                  1               2002 (42 U.S.C. 15483), the data provided by var-
+                                                                  2               ious source agencies under section 201, and relevant
+                                                                  3               data from other sources, including the specific data
+                                                                  4               elements and data matching rules to be used for
+                                                                  5               purposes of determining—
+                                                                  6                                 (A) whether a data record from any source
+                                                                  7                        agency represents the same individual as a
+                                                                  8                        record in another source agency or on the state-
+                                                                  9                        wide list;
+                                                                10                                  (B) whether a data record from any source
+                                                                11                         agency represents an individual already reg-
+                                                                12                         istered to vote in the State;
+                                                                13                                  (C) whether two data records in the state-
+                                                                14                         wide computerized voter registration list rep-
+                                                                15                         resent duplicate records for the same individual;
+                                                                16                                  (D) whether a data record supplied by any
+                                                                17                         list maintenance source represents an individual
+                                                                18                         already registered to vote in the State; and
+                                                                19                                  (E) which information will be treated as
+                                                                20                         more current and reliable when data records
+                                                                21                         from multiple sources present information for
+                                                                22                         the same individual.
+                                                                23                         (2) STANDARDS                    FOR DETERMINING INELIGI-
+pwalker on DSK7TPTVN1PROD with                                  24                BILITY.—The               chief State election official of a State
+                                                                25                shall       establish            uniform             and       non-discriminatory
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                       28
+                                                                  1               standards describing the specific conditions under
+                                                                  2               which an individual will be determined for list main-
+                                                                  3               tenance purposes to be ineligible to vote in an elec-
+                                                                  4               tion for Federal office in the State.
+                                                                  5               (b) PRIVACY AND SECURITY STANDARDS.—
+                                                                  6                        (1) PRIVACY             AND SECURITY POLICY.—The                      chief
+                                                                  7               State election official of a State shall publish and
+                                                                  8               enforce a privacy and security policy specifying each
+                                                                  9               class of users who shall have authorized access to
+                                                                10                the computerized Statewide voter registration list,
+                                                                11                specifying for each such class the permission and
+                                                                12                levels of access to be granted, and setting forth
+                                                                13                other safeguards to protect the privacy and security
+                                                                14                of the information on the list. Such policy shall in-
+                                                                15                clude security safeguards to protect personal infor-
+                                                                16                mation in the data transfer process under section
+                                                                17                201, the online or telephone interface, the mainte-
+                                                                18                nance of the voter registration database, and audit
+                                                                19                procedure to track individual access to the system.
+                                                                20                         (2) NO           UNAUTHORIZED                      ACCESS.—The        chief
+                                                                21                State election official of a State shall establish poli-
+                                                                22                cies and enforcement procedures to prevent unau-
+                                                                23                thorized access to or use of the computerized state-
+pwalker on DSK7TPTVN1PROD with                                  24                wide voter registration list, any list or other infor-
+                                                                25                mation provided by a source agency under section
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                       29
+                                                                  1               201, or any maintenance source for the list. Nothing
+                                                                  2               in this paragraph shall be construed to prohibit ac-
+                                                                  3               cess to information required for purposes of voter
+                                                                  4               registration, election administration, and the en-
+                                                                  5               forcement of election laws.
+                                                                  6                        (3) INTER-AGENCY                   TRANSFERS.—
+
+                                                                  7                                 (A) IN       GENERAL.—The                    chief State election
+                                                                  8                        official of a State shall establish policies and
+                                                                  9                        enforcement procedures to maintain security
+                                                                10                         during inter-agency transfers of information re-
+                                                                11                         quired or permitted under this title. Each State
+                                                                12                         agency and third party participating in such
+                                                                13                         inter-agency transfers of information shall fa-
+                                                                14                         cilitate and comply with such policies. Nothing
+                                                                15                         in this subparagraph shall prevent a source
+                                                                16                         agency under section 201 from establishing and
+                                                                17                         enforcing additional security measures to pro-
+                                                                18                         tect the confidentiality and integrity of inter-
+                                                                19                         agency data transfers. No State or local election
+                                                                20                         official shall transfer or facilitate the transfer
+                                                                21                         of information from the computerized statewide
+                                                                22                         voter registration list to any source agency
+                                                                23                         under section 201.
+                                                                24                                  (B)         TRANSMISSION                   THROUGH           SECURE
+pwalker on DSK7TPTVN1PROD with
+
+
+
+                                                                25                         THIRD PARTIES PERMITTED.—Nothing                                      in this
+                                                                             •HR 289 IH
+
+                                                                                                                       30
+                                                                  1                        section shall be construed to prevent a source
+                                                                  2                        agency under section 201 from contracting with
+                                                                  3                        a third party to assist in the transmission of
+                                                                  4                        data to a chief State election official, so long as
+                                                                  5                        the data transmission complies with the appli-
+                                                                  6                        cable requirements of this title, including the
+                                                                  7                        privacy and security provisions of this section.
+                                                                  8                        (4) RECORDS                     RETENTION.—The                        chief State
+                                                                  9               election official of a State shall establish standards
+                                                                10                and procedures to maintain all election records re-
+                                                                11                quired for purposes of this title, including for the
+                                                                12                purpose of determining the eligibility of persons
+                                                                13                casting provisional ballots under section 302 of the
+                                                                14                Help America Vote Act of 2002 (42 U.S.C. 15482).
+                                                                15                Records for individuals who have been retained on
+                                                                16                the computerized statewide voter registration list
+                                                                17                under section 301 of such Act (42 U.S.C. 15481)
+                                                                18                but identified as ineligible to vote in an election for
+                                                                19                Federal office within the State, or removed from the
+                                                                20                list due to ineligibility, shall be maintained and kept
+                                                                21                available until at least the date of the second general
+                                                                22                election for Federal office that occurs after the date
+                                                                23                that the individual was identified as ineligible.
+pwalker on DSK7TPTVN1PROD with                                  24                (c) PUBLICATION                  OF      STANDARDS.—The chief State
+                                                                25 election official of a State shall publish on the official’s
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                       31
+                                                                  1 website the standards established under this section, and
+                                                                  2 shall make those standards available in written form upon
+                                                                  3 public request.
+                                                                  4               (d) PROTECTION                    OF     SOURCE INFORMATION.—The
+                                                                  5 identity of the specific source agency through which an
+                                                                  6 individual consented to register to vote under section 201
+                                                                  7 shall not be disclosed to the public and shall not be re-
+                                                                  8 tained after the individual is added to the computerized
+                                                                  9 statewide voter registration list.
+                                                                10                (e) CONFIDENTIALITY                           OF        PERSONAL INFORMA-
+                                                                11      TION.—The               chief State election official of a State shall
+                                                                12 establish policies and enforcement procedures to ensure
+                                                                13 that personal information provided by source agencies or
+                                                                14 otherwise transmitted under this section is kept confiden-
+                                                                15 tial and is available only to authorized users. For purposes
+                                                                16 of these policies and procedures, the term ‘‘personal infor-
+                                                                17 mation’’ means, with respect to an individual any of the
+                                                                18 following:
+                                                                19                         (1) Any portion of a Social Security number.
+                                                                20                         (2) Any portion of a vehicle driver’s license
+                                                                21                number or State identification card number.
+                                                                22                         (3) A signature.
+                                                                23                         (4) A personal residence and contact informa-
+pwalker on DSK7TPTVN1PROD with                                  24                tion (in the case of an individuals with respect to
+                                                                             •HR 289 IH
+
+                                                                                                                       32
+                                                                  1               whom such information is required to be maintained
+                                                                  2               as confidential under State law).
+                                                                  3                        (5) Sensitive information relating to any indi-
+                                                                  4               vidual in a category designated as confidential by
+                                                                  5               Federal or State law, including a victim of domestic
+                                                                  6               violence or stalking, a prosecutor and member of law
+                                                                  7               enforcement personnel, and a participant in a wit-
+                                                                  8               ness protection program.
+                                                                  9                        (6) A phone number.
+                                                                10                         (7) An email address.
+                                                                11                         (8) Citizenship status.
+                                                                12                         (9) Such other information as the chief State
+                                                                13                election official may designate as confidential to the
+                                                                14                extent reasonably necessary to prevent identity theft
+                                                                15                or impersonation, except that the chief State election
+                                                                16                official may not designate as confidential under this
+                                                                17                subparagraph the name, address, or date of registra-
+                                                                18                tion of an individual, or, where applicable, the self-
+                                                                19                identified racial or ethnic category of the individual
+                                                                20                as applicable under Revisions to OMB Directive
+                                                                21                Number 15 or successor directives.
+                                                                22                (f) PROTECTIONS AGAINST LIABILITY                                         OF   INDIVID-
+                                                                23      UALS ON           BASIS OF INFORMATION TRANSFERRED.—
+                                                                24                         (1) NO         INDIVIDUAL LIABILITY FOR REGISTRA-
+pwalker on DSK7TPTVN1PROD with
+
+
+
+                                                                25                TION OF INELIGIBLE INDIVIDUAL.—If                                         an individual
+                                                                             •HR 289 IH
+
+                                                                                                                       33
+                                                                  1               who is not eligible to register to vote in elections for
+                                                                  2               Federal office is registered to vote in such elections
+                                                                  3               by a chief State election official under section 201,
+                                                                  4               the individual shall not be subject to any penalty, in-
+                                                                  5               cluding the imposition of a fine or term of imprison-
+                                                                  6               ment, adverse treatment in any immigration or nat-
+                                                                  7               uralization proceeding, or the denial of any status
+                                                                  8               under immigration laws, under any law prohibiting
+                                                                  9               an individual who is not eligible to register to vote
+                                                                10                in elections for Federal office from registering to
+                                                                11                vote in such elections. Nothing in this paragraph
+                                                                12                shall be construed to waive the liability of any indi-
+                                                                13                vidual who knowingly provides false information to
+                                                                14                any person regarding the individual’s eligibility to
+                                                                15                register to vote or vote in elections for Federal of-
+                                                                16                fice.
+                                                                17                         (2) PROHIBITING                  USE OF INFORMATION BY OF-
+                                                                18                FICIALS.—No               person acting under color of law may
+                                                                19                use the information received by the chief State elec-
+                                                                20                tion official under section 201 to attempt to deter-
+                                                                21                mine the citizenship status of any individual for im-
+                                                                22                migration enforcement, criminal law enforcement
+                                                                23                (other than enforcement of election laws), or any
+pwalker on DSK7TPTVN1PROD with                                  24                purpose other than voter registration, election ad-
+                                                                25                ministration, or the enforcement of election laws.
+
+
+                                                                             •HR 289 IH
+
+                                                                  1               (g) PROHIBITION                   ON 34   TRANSFER              OF      INFORMATION
+                                                                  2 IRRELEVANT                      TO   ADMINISTRATION                     OF      ELECTIONS.—No
+                                                                  3 source agency shall transmit any information under sec-
+                                                                  4 tion 201 which is irrelevant to the administration of elec-
+                                                                  5 tions. To the extent that an election official receives any
+                                                                  6 information which is accidentally or inadvertently trans-
+                                                                  7 ferred by a source agency under such section, the official
+                                                                  8 shall immediately delete the information from the official’s
+                                                                109 records.      (h) RESTRICTION ON USE OF INFORMATION.—No in-
+                                                                11 formation relating to an individual’s absence from the
+                                                                12 statewide voter registration list under section 303 of the
+                                                                13 Help America Vote Act of 2002 (42 U.S.C. 15483) or an
+                                                                14 individual’s declination to supply information for voter
+                                                                15 registration purposes to a source agency under section 201
+                                                                16 may be disclosed to the public for immigration enforce-
+                                                                17 ment, criminal law enforcement other than enforcement
+                                                                18 of laws against election crimes, or used for any purpose
+                                                                19 other than voter registration, election administration, or
+                                                                20 the enforcement of election laws.
+                                                                21                (i) NONDISCRIMINATION.—No person acting under
+                                                                22 color of law may discriminate against any individual on
+                                                                23 the basis of the individual’s absence from the statewide
+pwalker on DSK7TPTVN1PROD with                                  24 voter registration list, the information supplied by the in-
+                                                                25 dividual for voter registration purpose to a source agency
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                       35
+                                                                  1 under section 201, or the individual’s declination to supply
+                                                                  2 such information, except as required for purposes of voter
+                                                                  3 registration, election administration, and the enforcement
+                                                                  4 of election laws.
+                                                                  5               (j) PROHIBITION                 ON THE         USE       OF     VOTER REGISTRA-
+                                                                  6     TION       INFORMATION                  FOR    COMMERCIAL                 OR      NON-GOVERN-
+                                                                  7     MENTAL            PURPOSES.—Voter registration information col-
+                                                                  8 lected under this title shall not be used for commercial
+                                                                  9 purposes including for comparison with any existing com-
+                                                                10 mercial list or database.
+                                                                11                (k) PENALTY.—Whoever knowingly uses information
+                                                                12 or permits information to be used in violation of this sec-
+                                                                13 tion shall be imprisoned for not more than 1 year, fined
+                                                                14 under title 18, United States Code, or both.
+                                                                15                (l) EXCLUSION FROM LISTS                                 OF     INDIVIDUALS DE-
+                                                                16      CLINING           REGISTRATION.—The chief State election official
+                                                                17 of a State shall ensure that, with respect to any individual
+                                                                18 who declines the opportunity to register to vote under sec-
+                                                                19 tion 201, the individual’s information is not included on
+                                                                20 the computerized Statewide voter registration list under
+                                                                21 section 303 of the Help America Vote Act of 2002 (42
+                                                                22 U.S.C. 15483) and is not provided to any third party (ex-
+                                                                23 cept to the extent required under another Federal or State
+pwalker on DSK7TPTVN1PROD with                                  24 law). Nothing in this subsection shall be construed to pre-
+                                                                25 clude an individual who has previously declined the oppor-
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                       36
+                                                                  1 tunity to register to vote from subsequently registering to
+                                                                  2 vote.
+                                                                  3     SEC. 203. PROMOTING ACCURACY OF STATEWIDE VOTER
+                                                                  4                             REGISTRATION LISTS.
+                                                                  5               (a) DEADLINES                  FOR       TRANSMITTAL                OF     CHANGE   OF
+                                                                  6 ADDRESS OR OTHER IDENTIFYING INFORMATION.—
+                                                                  7                        (1) INFORMATION                    RECEIVED BY STATE MOTOR
+                                                                  8               VEHICLE AUTHORITY.—Section                                  5(d) of the National
+                                                                  9               Voter Registration Act of 1993 (42 U.S.C. 1973gg–
+                                                                10                3(d)) is amended to read as follows:
+                                                                11                ‘‘(d) AUTOMATIC TRANSMITTAL                                 OF     CHANGE      OF   AD-
+                                                                12      DRESS            OR     OTHER IDENTIFYING INFORMATION.—Not
+                                                                13 later than 24 hours after receiving a change of address
+                                                                14 form or any other information indicating that identifying
+                                                                15 information with respect to an individual which is included
+                                                                16 in the records of the State motor vehicle authority has
+                                                                17 been changed, the State motor vehicle authority shall
+                                                                18 transmit such form or other information to the chief State
+                                                                19 election official, unless—
+                                                                20                         ‘‘(1) the records of the authority include infor-
+                                                                21                mation indicating that the individual is not eligible
+                                                                22                to register to vote in the State; or
+                                                                23                         ‘‘(2) the individual states on the form or other-
+pwalker on DSK7TPTVN1PROD with                                  24                wise indicates that the change of address or other
+                                                                25                information is not for voter registration purposes.’’.
+
+
+                                                                             •HR 289 IH
+
+                                                                  1                        (2) INFORMATION             37     RECEIVED BY OTHER VOTER
+                                                                  2               REGISTRATION AGENCIES.—Section                                          7 of such Act
+                                                                  3               (42 U.S.C. 1973gg–5) is amended by adding at the
+                                                                  4               end the following new subsection:
+                                                                  5               ‘‘(e) AUTOMATIC TRANSMITTAL                                 OF     CHANGE      OF   AD-
+                                                                  6     DRESS            OR     OTHER IDENTIFYING INFORMATION.—Not
+                                                                  7 later than 24 hours after receiving a change of address
+                                                                  8 form or any other information indicating that identifying
+                                                                  9 information with respect to an individual which is included
+                                                                10 in the records of a voter registration agency designated
+                                                                11 under this section has been changed, the appropriate offi-
+                                                                12 cial of such agency shall transmit such form or other in-
+                                                                13 formation to the chief State election official, unless—
+                                                                14                         ‘‘(1) the records of the agency include informa-
+                                                                15                tion indicating that the individual is not eligible to
+                                                                16                register to vote in the State; or
+                                                                17                         ‘‘(2) the individual states on the form or other-
+                                                                18                wise indicates that the change of address or other
+                                                                19                information is not for voter registration purposes.’’.
+                                                                20                         (3) INFORMATION                       RECEIVED                 FROM   SOURCE
+                                                                21                AGENCIES.—Not                   later than 24 hours after receiving
+                                                                22                a change of address form or any other information
+                                                                23                indicating that identifying information with respect
+pwalker on DSK7TPTVN1PROD with                                  24                to an individual which is included in the records of
+                                                                25                a source agency designated under section 201 has
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                       38
+                                                                  1               been changed, the appropriate official of such agency
+                                                                  2               shall transmit such form or other information to the
+                                                                  3               chief State election official, unless—
+                                                                  4                                 (A) the records of the agency include infor-
+                                                                  5                        mation indicating that the individual is not eli-
+                                                                  6                        gible to register to vote in the State; or
+                                                                  7                                 (B) the individual states on the form or
+                                                                  8                        otherwise indicates that the change of address
+                                                                  9                        or other information is not for voter registra-
+                                                                10                         tion purposes.
+                                                                11                (b) REVISION              OF     STATEWIDE COMPUTERIZED LIST
+                                                                12 TO REFLECT REVISED INFORMATION.—Section 303(a) of
+                                                                13 the Help America Vote Act of 2002 (42 U.S.C. 15483(a)),
+                                                                14 as amended by section 102(a), is amended by adding at
+                                                                15 the end the following new paragraph:
+                                                                16                         ‘‘(7) REVISION              OF LIST TO REFLECT INFORMA-
+                                                                17                TION RECEIVED FROM OTHER STATE OFFICES.—
+                                                                18                                  ‘‘(A) IN       GENERAL.—If                 a State motor vehi-
+                                                                19                         cle authority (pursuant to section 5(d) of the
+                                                                20                         National Voter Registration Act of 1993 (42
+                                                                21                         U.S.C. 1973gg–3(d))) a voter registration agen-
+                                                                22                         cy (designated under section 7 of such Act (42
+                                                                23                         U.S.C. 1973gg–5)), or a source agency (des-
+pwalker on DSK7TPTVN1PROD with                                  24                         ignated under section 201 of the Voting Line
+                                                                25                         Reduction and Online Registration Act) trans-
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                       39
+                                                                  1                        mits to the chief State election official a change
+                                                                  2                        of address form or any other information indi-
+                                                                  3                        cating that identifying information with respect
+                                                                  4                        to an individual has been changed, the appro-
+                                                                  5                        priate State or local election official shall—
+                                                                  6                                         ‘‘(i) determine whether the individual
+                                                                  7                                 appears on the computerized list estab-
+                                                                  8                                 lished under this section; and
+                                                                  9                                         ‘‘(ii) if the individual appears on the
+                                                                10                                  list, revise the information relating to the
+                                                                11                                  individual on the list to reflect the individ-
+                                                                12                                  ual’s new address or other changed identi-
+                                                                13                                  fying information.
+                                                                14                                  ‘‘(B) NOTIFICATION                       TO VOTERS.—If       an
+                                                                15                         election official revises any voter registration in-
+                                                                16                         formation on the computerized list with respect
+                                                                17                         to any voter (including removing the voter from
+                                                                18                         the list), immediately after revising the infor-
+                                                                19                         mation, the official shall send the individual a
+                                                                20                         written notice of the revision which includes the
+                                                                21                         following information:
+                                                                22                                          ‘‘(i) The voter’s name, date of birth,
+                                                                23                                  and address, as reflected in the revised in-
+pwalker on DSK7TPTVN1PROD with                                  24                                  formation on the computerized list.
+                                                                             •HR 289 IH
+
+                                                                                                                       40
+                                                                  1                                         ‘‘(ii) A statement that the voter’s
+                                                                  2                                 voter registration information has been up-
+                                                                  3                                 dated.
+                                                                  4                                         ‘‘(iii) Information on how to correct
+                                                                  5                                 information on the computerized list.
+                                                                  6                                         ‘‘(iv) A statement of the eligibility re-
+                                                                  7                                 quirements for registered voters in the
+                                                                  8                                 State.
+                                                                  9                                         ‘‘(v) A statement (in larger font size
+                                                                10                                  than the other statements on the notice)
+                                                                11                                  that it is illegal for an individual who does
+                                                                12                                  not meet the eligibility requirements for
+                                                                13                                  registered voters in the State to vote in an
+                                                                14                                  election in the State.
+                                                                15                                          ‘‘(vi) A statement that the voter may
+                                                                16                                  terminate the voter’s status as a registered
+                                                                17                                  voter in the State, or request a change in
+                                                                18                                  the voter’s voter registration information,
+                                                                19                                  at any time by contacting the appropriate
+                                                                20                                  State or local election official, together
+                                                                21                                  with contact information for such official
+                                                                22                                  (including any website through which the
+                                                                23                                  voter may contact the official or obtain in-
+pwalker on DSK7TPTVN1PROD with                                  24                                  formation on voter registration in the
+                                                                25                                  State).
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                       41
+                                                                  1                                 ‘‘(C) USE              OF ELECTRONIC MAIL.—If                an
+                                                                  2                        election official has an electronic mail address
+                                                                  3                        for any voter to whom the official is required to
+                                                                  4                        send a written notice under this paragraph, the
+                                                                  5                        official may meet the requirements of this para-
+                                                                  6                        graph by sending the notice to the voter in elec-
+                                                                  7                        tronic form at that address, but only if prior to
+                                                                  8                        sending the notice, the official sends a test elec-
+                                                                  9                        tronic mail to the voter at that address and re-
+                                                                10                         ceives confirmation that the address is current
+                                                                11                         and valid.’’.
+                                                                12                (c) EFFECTIVE DATE.—The amendments made by
+                                                                13 this section shall apply with respect to elections occurring
+                                                                14 during 2014 or any succeeding year.
+                                                                15      SEC. 204. DEFINITIONS.
+
+                                                                16                (a) CHIEF STATE ELECTION OFFICIAL.—In this
+                                                                17 title, the term ‘‘chief State election official’’ means, with
+                                                                18 respect to a State, the individual designated by the State
+                                                                19 under section 10 of the National Voter Registration Act
+                                                                20 of 1993 (42 U.S.C. 1973gg–8) to be responsible for co-
+                                                                21 ordination of the State’s responsibilities under such Act.
+                                                                22                (b) STATE.—In this title, the term ‘‘State’’ includes
+                                                                23 the District of Columbia, the Commonwealth of Puerto
+pwalker on DSK7TPTVN1PROD with                                  24 Rico, the United States Virgin Islands, Guam, and Amer-
+                                                                25 ican Samoa, but does not include any State in which,
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                       42
+                                                                  1 under a State law in effect continuously on and after the
+                                                                  2 date of the enactment of this Act, there is no voter reg-
+                                                                  3 istration requirement for individuals in the State with re-
+                                                                  4 spect to elections for Federal office.
+                                                                  5         TITLE III—SHORTENING VOTER
+                                                                  6         WAIT TIMES AND EARLY VOTING
+                                                                  7     SEC. 301. EQUITABLE ALLOCATION OF VOTING SYSTEMS,
+                                                                  8                             POLL WORKERS, AND ELECTION RESOURCES.
+                                                                  9               (a) IN GENERAL.—Title III of the Help America
+                                                                10 Vote Act of 2002 (42 U.S.C. 15481 et seq.) is amended
+                                                                11 by adding at the end the following new subtitle:
+                                                                12                         ‘‘Subtitle C—Additional
+                                                                13                              Requirements
+                                                                14      ‘‘SEC. 321. MINIMUM REQUIRED VOTING SYSTEMS AND
+                                                                15                              POLL WORKERS.
+                                                                16                ‘‘(a) IN GENERAL.—Each State shall provide for the
+                                                                17 minimum required number of voting systems, poll workers,
+                                                                18 and other election resources (including all other physical
+                                                                19 resources) for each voting site on the day of any Federal
+                                                                20 election and on any days during which such State allows
+                                                                21 early voting for a Federal election in accordance with the
+                                                                22 standards determined under subsection (c).
+                                                                23                ‘‘(b) VOTING SITE.—For purposes of this section, the
+pwalker on DSK7TPTVN1PROD with                                  24 term ‘voting site’ means a polling location, except that in
+                                                                             •HR 289 IH
+
+                                                                                                                       43
+                                                                  1 the case of any polling location which serves more than
+                                                                  2 1 precinct, such term shall mean a precinct.
+                                                                  3               ‘‘(c) GUIDANCE AND STANDARDS.—
+                                                                  4                        ‘‘(1) IN       GENERAL.—Not                     later than January 1,
+                                                                  5               2014, the Commission shall conduct a study and
+                                                                  6               then issue standards that establish a minimum num-
+                                                                  7               ber of voting systems, poll workers, and other elec-
+                                                                  8               tion resources (including all other physical re-
+                                                                  9               sources) for each voting site on the day of any Fed-
+                                                                10                eral election and on any days during which early vot-
+                                                                11                ing is allowed for a Federal election.
+                                                                12                         ‘‘(2) DISTRIBUTION.—
+                                                                13                                  ‘‘(A) IN           GENERAL.—The                       standards de-
+                                                                14                         scribed in paragraph (1) shall provide for a uni-
+                                                                15                         form and nondiscriminatory distribution of such
+                                                                16                         systems, workers, and other resources, and, to
+                                                                17                         the extent possible, shall take into account,
+                                                                18                         among other factors, the following:
+                                                                19                                          ‘‘(i) The voting age population.
+                                                                20                                          ‘‘(ii) Voter turnout in past elections.
+                                                                21                                          ‘‘(iii) The number of voters registered.
+                                                                22                                          ‘‘(iv) The number of voters who have
+                                                                23                                  registered since the most recent Federal
+pwalker on DSK7TPTVN1PROD with                                  24                                  election.
+                                                                             •HR 289 IH
+
+                                                                                                                       44
+                                                                  1                                         ‘‘(v) Census data for the population
+                                                                  2                                 served by such voting site.
+                                                                  3                                         ‘‘(vi) The educational levels and socio-
+                                                                  4                                 economic factors of the population served
+                                                                  5                                 by such voting site.
+                                                                  6                                         ‘‘(vii) The needs and numbers of vot-
+                                                                  7                                 ers with disabilities and voters with limited
+                                                                  8                                 English proficiency.
+                                                                109                                 used.   ‘‘(viii) The type of voting systems
+                                                                11                                  ‘‘(B)        NO         FACTOR              DISPOSITIVE.—The
+                                                                12                         standards shall provide that the distribution of
+                                                                13                         such systems should take into account the total-
+                                                                14                         ity of all relevant factors, and no single factor
+                                                                15                         shall be dispositive under the standards.
+                                                                16                                  ‘‘(C) PURPOSE.—To the extent possible,
+                                                                17                         the standards shall provide for a distribution of
+                                                                18                         voting systems, poll workers, and other election
+                                                                19                         resources with the goals of—
+                                                                20                                          ‘‘(i) ensuring a fair and equitable
+                                                                21                                  waiting time for all voters in the State;
+                                                                22                                  and
+                                                                23                                          ‘‘(ii) preventing a waiting time of over
+pwalker on DSK7TPTVN1PROD with                                  24                                  1 hour at any voting site.
+                                                                             •HR 289 IH
+
+                                                                                                                       45
+                                                                  1                        ‘‘(3) DEVIATION.—The standards described in
+                                                                  2               paragraph (1) shall permit States, upon giving rea-
+                                                                  3               sonable public notice, to deviate from any allocation
+                                                                  4               requirements                  in    the       case         of      unforeseen       cir-
+                                                                  5               cumstances such as a natural disaster or terrorist
+                                                                  6               attack.
+                                                                  7     ‘‘SEC. 322. ALLOCATION OF ELECTION RESOURCES.
+
+                                                                  8               ‘‘(a) STATE PLANS TO PREVENT UNREASONABLE
+                                                                  9 VOTER WAITING TIMES.—
+                                                                10                         ‘‘(1) IN       GENERAL.—Not                    later than 60 days be-
+                                                                11                fore each election for Federal office, each State shall
+                                                                12                submit a written plan to the Commission describing
+                                                                13                the measures it is implementing to ensure, to the
+                                                                14                greatest extent possible, an equitable waiting time
+                                                                15                for all voters in the State, and a waiting time of less
+                                                                16                than 1 hour at any polling place in the election.
+                                                                17                         ‘‘(2) PUBLICATION.—Not later than 30 days
+                                                                18                after receiving a State plan under paragraph (1),
+                                                                19                the Commission shall make the plan available to the
+                                                                20                public.
+                                                                21                ‘‘(b) REMEDIAL PLANS                         FOR       STATES WITH EXCES-
+                                                                22      SIVE      VOTER WAIT TIMES.—
+                                                                23                         ‘‘(1) COMPLIANCE                       WITH            STATE          REMEDIAL
+                                                                24                PLANS.—
+pwalker on DSK7TPTVN1PROD with
+
+
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                       46
+                                                                  1                                 ‘‘(A) REMEDIAL                PLANS.—Each                    jurisdiction
+                                                                  2                        for which the Commission determines that a
+                                                                  3                        substantial number of voters waited more than
+                                                                  4                        90 minutes to cast a vote in an election for
+                                                                  5                        Federal office, or in which there were substan-
+                                                                  6                        tial violations of the standards established
+                                                                  7                        under section 321(c) with respect to an election
+                                                                  8                        for Federal office, shall comply with a State re-
+                                                                  9                        medial plan established by the Commission to
+                                                                10                         provide for the effective allocation of resources
+                                                                11                         to administer elections held in the State and to
+                                                                12                         reduce the waiting time of voters.
+                                                                13                                  ‘‘(B)        COORDINATION                     WITH           ATTORNEY
+                                                                14                         GENERAL AND STATES.—Each                                       remedial plan
+                                                                15                         established by the Commission shall provide for
+                                                                16                         coordination between the Commission, the At-
+                                                                17                         torney General, and the State involved to mon-
+                                                                18                         itor the compliance of the State with the reme-
+                                                                19                         dial plan during the period leading up to the
+                                                                20                         election and on the date of the election and to
+                                                                21                         respond to serious delays in the ability of voters
+                                                                22                         to cast their ballots at polling places.
+                                                                23                         ‘‘(2) JURISDICTION                  DEFINED.—For                      purposes of
+pwalker on DSK7TPTVN1PROD with                                  24                this paragraph, the term ‘jurisdiction’ has the mean-
+                                                                25                ing given the term ‘registrar’s jurisdiction’ in section
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                       47
+                                                                  1               8(j) of the National Voter Registration Act of 1993
+                                                                  2               (42 U.S.C. 1973gg–6(j)).
+                                                                  3               ‘‘(c) EMERGENCY BALLOTS.—
+                                                                  4                        ‘‘(1) IN       GENERAL.—In                  the event of a failure of
+                                                                  5               voting equipment or other circumstance at a polling
+                                                                  6               place that causes an unreasonable delay, any indi-
+                                                                  7               vidual who is waiting at the polling place to cast a
+                                                                  8               ballot in an election for Federal office at the time
+                                                                  9               of the failure shall be advised immediately of the in-
+                                                                10                dividuals right to use an emergency paper ballot,
+                                                                11                and upon request shall be provided with an emer-
+                                                                12                gency paper ballot for the election and the supplies
+                                                                13                necessary to mark the ballot.
+                                                                14                         ‘‘(2) DISPOSITION                 OF BALLOT.—Any                      emergency
+                                                                15                paper ballot which is cast by an individual under
+                                                                16                this subsection shall be counted in the same manner
+                                                                17                as a regular ballot, unless the individual casting the
+                                                                18                ballot would have otherwise been required to cast a
+                                                                19                provisional ballot in the absence of the delay, in
+                                                                20                which case that ballot shall be treated in the same
+                                                                21                manner as a provisional ballot.’’.
+                                                                22                (b) CLERICAL AMENDMENTS.—The table of contents
+                                                                23 of such Act is amended by adding at the end of the items
+pwalker on DSK7TPTVN1PROD with                                  24 relating to title III the following:
+                                                                                                     ‘‘Subtitle C—Additional Requirements
+
+
+
+
+                                                                             •HR 289 IH
+
+                                                                                                                       48
+                                                                        ‘‘Sec. 321. Minimum required voting systems and poll workers.
+                                                                        ‘‘Sec. 322. Allocation of election resources.’’.
+                                                                  1     SEC. 302. EARLY VOTING.
+                                                                  2               (a) REQUIREMENTS.—Subtitle C of title III of the
+                                                                  3 Help America Vote Act of 2002, as added by section 301,
+                                                                  4 is amended by adding at the end the following new section:
+                                                                  5     ‘‘SEC. 323. EARLY VOTING.
+
+                                                                  6               ‘‘(a) IN GENERAL.—During the 7-day period (or, at
+                                                                  7 the option of the State, a longer period) which ends on
+                                                                  8 the date of an election for Federal office, each State shall
+                                                                  9 allow individuals to vote in the election in the same man-
+                                                                10 ner as voting is allowed on the date of such election.
+                                                                11                ‘‘(b) MINIMUM EARLY VOTING REQUIREMENTS.—
+                                                                12 Each polling place which allows voting prior to the day
+                                                                13 of a Federal election pursuant to subsection (a) shall—
+                                                                14                         ‘‘(1) allow such voting for no less than 4 hours
+                                                                15                on each day (other than Sunday); and
+                                                                16                         ‘‘(2) have minimum uniform hours each day for
+                                                                17                which such voting occurs.
+                                                                18                ‘‘(c) STANDARDS FOR EARLY VOTING.—
+                                                                19                         ‘‘(1) STANDARDS.—
+                                                                20                                  ‘‘(A) IN       GENERAL.—The                     Commission shall
+                                                                21                         issue standards for the administration of voting
+                                                                22                         prior to the day scheduled for a Federal elec-
+pwalker on DSK7TPTVN1PROD with                                  23                         tion.
+                                                                             •HR 289 IH
+
+                                                                  1                                 ‘‘(B) STANDARDS49                  FOR POLLING PLACES.—
+                                                                  2                        Such standards shall include the nondiscrim-
+                                                                  3                        inatory geographic placement of polling places
+                                                                  4                        at which such voting occurs and the public list-
+                                                                  5                        ing of the date, time, and location of polling
+                                                                  6                        places no earlier than 10 days before the date
+                                                                  7                        on which such voting begins.
+                                                                  8                                 ‘‘(C)        CONSULTATION.—Such                              standards
+                                                                  9                        shall be developed in consultation with civil
+                                                                10                         rights, voting rights, and voting protection or-
+                                                                11                         ganizations, State and local election officials,
+                                                                12                         and other interested members of the commu-
+                                                                13                         nity.
+                                                                14                         ‘‘(2) DEVIATION.—The standards described in
+                                                                15                paragraph (1) shall permit States, upon giving rea-
+                                                                16                sonable public notice, to deviate from any require-
+                                                                17                ment in the case of unforeseen circumstances such
+                                                                18                as a natural disaster or a terrorist attack.’’.
+                                                                19                (b) CLERICAL AMENDMENT.—The table of contents
+                                                                20 of such Act, as amended by section 301, is amended by
+                                                                21 adding at the end of the items relating to subtitle C of
+                                                                22 title III the following:
+pwalker on DSK7TPTVN1PROD with                                          ‘‘Sec. 323. Early voting.’’.
+                                                                             •HR 289 IH
+
+                                                                  1     SEC. 303. CONFORMING AMENDMENT TO ENFORCEMENT  50
+                                                                  2                             PROVISION.
+                                                                  3               Section 401 of the Help America Vote Act of 2002
+                                                                  4 (42 U.S.C. 15511) is amended by striking ‘‘sections 301,
+                                                                  5 302, and 303’’ and inserting ‘‘subtitles A and C of title
+                                                                  6 III’’.
+                                                                  7                          TITLE IV—GENERAL
+                                                                  8                             PROVISIONS
+                                                                  9     SEC. 401. EFFECTIVE DATE.
+
+                                                                10                (a) IN GENERAL.—Except as provided in subsection
+                                                                11 (b) and section 203(c), the amendments made by this Act
+                                                                12 shall take effect on January 1, 2014.
+                                                                13                (b) WAIVER.—Subject to the approval of the Election
+                                                                14 Assistance Commission, if a State certifies to the Election
+                                                                15 Assistance Commission that the State will not meet the
+                                                                16 deadline referred to in subsection (a) because of extraor-
+                                                                17 dinary circumstances and includes in the certification the
+                                                                18 reasons for the failure to meet the deadline, subsection
+                                                                19 (a) shall apply to the State as if the reference in such
+                                                                20 subsection to ‘‘January 1, 2014’’ were a reference to
+                                                                21 ‘‘January 1, 2016’’.
+                                                                                                                           Æ
+pwalker on DSK7TPTVN1PROD with
+
+
+
+
+                                                                             •HR 289 IH
+

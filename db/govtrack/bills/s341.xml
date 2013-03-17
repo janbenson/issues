@@ -1,0 +1,31 @@
+<bill session="113" type="s" number="341" updated="2013-03-02T06:16:37-05:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title as="introduced" type="short">San Juan Mountains Wilderness Act</title>
+    <title as="introduced" type="official">A bill to designate certain lands in San Miguel, Ouray, and San Juan Counties, Colorado, as wilderness, and for other purposes.</title>
+  </titles>
+  <sponsor id="400412"/>
+  <cosponsors>
+    <cosponsor id="412330" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-14">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Colorado"/>
+    <term name="Land transfers"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+</bill>

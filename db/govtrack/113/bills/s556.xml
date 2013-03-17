@@ -1,0 +1,24 @@
+<bill session="113" type="s" number="556" updated="2013-03-14T12:45:59-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="short">Air Carrier Access Amendments Act</title>
+    <title as="introduced" type="official">A bill to amend title 49, United States Code, to improve the accessibility of entertainment programming provided by air carriers on passenger flights, and for other purposes.</title>
+  </titles>
+  <sponsor id="300051"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-13">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

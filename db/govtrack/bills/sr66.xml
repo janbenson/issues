@@ -1,0 +1,33 @@
+<bill session="113" type="sr" number="66" updated="2013-03-09T06:22:40-05:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="official">A resolution designating the first week of April 2013 as "National Asbestos Awareness Week".</title>
+  </titles>
+  <sponsor id="300005"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2013-02-28"/>
+    <cosponsor id="300038" joined="2013-02-28"/>
+    <cosponsor id="400194" joined="2013-02-28"/>
+    <cosponsor id="300076" joined="2013-02-28"/>
+    <cosponsor id="300082" joined="2013-02-28"/>
+    <cosponsor id="412244" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S1036" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>2/28/2013--Introduced.
+Designates the first week of April 2013 as National Asbestos Awareness Week. Urges the Surgeon General to warn and educate people about asbestos exposure, which may be hazardous to their health.</summary>
+</bill>

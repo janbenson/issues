@@ -1,0 +1,46 @@
+<bill session="113" type="h" number="1039" updated="2013-03-15T04:47:23-04:00">
+  <state datetime="2013-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-11"/>
+  </status>
+  <introduced datetime="2013-03-11"/>
+  <titles>
+    <title as="introduced" type="official">To rescind unobligated amounts for foreign assistance to Egypt, and to appropriate funds for the Department of Defense tuition assistance program.</title>
+  </titles>
+  <sponsor id="400646"/>
+  <cosponsors>
+    <cosponsor id="412436" joined="2013-03-12"/>
+    <cosponsor id="412196" joined="2013-03-12"/>
+    <cosponsor id="400076" joined="2013-03-14"/>
+    <cosponsor id="412271" joined="2013-03-12"/>
+    <cosponsor id="412536" joined="2013-03-14"/>
+    <cosponsor id="400100" joined="2013-03-14"/>
+    <cosponsor id="412401" joined="2013-03-14"/>
+    <cosponsor id="412284" joined="2013-03-12"/>
+    <cosponsor id="400209" joined="2013-03-11"/>
+    <cosponsor id="412290" joined="2013-03-12"/>
+    <cosponsor id="400244" joined="2013-03-14"/>
+    <cosponsor id="412445" joined="2013-03-13"/>
+    <cosponsor id="412292" joined="2013-03-14"/>
+    <cosponsor id="412487" joined="2013-03-12"/>
+    <cosponsor id="412568" joined="2013-03-14"/>
+    <cosponsor id="412474" joined="2013-03-12"/>
+    <cosponsor id="412483" joined="2013-03-14"/>
+    <cosponsor id="412411" joined="2013-03-12"/>
+    <cosponsor id="412461" joined="2013-03-13"/>
+    <cosponsor id="412405" joined="2013-03-12"/>
+    <cosponsor id="400419" joined="2013-03-14"/>
+    <cosponsor id="400627" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-11">
+      <text>Referred to the House Committee on Appropriations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

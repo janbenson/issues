@@ -1,0 +1,283 @@
+                                                                                                                                   I
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                          H. R. 540
+                                  To amend the National Energy Conservation Policy Act and the Energy
+                                      Independence and Security Act of 2007 to promote energy efficiency
+                                      via information and computing technologies, and for other purposes.
+
+
+
+
+                                                IN THE HOUSE OF REPRESENTATIVES
+                                                              FEBRUARY 6, 2013
+                                  Ms. ESHOO (for herself, Mr. ROGERS of Michigan, Mr. WELCH, Mr. MCKIN-
+                                      LEY, Mr. TONKO, and Mr. GARDNER) introduced the following bill; which
+                                      was referred to the Committee on Energy and Commerce
+
+
+
+
+                                                                            A BILL
+                                  To amend the National Energy Conservation Policy Act and
+                                     the Energy Independence and Security Act of 2007 to
+                                     promote energy efficiency via information and computing
+                                     technologies, and for other purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Energy Efficient Gov-
+                                    5 ernment Technology Act’’.
+
+
+
+
+
+                                    1     SEC. 2. ENERGY-EFFICIENT AND ENERGY-SAVING INFOR-  2
+                                    2                             MATION              AND          COMMUNICATIONS                  TECH-
+                                    3                             NOLOGIES.
+                                    4              Section 543 of the National Energy Conservation
+                                    5 Policy Act (42 U.S.C. 8253) is amended—
+                                    6                        (1) by redesignating the second subsection (f)
+                                    7              (relating to large capital energy investments) as sub-
+                                    8              section (g); and
+                                    9                        (2) by adding at the end the following:
+                                  10               ‘‘(h) FEDERAL IMPLEMENTATION STRATEGY                                            FOR
+                                  11 ENERGY-EFFICIENT                             AND        ENERGY-SAVING INFORMATION
+                                  12      AND      COMMUNICATIONS TECHNOLOGIES.—
+                                  13                         ‘‘(1) IN      GENERAL.—Not                    later than 1 year after
+                                  14               the date of enactment of this subsection, each Fed-
+                                  15               eral agency shall collaborate with the Director of the
+                                  16               Office of Management and Budget (referred to in
+                                  17               this subsection as the ‘Director’) to develop an im-
+                                  18               plementation strategy (including best-practices and
+                                  19               measurement and verification techniques) for the
+                                  20               maintenance, purchase, and use by the Federal
+                                  21               agency of energy-efficient and energy-saving infor-
+                                  22               mation and communications technologies and prac-
+                                  23               tices. Each implementation strategy shall be flexible,
+                                  24               cost-effective, and based on the specific operating re-
+
+
+
+
+                                  25               quirements and statutory mission of the agency.
+                                              •HR 540 IH
+
+                                                                                             3
+                                    1                        ‘‘(2) ADMINISTRATION.—In developing an im-
+                                    2              plementation strategy, each Federal agency shall—
+                                    3                                 ‘‘(A) consider information and communica-
+                                    4                        tions technologies (ICT) and related infrastruc-
+                                    5                        ture and practices, such as—
+                                    6                                        ‘‘(i) advanced metering infrastructure;
+                                    7                                        ‘‘(ii) ICT services and products;
+                                    8                                        ‘‘(iii) efficient data center strategies
+                                    9                                 and methods of increasing ICT asset and
+                                  10                                  related infrastructure utilization;
+                                  11                                         ‘‘(iv) ICT and related infrastructure
+                                  12                                  power management;
+                                  13                                         ‘‘(v) building information modeling,
+                                  14                                  including building energy management;
+                                  15                                  and
+                                  16                                         ‘‘(vi) secure telework and travel sub-
+                                  17                                  stitution tools; and
+                                  18                                  ‘‘(B) ensure that the agency realizes the
+                                  19                         savings and rewards brought about through in-
+                                  20                         creased efficiency and utilization.
+                                  21                         ‘‘(3) PERFORMANCE                     GOALS.—
+
+                                  22                                  ‘‘(A) IN         GENERAL.—Not                     later than 180
+                                  23                         days after the date of enactment of this sub-
+                                  24                         section, the Director, in consultation with the
+
+
+
+
+                                  25                         Secretary, shall establish performance goals for
+                                              •HR 540 IH
+
+                                                                                             4
+                                    1                        evaluating the efforts of Federal agencies in im-
+                                    2                        proving the maintenance, purchase, and use of
+                                    3                        energy-efficient and energy-saving information
+                                    4                        and communications technology systems and
+                                    5                        practices.
+                                    6                                 ‘‘(B) ENERGY                       EFFICIENT             DATA   CEN-
+                                    7                        TERS.—The               Director shall include within the
+                                    8                        performance goals established under this para-
+                                  109                        graph—        ‘‘(i) specifications and benchmarks
+                                  11                                  that will enable Federal data center opera-
+                                  12                                  tors to make more informed decisions
+                                  13                                  about the energy efficiency and cost sav-
+                                  14                                  ings of data centers, including an overall
+                                  15                                  Federal target for increased energy effi-
+                                  16                                  ciency, with initial reliance on the Power
+                                  17                                  Usage Effectiveness metric;
+                                  18                                         ‘‘(ii) overall ICT asset utilization and
+                                  19                                  related infrastructure utilization; and
+                                  20                                         ‘‘(iii) recommendations and best prac-
+                                  21                                  tices for how the benchmarks will be at-
+                                  22                                  tained, with such recommendations to in-
+                                  23                                  clude a requirement for agencies to evalu-
+                                  24                                  ate the use of energy savings performance
+
+
+
+
+
+                                              •HR 540 IH
+
+                                                                                             5
+                                    1                                 contracting as a preferred acquisition
+                                    2                                 method for data center efficiency.
+                                    3                                 ‘‘(C) ADMINISTRATION.—The performance
+                                    4                        goals established under this paragraph shall—
+                                    5                                        ‘‘(i) measure information technology
+                                    6                                 costs over a specific time period of 3 to 5
+                                    7                                 years;
+                                    8                                        ‘‘(ii) measure cost savings attained via
+                                    9                                 the use of energy-efficient and energy-sav-
+                                  10                                  ing information and communications solu-
+                                  11                                  tions during the same time period; and
+                                  12                                         ‘‘(iii) provide, to the maximum extent
+                                  13                                  practicable, a complete picture of all costs
+                                  14                                  and savings, including energy costs and
+                                  15                                  savings.
+                                  16                         ‘‘(4) FEDERAL               DATA CENTERS TASK FORCE.—
+                                  17               The Director shall maintain a Government-wide
+                                  18               Data Center Task Force comprised of Federal data
+                                  19               center program managers, facilities managers, and
+                                  20               sustainability officers. The members of such task
+                                  21               force shall be responsible for working together to
+                                  22               share progress toward individual agency goals and
+                                  23               the overall Federal target for increased energy effi-
+                                  24               ciency, and shall regularly exchange best practices
+
+
+
+
+
+                                              •HR 540 IH
+
+                                                                                             6
+                                    1              and other strategic information related to energy ef-
+                                    2              ficiency with the private sector.
+                                    3                        ‘‘(5) REPORTS.—
+                                    4                                 ‘‘(A) AGENCY                  REPORTS.—Each                   Federal
+                                    5                        agency subject to the requirements of this sub-
+                                    6                        section shall include in the report of the agency
+                                    7                        under section 527 of the Energy Independence
+                                    8                        and Security Act of 2007 (42 U.S.C. 17143) a
+                                    9                        description of the efforts and results of the
+                                  10                         agency under this subsection.
+                                  11                                  ‘‘(B) OMB              GOVERNMENT EFFICIENCY RE-
+                                  12                         PORTS AND SCORECARDS.—Effective                                       beginning
+                                  13                         not later than October 1, 2013, the Director
+                                  14                         shall include in the annual report and scorecard
+                                  15                         of the Director required under section 528 of
+                                  16                         the Energy Independence and Security Act of
+                                  17                         2007 (42 U.S.C. 17144) a description of the ef-
+                                  18                         forts and results of Federal agencies under this
+                                  19                         subsection.’’.
+                                  20      SEC. 3. ENERGY EFFICIENT DATA CENTERS.
+                                  21               Section 453 of the Energy Independence and Security
+                                  22 Act of 2007 (42 U.S.C. 17112) is amended—
+                                  23                         (1) by amending subsection (c)(1) to read as
+                                  24               follows:
+
+
+
+
+
+                                              •HR 540 IH
+
+                                                                                             7
+                                    1                        ‘‘(1) IN         GENERAL.—Not                     later than 30 days
+                                    2              after the date of enactment of the Energy Efficient
+                                    3              Government Technology Act, the Secretary and the
+                                    4              Administrator shall designate an established infor-
+                                    5              mation technology industry organization to coordi-
+                                    6              nate the program described in subsection (b), and
+                                    7              shall make such designation public, including on an
+                                    8              appropriate website.’’;
+                                    9                        (2) by amending subsections (e) and (f) to read
+                                  10               as follows:
+                                  11               ‘‘(e) STUDY.—The Secretary, with assistance from
+                                  12 the Administrator, shall—
+                                  13                         ‘‘(1) not later than December 31, 2013, make
+                                  14               available to the public an update to the Report to
+                                  15               Congress on Server and Data Center Energy Effi-
+                                  16               ciency published on August 2, 2007, under Public
+                                  17               Law 109–431, providing—
+                                  18                                  ‘‘(A) a comparison and gap analysis of the
+                                  19                         estimates and projections contained in the origi-
+                                  20                         nal report with new data regarding the period
+                                  21                         from 2007 though 2012;
+                                  22                                  ‘‘(B) an analysis considering the impact of
+                                  23                         ICT asset and related infrastructure utilization
+                                  24                         solutions, to include virtualization and cloud
+
+
+
+
+
+                                              •HR 540 IH
+
+                                                                                             8
+                                    1                        computing-based solutions, in the public and
+                                    2                        private sectors; and
+                                    3                                 ‘‘(C) updated projections and recommenda-
+                                    4                        tions for best practices; and
+                                    5                        ‘‘(2) collaborate with the organization des-
+                                    6              ignated under subsection (c) in preparing such re-
+                                    7              port.
+                                    8              ‘‘(f) DATA CENTER ENERGY PRACTITIONER PRO-
+                                    9     GRAM.—The               Secretary, in collaboration with the organiza-
+                                  10 tion designated under subsection (c) and the United
+                                  11 States Chief Information Officer in the Office of Manage-
+                                  12 ment and Budget, shall maintain a data center energy
+                                  13 practitioner program that leads to the certification of en-
+                                  14 ergy practitioners qualified to evaluate the energy usage
+                                  15 and efficiency opportunities in data centers. Each Federal
+                                  16 agency shall have its data centers evaluated annually by
+                                  17 energy practitioners certified pursuant to such program,
+                                  18 whenever practicable using certified practitioners em-
+                                  19 ployed by that agency.’’;
+                                  20                         (3) by redesignating subsection (g) as sub-
+                                  21               section (j); and
+                                  22                         (4) by inserting after subsection (f) the fol-
+                                  23               lowing new subsections:
+                                  24               ‘‘(g) OPEN DATA INITIATIVE.—The Secretary, in col-
+
+
+
+
+                                  25 laboration with the organization designated under sub-
+                                              •HR 540 IH
+
+                                                                                             9
+                                    1 section (c) and the United States Chief Information Offi-
+                                    2 cer in the Office of Management and Budget, shall estab-
+                                    3 lish an open data initiative for Federal data center energy
+                                    4 usage data, with the purpose of making such data avail-
+                                    5 able and accessible in a manner that empowers further
+                                    6 data center innovation while protecting United States na-
+                                    7 tional security interests. In establishing this initiative, the
+                                    8 Secretary shall consider use of the online Data Center Ma-
+                                    9 turity Model.
+                                  10               ‘‘(h)          INTERNATIONAL                          SPECIFICATIONS            AND
+                                  11 METRICS.—The Secretary, in collaboration with the orga-
+                                  12 nization designated under subsection (c), shall actively
+                                  13 participate in efforts to harmonize global specifications
+                                  14 and metrics for data center energy efficiency.
+                                  15               ‘‘(i) ICT ASSET UTILIZATION METRIC.—The Sec-
+                                  16 retary, in collaboration with the organization designated
+                                  17 under subsection (c), shall assist in the development of
+                                  18 an efficiency metric that measures the energy efficiency
+                                  19 of the overall data center, including information tech-
+                                  20 nology systems and related infrastructure.’’.
+                                              •HR 540 IH                                   Æ

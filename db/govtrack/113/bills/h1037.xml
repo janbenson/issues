@@ -1,0 +1,28 @@
+<bill session="113" type="h" number="1037" updated="2013-03-13T04:46:33-04:00">
+  <state datetime="2013-03-07">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-07"/>
+  </status>
+  <introduced datetime="2013-03-07"/>
+  <titles>
+    <title as="introduced" type="short">Occupational Therapy in Mental Health Act</title>
+    <title as="introduced" type="official">To amend the Public Health Service Act to include occupational therapists as behavioral and mental health professionals for purposes of the National Health Service Corps.</title>
+  </titles>
+  <sponsor id="412319"/>
+  <cosponsors>
+    <cosponsor id="400048" joined="2013-03-07"/>
+    <cosponsor id="400074" joined="2013-03-12"/>
+    <cosponsor id="400378" joined="2013-03-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-07">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

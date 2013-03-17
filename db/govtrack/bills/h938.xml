@@ -1,0 +1,123 @@
+<bill session="113" type="h" number="938" updated="2013-03-13T04:46:25-04:00">
+  <state datetime="2013-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-04"/>
+  </status>
+  <introduced datetime="2013-03-04"/>
+  <titles>
+    <title as="introduced" type="short">United States-Israel Strategic Partnership Act of 2013</title>
+    <title as="introduced" type="official">To strengthen the strategic alliance between the United States and Israel, and for other purposes.</title>
+  </titles>
+  <sponsor id="400344"/>
+  <cosponsors>
+    <cosponsor id="400008" joined="2013-03-06"/>
+    <cosponsor id="412216" joined="2013-03-06"/>
+    <cosponsor id="400010" joined="2013-03-06"/>
+    <cosponsor id="412250" joined="2013-03-06"/>
+    <cosponsor id="400029" joined="2013-03-12"/>
+    <cosponsor id="400047" joined="2013-03-06"/>
+    <cosponsor id="412208" joined="2013-03-12"/>
+    <cosponsor id="412196" joined="2013-03-06"/>
+    <cosponsor id="412011" joined="2013-03-06"/>
+    <cosponsor id="400068" joined="2013-03-06"/>
+    <cosponsor id="412270" joined="2013-03-12"/>
+    <cosponsor id="412271" joined="2013-03-12"/>
+    <cosponsor id="412563" joined="2013-03-12"/>
+    <cosponsor id="400618" joined="2013-03-06"/>
+    <cosponsor id="412193" joined="2013-03-12"/>
+    <cosponsor id="400089" joined="2013-03-12"/>
+    <cosponsor id="412536" joined="2013-03-07"/>
+    <cosponsor id="412385" joined="2013-03-04"/>
+    <cosponsor id="400108" joined="2013-03-06"/>
+    <cosponsor id="412457" joined="2013-03-12"/>
+    <cosponsor id="412479" joined="2013-03-06"/>
+    <cosponsor id="412476" joined="2013-03-12"/>
+    <cosponsor id="412529" joined="2013-03-06"/>
+    <cosponsor id="400141" joined="2013-03-06"/>
+    <cosponsor id="412382" joined="2013-03-12"/>
+    <cosponsor id="400651" joined="2013-03-07"/>
+    <cosponsor id="400653" joined="2013-03-06"/>
+    <cosponsor id="400160" joined="2013-03-06"/>
+    <cosponsor id="412451" joined="2013-03-07"/>
+    <cosponsor id="412498" joined="2013-03-06"/>
+    <cosponsor id="412418" joined="2013-03-12"/>
+    <cosponsor id="412454" joined="2013-03-12"/>
+    <cosponsor id="412444" joined="2013-03-12"/>
+    <cosponsor id="412446" joined="2013-03-07"/>
+    <cosponsor id="400175" joined="2013-03-06"/>
+    <cosponsor id="400641" joined="2013-03-06"/>
+    <cosponsor id="412422" joined="2013-03-06"/>
+    <cosponsor id="400195" joined="2013-03-12"/>
+    <cosponsor id="412435" joined="2013-03-06"/>
+    <cosponsor id="400219" joined="2013-03-06"/>
+    <cosponsor id="412421" joined="2013-03-07"/>
+    <cosponsor id="400230" joined="2013-03-12"/>
+    <cosponsor id="400630" joined="2013-03-12"/>
+    <cosponsor id="400244" joined="2013-03-07"/>
+    <cosponsor id="412445" joined="2013-03-06"/>
+    <cosponsor id="400246" joined="2013-03-12"/>
+    <cosponsor id="412292" joined="2013-03-06"/>
+    <cosponsor id="400656" joined="2013-03-06"/>
+    <cosponsor id="412468" joined="2013-03-12"/>
+    <cosponsor id="400253" joined="2013-03-06"/>
+    <cosponsor id="400654" joined="2013-03-12"/>
+    <cosponsor id="412487" joined="2013-03-12"/>
+    <cosponsor id="412466" joined="2013-03-12"/>
+    <cosponsor id="400274" joined="2013-03-12"/>
+    <cosponsor id="412527" joined="2013-03-12"/>
+    <cosponsor id="412302" joined="2013-03-12"/>
+    <cosponsor id="412383" joined="2013-03-12"/>
+    <cosponsor id="400309" joined="2013-03-12"/>
+    <cosponsor id="400313" joined="2013-03-06"/>
+    <cosponsor id="412551" joined="2013-03-12"/>
+    <cosponsor id="412309" joined="2013-03-12"/>
+    <cosponsor id="412426" joined="2013-03-12"/>
+    <cosponsor id="412202" joined="2013-03-06"/>
+    <cosponsor id="412212" joined="2013-03-07"/>
+    <cosponsor id="400361" joined="2013-03-06"/>
+    <cosponsor id="412534" joined="2013-03-12"/>
+    <cosponsor id="412314" joined="2013-03-07"/>
+    <cosponsor id="400647" joined="2013-03-06"/>
+    <cosponsor id="412399" joined="2013-03-06"/>
+    <cosponsor id="400371" joined="2013-03-06"/>
+    <cosponsor id="412509" joined="2013-03-12"/>
+    <cosponsor id="412186" joined="2013-03-06"/>
+    <cosponsor id="400379" joined="2013-03-12"/>
+    <cosponsor id="400380" joined="2013-03-12"/>
+    <cosponsor id="412461" joined="2013-03-06"/>
+    <cosponsor id="410396" joined="2013-03-06"/>
+    <cosponsor id="412514" joined="2013-03-07"/>
+    <cosponsor id="412520" joined="2013-03-12"/>
+    <cosponsor id="412318" joined="2013-03-12"/>
+    <cosponsor id="412522" joined="2013-03-12"/>
+    <cosponsor id="400416" joined="2013-03-06"/>
+    <cosponsor id="412213" joined="2013-03-06"/>
+    <cosponsor id="400419" joined="2013-03-06"/>
+    <cosponsor id="400425" joined="2013-03-06"/>
+    <cosponsor id="412578" joined="2013-03-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-04">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-04">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2013-03-04">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-03-04">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>3/4/2013--Introduced.
+United States-Israel Strategic Partnership Act of 2013 - Declares that Israel is a major strategic partner of the United States. Amends the Israel Enhanced Security Cooperation Act of 2012 to extend authority to: (1) make additions to foreign-based defense stockpiles, and (2) transfer certain obsolete or surplus Department of Defense (DOD) items to Israel. Authorizes the President to carry out U.S.-Israel cooperative activities and to provide assistance for cooperation in the fields of energy, water, homeland security, agriculture, and alternative fuel technologies. Amends the the Energy Independence and Security Act of 2007 to extend the grant program for U.S.-Israeli cooperation on research, development, and commercialization of renewable energy or energy efficiency. Expresses the sense of Congress that the United States and Israel should increase cyber-security cooperation. Urges the President to provide assistance for enhancement of the David's Sling Weapon System, the joint United States-Israel Arrow Weapon System, and the Iron Dome short-range rocket defense system. States that it shall be U.S. policy to include Israel in in the visa waiver program when Israel satisfies such program's inclusion requirements.</summary>
+</bill>

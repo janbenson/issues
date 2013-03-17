@@ -1,0 +1,31 @@
+<bill session="113" type="h" number="891" updated="2013-03-04T15:45:38-05:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">Young Americans Financial Literacy Act</title>
+    <title as="introduced" type="official">To establish a grant program in the Bureau of Consumer Financial Protection to fund the establishment of centers of excellence to support research, development and planning, implementation, and evaluation of effective programs in financial literacy education for young people and families ages 8 through 24 years old, and for other purposes.</title>
+  </titles>
+  <sponsor id="412258"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

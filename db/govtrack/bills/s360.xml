@@ -1,0 +1,49 @@
+<bill session="113" type="s" number="360" updated="2013-03-09T06:16:44-05:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title as="introduced" type="short">Public Lands Service Corps Act of 2013</title>
+    <title as="introduced" type="short">Public Lands Service Corps Act of 1993</title>
+    <title as="introduced" type="official">A bill to amend the Public Lands Corps Act of 1993 to expand the authorization of the Secretaries of Agriculture, Commerce, and the Interior to provide service opportunities for young Americans; help restore the nation's natural, cultural, historic, archaeological, recreational and scenic resources; train a new generation of public land managers and enthusiasts; and promote the value of public service.</title>
+  </titles>
+  <sponsor id="400413"/>
+  <cosponsors>
+    <cosponsor id="412326" joined="2013-02-14"/>
+    <cosponsor id="300011" joined="2013-02-14"/>
+    <cosponsor id="412390" joined="2013-02-14"/>
+    <cosponsor id="412281" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-14">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Building construction"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Department of Commerce"/>
+    <term name="Department of the Interior"/>
+    <term name="Employment and training programs"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Historical and cultural resources"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Indian social and development programs"/>
+    <term name="Land use and conservation"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+    <term name="National and community service"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+    <term name="Wildlife conservation and habitat protection"/>
+    <term name="Youth employment and child labor"/>
+  </subjects>
+  <amendments/>
+</bill>

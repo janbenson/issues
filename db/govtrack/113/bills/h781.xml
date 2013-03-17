@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="781" updated="2013-02-28T12:45:39-05:00">
+  <state datetime="2013-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-15"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title as="introduced" type="short">Medicare Identity Theft Prevention Act of 2013</title>
+    <title as="introduced" type="official">To amend title II of the Social Security Act to prohibit the inclusion of Social Security account numbers on Medicare cards.</title>
+  </titles>
+  <sponsor id="400206"/>
+  <cosponsors>
+    <cosponsor id="400111" joined="2013-02-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-15">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

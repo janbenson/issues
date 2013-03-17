@@ -1,0 +1,35 @@
+<bill session="113" type="s" number="517" updated="2013-03-14T04:45:38-04:00">
+  <state datetime="2013-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-11"/>
+  </status>
+  <introduced datetime="2013-03-11"/>
+  <titles>
+    <title as="introduced" type="official">A bill to promote consumer choice and wireless competition by permitting consumers to unlock mobile wireless devices, and for other purposes.</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors>
+    <cosponsor id="412378" joined="2013-03-11"/>
+    <cosponsor id="300048" joined="2013-03-11"/>
+    <cosponsor id="300052" joined="2013-03-11"/>
+    <cosponsor id="412242" joined="2013-03-11"/>
+    <cosponsor id="412495" joined="2013-03-11"/>
+    <cosponsor id="412247" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-11">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1594-1595"/>
+    </action>
+    <action state="REFERRED" datetime="2013-03-11">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S1595" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

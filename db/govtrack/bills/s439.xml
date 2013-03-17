@@ -1,0 +1,24 @@
+<bill session="113" type="s" number="439" updated="2013-03-07T12:45:30-05:00">
+  <state datetime="2013-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-04"/>
+  </status>
+  <introduced datetime="2013-03-04"/>
+  <titles>
+    <title as="introduced" type="short">Career and Technical Education Facilities Modernization Act</title>
+    <title as="introduced" type="official">A bill to amend the Elementary and Secondary Education Act of 1965 by establishing a program to support the modernization, renovation, or repair of career and technical education facilities, and for other purposes.</title>
+  </titles>
+  <sponsor id="412326"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-04">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

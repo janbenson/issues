@@ -1,0 +1,53 @@
+<bill session="113" type="s" number="307" updated="2013-03-09T06:16:31-05:00">
+  <state datetime="2013-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-13"/>
+  </status>
+  <introduced datetime="2013-02-13"/>
+  <titles>
+    <title as="introduced" type="short">Close Big Oil Tax Loopholes Act</title>
+    <title as="introduced" type="official">A bill to reduce the Federal budget deficit by closing big oil tax loopholes, and for other purposes.</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2013-02-13"/>
+    <cosponsor id="400064" joined="2013-02-13"/>
+    <cosponsor id="300038" joined="2013-02-13"/>
+    <cosponsor id="412378" joined="2013-02-13"/>
+    <cosponsor id="412223" joined="2013-02-13"/>
+    <cosponsor id="412242" joined="2013-02-13"/>
+    <cosponsor id="300064" joined="2013-02-13"/>
+    <cosponsor id="300065" joined="2013-02-13"/>
+    <cosponsor id="412243" joined="2013-02-13"/>
+    <cosponsor id="412325" joined="2013-02-13"/>
+    <cosponsor id="300078" joined="2013-02-13"/>
+    <cosponsor id="300081" joined="2013-02-13"/>
+    <cosponsor id="300087" joined="2013-02-13"/>
+    <cosponsor id="412323" joined="2013-02-13"/>
+    <cosponsor id="300093" joined="2013-02-13"/>
+    <cosponsor id="412247" joined="2013-02-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-13">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="277"/>
+    <bill relation="unknown" session="113" type="s" number="278"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Energy revenues and royalties"/>
+    <term name="Income tax credits"/>
+    <term name="Income tax deductions"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Oil and gas"/>
+    <term name="Taxation of foreign income"/>
+  </subjects>
+  <amendments/>
+</bill>

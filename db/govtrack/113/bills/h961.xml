@@ -1,0 +1,38 @@
+<bill session="113" type="h" number="961" updated="2013-03-15T12:45:45-04:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title as="introduced" type="short">United States Postal Service Stabilization Act of 2013</title>
+    <title as="introduced" type="official">To amend title 5, United States Code, to provide for the computation of normal-cost percentage for postal employees as a separate and distinct class, and to provide for the disposition of certain excess retirement contributions made by the United States Postal Service.</title>
+  </titles>
+  <sponsor id="400249"/>
+  <cosponsors>
+    <cosponsor id="400048" joined="2013-03-14"/>
+    <cosponsor id="412517" joined="2013-03-15"/>
+    <cosponsor id="400097" joined="2013-03-15"/>
+    <cosponsor id="400110" joined="2013-03-15"/>
+    <cosponsor id="400129" joined="2013-03-15"/>
+    <cosponsor id="400162" joined="2013-03-07"/>
+    <cosponsor id="400641" joined="2013-03-12"/>
+    <cosponsor id="412286" joined="2013-03-13"/>
+    <cosponsor id="400230" joined="2013-03-11"/>
+    <cosponsor id="412521" joined="2013-03-11"/>
+    <cosponsor id="400661" joined="2013-03-07"/>
+    <cosponsor id="400352" joined="2013-03-11"/>
+    <cosponsor id="412579" joined="2013-03-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-05">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

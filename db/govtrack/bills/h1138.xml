@@ -1,0 +1,29 @@
+<bill session="113" type="h" number="1138" updated="2013-03-14T04:46:28-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="official">To direct the Administrator of the Small Business Administration to establish a loan guarantee program to assist small business concerns that manufacture clean energy technologies in the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="400663"/>
+  <cosponsors>
+    <cosponsor id="400073" joined="2013-03-13"/>
+    <cosponsor id="400185" joined="2013-03-13"/>
+    <cosponsor id="400237" joined="2013-03-13"/>
+    <cosponsor id="400278" joined="2013-03-13"/>
+    <cosponsor id="400360" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-13">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,44 +1,27 @@
-
-
+require 'o_c_logger'
 namespace :update do
   desc "controls the running of parsing scripts that are intended to be run daily"
 
   task :rsync => :environment do
     begin
-      system "sh #{Rails.root}/bin/daily/govtrack-rsync.sh #{Settings.data_path}"
-    rescue Exception => e
+      system "sh #{Rails.root}/bin/daily/govtrack-rsync.sh #{Rails.root}/db/ "
+    
       if (['production', 'staging'].include?(Rails.env))
         Emailer.deliver_rake_error(e, "Error rsyncing govtrack data!")
       else
-        puts "Error rsyncing govtrack data!"
+        puts "rsyncing govtrack data!"
       end
-      throw e
+      
     end
   end
   
   task :mailing_list => :environment do
-    load 'bin/daily/civicrm_sync.rb'
-  end
-
-  task :photos => :environment do
-    begin
-      system "sh #{Rails.root}/bin/daily/govtrack-photo-rsync.sh #{Settings.data_path}"
-      unless (['production', 'staging'].include?(Rails.env))
-        system "ln -s -i -F #{Settings.data_path}/govtrack/photos #{Rails.root}/public/images/photos"
-      end
-    rescue Exception => e
-      if (['production', 'staging'].include?(Rails.env))
-        Emailer.deliver_rake_error(e, "Error updating photos!")
-      else
-        puts "Error updating photos!"
-      end
-      throw e
-    end
+    load '/home/jan/ruby/issues/bin/daily/civicrm_sync.rb'
   end
 
   task :bios => :environment do
     begin
-      load 'bin/daily/daily_parse_bioguide.rb'
+      load (Rails.root) +  'bin/daily/daily_parse_bioguide.rb'
     rescue Exception => e
       if (['production', 'staging'].include?(Rails.env))
         Emailer.deliver_rake_error(e, "Error updating from bioguide!")
@@ -64,49 +47,36 @@ namespace :update do
 
   task :people => :environment do
     begin
-      begin
-        data = IO.popen("sha1sum -c /tmp/people.sha1").read
-      rescue
-        data = "XXX"
-      end
-      
-      unless data.match(/OK\n$/)
         Person.transaction {
-          load 'bin/daily/daily_parse_people.rb'
+        load '/home/jan/ruby/issues/bin/daily/daily_parse_people.rb'
         }
-      end
-    rescue Exception => e
-      if (['production', 'staging'].include?(Rails.env))
+    end
+    if (['production', 'staging'].include?(Rails.env))
         Emailer.deliver_rake_error(e, "Error parsing people!")
-      else
-        puts "Error parsing people!"
-      end
-    end    
+    else
+        puts "parsing people!"
+     end
   end
 
   task :bills => :environment do
     begin
-      load 'bin/daily/daily_parse_bills.rb'
-    rescue Exception => e
+      load '/home/jan/ruby/issues/bin/daily/daily_parse_bills.rb'
       if (['production', 'staging'].include?(Rails.env))
         Emailer.deliver_rake_error(e, "Error parsing bills!")
       else
         puts "Error parsing bills!"
       end
-      throw e
     end
   end
 
   task :bill_text => :environment do
     begin
-      load 'bin/daily/daily_parse_bill_text.rb'
-    rescue Exception => e
+      load '/home/jan/ruby/issues/bin/daily/daily_parse_bill_text.rb'
       if (['production', 'staging'].include?(Rails.env))
         Emailer.deliver_rake_error(e, "Error parsing bill text!")
       else
         puts "Error parsing bill text!"
       end
-      throw e
     end
   end
 
@@ -149,31 +119,27 @@ namespace :update do
   task :committee_reports_parse => :environment do
     begin
       CommitteeReport.transaction {
-        load 'bin/thomas_parse_committee_reports.rb'
+        load 'home/jan/ruby/issues/bin/thomas_parse_committee_reports.rb'
       }
-    rescue Exception => e
       if (['production', 'staging'].include?(Rails.env))
         Emailer.deliver_rake_error(e, "Error parsing committee reports!")
       else
         puts "Error parsing committee reports!"
       end
-      throw e
     end
   end
 
   task :committee_reports => :environment do
     begin
       CommitteeReport.transaction {
-        load 'bin/thomas_fetch_committee_reports.rb'
-        load 'bin/thomas_parse_committee_reports.rb'
+        load '/home/jan/ruby/issues/bin/thomas_fetch_committee_reports.rb'
+        load '/home/jan/ruby/issues/bin/thomas_parse_committee_reports.rb'
       }
-    rescue Exception => e
       if (['production', 'staging'].include?(Rails.env))
         Emailer.deliver_rake_error(e, "Error parsing committee reports!")
       else
         puts "Error parsing committee reports!"
       end
-      throw e
     end
   end
 
@@ -209,33 +175,29 @@ namespace :update do
 
   task :roll_calls => :environment do
     begin
-      load 'bin/daily/daily_parse_rolls.rb'
-    rescue Exception => e
+      load '/home/jan/ruby/issues/bin/daily/daily_parse_rolls.rb'
       if (['production', 'staging'].include?(Rails.env))
         Emailer.deliver_rake_error(e, "Error parsing roll calls!")
       else
-        puts "Error parsing roll calls!"
+        puts "parsing roll calls!"
       end
-      throw e
     end
   end
 
   task :person_voting_similarities => :environment do
     begin
-      load 'bin/daily/person_voting_similarities.rb'
-    rescue Exception => e
+      load '/home/jan/ruby/issues/bin/daily/person_voting_similarities.rb'
       if (['production', 'staging'].include?(Rails.env))
         Emailer.deliver_rake_error(e, "Error compiling voting similarities!")
       else
         puts "Error compiling voting similarities!"
       end
-      throw e
     end
   end
 
   task :sponsored_bill_stats => :environment do
     begin
-      load 'bin/daily/sponsored_bill_stats.rb'
+      load '/home/jan/ruby/issues/bin/daily/sponsored_bill_stats.rb'
     rescue Exception => e
       if (['production', 'staging'].include?(Rails.env))
         Emailer.deliver_rake_error(e, "Error compiling sponsored bill stats!")
@@ -248,14 +210,12 @@ namespace :update do
   
   task :realtime => :environment do
     begin
-      load 'bin/daily/drumbone_realtime_api.rb'
-    rescue Exception => e
+      load '/home/jan/ruby/issues/bin/daily/drumbone_realtime_api.rb'
       if (['production', 'staging'].include?(Rails.env))
         Emailer.deliver_rake_error(e, "Error parsing Drumbone realtime API!")
       else
         puts "Error parsing Drumbone realtime API!"
       end
-      throw e
     end
   end
   
@@ -369,7 +329,8 @@ namespace :update do
     end
   end
 
-  task :all => [:rsync, :photos, :people, :bills, :amendments, :roll_calls, :committee_reports, :committee_schedule, :person_voting_similarities, :sponsored_bill_stats, :expire_cached_bill_fragments, :expire_cached_person_fragments]
+  task :all => [:rsync, :people, :bills, :amendments, :roll_calls, :committee_reports, :committee_schedule, :person_voting_similarities, :sponsored_bill_stats, :expire_cached_bill_fragments, :expire_cached_person_fragments]
+  task :finishup => [:mailing_list, :person_voting_similarities, :sponsored_bill_stats, :expire_cached_bill_fragments, :expire_cached_person_fragments]
   task :parse_all => [ :people, :bills, :amendments, :roll_calls, :committee_reports, :committee_schedule]
   task :govtrack => [ :rsync, :people, :bills, :amendments, :roll_calls, :expire_cached_bill_fragments, :expire_cached_person_fragments]
   task :committee_info => [:committee_reports, :committee_schedule]

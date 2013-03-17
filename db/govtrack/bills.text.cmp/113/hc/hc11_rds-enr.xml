@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<body status="enr" difference-size-chars="485" percent-change="60" total-changes="14" previous-status="rds">
+  <p nid="t0:enr:1">H<removed sequence="1">CON 11 RDS<p/><center><p nid="t0:rds:2">113th CONGRESS</p></center><p/><center><p nid="t0:rds:3">1st Session</p></center><p/>H</removed>.C<changed sequence="2"><changed-from>ON</changed-from><changed-to>on</changed-to></changed>.R<changed sequence="3"><changed-from>ES</changed-from><changed-to>es</changed-to></changed>.11</p>
+  <p nid="t0:enr:2"><removed sequence="4"><p/><center><p nid="t0:rds:5">IN THE SENATE OF THE UNITED STATES</p></center><p/><h3 nid="t0:rds:6"><center><p nid="t0:rds:7">February 7, 2013</p></center></h3><p nid="t0:rds:8">Received</p><hr/><p/><center><p nid="t0:rds:9">CONCURRENT RESOLUTION</p></center>Providing for a joint session of Congress</removed><inserted sequence="5">Agreed</inserted> to <removed sequence="6">receive a message from the President.</removed><inserted sequence="7">February 7, 2013</inserted></p>
+  <inserted sequence="8">
+    <p nid="t0:enr:3">
+      <em>
+        <center>
+          <p nid="t0:enr:4">One Hundred Thirteenth Congress</p>
+        </center>
+      </em>
+    </p>
+    <p nid="t0:enr:5">
+      <em>
+        <center>
+          <p nid="t0:enr:6">of the</p>
+        </center>
+      </em>
+    </p>
+    <p nid="t0:enr:7">
+      <em>
+        <center>
+          <p nid="t0:enr:8">United States of America</p>
+        </center>
+      </em>
+    </p>
+    <p nid="t0:enr:9">
+      <em>
+        <center>
+          <p nid="t0:enr:10">AT THE FIRST SESSION</p>
+        </center>
+      </em>
+    </p>
+    <p nid="t0:enr:11">Begun and held at the City of Washington on Thursday,</p>
+    <p nid="t0:enr:12">the third day of January, two thousand and thirteen</p>
+    <p nid="t0:enr:13">Concurrent Resolution</p>
+  </inserted>
+  <ul>
+    <p nid="t0:enr:14"><em>Resolved by the House of Representatives (the Senate concurring),</em> That the two Houses of Congress assemble in the Hall of the House of Representatives on Tuesday, February 12, 2013, at 9 p.m., for the purpose of receiving such communication as the President of the United States shall be pleased to make to them.</p>
+  </ul>
+  <p nid="t0:enr:15">
+    <removed sequence="9">Passed</removed>
+    <inserted sequence="10">Attest:</inserted>
+  </p>
+  <p nid="t0:enr:16"><inserted sequence="11">Clerk of</inserted> the House of Representatives<removed sequence="12">February 4, 2013</removed>.</p>
+  <p nid="t0:enr:17">Attest:</p>
+  <p nid="t0:enr:18"><removed sequence="13"><p nid="t0:rds:15">KAREN L. HAAS,</p>Clerk</removed><inserted sequence="14">Secretary of the Senate</inserted>.</p>
+</body>

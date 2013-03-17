@@ -1,0 +1,26 @@
+<bill session="113" type="s" number="466" updated="2013-03-11T09:45:38-04:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title as="introduced" type="short">Coordination of Pro Bono Medically Recommended Dental Care Act</title>
+    <title as="introduced" type="official">A bill to assist low-income individuals in obtaining recommended dental care.</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-05">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="963"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

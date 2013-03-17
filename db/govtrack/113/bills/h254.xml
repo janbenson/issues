@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="254" updated="2013-03-06T04:46:07-05:00">
+  <state datetime="2013-01-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-15"/>
+  </status>
+  <introduced datetime="2013-01-15"/>
+  <titles>
+    <title as="introduced" type="short">Bonneville Unit Clean Hydropower Facilitation Act</title>
+    <title as="introduced" type="official">To authorize the Secretary of the Interior to facilitate the development of hydroelectric power on the Diamond Fork System of the Central Utah Project.</title>
+  </titles>
+  <sponsor id="412270"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-01-15">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-01-15">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-01-15">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2013-01-31">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2013-03-05">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII13" subcommittee="Water and Power" name="House Natural Resources"/>
+    <committee code="HSBU" name="House Budget" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="26"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Public utilities and utility rates"/>
+    <term name="Utah"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <summary>1/15/2013--Introduced.
+Bonneville Unit Clean Hydropower Facilitation Act - Declares that, in order to facilitate hydropower development on the Diamond Fork System (Utah), a certain amount of reimbursable costs allocated to project power in the Power Appendix of the October 2004 Supplement to the 1988 Bonneville Unit Definite Plan Report shall be considered final costs, as well as specified costs in excess of the total maximum repayment obligation, subject to the same terms and conditions. States that: (1) this Act does not obligate the Western Area Power Administration to purchase or market any of the power produced by the Diamond Fork power plant; and (2) none of the costs associated with development of transmission facilities to transmit power from the Diamond Fork power plant shall be assigned to power for the purpose of Colorado River Storage Project ratemaking. Prohibits any hydroelectric power generation or transmission facility on the Diamond Fork System from being financed or refinanced with any obligation: (1) whose interest enjoys federal tax-exempt status; or (2) which enjoys certain federal tax credits. Directs the Secretary of the Interior to report to certain congressional committees if hydropower production on the Diamond Fork System has not commenced 24 months after enactment of this Act, stating the reasons such production has not commenced, and presenting a detailed timeline for future hydropower production. Prohibits the use of Western Area Power Administration borrowing authority under the Hoover Power Plant Act of 1984 to fund any study or construction of transmission facilities developed as a result of this Act.</summary>
+</bill>

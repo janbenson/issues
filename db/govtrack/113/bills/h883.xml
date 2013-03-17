@@ -1,0 +1,31 @@
+<bill session="113" type="h" number="883" updated="2013-03-12T04:45:52-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to permit certain veterans who were discharged or released from the Armed Forces by reason of service-connected disability to transfer benefits under the Post-9/11 Educational Assistance Program, and for other purposes.</title>
+  </titles>
+  <sponsor id="412270"/>
+  <cosponsors>
+    <cosponsor id="412419" joined="2013-02-28"/>
+    <cosponsor id="412256" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-03-08">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR10" subcommittee="Economic Opportunity" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

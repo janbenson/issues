@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="1032" updated="2013-03-14T04:46:18-04:00">
+  <state datetime="2013-03-07">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-07"/>
+  </status>
+  <introduced datetime="2013-03-07"/>
+  <titles>
+    <title as="introduced" type="short">Making College Affordable Act of 2013</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to expand access to Coverdell education savings accounts.</title>
+  </titles>
+  <sponsor id="412406"/>
+  <cosponsors>
+    <cosponsor id="412427" joined="2013-03-13"/>
+    <cosponsor id="412453" joined="2013-03-07"/>
+    <cosponsor id="400209" joined="2013-03-07"/>
+    <cosponsor id="412521" joined="2013-03-07"/>
+    <cosponsor id="412552" joined="2013-03-07"/>
+    <cosponsor id="412308" joined="2013-03-07"/>
+    <cosponsor id="412411" joined="2013-03-13"/>
+    <cosponsor id="412461" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-07">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

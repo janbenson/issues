@@ -1,0 +1,67 @@
+<bill session="113" type="s" number="277" updated="2013-03-09T06:16:23-05:00">
+  <state datetime="2013-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-11"/>
+  </status>
+  <introduced datetime="2013-02-11"/>
+  <titles>
+    <title as="introduced" type="short">Job Preservation and Economic Certainty Act of 2013</title>
+    <title as="introduced" type="official">A bill to replace the Budget Control Act sequester by eliminating tax loopholes, and for other purposes.</title>
+  </titles>
+  <sponsor id="412247"/>
+  <cosponsors>
+    <cosponsor id="300051" joined="2013-02-11"/>
+    <cosponsor id="300066" joined="2013-02-11"/>
+    <cosponsor id="400357" joined="2013-02-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-11">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="348"/>
+    <bill relation="unknown" session="113" type="h" number="699"/>
+    <bill relation="unknown" session="113" type="h" number="766"/>
+    <bill relation="unknown" session="113" type="h" number="880"/>
+    <bill relation="unknown" session="113" type="s" number="278"/>
+    <bill relation="unknown" session="113" type="s" number="307"/>
+    <bill relation="unknown" session="113" type="s" number="321"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Accounting and auditing"/>
+    <term name="Aviation and airports"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Budget process"/>
+    <term name="Business investment and capital"/>
+    <term name="Commodities markets"/>
+    <term name="Corporate finance and management"/>
+    <term name="Defense spending"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Employment taxes"/>
+    <term name="Energy revenues and royalties"/>
+    <term name="Financial crises and stabilization"/>
+    <term name="Foreign and international corporations"/>
+    <term name="Income tax credits"/>
+    <term name="Income tax deductions"/>
+    <term name="Income tax rates"/>
+    <term name="Manufacturing"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Oil and gas"/>
+    <term name="Research and development"/>
+    <term name="Securities"/>
+    <term name="Self-employed"/>
+    <term name="Service industries"/>
+    <term name="Small business"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Taxation of foreign income"/>
+    <term name="User charges and fees"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+</bill>

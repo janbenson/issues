@@ -1,0 +1,50 @@
+<bill session="113" type="s" number="188" updated="2013-02-27T04:46:17-05:00">
+  <state datetime="2013-01-30">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-30"/>
+  </status>
+  <introduced datetime="2013-01-30"/>
+  <titles>
+    <title as="introduced" type="short">Advice and Consent Restoration Act</title>
+    <title as="introduced" type="official">A bill to prevent certain individuals purportedly appointed to the National Labor Relations Board from receiving salaries, and to prevent an unconstitutional quorum of the Board from taking agency actions, until there is a final decision in pending lawsuits regarding the constitutionality of certain alleged recess appointments.</title>
+  </titles>
+  <sponsor id="400034"/>
+  <cosponsors>
+    <cosponsor id="300025" joined="2013-01-31"/>
+    <cosponsor id="300027" joined="2013-01-30"/>
+    <cosponsor id="412573" joined="2013-01-30"/>
+    <cosponsor id="300055" joined="2013-01-30"/>
+    <cosponsor id="412495" joined="2013-01-30"/>
+    <cosponsor id="300083" joined="2013-01-30"/>
+    <cosponsor id="412471" joined="2013-01-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-30">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S405"/>
+    </action>
+    <action state="REFERRED" datetime="2013-01-30">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="557"/>
+    <bill relation="unknown" session="113" type="s" number="180"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Congressional oversight"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Labor-management relations"/>
+    <term name="National Labor Relations Board (NLRB)"/>
+  </subjects>
+  <amendments/>
+</bill>

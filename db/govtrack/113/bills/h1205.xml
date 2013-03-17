@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="1205" updated="2013-03-15T04:47:59-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="official">To amend title XXVII of the Public Health Service Act to require health insurance issuers and group health plans to disclose information regarding how certain taxes and fees impact the amount of premiums, and for other purposes.</title>
+  </titles>
+  <sponsor id="400419"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,55 @@
+<bill session="113" type="h" number="766" updated="2013-03-13T04:46:14-04:00">
+  <state datetime="2013-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-15"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title as="introduced" type="short">Paying a Fair Share Act of 2013</title>
+    <title as="introduced" type="official">To reduce the deficit by imposing a minimum effective tax rate for high-income taxpayers.</title>
+  </titles>
+  <sponsor id="412470"/>
+  <cosponsors>
+    <cosponsor id="412571" joined="2013-02-15"/>
+    <cosponsor id="412379" joined="2013-02-27"/>
+    <cosponsor id="400080" joined="2013-02-27"/>
+    <cosponsor id="400111" joined="2013-02-27"/>
+    <cosponsor id="412215" joined="2013-02-15"/>
+    <cosponsor id="412535" joined="2013-02-27"/>
+    <cosponsor id="400230" joined="2013-02-15"/>
+    <cosponsor id="400232" joined="2013-02-15"/>
+    <cosponsor id="400237" joined="2013-02-15"/>
+    <cosponsor id="400283" joined="2013-03-12"/>
+    <cosponsor id="412585" joined="2013-02-15"/>
+    <cosponsor id="400360" joined="2013-02-15"/>
+    <cosponsor id="412219" joined="2013-02-27"/>
+    <cosponsor id="412239" joined="2013-02-27"/>
+    <cosponsor id="412412" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-15">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="699"/>
+    <bill relation="unknown" session="113" type="s" number="277"/>
+    <bill relation="unknown" session="113" type="s" number="278"/>
+    <bill relation="identical" session="113" type="s" number="321"/>
+    <bill relation="unknown" session="113" type="s" number="388"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Employment taxes"/>
+    <term name="Income tax deductions"/>
+    <term name="Income tax rates"/>
+    <term name="Inflation and prices"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Tax reform and tax simplification"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="113" type="h" number="1024" updated="2013-03-13T04:46:32-04:00">
+  <state datetime="2013-03-07">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-07"/>
+  </status>
+  <introduced datetime="2013-03-07"/>
+  <titles>
+    <title as="introduced" type="short">Medication Therapy Management Empowerment Act of 2013</title>
+    <title as="introduced" type="official">To amend title XVIII of the Social Security Act to provide part D eligible individuals with single chronic diseases access to services under medication therapy management programs under the Medicare part D prescription drug program.</title>
+  </titles>
+  <sponsor id="400659"/>
+  <cosponsors>
+    <cosponsor id="412208" joined="2013-03-12"/>
+    <cosponsor id="400218" joined="2013-03-12"/>
+    <cosponsor id="412209" joined="2013-03-12"/>
+    <cosponsor id="400400" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-07">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-07">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-03-07">
+      <text>Referred to House Ways and Means</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>3/7/2013--Introduced.
+Medication Therapy Management Empowerment Act of 2013 - Amends part D (Voluntary Prescription Drug Benefit Program) of title XVIII (Medicare) of the Social Security Act to provide access to services under medication therapy management programs for Medicare part D (Voluntary Prescription Drug Program) eligible individuals with a single chronic disease. Allows the application of this Act only if the Chief Actuary for the Centers for Medicare &amp; Medicaid Services determines that such application with regard to a particular single chronic disease is not projected to increase overall costs to the Medicare program over the following five year period.</summary>
+</bill>

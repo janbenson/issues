@@ -1,0 +1,26 @@
+<bill session="113" type="hr" number="101" updated="2013-03-14T04:45:45-04:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the House of Representatives that the United States Postal Service should issue a commemorative postage stamp in 2015 to honor Constantino Brumidi, Artist of the Capitol, and to commemorate the 150th anniversary of his completion of "The Apotheosis of Washington" in the eye of the dome of the Capitol, and for other purposes.</title>
+  </titles>
+  <sponsor id="400295"/>
+  <cosponsors>
+    <cosponsor id="400195" joined="2013-03-12"/>
+    <cosponsor id="400219" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-05">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

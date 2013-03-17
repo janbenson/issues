@@ -1,0 +1,32 @@
+<bill session="113" type="s" number="566" updated="2013-03-15T15:46:07-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="short">Water Infrastructure Now Public-Private Partnership Act</title>
+    <title as="introduced" type="short">WIN P3 Act</title>
+    <title as="introduced" type="official">A bill to establish a pilot program to evaluate the cost-effectiveness of allowing non-Federal interests to carry out certain water infrastructure projects, and for other purposes.</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors>
+    <cosponsor id="400222" joined="2013-03-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1856-1857"/>
+    </action>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <reference ref="CR S1858-1859-5860" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

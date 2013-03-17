@@ -1,0 +1,35 @@
+<bill session="113" type="h" number="983" updated="2013-03-08T12:45:35-05:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="short">Online Communications and Geolocation Protection Act</title>
+    <title as="introduced" type="official">To amend title 18, United States Code, with respect to disclosures to governments by communications-related service providers of certain information consisting of or relating to communications, and for other purposes.</title>
+  </titles>
+  <sponsor id="400245"/>
+  <cosponsors>
+    <cosponsor id="412505" joined="2013-03-06"/>
+    <cosponsor id="400652" joined="2013-03-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

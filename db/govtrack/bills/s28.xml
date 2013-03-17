@@ -1,0 +1,42 @@
+<bill session="113" type="s" number="28" updated="2013-02-03T15:47:19-05:00">
+  <state datetime="2013-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-22"/>
+  </status>
+  <introduced datetime="2013-01-22"/>
+  <titles>
+    <title as="introduced" type="short">Y Mountain Access Enhancement Act</title>
+    <title as="introduced" type="official">A bill to provide for the conveyance of a small parcel of National Forest System land in the Uinta-Wasatch-Cache National Forest in Utah to Brigham Young University, and for other purposes.</title>
+  </titles>
+  <sponsor id="300052"/>
+  <cosponsors>
+    <cosponsor id="300030" joined="2013-01-22"/>
+    <cosponsor id="400134" joined="2013-01-22"/>
+    <cosponsor id="412218" joined="2013-01-28"/>
+    <cosponsor id="412495" joined="2013-01-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-01-22">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="253"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Higher education"/>
+    <term name="Land transfers"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Utah"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2013--Introduced.
+Y Mountain Access Enhancement Act - Directs the Secretary of Agriculture (USDA), upon request by Brigham Young University, to convey an approximately 80-acre parcel of National Forest System land in the Uinta-Wasatch-Cache National Forest in Utah. Requires the University to pay to the Secretary an amount equal to the fair market value of such land. Requires such consideration to be deposited in the general Treasury fund to reduce the federal deficit. Directs the University, after the conveyance, to represent that it will: (1) continue allowing the same reasonable public access to the trailhead, and the part of the Y Mountain Trail already owned by the University, as has been historically allowed; and (2) allow such access to the part of the Trail and the "Y" symbol located on the conveyed land.</summary>
+</bill>

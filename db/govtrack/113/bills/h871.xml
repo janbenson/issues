@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="871" updated="2013-03-04T15:45:34-05:00">
+  <state datetime="2013-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-27"/>
+  </status>
+  <introduced datetime="2013-02-27"/>
+  <titles>
+    <title as="introduced" type="short">Export Freedom to Cuba Act of 2013</title>
+    <title as="introduced" type="official">To allow travel between the United States and Cuba.</title>
+  </titles>
+  <sponsor id="400333"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-27">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

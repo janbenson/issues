@@ -1,0 +1,36 @@
+<bill session="113" type="s" number="305" updated="2013-03-09T06:16:30-05:00">
+  <state datetime="2013-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-13"/>
+  </status>
+  <introduced datetime="2013-02-13"/>
+  <titles>
+    <title as="introduced" type="short">Champion Hill, Port Gibson, and Raymond Battlefields Addition Act</title>
+    <title as="introduced" type="official">A bill to authorize the acquisition of core battlefield land at Champion Hill, Port Gibson, and Raymond for addition to Vicksburg National Military Park.</title>
+  </titles>
+  <sponsor id="300023"/>
+  <cosponsors>
+    <cosponsor id="400432" joined="2013-02-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-13">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Conflicts and wars"/>
+    <term name="Land transfers"/>
+    <term name="Military history"/>
+    <term name="Mississippi"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2013--Introduced.
+Champion Hill, Port Gibson, and Raymond Battlefields Addition Act - Authorizes the Secretary of the Interior to acquire land or interests within the area identified as the modified core battlefield for the Port Gibson, Champion Hill, and Raymond battlefields of the Vicksburg campaign of the American Civil War for inclusion in the Vicksburg National Military Park in Mississippi.</summary>
+</bill>

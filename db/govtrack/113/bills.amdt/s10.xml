@@ -1,0 +1,18 @@
+<amendment session="113" chamber="s" number="10" updated="2013-03-02T06:26:44-05:00">
+  <amends type="s" number="47" sequence=""/>
+  <status datetime="2013-02-12">pass</status>
+  <sponsor id="400325"/>
+  <offered datetime="2013-02-07"/>
+  <description>To clarify that child victims of sex trafficking are eligible to receive assistance under grants provided to enhance the safety of youth and children.</description>
+  <purpose>To clarify that child victims of sex trafficking are eligible to receive assistance under grants provided to enhance the safety of youth and children.</purpose>
+  <actions>
+    <action datetime="2013-02-12">
+      <text>Amendment SA 10 proposed by Senator Portman.</text>
+      <reference ref="CR S610-611" label="consideration"/>
+      <reference ref="CR S610" label="text"/>
+    </action>
+    <vote datetime="2013-02-12" how="roll" result="pass" roll="16">
+      <text>Amendment SA 10 agreed to in Senate by Yea-Nay Vote. 100 - 0. Record Vote Number: 16.</text>
+    </vote>
+  </actions>
+</amendment>

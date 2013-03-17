@@ -1,0 +1,34 @@
+<bill session="113" type="s" number="231" updated="2013-02-27T04:46:28-05:00">
+  <state datetime="2013-02-07">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-07"/>
+  </status>
+  <introduced datetime="2013-02-07"/>
+  <titles>
+    <title as="introduced" type="short">Multinational Species Conservation Funds Semipostal Stamp Reauthorization Act of 2013</title>
+    <title as="introduced" type="official">A bill to reauthorize the Multinational Species Conservation Funds Semipostal Stamp.</title>
+  </titles>
+  <sponsor id="400325"/>
+  <cosponsors>
+    <cosponsor id="400413" joined="2013-02-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-07">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Government trust funds"/>
+    <term name="Postal service"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>2/7/2013--Introduced.
+Multinational Species Conservation Funds Semipostal Stamp Reauthorization Act of 2013 - Amends the Multinational Species Conservation Funds Semipostal Stamp Act of 2010 to require such stamp to be made available to the public for an additional four years.</summary>
+</bill>

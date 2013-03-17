@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="923" updated="2013-03-04T18:45:39-05:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">Say No to Drug Ads Act</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to deny any deduction for direct-to-consumer advertisements of prescription drugs.</title>
+  </titles>
+  <sponsor id="400289"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

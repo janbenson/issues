@@ -1,0 +1,28 @@
+<bill session="113" type="h" number="786" updated="2013-03-01T04:51:13-05:00">
+  <state datetime="2013-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-15"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title as="introduced" type="short">Tar Sands Tax Loophole Elimination Act</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to clarify that tar sands are crude oil for purposes of the Federal excise tax on petroleum.</title>
+  </titles>
+  <sponsor id="400253"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2013-02-15"/>
+    <cosponsor id="412276" joined="2013-02-25"/>
+    <cosponsor id="400309" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-15">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

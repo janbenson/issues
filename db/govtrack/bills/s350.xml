@@ -1,0 +1,37 @@
+<bill session="113" type="s" number="350" updated="2013-03-02T06:16:39-05:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title as="introduced" type="short">Fair Access to Science and Technology Research Act of 2013</title>
+    <title as="introduced" type="official">A bill to provide for Federal agencies to develop public access policies relating to research conducted by employees of that agency or from funds administered by that agency.</title>
+  </titles>
+  <sponsor id="300027"/>
+  <cosponsors>
+    <cosponsor id="300100" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-14">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="708"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Intellectual property"/>
+    <term name="Internet and video services"/>
+    <term name="Research administration and funding"/>
+  </subjects>
+  <amendments/>
+</bill>

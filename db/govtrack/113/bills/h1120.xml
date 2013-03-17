@@ -1,0 +1,40 @@
+<bill session="113" type="h" number="1120" updated="2013-03-15T04:47:28-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="official">To prohibit the National Labor Relations Board from taking any action that requires a quorum of the members of the Board until such time as Board constituting a quorum shall have been confirmed by the Senate, the Supreme Court issues a decision on the constitutionality of the appointments to the Board made in January 2012, or the adjournment sine die of the first session of the 113th Congress.</title>
+  </titles>
+  <sponsor id="412310"/>
+  <cosponsors>
+    <cosponsor id="412427" joined="2013-03-13"/>
+    <cosponsor id="412269" joined="2013-03-14"/>
+    <cosponsor id="412477" joined="2013-03-13"/>
+    <cosponsor id="400643" joined="2013-03-13"/>
+    <cosponsor id="412473" joined="2013-03-13"/>
+    <cosponsor id="412278" joined="2013-03-13"/>
+    <cosponsor id="412465" joined="2013-03-14"/>
+    <cosponsor id="400224" joined="2013-03-13"/>
+    <cosponsor id="400656" joined="2013-03-14"/>
+    <cosponsor id="400318" joined="2013-03-13"/>
+    <cosponsor id="400626" joined="2013-03-13"/>
+    <cosponsor id="412426" joined="2013-03-13"/>
+    <cosponsor id="400606" joined="2013-03-13"/>
+    <cosponsor id="412317" joined="2013-03-13"/>
+    <cosponsor id="412213" joined="2013-03-14"/>
+    <cosponsor id="400433" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-13">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

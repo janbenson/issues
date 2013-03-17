@@ -1,0 +1,42 @@
+<bill session="113" type="h" number="253" updated="2013-02-01T04:45:28-05:00">
+  <state datetime="2013-01-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-15"/>
+  </status>
+  <introduced datetime="2013-01-15"/>
+  <titles>
+    <title as="introduced" type="short">Y Mountain Access Enhancement Act</title>
+    <title as="introduced" type="official">To provide for the conveyance of a small parcel of National Forest System land in the Uinta-Wasatch-Cache National Forest in Utah to Brigham Young University, and for other purposes.</title>
+  </titles>
+  <sponsor id="412270"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-01-15">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-01-31">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="28"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Higher education"/>
+    <term name="Land transfers"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Utah"/>
+  </subjects>
+  <amendments/>
+  <summary>1/15/2013--Introduced.
+Y Mountain Access Enhancement Act - Directs the Secretary of Agriculture (USDA), upon request by Brigham Young University, to convey an approximately 80-acre parcel of National Forest System land in the Uinta-Wasatch-Cache National Forest in Utah. Requires the University to pay to the Secretary an amount equal to the fair market value of such land. Requires such consideration to be deposited in the general Treasury fund to reduce the federal deficit. Directs the University, after the conveyance, to represent that it will: (1) continue allowing the same reasonable public access to the trailhead, and the part of the Y Mountain Trail already owned by the University, as has been historically allowed; and (2) allow such access to the part of the Trail and the "Y" symbol located on the conveyed land.</summary>
+</bill>

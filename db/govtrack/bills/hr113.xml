@@ -1,0 +1,31 @@
+<bill session="113" type="hr" number="113" updated="2013-03-14T04:45:46-04:00">
+  <state datetime="2013-03-13T19:08:00-04:00">REPORTED</state>
+  <status>
+    <unknown datetime="2013-03-13T19:08:00-04:00"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="official">Providing for consideration of the bill (H.R. 803) to reform and strengthen the workforce investment system of the Nation to put Americans back to work and make the United States more competitive in the 21st century.</title>
+  </titles>
+  <sponsor id="400643"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-03-13T19:07:00-04:00">
+      <text>The House Committee on Rules reported an original measure, H. Rept. 113-16, by Ms. Foxx.</text>
+    </action>
+    <action datetime="2013-03-13T19:07:00-04:00">
+      <text>The resolution waives all points of order against consideration of the bill. The resolution makes in order as original text for purpose of amendment an amendment in the nature of a substitute consisting of the text of Rules Committee Print 113-4. The resolution makes in order only those amendments printed in this report.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2013-03-13T19:08:00-04:00" calendar="House" number="8">
+      <text>Placed on the House Calendar, Calendar No. 8.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="113" type="h" number="803"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

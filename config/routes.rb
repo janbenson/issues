@@ -1,9 +1,8 @@
 Issues::Application.routes.draw do
-  
- # API
+	resources :issues
+  # API
   constraints :subdomain => 'api' do
-    match '/../api'	  
-#    match '/' => redirect(Settings.base_url + 'api')
+ #   match '/' => redirect(Settings.base_url + 'api')
     match '/bill/text_summary/:id' => 'bill#status_text'
     match '/roll_call/text_summary/:id' => 'roll_call#summary_text'
     with_options :format => [:json, :xml] do |f|
@@ -41,7 +40,8 @@ Issues::Application.routes.draw do
   resources :simple_captcha, :only => :show
 
   get "issues/index"
-  resources :issues
+  match '/' => 'issues#index', :as => :home
+
 
   match 'bill/:id/users_tracking' => 'friends#tracking_bill', :as => :users_tracking_bill
   match 'bill/:id/users_tracking/:state' => 'friends#tracking_bill', :state => /\w{2}/, :as => :users_tracking_bill_by_state
@@ -104,7 +104,7 @@ Issues::Application.routes.draw do
        resources :article_images
      end
 
-     match '/' => 'index#index', :as => 'admin'
+     match '/' => 'issues#index', :as => 'admin'
      
      scope 'stats', :controller => 'stats' do
        match 'bills.:format', :action => 'bills'

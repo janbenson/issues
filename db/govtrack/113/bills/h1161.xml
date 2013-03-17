@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="1161" updated="2013-03-15T04:47:37-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="official">To modify the project for navigation, Mississippi River Ship Channel, Gulf of Mexico to Baton Rouge, Louisiana, and for other purposes.</title>
+  </titles>
+  <sponsor id="412432"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

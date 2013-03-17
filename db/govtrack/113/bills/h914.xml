@@ -1,0 +1,36 @@
+<bill session="113" type="h" number="914" updated="2013-03-13T04:46:23-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">Military Religious Freedom Protection Act</title>
+    <title as="introduced" type="official">To amend title 10, United States Code, to require that implementation of the repeal of the former Department of Defense policy concerning homosexual behavior in the Armed Forces not infringe upon the free exercise of religion by and the rights of conscience of members of the Armed Forces, including chaplains, and for other purposes.</title>
+  </titles>
+  <sponsor id="412429"/>
+  <cosponsors>
+    <cosponsor id="412547" joined="2013-03-12"/>
+    <cosponsor id="400651" joined="2013-02-28"/>
+    <cosponsor id="412444" joined="2013-02-28"/>
+    <cosponsor id="400209" joined="2013-03-12"/>
+    <cosponsor id="412226" joined="2013-02-28"/>
+    <cosponsor id="400220" joined="2013-02-28"/>
+    <cosponsor id="412510" joined="2013-02-28"/>
+    <cosponsor id="400441" joined="2013-03-04"/>
+    <cosponsor id="412213" joined="2013-02-28"/>
+    <cosponsor id="412574" joined="2013-03-04"/>
+    <cosponsor id="400627" joined="2013-03-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="113" type="h" number="126" updated="2013-02-01T04:45:25-05:00">
+  <state datetime="2013-01-03">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-03"/>
+  </status>
+  <introduced datetime="2013-01-03"/>
+  <titles>
+    <title as="introduced" type="short">Corolla Wild Horses Protection Act</title>
+    <title as="introduced" type="official">To direct the Secretary of the Interior to enter into an agreement to provide for management of the free-roaming wild horses in and around the Currituck National Wildlife Refuge.</title>
+  </titles>
+  <sponsor id="400209"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-01-03">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-01-31">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII22" subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Mammals"/>
+    <term name="North Carolina"/>
+    <term name="Seashores and lakeshores"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>1/3/2013--Introduced.
+Corolla Wild Horses Protection Act - Directs the Secretary of the Interior to enter into an agreement with the Corolla Wild Horse Fund, Currituck County, and the state of North Carolina to provide for the management of free-roaming wild horses in and around the Currituck National Wildlife Refuge. Requires that such agreement: (1) allow a herd of no more than 130 free-roaming wild horses in and around the Refuge; (2) provide for cost-effective management of such horses; and (3) provide for the introduction of a small number of free-roaming wild horses from the herd at Cape Lookout National Seashore as is necessary to maintain the genetic viability of the herd in and around the Refuge; and (4) specify that the Corolla Wild Horse Fund shall pay certain costs associated with the health, maintenance, removal, and placement of such horses. Prohibits the removal of any horse from the Seashore for introduction at the Refuge, except with the approval of the Foundation for Shackleford Horses Inc. and consistent with the memorandum of understanding between the National Park Service and the Foundation and the management plan for the Shackleford Banks Horse Herd.</summary>
+</bill>

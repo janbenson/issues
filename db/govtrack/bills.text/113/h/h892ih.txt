@@ -1,0 +1,205 @@
+                                                                                                                                   I
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                          H. R. 892
+                                     To amend the Internal Revenue Code of 1986 to provide for S corporation
+                                                         reform, and for other purposes.
+
+
+
+
+                                                IN THE HOUSE OF REPRESENTATIVES
+                                                             FEBRUARY 28, 2013
+                                  Mr. REICHERT (for himself and Mr. KIND) introduced the following bill; which
+                                             was referred to the Committee on Ways and Means
+
+
+
+
+                                                                            A BILL
+                                        To amend the Internal Revenue Code of 1986 to provide
+                                           for S corporation reform, and for other purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE, REFERENCE.
+
+                                    4              (a) SHORT TITLE.—This Act may be cited as the ‘‘S
+                                    5 Corporation Modernization Act of 2013’’.
+                                    6              (b) AMENDMENT                    OF       1986 CODE.—Except as other-
+                                    7 wise expressly provided, whenever in this Act an amend-
+                                    8 ment or repeal is expressed in terms of an amendment
+                                    9 to, or repeal of, a section or other provision, the reference
+
+
+
+
+
+                                                                                             2
+                                    1 shall be considered to be made to a section or other provi-
+                                    2 sion of the Internal Revenue Code of 1986.
+                                    3     SEC. 2. REDUCED RECOGNITION PERIOD FOR BUILT-IN
+                                    4                             GAINS MADE PERMANENT.
+                                    5              (a) IN GENERAL.—Paragraph (7) of section 1374(d)
+                                    6 (relating to definitions and special rules) is amended to
+                                    7 read as follows:
+                                    8                        ‘‘(7) RECOGNITION                      PERIOD.—The                    term ‘rec-
+                                    9              ognition period’ means the 5-year period beginning
+                                  10               with the 1st day of the 1st taxable year for which
+                                  11               the corporation was an S corporation. For purposes
+                                  12               of applying this section to any amount includible in
+                                  13               income by reason of distributions to shareholders
+                                  14               pursuant to section 593(e), the preceding sentence
+                                  15               shall be applied without regard to the duration of
+                                  16               the recognition period in effect on the date of such
+                                  17               distribution.’’.
+                                  18               (b) EFFECTIVE DATE.—The amendment made by
+                                  19 this section—
+                                  20                         (1) shall apply for purposes of determining the
+                                  21               recognition period with respect to 1st days referred
+                                  22               to in section 1374(d)(7) of the Internal Revenue
+                                  23               Code of 1986 occurring before, on, or after January
+                                  24               1, 2013, but
+
+
+
+
+
+                                              •HR 892 IH
+
+                                                                                             3
+                                    1                        (2) shall not apply for purposes of determining
+                                    2              the tax imposed by section 1374 of such Code for
+                                    3              taxable years ending before such date.
+                                    4     SEC. 3. REPEAL OF EXCESSIVE PASSIVE INVESTMENT IN-
+                                    5                             COME AS A TERMINATION EVENT.
+                                    6              (a) IN GENERAL.—Paragraph (3) of section 1362(d)
+                                    7 (relating to termination) is amended by adding at the end
+                                    8 the following new subparagraph:
+                                    9                                 ‘‘(D)         TERMINATION.—This                              paragraph
+                                  10                         shall not apply to taxable years beginning after
+                                  11                         December 31, 2012.’’.
+                                  12               (b) EFFECTIVE DATE.—The amendment made by
+                                  13 this section shall apply to taxable years beginning after
+                                  14 December 31, 2012.
+                                  15      SEC. 4. MODIFICATIONS TO PASSIVE INCOME RULES.
+
+                                  16               (a) INCREASED LIMIT.—
+                                  17                         (1) IN         GENERAL.—Paragraph                              (2) of section
+                                  18               1375(a) (relating to tax imposed when passive in-
+                                  19               vestment income of corporation having accumulated
+                                  20               earnings and profits exceeds 25 percent of gross re-
+                                  21               ceipts) is amended by striking ‘‘25 percent’’ and in-
+                                  22               serting ‘‘60 percent’’.
+                                  23          •HR 892 IH   (2) CONFORMING                  4   AMENDMENTS.—
+                                    1                                 (A) Subparagraph (J) of section 26(b)(2)
+                                    2                        is amended by striking ‘‘25 percent’’ and insert-
+                                    3                        ing ‘‘60 percent’’.
+                                    4                                 (B) Clause (i) of section 1375(b)(1)(A) is
+                                    5                        amended by striking ‘‘25 percent’’ and inserting
+                                    6                        ‘‘60 percent’’.
+                                    7                                 (C) The heading for section 1375 is
+                                    8                        amended by striking ‘‘25                          PERCENT’’           and in-
+                                    9                        serting ‘‘60         PERCENT’’.
+
+                                  10                                  (D) The table of sections for part III of
+                                  11                         subchapter S of chapter 1 is amended by strik-
+                                  12                         ing ‘‘25 percent’’ in the item relating to section
+                                  13                         1375 and inserting ‘‘60 percent’’.
+                                  14               (b) EFFECTIVE DATE.—The amendments made by
+                                  15 this section shall apply to taxable years beginning after
+                                  16 December 31, 2012.
+                                  17      SEC. 5. EXPANSION OF QUALIFYING BENEFICIARIES OF AN
+                                  18                              ELECTING SMALL BUSINESS TRUST.
+                                  19               (a) NO LOOK THROUGH                                   FOR      ELIGIBILITY PUR-
+                                  20      POSES.—Clause                  (v) of section 1361(c)(2)(B) (relating to
+                                  21 treatment as shareholders) is amended by adding at the
+                                  22 end the following new sentence: ‘‘This clause shall not
+                                  23 apply for purposes of subsection (b)(1)(C).’’.
+                                  24               (b) EFFECTIVE DATE.—The amendment made by
+
+
+
+
+                                  25 this section shall take effect on January 1, 2013.
+                                              •HR 892 IH
+
+                                    1     SEC. 6. EXPANSION OF S CORPORATION ELIGIBLE SHARE- 5
+                                    2                             HOLDERS TO INCLUDE IRAS.
+
+                                    3              (a)         IN        GENERAL.—Clause                           (vi)        of       section
+                                    4 1361(c)(2)(A) (relating to certain trusts permitted as
+                                    5 shareholders) is amended to read as follows:
+                                    6                                        ‘‘(vi) A trust which constitutes an in-
+                                    7                                 dividual retirement account under section
+                                    8                                 408(a), including one designated as a Roth
+                                    9                                 IRA under section 408A.’’.
+                                  10               (b) SALE            OF    STOCK           IN   IRA RELATING                     TO   S COR-
+                                  11      PORATION               ELECTION                EXEMPT               FROM            PROHIBITED
+                                  12 TRANSACTION                         RULES.—Paragraph                           (16)           of   section
+                                  13 4975(d) (relating to exemptions) is amended to read as
+                                  14 follows:
+                                  15                         ‘‘(16) a sale of stock held by a trust which con-
+                                  16               stitutes an individual retirement account under sec-
+                                  17               tion 408(a) to the individual for whose benefit such
+                                  18               account is established if—
+                                  19                                  ‘‘(A) such sale is pursuant to an election
+                                  20                         under section 1362(a) by the issuer of such
+                                  21                         stock,
+                                  22                                  ‘‘(B) such sale is for fair market value at
+                                  23                         the time of sale (as established by an inde-
+                                  24                         pendent appraiser) and the terms of the sale
+
+
+
+
+                                  25                         are otherwise at least as favorable to such trust
+                                              •HR 892 IH
+
+                                                                                             6
+                                    1                        as the terms that would apply on a sale to an
+                                    2                        unrelated party,
+                                    3                                 ‘‘(C) such trust does not pay any commis-
+                                    4                        sions, costs, or other expenses in connection
+                                    5                        with the sale, and
+                                    6                                 ‘‘(D) the stock is sold in a single trans-
+                                    7                        action for cash not later than 120 days after
+                                    8                        the S corporation election is made.’’.
+                                    9              (c) EFFECTIVE DATE.—The amendments made by
+                                  10 this section shall take effect on January 1, 2013.
+                                  11      SEC. 7. ALLOWANCE OF DEDUCTION FOR CHARITABLE
+                                  12                              CONTRIBUTIONS FOR ELECTING SMALL BUSI-
+                                  13                              NESS TRUSTS.
+
+                                  14               (a) IN GENERAL.—Section 641(c)(2)(C) (relating to
+                                  15 modifications) is amended by adding at the end the fol-
+                                  16 lowing new sentence: ‘‘The deduction for charitable con-
+                                  17 tributions allowed under clause (i) shall be determined
+                                  18 without regard to section 642(c), and the limitations im-
+                                  19 posed by section 170(b)(1) on the amount of the deduction
+                                  20 shall be applied to the electing small business trust as if
+                                  21 it were an individual.’’.
+                                  22               (b) EFFECTIVE DATE.—The amendment made by
+                                  23 this section shall apply to taxable years beginning after
+                                  24 December 31, 2012.
+
+
+
+
+
+                                              •HR 892 IH
+
+                                    1     SEC. 8. PERMANENT RULE REGARDING BASIS ADJUST-     7
+                                    2                             MENT TO STOCK OF S CORPORATIONS MAK-
+                                    3                             ING CHARITABLE CONTRIBUTIONS OF PROP-
+                                    4                             ERTY.
+
+                                    5              (a) IN GENERAL.—Section 1367(a)(2) (relating to
+                                    6 decreases in basis) is amended by striking the last sen-
+                                    7 tence.
+                                    8              (b) EFFECTIVE DATE.—The amendment made by
+                                    9 this section shall apply to contributions made in taxable
+                                  10 years beginning after December 31, 2012.
+                                              •HR 892 IH                                   Æ

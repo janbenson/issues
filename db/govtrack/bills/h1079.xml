@@ -1,0 +1,30 @@
+<bill session="113" type="h" number="1079" updated="2013-03-13T04:46:38-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Uniform Code of Military Justice to eliminate the authority of the convening authority to modify the findings and sentence of a court-martial as a matter of command prerogative involving the sole discretion of the convening authority.</title>
+  </titles>
+  <sponsor id="412259"/>
+  <cosponsors>
+    <cosponsor id="412208" joined="2013-03-12"/>
+    <cosponsor id="412263" joined="2013-03-12"/>
+    <cosponsor id="412557" joined="2013-03-12"/>
+    <cosponsor id="400251" joined="2013-03-12"/>
+    <cosponsor id="412466" joined="2013-03-12"/>
+    <cosponsor id="412307" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

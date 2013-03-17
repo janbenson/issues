@@ -1,0 +1,31 @@
+<bill session="113" type="s" number="457" updated="2013-03-09T06:17:09-05:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title as="introduced" type="short">Alice Paul Congressional Gold Medal Act</title>
+    <title as="introduced" type="official">A bill to posthumously award a Congressional gold medal to Alice Paul, in recognition of her role in the women's suffrage movement and in advancing equal rights for women.</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2013-03-05"/>
+    <cosponsor id="300025" joined="2013-03-05"/>
+    <cosponsor id="300064" joined="2013-03-05"/>
+    <cosponsor id="300093" joined="2013-03-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-05">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="874"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

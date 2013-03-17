@@ -1,0 +1,34 @@
+<bill session="113" type="s" number="55" updated="2013-02-27T04:45:44-05:00">
+  <state datetime="2013-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-22"/>
+  </status>
+  <introduced datetime="2013-01-22"/>
+  <titles>
+    <title as="introduced" type="official">A bill to prohibit Members of Congress and the President from receiving pay during Government shutdowns.</title>
+  </titles>
+  <sponsor id="300011"/>
+  <cosponsors>
+    <cosponsor id="412246" joined="2013-01-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-01-22">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Appropriations"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Members of Congress"/>
+    <term name="Presidents and presidential powers"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2013--Introduced.
+Prohibits Members of Congress and the President from receiving basic pay for any period in which: (1) there is more than a 24-hour lapse in appropriations for any federal agency or department as a result of a failure to enact a regular appropriations bill or continuing resolution, or (2) the federal government is unable to make payments or meet obligations because the public debt limit has been reached. Prohibits retroactive payment of such forfeited pay.</summary>
+</bill>

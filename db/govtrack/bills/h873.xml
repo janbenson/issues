@@ -1,0 +1,53 @@
+<bill session="113" type="h" number="873" updated="2013-03-14T04:46:11-04:00">
+  <state datetime="2013-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-27"/>
+  </status>
+  <introduced datetime="2013-02-27"/>
+  <titles>
+    <title as="introduced" type="short">Promoting American Agricultural and Medical Exports to Cuba Act of 2013</title>
+    <title as="introduced" type="official">To facilitate the export of United States agricultural products to Cuba as authorized by the Trade Sanctions Reform and Export Enhancement Act of 2000, to remove impediments to the export to Cuba of medical devices and medicines, to allow travel to Cuba by United States legal residents, to establish an agricultural export promotion program with respect to Cuba, and for other purposes.</title>
+  </titles>
+  <sponsor id="400333"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-27">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Ways and Means, the Judiciary, Agriculture, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-27">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2013-02-27">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-02-27">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-02-27">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2013-02-27">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2013-03-04">
+      <text>Referred to the Subcommittee on Trade.</text>
+      <committee name="House Ways and Means"/>
+    </action>
+    <action datetime="2013-03-13">
+      <text>Referred to the Subcommittee on Horticulture, Research, Biotechnology, and Foreign Agriculture.</text>
+      <committee name="House Agriculture"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG14" subcommittee="Horticulture, Research, Biotechnology, and Foreign Agriculture" name="House Agriculture"/>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

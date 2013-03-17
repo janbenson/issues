@@ -1,0 +1,28 @@
+<bill session="113" type="s" number="474" updated="2013-03-11T09:45:43-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="short">Swaps Regulatory Improvement Act</title>
+    <title as="introduced" type="official">A bill to amend provisions in section 716 of the Dodd-Frank Wall Street Reform and Consumer Protection Act relating to Federal assistance for swaps entities.</title>
+  </titles>
+  <sponsor id="412324"/>
+  <cosponsors>
+    <cosponsor id="412320" joined="2013-03-06"/>
+    <cosponsor id="400408" joined="2013-03-06"/>
+    <cosponsor id="412321" joined="2013-03-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

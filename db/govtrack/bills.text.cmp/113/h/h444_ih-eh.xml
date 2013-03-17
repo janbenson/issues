@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<body status="eh" difference-size-chars="2207" percent-change="45" total-changes="8" previous-status="ih">
+  <p nid="t0:eh:1" tracking-nids="t0:ih:1">HR 444 <changed sequence="1"><changed-from>I</changed-from><changed-to>E</changed-to></changed>H</p>
+  <p/>
+  <center>
+    <p nid="t0:eh:2">113th CONGRESS</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:eh:3" tracking-nids="t0:ih:3">1st Session</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:eh:4">H. R. 444</p>
+  </center>
+  <hr/>
+  <inserted sequence="2">
+    <p/>
+    <center>
+      <p nid="t0:eh:5">AN ACT</p>
+    </center>
+  </inserted>
+  <p nid="t0:eh:6">To require that, if the President&#x2019;s fiscal year 2014 budget does not achieve balance in a fiscal year covered by such budget, the President shall submit a supplemental unified budget by April 1, 2013, which identifies a fiscal year in which balance is achieved, and for other purposes.</p>
+  <ul>
+    <p nid="t0:eh:7" tracking-nids="t0:ih:12">
+      <em>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</em>
+    </p>
+  </ul>
+  <p/>
+  <h3 nid="t0:eh:8" tracking-nids="t0:ih:13">SECTION 1. SHORT TITLE.</h3>
+  <ul>
+    <p nid="t0:eh:9" tracking-nids="t0:ih:14">This Act may be cited as the &#x2018;Require Presidential Leadership and No Deficit Act&#x2019; or the &#x2018;Require a PLAN Act&#x2019;.</p>
+  </ul>
+  <p/>
+  <h3 nid="t0:eh:10">SEC. 2. PURPOSE AND FINDINGS.</h3>
+  <ul>
+    <p nid="t0:eh:11" tracking-nids="t0:ih:16">(a) Purpose- The purpose of this Act is to require the President to submit to Congress a supplemental unified budget if the President&#x2019;s budget for fiscal year 2014 does not achieve balance in a fiscal year covered by such budget.</p>
+    <p nid="t0:eh:12" tracking-nids="t0:ih:17">(b) Findings- Congress finds the following:</p>
+    <ul>
+      <p nid="t0:eh:13" tracking-nids="t0:ih:18">(1) With this year&#x2019;s expected failure to meet the statutory deadline for submission of his budget, as stated by the Office of Management and Budget, the President will have only met the statutory deadline in one of his five budget submissions.</p>
+      <p nid="t0:eh:14" tracking-nids="t0:ih:19">(2) Despite a promise to cut the deficit in half, the deficit doubled during the President&#x2019;s first year in office and has exceeded $1 trillion for four years now.</p>
+      <p nid="t0:eh:15" tracking-nids="t0:ih:20">(3) Since taking office, the President has allowed the Federal debt to grow by nearly $6 trillion and total debt now exceeds the size of the entire economy of the United States.</p>
+      <p nid="t0:eh:16" tracking-nids="t0:ih:21">(4) Under the President&#x2019;s most recent budget submission, the budget never achieves balance.</p>
+      <p nid="t0:eh:17" tracking-nids="t0:ih:22">(5) The President&#x2019;s fiscal year 2013 budget submission includes the admission that under his own policies the Federal Government&#x2019;s &#x2018;fiscal position gradually deteriorates&#x2019;.</p>
+    </ul>
+  </ul>
+  <p/>
+  <h3 nid="t0:eh:18">SEC. 3. SUBMISSION OF A SUPPLEMENTAL UNIFIED BUDGET.</h3>
+  <ul>
+    <p nid="t0:eh:19">(a) In General- If the President&#x2019;s budget for fiscal year 2014, submitted to Congress pursuant to <usc-reference title="31" section="1105" paragraph="a"><usc-reference title="31" section="1105" paragraph="a">section 1105(a) of title 31, United States Code</usc-reference></usc-reference>, results in a projected deficit in every fiscal year for which estimates are provided in such budget, then the President shall submit a supplemental unified budget pursuant to subsection (b).</p>
+    <p nid="t0:eh:20" tracking-nids="t0:ih:25">(b) Contents of Supplemental Unified Budget- Not later than April 1, 2013, the President shall submit to Congress a supplemental unified budget that includes--</p>
+    <ul>
+      <p nid="t0:eh:21">(1) the information required under <usc-reference title="31" section="1105" paragraph="a"><usc-reference title="31" section="1105" paragraph="a">section 1105(a) of title 31, United States Code</usc-reference></usc-reference>;</p>
+      <p nid="t0:eh:22" tracking-nids="t0:ih:27">(2) an estimate of the earliest fiscal year in which the supplemental budget is not projected to result in a deficit;</p>
+      <p nid="t0:eh:23" tracking-nids="t0:ih:28">(3) a detailed description of additional policies to be implemented in order to achieve such result<changed sequence="3"><changed-from>; and</changed-from><changed-to> (including an evaluation of duplicative agency functions and agency effectiveness, and proposals for consolidating duplicative functions and programs between agencies in the interests of cost-savings);</changed-to></changed></p>
+      <p nid="t0:eh:24">(4) an explanation of the differences between the President&#x2019;s budget for fiscal year 2014 and the supplemental unified budget referred to in this subsection<inserted sequence="4">;</inserted></p>
+      <inserted sequence="5">
+        <p nid="t0:eh:25">(5) an estimate of the cost per taxpayer of the annual deficit for each year in which the supplemental unified budget is projected to result in a deficit; and</p>
+        <p nid="t0:eh:26">(6) under a separate heading entitled &#x2018;Direct Spending&#x2019;, which shall include a category for &#x2018;Means-Tested Direct Spending&#x2019; and a category for &#x2018;Nonmeans-Tested Direct Spending&#x2019; and sets forth--</p>
+      </inserted>
+      <ul>
+        <inserted sequence="6">
+          <p nid="t0:eh:27">(A) the average rate of growth for each category in the total amount of outlays during the 10-year period preceding the budget year;</p>
+          <p nid="t0:eh:28">(B) information on the budget proposals for reform of such programs;</p>
+          <p nid="t0:eh:29">(C) a description of programs which shall be considered means-tested direct spending and nonmeans-tested direct spending for purposes of this paragraph; and</p>
+        </inserted>
+        <p nid="t0:eh:30"><inserted sequence="7">(D) an annual estimate of the total amount of outlays for each such program for the period covered by the budget proposal</inserted>.</p>
+      </ul>
+    </ul>
+    <p nid="t0:eh:31" tracking-nids="t0:ih:30">(c) Definition- The term &#x2018;unified budget&#x2019; means the total level of outlays, total level of receipts, and the resulting deficit or surplus of the United States Government for a fiscal year.</p>
+  </ul>
+  <inserted sequence="8">
+    <p nid="t0:eh:32">Passed the House of Representatives February 6, 2013.</p>
+    <p nid="t0:eh:33">Attest:</p>
+    <p nid="t0:eh:34">Clerk.</p>
+    <p/>
+    <center>
+      <p nid="t0:eh:35">113th CONGRESS</p>
+    </center>
+    <p/>
+    <center>
+      <p nid="t0:eh:36">1st Session</p>
+    </center>
+    <p/>
+    <center>
+      <p nid="t0:eh:37">H. R. 444</p>
+    </center>
+    <p/>
+    <center>
+      <p nid="t0:eh:38">AN ACT</p>
+    </center>
+    <p nid="t0:eh:39">To require that, if the President&#x2019;s fiscal year 2014 budget does not achieve balance in a fiscal year covered by such budget, the President shall submit a supplemental unified budget by April 1, 2013, which identifies a fiscal year in which balance is achieved, and for other purposes.</p>
+  </inserted>
+</body>

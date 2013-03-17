@@ -1,0 +1,32 @@
+<bill session="113" type="h" number="919" updated="2013-03-13T04:46:24-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">SECTORS Act of 2013</title>
+    <title as="introduced" type="short">Strengthening Employment Clusters to Organize Regional Success Act of 2013</title>
+    <title as="introduced" type="official">To promote industry growth and competitiveness and to improve worker training, retention, and advancement, and for other purposes.</title>
+  </titles>
+  <sponsor id="412209"/>
+  <cosponsors>
+    <cosponsor id="412470" joined="2013-03-12"/>
+    <cosponsor id="400184" joined="2013-03-05"/>
+    <cosponsor id="400230" joined="2013-03-04"/>
+    <cosponsor id="400274" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>2/28/2013--Introduced.
+Strengthening Employment Clusters to Organize Regional Success Act of 2013 or SECTORS Act of 2013 - Amends the Workforce Investment Act of 1998 to require the Secretary of Labor to award renewable three-year competitive industry or sector partnership grants to eligible entities to develop strategies that: (1) encourage growth and competitiveness through work with employers within a targeted industry cluster; (2) help workers move toward economic self-sufficiency and ensure that they have access to supportive services; (3) address the needs of firms with limited human resources or in-house training capacity, including small- and medium-sized firms; and (4) coordinate with entities that carry out state and local workforce investment, economic development, and education activities.</summary>
+</bill>

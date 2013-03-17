@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="804" updated="2013-03-01T12:45:44-05:00">
+  <state datetime="2013-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-25"/>
+  </status>
+  <introduced datetime="2013-02-25"/>
+  <titles>
+    <title as="introduced" type="short">Smarter Than Sequester Defense Spending Reduction Act</title>
+    <title as="introduced" type="official">To cancel the 251A sequester for the revised security category and to provide for a reduced spending plan with respect to the Department of Defense, and for other purposes.</title>
+  </titles>
+  <sponsor id="412271"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-25">
+      <text>Referred to the House Committee on the Budget.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBU" name="House Budget" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="113" type="h" number="624" updated="2013-03-09T06:20:30-05:00">
+  <state datetime="2013-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-13"/>
+  </status>
+  <introduced datetime="2013-02-13"/>
+  <titles>
+    <title as="introduced" type="short">Cyber Intelligence Sharing and Protection Act</title>
+    <title as="introduced" type="official">To provide for the sharing of certain cyber threat intelligence and cyber threat information between the intelligence community and cybersecurity entities, and for other purposes.</title>
+  </titles>
+  <sponsor id="400342"/>
+  <cosponsors>
+    <cosponsor id="400349" joined="2013-02-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-13">
+      <text>Referred to the House Committee on Intelligence (Permanent Select).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Business records"/>
+    <term name="Civil actions and liability"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Congressional oversight"/>
+    <term name="Crimes against children"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Director of National Intelligence"/>
+    <term name="Federal preemption"/>
+    <term name="Government information and archives"/>
+    <term name="Government liability"/>
+    <term name="Health information and medical records"/>
+    <term name="Homeland security"/>
+    <term name="Human trafficking"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Pornography"/>
+    <term name="Public-private cooperation"/>
+    <term name="Right of privacy"/>
+    <term name="Sex offenses"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2013--Introduced.
+Cyber Intelligence Sharing and Protection Act - Amends the National Security Act of 1947 to add provisions concerning cyber threat intelligence and information sharing. Defines "cyber threat intelligence" as intelligence in the possession of an element of the intelligence community directly pertaining to: (1) a vulnerability of a system or network of a government or private entity; (2) a threat to the integrity, confidentiality, or availability of such a system or network or any information stored on, processed on, or transiting such a system or network; (3) efforts to deny access to or degrade, disrupt, or destroy such a system or network; or (4) efforts to gain unauthorized access to such a system or network, including for the purpose of exfiltrating information. Excludes intelligence pertaining to efforts to gain unauthorized access to such a system or network that solely involve violations of consumer terms of service or consumer licensing agreements and do not otherwise constitute unauthorized access. Requires the Director of National Intelligence (DNI) to: (1) establish procedures to allow intelligence community elements to share cyber threat intelligence with private-sector entities and utilities, and (2) encourage the sharing of such intelligence. Requires the procedures established to ensure that such intelligence is only: (1) shared with certified entities or a person with an appropriate security clearance, (2) shared consistent with the need to protect U.S. national security, and (3) used in a manner that protects such intelligence from unauthorized disclosure. Provides for guidelines for the granting of security clearance approvals to certified entities or officers or employees of such entities. Prohibits a certified entity receiving such intelligence from further disclosing the information to any entity other than another certified entity or a federal agency authorized to receive such intelligence. Authorizes a cybersecurity provider (a non-governmental entity that provides goods or services intended to be used for cybersecurity purposes), with the express consent of a protected entity (an entity that contracts with a cybersecurity provider), to: (1) use cybersecurity systems to identify and obtain cyber threat information in order to protect the rights and property of the protected entity; and (2) share cyber threat information with any other entity designated by the protected entity, including the federal government. Provides similar cybersecurity system use and threat information sharing authority to self-protected entities (an entity that provides goods or services for cybersecurity purposes to itself). Requires the head of a federal agency receiving cyber threat information to provide such information to the National Cybersecurity and Communications Integration Center of the Department of Homeland Security (DHS), and allows such agency head to request the Center to provide such information to another federal agency. Sets forth requirements with respect to the use and protection of shared information, including prohibiting the use of such information to gain a competitive advantage and, if shared with the federal government, exempts such information from public disclosure. Prohibits a civil or criminal cause of action against a protected entity, a self-protected entity, or a cybersecurity provider acting in good faith under the above circumstances. Allows the federal government to use shared cyber threat information: (1) for cybersecurity purposes to ensure the integrity, confidentiality, availability, or safeguarding of a system or network; (2) for the investigation of cybersecurity crimes; (3) for the protection of individuals from the danger of death or serious bodily harm and the prosecution of crimes involving such dangers (including the protection of minors from child pornography, sexual exploitation, kidnapping, and trafficking); or (4) to protect U.S. national security. Prohibits the federal government from affirmatively searching such information for any other purpose. Provides for the protection of sensitive personal documents such as library records, firearms sales records, educational records, tax returns, and medical records. Requires a federal agency receiving information that is not cyber threat information to so notify the entity or provider of such information. Prohibits federal agencies from retaining shared information for any unauthorized use. Outlines federal government liability for violations of restrictions on the disclosure, use, and protection of voluntarily shared information.</summary>
+</bill>

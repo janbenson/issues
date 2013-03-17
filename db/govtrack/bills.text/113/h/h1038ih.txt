@@ -1,0 +1,148 @@
+                                                                                                                                     I
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                        H. R. 1038
+                                   To provide equal treatment for utility special entities using utility operations-
+                                                      related swaps, and for other purposes.
+
+
+
+
+                                                IN THE HOUSE OF REPRESENTATIVES
+                                                               MARCH 11, 2013
+                                  Mr. LAMALFA (for himself, Mr. DENHAM, Mr. LUETKEMEYER, Mr. COSTA,
+                                      and Mr. GARAMENDI) introduced the following bill; which was referred
+                                      to the Committee on Agriculture
+
+
+
+
+                                                                            A BILL
+                                     To provide equal treatment for utility special entities using
+                                      utility operations-related swaps, and for other purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Public Power Risk
+                                    5 Management Act of 2013’’.
+                                    6     SEC. 2. TRANSACTIONS WITH UTILITY SPECIAL ENTITIES.
+                                    7              Section 1a(49) of the Commodity Exchange Act (7
+                                    8 U.S.C. 1a(49)) is amended by adding at the end the fol-
+
+
+
+
+                                    9 lowing:
+                                    1                                 ‘‘(E) CERTAIN      2               TRANSACTIONS                WITH   A
+                                    2                        UTILITY SPECIAL ENTITY.—
+
+                                    3                                        ‘‘(i) Transactions in utility operations-
+                                    4                                 related swaps shall be reported pursuant to
+                                    5                                 section 4r.
+                                    6                                        ‘‘(ii) In making a determination to ex-
+                                    7                                 empt pursuant to subparagraph (D), the
+                                    8                                 Commission shall treat a utility operations-
+                                    9                                 related swap entered into with a utility
+                                  10                                  special         entity,            as    defined          in    section
+                                  11                                  4s(h)(2)(D), as if it were entered into with
+                                  12                                  an entity that is not a special entity, as de-
+                                  13                                  fined in section 4s(h)(2)(C).’’.
+                                  14      SEC. 3. UTILITY SPECIAL ENTITY DEFINED.
+                                  15               Section 4s(h)(2) of the Commodity Exchange Act (7
+                                  16 U.S.C. 6s(h)(2)) is amended by adding at the end the fol-
+                                  17 lowing:
+                                  18                                  ‘‘(D) UTILITY              SPECIAL ENTITY.—For                    pur-
+                                  19                         poses of this Act, the term ‘utility special enti-
+                                  20                         ty’ means a special entity, or any instrumen-
+                                  21                         tality, department, or corporation of or estab-
+                                  22                         lished by a State or political subdivision of a
+                                  23                         State, that—
+
+
+
+
+
+                                              •HR 1038 IH
+
+                                                                                             3
+                                    1                                        ‘‘(i) owns or operates an electric or
+                                    2                                 natural gas facility or an electric or nat-
+                                    3                                 ural gas operation;
+                                    4                                        ‘‘(ii) supplies natural gas and or elec-
+                                    5                                 tric energy to another utility special entity;
+                                    6                                        ‘‘(iii) has public service obligations
+                                    7                                 under Federal, State, or local law or regu-
+                                    8                                 lation to deliver electric energy or natural
+                                    9                                 gas service to customers; or
+                                  10                                         ‘‘(iv) is a Federal power marketing
+                                  11                                  agency, as defined in section 3 of the Fed-
+                                  12                                  eral Power Act.’’.
+                                  13      SEC. 4. UTILITY OPERATIONS-RELATED SWAP.
+
+                                  14               (a)            SWAP               FURTHER                     DEFINED.—Section
+                                  15 1a(47)(A)(iii) of the Commodity Exchange Act (7 U.S.C.
+                                  16 1a(47)(A)(iii)) is amended—
+                                  17                         (1) by striking ‘‘and’’ at the end of subclause
+                                  18               (XXI);
+                                  19                         (2) by adding ‘‘and’’ at the end of subclause
+                                  20               (XXII); and
+                                  21                         (3) by adding at the end the following:
+                                  22                                                   ‘‘(XXIII) a utility operations-re-
+                                  23                                         lated swap;’’.
+
+
+
+
+
+                                              •HR 1038 IH
+
+                                    1              (b) UTILITY OPERATIONS-RELATED SWAP DE-   4
+                                    2     FINED.—Section                  1a of such Act (7 U.S.C. 1a) is amended
+                                    3 by adding at the end the following:
+                                    4                        ‘‘(52) UTILITY              OPERATIONS-RELATED SWAP.—
+                                    5              The term ‘utility operations-related swap’ means a
+                                    6              swap that—
+                                    7                                 ‘‘(A) is entered into to hedge or mitigate a
+                                    8                        commercial risk;
+                                    9                                 ‘‘(B) is not a contract, agreement, or
+                                  10                         transaction based on, derived on, or ref-
+                                  11                         erencing—
+                                  12                                         ‘‘(i) an interest rate, credit, equity, or
+                                  13                                  currency asset class; or
+                                  14                                         ‘‘(ii) a metal, agricultural commodity,
+                                  15                                  or crude oil or gasoline commodity of any
+                                  16                                  grade, except as used as fuel for electric
+                                  17                                  energy generation; and
+                                  18                                  ‘‘(C) is associated with—
+                                  19                                         ‘‘(i) the generation, production, pur-
+                                  20                                  chase, or sale of natural gas or electric en-
+                                  21                                  ergy, the supply of natural gas or electric
+                                  22                                  energy to a utility, or the delivery of nat-
+                                  23                                  ural gas or electric energy service to utility
+
+
+
+
+                                  24                                  customers;
+                                              •HR 1038 IH
+
+                                                                                             5
+                                    1                                        ‘‘(ii) all fuel supply for the facilities or
+                                    2                                 operations of a utility;
+                                    3                                        ‘‘(iii) compliance with an electric sys-
+                                    4                                 tem reliability obligation;
+                                    5                                        ‘‘(iv) compliance with an energy, en-
+                                    6                                 ergy efficiency, conservation, or renewable
+                                    7                                 energy or environmental statute, regula-
+                                    8                                 tion, or government order applicable to a
+                                    9                                 utility; or
+                                  10                                         ‘‘(v) any other electric energy or nat-
+                                  11                                  ural gas swap to which a utility is a
+                                  12                                  party.’’.
+                                  13      SEC. 5. EFFECTIVE DATE.
+                                  14               The amendments made by this Act take effect as if
+                                  15 enacted on July 21, 2010.
+                                              •HR 1038 IH                                  Æ

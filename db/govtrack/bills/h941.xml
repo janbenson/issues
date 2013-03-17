@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="941" updated="2013-03-05T09:46:06-05:00">
+  <state datetime="2013-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-04"/>
+  </status>
+  <introduced datetime="2013-03-04"/>
+  <titles>
+    <title as="introduced" type="short">End Unnecessary Borrowing Act of 2013</title>
+    <title as="introduced" type="official">To ensure that any authority of the Mutual Mortgage Insurance Fund to borrow amounts from the Treasury is used only to pay mortgage insurance claims.</title>
+  </titles>
+  <sponsor id="400063"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-04">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="982" updated="2013-03-07T12:45:39-05:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="short">Furthering Asbestos Claim Transparency (FACT) Act of 2013</title>
+    <title as="introduced" type="official">To amend title 11 of the United States Code to require the public disclosure by trusts established under section 524(g) of such title, of quarterly reports that contain detailed information regarding the receipt and disposition of claims for injuries based on exposure to asbestos; and for other purposes.</title>
+  </titles>
+  <sponsor id="412482"/>
+  <cosponsors>
+    <cosponsor id="400255" joined="2013-03-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

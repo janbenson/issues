@@ -1,0 +1,64 @@
+<bill session="113" type="h" number="570" updated="2013-03-14T04:45:57-04:00">
+  <state datetime="2013-02-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-06"/>
+  </status>
+  <introduced datetime="2013-02-06"/>
+  <titles>
+    <title as="introduced" type="short">American Heroes COLA Act</title>
+    <title as="introduced" type="official">To amend title 38, United States Code, to provide for annual cost-of-living adjustments to be made automatically by law each year in the rates of disability compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for survivors of certain service-connected disabled veterans.</title>
+  </titles>
+  <sponsor id="412449"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2013-03-12"/>
+    <cosponsor id="400041" joined="2013-03-04"/>
+    <cosponsor id="412567" joined="2013-03-06"/>
+    <cosponsor id="412571" joined="2013-03-13"/>
+    <cosponsor id="400077" joined="2013-03-13"/>
+    <cosponsor id="412535" joined="2013-03-04"/>
+    <cosponsor id="412401" joined="2013-03-05"/>
+    <cosponsor id="400162" joined="2013-03-04"/>
+    <cosponsor id="412460" joined="2013-02-25"/>
+    <cosponsor id="412290" joined="2013-03-12"/>
+    <cosponsor id="400244" joined="2013-02-13"/>
+    <cosponsor id="400263" joined="2013-03-04"/>
+    <cosponsor id="412189" joined="2013-03-13"/>
+    <cosponsor id="412518" joined="2013-03-04"/>
+    <cosponsor id="412409" joined="2013-03-13"/>
+    <cosponsor id="412575" joined="2013-02-25"/>
+    <cosponsor id="412585" joined="2013-03-12"/>
+    <cosponsor id="400331" joined="2013-03-05"/>
+    <cosponsor id="412411" joined="2013-03-12"/>
+    <cosponsor id="400647" joined="2013-02-26"/>
+    <cosponsor id="412461" joined="2013-03-13"/>
+    <cosponsor id="412520" joined="2013-02-26"/>
+    <cosponsor id="412318" joined="2013-02-06"/>
+    <cosponsor id="412214" joined="2013-02-28"/>
+    <cosponsor id="400627" joined="2013-03-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-06">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-02-22">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+      <committee name="House Committee on Veterans' Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSVR09" subcommittee="Disability Assistance and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="569"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disability assistance"/>
+    <term name="Inflation and prices"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/6/2013--Introduced.
+American Heroes COLA Act - Requires that, whenever there is an increase in benefit amounts payable under title II (Old Age, Survivors and Disability Insurance) of the Social Security Act, the Secretary of Veterans Affairs (VA) shall increase by the same percentage the amounts payable as veterans' disability compensation, additional compensation for dependents, the clothing allowance for certain disabled adult children, and dependency and indemnity compensation for surviving spouses and children.</summary>
+</bill>

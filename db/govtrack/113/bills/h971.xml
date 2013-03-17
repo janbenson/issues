@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="971" updated="2013-03-07T12:45:37-05:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title as="introduced" type="short">Ensuring Proper Community Investments Act of 2013</title>
+    <title as="introduced" type="official">To prohibit the sale or trade to another community of community development block grant award amounts.</title>
+  </titles>
+  <sponsor id="412303"/>
+  <cosponsors>
+    <cosponsor id="400644" joined="2013-03-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-05">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

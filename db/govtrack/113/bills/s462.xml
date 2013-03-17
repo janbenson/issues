@@ -1,0 +1,38 @@
+<bill session="113" type="s" number="462" updated="2013-03-13T04:45:37-04:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title as="introduced" type="short">United States-Israel Strategic Partnership Act of 2013</title>
+    <title as="introduced" type="official">A bill to enhance the strategic partnership between the United States and Israel.</title>
+  </titles>
+  <sponsor id="300011"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2013-03-11"/>
+    <cosponsor id="400034" joined="2013-03-05"/>
+    <cosponsor id="400040" joined="2013-03-12"/>
+    <cosponsor id="400064" joined="2013-03-05"/>
+    <cosponsor id="412246" joined="2013-03-11"/>
+    <cosponsor id="300025" joined="2013-03-05"/>
+    <cosponsor id="300027" joined="2013-03-05"/>
+    <cosponsor id="300030" joined="2013-03-12"/>
+    <cosponsor id="412320" joined="2013-03-12"/>
+    <cosponsor id="412391" joined="2013-03-05"/>
+    <cosponsor id="412507" joined="2013-03-11"/>
+    <cosponsor id="300093" joined="2013-03-11"/>
+    <cosponsor id="300100" joined="2013-03-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-05">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="710" updated="2013-03-08T04:45:58-05:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title as="introduced" type="short">Truth in Trials Act</title>
+    <title as="introduced" type="official">To amend title 18, United States Code, to provide an affirmative defense for the medical use of marijuana in accordance with the laws of the various States, and for other purposes.</title>
+  </titles>
+  <sponsor id="400129"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2013-02-14"/>
+    <cosponsor id="412236" joined="2013-02-14"/>
+    <cosponsor id="400162" joined="2013-02-14"/>
+    <cosponsor id="400237" joined="2013-02-14"/>
+    <cosponsor id="400263" joined="2013-02-25"/>
+    <cosponsor id="400283" joined="2013-02-14"/>
+    <cosponsor id="412307" joined="2013-02-14"/>
+    <cosponsor id="412585" joined="2013-02-25"/>
+    <cosponsor id="412308" joined="2013-02-14"/>
+    <cosponsor id="400343" joined="2013-02-14"/>
+    <cosponsor id="412514" joined="2013-03-07"/>
+    <cosponsor id="400425" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-14">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Prescription drugs"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+</bill>

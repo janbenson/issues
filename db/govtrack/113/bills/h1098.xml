@@ -1,0 +1,25 @@
+<bill session="113" type="h" number="1098" updated="2013-03-13T04:46:43-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Public Health Service Act to reauthorize certain programs relating to traumatic brain injury and to trauma research.</title>
+  </titles>
+  <sponsor id="400309"/>
+  <cosponsors>
+    <cosponsor id="412311" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

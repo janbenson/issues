@@ -1,0 +1,33 @@
+<bill session="113" type="s" number="366" updated="2013-03-09T06:16:45-05:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend the Omnibus Budget Reconciliation Act of 1993 to require the Bureau of Land Management to provide a claimant of a small miner waiver from claim maintenance fees with a period of 60 days after written receipt of 1 or more defects is provided to the claimant by registered mail to cure the 1 or more defects or pay the claim maintenance fee, and for other purposes.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-02-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S785"/>
+    </action>
+    <action state="REFERRED" datetime="2013-02-14">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Administrative remedies"/>
+    <term name="Department of the Interior"/>
+    <term name="Mining"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+</bill>

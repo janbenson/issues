@@ -1,0 +1,40 @@
+<bill session="113" type="h" number="1078" updated="2013-03-13T04:46:38-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="official">To make participation in the American Community Survey voluntary, except with respect to certain basic questions, and for other purposes.</title>
+  </titles>
+  <sponsor id="400652"/>
+  <cosponsors>
+    <cosponsor id="412270" joined="2013-03-12"/>
+    <cosponsor id="400089" joined="2013-03-12"/>
+    <cosponsor id="412472" joined="2013-03-12"/>
+    <cosponsor id="412457" joined="2013-03-12"/>
+    <cosponsor id="400640" joined="2013-03-12"/>
+    <cosponsor id="412473" joined="2013-03-12"/>
+    <cosponsor id="400165" joined="2013-03-12"/>
+    <cosponsor id="412429" joined="2013-03-12"/>
+    <cosponsor id="400206" joined="2013-03-12"/>
+    <cosponsor id="400209" joined="2013-03-12"/>
+    <cosponsor id="412191" joined="2013-03-12"/>
+    <cosponsor id="412256" joined="2013-03-12"/>
+    <cosponsor id="412292" joined="2013-03-12"/>
+    <cosponsor id="412261" joined="2013-03-12"/>
+    <cosponsor id="412417" joined="2013-03-12"/>
+    <cosponsor id="412213" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="881" updated="2013-03-09T06:21:35-05:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">Cluster Munitions Civilian Protection Act of 2013</title>
+    <title as="introduced" type="official">To limit the use of cluster munitions.</title>
+  </titles>
+  <sponsor id="400263"/>
+  <cosponsors>
+    <cosponsor id="400636" joined="2013-02-28"/>
+    <cosponsor id="400196" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E219"/>
+    </action>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="419"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

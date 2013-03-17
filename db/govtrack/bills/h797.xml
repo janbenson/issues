@@ -1,0 +1,27 @@
+<bill session="113" type="h" number="797" updated="2013-03-01T12:45:43-05:00">
+  <state datetime="2013-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-15"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title as="introduced" type="short">Municipal Advisor Oversight Improvement Act of 2013</title>
+    <title as="introduced" type="official">To amend the Securities Exchange Act of 1934 to clarify provisions relating to the regulation of municipal advisors, and for other purposes.</title>
+  </titles>
+  <sponsor id="412461"/>
+  <cosponsors>
+    <cosponsor id="400661" joined="2013-02-15"/>
+    <cosponsor id="400313" joined="2013-02-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-15">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

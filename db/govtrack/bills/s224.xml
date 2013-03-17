@@ -1,0 +1,39 @@
+<bill session="113" type="s" number="224" updated="2013-02-27T04:46:26-05:00">
+  <state datetime="2013-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-04"/>
+  </status>
+  <introduced datetime="2013-02-04"/>
+  <titles>
+    <title as="introduced" type="short">San Francisco Bay Restoration Act</title>
+    <title as="introduced" type="official">A bill to amend the Federal Water Pollution Control Act to establish a grant program to support the restoration of San Francisco Bay.</title>
+  </titles>
+  <sponsor id="300043"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2013-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-04">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S472"/>
+    </action>
+    <action state="REFERRED" datetime="2013-02-04">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <reference ref="CR S472-473" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="California"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Water quality"/>
+    <term name="Watersheds"/>
+    <term name="Wetlands"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

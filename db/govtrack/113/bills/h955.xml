@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="955" updated="2013-03-15T04:47:17-04:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title as="introduced" type="short">Hadiya Pendleton and Nyasia Pryear-Yard Stop Illegal Trafficking in Firearms Act of 2013</title>
+    <title as="introduced" type="official">To increase public safety by punishing and deterring firearms trafficking.</title>
+  </titles>
+  <sponsor id="400350"/>
+  <cosponsors>
+    <cosponsor id="412221" joined="2013-03-12"/>
+    <cosponsor id="400199" joined="2013-03-12"/>
+    <cosponsor id="400211" joined="2013-03-05"/>
+    <cosponsor id="400630" joined="2013-03-14"/>
+    <cosponsor id="400253" joined="2013-03-12"/>
+    <cosponsor id="400360" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-05">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="443"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

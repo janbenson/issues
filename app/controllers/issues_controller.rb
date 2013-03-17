@@ -1,7 +1,7 @@
 class IssuesController < ApplicationController
    @logged_in == false	
    layout "frontpage"
-    
+
   caches_page :pipa
   
   def index
@@ -21,26 +21,26 @@ class IssuesController < ApplicationController
               # :style => 'display: none;',
               # :count_type => 'blog_articles'},              
               {:title => 'Most-Viewed Bills'},
-             # :partial => 'bill',
-             # :collection => ObjectAggregate.popular('Bill', Settings.default_count_time, 5),
-             # :id => "bv",
-             # :link => '/bill/most/viewed',
-              # :style => 'display: none;',
-             # :count_type => 'views'},
-              {:title => 'Newest Bills'},
-             # :partial => 'bill',
-             # :collection => Bill.find(:all, :order => 'introduced DESC', :limit => 5),
-             # :id => 'bn',
-             # :link => '/bill/all',
-             # :style => 'display: none;',
-             # :count_type => 'views'},
-              {:title => 'Most-Viewed Senators'},
-             # :partial => 'person',
-             # :collection => Person.list_chamber('sen', Settings.default_congress, "view_count desc", 5),
-             # :id => 'ps',
-             # :style => 'display: none;',
-             # :link => '/people/senators?sort=popular',
-             # :count_type => 'views'},
+              #:partial => 'bill',
+              #:collection => Model:ObjectAggregate.popular('Bill', Settings.default_count_time, 5),
+              #:id => "bv",
+              #:link => '/bill/most/viewed',
+              #:style => 'display: none;',
+              #:count_type => 'views'},
+              {:title => 'Newest Bills',
+              :partial => 'bill',
+              :collection => Bill.find(:all, :order => 'introduced DESC', :limit => 5),
+              :id => 'bn',
+              :link => '/bill/all',
+              :style => 'display: none;',
+              :count_type => 'views'},
+              {:title => 'Most-Viewed Senators',
+              :partial => 'person',
+              :collection => Person.list_chamber('sen', '113', "view_count desc", :limit => 5),
+              :id => 'ps',
+              :style => 'display: none;',
+              :link => '/people/senators?sort=popular',
+              :count_type => 'views'},
               {:title => 'Most-Viewed Reps'},
              #:partial => 'person',
              # :collection => Person.list_chamber('rep', Settings.default_congress, "view_count desc", 5),
@@ -71,32 +71,32 @@ class IssuesController < ApplicationController
   def pipa
   end
   
-#  def about
-#    redirect_to :controller => 'about'
-#  end
+  def about
+    redirect_to :controller => 'about'
+  end
 
-#	def popular
-#		render :update do |page|
-#			page.replace_html 'popular', :partial => "index/popular", :locals => {:object => @object}
-#		end
-#	end
+	def popular
+		render :update do |page|
+			page.replace_html 'popular', :partial => "index/popular", :locals => {:object => @object}
+		end
+	end
 
-	#def s1796_redirect
-	#  redirect_to bill_path('111-s1796')
-	#end
+	def s1796_redirect
+	  redirect_to bill_path('111-s1796')
+	end
 
-	#def senate_health_care_bill_111
-	#  @page_title = 'Senate Health Care Bill - Health Care Reform'
-	#  render :layout => 'application'
-	#end
+	def senate_health_care_bill_111
+	  @page_title = 'Senate Health Care Bill - Health Care Reform'
+	  render :layout => 'application'
+	end
 
-	#def senate_health_care_bill_111
-	#  @page_title = 'The President\'s Proposal - Health Care Reform'
-	#  render :layout => 'application'
-	#end
+	def senate_health_care_bill_111
+	  @page_title = 'The President\'s Proposal - Health Care Reform'
+	  render :layout => 'application'
+	end
 	#
-	#def house_reconciliation
-	#  @page_title = 'Health Care Bill Text - H.R. 4872 - Reconciliation Act of 2010'
-	#  render :layout => 'application'
-	#end
+	def house_reconciliation
+	  @page_title = 'Health Care Bill Text - H.R. 4872 - Reconciliation Act of 2010'
+	  render :layout => 'application'
+	end
 end

@@ -1,0 +1,32 @@
+<bill session="113" type="sr" number="53" updated="2013-03-02T06:21:43-05:00">
+  <state datetime="2013-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-26"/>
+  </status>
+  <introduced datetime="2013-02-26"/>
+  <titles>
+    <title as="introduced" type="official">An original resolution authorizing expenditures by the Committee on the Budget.</title>
+  </titles>
+  <sponsor id="300076"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-02-26">
+      <text>Committee on the Budget. Original measure reported to Senate by Senator Murray. Without written report.</text>
+    </action>
+    <action state="REFERRED" datetime="2013-02-26">
+      <text>Referred to the Committee on Rules and Administration.</text>
+      <reference ref="CR S876" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBU" name="Senate Budget" activity="Origin, Reporting"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional committees"/>
+    <term name="Senate Committee on the Budget"/>
+  </subjects>
+  <amendments/>
+</bill>

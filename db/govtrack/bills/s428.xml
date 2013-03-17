@@ -1,0 +1,24 @@
+<bill session="113" type="s" number="428" updated="2013-03-05T18:45:31-05:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">Arctic Deep Water Ports Enhancement Act of 2013</title>
+    <title as="introduced" type="official">A bill to expedite the development of Arctic deepwater ports and for other purposes.</title>
+  </titles>
+  <sponsor id="412326"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

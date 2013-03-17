@@ -1,0 +1,87 @@
+<bill session="113" type="h" number="1130" updated="2013-03-14T04:46:27-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="official">To authorize further assistance to Israel for the Iron Dome anti-missile defense system.</title>
+  </titles>
+  <sponsor id="400097"/>
+  <cosponsors>
+    <cosponsor id="412216" joined="2013-03-13"/>
+    <cosponsor id="412502" joined="2013-03-13"/>
+    <cosponsor id="412208" joined="2013-03-13"/>
+    <cosponsor id="412567" joined="2013-03-13"/>
+    <cosponsor id="400048" joined="2013-03-13"/>
+    <cosponsor id="400052" joined="2013-03-13"/>
+    <cosponsor id="400071" joined="2013-03-13"/>
+    <cosponsor id="412470" joined="2013-03-13"/>
+    <cosponsor id="412563" joined="2013-03-13"/>
+    <cosponsor id="412272" joined="2013-03-13"/>
+    <cosponsor id="400087" joined="2013-03-13"/>
+    <cosponsor id="400089" joined="2013-03-13"/>
+    <cosponsor id="412385" joined="2013-03-13"/>
+    <cosponsor id="400122" joined="2013-03-13"/>
+    <cosponsor id="412529" joined="2013-03-13"/>
+    <cosponsor id="400141" joined="2013-03-13"/>
+    <cosponsor id="400160" joined="2013-03-13"/>
+    <cosponsor id="412485" joined="2013-03-13"/>
+    <cosponsor id="412451" joined="2013-03-13"/>
+    <cosponsor id="400163" joined="2013-03-13"/>
+    <cosponsor id="412418" joined="2013-03-13"/>
+    <cosponsor id="412444" joined="2013-03-13"/>
+    <cosponsor id="400170" joined="2013-03-13"/>
+    <cosponsor id="400641" joined="2013-03-13"/>
+    <cosponsor id="400184" joined="2013-03-13"/>
+    <cosponsor id="400195" joined="2013-03-13"/>
+    <cosponsor id="412460" joined="2013-03-13"/>
+    <cosponsor id="412435" joined="2013-03-13"/>
+    <cosponsor id="412583" joined="2013-03-13"/>
+    <cosponsor id="400219" joined="2013-03-13"/>
+    <cosponsor id="400224" joined="2013-03-13"/>
+    <cosponsor id="412191" joined="2013-03-13"/>
+    <cosponsor id="412290" joined="2013-03-13"/>
+    <cosponsor id="412256" joined="2013-03-13"/>
+    <cosponsor id="400246" joined="2013-03-13"/>
+    <cosponsor id="400253" joined="2013-03-13"/>
+    <cosponsor id="400257" joined="2013-03-13"/>
+    <cosponsor id="400654" joined="2013-03-13"/>
+    <cosponsor id="400262" joined="2013-03-13"/>
+    <cosponsor id="400263" joined="2013-03-13"/>
+    <cosponsor id="412560" joined="2013-03-13"/>
+    <cosponsor id="412474" joined="2013-03-13"/>
+    <cosponsor id="412302" joined="2013-03-13"/>
+    <cosponsor id="412305" joined="2013-03-13"/>
+    <cosponsor id="412523" joined="2013-03-13"/>
+    <cosponsor id="412306" joined="2013-03-13"/>
+    <cosponsor id="400344" joined="2013-03-13"/>
+    <cosponsor id="412202" joined="2013-03-13"/>
+    <cosponsor id="400352" joined="2013-03-13"/>
+    <cosponsor id="400360" joined="2013-03-13"/>
+    <cosponsor id="400361" joined="2013-03-13"/>
+    <cosponsor id="400647" joined="2013-03-13"/>
+    <cosponsor id="400371" joined="2013-03-13"/>
+    <cosponsor id="400379" joined="2013-03-13"/>
+    <cosponsor id="412319" joined="2013-03-13"/>
+    <cosponsor id="400415" joined="2013-03-13"/>
+    <cosponsor id="412522" joined="2013-03-13"/>
+    <cosponsor id="412579" joined="2013-03-13"/>
+    <cosponsor id="400623" joined="2013-03-13"/>
+    <cosponsor id="400425" joined="2013-03-13"/>
+    <cosponsor id="412574" joined="2013-03-13"/>
+    <cosponsor id="412430" joined="2013-03-13"/>
+    <cosponsor id="400440" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-13">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

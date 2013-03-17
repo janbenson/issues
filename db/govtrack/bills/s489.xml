@@ -1,0 +1,25 @@
+<bill session="113" type="s" number="489" updated="2013-03-08T04:45:47-05:00">
+  <state datetime="2013-03-07">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-07"/>
+  </status>
+  <introduced datetime="2013-03-07"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend the Tariff Act of 1930 to increase and adjust for inflation the maximum value of articles that may be imported duty-free by one person on one day, and for other purposes.</title>
+  </titles>
+  <sponsor id="400546"/>
+  <cosponsors>
+    <cosponsor id="300100" joined="2013-03-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-07">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

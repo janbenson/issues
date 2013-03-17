@@ -2,6 +2,16 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.12'
 gem 'rake', '10.0.3'
 gem 'thin'
+gem "settingslogic"
+gem 'sunspot_solr'
+gem 'ruby-openid'
+gem 'rack-contrib'
+gem 'rack-openid'
+
+# RMagick
+gem 'rmagick', '2.13.1'
+gem "galetahub-simple_captcha", :require => "simple_captcha"
+#gem 'simple_captcha'# , :git => 'git://github.com/galetahub/simple-captcha.git'
 
 # database gems -- need both pg and mysql for app and wiki
 gem 'pg'
@@ -32,7 +42,7 @@ gem 'bluecloth'
 gem 'htmlentities'
 gem "json"
 gem "nokogiri"
-
+gem "acts_as_solr", "~> 1.3.3"
 # spam protection
 gem "defender"
 
@@ -57,15 +67,13 @@ gem 'will_paginate', '~> 3.0.pre2'
 gem "validates_captcha" 
 gem "acts-as-taggable-on"
 
+
 group :test, :development do
-  gem 'autotest'
   gem 'silent-postgres'	# Quieter postgres log messages
 
   gem 'rspec-rails', '~> 2.4'
   gem 'webrat'
   gem 'selenium-client'
   gem 'capybara'
-  gem 'autotest'
-
 end
 

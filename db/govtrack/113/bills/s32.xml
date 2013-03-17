@@ -1,0 +1,44 @@
+<bill session="113" type="s" number="32" updated="2013-03-09T06:15:19-05:00">
+  <state datetime="2013-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-22"/>
+  </status>
+  <introduced datetime="2013-01-22"/>
+  <titles>
+    <title as="introduced" type="short">Child Custody Protection Act of 2013</title>
+    <title as="introduced" type="official">A bill to amend title 18, United States Code, to prohibit taking minors across State lines in circumvention of laws requiring the involvement of parents in abortion decisions.</title>
+  </titles>
+  <sponsor id="400325"/>
+  <cosponsors>
+    <cosponsor id="400054" joined="2013-01-23"/>
+    <cosponsor id="300021" joined="2013-01-23"/>
+    <cosponsor id="300023" joined="2013-01-23"/>
+    <cosponsor id="300072" joined="2013-01-23"/>
+    <cosponsor id="412322" joined="2013-01-24"/>
+    <cosponsor id="400546" joined="2013-01-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-01-22">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S716-717" label="consideration"/>
+      <reference ref="CR S716-717" label="text as passed Senate"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="732"/>
+    <bill relation="unknown" session="113" type="s" number="369"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Abortion"/>
+    <term name="Child health"/>
+    <term name="Civil actions and liability"/>
+    <term name="Family relationships"/>
+    <term name="Separation, divorce, custody, support"/>
+    <term name="Teenage pregnancy"/>
+  </subjects>
+  <amendments/>
+</bill>

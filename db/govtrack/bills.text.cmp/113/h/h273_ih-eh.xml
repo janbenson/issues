@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<body status="eh" difference-size-chars="905" percent-change="52" total-changes="3" previous-status="ih">
+  <p nid="t0:eh:1" tracking-nids="t0:ih:1">HR 273 <changed sequence="1"><changed-from>I</changed-from><changed-to>E</changed-to></changed>H</p>
+  <p/>
+  <center>
+    <p nid="t0:eh:2">113th CONGRESS</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:eh:3" tracking-nids="t0:ih:3">1st Session</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:eh:4" tracking-nids="t0:ih:4">H. R. 273</p>
+  </center>
+  <hr/>
+  <inserted sequence="2">
+    <p/>
+    <center>
+      <p nid="t0:eh:5">AN ACT</p>
+    </center>
+  </inserted>
+  <p nid="t0:eh:6">To eliminate the 2013 statutory pay adjustment for Federal employees.</p>
+  <ul>
+    <p nid="t0:eh:7" tracking-nids="t0:ih:12">
+      <em>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</em>
+    </p>
+  </ul>
+  <p/>
+  <h3 nid="t0:eh:8" tracking-nids="t0:ih:13">SECTION 1. ELIMINATION OF 2013 PAY ADJUSTMENT.</h3>
+  <ul>
+    <p nid="t0:eh:9">(a) In General- Section 147 of the Continuing Appropriations Act, 2011 (<public-law-reference session="111" number="242"><public-law-reference session="111" number="242">Public Law 111-242</public-law-reference></public-law-reference>; <usc-reference title="5" section="5303" paragraph=""><usc-reference title="5" section="5303" paragraph="">5 U.S.C. 5303</usc-reference></usc-reference> note), as amended by section 114(a) of the Continuing Appropriations Resolution, 2013 (<public-law-reference session="112" number="175"><public-law-reference session="112" number="175">Public Law 112-175</public-law-reference></public-law-reference>; 126 Stat. 1316), is amended--</p>
+    <ul>
+      <p nid="t0:eh:10" tracking-nids="t0:ih:15">(1) in subsection (b)(1), by striking the matter after &#x2018;ending on&#x2019; and before &#x2018;shall be made&#x2019; and inserting &#x2018;December 31, 2013,&#x2019;; and</p>
+      <p nid="t0:eh:11" tracking-nids="t0:ih:16">(2) in subsection (c), by striking the matter after &#x2018;ending on&#x2019; and before &#x2018;no senior executive&#x2019; and inserting &#x2018;December 31, 2013,&#x2019;.</p>
+    </ul>
+    <p nid="t0:eh:12" tracking-nids="t0:ih:17">(b) Elimination of Delayed Adjustment- Section 114(b) of the Continuing Appropriations Resolution, 2013 is repealed.</p>
+  </ul>
+  <inserted sequence="3">
+    <p nid="t0:eh:13">Passed the House of Representatives February 15, 2013.</p>
+    <p nid="t0:eh:14">Attest:</p>
+    <p nid="t0:eh:15">Clerk.</p>
+    <p/>
+    <center>
+      <p nid="t0:eh:16">113th CONGRESS</p>
+    </center>
+    <p/>
+    <center>
+      <p nid="t0:eh:17">1st Session</p>
+    </center>
+    <p/>
+    <center>
+      <p nid="t0:eh:18">H. R. 273</p>
+    </center>
+    <p/>
+    <center>
+      <p nid="t0:eh:19">AN ACT</p>
+    </center>
+    <p nid="t0:eh:20">To eliminate the 2013 statutory pay adjustment for Federal employees.</p>
+  </inserted>
+</body>

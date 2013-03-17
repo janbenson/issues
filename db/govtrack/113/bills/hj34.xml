@@ -1,0 +1,58 @@
+<bill session="113" type="hj" number="34" updated="2013-03-14T04:46:35-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="official">Proposing an amendment to the Constitution of the United States to restore the rights of the American people that were taken away by the Supreme Court's decision in the Citizens United case and related decisions, to protect the integrity of our elections, and to limit the corrosive influence of money in our democratic process.</title>
+  </titles>
+  <sponsor id="412385"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2013-03-12"/>
+    <cosponsor id="412571" joined="2013-03-12"/>
+    <cosponsor id="412379" joined="2013-03-12"/>
+    <cosponsor id="412470" joined="2013-03-12"/>
+    <cosponsor id="400080" joined="2013-03-12"/>
+    <cosponsor id="400100" joined="2013-03-12"/>
+    <cosponsor id="400103" joined="2013-03-12"/>
+    <cosponsor id="412215" joined="2013-03-12"/>
+    <cosponsor id="400122" joined="2013-03-12"/>
+    <cosponsor id="412529" joined="2013-03-12"/>
+    <cosponsor id="412276" joined="2013-03-12"/>
+    <cosponsor id="400160" joined="2013-03-13"/>
+    <cosponsor id="400163" joined="2013-03-12"/>
+    <cosponsor id="400170" joined="2013-03-12"/>
+    <cosponsor id="400199" joined="2013-03-12"/>
+    <cosponsor id="412435" joined="2013-03-12"/>
+    <cosponsor id="400233" joined="2013-03-12"/>
+    <cosponsor id="400237" joined="2013-03-13"/>
+    <cosponsor id="400240" joined="2013-03-12"/>
+    <cosponsor id="412521" joined="2013-03-12"/>
+    <cosponsor id="400278" joined="2013-03-12"/>
+    <cosponsor id="400283" joined="2013-03-12"/>
+    <cosponsor id="400295" joined="2013-03-12"/>
+    <cosponsor id="400309" joined="2013-03-12"/>
+    <cosponsor id="412192" joined="2013-03-12"/>
+    <cosponsor id="412307" joined="2013-03-12"/>
+    <cosponsor id="400333" joined="2013-03-12"/>
+    <cosponsor id="400352" joined="2013-03-12"/>
+    <cosponsor id="412212" joined="2013-03-12"/>
+    <cosponsor id="400360" joined="2013-03-12"/>
+    <cosponsor id="412315" joined="2013-03-12"/>
+    <cosponsor id="400378" joined="2013-03-12"/>
+    <cosponsor id="400425" joined="2013-03-12"/>
+    <cosponsor id="412239" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

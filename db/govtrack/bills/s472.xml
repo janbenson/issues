@@ -1,0 +1,23 @@
+<bill session="113" type="s" number="472" updated="2013-03-07T04:45:28-05:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="official">A bill to prohibit the further extension or establishment of national monuments in the State of Nevada except by express authorization of Congress, and for other purposes.</title>
+  </titles>
+  <sponsor id="412218"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,26 @@
+<bill session="113" type="sr" number="68" updated="2013-03-09T06:22:41-05:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="official">A resolution congratulating the Penn State IFC/Panhellenic Dance Marathon on its continued success in support of the Four Diamonds Fund at Penn State Hershey Children's Hospital.</title>
+  </titles>
+  <sponsor id="412246"/>
+  <cosponsors>
+    <cosponsor id="400408" joined="2013-03-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S1237" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,27 @@
+<bill session="113" type="s" number="564" updated="2013-03-15T15:46:06-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend the Federal Power Act to remove the authority of the Federal Energy Commission to collect land use fees for land that has been sold, exchanged, or otherwise transferred from Federal ownership but that is subject to a power site reservation.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-03-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1856"/>
+    </action>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

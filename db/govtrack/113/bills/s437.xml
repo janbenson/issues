@@ -1,0 +1,23 @@
+<bill session="113" type="s" number="437" updated="2013-03-05T04:45:44-05:00">
+  <state datetime="2013-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-04"/>
+  </status>
+  <introduced datetime="2013-03-04"/>
+  <titles>
+    <title as="introduced" type="official">A bill to authorize the Department of Housing and Urban Development to transform neighborhoods of extreme poverty into sustainable, mixed-income neighborhoods with access to economic opportunities, by revitalizing severely distressed housing, and investing and leveraging investments in well-functioning services, education opportunities, public assets, public transportation, and improved access to jobs.</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-04">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

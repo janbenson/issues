@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="968" updated="2013-03-07T12:45:36-05:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title as="introduced" type="short">Fire-Damaged Home Rebuilding Act of 2013</title>
+    <title as="introduced" type="official">To amend the National Flood Insurance Act of 1968 to allow the rebuilding, without elevation, of certain structures located in special flood hazard zones that are damaged by fire, and for other purposes.</title>
+  </titles>
+  <sponsor id="400663"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-05">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

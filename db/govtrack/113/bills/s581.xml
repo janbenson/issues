@@ -1,0 +1,25 @@
+<bill session="113" type="s" number="581" updated="2013-03-15T15:46:15-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend section 1105(a) of title 31, United States Code, to require that annual budget submissions of the President to Congress provide an estimate of the cost per taxpayer of the deficit, and for other purposes.</title>
+  </titles>
+  <sponsor id="402675"/>
+  <cosponsors>
+    <cosponsor id="412205" joined="2013-03-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Read twice and referred to the Committee on the Budget.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBU" name="Senate Budget" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

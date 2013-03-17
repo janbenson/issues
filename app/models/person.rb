@@ -7,7 +7,7 @@ class Person < ActiveRecord::Base
   require 'yahoo_geocoder'
   
   has_many :committees, :through => :committee_people
-  has_many :committee_people, :conditions => proc { [ "committees_people.session = ?", Settings.default_congress ] }
+ # has_many :committee_people, :conditions => proc { [ "committees_people.session = ?", Settings.default_congress ] }
   has_many :bills, :foreign_key => :sponsor_id, :conditions => proc { [ "bills.session = ?", Settings.default_congress ] }, :include => [ :bill_titles, :actions ], :order => 'bills.introduced DESC'
   has_many :bill_cosponsors
   has_many :bills_cosponsored, :class_name => 'Bill', :through => :bill_cosponsors, :source => :bill, :conditions => proc { [ "bills.session = ?", Settings.default_congress ] }, :order => 'bills.introduced DESC'
@@ -55,7 +55,7 @@ class Person < ActiveRecord::Base
   
 #  acts_as_bookmarkable
 
-  acts_as_formageddon_recipient
+#  acts_as_formageddon_recipient
   
   has_one :person_stats, :dependent => :destroy
   
@@ -65,8 +65,7 @@ class Person < ActiveRecord::Base
   
   before_update :set_party
   
-  set_primary_key :id #From Benjamin: Why would we need this?
-
+  
   alias :blog :blogs
   
   @@DISPLAY_OBJECT_NAME = 'Person'
@@ -185,8 +184,8 @@ class Person < ActiveRecord::Base
     end       
   end
 
-  def self.list_chamber(chamber, congress, order, limit = nil)
-    def_count_days = Settings.default_count_time.to_i / 24 / 60 / 60
+  def Person.list_chamber(chamber, congress, order, limit = nil)
+    def_count_days = 1
     lim = limit.nil? ? "" : "LIMIT #{limit}"
 
     Person.find_by_sql(["SELECT people.*, 
@@ -224,9 +223,8 @@ class Person < ActiveRecord::Base
                              GROUP BY object_aggregates.aggregatable_id
                              ORDER BY view_count DESC) aggregates
                             ON people.id=aggregates.aggregatable_id                                                               			       
-    WHERE roles.role_type = ? AND ((roles.startdate <= ? AND roles.enddate >= ?) OR roles.startdate = ?) ORDER BY #{order} #{lim};", chamber, Date.today, Date.today, OpenCongress::Application::CONGRESS_START_DATES[Settings.default_congress]])
-    #WHERE roles.role_type = ? AND roles.startdate <= ? AND roles.enddate >= ? ORDER BY #{order} #{lim};", chamber, Date.today, Date.today])
-  end
+                            WHERE roles.role_type = ? AND ((roles.startdate <= ? AND roles.enddate >= ?) OR roles.startdate = ?) ORDER BY #{order} LIMIT 5;", chamber, Date.today, Date.today, Issues::Application::CONGRESS_START_DATES[113]])
+   end
 
   def Person.rep_random_news(limit = 1, since = Settings.default_count_time)
     random_item = nil
@@ -651,7 +649,7 @@ class Person < ActiveRecord::Base
       AND bills.session = ?
       GROUP BY roll_call_votes.person_id) rep_position ON rep_position.p_id=people.id
     WHERE roles.startdate <= ? AND roles.enddate >= ?) votes_agg
-    WHERE people.id=votes_agg.person_id", Settings.default_congress, Settings.default_congress, Settings.default_congress, Date.today, Date.today]
+    WHERE people.id=votes_agg.person_id", 113, 113, 113, Date.today, Date.today]
     
   
     ActiveRecord::Base.connection.execute(sanitize_sql_array(update_query))
@@ -1137,7 +1135,7 @@ class Person < ActiveRecord::Base
                 :order => 'people.lastname')
   end
 
-  def Person.senators(congress = Settings.default_congress, order_by = 'name')
+  def Person.senators(congress = 113, order_by = 'name')
     Person.find_by_role_type('sen', congress, order_by)
   end
 
@@ -1310,14 +1308,14 @@ class Person < ActiveRecord::Base
     Person.find_by_sql(["SELECT * FROM oc_votes_together(?, ?) 
                          AS (v_id integer, v_count bigint) 
                          LEFT OUTER JOIN people ON v_id=people.id 
-                         ORDER BY v_count DESC", self.id, OpenCongress::Application::CONGRESS_START_DATES[Settings.default_congress]])
+'                         ORDER BY v_count DESC", self.id, Issues::Application::CONGRESS_START_DATES[113]])
   end
   
   def votes_apart_list
     Person.find_by_sql(["SELECT * FROM oc_votes_apart(?, ?) 
                          AS (v_id integer, v_count bigint) 
                          LEFT OUTER JOIN people ON v_id=people.id 
-                         ORDER BY v_count DESC", self.id, OpenCongress::Application::CONGRESS_START_DATES[Settings.default_congress]])
+                         ORDER BY v_count DESC", self.id, Issues::Application::CONGRESS_START_DATES[113]])
   end
   
   def is_sitting?

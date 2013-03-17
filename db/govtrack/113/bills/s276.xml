@@ -1,0 +1,36 @@
+<bill session="113" type="s" number="276" updated="2013-03-15T15:45:49-04:00">
+  <state datetime="2013-03-14">REPORTED</state>
+  <status>
+    <unknown datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-02-11"/>
+  <titles>
+    <title as="introduced" type="official">A bill to reinstate and extend the deadline for commencement of construction of a hydroelectric project involving the American Falls Reservoir.</title>
+  </titles>
+  <sponsor id="412322"/>
+  <cosponsors>
+    <cosponsor id="300030" joined="2013-02-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-11">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2013-03-14">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Idaho"/>
+    <term name="Licensing and registrations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2013--Introduced.
+Directs the Federal Energy Regulatory Commission (FERC), upon the request of the licensee for the project numbered 12423 (American Falls Reservoir, Idaho), to reinstate the license and extend for three years after enactment of this Act the time period during which the licensee is required to commence the construction of project works.</summary>
+</bill>

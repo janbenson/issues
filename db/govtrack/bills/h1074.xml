@@ -1,0 +1,29 @@
+<bill session="113" type="h" number="1074" updated="2013-03-13T04:46:37-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Public Health Service Act to foster more effective implementation and coordination of clinical care for people with pre-diabetes and diabetes.</title>
+  </titles>
+  <sponsor id="412302"/>
+  <cosponsors>
+    <cosponsor id="412297" joined="2013-03-12"/>
+    <cosponsor id="400283" joined="2013-03-12"/>
+    <cosponsor id="412310" joined="2013-03-12"/>
+    <cosponsor id="400367" joined="2013-03-12"/>
+    <cosponsor id="412254" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

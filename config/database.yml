@@ -2,9 +2,9 @@
 # Issues development database configuration
 #
 # You can override  this file. To do so, create
-# a .issues directory in your homedir:
+# a .issues directory in your homedir:#
 #
-#   $ mkdir -p ~/.opencongress
+#   $ mkdir -p ~/.issues
 #
 # Then, to override a given section, copy it in its entirety to
 # ~/.opencongress/dbconfig.yml and make any changes you want.
@@ -12,7 +12,6 @@
 
 common: &common
   adapter: postgresql
-  database: issues
   username: postgres
   password: postgres
   host: localhost

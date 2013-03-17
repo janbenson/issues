@@ -1,0 +1,29 @@
+<bill session="113" type="s" number="429" updated="2013-03-07T12:45:28-05:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">Concrete Masonry Products Research, Education, and Promotion Act of 2013</title>
+    <title as="introduced" type="official">A bill to enable concrete masonry products manufacturers to establish, finance, and carry out a coordinated program of research, education, and promotion to improve, maintain, and develop markets for concrete masonry products.</title>
+  </titles>
+  <sponsor id="300078"/>
+  <cosponsors>
+    <cosponsor id="400034" joined="2013-02-28"/>
+    <cosponsor id="412390" joined="2013-03-04"/>
+    <cosponsor id="412391" joined="2013-02-28"/>
+    <cosponsor id="412243" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

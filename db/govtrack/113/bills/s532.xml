@@ -1,0 +1,26 @@
+<bill session="113" type="s" number="532" updated="2013-03-15T12:45:39-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="short">Same Day Registration Act</title>
+    <title as="introduced" type="official">A bill to amend the Help America Vote Act of 2002 to require States to provide for same day registration.</title>
+  </titles>
+  <sponsor id="412242"/>
+  <cosponsors>
+    <cosponsor id="412244" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

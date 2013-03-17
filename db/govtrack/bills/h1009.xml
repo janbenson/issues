@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="1009" updated="2013-03-11T12:45:27-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="short">Volunteer Emergency Services Recruitment and Retention Act of 2013</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to provide recruitment and retention incentives for volunteer emergency service workers.</title>
+  </titles>
+  <sponsor id="400219"/>
+  <cosponsors>
+    <cosponsor id="400008" joined="2013-03-06"/>
+    <cosponsor id="400031" joined="2013-03-06"/>
+    <cosponsor id="400047" joined="2013-03-06"/>
+    <cosponsor id="412193" joined="2013-03-06"/>
+    <cosponsor id="400646" joined="2013-03-06"/>
+    <cosponsor id="412451" joined="2013-03-06"/>
+    <cosponsor id="412454" joined="2013-03-06"/>
+    <cosponsor id="400195" joined="2013-03-06"/>
+    <cosponsor id="400274" joined="2013-03-06"/>
+    <cosponsor id="412383" joined="2013-03-06"/>
+    <cosponsor id="400309" joined="2013-03-06"/>
+    <cosponsor id="412307" joined="2013-03-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

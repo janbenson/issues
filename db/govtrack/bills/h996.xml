@@ -1,0 +1,70 @@
+<bill session="113" type="h" number="996" updated="2013-03-14T04:46:16-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="short">Invasive Fish and Wildlife Prevention Act</title>
+    <title as="introduced" type="official">To establish an improved regulatory process for injurious wildlife to prevent the introduction and establishment in the United States of nonnative wildlife and wild animal pathogens and parasites that are likely to cause harm.</title>
+  </titles>
+  <sponsor id="400378"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2013-03-06"/>
+    <cosponsor id="400041" joined="2013-03-06"/>
+    <cosponsor id="400062" joined="2013-03-06"/>
+    <cosponsor id="400080" joined="2013-03-06"/>
+    <cosponsor id="400110" joined="2013-03-06"/>
+    <cosponsor id="412215" joined="2013-03-06"/>
+    <cosponsor id="400129" joined="2013-03-06"/>
+    <cosponsor id="400162" joined="2013-03-06"/>
+    <cosponsor id="400170" joined="2013-03-06"/>
+    <cosponsor id="400641" joined="2013-03-06"/>
+    <cosponsor id="400211" joined="2013-03-06"/>
+    <cosponsor id="400237" joined="2013-03-06"/>
+    <cosponsor id="400238" joined="2013-03-06"/>
+    <cosponsor id="412297" joined="2013-03-06"/>
+    <cosponsor id="400251" joined="2013-03-06"/>
+    <cosponsor id="400283" joined="2013-03-06"/>
+    <cosponsor id="412527" joined="2013-03-06"/>
+    <cosponsor id="408211" joined="2013-03-13"/>
+    <cosponsor id="412383" joined="2013-03-13"/>
+    <cosponsor id="412305" joined="2013-03-06"/>
+    <cosponsor id="412307" joined="2013-03-06"/>
+    <cosponsor id="412585" joined="2013-03-13"/>
+    <cosponsor id="400333" joined="2013-03-06"/>
+    <cosponsor id="400352" joined="2013-03-06"/>
+    <cosponsor id="412312" joined="2013-03-06"/>
+    <cosponsor id="412214" joined="2013-03-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E248"/>
+    </action>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committees on the Judiciary, Ways and Means, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Budget</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee code="HSBU" name="House Budget" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

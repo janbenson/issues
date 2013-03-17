@@ -1,0 +1,33 @@
+<bill session="113" type="s" number="482" updated="2013-03-11T09:45:44-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="short">Health Insurance Rate Review Act</title>
+    <title as="introduced" type="official">A bill to amend the Public Health Service Act to provide protections for consumers against excessive, unjustified, or unfairly discriminatory increases in premium rates.</title>
+  </titles>
+  <sponsor id="300043"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2013-03-06"/>
+    <cosponsor id="300064" joined="2013-03-06"/>
+    <cosponsor id="400357" joined="2013-03-06"/>
+    <cosponsor id="412244" joined="2013-03-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1234-1235"/>
+    </action>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

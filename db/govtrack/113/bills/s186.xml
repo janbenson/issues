@@ -1,0 +1,39 @@
+<bill session="113" type="s" number="186" updated="2013-02-28T04:46:12-05:00">
+  <state datetime="2013-01-30">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-30"/>
+  </status>
+  <introduced datetime="2013-01-30"/>
+  <titles>
+    <title as="introduced" type="official">A bill to award posthumously a Congressional Gold Medal to Addie Mae Collins, Denise McNair, Carole Robertson, and Cynthia Wesley, in recognition of the 50th anniversary of the bombing of the Sixteenth Street Baptist Church, where the 4 little Black girls lost their lives, which served as a catalyst for the Civil Rights Movement.</title>
+  </titles>
+  <sponsor id="300089"/>
+  <cosponsors>
+    <cosponsor id="300073" joined="2013-02-27"/>
+    <cosponsor id="300088" joined="2013-01-30"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-01-30">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="360"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Alabama"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Crime victims"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="U.S. history"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>1/30/2013--Introduced.
+Directs the Speaker of the House of Representatives and the President pro tempore of the Senate to arrange for the presentation of a congressional gold medal to commemorate the lives of Addie Mae Collins, Denise McNair, Carole Robertson, and Cynthia Wesley (children who lost their lives in the September 1963 bombing of the Sixteenth Street Baptist Church in Birmingham, Alabama, an incident recognized as a catalyst for the civil rights movement). Authorizes the Secretary of the Treasury to strike and sell bronze duplicates of such medals, with amounts received from the sale to be deposited in the U.S. Mint Public Enterprise Fund.</summary>
+</bill>

@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="1033" updated="2013-03-12T12:45:30-04:00">
+  <state datetime="2013-03-07">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-07"/>
+  </status>
+  <introduced datetime="2013-03-07"/>
+  <titles>
+    <title as="introduced" type="short">American Battlefield Protection Program Amendments Act of 2013</title>
+    <title as="introduced" type="official">To authorize the acquisition and protection of nationally significant battlefields and associated sites of the Revolutionary War and the War of 1812 under the American Battlefield Protection Program.</title>
+  </titles>
+  <sponsor id="400184"/>
+  <cosponsors>
+    <cosponsor id="412255" joined="2013-03-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-07">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

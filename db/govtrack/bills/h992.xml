@@ -1,0 +1,35 @@
+<bill session="113" type="h" number="992" updated="2013-03-11T12:45:26-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="short">Swaps Regulatory Improvement Act</title>
+    <title as="introduced" type="official">To amend provisions in section 716 of the Dodd-Frank Wall Street Reform and Consumer Protection Act relating to Federal assistance for swaps entities.</title>
+  </titles>
+  <sponsor id="412422"/>
+  <cosponsors>
+    <cosponsor id="412282" joined="2013-03-06"/>
+    <cosponsor id="412550" joined="2013-03-06"/>
+    <cosponsor id="412562" joined="2013-03-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Agriculture</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

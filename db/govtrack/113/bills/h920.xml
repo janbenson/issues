@@ -1,0 +1,34 @@
+<bill session="113" type="h" number="920" updated="2013-03-13T04:46:24-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">National Health Service Corps Improvement Act of 2013</title>
+    <title as="introduced" type="official">To amend the Public Health Service Act to provide for the participation of optometrists in the National Health Service Corps scholarship and loan repayment programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400659"/>
+  <cosponsors>
+    <cosponsor id="412208" joined="2013-02-28"/>
+    <cosponsor id="412269" joined="2013-02-28"/>
+    <cosponsor id="412195" joined="2013-02-28"/>
+    <cosponsor id="412470" joined="2013-03-12"/>
+    <cosponsor id="400111" joined="2013-03-12"/>
+    <cosponsor id="400162" joined="2013-03-06"/>
+    <cosponsor id="412278" joined="2013-02-28"/>
+    <cosponsor id="412189" joined="2013-03-04"/>
+    <cosponsor id="412239" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

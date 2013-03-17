@@ -1,0 +1,29 @@
+<bill session="113" type="s" number="496" updated="2013-03-08T04:45:49-05:00">
+  <state datetime="2013-03-07">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-07"/>
+  </status>
+  <introduced datetime="2013-03-07"/>
+  <titles>
+    <title as="introduced" type="official">A bill to direct the Administrator of the Environmental Protection Agency to change the Spill Prevention, Control, and Countermeasure rule with respect to certain farms.</title>
+  </titles>
+  <sponsor id="300080"/>
+  <cosponsors>
+    <cosponsor id="400040" joined="2013-03-07"/>
+    <cosponsor id="300023" joined="2013-03-07"/>
+    <cosponsor id="412556" joined="2013-03-07"/>
+    <cosponsor id="300055" joined="2013-03-07"/>
+    <cosponsor id="412320" joined="2013-03-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-07">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,33 @@
+<bill session="113" type="s" number="468" updated="2013-03-12T09:46:26-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="short">CARE Act</title>
+    <title as="introduced" type="short">Coal Accountability and Retired Employee Act</title>
+    <title as="introduced" type="official">A bill to protect the health care and pension benefits of our nation's miners.</title>
+  </titles>
+  <sponsor id="300084"/>
+  <cosponsors>
+    <cosponsor id="400050" joined="2013-03-06"/>
+    <cosponsor id="412391" joined="2013-03-06"/>
+    <cosponsor id="412542" joined="2013-03-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1230"/>
+    </action>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

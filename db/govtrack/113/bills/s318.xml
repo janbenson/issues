@@ -1,0 +1,39 @@
+<bill session="113" type="s" number="318" updated="2013-03-02T06:16:31-05:00">
+  <state datetime="2013-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-13"/>
+  </status>
+  <introduced datetime="2013-02-13"/>
+  <titles>
+    <title as="introduced" type="short">Environmental Protection Agency Accountability Act of 2013</title>
+    <title as="introduced" type="official">A bill to rescind funds made available to the Administrator of the Environmental Protection Agency if the Administrator fails to meet certain deadlines.</title>
+  </titles>
+  <sponsor id="412320"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-02-13">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S713-714"/>
+    </action>
+    <action state="REFERRED" datetime="2013-02-13">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Appropriations"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Intergovernmental relations"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+</bill>

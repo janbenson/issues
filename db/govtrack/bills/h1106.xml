@@ -1,0 +1,28 @@
+<bill session="113" type="h" number="1106" updated="2013-03-14T04:46:20-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Small Business Investment Act of 1958 to provide for increased limitations on leverage for multiple licenses under common control, and for other purposes.</title>
+  </titles>
+  <sponsor id="400071"/>
+  <cosponsors>
+    <cosponsor id="412379" joined="2013-03-13"/>
+    <cosponsor id="412470" joined="2013-03-13"/>
+    <cosponsor id="412457" joined="2013-03-13"/>
+    <cosponsor id="412557" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-13">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

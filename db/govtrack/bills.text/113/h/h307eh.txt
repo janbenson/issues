@@ -1,0 +1,2751 @@
+113TH CONGRESS
+   1ST SESSION       H. R. 307
+                     AN ACT
+To reauthorize certain programs under the Public Health
+   Service Act and the Federal Food, Drug, and Cosmetic
+   Act with respect to public health security and all-hazards
+   preparedness and response, and for other purposes.
+ 1      Be it enacted by the Senate and House of Representa-
+ 2 tives of the United States of America in Congress assembled,
+                                           2
+1   SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+2           (a) SHORT TITLE.—This Act may be cited as the
+3 ‘‘Pandemic and All-Hazards Preparedness Reauthoriza-
+4 tion Act of 2013’’.
+5           (b) TABLE        OF   CONTENTS.—The table of contents of
+6 this Act is as follows:
+    Sec. 1. Short title; table of contents.
+
+       TITLE I—STRENGTHENING NATIONAL PREPAREDNESS AND
+            RESPONSE FOR PUBLIC HEALTH EMERGENCIES
+
+    Sec.   101.   National Health Security Strategy.
+    Sec.   102.   Assistant Secretary for Preparedness and Response.
+    Sec.   103.   National Advisory Committee on Children and Disasters.
+    Sec.   104.   Modernization of the National Disaster Medical System.
+    Sec.   105.   Continuing the role of the Department of Veterans Affairs.
+
+           TITLE II—OPTIMIZING STATE AND LOCAL ALL-HAZARDS
+                     PREPAREDNESS AND RESPONSE
+
+    Sec. 201. Temporary redeployment of federally funded personnel during a pub-
+                    lic health emergency.
+    Sec. 202. Improving State and local public health security.
+    Sec. 203. Hospital preparedness and medical surge capacity.
+    Sec. 204. Enhancing situational awareness and biosurveillance.
+    Sec. 205. Eliminating duplicative Project Bioshield reports.
+
+      TITLE III—ENHANCING MEDICAL COUNTERMEASURE REVIEW
+
+    Sec.   301.   Special protocol assessment.
+    Sec.   302.   Authorization for medical products for use in emergencies.
+    Sec.   303.   Definitions.
+    Sec.   304.   Enhancing medical countermeasure activities.
+    Sec.   305.   Regulatory management plans.
+    Sec.   306.   Report.
+    Sec.   307.   Pediatric medical countermeasures.
+
+           TITLE IV—ACCELERATING MEDICAL COUNTERMEASURE
+                ADVANCED RESEARCH AND DEVELOPMENT
+
+    Sec.   401.   BioShield.
+    Sec.   402.   Biomedical Advanced Research and Development Authority.
+    Sec.   403.   Strategic National Stockpile.
+    Sec.   404.   National Biodefense Science Board.
+
+
+
+
+       •HR 307 EH                3
+ 1   TITLE I—STRENGTHENING NA-
+ 2      TIONAL PREPAREDNESS AND
+ 3      RESPONSE   FOR   PUBLIC
+ 4      HEALTH EMERGENCIES
+ 5   SEC. 101. NATIONAL HEALTH SECURITY STRATEGY.
+
+ 6       (a) IN GENERAL.—Section 2802 of the Public Health
+ 7 Service Act (42 U.S.C. 300hh–1) is amended—
+ 8            (1) in subsection (a)(1), by striking ‘‘2009’’ and
+ 9       inserting ‘‘2014’’; and
+10            (2) in subsection (b)—
+11                 (A) in paragraph (1)(A), by inserting ‘‘,
+12            including drills and exercises to ensure medical
+13            surge capacity for events without notice’’ after
+14            ‘‘exercises’’; and
+15                 (B) in paragraph (3)—
+16                      (i) in the matter preceding subpara-
+17                 graph (A)—
+18                            (I) by striking ‘‘facilities), and
+19                      trauma care’’ and inserting ‘‘and am-
+20                      bulatory care facilities and which may
+21                      include dental health facilities), and
+22                      trauma care, critical care,’’; and
+23                            (II) by inserting ‘‘(including re-
+24                      lated availability, accessibility, and co-
+
+
+
+      •HR 307 EH            4
+ 1                     ordination)’’    after     ‘‘public   health
+ 2                     emergencies’’;
+ 3                     (ii) in subparagraph (A), by inserting
+ 4                ‘‘and trauma’’ after ‘‘medical’’;
+ 5                     (iii) in subparagraph (B), by striking
+ 6                ‘‘Medical evacuation and fatality manage-
+ 7                ment’’ and inserting ‘‘Fatality manage-
+ 8                ment’’;
+ 9                     (iv) by redesignating subparagraphs
+10                (C), (D), and (E) as subparagraphs (D),
+11                (E), and (F), respectively;
+12                     (v) by inserting after subparagraph
+13                (B), the following the new subparagraph:
+14                ‘‘(C) Coordinated medical triage and evac-
+15           uation to appropriate medical institutions based
+16           on patient medical need, taking into account re-
+17           gionalized systems of care.’’;
+18                     (vi) in subparagraph (E), as redesig-
+19                nated by clause (iv), by inserting ‘‘(which
+20                may include such dental health assets)’’
+21                after ‘‘medical assets’’; and
+22                     (vii) by adding at the end the fol-
+23                lowing:
+24                ‘‘(G) Optimizing a coordinated and flexible
+25           approach to the medical surge capacity of hos-
+
+
+     •HR 307 EH               5
+1            pitals, other health care facilities, critical care,
+2            and trauma care (which may include trauma
+3            centers) and emergency medical systems.’’;
+4                 (C) in paragraph (4)—
+5                      (i) in subparagraph (A), by inserting
+6                 ‘‘, including the unique needs and consider-
+7                 ations of individuals with disabilities,’’
+8                 after ‘‘medical needs of at-risk individ-
+9                 uals’’; and
+10                     (ii) in subparagraph (B), by inserting
+11                ‘‘the’’ before ‘‘purpose of this section’’; and
+12                (D) by adding at the end the following:
+13           ‘‘(7) COUNTERMEASURES.—
+14                ‘‘(A) Promoting strategic initiatives to ad-
+15           vance countermeasures to diagnose, mitigate,
+16           prevent, or treat harm from any biological
+17           agent or toxin, chemical, radiological, or nuclear
+18           agent or agents, whether naturally occurring,
+19           unintentional, or deliberate.
+20                ‘‘(B) For purposes of this paragraph, the
+21           term ‘countermeasures’ has the same meaning
+22           as the terms ‘qualified countermeasures’ under
+23           section 319F–1, ‘qualified pandemic and epi-
+24           demic products’ under section 319F–3, and ‘se-
+25           curity countermeasures’ under section 319F–2.
+
+
+     •HR 307 EH               6
+ 1             ‘‘(8) MEDICAL    AND PUBLIC HEALTH COMMU-
+ 2      NITY      RESILIENCY.—Strengthening         the ability of
+ 3      States, local communities, and tribal communities to
+ 4      prepare for, respond to, and be resilient in the event
+ 5      of public health emergencies, whether naturally oc-
+ 6      curring, unintentional, or deliberate by—
+ 7                   ‘‘(A) optimizing alignment and integration
+ 8             of medical and public health preparedness and
+ 9             response planning and capabilities with and into
+10             routine daily activities; and
+11                   ‘‘(B) promoting familiarity with local med-
+12             ical and public health systems.’’.
+13      (b) AT-RISK INDIVIDUALS.—Section 2814 of the
+14 Public Health Service Act (42 U.S.C. 300hh–16) is
+15 amended—
+16             (1) by striking paragraphs (5), (7), and (8);
+17             (2)     in   paragraph      (4),      by   striking
+18      ‘‘2811(b)(3)(B)’’ and inserting ‘‘2802(b)(4)(B)’’;
+19             (3) by redesignating paragraphs (1) through
+20      (4) as paragraphs (2) through (5), respectively;
+21             (4) by inserting before paragraph (2) (as so re-
+22      designated), the following:
+23             ‘‘(1) monitor emerging issues and concerns as
+24      they relate to medical and public health prepared-
+25      ness and response for at-risk individuals in the event
+
+
+     •HR 307 EH             7
+ 1      of a public health emergency declared by the Sec-
+ 2      retary under section 319;’’;
+ 3           (5) by amending paragraph (2) (as so redesig-
+ 4      nated) to read as follows:
+ 5           ‘‘(2) oversee the implementation of the pre-
+ 6      paredness goals described in section 2802(b) with re-
+ 7      spect to the public health and medical needs of at-
+ 8      risk individuals in the event of a public health emer-
+ 9      gency, as described in section 2802(b)(4);’’; and
+10           (6) by inserting after paragraph (6), the fol-
+11      lowing:
+12           ‘‘(7) disseminate and, as appropriate, update
+13      novel and best practices of outreach to and care of
+14      at-risk individuals before, during, and following pub-
+15      lic health emergencies in as timely a manner as is
+16      practicable, including from the time a public health
+17      threat is identified; and
+18           ‘‘(8) ensure that public health and medical in-
+19      formation distributed by the Department of Health
+20      and Human Services during a public health emer-
+21      gency is delivered in a manner that takes into ac-
+22      count the range of communication needs of the in-
+23      tended recipients, including at-risk individuals.’’.
+
+
+
+
+     •HR 307 EH              8
+ 1   SEC. 102. ASSISTANT SECRETARY FOR PREPAREDNESS AND
+ 2                 RESPONSE.
+ 3       (a) IN GENERAL.—Section 2811 of the Public Health
+ 4 Service Act (42 U.S.C. 300hh–10) is amended—
+ 5            (1) in subsection (b)—
+ 6                  (A) in paragraph (3), by inserting ‘‘, secu-
+ 7            rity countermeasures (as defined in section
+ 8            319F–2),’’ after ‘‘qualified countermeasures (as
+ 9            defined in section 319F–1)’’;
+10                  (B) in paragraph (4), by adding at the end
+11            the following:
+12                  ‘‘(D) POLICY   COORDINATION AND STRA-
+13            TEGIC DIRECTION.—Provide        integrated policy
+14            coordination and strategic direction with re-
+15            spect to all matters related to Federal public
+16            health and medical preparedness and execution
+17            and deployment of the Federal response for
+18            public health emergencies and incidents covered
+19            by the National Response Plan developed pur-
+20            suant to section 504(6) of the Homeland Secu-
+21            rity Act of 2002, or any successor plan, before,
+22            during, and following public health emergencies.
+23                  ‘‘(E) IDENTIFICATION      OF   INEFFICIEN-
+24            CIES.—Identify   and minimize gaps, duplication,
+25            and other inefficiencies in medical and public
+26            health preparedness and response activities and
+      •HR 307 EH              9
+ 1           the actions necessary to overcome these obsta-
+ 2           cles.
+ 3                   ‘‘(F) COORDINATION      OF   GRANTS      AND
+ 4           AGREEMENTS.—Align          and coordinate medical
+ 5           and public health grants and cooperative agree-
+ 6           ments as applicable to preparedness and re-
+ 7           sponse activities authorized under this Act, to
+ 8           the extent possible, including program require-
+ 9           ments, timelines, and measurable goals, and in
+10           consultation with the Secretary of Homeland
+11           Security, to—
+12                       ‘‘(i) optimize and streamline medical
+13                   and public health preparedness and re-
+14                   sponse capabilities and the ability of local
+15                   communities to respond to public health
+16                   emergencies; and
+17                       ‘‘(ii) gather and disseminate best
+18                   practices among grant and cooperative
+19                   agreement recipients, as appropriate.
+20                   ‘‘(G) DRILL    AND   OPERATIONAL        EXER-
+21           CISES.—Carry      out drills and operational exer-
+22           cises, in consultation with the Department of
+23           Homeland Security, the Department of De-
+24           fense, the Department of Veterans Affairs, and
+25           other applicable Federal departments and agen-
+
+
+     •HR 307 EH            10
+ 1           cies, as necessary and appropriate, to identify,
+ 2           inform, and address gaps in and policies related
+ 3           to all-hazards medical and public health pre-
+ 4           paredness and response, including exercises
+ 5           based on—
+ 6                    ‘‘(i) identified threats for which coun-
+ 7                termeasures are available and for which no
+ 8                countermeasures are available; and
+ 9                    ‘‘(ii) unknown threats for which no
+10                countermeasures are available.
+11                ‘‘(H) NATIONAL   SECURITY PRIORITY.—On
+12           a periodic basis consult with, as applicable and
+13           appropriate, the Assistant to the President for
+14           National Security Affairs, to provide an update
+15           on, and discuss, medical and public health pre-
+16           paredness and response activities pursuant to
+17           this Act and the Federal Food, Drug, and Cos-
+18           metic Act, including progress on the develop-
+19           ment, approval, clearance, and licensure of
+20           medical countermeasures.’’; and
+21                (C) by adding at the end the following:
+22           ‘‘(7) COUNTERMEASURES      BUDGET PLAN.—De-
+23      velop, and update on an annual basis, a coordinated
+24      5-year budget plan based on the medical counter-
+
+
+
+
+     •HR 307 EH               11
+1       measure priorities described in subsection (d). Each
+2       such plan shall—
+3                    ‘‘(A) include consideration of the entire
+4            medical countermeasures enterprise, includ-
+5            ing—
+6                        ‘‘(i) basic research and advanced re-
+7                    search and development;
+8                        ‘‘(ii) approval, clearance, licensure,
+9                    and authorized uses of products; and
+10                       ‘‘(iii) procurement, stockpiling, main-
+11                   tenance, and replenishment of all products
+12                   in the Strategic National Stockpile;
+13                   ‘‘(B) inform prioritization of resources and
+14           include measurable outputs and outcomes to
+15           allow for the tracking of the progress made to-
+16           ward identified priorities;
+17                   ‘‘(C) identify medical countermeasure life-
+18           cycle costs to inform planning, budgeting, and
+19           anticipated needs within the continuum of the
+20           medical countermeasure enterprise consistent
+21           with section 319F–2; and
+22                   ‘‘(D) be made available to the appropriate
+23           committees of Congress upon request.’’;
+24           (2) by striking subsection (c) and inserting the
+25      following:
+
+
+     •HR 307 EH               12
+ 1      ‘‘(c) FUNCTIONS.—The Assistant Secretary for Pre-
+ 2 paredness and Response shall—
+ 3           ‘‘(1) have lead responsibility within the Depart-
+ 4      ment of Health and Human Services for emergency
+ 5      preparedness and response policy coordination and
+ 6      strategic direction;
+ 7           ‘‘(2) have authority over and responsibility
+ 8      for—
+ 9                ‘‘(A) the National Disaster Medical System
+10           pursuant to section 2812;
+11                ‘‘(B) the Hospital Preparedness Coopera-
+12           tive Agreement Program pursuant to section
+13           319C–2;
+14                ‘‘(C) the Biomedical Advanced Research
+15           and Development Authority pursuant to section
+16           319L;
+17                ‘‘(D) the Medical Reserve Corps pursuant
+18           to section 2813;
+19                ‘‘(E) the Emergency System for Advance
+20           Registration of Volunteer Health Professionals
+21           pursuant to section 319I; and
+22                ‘‘(F) administering grants and related au-
+23           thorities related to trauma care under parts A
+24           through C of title XII, such authority to be
+25           transferred by the Secretary from the Adminis-
+
+
+     •HR 307 EH              13
+ 1             trator of the Health Resources and Services Ad-
+ 2             ministration to such Assistant Secretary;
+ 3             ‘‘(3) exercise the responsibilities and authorities
+ 4       of the Secretary with respect to the coordination
+ 5       of—
+ 6                  ‘‘(A) the Public Health Emergency Pre-
+ 7             paredness Cooperative Agreement Program pur-
+ 8             suant to section 319C–1;
+ 9                  ‘‘(B) the Strategic National Stockpile pur-
+10             suant to section 319F–2; and
+11                  ‘‘(C) the Cities Readiness Initiative; and
+12             ‘‘(4) assume other duties as determined appro-
+13       priate by the Secretary.’’; and
+14             (3) by adding at the end the following:
+15       ‘‘(d) PUBLIC HEALTH EMERGENCY MEDICAL COUN-
+16   TERMEASURES     ENTERPRISE STRATEGY        AND   IMPLEMEN-
+17   TATION   PLAN.—
+18             ‘‘(1) IN   GENERAL.—Not     later than 180 days
+19       after the date of enactment of this subsection, and
+20       every year thereafter, the Assistant Secretary for
+21       Preparedness and Response shall develop and submit
+22       to the appropriate committees of Congress a coordi-
+23       nated strategy and accompanying implementation
+24       plan for medical countermeasures to address chem-
+25       ical, biological, radiological, and nuclear threats. In
+
+
+      •HR 307 EH           14
+ 1      developing such a plan, the Assistant Secretary for
+ 2      Preparedness and Response shall consult with the
+ 3      Director of the Biomedical Advanced Research and
+ 4      Development Authority, the Director of the National
+ 5      Institutes of Health, the Director of the Centers for
+ 6      Disease Control and Prevention, and the Commis-
+ 7      sioner of Food and Drugs. Such strategy and plan
+ 8      shall be known as the ‘Public Health Emergency
+ 9      Medical Countermeasures Enterprise Strategy and
+10      Implementation Plan’.
+11           ‘‘(2) REQUIREMENTS.—The plan under para-
+12      graph (1) shall—
+13                ‘‘(A) describe the chemical, biological, radi-
+14           ological, and nuclear agent or agents that may
+15           present a threat to the Nation and the cor-
+16           responding efforts to develop qualified counter-
+17           measures (as defined in section 319F–1), secu-
+18           rity countermeasures (as defined in section
+19           319F–2), or qualified pandemic or epidemic
+20           products (as defined in section 319F–3) for
+21           each threat;
+22                ‘‘(B) evaluate the progress of all activities
+23           with respect to such countermeasures or prod-
+24           ucts, including research, advanced research, de-
+
+
+
+
+     •HR 307 EH               15
+1            velopment, procurement, stockpiling, deploy-
+2            ment, distribution, and utilization;
+3                 ‘‘(C) identify and prioritize near-, mid-,
+4            and long-term needs with respect to such coun-
+5            termeasures or products to address a chemical,
+6            biological, radiological, and nuclear threat or
+7            threats;
+8                 ‘‘(D) identify, with respect to each cat-
+9            egory of threat, a summary of all awards and
+10           contracts, including advanced research and de-
+11           velopment and procurement, that includes—
+12                      ‘‘(i)   the   time   elapsed   from   the
+13                issuance of the initial solicitation or re-
+14                quest for a proposal to the adjudication
+15                (such as the award, denial of award, or so-
+16                licitation termination); and
+17                      ‘‘(ii) an identification of projected
+18                timelines, anticipated funding allocations,
+19                benchmarks, and milestones for each med-
+20                ical countermeasure priority under sub-
+21                paragraph (C), including projected needs
+22                with regard to replenishment of the Stra-
+23                tegic National Stockpile;
+
+
+
+
+     •HR 307 EH            16
+1                 ‘‘(E) be informed by the recommendations
+2            of the National Biodefense Science Board pur-
+3            suant to section 319M;
+4                 ‘‘(F) evaluate progress made in meeting
+5            timelines, allocations, benchmarks, and mile-
+6            stones identified under subparagraph (D)(ii);
+7                 ‘‘(G) report on the amount of funds avail-
+8            able for procurement in the special reserve fund
+9            as defined in section 319F–2(h) and the impact
+10           this funding will have on meeting the require-
+11           ments under section 319F–2;
+12                ‘‘(H) incorporate input from Federal,
+13           State, local, and tribal stakeholders;
+14                ‘‘(I) identify the progress made in meeting
+15           the medical countermeasure priorities for at-
+16           risk individuals (as defined in 2802(b)(4)(B)),
+17           as applicable under subparagraph (C), including
+18           with regard to the projected needs for related
+19           stockpiling and replenishment of the Strategic
+20           National Stockpile, including by addressing the
+21           needs of pediatric populations with respect to
+22           such countermeasures and products in the Stra-
+23           tegic National Stockpile, including—
+
+
+
+
+     •HR 307 EH               17
+ 1                        ‘‘(i) a list of such countermeasures
+ 2                   and products necessary to address the
+ 3                   needs of pediatric populations;
+ 4                        ‘‘(ii) a description of measures taken
+ 5                   to coordinate with the Office of Pediatric
+ 6                   Therapeutics of the Food and Drug Ad-
+ 7                   ministration to maximize the labeling, dos-
+ 8                   ages, and formulations of such counter-
+ 9                   measures and products for pediatric popu-
+10                   lations;
+11                        ‘‘(iii) a description of existing gaps in
+12                   the Strategic National Stockpile and the
+13                   development of such countermeasures and
+14                   products to address the needs of pediatric
+15                   populations; and
+16                        ‘‘(iv) an evaluation of the progress
+17                   made in addressing priorities identified
+18                   pursuant to subparagraph (C);
+19                   ‘‘(J) identify the use of authority and ac-
+20           tivities undertaken pursuant to sections 319F–
+21           1(b)(1), 319F–1(b)(2), 319F–1(b)(3), 319F–
+22           1(c),        319F–1(d),      319F–1(e),        319F–
+23           2(c)(7)(C)(iii), 319F–2(c)(7)(C)(iv), and 319F–
+24           2(c)(7)(C)(v) of this Act, and subsections
+25           (a)(1), (b)(1), and (e) of section 564 of the
+
+
+     •HR 307 EH            18
+1            Federal Food, Drug, and Cosmetic Act, by
+2            summarizing—
+3                     ‘‘(i) the particular actions that were
+4                 taken under the authorities specified, in-
+5                 cluding, as applicable, the identification of
+6                 the threat agent, emergency, or the bio-
+7                 medical countermeasure with respect to
+8                 which the authority was used;
+9                     ‘‘(ii) the reasons underlying the deci-
+10                sion to use such authorities, including, as
+11                applicable, the options that were consid-
+12                ered and rejected with respect to the use of
+13                such authorities;
+14                    ‘‘(iii) the number of, nature of, and
+15                other information concerning the persons
+16                and entities that received a grant, coopera-
+17                tive agreement, or contract pursuant to the
+18                use of such authorities, and the persons
+19                and entities that were considered and re-
+20                jected for such a grant, cooperative agree-
+21                ment, or contract, except that the report
+22                need not disclose the identity of any such
+23                person or entity;
+24                    ‘‘(iv) whether, with respect to each
+25                procurement that is approved by the Presi-
+
+
+     •HR 307 EH             19
+ 1                dent under section 319F–2(c)(6), a con-
+ 2                tract was entered into within one year
+ 3                after such approval by the President; and
+ 4                       ‘‘(v) with respect to section 319F–
+ 5                1(d), for the one-year period for which the
+ 6                report is submitted, the number of persons
+ 7                who were paid amounts totaling $100,000
+ 8                or greater and the number of persons who
+ 9                were    paid   amounts   totaling   at   least
+10                $50,000 but less than $100,000; and
+11                ‘‘(K) be made publicly available.
+12           ‘‘(3) GAO    REPORT.—
+
+13                ‘‘(A) IN   GENERAL.—Not   later than 1 year
+14           after the date of the submission to the Congress
+15           of the first Public Health Emergency Medical
+16           Countermeasures Enterprise Strategy and Im-
+17           plementation Plan, the Comptroller General of
+18           the United States shall conduct an independent
+19           evaluation, and submit to the appropriate com-
+20           mittees of Congress a report, concerning such
+21           Strategy and Implementation Plan.
+22                ‘‘(B) CONTENT.—The report described in
+23           subparagraph (A) shall review and assess—
+24                       ‘‘(i) the near-term, mid-term, and
+25                long-term medical countermeasure needs
+
+
+     •HR 307 EH             20
+ 1                 and identified priorities of the Federal
+ 2                 Government pursuant to paragraph (2)(C);
+ 3                     ‘‘(ii) the activities of the Department
+ 4                 of Health and Human Services with re-
+ 5                 spect to advanced research and develop-
+ 6                 ment pursuant to section 319L; and
+ 7                     ‘‘(iii) the progress made toward meet-
+ 8                 ing the timelines, allocations, benchmarks,
+ 9                 and milestones identified in the Public
+10                 Health   Emergency     Medical    Counter-
+11                 measures Enterprise Strategy and Imple-
+12                 mentation Plan under this subsection.
+13       ‘‘(e) PROTECTION   OF   NATIONAL SECURITY.—In car-
+14 rying out subsections (b)(7) and (d), the Secretary shall
+15 ensure that information and items that could compromise
+16 national security, contain confidential commercial infor-
+17 mation, or contain proprietary information are not dis-
+18 closed.’’.
+19       (b) INTERAGENCY COORDINATION PLAN.—In the
+20 first Public Health Emergency Countermeasures Enter-
+21 prise Strategy and Implementation Plan submitted under
+22 subsection (d) of section 2811 of the Public Health Service
+23 Act (42 U.S.C. 300hh–10) (as added by subsection
+24 (a)(3)), the Secretary of Health and Human Services, in
+25 consultation with the Secretary of Defense, shall include
+
+
+      •HR 307 EH            21
+ 1 a description of the manner in which the Department of
+ 2 Health and Human Services is coordinating with the De-
+ 3 partment of Defense regarding countermeasure activities
+ 4 to address chemical, biological, radiological, and nuclear
+ 5 threats. Such report shall include information with respect
+ 6 to—
+ 7            (1) the research, advanced research, develop-
+ 8       ment, procurement, stockpiling, and distribution of
+ 9       countermeasures to meet identified needs; and
+10            (2) the coordination of efforts between the De-
+11       partment of Health and Human Services and the
+12       Department of Defense to address countermeasure
+13       needs for various segments of the population.
+14   SEC. 103. NATIONAL ADVISORY COMMITTEE ON CHILDREN
+15                 AND DISASTERS.
+16       Subtitle B of title XXVIII of the Public Health Serv-
+17 ice Act (42 U.S.C. 300hh et seq.) is amended by inserting
+18 after section 2811 the following:
+19   ‘‘SEC. 2811A. NATIONAL ADVISORY COMMITTEE ON CHIL-
+20                 DREN AND DISASTERS.
+21       ‘‘(a) ESTABLISHMENT.—The Secretary, in consulta-
+22 tion with the Secretary of Homeland Security, shall estab-
+23 lish an advisory committee to be known as the ‘National
+24 Advisory Committee on Children and Disasters’ (referred
+25 to in this section as the ‘Advisory Committee’).
+
+
+      •HR 307 EH             22
+ 1       ‘‘(b) DUTIES.—The Advisory Committee shall—
+ 2             ‘‘(1) provide advice and consultation with re-
+ 3       spect to the activities carried out pursuant to section
+ 4       2814, as applicable and appropriate;
+ 5             ‘‘(2) evaluate and provide input with respect to
+ 6       the medical and public health needs of children as
+ 7       they relate to preparation for, response to, and re-
+ 8       covery from all-hazards emergencies; and
+ 9             ‘‘(3) provide advice and consultation with re-
+10       spect to State emergency preparedness and response
+11       activities and children, including related drills and
+12       exercises pursuant to the preparedness goals under
+13       section 2802(b).
+14       ‘‘(c) ADDITIONAL DUTIES.—The Advisory Committee
+15 may provide advice and recommendations to the Secretary
+16 with respect to children and the medical and public health
+17 grants and cooperative agreements as applicable to pre-
+18 paredness and response activities authorized under this
+19 title and title III.
+20       ‘‘(d) MEMBERSHIP.—
+21             ‘‘(1) IN   GENERAL.—The   Secretary, in consulta-
+22       tion with such other Secretaries as may be appro-
+23       priate, shall appoint not to exceed 15 members to
+24       the Advisory Committee. In appointing such mem-
+25       bers, the Secretary shall ensure that the total mem-
+
+
+      •HR 307 EH                23
+1       bership of the Advisory Committee is an odd num-
+23      ber.   ‘‘(2) REQUIRED      MEMBERS.—The   Secretary, in
+ 4      consultation with such other Secretaries as may be
+ 5      appropriate, may appoint to the Advisory Committee
+ 6      under paragraph (1) such individuals as may be ap-
+ 7      propriate to perform the duties described in sub-
+ 8      sections (b) and (c), which may include—
+ 9                 ‘‘(A) the Assistant Secretary for Prepared-
+10             ness and Response;
+11                 ‘‘(B) the Director of the Biomedical Ad-
+12             vanced Research and Development Authority;
+13                 ‘‘(C) the Director of the Centers for Dis-
+14             ease Control and Prevention;
+15                 ‘‘(D) the Commissioner of Food and
+16             Drugs;
+17                 ‘‘(E) the Director of the National Insti-
+18             tutes of Health;
+19                 ‘‘(F) the Assistant Secretary of the Admin-
+20             istration for Children and Families;
+21                 ‘‘(G) the Administrator of the Federal
+22             Emergency Management Agency;
+23                 ‘‘(H) at least two non-Federal health care
+24             professionals with expertise in pediatric medical
+
+
+
+
+     •HR 307 EH             24
+ 1            disaster planning, preparedness, response, or
+ 2            recovery;
+ 3                  ‘‘(I) at least two representatives from
+ 4            State, local, territorial, or tribal agencies with
+ 5            expertise in pediatric disaster planning, pre-
+ 6            paredness, response, or recovery; and
+ 7                  ‘‘(J) representatives from such Federal
+ 8            agencies (such as the Department of Education
+ 9            and the Department of Homeland Security) as
+10            determined necessary to fulfill the duties of the
+11            Advisory Committee, as established under sub-
+12            sections (b) and (c).
+13       ‘‘(e) MEETINGS.—The Advisory Committee shall
+14 meet not less than biannually.
+15       ‘‘(f) SUNSET.—The Advisory Committee shall termi-
+16 nate on the date that is 5 years after the date of enact-
+17 ment of the Pandemic and All-Hazards Preparedness Re-
+18 authorization Act of 2013.’’.
+19   SEC. 104. MODERNIZATION OF THE NATIONAL DISASTER
+20                 MEDICAL SYSTEM.
+21       Section 2812 of the Public Health Service Act (42
+22 U.S.C. 300hh–11) is amended—
+23            (1) in subsection (a)(3)—
+24                  (A) in subparagraph (A), in clause (i) by
+25            inserting ‘‘, including at-risk individuals as ap-
+
+
+      •HR 307 EH             25
+1            plicable’’ after ‘‘victims of a public health emer-
+2            gency’’;
+3                 (B) by redesignating subparagraph (C) as
+4            subparagraph (E); and
+5                 (C) by inserting after subparagraph (B),
+6            the following:
+ 7                ‘‘(C) CONSIDERATIONS     FOR AT-RISK POPU-
+ 8           LATIONS.—The      Secretary shall take steps to
+ 9           ensure that an appropriate specialized and fo-
+10           cused range of public health and medical capa-
+11           bilities are represented in the National Disaster
+12           Medical System, which take into account the
+13           needs of at-risk individuals, in the event of a
+14           public health emergency.’’.
+15                ‘‘(D)     ADMINISTRATION.—The       Secretary
+16           may determine and pay claims for reimburse-
+17           ment for services under subparagraph (A) di-
+18           rectly or through contracts that provide for
+19           payment in advance or by way of reimburse-
+20           ment.’’; and
+21           (2) in subsection (g), by striking ‘‘such sums as
+22      may be necessary for each of the fiscal years 2007
+23      through 2011’’ and inserting ‘‘$52,700,000 for each
+24      of fiscal years 2013 through 2017’’.
+
+
+
+
+     •HR 307 EH             26
+ 1   SEC. 105. CONTINUING THE ROLE OF THE DEPARTMENT OF
+ 2                 VETERANS AFFAIRS.
+ 3       Section 8117(g) of title 38, United States Code, is
+ 4 amended by striking ‘‘such sums as may be necessary to
+ 5 carry out this section for each of fiscal years 2007 through
+ 6 2011’’ and inserting ‘‘$155,300,000 for each of fiscal
+ 7 years 2013 through 2017 to carry out this section’’.
+ 8   TITLE II—OPTIMIZING STATE
+ 9      AND LOCAL ALL-HAZARDS
+10      PREPAREDNESS   AND RE-
+11      SPONSE
+12   SEC. 201. TEMPORARY REDEPLOYMENT OF FEDERALLY
+13                 FUNDED   PERSONNEL      DURING    A   PUBLIC
+14                 HEALTH EMERGENCY.
+15       Section 319 of the Public Health Service Act (42
+16 U.S.C. 247d) is amended by adding at the end the fol-
+17 lowing:
+18       ‘‘(e) TEMPORARY REDEPLOYMENT         OF    FEDERALLY
+19 FUNDED PERSONNEL DURING          A   PUBLIC HEALTH EMER-
+20   GENCY.—
+
+21            ‘‘(1) EMERGENCY      REDEPLOYMENT OF FEDER-
+22       ALLY FUNDED PERSONNEL.—Notwithstanding             any
+23       other provision of law, and subject to paragraph (2),
+24       upon request by the Governor of a State or the chief
+25       of a tribe or such Governor or chief’s designee, the
+26       Secretary may authorize the requesting State or
+      •HR 307 EH             27
+ 1      tribe to temporarily redeploy, for purposes of imme-
+ 2      diately addressing a public health emergency in the
+ 3      State or tribe, non-Federal personnel funded in
+ 4      whole or in part through, as appropriate, programs
+ 5      under this Act.
+ 6           ‘‘(2) ACTIVATION       OF EMERGENCY REDEPLOY-
+ 7      MENT.—
+ 8                ‘‘(A) PUBLIC      HEALTH EMERGENCY.—The
+ 9           Secretary may authorize a temporary redeploy-
+10           ment of personnel under paragraph (1) only
+11           during the period of a public health emergency
+12           determined pursuant to subsection (a).
+13                ‘‘(B) CONTENTS       OF REQUEST.—To        seek
+14           authority for a temporary redeployment of per-
+15           sonnel under paragraph (1), the Governor of a
+16           State or the chief of a tribe shall submit to the
+17           Secretary a request for such authority and shall
+18           include in the request each of the following:
+19                        ‘‘(i) An assurance that the public
+20                health emergency in the geographic area of
+21                the requesting State or tribe cannot be
+22                adequately and appropriately addressed by
+23                the public health workforce otherwise avail-
+24                able.
+
+
+
+
+     •HR 307 EH            28
+ 1                    ‘‘(ii) An assurance that the public
+ 2                health emergency would be addressed more
+ 3                efficiently and effectively through the re-
+ 4                quested temporary redeployment of per-
+ 5                sonnel.
+ 6                    ‘‘(iii) An assurance that the requested
+ 7                temporary redeployment of personnel is
+ 8                consistent with any applicable All-Hazards
+ 9                Public Health Emergency Preparedness
+10                and Response Plan under section 319C–1.
+11                    ‘‘(iv) An identification of—
+12                          ‘‘(I) each Federal program from
+13                    which personnel would be temporarily
+14                    redeployed pursuant to the requested
+15                    authority; and
+16                          ‘‘(II) the number of personnel
+17                    who would be so redeployed from each
+18                    such program.
+19                    ‘‘(v) Such other information and as-
+20                surances as the Secretary may require.
+21                ‘‘(C) CONSIDERATION.—In reviewing a re-
+22           quest for temporary redeployment under para-
+23           graph (1) of personnel funded through a Fed-
+24           eral program, the Secretary shall consider the
+
+
+
+
+     •HR 307 EH              29
+1            degree to which the program would be adversely
+2            affected by the redeployment.
+3                 ‘‘(D) TERMINATION     AND EXTENSION.—
+
+ 4                    ‘‘(i)    TERMINATION.—A        State   or
+ 5                tribe’s authority for a temporary redeploy-
+ 6                ment of personnel under paragraph (1)
+ 7                shall terminate upon the earlier of the fol-
+ 8                lowing:
+ 9                            ‘‘(I) The Secretary’s determina-
+10                    tion that the public health emergency
+11                    no longer exists.
+12                            ‘‘(II) Subject to clause (ii), the
+13                    expiration of the 30-day period fol-
+14                    lowing the date on which the Sec-
+15                    retary approved the State or tribe’s
+16                    request for such authority.
+17                    ‘‘(ii) EXTENSION       AUTHORITY.—The
+18                Secretary may extend the authority to au-
+19                thorize a temporary redeployment of per-
+20                sonnel under paragraph (1) beyond the
+21                date otherwise applicable under clause
+22                (i)(II) if the public health emergency still
+23                exists as of such date, but only if—
+24                            ‘‘(I) the State or tribe that sub-
+25                    mitted the initial request for authority
+
+
+     •HR 307 EH            30
+ 1                     for a temporary redeployment of per-
+ 2                     sonnel submits a request for an exten-
+ 3                     sion of such authority; and
+ 4                          ‘‘(II) the request for an extension
+ 5                     contains the same type of information
+ 6                     and assurances necessary for the ap-
+ 7                     proval of an initial request for such
+ 8                     authority.
+ 9           ‘‘(3) NOTICE   TO PERSONNEL OF POSSIBILITY
+10      OF REDEPLOYMENT.—The          Secretary shall ensure
+11      that, if a State or tribe receives Federal funds for
+12      personnel who are subject to the Secretary’s rede-
+13      ployment authority under this subsection, the State
+14      or tribe gives notice to such personnel of the possi-
+15      bility of redeployment—
+16                ‘‘(A) at the time of hiring; or
+17                ‘‘(B) in the case of personnel hired before
+18           the date of the enactment of this subsection, as
+19           soon as practicable.
+20           ‘‘(4) NOTICE    TO CONGRESS.—The        Secretary
+21      shall give notice to the Congress in conjunction with
+22      the approval under this subsection of—
+23                ‘‘(A) any initial request for authority for a
+24           temporary redeployment of personnel; and
+
+
+
+
+     •HR 307 EH            31
+1                 ‘‘(B) any request for an extension of such
+2            authority.
+ 3           ‘‘(5) GUIDANCE.—The Secretary shall—
+ 4                ‘‘(A) not later than 6 months after the en-
+ 5           actment of this subsection, issue proposed guid-
+ 6           ance on the temporary redeployment of per-
+ 7           sonnel under this subsection; and
+ 8                ‘‘(B) after providing notice and a 60-day
+ 9           period for public comment, finalize such guid-
+10           ance.
+11           ‘‘(6) REPORT   TO CONGRESS.—Not     later than 4
+12      years after the date of enactment of the Pandemic
+13      and All-Hazards Preparedness Reauthorization Act
+14      of 2013, the Comptroller General of the United
+15      States shall conduct an independent evaluation, and
+16      submit to the appropriate committees of the Con-
+17      gress a report, on the Secretary’s authority under
+18      this subsection, including—
+19                ‘‘(A) a description of how, and under what
+20           circumstances, such authority has been used by
+21           States and tribes;
+22                ‘‘(B) an analysis of how such authority has
+23           assisted States and tribes in responding to pub-
+24           lic health emergencies;
+
+
+
+
+     •HR 307 EH               32
+ 1                   ‘‘(C) an evaluation of how such authority
+ 2            has improved operational efficiencies in re-
+ 3            sponding to public health emergencies;
+ 4                   ‘‘(D) an analysis of the extent to which, if
+ 5            any, Federal programs from which personnel
+ 6            have been temporarily redeployed pursuant to
+ 7            such authority have been adversely affected by
+ 8            the redeployment; and
+ 9                   ‘‘(E) recommendations on how such au-
+10            thority could be improved to further assist in
+11            responding to public health emergencies.
+12            ‘‘(7) DEFINITION.—In this subsection, the term
+13       ‘State’ includes, in addition to the entities listed in
+14       the definition of such term in section 2, the Freely
+15       Associated States.
+16            ‘‘(8) SUNSET.—The authority under this sub-
+17       section shall terminate on the date that is 5 years
+18       after the date of enactment of the Pandemic and
+19       All-Hazards Preparedness Reauthorization Act of
+20       2013.’’.
+21   SEC. 202. IMPROVING STATE AND LOCAL PUBLIC HEALTH
+22                  SECURITY.
+23       (a) COOPERATIVE AGREEMENTS.—Section 319C–1
+24 of the Public Health Service Act (42 U.S.C. 247d–3a) is
+25 amended—
+
+
+      •HR 307 EH            33
+1            (1) in subsection (b)(1)(C), by striking ‘‘consor-
+2       tium of entities described in subparagraph (A)’’ and
+3       inserting ‘‘consortium of States’’;
+4            (2) in subsection (b)(2)—
+5                 (A) in subparagraph (A)—
+6                      (i) by striking clauses (i) and (ii) and
+7                 inserting the following:
+8                      ‘‘(i) a description of the activities such
+9                 entity will carry out under the agreement
+10                to meet the goals identified under section
+11                2802, including with respect to chemical,
+12                biological, radiological, or nuclear threats,
+13                whether naturally occurring, unintentional,
+14                or deliberate;
+15                     ‘‘(ii) a description of the activities
+16                such entity will carry out with respect to
+17                pandemic influenza, as a component of the
+18                activities carried out under clause (i), and
+19                consistent with the requirements of para-
+20                graphs (2) and (5) of subsection (g);’’;
+21                     (ii) in clause (iv), by striking ‘‘and’’ at
+22                the end; and
+23                     (iii) by adding at the end the fol-
+24                lowing:
+
+
+
+
+     •HR 307 EH             34
+ 1                     ‘‘(vi) a description of how, as appro-
+ 2                priate, the entity may partner with rel-
+ 3                evant public and private stakeholders in
+ 4                public health emergency preparedness and
+ 5                response;
+ 6                     ‘‘(vii) a description of how the entity,
+ 7                as applicable and appropriate, will coordi-
+ 8                nate with State emergency preparedness
+ 9                and response plans in public health emer-
+10                gency preparedness, including State edu-
+11                cational agencies (as defined in section
+12                9101(41) of the Elementary and Sec-
+13                ondary Education Act of 1965) and State
+14                child care lead agencies (designated under
+15                section 658D of the Child Care and Devel-
+16                opment Block Grant Act of 1990);
+17                     ‘‘(viii) in the case of entities that op-
+18                erate on the United States-Mexico border
+19                or the United States-Canada border, a de-
+20                scription of the activities such entity will
+21                carry out under the agreement that are
+22                specific to the border area including dis-
+23                ease detection, identification, investigation,
+24                and preparedness and response activities
+25                related to emerging diseases and infectious
+
+
+     •HR 307 EH             35
+1                 disease outbreaks whether naturally occur-
+2                 ring or due to bioterrorism, consistent with
+3                 the requirements of this section; and
+4                       ‘‘(ix) a description of any activities
+5                 that such entity will use to analyze real-
+6                 time clinical specimens for pathogens of
+7                 public health or bioterrorism significance,
+8                 including any utilization of poison control
+9                 centers;’’; and
+10                (B) in subparagraph (C), by inserting ‘‘,
+11           including addressing the needs of at-risk indi-
+12           viduals,’’ after ‘‘capabilities of such entity’’;
+13           (3) in subsection (f)—
+14                (A) in paragraph (2), by adding ‘‘and’’ at
+15           the end;
+16                (B) in paragraph (3), by striking ‘‘; and’’
+17           and inserting a period; and
+18                (C) by striking paragraph (4);
+19           (4) in subsection (g)—
+20                (A) in paragraph (1), by striking subpara-
+21           graph (A) and inserting the following:
+22                ‘‘(A) include outcome goals representing
+23           operational achievements of the National Pre-
+24           paredness     Goals    developed     under    section
+25           2802(b) with respect to all-hazards, including
+
+
+     •HR 307 EH               36
+1            chemical, biological, radiological, or nuclear
+2            threats; and’’; and
+3                 (B) in paragraph (2)(A), by adding at the
+4            end the following: ‘‘The Secretary shall periodi-
+5            cally update, as necessary and appropriate,
+6            such pandemic influenza plan criteria and shall
+7            require the integration of such criteria into the
+8            benchmarks and standards described in para-
+9            graph (1).’’;
+10           (5) by striking subsection (h);
+11           (6) in subsection (i)—
+12                (A) in paragraph (1)—
+13                     (i) in subparagraph (A)—
+14                           (I) by striking ‘‘$824,000,000 for
+15                     fiscal        year   2007,   of   which
+16                     $35,000,000 shall be used to carry
+17                     out subsection (h),’’ and inserting
+18                     ‘‘$641,900,000 for fiscal year 2013’’;
+19                     and
+20                           (II) by striking ‘‘such sums as
+21                     may be necessary for each of fiscal
+22                     years 2008 through 2011’’ and insert-
+23                     ing ‘‘$641,900,000 for each of fiscal
+24                     years 2014 through 2017’’;
+25                     (ii) by striking subparagraph (B);
+
+
+     •HR 307 EH             37
+ 1                     (iii) by redesignating subparagraphs
+ 2                (C) and (D) as subparagraphs (B) and
+ 3                (C), respectively; and
+ 4                     (iv) in subparagraph (C), as so redes-
+ 5                ignated, by striking ‘‘subparagraph (C)’’
+ 6                and inserting ‘‘subparagraph (B)’’;
+ 7                (B) in subparagraphs (C) and (D) of para-
+ 8           graph (3), by striking ‘‘(1)(A)(i)(I)’’ each place
+ 9           it appears and inserting ‘‘(1)(A)’’;
+10                (C) in paragraph (4)(B), by striking ‘‘sub-
+11           section (c)’’ and inserting ‘‘subsection (b)’’; and
+12                (D) by adding at the end the following:
+13           ‘‘(7) AVAILABILITY     OF COOPERATIVE AGREE-
+14      MENT FUNDS.—
+15                ‘‘(A) IN   GENERAL.—Amounts       provided to
+16           an eligible entity under a cooperative agreement
+17           under subsection (a) for a fiscal year and re-
+18           maining unobligated at the end of such year
+19           shall remain available to such entity for the
+20           next fiscal year for the purposes for which such
+21           funds were provided.
+22                ‘‘(B) FUNDS      CONTINGENT ON ACHIEVING
+23           BENCHMARKS.—The         continued availability of
+24           funds under subparagraph (A) with respect to
+25           an entity shall be contingent upon such entity
+
+
+     •HR 307 EH               38
+ 1             achieving the benchmarks and submitting the
+ 2             pandemic influenza plan as described in sub-
+ 3             section (g).’’; and
+ 4             (7) in subsection (j), by striking paragraph (3).
+ 5       (b) VACCINE TRACKING          AND   DISTRIBUTION.—Sec-
+ 6 tion 319A(e) of the Public Health Service Act (42 U.S.C.
+ 7 247d–1(e)) is amended by striking ‘‘such sums for each
+ 8 of fiscal years 2007 through 2011’’ and inserting
+ 9 ‘‘$30,800,000 for each of fiscal years 2013 through
+10 2017’’.
+11   SEC. 203. HOSPITAL PREPAREDNESS AND MEDICAL SURGE
+12                 CAPACITY.
+13       (a) ALL-HAZARDS PUBLIC HEALTH            AND   MEDICAL
+14 RESPONSE         CURRICULA         AND     TRAINING.—Section
+15 319F(a)(5)(B) of the Public Health Service Act (42
+16 U.S.C. 247d–6(a)(5)(B)) is amended by striking ‘‘public
+17 health or medical’’ and inserting ‘‘public health, medical,
+18 or dental’’.
+19       (b) ENCOURAGING HEALTH PROFESSIONAL VOLUN-
+20   TEERS.—
+
+21             (1) EMERGENCY         SYSTEM FOR ADVANCE REG-
+22       ISTRATION      OF     VOLUNTEER      HEALTH    PROFES-
+23       SIONALS.—Section       319I(k) of the Public Health
+24       Service Act (42 U.S.C. 247d–7b(k)) is amended by
+25       striking ‘‘$2,000,000 for fiscal year 2002, and such
+
+
+      •HR 307 EH               39
+ 1       sums as may be necessary for each of the fiscal
+ 2       years     2003    through      2011’’          and    inserting
+ 3       ‘‘$5,000,000 for each of fiscal years 2013 through
+ 4       2017’’.
+ 5             (2) VOLUNTEERS.—Section 2813 of the Public
+ 6       Health Service Act (42 U.S.C. 300hh–15) is amend-
+ 7       ed—
+ 8                 (A) in subsection (d)(2), by adding at the
+ 9             end the following: ‘‘Such training exercises
+10             shall, as appropriate and applicable, incorporate
+11             the needs of at-risk individuals in the event of
+12             a public health emergency.’’; and
+13                 (B)    in     subsection      (i),     by    striking
+14             ‘‘$22,000,000 for fiscal year 2007, and such
+15             sums as may be necessary for each of fiscal
+16             years 2008 through 2011’’ and inserting
+17             ‘‘$11,200,000 for each of fiscal years 2013
+18             through 2017’’.
+19       (c) PARTNERSHIPS      FOR    STATE   AND   REGIONAL PRE-
+20   PAREDNESS     TO IMPROVE SURGE CAPACITY.—Section
+21 319C–2 of the Public Health Service Act (42 U.S.C.
+22 247d–3b) is amended—
+23             (1) in subsection (a), by inserting ‘‘, including
+24       capacity and preparedness to address the needs of
+
+
+
+
+      •HR 307 EH                 40
+ 1       pediatric and other at-risk populations’’ before the
+ 2       period at the end;
+ 3               (2) in subsection (b)(1)(A)(ii), by striking ‘‘cen-
+ 4       ters, primary’’ and inserting ‘‘centers, community
+ 5       health centers, primary’’;
+ 6               (3) by striking subsection (c) and inserting the
+ 7       following:
+ 8       ‘‘(c) USE       OF   FUNDS.—An award under subsection
+ 9 (a) shall be expended for activities to achieve the prepared-
+10 ness goals described under paragraphs (1), (3), (4), (5),
+11 and (6) of section 2802(b) with respect to all-hazards, in-
+12 cluding chemical, biological, radiological, or nuclear
+13 threats.’’;
+14               (4) by striking subsection (g) and inserting the
+15       following:
+16       ‘‘(g) COORDINATION.—
+17               ‘‘(1) LOCAL    RESPONSE CAPABILITIES.—An       eli-
+18       gible entity shall, to the extent practicable, ensure
+19       that activities carried out under an award under
+20       subsection (a) are coordinated with activities of rel-
+21       evant local Metropolitan Medical Response Systems,
+22       local Medical Reserve Corps, the local Cities Readi-
+23       ness Initiative, and local emergency plans.
+24               ‘‘(2)   NATIONAL       COLLABORATION.—Partner-
+25       ships consisting of one or more eligible entities
+      •HR 307 EH           41
+ 1      under this section may, to the extent practicable,
+ 2      collaborate with other partnerships consisting of one
+ 3      or more eligible entities under this section for pur-
+ 4      poses of national coordination and collaboration with
+ 5      respect to activities to achieve the preparedness
+ 6      goals described under paragraphs (1), (3), (4), (5),
+ 7      and (6) of section 2802(b).’’;
+ 8           (5) in subsection (i)—
+ 9                (A) by striking ‘‘The requirements of’’ and
+10           inserting the following:
+11           ‘‘(1) IN   GENERAL.—The     requirements of’’; and
+12                (B) by adding at the end the following:
+13           ‘‘(2) MEETING    GOALS OF NATIONAL HEALTH
+14      SECURITY STRATEGY.—The           Secretary shall imple-
+15      ment objective, evidence-based metrics to ensure that
+16      entities receiving awards under this section are
+17      meeting, to the extent practicable, the applicable
+18      goals of the National Health Security Strategy
+19      under section 2802.’’; and
+20           (6) in subsection (j)—
+21                (A) by amending paragraph (1) to read as
+22           follows:
+23           ‘‘(1) IN   GENERAL.—For      purposes of carrying
+24      out this section, there is authorized to be appro-
+
+
+
+
+     •HR 307 EH                42
+ 1       priated $374,700,000 for each of fiscal years 2013
+ 2       through 2017.’’; and
+ 3                  (B) by adding at the end the following:
+ 4            ‘‘(4) AVAILABILITY       OF COOPERATIVE AGREE-
+ 5       MENT FUNDS.—
+ 6                  ‘‘(A) IN    GENERAL.—Amounts     provided to
+ 7            an eligible entity under a cooperative agreement
+ 8            under subsection (a) for a fiscal year and re-
+ 9            maining unobligated at the end of such year
+10            shall remain available to such entity for the
+11            next fiscal year for the purposes for which such
+12            funds were provided.
+13                  ‘‘(B) FUNDS       CONTINGENT ON ACHIEVING
+14            BENCHMARKS.—The           continued availability of
+15            funds under subparagraph (A) with respect to
+16            an entity shall be contingent upon such entity
+17            achieving the benchmarks and submitting the
+18            pandemic influenza plan as required under sub-
+19            section (i).’’.
+20   SEC. 204. ENHANCING SITUATIONAL AWARENESS AND BIO-
+21                 SURVEILLANCE.
+22       Section 319D of the Public Health Service Act (42
+23 U.S.C. 247d–4) is amended—
+24            (1) in subsection (b)—
+
+
+
+
+      •HR 307 EH             43
+1                  (A) in paragraph (1)(B), by inserting ‘‘poi-
+2            son control centers,’’ after ‘‘hospitals,’’;
+3                  (B) in paragraph (2), by inserting before
+4            the period at the end the following: ‘‘, allowing
+5            for coordination to maximize all-hazards med-
+6            ical and public health preparedness and re-
+7            sponse and to minimize duplication of effort’’;
+8            and
+9                  (C) in paragraph (3), by inserting before
+10           the period at the end the following: ‘‘and up-
+11           date such standards as necessary’’;
+12           (2) by striking subsection (c); and
+13           (3) in subsection (d)—
+14                 (A) in the subsection heading, by striking
+15           ‘‘PUBLIC HEALTH SITUATIONAL AWARENESS’’
+16           and inserting ‘‘MODERNIZING PUBLIC HEALTH
+17           SITUATIONAL AWARENESS           AND    BIOSURVEIL-
+18           LANCE’’;
+
+19                 (B) in paragraph (1)—
+20                      (i) by striking ‘‘Pandemic and All-
+21                 Hazards Preparedness Act’’ and inserting
+22                 ‘‘Pandemic and All-Hazards Preparedness
+23                 Reauthorization Act of 2013’’; and
+24                      (ii) by inserting ‘‘, novel emerging
+25                 threats,’’ after ‘‘disease outbreaks’’;
+
+
+     •HR 307 EH              44
+1                    (C) by striking paragraph (2) and insert-
+2            ing the following:
+3            ‘‘(2)      STRATEGY      AND    IMPLEMENTATION
+ 4      PLAN.—Not       later than 180 days after the date of
+ 5      enactment of the Pandemic and All-Hazards Pre-
+ 6      paredness Reauthorization Act of 2013, the Sec-
+ 7      retary shall submit to the appropriate committees of
+ 8      Congress a coordinated strategy and an accom-
+ 9      panying implementation plan that identifies and
+10      demonstrates the measurable steps the Secretary will
+11      carry out to—
+12                   ‘‘(A) develop, implement, and evaluate the
+13           network described in paragraph (1), utilizing
+14           the elements described in paragraph (3);
+15                   ‘‘(B) modernize and enhance biosurveil-
+16           lance activities; and
+17                   ‘‘(C) improve information sharing, coordi-
+18           nation, and communication among disparate
+19           biosurveillance systems supported by the De-
+20           partment of Health and Human Services.’’;
+21                   (D) in paragraph (3)(D), by inserting
+22           ‘‘community health centers, health centers’’
+23           after ‘‘poison control,’’;
+24                   (E) in paragraph (5), by striking subpara-
+25           graph (A) and inserting the following:
+
+
+     •HR 307 EH             45
+ 1                ‘‘(A)   utilize   applicable   interoperability
+ 2           standards as determined by the Secretary, and
+ 3           in consultation with the Office of the National
+ 4           Coordinator for Health Information Tech-
+ 5           nology, through a joint public and private sec-
+ 6           tor process;’’; and
+ 7                (F) by adding at the end the following:
+8            ‘‘(6) CONSULTATION      WITH THE NATIONAL BIO-
+ 9      DEFENSE SCIENCE BOARD.—In            carrying out this
+10      section and consistent with section 319M, the Na-
+11      tional Biodefense Science Board shall provide expert
+12      advice and guidance, including recommendations, re-
+13      garding the measurable steps the Secretary should
+14      take to modernize and enhance biosurveillance activi-
+15      ties pursuant to the efforts of the Department of
+16      Health and Human Services to ensure comprehen-
+17      sive, real-time, all-hazards biosurveillance capabili-
+18      ties. In complying with the preceding sentence, the
+19      National Biodefense Science Board shall—
+20                ‘‘(A) identify the steps necessary to achieve
+21           a national biosurveillance system for human
+22           health, with international connectivity, where
+23           appropriate, that is predicated on State, re-
+24           gional, and community level capabilities and
+25           creates a networked system to allow for two-
+
+
+     •HR 307 EH             46
+1            way information flow between and among Fed-
+2            eral, State, and local government public health
+3            authorities and clinical health care providers;
+4                 ‘‘(B) identify any duplicative surveillance
+5            programs under the authority of the Secretary,
+6            or changes that are necessary to existing pro-
+7            grams, in order to enhance and modernize such
+8            activities, minimize duplication, strengthen and
+9            streamline such activities under the authority of
+10           the Secretary, and achieve real-time and appro-
+11           priate data that relate to disease activity, both
+12           human and zoonotic; and
+13                ‘‘(C) coordinate with applicable existing
+14           advisory committees of the Director of the Cen-
+15           ters for Disease Control and Prevention, includ-
+16           ing such advisory committees consisting of rep-
+17           resentatives from State, local, and tribal public
+18           health authorities and appropriate public and
+19           private sector health care entities and academic
+20           institutions, in order to provide guidance on
+21           public health surveillance activities.’’;
+22           (4) in subsection (e)(5), by striking ‘‘4 years
+23      after the date of enactment of the Pandemic and
+24      All-Hazards Preparedness Act’’ and inserting ‘‘3
+25      years after the date of enactment of the Pandemic
+
+
+     •HR 307 EH                 47
+ 1       and All-Hazards Preparedness Reauthorization Act
+ 2       of 2013’’;
+ 3            (5) in subsection (g), by striking ‘‘such sums as
+ 4       may be necessary in each of fiscal years 2007
+ 5       through 2011’’ and inserting ‘‘$138,300,000 for
+ 6       each of fiscal years 2013 through 2017’’; and
+ 7            (6) by adding at the end the following:
+ 8       ‘‘(h) DEFINITION.—For purposes of this section the
+ 9 term ‘biosurveillance’ means the process of gathering near
+10 real-time biological data that relates to human and
+11 zoonotic disease activity and threats to human or animal
+12 health, in order to achieve early warning and identification
+13 of such health threats, early detection and prompt ongoing
+14 tracking of health events, and overall situational aware-
+15 ness of disease activity.’’.
+16   SEC. 205. ELIMINATING DUPLICATIVE PROJECT BIOSHIELD
+17                 REPORTS.
+18       Section 5 of the Project Bioshield Act of 2004 (42
+19 U.S.C. 247d–6c) is repealed.
+20   TITLE III—ENHANCING MEDICAL
+21     COUNTERMEASURE REVIEW
+22   SEC. 301. SPECIAL PROTOCOL ASSESSMENT.
+23       Section 505(b)(5)(B) of the Federal Food, Drug, and
+24 Cosmetic Act (21 U.S.C. 355(b)(5)(B)) is amended by
+25 striking ‘‘size of clinical trials intended’’ and all that fol-
+
+
+      •HR 307 EH              48
+ 1 lows through ‘‘. The sponsor or applicant’’ and inserting
+ 2 the following: ‘‘size—
+ 3            ‘‘(i)(I) of clinical trials intended to form the
+ 4       primary basis of an effectiveness claim; or
+ 5            ‘‘(II) in the case where human efficacy studies
+ 6       are not ethical or feasible, of animal and any associ-
+ 7       ated clinical trials which, in combination, are in-
+ 8       tended to form the primary basis of an effectiveness
+ 9       claim; or
+10            ‘‘(ii) with respect to an application for approval
+11       of a biological product under section 351(k) of the
+12       Public Health Service Act, of any necessary clinical
+13       study or studies.
+14 The sponsor or applicant’’.
+15   SEC. 302. AUTHORIZATION FOR MEDICAL PRODUCTS FOR
+16                 USE IN EMERGENCIES.
+17       (a) IN GENERAL.—Section 564 of the Federal Food,
+18 Drug, and Cosmetic Act (21 U.S.C. 360bbb–3) is amend-
+19 ed—
+20            (1) in subsection (a)—
+21                   (A) in paragraph (1), by striking ‘‘sections
+22            505, 510(k), and 515 of this Act’’ and inserting
+23            ‘‘any provision of this Act’’;
+24                   (B) in paragraph (2)(A), by striking
+25            ‘‘under a provision of law referred to in such
+
+
+      •HR 307 EH               49
+1            paragraph’’ and inserting ‘‘under section 505,
+2            510(k), or 515 of this Act or section 351 of the
+3            Public Health Service Act’’; and
+4                   (C) in paragraph (3), by striking ‘‘a provi-
+5            sion of law referred to in such paragraph’’ and
+6            inserting ‘‘a section of this Act or the Public
+7            Health Service Act referred to in paragraph
+8            (2)(A)’’;
+9            (2) in subsection (b)—
+10                  (A) in the subsection heading, by striking
+11           ‘‘EMERGENCY’’ and inserting ‘‘EMERGENCY                OR
+12           THREAT JUSTIFYING EMERGENCY AUTHOR-
+13           IZED   USE’’;
+14                  (B) in paragraph (1)—
+15                       (i) in the matter preceding subpara-
+16                  graph (A), by striking ‘‘may declare an
+17                  emergency’’ and inserting ‘‘may make a
+18                  declaration that the circumstances exist’’;
+19                       (ii) in subparagraph (A), by striking
+20                  ‘‘specified’’;
+21                       (iii) in subparagraph (B)—
+22                             (I) by striking ‘‘specified’’; and
+23                             (II) by striking ‘‘; or’’ and insert-
+24                       ing a semicolon;
+
+
+
+
+     •HR 307 EH                50
+ 1                     (iv) by amending subparagraph (C) to
+ 2                read as follows:
+ 3                ‘‘(C) a determination by the Secretary that
+ 4           there is a public health emergency, or a signifi-
+ 5           cant potential for a public health emergency,
+ 6           that affects, or has a significant potential to af-
+ 7           fect, national security or the health and security
+ 8           of United States citizens living abroad, and that
+ 9           involves a biological, chemical, radiological, or
+10           nuclear agent or agents, or a disease or condi-
+11           tion that may be attributable to such agent or
+12           agents; or’’; and
+13                     (v) by adding at the end the following:
+14                ‘‘(D) the identification of a material threat
+15           pursuant to section 319F–2 of the Public
+16           Health Service Act sufficient to affect national
+17           security or the health and security of United
+18           States citizens living abroad.’’;
+19                (C) in paragraph (2)—
+20                     (i) in subparagraph (A), by amending
+21                clause (ii) to read as follows:
+22                     ‘‘(ii) a change in the approval status
+23                of the product such that the circumstances
+24                described in subsection (a)(2) have ceased
+25                to exist.’’;
+
+
+     •HR 307 EH             51
+1                      (ii) by striking subparagraph (B); and
+2                      (iii) by redesignating subparagraph
+3                 (C) as subparagraph (B);
+4                 (D) in paragraph (4), by striking ‘‘advance
+5            notice of termination, and renewal under this
+6            subsection.’’ and inserting ‘‘, and advance no-
+7            tice of termination under this subsection.’’; and
+8                 (E) by adding at the end the following:
+ 9           ‘‘(5) EXPLANATION     BY SECRETARY.—If     an au-
+10      thorization under this section with respect to an un-
+11      approved product or an unapproved use of an ap-
+12      proved product has been in effect for more than 1
+13      year, the Secretary shall provide in writing to the
+14      sponsor of such product an explanation of the sci-
+15      entific, regulatory, or other obstacles to approval, li-
+16      censure, or clearance of such product or use, includ-
+17      ing specific actions to be taken by the Secretary and
+18      the sponsor to overcome such obstacles.’’;
+19           (3) in subsection (c)—
+20                (A) in the matter preceding paragraph
+21           (1)—
+22                     (i) by inserting ‘‘the Assistant Sec-
+23                retary for Preparedness and Response,’’
+24                after ‘‘consultation with’’;
+
+
+
+
+     •HR 307 EH                52
+ 1                     (ii) by striking ‘‘Health and’’ and in-
+ 2                serting ‘‘Health, and’’; and
+ 3                     (iii) by striking ‘‘circumstances of the
+ 4                emergency involved’’ and inserting ‘‘appli-
+ 5                cable circumstances described in subsection
+ 6                (b)(1)’’;
+ 7                (B) in paragraph (1), by striking ‘‘speci-
+ 8           fied’’ and inserting ‘‘referred to’’; and
+ 9                (C) in paragraph (2)(B), by inserting ‘‘,
+10           taking into consideration the material threat
+11           posed by the agent or agents identified in a dec-
+12           laration under subsection (b)(1)(D), if applica-
+13           ble’’ after ‘‘risks of the product’’;
+14           (4) in subsection (d)(3), by inserting ‘‘, to the
+15      extent practicable given the circumstances of the
+16      emergency,’’ after ‘‘including’’;
+17           (5) in subsection (e)—
+18                (A) in paragraph (1)(A), by striking ‘‘cir-
+19           cumstances of the emergency’’ and inserting
+20           ‘‘applicable circumstances described in sub-
+21           section (b)(1)’’;
+22                (B) in paragraph (1)(B), by amending
+23           clause (iii) to read as follows:
+24                     ‘‘(iii) Appropriate conditions with re-
+25                spect to collection and analysis of informa-
+
+
+     •HR 307 EH            53
+1                 tion concerning the safety and effectiveness
+2                 of the product with respect to the use of
+3                 such product during the period when the
+4                 authorization is in effect and a reasonable
+5                 time following such period.’’;
+6                 (C) in paragraph (2)—
+7                      (i) in subparagraph (A)—
+8                           (I) by striking ‘‘manufacturer of
+9                      the product’’ and inserting ‘‘person’’;
+10                          (II) by striking ‘‘circumstances of
+11                     the emergency’’ and inserting ‘‘appli-
+12                     cable circumstances described in sub-
+13                     section (b)(1)’’; and
+14                          (III) by inserting at the end be-
+15                     fore the period ‘‘or in paragraph
+16                     (1)(B)’’;
+17                     (ii) in subparagraph (B)(i), by insert-
+18                ing before the period at the end ‘‘, except
+19                as provided in section 564A with respect to
+20                authorized changes to the product expira-
+21                tion date’’; and
+22                     (iii) by amending subparagraph (C) to
+23                read as follows:
+24                ‘‘(C) In establishing conditions under this
+25           paragraph with respect to the distribution and
+
+
+     •HR 307 EH             54
+1            administration of the product for the unap-
+2            proved use, the Secretary shall not impose con-
+3            ditions that would restrict distribution or ad-
+4            ministration of the product when distributed or
+5            administered for the approved use.’’; and
+6                  (D) by amending paragraph (3) to read as
+7            follows:
+8            ‘‘(3) GOOD   MANUFACTURING PRACTICE; PRE-
+ 9      SCRIPTION.—With      respect to the emergency use of a
+10      product for which an authorization under this sec-
+11      tion is issued (whether an unapproved product or an
+12      unapproved use of an approved product), the Sec-
+13      retary may waive or limit, to the extent appropriate
+14      given the applicable circumstances described in sub-
+15      section (b)(1)—
+16                 ‘‘(A) requirements regarding current good
+17           manufacturing practice otherwise applicable to
+18           the manufacture, processing, packing, or hold-
+19           ing of products subject to regulation under this
+20           Act, including such requirements established
+21           under section 501 or 520(f)(1), and including
+22           relevant conditions prescribed with respect to
+23           the   product    by   an   order   under    section
+24           520(f)(2);
+
+
+
+
+     •HR 307 EH               55
+1                 ‘‘(B) requirements established under sec-
+2            tion 503(b); and
+3                 ‘‘(C) requirements established under sec-
+4            tion 520(e).’’;
+5            (6) in subsection (g)—
+6                 (A) in the subsection heading, by inserting
+ 7           ‘‘REVIEW   AND’’   before ‘‘REVOCATION’’;
+ 8                (B) in paragraph (1), by inserting after
+ 9           the period at the end the following: ‘‘As part of
+10           such review, the Secretary shall regularly review
+11           the progress made with respect to the approval,
+12           licensure, or clearance of—
+13                ‘‘(A) an unapproved product for which an
+14           authorization was issued under this section; or
+15                ‘‘(B) an unapproved use of an approved
+16           product for which an authorization was issued
+17           under this section.’’; and
+18                (C) by amending paragraph (2) to read as
+19           follows:
+20           ‘‘(2) REVISION     AND REVOCATION.—The      Sec-
+21      retary may revise or revoke an authorization under
+22      this section if—
+23                ‘‘(A) the circumstances described under
+24           subsection (b)(1) no longer exist;
+
+
+
+
+     •HR 307 EH                56
+ 1                    ‘‘(B) the criteria under subsection (c) for
+ 2            issuance of such authorization are no longer
+ 3            met; or
+ 4                    ‘‘(C) other circumstances make such revi-
+ 5            sion or revocation appropriate to protect the
+ 6            public health or safety.’’;
+ 7            (7) in subsection (h)(1), by adding after the pe-
+ 8       riod at the end the following: ‘‘The Secretary shall
+ 9       make any revisions to an authorization under this
+10       section available on the Internet Web site of the
+11       Food and Drug Administration.’’;
+12            (8) by adding at the end of subsection (j) the
+13       following:
+14            ‘‘(4) Nothing in this section shall be construed
+15       as authorizing a delay in the review or other consid-
+16       eration by the Secretary of any application or sub-
+17       mission pending before the Food and Drug Adminis-
+18       tration for a product for which an authorization
+19       under this section is issued.’’; and
+20            (9) by adding at the end the following:
+21       ‘‘(m) CATEGORIZATION         OF   LABORATORY TESTS AS-
+22   SOCIATED      WITH DEVICES SUBJECT           TO   AUTHORIZA-
+23   TION.—
+
+24            ‘‘(1) IN   GENERAL.—In       issuing an authorization
+25       under this section with respect to a device, the Sec-
+
+
+      •HR 307 EH            57
+ 1      retary may, subject to the provisions of this section,
+ 2      determine that a laboratory examination or proce-
+ 3      dure associated with such device shall be deemed, for
+ 4      purposes of section 353 of the Public Health Service
+ 5      Act, to be in a particular category of examinations
+ 6      and procedures (including the category described by
+ 7      subsection (d)(3) of such section) if, based on the to-
+ 8      tality of scientific evidence available to the Sec-
+ 9      retary—
+10                ‘‘(A) such categorization would be bene-
+11           ficial to protecting the public health; and
+12                ‘‘(B) the known and potential benefits of
+13           such categorization under the circumstances of
+14           the authorization outweigh the known and po-
+15           tential risks of the categorization.
+16           ‘‘(2) CONDITIONS      OF DETERMINATION.—The
+17      Secretary may establish appropriate conditions on
+18      the performance of the examination or procedure
+19      pursuant to such determination.
+20           ‘‘(3) EFFECTIVE       PERIOD.—A        determination
+21      under this subsection shall be effective for purposes
+22      of section 353 of the Public Health Service Act not-
+23      withstanding any other provision of that section dur-
+24      ing the effective period of the relevant declaration
+25      under subsection (b).’’.
+
+
+     •HR 307 EH              58
+1        (b) EMERGENCY USE          OF   MEDICAL PRODUCTS.—
+2 Subchapter E of chapter V of the Federal Food, Drug,
+3 and Cosmetic Act (21 U.S.C. 360bbb et seq.) is amended
+4 by inserting after section 564 the following:
+5    ‘‘SEC. 564A. EMERGENCY USE OF MEDICAL PRODUCTS.
+
+6        ‘‘(a) DEFINITIONS.—In this section:
+ 7            ‘‘(1) ELIGIBLE       PRODUCT.—The   term ‘eligible
+ 8       product’ means a product that—
+ 9                 ‘‘(A) is approved or cleared under this
+10            chapter or licensed under section 351 of the
+11            Public Health Service Act;
+12                 ‘‘(B)(i) is intended for use to prevent, di-
+13            agnose, or treat a disease or condition involving
+14            a biological, chemical, radiological, or nuclear
+15            agent or agents; or
+16                 ‘‘(ii) is intended for use to prevent, diag-
+17            nose, or treat a serious or life-threatening dis-
+18            ease or condition caused by a product described
+19            in clause (i); and
+20                 ‘‘(C) is intended for use during the cir-
+21            cumstances under which—
+22                      ‘‘(i) a determination described in sub-
+23                 paragraph (A), (B), or (C) of section
+24                 564(b)(1) has been made by the Secretary
+
+
+
+
+      •HR 307 EH            59
+1                 of Homeland Security, the Secretary of
+2                 Defense, or the Secretary, respectively; or
+3                       ‘‘(ii) the identification of a material
+4                 threat described in subparagraph (D) of
+5                 section 564(b)(1) has been made pursuant
+6                 to section 319F–2 of the Public Health
+7                 Service Act.
+ 8           ‘‘(2) PRODUCT.—The term ‘product’ means a
+ 9      drug, device, or biological product.
+10      ‘‘(b) EXPIRATION DATING.—
+11           ‘‘(1) IN   GENERAL.—The      Secretary may extend
+12      the expiration date and authorize the introduction or
+13      delivery for introduction into interstate commerce of
+14      an eligible product after the expiration date provided
+15      by the manufacturer if—
+16                ‘‘(A) the expiration date extension is in-
+17           tended to support the United States ability to
+18           protect—
+19                      ‘‘(i) the public health; or
+20                      ‘‘(ii) military preparedness and effec-
+21                tiveness; and
+22                ‘‘(B) the expiration date extension is sup-
+23           ported by an appropriate scientific evaluation
+24           that is conducted or accepted by the Secretary.
+
+
+
+
+     •HR 307 EH            60
+ 1           ‘‘(2) REQUIREMENTS      AND CONDITIONS.—Any
+ 2      extension of an expiration date under paragraph (1)
+ 3      shall, as part of the extension, identify—
+ 4                ‘‘(A) each specific lot, batch, or other unit
+ 5           of the product for which extended expiration is
+ 6           authorized;
+ 7                ‘‘(B) the duration of the extension; and
+ 8                ‘‘(C) any other requirements or conditions
+ 9           as the Secretary may deem appropriate for the
+10           protection of the public health, which may in-
+11           clude requirements for, or conditions on, prod-
+12           uct sampling, storage, packaging or repack-
+13           aging, transport, labeling, notice to product re-
+14           cipients, recordkeeping, periodic testing or re-
+15           testing, or product disposition.
+16           ‘‘(3) EFFECT.—Notwithstanding any other pro-
+17      vision of this Act or the Public Health Service Act,
+18      an eligible product shall not be considered an unap-
+19      proved product (as defined in section 564(a)(2)(A))
+20      and shall not be deemed adulterated or misbranded
+21      under this Act because, with respect to such prod-
+22      uct, the Secretary has, under paragraph (1), ex-
+23      tended the expiration date and authorized the intro-
+24      duction or delivery for introduction into interstate
+
+
+
+
+     •HR 307 EH            61
+ 1      commerce of such product after the expiration date
+ 2      provided by the manufacturer.
+ 3           ‘‘(4) EXPIRATION     DATE.—For   purposes of this
+ 4      subsection, the term ‘expiration date’ means the
+ 5      date established through appropriate stability testing
+ 6      required by the regulations issued by the Secretary
+ 7      to ensure that the product meets applicable stand-
+ 8      ards of identity, strength, quality, and purity at the
+ 9      time of use.
+10      ‘‘(c) CURRENT GOOD MANUFACTURING PRACTICE.—
+11           ‘‘(1) IN   GENERAL.—The    Secretary may, when
+12      the circumstances of a domestic, military, or public
+13      health emergency or material threat described in
+14      subsection (a)(1)(C) so warrant, authorize, with re-
+15      spect to an eligible product, deviations from current
+16      good manufacturing practice requirements otherwise
+17      applicable to the manufacture, processing, packing,
+18      or holding of products subject to regulation under
+19      this Act, including requirements under section 501
+20      or 520(f)(1) or applicable conditions prescribed with
+21      respect to the eligible product by an order under sec-
+22      tion 520(f)(2).
+23           ‘‘(2) EFFECT.—Notwithstanding any other pro-
+24      vision of this Act or the Public Health Service Act,
+25      an eligible product shall not be considered an unap-
+
+
+     •HR 307 EH               62
+ 1       proved product (as defined in section 564(a)(2)(A))
+ 2       and shall not be deemed adulterated or misbranded
+ 3       under this Act because, with respect to such prod-
+ 4       uct, the Secretary has authorized deviations from
+ 5       current good manufacturing practices under para-
+ 6       graph (1).
+ 7       ‘‘(d) EMERGENCY DISPENSING.—The requirements
+ 8 of sections 503(b) and 520(e) shall not apply to an eligible
+ 9 product, and the product shall not be considered an unap-
+10 proved product (as defined in section 564(a)(2)(A)) and
+11 shall not be deemed adulterated or misbranded under this
+12 Act because it is dispensed without an individual prescrip-
+13 tion, if—
+14             ‘‘(1) the product is dispensed during the cir-
+15       cumstances described in subsection (a)(1)(C); and
+16             ‘‘(2) such dispensing without an individual pre-
+17       scription occurs—
+18                   ‘‘(A) as permitted under the law of the
+19             State in which the product is dispensed; or
+20                   ‘‘(B) in accordance with an order issued by
+21             the Secretary, for the purposes and duration of
+22             the    circumstances   described   in   subsection
+23             (a)(1)(C).
+24       ‘‘(e) EMERGENCY USE INSTRUCTIONS.—
+
+
+
+
+      •HR 307 EH             63
+ 1             ‘‘(1) IN   GENERAL.—The       Secretary, acting
+ 2      through an appropriate official within the Depart-
+ 3      ment of Health and Human Services, may create
+ 4      and issue emergency use instructions to inform
+ 5      health care providers or individuals to whom an eli-
+ 6      gible product is to be administered concerning such
+ 7      product’s approved, licensed, or cleared conditions of
+ 8      use.
+ 9             ‘‘(2) EFFECT.—Notwithstanding any other pro-
+10      visions of this Act or the Public Health Service Act,
+11      a product shall not be considered an unapproved
+12      product and shall not be deemed adulterated or mis-
+13      branded under this Act because of the issuance of
+14      emergency use instructions under paragraph (1)
+15      with respect to such product or the introduction or
+16      delivery for introduction of such product into inter-
+17      state commerce accompanied by such instructions—
+18                  ‘‘(A) during an emergency response to an
+19             actual emergency that is the basis for a deter-
+20             mination described in subsection (a)(1)(C)(i); or
+21                  ‘‘(B) by a government entity (including a
+22             Federal, State, local, or tribal government enti-
+23             ty), or a person acting on behalf of such a gov-
+24             ernment entity, in preparation for an emer-
+25             gency response.’’.
+
+
+     •HR 307 EH              64
+ 1       (c) RISK EVALUATION        AND   MITIGATION STRATE-
+ 2   GIES.—Section   505–1 of the Federal Food, Drug, and
+ 3 Cosmetic Act (21 U.S.C. 355–1), is amended—
+ 4             (1) in subsection (f), by striking paragraph (7);
+ 5       and
+ 6             (2) by adding at the end the following:
+ 7       ‘‘(k) WAIVER   IN   PUBLIC HEALTH EMERGENCIES.—
+ 8 The Secretary may waive any requirement of this section
+ 9 with respect to a qualified countermeasure (as defined in
+10 section 319F–1(a)(2) of the Public Health Service Act)
+11 to which a requirement under this section has been ap-
+12 plied, if the Secretary determines that such waiver is re-
+13 quired to mitigate the effects of, or reduce the severity
+14 of, the circumstances under which—
+15             ‘‘(1) a determination described in subparagraph
+16       (A), (B), or (C) of section 564(b)(1) has been made
+17       by the Secretary of Homeland Security, the Sec-
+18       retary of Defense, or the Secretary, respectively; or
+19             ‘‘(2) the identification of a material threat de-
+20       scribed in subparagraph (D) of section 564(b)(1)
+21       has been made pursuant to section 319F–2 of the
+22       Public Health Service Act.’’.
+23       (d) PRODUCTS HELD       FOR   EMERGENCY USE.—The
+24 Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301
+
+
+
+
+      •HR 307 EH             65
+ 1 et seq.) is amended by inserting after section 564A, as
+ 2 added by subsection (b), the following:
+ 3   ‘‘SEC. 564B. PRODUCTS HELD FOR EMERGENCY USE.
+
+ 4        ‘‘It is not a violation of any section of this Act or
+ 5 of the Public Health Service Act for a government entity
+ 6 (including a Federal, State, local, or tribal government en-
+ 7 tity), or a person acting on behalf of such a government
+ 8 entity, to introduce into interstate commerce a product (as
+ 9 defined in section 564(a)(4)) intended for emergency use,
+10 if that product—
+11             ‘‘(1) is intended to be held and not used; and
+12             ‘‘(2) is held and not used, unless and until that
+13        product—
+14                  ‘‘(A) is approved, cleared, or licensed
+15             under section 505, 510(k), or 515 of this Act
+16             or section 351 of the Public Health Service Act;
+17                  ‘‘(B) is authorized for investigational use
+18             under section 505 or 520 of this Act or section
+19             351 of the Public Health Service Act; or
+20                  ‘‘(C) is authorized for use under section
+21             564.’’.
+22   SEC. 303. DEFINITIONS.
+23        Section 565 of the Federal Food, Drug, and Cosmetic
+24 Act (21 U.S.C. 360bbb–4) is amended by striking ‘‘The
+25 Secretary, in consultation’’ and inserting the following:
+
+
+       •HR 307 EH            66
+ 1       ‘‘(a) DEFINITIONS.—In this section—
+ 2            ‘‘(1) the term ‘countermeasure’ means a quali-
+ 3       fied countermeasure, a security countermeasure, and
+ 4       a qualified pandemic or epidemic product;
+ 5            ‘‘(2) the term ‘qualified countermeasure’ has
+ 6       the meaning given such term in section 319F–1 of
+ 7       the Public Health Service Act;
+ 8            ‘‘(3) the term ‘security countermeasure’ has the
+ 9       meaning given such term in section 319F–2 of such
+10       Act; and
+11            ‘‘(4) the term ‘qualified pandemic or epidemic
+12       product’ means a product that meets the definition
+13       given such term in section 319F–3 of the Public
+14       Health Service Act and—
+15                  ‘‘(A) that has been identified by the De-
+16            partment of Health and Human Services or the
+17            Department of Defense as receiving funding di-
+18            rectly related to addressing chemical, biological,
+19            radiological, or nuclear threats, including pan-
+20            demic influenza; or
+21                  ‘‘(B) is included under this paragraph pur-
+22            suant to a determination by the Secretary.
+23       ‘‘(b) GENERAL DUTIES.—The Secretary, in consulta-
+24 tion’’.
+
+
+
+
+      •HR 307 EH             67
+ 1   SEC. 304. ENHANCING MEDICAL COUNTERMEASURE AC-
+ 2                 TIVITIES.
+ 3       Section 565 of the Federal Food, Drug, and Cosmetic
+ 4 Act (21 U.S.C. 360bbb–4), as amended by section 303,
+ 5 is further amended—
+ 6            (1) in the section heading, by striking ‘‘TECH-
+ 7       NICAL ASSISTANCE’’         and inserting ‘‘COUNTER-
+ 8       MEASURE DEVELOPMENT, REVIEW, AND TECH-
+ 9       NICAL ASSISTANCE’’;
+10            (2) in subsection (b), by striking the subsection
+11       enumerator and all that follows through ‘‘shall es-
+12       tablish’’ and inserting the following:
+13       ‘‘(b) GENERAL DUTIES.—In order to accelerate the
+14 development, stockpiling, approval, licensure, and clear-
+15 ance of qualified countermeasures, security counter-
+16 measures, and qualified pandemic or epidemic products,
+17 the Secretary, in consultation with the Assistant Secretary
+18 for Preparedness and Response, shall—
+19            ‘‘(1) ensure the appropriate involvement of
+20       Food and Drug Administration personnel in inter-
+21       agency activities related to countermeasure advanced
+22       research and development, consistent with sections
+23       319F, 319F–1, 319F–2, 319F–3, 319L, and 2811
+24       of the Public Health Service Act;
+25            ‘‘(2) ensure the appropriate involvement and
+26       consultation of Food and Drug Administration per-
+      •HR 307 EH           68
+ 1      sonnel in any flexible manufacturing activities car-
+ 2      ried out under section 319L of the Public Health
+ 3      Service Act, including with respect to meeting regu-
+ 4      latory requirements set forth in this Act;
+ 5           ‘‘(3) promote countermeasure expertise within
+ 6      the Food and Drug Administration by—
+ 7                ‘‘(A) ensuring that Food and Drug Admin-
+ 8           istration personnel involved in reviewing coun-
+ 9           termeasures for approval, licensure, or clear-
+10           ance are informed by the Assistant Secretary
+11           for Preparedness and Response on the material
+12           threat assessment conducted under section
+13           319F–2 of the Public Health Service Act for
+14           the agent or agents for which the counter-
+15           measure under review is intended;
+16                ‘‘(B) training Food and Drug Administra-
+17           tion personnel regarding review of counter-
+18           measures for approval, licensure, or clearance;
+19                ‘‘(C) holding public meetings at least twice
+20           annually to encourage the exchange of scientific
+21           ideas; and
+22                ‘‘(D) establishing protocols to ensure that
+23           countermeasure reviewers have sufficient train-
+24           ing or experience with countermeasures;
+
+
+
+
+     •HR 307 EH            69
+1            ‘‘(4) maintain teams, composed of Food and
+2       Drug Administration personnel with expertise on
+3       countermeasures,     including    specific   counter-
+4       measures, populations with special clinical needs (in-
+5       cluding children and pregnant women that may use
+6       countermeasures, as applicable and appropriate),
+7       classes or groups of countermeasures, or other coun-
+8       termeasure-related technologies and capabilities, that
+9       shall—
+10                ‘‘(A) consult with countermeasure experts,
+11           including countermeasure sponsors and appli-
+12           cants, to identify and help resolve scientific
+13           issues related to the approval, licensure, or
+14           clearance of countermeasures, through work-
+15           shops or public meetings; and
+16                ‘‘(B) improve and advance the science re-
+17           lating to the development of new tools, stand-
+18           ards, and approaches to assessing and evalu-
+19           ating countermeasures—
+20                    ‘‘(i) in order to inform the process for
+21                countermeasure approval, clearance, and li-
+22                censure; and
+23                    ‘‘(ii) with respect to the development
+24                of countermeasures for populations with
+25                special clinical needs, including children
+
+
+     •HR 307 EH                70
+ 1                   and pregnant women, in order to meet the
+ 2                   needs of such populations, as necessary
+ 3                   and appropriate; and
+ 4              ‘‘(5) establish’’; and
+ 5              (3) by adding at the end the following:
+ 6         ‘‘(c) FINAL GUIDANCE       ON   DEVELOPMENT     OF   ANI-
+ 7   MAL   MODELS.—
+ 8              ‘‘(1) IN   GENERAL.—Not     later than 1 year after
+ 9         the date of the enactment of the Pandemic and All-
+10         Hazards Preparedness Reauthorization Act of 2013,
+11         the Secretary shall provide final guidance to indus-
+12         try regarding the development of animal models to
+13         support approval, clearance, or licensure of counter-
+14         measures referred to in subsection (a) when human
+15         efficacy studies are not ethical or feasible.
+16              ‘‘(2) AUTHORITY    TO EXTEND DEADLINE.—The
+17         Secretary may extend the deadline for providing
+18         final guidance under paragraph (1) by not more
+19         than 6 months upon submission by the Secretary of
+20         a report on the status of such guidance to the Com-
+21         mittee on Energy and Commerce of the House of
+22         Representatives and the Committee on Health, Edu-
+23         cation, Labor, and Pensions of the Senate.
+24         ‘‘(d) DEVELOPMENT      AND    ANIMAL MODELING PRO-
+25   CEDURES.—
+
+
+
+      •HR 307 EH                 71
+ 1               ‘‘(1) AVAILABILITY      OF ANIMAL MODEL MEET-
+ 2       INGS.—To      facilitate the timely development of ani-
+ 3       mal models and support the development, stock-
+ 4       piling, licensure, approval, and clearance of counter-
+ 5       measures, the Secretary shall, not later than 180
+ 6       days after the enactment of this subsection, establish
+ 7       a procedure by which a sponsor or applicant that is
+ 8       developing a countermeasure for which human effi-
+ 9       cacy studies are not ethical or practicable, and that
+10       has an approved investigational new drug application
+11       or investigational device exemption, may request and
+12       receive—
+13                   ‘‘(A) a meeting to discuss proposed animal
+14               model development activities; and
+15                   ‘‘(B) a meeting prior to initiating pivotal
+16               animal studies.
+17               ‘‘(2) PEDIATRIC   MODELS.—To      facilitate the de-
+18       velopment and selection of animal models that could
+19       translate to pediatric studies, any meeting conducted
+20       under paragraph (1) shall include discussion of ani-
+21       mal models for pediatric populations, as appropriate.
+22       ‘‘(e)     REVIEW    AND        APPROVAL   OF    COUNTER-
+23   MEASURES.—
+
+24               ‘‘(1) MATERIAL    THREAT.—When       evaluating an
+25       application or submission for approval, licensure, or
+
+
+      •HR 307 EH            72
+ 1       clearance of a countermeasure, the Secretary shall
+ 2       take into account the material threat posed by the
+ 3       chemical, biological, radiological, or nuclear agent or
+ 4       agents identified under section 319F–2 of the Public
+ 5       Health Service Act for which the countermeasure
+ 6       under review is intended.
+ 7            ‘‘(2) REVIEW    EXPERTISE.—When        practicable
+ 8       and appropriate, teams of Food and Drug Adminis-
+ 9       tration personnel reviewing applications or submis-
+10       sions described under paragraph (1) shall include a
+11       reviewer with sufficient training or experience with
+12       countermeasures pursuant to the protocols estab-
+13       lished under subsection (b)(3)(D).’’.
+14   SEC. 305. REGULATORY MANAGEMENT PLANS.
+15       Section 565 of the Federal Food, Drug, and Cosmetic
+16 Act (21 U.S.C. 360bbb–4), as amended by section 304,
+17 is further amended by adding at the end the following:
+18       ‘‘(f) REGULATORY MANAGEMENT PLAN.—
+19            ‘‘(1) DEFINITION.—In this subsection, the term
+20       ‘eligible countermeasure’ means—
+21                 ‘‘(A) a security countermeasure with re-
+22            spect to which the Secretary has entered into a
+23            procurement contract under section 319F–2(c)
+24            of the Public Health Service Act; or
+
+
+
+
+      •HR 307 EH           73
+ 1                ‘‘(B) a countermeasure with respect to
+ 2           which the Biomedical Advanced Research and
+ 3           Development Authority has provided funding
+ 4           under section 319L of the Public Health Serv-
+ 5           ice Act for advanced research and development.
+6            ‘‘(2) REGULATORY      MANAGEMENT PLAN PROC-
+ 7      ESS.—The    Secretary, in consultation with the As-
+ 8      sistant Secretary for Preparedness and Response
+ 9      and the Director of the Biomedical Advanced Re-
+10      search and Development Authority, shall establish a
+11      formal process for obtaining scientific feedback and
+12      interactions regarding the development and regu-
+13      latory review of eligible countermeasures by facili-
+14      tating the development of written regulatory man-
+15      agement plans in accordance with this subsection.
+16           ‘‘(3) SUBMISSION     OF REQUEST AND PROPOSED
+17      PLAN BY SPONSOR OR APPLICANT.—
+18                ‘‘(A) IN   GENERAL.—A    sponsor or appli-
+19           cant of an eligible countermeasure may initiate
+20           the process described under paragraph (2) upon
+21           submission of a written request to the Sec-
+22           retary. Such request shall include a proposed
+23           regulatory management plan.
+24                ‘‘(B) TIMING    OF SUBMISSION.—A   sponsor
+25           or applicant may submit a written request
+
+
+     •HR 307 EH            74
+ 1           under subparagraph (A) after the eligible coun-
+ 2           termeasure has an investigational new drug or
+ 3           investigational device exemption in effect.
+ 4                ‘‘(C)   RESPONSE    BY    SECRETARY.—The
+ 5           Secretary shall direct the Food and Drug Ad-
+ 6           ministration, upon submission of a written re-
+ 7           quest by a sponsor or applicant under subpara-
+ 8           graph (A), to work with the sponsor or appli-
+ 9           cant to agree on a regulatory management plan
+10           within a reasonable time not to exceed 90 days.
+11           If the Secretary determines that no plan can be
+12           agreed upon, the Secretary shall provide to the
+13           sponsor or applicant, in writing, the scientific
+14           or regulatory rationale why such agreement
+15           cannot be reached.
+16           ‘‘(4) PLAN.—The content of a regulatory man-
+17      agement plan agreed to by the Secretary and a spon-
+18      sor or applicant shall include—
+19                ‘‘(A) an agreement between the Secretary
+20           and the sponsor or applicant regarding develop-
+21           mental milestones that will trigger responses by
+22           the Secretary as described in subparagraph (B);
+23                ‘‘(B) performance targets and goals for
+24           timely and appropriate responses by the Sec-
+25           retary to the triggers described under subpara-
+
+
+     •HR 307 EH            75
+1            graph (A), including meetings between the Sec-
+2            retary and the sponsor or applicant, written
+3            feedback, decisions by the Secretary, and other
+4            activities carried out as part of the development
+5            and review process; and
+6                 ‘‘(C) an agreement on how the plan shall
+7            be modified, if needed.
+ 8           ‘‘(5) MILESTONES     AND   PERFORMANCE      TAR-
+ 9      GETS.—The    developmental milestones described in
+10      paragraph (4)(A) and the performance targets and
+11      goals described in paragraph (4)(B) shall include—
+12                ‘‘(A) feedback from the Secretary regard-
+13           ing the data required to support the approval,
+14           clearance, or licensure of the eligible counter-
+15           measure involved;
+16                ‘‘(B) feedback from the Secretary regard-
+17           ing the data necessary to inform any authoriza-
+18           tion under section 564;
+19                ‘‘(C) feedback from the Secretary regard-
+20           ing the data necessary to support the posi-
+21           tioning and delivery of the eligible counter-
+22           measure, including to the Strategic National
+23           Stockpile;
+24                ‘‘(D) feedback from the Secretary regard-
+25           ing the data necessary to support the submis-
+
+
+     •HR 307 EH            76
+1            sion of protocols for review under section
+2            505(b)(5)(B);
+3                 ‘‘(E) feedback from the Secretary regard-
+4            ing any gaps in scientific knowledge that will
+5            need resolution prior to approval, licensure, or
+6            clearance of the eligible countermeasure and
+7            plans for conducting the necessary scientific re-
+8            search;
+9                 ‘‘(F) identification of the population for
+10           which the countermeasure sponsor or applicant
+11           seeks approval, licensure, or clearance and the
+12           population for which desired labeling would not
+13           be appropriate, if known; and
+14                ‘‘(G) as necessary and appropriate, and to
+15           the extent practicable, a plan for demonstrating
+16           safety and effectiveness in pediatric popu-
+17           lations, and for developing pediatric dosing, for-
+18           mulation, and administration with respect to
+19           the eligible countermeasure, provided that such
+20           plan would not delay authorization under sec-
+21           tion 564, approval, licensure, or clearance for
+22           adults.
+23           ‘‘(6) PRIORITIZATION.—
+24                ‘‘(A) PLANS      FOR   SECURITY    COUNTER-
+25           MEASURES.—The        Secretary shall establish reg-
+     •HR 307 EH                 77
+ 1             ulatory management plans for all security coun-
+ 2             termeasures for which a request is submitted
+ 3             under paragraph (3)(A).
+ 4                  ‘‘(B) PLANS    FOR OTHER ELIGIBLE COUN-
+ 5             TERMEASURES.—The          Secretary shall determine
+ 6             whether resources are available to establish reg-
+ 7             ulatory management plans for eligible counter-
+ 8             measures    that    are    not   security   counter-
+ 9             measures. If resources are available to establish
+10             regulatory management plans for eligible coun-
+11             termeasures that are not security counter-
+12             measures, and if resources are not available to
+13             establish regulatory management plans for all
+14             eligible countermeasures for which requests
+15             have been submitted, the Director of the Bio-
+16             medical Advanced Research and Development
+17             Authority, in consultation with the Commis-
+18             sioner, shall prioritize which eligible counter-
+19             measures may receive regulatory management
+20             plans.’’.
+21   SEC. 306. REPORT.
+22        Section 565 of the Federal Food, Drug, and Cosmetic
+23 Act (21 U.S.C. 360bbb–4), as amended by section 305,
+24 is further amended by adding at the end the following:
+
+
+
+
+       •HR 307 EH           78
+ 1       ‘‘(g) ANNUAL REPORT.—Not later than 180 days
+ 2 after the date of enactment of this subsection, and annu-
+ 3 ally thereafter, the Secretary shall make publicly available
+ 4 on the Web site of the Food and Drug Administration a
+ 5 report that details the countermeasure development and
+ 6 review activities of the Food and Drug Administration, in-
+ 7 cluding—
+ 8            ‘‘(1) with respect to the development of new
+ 9       tools, standards, and approaches to assess and
+10       evaluate countermeasures—
+11                 ‘‘(A) the identification of the priorities of
+12            the Food and Drug Administration and the
+13            progress made on such priorities; and
+14                 ‘‘(B) the identification of scientific gaps
+15            that impede the development, approval, licen-
+16            sure, or clearance of countermeasures for popu-
+17            lations with special clinical needs, including
+18            children and pregnant women, and the progress
+19            made on resolving these challenges;
+20            ‘‘(2) with respect to countermeasures for which
+21       a regulatory management plan has been agreed upon
+22       under subsection (f), the extent to which the per-
+23       formance targets and goals set forth in subsection
+24       (f)(4)(B) and the regulatory management plan have
+25       been met, including, for each such countermeasure—
+
+
+      •HR 307 EH             79
+1                 ‘‘(A) whether the regulatory management
+2            plan was completed within the required time-
+3            frame, and the length of time taken to complete
+4            such plan;
+5                 ‘‘(B) whether the Secretary adhered to the
+6            timely and appropriate response times set forth
+7            in such plan; and
+8                 ‘‘(C) explanations for any failure to meet
+9            such performance targets and goals;
+10           ‘‘(3) the number of regulatory teams estab-
+11      lished pursuant to subsection (b)(4), the number of
+12      products, classes of products, or technologies as-
+13      signed to each such team, and the number of, type
+14      of, and any progress made as a result of consulta-
+15      tions carried out under subsection (b)(4)(A);
+16           ‘‘(4) an estimate of resources obligated to coun-
+17      termeasure development and regulatory assessment,
+18      including—
+19                ‘‘(A) Center-specific objectives and accom-
+20           plishments; and
+21                ‘‘(B) the number of full-time equivalent
+22           employees of the Food and Drug Administra-
+23           tion who directly support the review of counter-
+24           measures;
+
+
+
+
+     •HR 307 EH            80
+1            ‘‘(5) the number of countermeasure applications
+2       and submissions submitted, the number of counter-
+3       measures approved, licensed, or cleared, the status
+4       of remaining submitted applications and submis-
+5       sions, and the number of each type of authorization
+6       issued pursuant to section 564;
+7            ‘‘(6) the number of written requests for a regu-
+8       latory management plan submitted under subsection
+9       (f)(3)(A), the number of regulatory management
+10      plans developed, and the number of such plans de-
+11      veloped for security countermeasures; and
+12           ‘‘(7) the number, type, and frequency of meet-
+13      ings between the Food and Drug Administration
+14      and—
+15                ‘‘(A) sponsors of a countermeasure as de-
+16           fined in subsection (a); or
+17                ‘‘(B) another agency engaged in develop-
+18           ment or management of portfolios for such
+19           countermeasures, including the Centers for Dis-
+20           ease Control and Prevention, the Biomedical
+21           Advanced Research and Development Authority,
+22           the National Institutes of Health, and the ap-
+23           propriate agencies of the Department of De-
+24           fense.’’.
+
+
+
+
+     •HR 307 EH               81
+ 1   SEC. 307. PEDIATRIC MEDICAL COUNTERMEASURES.
+
+ 2       (a) PEDIATRIC STUDIES       OF   DRUGS.—Section 505A
+ 3 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C.
+ 4 355a) is amended—
+ 5            (1) in subsection (d), by adding at the end the
+ 6       following:
+ 7            ‘‘(5) CONSULTATION.—With respect to a drug
+ 8       that is a qualified countermeasure (as defined in sec-
+ 9       tion 319F–1 of the Public Health Service Act), a se-
+10       curity countermeasure (as defined in section 319F–
+11       2 of the Public Health Service Act), or a qualified
+12       pandemic or epidemic product (as defined in section
+13       319F–3 of the Public Health Service Act), the Sec-
+14       retary shall solicit input from the Assistant Sec-
+15       retary for Preparedness and Response regarding the
+16       need for and, from the Director of the Biomedical
+17       Advanced Research and Development Authority re-
+18       garding the conduct of, pediatric studies under this
+19       section.’’; and
+20            (2) in subsection (n)(1), by adding at the end
+21       the following:
+22                    ‘‘(C) For a drug that is a qualified coun-
+23            termeasure (as defined in section 319F–1 of the
+24            Public Health Service Act), a security counter-
+25            measure (as defined in section 319F–2 of the
+26            Public Health Service Act), or a qualified pan-
+      •HR 307 EH                 82
+ 1             demic or epidemic product (as defined in sec-
+ 2             tion 319F–3 of such Act), in addition to any
+ 3             action with respect to such drug under subpara-
+ 4             graph (A) or (B), the Secretary shall notify the
+ 5             Assistant Secretary for Preparedness and Re-
+ 6             sponse and the Director of the Biomedical Ad-
+ 7             vanced Research and Development Authority of
+ 8             all pediatric studies in the written request
+ 9             issued by the Commissioner of Food and
+10             Drugs.’’.
+11       (b)   ADDITION       TO    PRIORITY   LIST   CONSIDER-
+12   ATIONS.—Section       409I of the Public Health Service Act
+13 (42 U.S.C. 284m) is amended—
+14             (1) by striking subsection (a)(2) and inserting
+15       the following:
+16             ‘‘(2) CONSIDERATION      OF AVAILABLE INFORMA-
+17       TION.—In    developing and prioritizing the list under
+18       paragraph (1), the Secretary—
+19                  ‘‘(A) shall consider—
+20                         ‘‘(i) therapeutic gaps in pediatrics
+21                  that may include developmental pharma-
+22                  cology, pharmacogenetic determinants of
+23                  drug response, metabolism of drugs and
+24                  biologics in children, and pediatric clinical
+25                  trials;
+
+
+      •HR 307 EH             83
+ 1                       ‘‘(ii) particular pediatric diseases, dis-
+ 2                 orders or conditions where more complete
+ 3                 knowledge and testing of therapeutics, in-
+ 4                 cluding drugs and biologics, may be bene-
+ 5                 ficial in pediatric populations; and
+ 6                       ‘‘(iii) the adequacy of necessary infra-
+ 7                 structure to conduct pediatric pharma-
+ 8                 cological research, including research net-
+ 9                 works and trained pediatric investigators;
+10                 and
+11                 ‘‘(B) may consider the availability of quali-
+12            fied countermeasures (as defined in section
+13            319F–1), security countermeasures (as defined
+14            in section 319F–2), and qualified pandemic or
+15            epidemic products (as defined in section 319F–
+16            3) to address the needs of pediatric populations,
+17            in consultation with the Assistant Secretary for
+18            Preparedness and Response, consistent with the
+19            purposes of this section.’’; and
+20            (2) in subsection (b), by striking ‘‘subsection
+21       (a)’’ and inserting ‘‘paragraphs (1) and (2)(A) of
+22       subsection (a)’’.
+23       (c) ADVICE   AND    RECOMMENDATIONS       OF THE   PEDI-
+24   ATRIC   ADVISORY COMMITTEE REGARDING COUNTER-
+25   MEASURES FOR     PEDIATRIC POPULATIONS.—Subsection
+
+
+      •HR 307 EH               84
+ 1 (b)(2) of section 14 of the Best Pharmaceuticals for Chil-
+ 2 dren Act (42 U.S.C. 284m note) is amended—
+ 3             (1) in subparagraph (C), by striking the period
+ 4        and inserting ‘‘; and’’; and
+ 5             (2) by adding at the end the following:
+ 6                  ‘‘(D) the development of countermeasures
+ 7             (as defined in section 565(a) of the Federal
+ 8             Food, Drug, and Cosmetic Act) for pediatric
+ 9             populations.’’.
+10   TITLE IV—ACCELERATING MED-
+11      ICAL COUNTERMEASURE AD-
+12      VANCED RESEARCH AND DE-
+13      VELOPMENT
+14   SEC. 401. BIOSHIELD.
+
+15        (a) PROCUREMENT        OF   COUNTERMEASURES.—Sec-
+16 tion 319F–2(c) of the Public Health Service Act (42
+17 U.S.C. 247d–6b(c)) is amended—
+18             (1) in paragraph (1)(B)(i)(III)(bb), by striking
+19        ‘‘eight years’’ and inserting ‘‘10 years’’;
+20             (2) in paragraph (2)(C), by striking ‘‘the des-
+21        ignated congressional committees (as defined in
+22        paragraph (10))’’ and inserting ‘‘the appropriate
+23        committees of Congress’’;
+24             (3) in paragraph (5)(B)(ii), by striking ‘‘eight
+25        years’’ and inserting ‘‘10 years’’;
+
+
+       •HR 307 EH           85
+ 1           (4) in subparagraph (C) of paragraph (6)—
+ 2                (A) in the subparagraph heading, by strik-
+ 3           ing ‘‘DESIGNATED       CONGRESSIONAL        COMMIT-
+ 4           TEES’’   and inserting ‘‘APPROPRIATE     CONGRES-
+ 5           SIONAL COMMITTEES’’;      and
+ 6                (B) by striking ‘‘the designated congres-
+ 7           sional committees’’ and inserting ‘‘the appro-
+ 8           priate congressional committees’’; and
+ 9           (5) in paragraph (7)(C)—
+10                (A) in clause (i)(I), by inserting ‘‘including
+11           advanced research and development,’’ after ‘‘as
+12           may reasonably be required,’’;
+13                (B) in clause (ii)—
+14                      (i) in subclause (III), by striking
+15                ‘‘eight years’’ and inserting ‘‘10 years’’;
+16                and
+17                      (ii) by striking subclause (IX) and in-
+18                serting the following:
+19                          ‘‘(IX) CONTRACT      TERMS.—The
+20                      Secretary, in any contract for procure-
+21                      ment under this section—
+22                                 ‘‘(aa) may specify—
+23                                      ‘‘(AA) the dosing and
+24                                 administration requirements
+
+
+
+
+     •HR 307 EH            86
+ 1                                for the countermeasure to be
+ 2                                developed and procured;
+ 3                                      ‘‘(BB) the amount of
+ 4                                funding that will be dedi-
+ 5                                cated by the Secretary for
+ 6                                advanced research, develop-
+ 7                                ment, and procurement of
+ 8                                the countermeasure; and
+ 9                                      ‘‘(CC) the specifications
+10                                the   countermeasure      must
+11                                meet to qualify for procure-
+12                                ment under a contract under
+13                                this section; and
+14                                ‘‘(bb) shall provide a clear
+15                         statement of defined Government
+16                         purpose limited to uses related to
+17                         a security countermeasure, as de-
+18                         fined in paragraph (1)(B).’’; and
+19                (C) by adding at the end the following:
+20                    ‘‘(viii) FLEXIBILITY.—In carrying out
+21                this section, the Secretary may, consistent
+22                with the applicable provisions of this sec-
+23                tion, enter into contracts and other agree-
+24                ments that are in the best interest of the
+25                Government in meeting identified security
+
+
+     •HR 307 EH              87
+ 1                 countermeasure needs, including with re-
+ 2                 spect to reimbursement of the cost of ad-
+ 3                 vanced research and development as a rea-
+ 4                 sonable, allowable, and allocable direct cost
+ 5                 of the contract involved.’’.
+6       (b) REAUTHORIZATION         OF THE   SPECIAL RESERVE
+ 7 FUND.—Section 319F–2 of the Public Health Service Act
+ 8 (42 U.S.C. 247d–6b) is amended—
+ 9           (1) in subsection (c)—
+10                 (A) by striking ‘‘special reserve fund under
+11           paragraph (10)’’ each place it appears and in-
+12           serting ‘‘special reserve fund as defined in sub-
+13           section (h)’’; and
+14                 (B) by striking paragraphs (9) and (10);
+15           and
+16           (2) by adding at the end the following:
+17      ‘‘(g) SPECIAL RESERVE FUND.—
+18           ‘‘(1) AUTHORIZATION      OF APPROPRIATIONS.—In
+19      addition to amounts appropriated to the special re-
+20      serve fund prior to the date of the enactment of this
+21      subsection, there is authorized to be appropriated,
+22      for the procurement of security countermeasures
+23      under subsection (c) and for carrying out section
+24      319L (relating to the Biomedical Advanced Research
+25      and Development Authority), $2,800,000,000 for the
+
+
+     •HR 307 EH            88
+1       period of fiscal years 2014 through 2018. Amounts
+2       appropriated pursuant to the preceding sentence are
+3       authorized to remain available until September 30,
+45      2019.‘‘(2) USE   OF SPECIAL RESERVE FUND FOR AD-
+ 6      VANCED RESEARCH AND DEVELOPMENT.—The            Sec-
+ 7      retary may utilize not more than 50 percent of the
+ 8      amounts authorized to be appropriated under para-
+ 9      graph (1) to carry out section 319L (related to the
+10      Biomedical Advanced Research and Development
+11      Authority). Amounts authorized to be appropriated
+12      under this subsection to carry out section 319L are
+13      in addition to amounts otherwise authorized to be
+14      appropriated to carry out such section.
+15           ‘‘(3) RESTRICTIONS    ON   USE   OF   FUNDS.—
+16      Amounts in the special reserve fund shall not be
+17      used to pay costs other than payments made by the
+18      Secretary to a vendor for advanced development
+19      (under section 319L) or for procurement of a secu-
+20      rity countermeasure under subsection (c)(7).
+21           ‘‘(4) REPORT.—Not later than 30 days after
+22      any date on which the Secretary determines that the
+23      amount of funds in the special reserve fund available
+24      for procurement is less than $1,500,000,000, the
+25      Secretary shall submit to the appropriate committees
+
+
+     •HR 307 EH              89
+ 1       of Congress a report detailing the amount of such
+ 2       funds available for procurement and the impact such
+ 3       reduction in funding will have—
+ 4                  ‘‘(A) in meeting the security counter-
+ 5            measure needs identified under this section; and
+ 6                  ‘‘(B) on the annual Public Health Emer-
+ 7            gency Medical Countermeasures Enterprise and
+ 8            Strategy Implementation Plan (pursuant to sec-
+ 9            tion 2811(d)).
+10       ‘‘(h) DEFINITIONS.—In this section:
+11            ‘‘(1) The term ‘advanced research and develop-
+12       ment’ has the meaning given such term in section
+13       319L(a).
+14            ‘‘(2) The term ‘special reserve fund’ means the
+15       ‘Biodefense Countermeasures’ appropriations ac-
+16       count, any appropriation made available pursuant to
+17       section 521(a) of the Homeland Security Act of
+18       2002, and any appropriation made available pursu-
+19       ant to subsection (g)(1).’’.
+20   SEC. 402. BIOMEDICAL ADVANCED RESEARCH AND DEVEL-
+21                 OPMENT AUTHORITY.
+22       (a) DUTIES.—Section 319L(c)(4) of the Public
+23 Health Service Act (42 U.S.C. 247d–7e(c)(4)) is amend-
+24 ed—
+
+
+
+
+      •HR 307 EH           90
+ 1            (1) in subparagraph (B)(iii), by inserting
+ 2      ‘‘(which may include advanced research and develop-
+ 3      ment for purposes of fulfilling requirements under
+ 4      the Federal Food, Drug, and Cosmetic Act or sec-
+ 5      tion 351 of this Act)’’ after ‘‘development’’; and
+ 6            (2) in subparagraph (D)(iii), by striking ‘‘and
+ 7      vaccine manufacturing technologies’’ and inserting
+ 8      ‘‘vaccine-manufacturing technologies, dose-sparing
+ 9      technologies, efficacy-increasing technologies, and
+10      platform technologies’’.
+11      (b)       TRANSACTION         AUTHORITIES.—Section
+12 319L(c)(5) of the Public Health Service Act (42 U.S.C.
+13 247d–7e(c)(5)) is amended by adding at the end the fol-
+14 lowing:
+15                 ‘‘(G) GOVERNMENT     PURPOSE.—In     award-
+16            ing contracts, grants, and cooperative agree-
+17            ments under this section, the Secretary shall
+18            provide a clear statement of defined Govern-
+19            ment purpose related to activities included in
+20            subsection (a)(6)(B) for a qualified counter-
+21            measure or qualified pandemic or epidemic
+22            product.’’.
+23      (c) FUND.—Paragraph (2) of section 319L(d) of the
+24 Public Health Service Act (42 U.S.C. 247d–7e(d)(2)) is
+25 amended to read as follows:
+
+
+     •HR 307 EH                 91
+ 1            ‘‘(2) FUNDING.—To carry out the purposes of
+ 2       this section, there is authorized to be appropriated
+ 3       to the Fund $415,000,000 for each of fiscal years
+ 4       2013 through 2017, such amounts to remain avail-
+ 5       able until expended.’’.
+ 6       (d) CONTINUED INAPPLICABILITY        OF   CERTAIN PRO-
+ 7   VISIONS.—Section    319L(e)(1)(C) of the Public Health
+ 8 Service Act (42 U.S.C. 247d–7e(e)(1)(C)) is amended by
+ 9 striking ‘‘7 years’’ and inserting ‘‘11 years’’.
+10       (e) EXTENSION      OF     LIMITED ANTITRUST EXEMP-
+11   TION.—
+
+12            (1) IN   GENERAL.—Section     405(b) of the Pan-
+13       demic and All-Hazards Preparedness Act (42 U.S.C.
+14       247d–6a note) is amended by striking ‘‘6-year’’ and
+15       inserting ‘‘11-year’’.
+16            (2) EFFECTIVE        DATE.—This   subsection shall
+17       take effect as if enacted on December 17, 2012.
+18       (f) INDEPENDENT EVALUATION.—Section 319L of
+19 the Public Health Service Act (42 U.S.C. 247d–7e) is
+20 amended by adding at the end the following:
+21       ‘‘(f) INDEPENDENT EVALUATION.—
+22            ‘‘(1) IN   GENERAL.—Not      later than 180 days
+23       after the date of enactment of this subsection, the
+24       Comptroller General of the United States shall con-
+25       duct an independent evaluation of the activities car-
+
+
+      •HR 307 EH            92
+1       ried out to facilitate flexible manufacturing capacity
+2       pursuant to this section.
+ 3           ‘‘(2) REPORT.—Not later than 1 year after the
+ 4      date of enactment of this subsection, the Comp-
+ 5      troller General of the United States shall submit to
+ 6      the appropriate committees of Congress a report
+ 7      concerning the results of the evaluation conducted
+ 8      under paragraph (1). Such report shall review and
+ 9      assess—
+10                ‘‘(A) the extent to which flexible manufac-
+11           turing capacity under this section is dedicated
+12           to chemical, biological, radiological, and nuclear
+13           threats;
+14                ‘‘(B) the activities supported by flexible
+15           manufacturing initiatives; and
+16                ‘‘(C) the ability of flexible manufacturing
+17           activities carried out under this section to—
+18                      ‘‘(i) secure and leverage leading tech-
+19                nical expertise with respect to counter-
+20                measure advanced research, development,
+21                and manufacturing processes; and
+22                      ‘‘(ii) meet the surge manufacturing
+23                capacity needs presented by novel and
+24                emerging threats, including chemical, bio-
+25                logical, radiological, and nuclear agents.’’.
+
+
+     •HR 307 EH                93
+ 1      (g) DEFINITIONS.—
+ 2            (1)   QUALIFIED         COUNTERMEASURE.—Section
+ 3      319F–1(a)(2)(A) of the Public Health Service Act
+ 4      (42 U.S.C. 247d–6a(a)(2)(A)) is amended—
+ 5                  (A) in the matter preceding clause (i), by
+ 6            striking ‘‘to—’’ and inserting ‘‘—’’;
+ 7                  (B) in clause (i)—
+ 8                       (i) by striking ‘‘diagnose’’ and insert-
+ 9                  ing ‘‘to diagnose’’; and
+10                       (ii) by striking ‘‘; or’’ and inserting a
+11                  semicolon;
+12                  (C) in clause (ii)—
+13                       (i) by striking ‘‘diagnose’’ and insert-
+14                  ing ‘‘to diagnose’’; and
+15                       (ii) by striking the period at the end
+16                  and inserting ‘‘; or’’; and
+17                  (D) by adding at the end the following:
+18                       ‘‘(iii) is a product or technology in-
+19                  tended to enhance the use or effect of a
+20                  drug, biological product, or device de-
+21                  scribed in clause (i) or (ii).’’.
+22            (2) QUALIFIED      PANDEMIC OR EPIDEMIC PROD-
+23      UCT.—Section      319F–3(i)(7)(A) of the Public Health
+24      Service Act (42 U.S.C. 247d–6d(i)(7)(A)) is amend-
+25      ed—
+
+
+     •HR 307 EH                94
+ 1                 (A) in clause (i)(II), by striking ‘‘; or’’ and
+ 2            inserting ‘‘;’’;
+ 3                 (B) in clause (ii), by striking ‘‘; and’’ and
+ 4            inserting ‘‘; or’’; and
+ 5                 (C) by adding at the end the following:
+ 6                       ‘‘(iii) a product or technology intended
+ 7                 to enhance the use or effect of a drug, bio-
+ 8                 logical product, or device described in
+ 9                 clause (i) or (ii); and’’.
+10            (3) TECHNICAL      AMENDMENTS.—Section      319F–
+11       3(i) of the Public Health Service Act (42 U.S.C.
+12       247d–6d(i)) is amended—
+13                 (A) in paragraph (1)(C), by inserting ‘‘,
+14            564A, or 564B’’ after ‘‘564’’; and
+15                 (B) in paragraph (7)(B)(iii), by inserting
+16            ‘‘, 564A, or 564B’’ after ‘‘564’’.
+17   SEC. 403. STRATEGIC NATIONAL STOCKPILE.
+18       Section 319F–2 of the Public Health Service Act (42
+19 U.S.C. 247d–6b) is amended—
+20            (1) in subsection (a)—
+21                 (A) in paragraph (1)—
+22                       (i) by inserting ‘‘consistent with sec-
+23                 tion 2811’’ before ‘‘by the Secretary to be
+24                 appropriate’’; and
+
+
+
+
+      •HR 307 EH              95
+ 1                        (ii) by inserting before the period at
+ 2                  the end of the second sentence the fol-
+ 3                  lowing: ‘‘and shall submit such review an-
+ 4                  nually to the appropriate congressional
+ 5                  committees of jurisdiction to the extent
+ 6                  that disclosure of such information does
+ 7                  not compromise national security’’; and
+ 8                  (B) in paragraph (2)(D), by inserting be-
+ 9            fore the semicolon at the end the following:
+10            ‘‘and that the potential depletion of counter-
+11            measures currently in the stockpile is identified
+12            and appropriately addressed, including through
+13            necessary replenishment’’; and
+14            (2)    in     subsection   (f)(1),   by     striking
+15       ‘‘$640,000,000 for fiscal year 2002, and such sums
+16       as may be necessary for each of fiscal years 2003
+17       through 2006. Such authorization is in addition to
+18       amounts in the special reserve fund referred to in
+19       subsection (c)(10)(A).’’ and inserting ‘‘$533,800,000
+20       for each of fiscal years 2013 through 2017. Such
+21       authorization is in addition to amounts in the special
+22       reserve fund referred to in subsection (h).’’.
+23   SEC. 404. NATIONAL BIODEFENSE SCIENCE BOARD.
+24       Section 319M(a) of the Public Health Service Act (42
+25 U.S.C. 247d–f(a)) is amended—
+
+
+      •HR 307 EH             96
+1            (1) in paragraph (2)—
+2                 (A) in subparagraph (D)—
+3                      (i) in clause (i), by striking ‘‘and’’ at
+4                 the end;
+5                      (ii) in clause (ii), by striking the pe-
+6                 riod and inserting a semicolon; and
+7                      (iii) by adding at the end the fol-
+8                 lowing:
+9                      ‘‘(iii) one such member shall be an in-
+10                dividual with pediatric subject matter ex-
+11                pertise; and
+12                     ‘‘(iv) one such member shall be a
+13                State, tribal, territorial, or local public
+14                health official.’’; and
+15                (B) by adding at the end the following
+16           flush sentence:
+17      ‘‘Nothing in this paragraph shall preclude a member
+18      of the Board from satisfying two or more of the re-
+19      quirements described in subparagraph (D).’’; and
+20           (2) in paragraph (5)—
+21                (A) in subparagraph (B), by striking
+22           ‘‘and’’ at the end;
+23                (B) in subparagraph (C), by striking the
+24           period and inserting ‘‘; and’’; and
+25                (C) by adding at the end the following:
+
+
+     •HR 307 EH           97
+1                 ‘‘(D) provide any recommendation, finding,
+2            or report provided to the Secretary under this
+3            paragraph to the appropriate committees of
+4            Congress.’’.
+        Passed the House of Representatives January 22,
+    2013.
+        Attest:
+
+
+
+
+                                                    Clerk.
+
+
+
+
+     •HR 307 EH
+113TH CONGRESS
+   1ST SESSION    H. R. 307
+               AN ACT
+To reauthorize certain programs under the Public
+  Health Service Act and the Federal Food, Drug,
+  and Cosmetic Act with respect to public health
+  security and all-hazards preparedness and re-
+  sponse, and for other purposes.

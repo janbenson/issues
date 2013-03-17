@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="952" updated="2013-03-07T09:46:57-05:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title as="introduced" type="short">Main Street Revival Act</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to allow small businesses to defer the payment of certain employment taxes.</title>
+  </titles>
+  <sponsor id="412514"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-05">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

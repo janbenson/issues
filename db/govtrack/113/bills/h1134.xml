@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="1134" updated="2013-03-14T04:46:27-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="official">To direct the Secretary of Veterans Affairs to carry out a grant program and pilot program designed to improve the delivery of health care to veterans residing in rural areas, and for other purposes.</title>
+  </titles>
+  <sponsor id="412577"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-13">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

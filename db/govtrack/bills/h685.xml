@@ -1,0 +1,45 @@
+<bill session="113" type="h" number="685" updated="2013-03-07T04:45:44-05:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title as="introduced" type="short">American Fighter Aces Congressional Gold Medal Act</title>
+    <title as="introduced" type="official">To award a Congressional Gold Medal to the American Fighter Aces, collectively, in recognition of their heroic military service and defense of our country's freedom throughout the history of aviation warfare.</title>
+  </titles>
+  <sponsor id="400206"/>
+  <cosponsors>
+    <cosponsor id="400165" joined="2013-03-06"/>
+    <cosponsor id="412584" joined="2013-02-14"/>
+    <cosponsor id="400656" joined="2013-03-06"/>
+    <cosponsor id="412302" joined="2013-02-15"/>
+    <cosponsor id="400379" joined="2013-02-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-14">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-14">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2013-02-14">
+      <text>Referred to House Administration</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Aviation and airports"/>
+    <term name="Congressional tributes"/>
+    <term name="Military history"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+    <term name="Smithsonian Institution"/>
+  </subjects>
+  <amendments/>
+</bill>

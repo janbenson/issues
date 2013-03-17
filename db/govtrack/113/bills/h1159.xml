@@ -1,0 +1,28 @@
+<bill session="113" type="h" number="1159" updated="2013-03-15T09:46:22-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="short">Cabin Fee Act of 2013</title>
+    <title as="introduced" type="official">To modify the Forest Service Recreation Residence Program by implementing a simple, equitable, and predictable procedure for determining cabin user fees, and for other purposes.</title>
+  </titles>
+  <sponsor id="400171"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2013-03-14"/>
+    <cosponsor id="412549" joined="2013-03-14"/>
+    <cosponsor id="400376" joined="2013-03-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

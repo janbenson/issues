@@ -1,0 +1,59 @@
+<bill session="113" type="h" number="236" updated="2013-03-08T04:45:54-05:00">
+  <state datetime="2013-01-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-14"/>
+  </status>
+  <introduced datetime="2013-01-14"/>
+  <titles>
+    <title as="introduced" type="short">Crackdown on Deadbeat Gun Dealers Act of 2013</title>
+    <title as="introduced" type="official">To ensure greater accountability by licensed firearms dealers.</title>
+  </titles>
+  <sponsor id="400230"/>
+  <cosponsors>
+    <cosponsor id="400031" joined="2013-01-23"/>
+    <cosponsor id="412571" joined="2013-01-14"/>
+    <cosponsor id="412470" joined="2013-01-14"/>
+    <cosponsor id="400103" joined="2013-01-18"/>
+    <cosponsor id="412215" joined="2013-03-07"/>
+    <cosponsor id="412524" joined="2013-03-05"/>
+    <cosponsor id="400162" joined="2013-01-14"/>
+    <cosponsor id="400663" joined="2013-01-18"/>
+    <cosponsor id="400259" joined="2013-02-04"/>
+    <cosponsor id="400263" joined="2013-01-18"/>
+    <cosponsor id="412560" joined="2013-01-18"/>
+    <cosponsor id="400283" joined="2013-01-18"/>
+    <cosponsor id="400295" joined="2013-01-18"/>
+    <cosponsor id="400326" joined="2013-02-04"/>
+    <cosponsor id="412331" joined="2013-02-14"/>
+    <cosponsor id="400350" joined="2013-01-14"/>
+    <cosponsor id="400378" joined="2013-01-14"/>
+    <cosponsor id="400415" joined="2013-01-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-01-14">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-01-25">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU08" subcommittee="Crime, Terrorism, Homeland Security, And Investigations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Business records"/>
+    <term name="Civil actions and liability"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Department of Justice"/>
+    <term name="Firearms and explosives"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Licensing and registrations"/>
+    <term name="Retail and wholesale trades"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="1017" updated="2013-03-13T04:46:31-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="short">American Land Act</title>
+    <title as="introduced" type="official">To direct the Secretary of the Interior and the Secretary of Agriculture to sell certain Federal land, to direct that the proceeds of such sales be applied to reduce the Federal budget deficit, and for other purposes.</title>
+  </titles>
+  <sponsor id="400652"/>
+  <cosponsors>
+    <cosponsor id="400209" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Agriculture</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

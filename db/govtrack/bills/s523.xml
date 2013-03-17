@@ -1,0 +1,27 @@
+<bill session="113" type="s" number="523" updated="2013-03-13T04:45:38-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="official">A bill to require that the Federal Government procure from the private sector the goods and services necessary for the operations and management of certain Government agencies, and for other purposes.</title>
+  </titles>
+  <sponsor id="400546"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2013-03-12"/>
+    <cosponsor id="400194" joined="2013-03-12"/>
+    <cosponsor id="300083" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

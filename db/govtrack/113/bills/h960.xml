@@ -1,0 +1,36 @@
+<bill session="113" type="h" number="960" updated="2013-03-13T04:46:27-04:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title as="introduced" type="short">Flood Victim Premium Relief Act of 2013</title>
+    <title as="introduced" type="official">To amend the National Flood Insurance Act of 1968 to provide relief from increased flood insurance premium rates for homes in disaster areas.</title>
+  </titles>
+  <sponsor id="412451"/>
+  <cosponsors>
+    <cosponsor id="412221" joined="2013-03-12"/>
+    <cosponsor id="400087" joined="2013-03-12"/>
+    <cosponsor id="400122" joined="2013-03-12"/>
+    <cosponsor id="412561" joined="2013-03-12"/>
+    <cosponsor id="400219" joined="2013-03-05"/>
+    <cosponsor id="400251" joined="2013-03-12"/>
+    <cosponsor id="400257" joined="2013-03-05"/>
+    <cosponsor id="400271" joined="2013-03-05"/>
+    <cosponsor id="412560" joined="2013-03-12"/>
+    <cosponsor id="400289" joined="2013-03-12"/>
+    <cosponsor id="400333" joined="2013-03-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-05">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

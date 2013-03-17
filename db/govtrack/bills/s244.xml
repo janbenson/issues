@@ -1,0 +1,40 @@
+<bill session="113" type="s" number="244" updated="2013-03-02T06:16:12-05:00">
+  <state datetime="2013-02-07">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-07"/>
+  </status>
+  <introduced datetime="2013-02-07"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend the Energy Policy Act of 2005 to modify the Pilot Project offices of the Federal Permit Streamlining Pilot Project.</title>
+  </titles>
+  <sponsor id="412494"/>
+  <cosponsors>
+    <cosponsor id="412554" joined="2013-02-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-07">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="767"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Colorado"/>
+    <term name="Department of the Interior"/>
+    <term name="Land use and conservation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Montana"/>
+    <term name="New Mexico"/>
+    <term name="Oil and gas"/>
+    <term name="Utah"/>
+    <term name="Wyoming"/>
+  </subjects>
+  <amendments/>
+  <summary>2/7/2013--Introduced.
+Amends the Energy Policy Act of 2005 to revise the Federal Permit Streamlining Pilot Project offices to: (1) specify Field Office for each of the Bureau of Land Management (BLM) Offices designated; and (2) replace the Miles City, Montana, field office with the Montana/Dakotas State Office, Montana (Billings).</summary>
+</bill>

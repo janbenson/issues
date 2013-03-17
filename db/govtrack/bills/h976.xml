@@ -1,0 +1,55 @@
+<bill session="113" type="h" number="976" updated="2013-03-13T04:46:28-04:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title as="introduced" type="official">To declare that certain agency actions by the National Labor Relations Board shall have no force or effect until final disposition is made in certain actions relating to the appointment of individuals to such Board that are pending in Federal court, and to prohibit further actions by such Board until such time.</title>
+  </titles>
+  <sponsor id="412402"/>
+  <cosponsors>
+    <cosponsor id="400004" joined="2013-03-05"/>
+    <cosponsor id="412011" joined="2013-03-06"/>
+    <cosponsor id="400071" joined="2013-03-06"/>
+    <cosponsor id="400077" joined="2013-03-05"/>
+    <cosponsor id="400655" joined="2013-03-05"/>
+    <cosponsor id="412508" joined="2013-03-05"/>
+    <cosponsor id="412555" joined="2013-03-05"/>
+    <cosponsor id="412400" joined="2013-03-05"/>
+    <cosponsor id="412526" joined="2013-03-06"/>
+    <cosponsor id="400137" joined="2013-03-06"/>
+    <cosponsor id="412406" joined="2013-03-06"/>
+    <cosponsor id="412388" joined="2013-03-12"/>
+    <cosponsor id="412401" joined="2013-03-05"/>
+    <cosponsor id="412434" joined="2013-03-05"/>
+    <cosponsor id="400209" joined="2013-03-05"/>
+    <cosponsor id="412226" joined="2013-03-06"/>
+    <cosponsor id="400220" joined="2013-03-06"/>
+    <cosponsor id="400221" joined="2013-03-05"/>
+    <cosponsor id="412510" joined="2013-03-06"/>
+    <cosponsor id="412464" joined="2013-03-06"/>
+    <cosponsor id="412445" joined="2013-03-05"/>
+    <cosponsor id="412294" joined="2013-03-06"/>
+    <cosponsor id="400279" joined="2013-03-06"/>
+    <cosponsor id="412568" joined="2013-03-12"/>
+    <cosponsor id="412474" joined="2013-03-05"/>
+    <cosponsor id="400341" joined="2013-03-05"/>
+    <cosponsor id="412426" joined="2013-03-12"/>
+    <cosponsor id="412261" joined="2013-03-05"/>
+    <cosponsor id="412213" joined="2013-03-06"/>
+    <cosponsor id="400627" joined="2013-03-05"/>
+    <cosponsor id="400433" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-05">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

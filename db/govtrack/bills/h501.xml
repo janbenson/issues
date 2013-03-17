@@ -1,0 +1,43 @@
+<bill session="113" type="h" number="501" updated="2013-03-05T04:46:00-05:00">
+  <state datetime="2013-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-05"/>
+  </status>
+  <introduced datetime="2013-02-05"/>
+  <titles>
+    <title as="introduced" type="short">Marijuana Tax Equity Act of 2013</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to provide for the taxation of marijuana, and for other purposes.</title>
+  </titles>
+  <sponsor id="400033"/>
+  <cosponsors>
+    <cosponsor id="412236" joined="2013-02-05"/>
+    <cosponsor id="400170" joined="2013-02-13"/>
+    <cosponsor id="400283" joined="2013-02-13"/>
+    <cosponsor id="412307" joined="2013-03-04"/>
+    <cosponsor id="412308" joined="2013-02-05"/>
+    <cosponsor id="412514" joined="2013-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E98"/>
+    </action>
+    <action state="REFERRED" datetime="2013-02-05">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Civil actions and liability"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Government studies and investigations"/>
+    <term name="Licensing and registrations"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+</bill>

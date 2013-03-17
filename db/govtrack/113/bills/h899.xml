@@ -1,0 +1,48 @@
+<bill session="113" type="h" number="899" updated="2013-03-05T09:46:04-05:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">Unfunded Mandates Information and Transparency Act of 2013</title>
+    <title as="introduced" type="official">To provide for additional safeguards with respect to imposing Federal mandates, and for other purposes.</title>
+  </titles>
+  <sponsor id="400643"/>
+  <cosponsors>
+    <cosponsor id="412464" joined="2013-02-28"/>
+    <cosponsor id="400266" joined="2013-02-28"/>
+    <cosponsor id="400316" joined="2013-02-28"/>
+    <cosponsor id="400356" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on the Budget, Rules, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to House Rules</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-03-04">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H819"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+    <committee code="HSBU" name="House Budget" activity="Referral, In Committee"/>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

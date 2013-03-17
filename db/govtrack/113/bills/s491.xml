@@ -1,0 +1,29 @@
+<bill session="113" type="s" number="491" updated="2013-03-13T12:46:05-04:00">
+  <state datetime="2013-03-07">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-07"/>
+  </status>
+  <introduced datetime="2013-03-07"/>
+  <titles>
+    <title as="introduced" type="short">Brownfields Utilization, Investment, and Local Development Act of 2013</title>
+    <title as="introduced" type="short">BUILD Act</title>
+    <title as="introduced" type="official">A bill to amend the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 to modify provisions relating to grants, and for other purposes.</title>
+  </titles>
+  <sponsor id="300064"/>
+  <cosponsors>
+    <cosponsor id="300030" joined="2013-03-07"/>
+    <cosponsor id="300055" joined="2013-03-07"/>
+    <cosponsor id="400413" joined="2013-03-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-07">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

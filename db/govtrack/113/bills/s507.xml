@@ -1,0 +1,29 @@
+<bill session="113" type="s" number="507" updated="2013-03-13T12:46:08-04:00">
+  <state datetime="2013-03-07">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-07"/>
+  </status>
+  <introduced datetime="2013-03-07"/>
+  <titles>
+    <title as="introduced" type="short">Manhattan Project National Historical Park Act</title>
+    <title as="introduced" type="official">A bill to establish the Manhattan Project National Historical Park in Oak Ridge, Tennessee, Los Alamos, New Mexico, and Hanford, Washington, and for other purposes.</title>
+  </titles>
+  <sponsor id="300018"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2013-03-07"/>
+    <cosponsor id="412281" joined="2013-03-07"/>
+    <cosponsor id="300076" joined="2013-03-07"/>
+    <cosponsor id="400413" joined="2013-03-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-07">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

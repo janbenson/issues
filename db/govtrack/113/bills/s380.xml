@@ -1,0 +1,34 @@
+<bill session="113" type="s" number="380" updated="2013-03-06T04:45:53-05:00">
+  <state datetime="2013-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-26"/>
+  </status>
+  <introduced datetime="2013-02-26"/>
+  <titles>
+    <title as="introduced" type="short">Children's Recovery from Trauma Act</title>
+    <title as="introduced" type="official">A bill to amend the Public Health Service Act to reauthorize and update the National Child Traumatic Stress Initiative for grants to address the problems of individuals who experience trauma and violence related stress.</title>
+  </titles>
+  <sponsor id="300076"/>
+  <cosponsors>
+    <cosponsor id="412378" joined="2013-03-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-26">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical education"/>
+    <term name="Mental health"/>
+  </subjects>
+  <amendments/>
+</bill>

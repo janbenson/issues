@@ -1,0 +1,75 @@
+<bill session="113" type="h" number="1174" updated="2013-03-15T04:47:43-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Federal Reserve Act to improve the functioning and transparency of the Board of Governors of the Federal Reserve System and the Federal Open Market Committee, and for other purposes.</title>
+  </titles>
+  <sponsor id="400046"/>
+  <cosponsors>
+    <cosponsor id="412216" joined="2013-03-14"/>
+    <cosponsor id="412547" joined="2013-03-14"/>
+    <cosponsor id="400032" joined="2013-03-14"/>
+    <cosponsor id="400038" joined="2013-03-14"/>
+    <cosponsor id="412567" joined="2013-03-14"/>
+    <cosponsor id="412252" joined="2013-03-14"/>
+    <cosponsor id="400052" joined="2013-03-14"/>
+    <cosponsor id="400077" joined="2013-03-14"/>
+    <cosponsor id="400655" joined="2013-03-14"/>
+    <cosponsor id="412488" joined="2013-03-14"/>
+    <cosponsor id="412472" joined="2013-03-14"/>
+    <cosponsor id="412480" joined="2013-03-14"/>
+    <cosponsor id="400643" joined="2013-03-14"/>
+    <cosponsor id="400141" joined="2013-03-14"/>
+    <cosponsor id="400651" joined="2013-03-14"/>
+    <cosponsor id="412473" joined="2013-03-14"/>
+    <cosponsor id="400158" joined="2013-03-14"/>
+    <cosponsor id="412437" joined="2013-03-14"/>
+    <cosponsor id="412284" joined="2013-03-14"/>
+    <cosponsor id="412460" joined="2013-03-14"/>
+    <cosponsor id="400206" joined="2013-03-14"/>
+    <cosponsor id="400209" joined="2013-03-14"/>
+    <cosponsor id="412226" joined="2013-03-14"/>
+    <cosponsor id="400221" joined="2013-03-14"/>
+    <cosponsor id="412419" joined="2013-03-14"/>
+    <cosponsor id="412510" joined="2013-03-14"/>
+    <cosponsor id="412191" joined="2013-03-14"/>
+    <cosponsor id="412290" joined="2013-03-14"/>
+    <cosponsor id="412464" joined="2013-03-14"/>
+    <cosponsor id="412445" joined="2013-03-14"/>
+    <cosponsor id="400247" joined="2013-03-14"/>
+    <cosponsor id="412292" joined="2013-03-14"/>
+    <cosponsor id="412294" joined="2013-03-14"/>
+    <cosponsor id="400656" joined="2013-03-14"/>
+    <cosponsor id="412295" joined="2013-03-14"/>
+    <cosponsor id="400279" joined="2013-03-14"/>
+    <cosponsor id="412568" joined="2013-03-14"/>
+    <cosponsor id="412474" joined="2013-03-14"/>
+    <cosponsor id="400441" joined="2013-03-14"/>
+    <cosponsor id="400313" joined="2013-03-14"/>
+    <cosponsor id="400318" joined="2013-03-14"/>
+    <cosponsor id="400320" joined="2013-03-14"/>
+    <cosponsor id="412489" joined="2013-03-14"/>
+    <cosponsor id="412426" joined="2013-03-14"/>
+    <cosponsor id="412261" joined="2013-03-14"/>
+    <cosponsor id="400381" joined="2013-03-14"/>
+    <cosponsor id="412392" joined="2013-03-14"/>
+    <cosponsor id="400404" joined="2013-03-14"/>
+    <cosponsor id="412213" joined="2013-03-14"/>
+    <cosponsor id="412574" joined="2013-03-14"/>
+    <cosponsor id="412416" joined="2013-03-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

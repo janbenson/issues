@@ -1,0 +1,41 @@
+<bill session="113" type="h" number="789" updated="2013-03-09T06:21:12-05:00">
+  <state datetime="2013-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-15"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title as="introduced" type="short">Build America Bonds Act of 2013</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to permanently extend the tax treatment for certain build America bonds, and for other purposes.</title>
+  </titles>
+  <sponsor id="400291"/>
+  <cosponsors>
+    <cosponsor id="400021" joined="2013-02-15"/>
+    <cosponsor id="400033" joined="2013-02-15"/>
+    <cosponsor id="400087" joined="2013-02-15"/>
+    <cosponsor id="400093" joined="2013-02-15"/>
+    <cosponsor id="400218" joined="2013-02-15"/>
+    <cosponsor id="400233" joined="2013-02-15"/>
+    <cosponsor id="400238" joined="2013-02-15"/>
+    <cosponsor id="400240" joined="2013-02-15"/>
+    <cosponsor id="400262" joined="2013-02-15"/>
+    <cosponsor id="400309" joined="2013-02-15"/>
+    <cosponsor id="400333" joined="2013-02-15"/>
+    <cosponsor id="400355" joined="2013-02-15"/>
+    <cosponsor id="400647" joined="2013-02-15"/>
+    <cosponsor id="400403" joined="2013-02-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-15">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="535"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,29 @@
+<bill session="113" type="h" number="1004" updated="2013-03-11T12:45:26-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="short">Sacramento-San Joaquin Delta National Heritage Area Establishment Act</title>
+    <title as="introduced" type="official">To establish the Sacramento-San Joaquin Delta National Heritage Area.</title>
+  </titles>
+  <sponsor id="412382"/>
+  <cosponsors>
+    <cosponsor id="400663" joined="2013-03-06"/>
+    <cosponsor id="412189" joined="2013-03-06"/>
+    <cosponsor id="400278" joined="2013-03-06"/>
+    <cosponsor id="400403" joined="2013-03-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="113" type="s" number="285" updated="2013-03-02T06:16:22-05:00">
+  <state datetime="2013-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-12"/>
+  </status>
+  <introduced datetime="2013-02-12"/>
+  <titles>
+    <title as="introduced" type="short">Valles Caldera National Preserve Management Act</title>
+    <title as="introduced" type="official">A bill to designate the Valles Caldera National Preserve as a unit of the National Park System, and for other purposes.</title>
+  </titles>
+  <sponsor id="400413"/>
+  <cosponsors>
+    <cosponsor id="412281" joined="2013-02-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-12">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Land transfers"/>
+    <term name="New Mexico"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2013--Introduced.
+Valles Caldera National Preserve Management Act - Designates the Valles Caldera National Preserve in New Mexico as a unit of the National Park System in order to protect and preserve the area. Requires the Secretary of the Interior (the Secretary) to: (1) prepare a management plan for the Preserve; (2) establish a new science and education program for the Preserve; (3) undertake activities for improving the health of forest, grassland, and riparian areas within the Preserve; and (4) study the feasibility of establishing a hiking trail along the rim of the Valles Caldera. Authorizes the establishment of a science and education center outside of the Preserve. Ensures the protection of traditional cultural and religious sites in the Preserve. Transfers administrative jurisdiction over the Preserve from the Secretary of Agriculture (USDA) and the Valles Caldera Trust to the Secretary. Modifies the boundaries of Santa Fe National Forest to exclude the Preserve. Terminates the Valles Caldera Trust.</summary>
+</bill>

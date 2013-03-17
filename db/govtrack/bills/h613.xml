@@ -1,0 +1,31 @@
+<bill session="113" type="h" number="613" updated="2013-03-02T06:20:02-05:00">
+  <state datetime="2013-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-12"/>
+  </status>
+  <introduced datetime="2013-02-12"/>
+  <titles>
+    <title as="introduced" type="short">Systemic Risk Mitigation Act</title>
+    <title as="introduced" type="official">To establish a market-based trigger to determine the capital adequacy of bank holding companies and decrease systemic risk, and for other purposes.</title>
+  </titles>
+  <sponsor id="412011"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-12">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Federal Reserve System"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,75 @@
+<bill session="113" type="h" number="807" updated="2013-03-08T04:45:59-05:00">
+  <state datetime="2013-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-25"/>
+  </status>
+  <introduced datetime="2013-02-25"/>
+  <titles>
+    <title as="introduced" type="short">Full Faith and Credit Act</title>
+    <title as="introduced" type="official">To require that the Government prioritize all obligations on the debt held by the public in the event that the debt limit is reached.</title>
+  </titles>
+  <sponsor id="412295"/>
+  <cosponsors>
+    <cosponsor id="412541" joined="2013-03-05"/>
+    <cosponsor id="412547" joined="2013-02-25"/>
+    <cosponsor id="412478" joined="2013-03-05"/>
+    <cosponsor id="400032" joined="2013-02-25"/>
+    <cosponsor id="412395" joined="2013-02-28"/>
+    <cosponsor id="412252" joined="2013-03-05"/>
+    <cosponsor id="412427" joined="2013-02-25"/>
+    <cosponsor id="400071" joined="2013-02-28"/>
+    <cosponsor id="412270" joined="2013-02-25"/>
+    <cosponsor id="400077" joined="2013-02-25"/>
+    <cosponsor id="412531" joined="2013-02-25"/>
+    <cosponsor id="400655" joined="2013-02-28"/>
+    <cosponsor id="412555" joined="2013-03-07"/>
+    <cosponsor id="412488" joined="2013-03-07"/>
+    <cosponsor id="412472" joined="2013-02-25"/>
+    <cosponsor id="412476" joined="2013-02-28"/>
+    <cosponsor id="412480" joined="2013-02-28"/>
+    <cosponsor id="400643" joined="2013-02-25"/>
+    <cosponsor id="400141" joined="2013-02-25"/>
+    <cosponsor id="400145" joined="2013-02-25"/>
+    <cosponsor id="412401" joined="2013-03-05"/>
+    <cosponsor id="400165" joined="2013-02-28"/>
+    <cosponsor id="400175" joined="2013-02-25"/>
+    <cosponsor id="412437" joined="2013-02-25"/>
+    <cosponsor id="412422" joined="2013-03-07"/>
+    <cosponsor id="412226" joined="2013-02-25"/>
+    <cosponsor id="412419" joined="2013-02-25"/>
+    <cosponsor id="412510" joined="2013-02-25"/>
+    <cosponsor id="412445" joined="2013-03-05"/>
+    <cosponsor id="412292" joined="2013-03-07"/>
+    <cosponsor id="412294" joined="2013-02-25"/>
+    <cosponsor id="400279" joined="2013-02-25"/>
+    <cosponsor id="412474" joined="2013-02-25"/>
+    <cosponsor id="412302" joined="2013-03-05"/>
+    <cosponsor id="412551" joined="2013-03-05"/>
+    <cosponsor id="400320" joined="2013-03-05"/>
+    <cosponsor id="412431" joined="2013-02-28"/>
+    <cosponsor id="412309" joined="2013-03-05"/>
+    <cosponsor id="400626" joined="2013-02-25"/>
+    <cosponsor id="412489" joined="2013-02-28"/>
+    <cosponsor id="400343" joined="2013-02-25"/>
+    <cosponsor id="412261" joined="2013-02-25"/>
+    <cosponsor id="412399" joined="2013-02-25"/>
+    <cosponsor id="412392" joined="2013-03-05"/>
+    <cosponsor id="412548" joined="2013-02-28"/>
+    <cosponsor id="412213" joined="2013-02-28"/>
+    <cosponsor id="400627" joined="2013-03-07"/>
+    <cosponsor id="400433" joined="2013-02-28"/>
+    <cosponsor id="412430" joined="2013-03-05"/>
+    <cosponsor id="412428" joined="2013-02-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-25">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

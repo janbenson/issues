@@ -1,0 +1,24 @@
+<bill session="113" type="s" number="498" updated="2013-03-13T12:46:06-04:00">
+  <state datetime="2013-03-07">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-07"/>
+  </status>
+  <introduced datetime="2013-03-07"/>
+  <titles>
+    <title as="introduced" type="short">Zimbabwe Sanctions Repeal Act of 2013</title>
+    <title as="introduced" type="official">A bill to repeal the Zimbabwe Democracy and Economic Recovery Act of 2001.</title>
+  </titles>
+  <sponsor id="300055"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-07">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

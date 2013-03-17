@@ -1,0 +1,316 @@
+Requiring REXML
+                                          issues GET    /issues(.:format)                                                           issues#index
+                                                 POST   /issues(.:format)                                                           issues#create
+                                       new_issue GET    /issues/new(.:format)                                                       issues#new
+                                      edit_issue GET    /issues/:id/edit(.:format)                                                  issues#edit
+                                           issue GET    /issues/:id(.:format)                                                       issues#show
+                                                 PUT    /issues/:id(.:format)                                                       issues#update
+                                                 DELETE /issues/:id(.:format)                                                       issues#destroy
+                                                        /bill/text_summary/:id(.:format)                                            bill#status_text {:subdomain=>"api"}
+                                                        /roll_call/text_summary/:id(.:format)                                       roll_call#summary_text {:subdomain=>"api"}
+                                                        /groups(.:format)                                                           groups#index {:subdomain=>"api", :format=>[:json, :xml]}
+                                                        /groups(/:id(.:format))                                                     groups#show {:subdomain=>"api", :format=>[:json, :xml]}
+                                                        /:action(/:id)(.:format)                                                    api#:action {:subdomain=>"api"}
+                              mailing_list_items GET    /mailing_list_items(.:format)                                               mailing_list_items#index
+                                                 POST   /mailing_list_items(.:format)                                               mailing_list_items#create
+                           new_mailing_list_item GET    /mailing_list_items/new(.:format)                                           mailing_list_items#new
+                          edit_mailing_list_item GET    /mailing_list_items/:id/edit(.:format)                                      mailing_list_items#edit
+                               mailing_list_item GET    /mailing_list_items/:id(.:format)                                           mailing_list_items#show
+                                                 PUT    /mailing_list_items/:id(.:format)                                           mailing_list_items#update
+                                                 DELETE /mailing_list_items/:id(.:format)                                           mailing_list_items#destroy
+                                      watch_dogs GET    /watch_dogs(.:format)                                                       watch_dogs#index
+                                                 POST   /watch_dogs(.:format)                                                       watch_dogs#create
+                                   new_watch_dog GET    /watch_dogs/new(.:format)                                                   watch_dogs#new
+                                  edit_watch_dog GET    /watch_dogs/:id/edit(.:format)                                              watch_dogs#edit
+                                       watch_dog GET    /watch_dogs/:id(.:format)                                                   watch_dogs#show
+                                                 PUT    /watch_dogs/:id(.:format)                                                   watch_dogs#update
+                                                 DELETE /watch_dogs/:id(.:format)                                                   watch_dogs#destroy
+                                 state_districts GET    /states/:state_id/districts(.:format)                                       districts#index
+                                                 POST   /states/:state_id/districts(.:format)                                       districts#create
+                              new_state_district GET    /states/:state_id/districts/new(.:format)                                   districts#new
+                             edit_state_district GET    /states/:state_id/districts/:id/edit(.:format)                              districts#edit
+                                  state_district GET    /states/:state_id/districts/:id(.:format)                                   districts#show
+                                                 PUT    /states/:state_id/districts/:id(.:format)                                   districts#update
+                                                 DELETE /states/:state_id/districts/:id(.:format)                                   districts#destroy
+                                          states GET    /states(.:format)                                                           states#index
+                                                 POST   /states(.:format)                                                           states#create
+                                       new_state GET    /states/new(.:format)                                                       states#new
+                                      edit_state GET    /states/:id/edit(.:format)                                                  states#edit
+                                           state GET    /states/:id(.:format)                                                       states#show
+                                                 PUT    /states/:id(.:format)                                                       states#update
+                                                 DELETE /states/:id(.:format)                                                       states#destroy
+                             group_group_invites GET    /groups/:group_id/group_invites(.:format)                                   group_invites#index
+                                                 POST   /groups/:group_id/group_invites(.:format)                                   group_invites#create
+                          new_group_group_invite GET    /groups/:group_id/group_invites/new(.:format)                               group_invites#new
+                         edit_group_group_invite GET    /groups/:group_id/group_invites/:id/edit(.:format)                          group_invites#edit
+                              group_group_invite GET    /groups/:group_id/group_invites/:id(.:format)                               group_invites#show
+                                                 PUT    /groups/:group_id/group_invites/:id(.:format)                               group_invites#update
+                                                 DELETE /groups/:group_id/group_invites/:id(.:format)                               group_invites#destroy
+                             group_group_members GET    /groups/:group_id/group_members(.:format)                                   group_members#index
+                                                 POST   /groups/:group_id/group_members(.:format)                                   group_members#create
+                          new_group_group_member GET    /groups/:group_id/group_members/new(.:format)                               group_members#new
+                         edit_group_group_member GET    /groups/:group_id/group_members/:id/edit(.:format)                          group_members#edit
+                              group_group_member GET    /groups/:group_id/group_members/:id(.:format)                               group_members#show
+                                                 PUT    /groups/:group_id/group_members/:id(.:format)                               group_members#update
+                                                 DELETE /groups/:group_id/group_members/:id(.:format)                               group_members#destroy
+                      group_group_bill_positions GET    /groups/:group_id/group_bill_positions(.:format)                            group_bill_positions#index
+                                                 POST   /groups/:group_id/group_bill_positions(.:format)                            group_bill_positions#create
+                   new_group_group_bill_position GET    /groups/:group_id/group_bill_positions/new(.:format)                        group_bill_positions#new
+                  edit_group_group_bill_position GET    /groups/:group_id/group_bill_positions/:id/edit(.:format)                   group_bill_positions#edit
+                       group_group_bill_position GET    /groups/:group_id/group_bill_positions/:id(.:format)                        group_bill_positions#show
+                                                 PUT    /groups/:group_id/group_bill_positions/:id(.:format)                        group_bill_positions#update
+                                                 DELETE /groups/:group_id/group_bill_positions/:id(.:format)                        group_bill_positions#destroy
+    feed_group_political_notebook_notebook_items GET    /groups/:group_id/political_notebook/notebook_items/feed(.:format)          notebook_items#feed
+         group_political_notebook_notebook_items GET    /groups/:group_id/political_notebook/notebook_items(.:format)               notebook_items#index
+                                                 POST   /groups/:group_id/political_notebook/notebook_items(.:format)               notebook_items#create
+      new_group_political_notebook_notebook_item GET    /groups/:group_id/political_notebook/notebook_items/new(.:format)           notebook_items#new
+     edit_group_political_notebook_notebook_item GET    /groups/:group_id/political_notebook/notebook_items/:id/edit(.:format)      notebook_items#edit
+          group_political_notebook_notebook_item GET    /groups/:group_id/political_notebook/notebook_items/:id(.:format)           notebook_items#show
+                                                 PUT    /groups/:group_id/political_notebook/notebook_items/:id(.:format)           notebook_items#update
+                                                 DELETE /groups/:group_id/political_notebook/notebook_items/:id(.:format)           notebook_items#destroy
+         group_political_notebook_notebook_links GET    /groups/:group_id/political_notebook/notebook_links(.:format)               notebook_links#index
+                                                 POST   /groups/:group_id/political_notebook/notebook_links(.:format)               notebook_links#create
+      new_group_political_notebook_notebook_link GET    /groups/:group_id/political_notebook/notebook_links/new(.:format)           notebook_links#new
+     edit_group_political_notebook_notebook_link GET    /groups/:group_id/political_notebook/notebook_links/:id/edit(.:format)      notebook_links#edit
+          group_political_notebook_notebook_link GET    /groups/:group_id/political_notebook/notebook_links/:id(.:format)           notebook_links#show
+                                                 PUT    /groups/:group_id/political_notebook/notebook_links/:id(.:format)           notebook_links#update
+                                                 DELETE /groups/:group_id/political_notebook/notebook_links/:id(.:format)           notebook_links#destroy
+        group_political_notebook_notebook_videos GET    /groups/:group_id/political_notebook/notebook_videos(.:format)              notebook_videos#index
+                                                 POST   /groups/:group_id/political_notebook/notebook_videos(.:format)              notebook_videos#create
+     new_group_political_notebook_notebook_video GET    /groups/:group_id/political_notebook/notebook_videos/new(.:format)          notebook_videos#new
+    edit_group_political_notebook_notebook_video GET    /groups/:group_id/political_notebook/notebook_videos/:id/edit(.:format)     notebook_videos#edit
+         group_political_notebook_notebook_video GET    /groups/:group_id/political_notebook/notebook_videos/:id(.:format)          notebook_videos#show
+                                                 PUT    /groups/:group_id/political_notebook/notebook_videos/:id(.:format)          notebook_videos#update
+                                                 DELETE /groups/:group_id/political_notebook/notebook_videos/:id(.:format)          notebook_videos#destroy
+         group_political_notebook_notebook_notes GET    /groups/:group_id/political_notebook/notebook_notes(.:format)               notebook_notes#index
+                                                 POST   /groups/:group_id/political_notebook/notebook_notes(.:format)               notebook_notes#create
+      new_group_political_notebook_notebook_note GET    /groups/:group_id/political_notebook/notebook_notes/new(.:format)           notebook_notes#new
+     edit_group_political_notebook_notebook_note GET    /groups/:group_id/political_notebook/notebook_notes/:id/edit(.:format)      notebook_notes#edit
+          group_political_notebook_notebook_note GET    /groups/:group_id/political_notebook/notebook_notes/:id(.:format)           notebook_notes#show
+                                                 PUT    /groups/:group_id/political_notebook/notebook_notes/:id(.:format)           notebook_notes#update
+                                                 DELETE /groups/:group_id/political_notebook/notebook_notes/:id(.:format)           notebook_notes#destroy
+         group_political_notebook_notebook_files GET    /groups/:group_id/political_notebook/notebook_files(.:format)               notebook_files#index
+                                                 POST   /groups/:group_id/political_notebook/notebook_files(.:format)               notebook_files#create
+      new_group_political_notebook_notebook_file GET    /groups/:group_id/political_notebook/notebook_files/new(.:format)           notebook_files#new
+     edit_group_political_notebook_notebook_file GET    /groups/:group_id/political_notebook/notebook_files/:id/edit(.:format)      notebook_files#edit
+          group_political_notebook_notebook_file GET    /groups/:group_id/political_notebook/notebook_files/:id(.:format)           notebook_files#show
+                                                 PUT    /groups/:group_id/political_notebook/notebook_files/:id(.:format)           notebook_files#update
+                                                 DELETE /groups/:group_id/political_notebook/notebook_files/:id(.:format)           notebook_files#destroy
+                        group_political_notebook POST   /groups/:group_id/political_notebook(.:format)                              political_notebooks#create
+                    new_group_political_notebook GET    /groups/:group_id/political_notebook/new(.:format)                          political_notebooks#new
+                   edit_group_political_notebook GET    /groups/:group_id/political_notebook/edit(.:format)                         political_notebooks#edit
+                                                 GET    /groups/:group_id/political_notebook(.:format)                              political_notebooks#show
+                                                 PUT    /groups/:group_id/political_notebook(.:format)                              political_notebooks#update
+                                                 DELETE /groups/:group_id/political_notebook(.:format)                              political_notebooks#destroy
+                                          groups GET    /groups(.:format)                                                           groups#index
+                                                 POST   /groups(.:format)                                                           groups#create
+                                       new_group GET    /groups/new(.:format)                                                       groups#new
+                                      edit_group GET    /groups/:id/edit(.:format)                                                  groups#edit
+                                           group GET    /groups/:id(.:format)                                                       groups#show
+                                                 PUT    /groups/:id(.:format)                                                       groups#update
+                                                 DELETE /groups/:id(.:format)                                                       groups#destroy
+                                  simple_captcha GET    /simple_captcha/:id(.:format)                                               simple_captcha#show
+                                    issues_index GET    /issues/index(.:format)                                                     issues#index
+                                            home        /                                                                           issues#index
+                             users_tracking_bill        /bill/:id/users_tracking(.:format)                                          friends#tracking_bill
+                    users_tracking_bill_by_state        /bill/:id/users_tracking/:state(.:format)                                   friends#tracking_bill {:state=>/\w{2}/}
+                                        bill_all        /bill/all(.:format)                                                         bill#all
+                                    bill_pending        /bill/pending(.:format)                                                     bill#pending
+                                    bill_popular        /bill/popular(.:format)                                                     bill#popular
+                                      bill_major        /bill/major(.:format)                                                       bill#major
+                                        bill_hot        /bill/hot(.:format)                                                         bill#hot
+                                bill_readthebill        /bill/readthebill(.:format)                                                 bill#readthebill
+                                    bill_compare        /bill/compare(.:format)                                                     bill#compare
+                          bill_compare_by_issues        /bill/compare_by_issues(.:format)                                           bill#compare_by_issues
+                                 bill_atom_top20        /bill/atom_top20(.:format)                                                  bill#atom_top20
+                            bill_most_commentary        /bill/most/:type(.:format)                                                  bill#most_commentary
+                                     most_viewed        /bill/most/viewed(.:format)                                                 bill#popular
+                                atom_most_viewed        /bill/atom/most/viewed(.:format)                                            bill#atom_top20
+                                                        /bill/atom/most/:type(.:format)                                             bill#atom_top_commentary
+                                                        /bill/type/:bill_type(/:page)(.:format)                                     bill#list_bill_type
+                                                        /bill/text/status/:id(.:format)                                             bill#status_text
+                                                        /bill/upcoming/:id(.:format)                                                bill#upcoming
+                                                        /bill/bill_vote/:bill/:id(.:format)                                         bill#bill_vote
+                                      blogs_bill        /bill/:id/blogs(/:page)(.:format)                                           bill#blogs
+                                                        /bill/:id/blogs/search(/:page)(.:format)                                    bill#commentary_search {:commentary_type=>"blog"}
+                                       news_bill        /bill/:id/news(/:page)(.:format)                                            bill#news
+                                                        /bill/:id/news/search(/:page)(.:format)                                     bill#commentary_search {:commentary_type=>"news"}
+                                       bill_text        /bill/:id/text(.:format)                                                    bill#text
+                                   bill_comments        /bill/:id/comments(.:format)                                                bill#comments
+                                            bill        /bill/:id/show(.:format)                                                    bill#show
+                                                        /bill/:id/:action(.:format)                                                 bill#:action
+                                                        /bill/:id(.:format)                                                         bill#show
+                                                        /bill(.:format)                                                             :controller#bill
+                                        senators        /people/senators(.:format)                                                  people#people_list {:person_type=>"senators"}
+                                 representatives        /people/representatives(.:format)                                           people#people_list {:person_type=>"representatives"}
+                                                        /people/:person_type/most/:type(.:format)                                   people#most_commentary
+                                                        /people/:person_type/atom/most/:type(.:format)                              people#atom_top_commentary
+                                   atom_featured        /people/atom/featured(.:format)                                             people#atom_featured
+                                                        /people/wiki/:id(.:format)                                                  people#wiki
+                                                        /people/comments/:id(.:format)                                              people#comments
+                                     news_person        /people/news/:id(/:page)(.:format)                                          people#news
+                                    blogs_person        /people/blogs/:id(/:page)(.:format)                                         people#blogs
+                                                        /people/votes_with_party/:chamber/:party(.:format)                          people#votes_with_party
+                                                        /people/voting_history/:id/:page(.:format)                                  people#voting_history
+                                                        /people/compare.:format                                                     people#compare
+                                          person        /people/show/:id(.:format)                                                  people#show
+                                                        /person/*path(.:format)                                                     :controller#:action
+                                admin_wiki_links GET    /admin/wiki_links(.:format)                                                 admin/wiki_links#index
+                                                 POST   /admin/wiki_links(.:format)                                                 admin/wiki_links#create
+                             new_admin_wiki_link GET    /admin/wiki_links/new(.:format)                                             admin/wiki_links#new
+                            edit_admin_wiki_link GET    /admin/wiki_links/:id/edit(.:format)                                        admin/wiki_links#edit
+                                 admin_wiki_link GET    /admin/wiki_links/:id(.:format)                                             admin/wiki_links#show
+                                                 PUT    /admin/wiki_links/:id(.:format)                                             admin/wiki_links#update
+                                                 DELETE /admin/wiki_links/:id(.:format)                                             admin/wiki_links#destroy
+                     admin_pvs_category_mappings GET    /admin/pvs_category_mappings(.:format)                                      admin/pvs_category_mappings#index
+                                                 POST   /admin/pvs_category_mappings(.:format)                                      admin/pvs_category_mappings#create
+                  new_admin_pvs_category_mapping GET    /admin/pvs_category_mappings/new(.:format)                                  admin/pvs_category_mappings#new
+                 edit_admin_pvs_category_mapping GET    /admin/pvs_category_mappings/:id/edit(.:format)                             admin/pvs_category_mappings#edit
+                      admin_pvs_category_mapping GET    /admin/pvs_category_mappings/:id(.:format)                                  admin/pvs_category_mappings#show
+                                                 PUT    /admin/pvs_category_mappings/:id(.:format)                                  admin/pvs_category_mappings#update
+                                                 DELETE /admin/pvs_category_mappings/:id(.:format)                                  admin/pvs_category_mappings#destroy
+                            admin_talking_points GET    /admin/talking_points(.:format)                                             admin/talking_points#index
+                                                 POST   /admin/talking_points(.:format)                                             admin/talking_points#create
+                         new_admin_talking_point GET    /admin/talking_points/new(.:format)                                         admin/talking_points#new
+                        edit_admin_talking_point GET    /admin/talking_points/:id/edit(.:format)                                    admin/talking_points#edit
+                             admin_talking_point GET    /admin/talking_points/:id(.:format)                                         admin/talking_points#show
+                                                 PUT    /admin/talking_points/:id(.:format)                                         admin/talking_points#update
+                                                 DELETE /admin/talking_points/:id(.:format)                                         admin/talking_points#destroy
+                             list_admin_articles GET    /admin/articles/list(.:format)                                              admin/articles#list
+                    edit_blogroll_admin_articles GET    /admin/articles/edit_blogroll(.:format)                                     admin/articles#edit_blogroll
+                    admin_article_article_images GET    /admin/articles/:article_id/article_images(.:format)                        admin/article_images#index
+                                                 POST   /admin/articles/:article_id/article_images(.:format)                        admin/article_images#create
+                 new_admin_article_article_image GET    /admin/articles/:article_id/article_images/new(.:format)                    admin/article_images#new
+                edit_admin_article_article_image GET    /admin/articles/:article_id/article_images/:id/edit(.:format)               admin/article_images#edit
+                     admin_article_article_image GET    /admin/articles/:article_id/article_images/:id(.:format)                    admin/article_images#show
+                                                 PUT    /admin/articles/:article_id/article_images/:id(.:format)                    admin/article_images#update
+                                                 DELETE /admin/articles/:article_id/article_images/:id(.:format)                    admin/article_images#destroy
+                                  admin_articles GET    /admin/articles(.:format)                                                   admin/articles#index
+                                                 POST   /admin/articles(.:format)                                                   admin/articles#create
+                               new_admin_article GET    /admin/articles/new(.:format)                                               admin/articles#new
+                              edit_admin_article GET    /admin/articles/:id/edit(.:format)                                          admin/articles#edit
+                                   admin_article GET    /admin/articles/:id(.:format)                                               admin/articles#show
+                                                 PUT    /admin/articles/:id(.:format)                                               admin/articles#update
+                                                 DELETE /admin/articles/:id(.:format)                                               admin/articles#destroy
+                                     admin_admin        /admin(.:format)                                                            admin/issues#index
+                                           admin        /admin/stats/bills.:format                                                  admin/stats#bills
+                                                        /admin/stats/partner_email.:format                                          admin/stats#partner_email
+                          admin_contact_congress        /admin/contact_congress(.:format)                                           admin/contact_congress#index
+                  admin_contact_congress_letters        /admin/contact_congress/letters(.:format)                                   admin/contact_congress#letters
+                                                        /:controller(/:action(/:id))(.:format)                                      (?-mix:admin\/[^\/]+)#:action
+                                   battle_royale        /battle_royale(.:format)                                                    battle_royale#index
+                                                        /battle_royale/:action(.:format)                                            battle_royale#:action
+                                           blogs        /blog(/:tag)(.:format)                                                      articles#list
+                                         article        /articles/view/:id(.:format)                                                articles#view
+                                                        /articles/:id/atom(.:format)                                                articles#article_atom
+                                                        /issues(.:format)                                                           issue#index
+                                           issue        /issues/show/:id(.:format)                                                  issue#show
+                                                        /issues/:action/:id(.:format)                                               issue#:action
+create_from_formageddon_contact_congress_letters GET    /contact_congress_letters/create_from_formageddon(.:format)                 contact_congress_letters#create_from_formageddon
+         get_recipients_contact_congress_letters GET    /contact_congress_letters/get_recipients(.:format)                          contact_congress_letters#get_recipients
+           delayed_send_contact_congress_letters GET    /contact_congress_letters/delayed_send(.:format)                            contact_congress_letters#delayed_send
+            get_replies_contact_congress_letters GET    /contact_congress_letters/get_replies(.:format)                             contact_congress_letters#get_replies
+                        contact_congress_letters GET    /contact_congress_letters(.:format)                                         contact_congress_letters#index
+                     new_contact_congress_letter GET    /contact_congress_letters/new(.:format)                                     contact_congress_letters#new
+                         contact_congress_letter GET    /contact_congress_letters/:id(.:format)                                     contact_congress_letters#show
+                                                 PUT    /contact_congress_letters/:id(.:format)                                     contact_congress_letters#update
+                                        howtouse        /howtouse(.:format)                                                         about#howtouse
+                                           login        /login(.:format)                                                            account#login
+                                             why        /why(.:format)                                                              account#why
+                                          logout        /logout(.:format)                                                           account#logout
+                                          signup        /signup(.:format)                                                           account#signup
+                                         welcome        /welcome(.:format)                                                          account#welcome
+                                contact_congress        /contact_congress(.:format)                                                 account#contact_congress
+                                        register        /register(.:format)                                                         account#signup
+                                                        /account/confirm/:login(.:format)                                           account#confirm
+                                                        /comments/all_comments/:object/:id(.:format)                                comments#all_comments
+                                                        /comments/atom/:object/:id(.:format)                                        comments#atom_comments
+                                    user_profile        /users/:login/profile(.:format)                                             profile#show
+               update_privacy_political_notebook POST   /users/:login/profile/political_notebook/update_privacy(.:format)           political_notebooks#update_privacy
+                         feed_political_notebook GET    /users/:login/profile/political_notebook/feed(.:format)                     political_notebooks#feed
+      faceform_political_notebook_notebook_links GET    /users/:login/profile/political_notebook/notebook_links/faceform(.:format)  notebook_links#faceform
+               political_notebook_notebook_links GET    /users/:login/profile/political_notebook/notebook_links(.:format)           notebook_links#index
+                                                 POST   /users/:login/profile/political_notebook/notebook_links(.:format)           notebook_links#create
+            new_political_notebook_notebook_link GET    /users/:login/profile/political_notebook/notebook_links/new(.:format)       notebook_links#new
+           edit_political_notebook_notebook_link GET    /users/:login/profile/political_notebook/notebook_links/:id/edit(.:format)  notebook_links#edit
+                political_notebook_notebook_link GET    /users/:login/profile/political_notebook/notebook_links/:id(.:format)       notebook_links#show
+                                                 PUT    /users/:login/profile/political_notebook/notebook_links/:id(.:format)       notebook_links#update
+                                                 DELETE /users/:login/profile/political_notebook/notebook_links/:id(.:format)       notebook_links#destroy
+              political_notebook_notebook_videos GET    /users/:login/profile/political_notebook/notebook_videos(.:format)          notebook_videos#index
+                                                 POST   /users/:login/profile/political_notebook/notebook_videos(.:format)          notebook_videos#create
+           new_political_notebook_notebook_video GET    /users/:login/profile/political_notebook/notebook_videos/new(.:format)      notebook_videos#new
+          edit_political_notebook_notebook_video GET    /users/:login/profile/political_notebook/notebook_videos/:id/edit(.:format) notebook_videos#edit
+               political_notebook_notebook_video GET    /users/:login/profile/political_notebook/notebook_videos/:id(.:format)      notebook_videos#show
+                                                 PUT    /users/:login/profile/political_notebook/notebook_videos/:id(.:format)      notebook_videos#update
+                                                 DELETE /users/:login/profile/political_notebook/notebook_videos/:id(.:format)      notebook_videos#destroy
+               political_notebook_notebook_notes GET    /users/:login/profile/political_notebook/notebook_notes(.:format)           notebook_notes#index
+                                                 POST   /users/:login/profile/political_notebook/notebook_notes(.:format)           notebook_notes#create
+            new_political_notebook_notebook_note GET    /users/:login/profile/political_notebook/notebook_notes/new(.:format)       notebook_notes#new
+           edit_political_notebook_notebook_note GET    /users/:login/profile/political_notebook/notebook_notes/:id/edit(.:format)  notebook_notes#edit
+                political_notebook_notebook_note GET    /users/:login/profile/political_notebook/notebook_notes/:id(.:format)       notebook_notes#show
+                                                 PUT    /users/:login/profile/political_notebook/notebook_notes/:id(.:format)       notebook_notes#update
+                                                 DELETE /users/:login/profile/political_notebook/notebook_notes/:id(.:format)       notebook_notes#destroy
+               political_notebook_notebook_files GET    /users/:login/profile/political_notebook/notebook_files(.:format)           notebook_files#index
+                                                 POST   /users/:login/profile/political_notebook/notebook_files(.:format)           notebook_files#create
+            new_political_notebook_notebook_file GET    /users/:login/profile/political_notebook/notebook_files/new(.:format)       notebook_files#new
+           edit_political_notebook_notebook_file GET    /users/:login/profile/political_notebook/notebook_files/:id/edit(.:format)  notebook_files#edit
+                political_notebook_notebook_file GET    /users/:login/profile/political_notebook/notebook_files/:id(.:format)       notebook_files#show
+                                                 PUT    /users/:login/profile/political_notebook/notebook_files/:id(.:format)       notebook_files#update
+                                                 DELETE /users/:login/profile/political_notebook/notebook_files/:id(.:format)       notebook_files#destroy
+                              political_notebook POST   /users/:login/profile/political_notebook(.:format)                          political_notebooks#create
+                          new_political_notebook GET    /users/:login/profile/political_notebook/new(.:format)                      political_notebooks#new
+                         edit_political_notebook GET    /users/:login/profile/political_notebook/edit(.:format)                     political_notebooks#edit
+                                                 GET    /users/:login/profile/political_notebook(.:format)                          political_notebooks#show
+                                                 PUT    /users/:login/profile/political_notebook(.:format)                          political_notebooks#update
+                                                 DELETE /users/:login/profile/political_notebook(.:format)                          political_notebooks#destroy
+                         friends_import_contacts        /users/:login/profile/friends/import_contacts(.:format)                     friends#import_contacts
+                             friends_like_voters        /users/:login/profile/friends/like_voters(.:format)                         friends#like_voters
+                         friends_invite_contacts        /users/:login/profile/friends/invite_contacts(.:format)                     friends#invite_contacts
+                                 friends_near_me        /users/:login/profile/friends/near_me(.:format)                             friends#near_me
+                                  friends_invite        /users/:login/profile/friends/invite(.:format)                              friends#invite
+                             friends_invite_form        /users/:login/profile/friends/invite_form(.:format)                         friends#invite_form
+                             friends_add_confirm        /users/:login/profile/friends/confirm/:id(.:format)                         friends#confirm
+                                friends_add_deny        /users/:login/profile/friends/deny/:id(.:format)                            friends#deny
+                                         friends GET    /users/:login/profile/friends(.:format)                                     friends#index
+                                                 POST   /users/:login/profile/friends(.:format)                                     friends#create
+                                      new_friend GET    /users/:login/profile/friends/new(.:format)                                 friends#new
+                                     edit_friend GET    /users/:login/profile/friends/:id/edit(.:format)                            friends#edit
+                                          friend GET    /users/:login/profile/friends/:id(.:format)                                 friends#show
+                                                 PUT    /users/:login/profile/friends/:id(.:format)                                 friends#update
+                                                 DELETE /users/:login/profile/friends/:id(.:format)                                 friends#destroy
+                                    user_actions        /users/:login/profile/actions(.:format)                                     profile#actions
+                              user_items_tracked        /users/:login/profile/items_tracked(.:format)                               profile#items_tracked
+                                   user_watchdog        /users/:login/profile/watchdog(.:format)                                    profile#watchdog
+                               user_edit_profile        /users/:login/profile/edit_profile(.:format)                                profile#edit_profile
+                            user_bills_supported        /users/:login/profile/bills_supported(.:format)                             profile#bills_supported
+                                user_tracked_rss        /users/:login/profile/tracked_rss(.:format)                                 profile#tracked_rss
+                           user_user_actions_rss        /users/:login/profile/user_actions_rss(.:format)                            profile#user_actions_rss
+                              user_bills_opposed        /users/:login/profile/bills_opposed(.:format)                               profile#bills_opposed
+                                   user_my_votes        /users/:login/profile/my_votes(.:format)                                    profile#my_votes
+                                      user_bills        /users/:login/profile/bills(.:format)                                       profile#bills
+                                   user_comments        /users/:login/profile/comments(.:format)                                    profile#comments
+                                     user_issues        /users/:login/profile/issues(.:format)                                      profile#issues
+                                 user_committees        /users/:login/profile/committees(.:format)                                  profile#committees
+                                     user_groups        /users/:login/profile/groups(.:format)                                      profile#groups
+                                                        /users/:login/profile/:person_type(.:format)                                profile#person
+                                                        /users/:login/feeds/:action(/:key)(.:format)                                user_feeds#:action
+                                       video_rss        /video/rss(.:format)                                                        video#all {:format=>"atom"}
+                                                        /roll_call/text/summary/:id(.:format)                                       roll_call#summary_text
+                                                        /vote/:year/:chamber/:number(/:state)(.:format)                             roll_call#by_number {:year=>/\d{4}/, :chamber=>/[hs]/, :number=>/\d+/, :state=>/\w{2}/}
+                                           tools        /tools(/:action(/:id))(.:format)                                            resources#:action
+                                         widgets        /widgets(.:format)                                                          widgets#index
+                              deprecated_widgets        /widgets/deprecated(.:format)                                               widgets#deprecated
+                                     bill_widget        /widgets/bill(.:format)                                                     widgets#bill
+                                    bills_widget        /widgets/bills(.:format)                                                    widgets#bills
+                                   people_widget        /widgets/people(.:format)                                                   widgets#people
+                                    group_widget        /widgets/group(.:format)                                                    widgets#group
+                                             api        /api(.:format)                                                              api#index
+                                                        /api/bill/text_summary/:id(.:format)                                        bill#status_text
+                                                        /api/roll_call/text_summary/:id(.:format)                                   roll_call#summary_text
+                                                        /api(/:action(/:id)(.:format))                                              api#:action
+                                                        /baucus_bill_health_care.html(.:format)                                     index#s1796_redirect
+                 presidents_health_care_proposal        /presidents_health_care_proposal(.:format)                                  index#presidents_health_care_proposal
+                         senate_health_care_bill        /senate_health_care_bill(.:format)                                          bill#text {:id=>"111-h3590", :version=>"ocas"}
+                            house_reconciliation        /house_reconciliation(.:format)                                             index#house_reconciliation
+                                            pipa        /pipa(.:format)                                                             index#pipa
+                                                        /:controller(/:action(/:id))(.:format)                                      :controller#:action

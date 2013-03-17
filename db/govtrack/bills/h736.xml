@@ -1,0 +1,43 @@
+<bill session="113" type="h" number="736" updated="2013-03-14T04:46:05-04:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title as="introduced" type="short">Responsible Homeowner Refinancing Act of 2013</title>
+    <title as="introduced" type="official">To provide for the expansion of affordable refinancing of mortgages held by the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation.</title>
+  </titles>
+  <sponsor id="412239"/>
+  <cosponsors>
+    <cosponsor id="412501" joined="2013-02-14"/>
+    <cosponsor id="400063" joined="2013-02-26"/>
+    <cosponsor id="412470" joined="2013-02-14"/>
+    <cosponsor id="400618" joined="2013-02-14"/>
+    <cosponsor id="400097" joined="2013-02-14"/>
+    <cosponsor id="412215" joined="2013-02-14"/>
+    <cosponsor id="412527" joined="2013-03-13"/>
+    <cosponsor id="400360" joined="2013-02-14"/>
+    <cosponsor id="412186" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-14">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="249"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Government corporations and government-sponsored enterprises"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Housing supply and affordability"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,51 @@
+<bill session="113" type="h" number="870" updated="2013-03-04T15:45:34-05:00">
+  <state datetime="2013-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-27"/>
+  </status>
+  <introduced datetime="2013-02-27"/>
+  <titles>
+    <title as="introduced" type="short">Humphrey-Hawkins 21st Century Full Employment and Training Act of 2013</title>
+    <title as="introduced" type="official">To establish the National Full Employment Trust Fund to create employment opportunities for the unemployed.</title>
+  </titles>
+  <sponsor id="400080"/>
+  <cosponsors>
+    <cosponsor id="400048" joined="2013-02-27"/>
+    <cosponsor id="412379" joined="2013-02-27"/>
+    <cosponsor id="400074" joined="2013-02-27"/>
+    <cosponsor id="412236" joined="2013-02-27"/>
+    <cosponsor id="400090" joined="2013-02-27"/>
+    <cosponsor id="400093" joined="2013-02-27"/>
+    <cosponsor id="412263" joined="2013-02-27"/>
+    <cosponsor id="412215" joined="2013-02-27"/>
+    <cosponsor id="412327" joined="2013-02-27"/>
+    <cosponsor id="400162" joined="2013-02-27"/>
+    <cosponsor id="400170" joined="2013-02-27"/>
+    <cosponsor id="400184" joined="2013-02-27"/>
+    <cosponsor id="400204" joined="2013-02-27"/>
+    <cosponsor id="400237" joined="2013-02-27"/>
+    <cosponsor id="400262" joined="2013-02-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-27">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E206-207"/>
+    </action>
+    <action state="REFERRED" datetime="2013-02-27">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-27">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2013-02-27">
+      <text>Referred to House Ways and Means</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

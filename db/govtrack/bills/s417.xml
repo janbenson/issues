@@ -1,0 +1,31 @@
+<bill session="113" type="s" number="417" updated="2013-03-09T06:16:59-05:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="official">A bill to reduce the number of nonessential vehicles purchased and leased by the Federal Government, and for other purposes.</title>
+  </titles>
+  <sponsor id="400576"/>
+  <cosponsors>
+    <cosponsor id="412323" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2013-03-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1124"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="37"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

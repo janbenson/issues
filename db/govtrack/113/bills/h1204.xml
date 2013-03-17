@@ -1,0 +1,27 @@
+<bill session="113" type="h" number="1204" updated="2013-03-15T04:47:58-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 49, United States Code, to direct the Assistant Secretary of Homeland Security (Transportation Security Administration) to establish an Aviation Security Advisory Committee, and for other purposes.</title>
+  </titles>
+  <sponsor id="400402"/>
+  <cosponsors>
+    <cosponsor id="400199" joined="2013-03-14"/>
+    <cosponsor id="412432" joined="2013-03-14"/>
+    <cosponsor id="412514" joined="2013-03-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

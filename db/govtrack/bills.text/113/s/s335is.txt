@@ -1,0 +1,863 @@
+                                                                                                                                   II
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                            S. 335
+                                     To provide financing assistance for qualified water infrastructure projects,
+                                                              and for other purposes.
+
+
+
+
+                                              IN THE SENATE OF THE UNITED STATES
+                                                               FEBRUARY 14, 2013
+                                  Mr. MERKLEY (for himself and Mr. LAUTENBERG) introduced the following
+                                      bill; which was read twice and referred to the Committee on Environment
+                                      and Public Works
+
+
+
+
+                                                                            A BILL
+                                              To provide financing assistance for qualified water
+                                               infrastructure projects, and for other purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Water Infrastructure
+                                    5 Finance and Innovation Act of 2013’’.
+                                    6     SEC. 2. FINDINGS.
+                                    7              Congress finds that—
+                                    8                        (1) it is in the national interest to encourage
+
+
+
+
+                                    9              the timely and cost-effective rehabilitation and re-
+                                  10               placement of aging water and sewer infrastructure
+
+
+                                                                                             2
+                                    1              and to support investments in innovative, cost-effec-
+                                    2              tive, and sustainable infrastructure approaches to
+                                    3              protect public health and clean water;
+                                    4                        (2) the Environmental Protection Agency re-
+                                    5              ports that, in the 20-year period following the date
+                                    6              of enactment of this Act—
+                                    7                                 (A) $334,800,000,000 is needed to invest
+                                    8                        in infrastructure improvements to ensure the
+                                    9                        provision of safe water; and
+                                  10                                  (B) $298,100,000,000 is needed for pub-
+                                  11                         licly owned wastewater systems-related infra-
+                                  12                         structure;
+                                  13                         (3) customer rates and local charges are and
+                                  14               will remain the primary means of paying for water
+                                  15               service and infrastructure in the United States;
+                                  16                         (4) the municipal bond market and State re-
+                                  17               volving fund programs are the primary long-term
+                                  18               means for financing water infrastructure projects,
+                                  19               but upfront investment needs are too high to be met
+                                  20               with those traditional means alone;
+                                  21                         (5) financing constraints make it particularly
+                                  22               difficult for State revolving funds to support large
+                                  23               water infrastructure projects of regional and na-
+
+
+
+
+                                  24               tional significance;
+                                              •S 335 IS
+
+                                                                                             3
+                                    1                        (6) the growing funding gap demonstrates the
+                                    2              need to invest in innovative and cost-effective ap-
+                                    3              proaches such as green infrastructure, water effi-
+                                    4              ciency, and source water protection to obtain the
+                                    5              greatest environmental and public health benefits
+                                    6              per dollar invested;
+                                    7                        (7) this Act will substantially benefit the drink-
+                                    8              ing water and wastewater systems of the United
+                                  109              States by—       (A) addressing the gap in funding for
+                                  11                         large, regionally and nationally significant
+                                  12                         projects by making available direct loans and
+                                  13                         loan guarantees to reduce borrowing costs and
+                                  14                         accelerate water infrastructure investment;
+                                  15                                  (B) enhancing the capacity of State revolv-
+                                  16                         ing fund programs to assist other projects; and
+                                  17                                  (C) promoting clean and safe water
+                                  18                         through compliance with the Federal Water
+                                  19                         Pollution Control Act (33 U.S.C. 1251 et seq.)
+                                  20                         and the Safe Drinking Water Act (42 U.S.C.
+                                  21                         300f et seq.);
+                                  22                         (8) since the historical default rate on water
+                                  23               and sewer bonds is 0.04 percent, the risk of default
+
+
+
+
+                                  24               on Federal assistance provided under this Act is
+                                  25               minimal;
+
+
+                                              •S 335 IS
+
+                                                                                             4
+                                    1                        (9) keeping the risk of default on water and
+                                    2              sewer bonds low requires the alignment of infra-
+                                    3              structure investment with environmental sustain-
+                                    4              ability; and
+                                    5                        (10) because loans, loan guarantees, and other
+                                    6              credit instruments only incur long-term costs if sub-
+                                    7              sidized or in the event of default, this Act can help
+                                    8              to meet the water infrastructure needs of the United
+                                    9              States at minimal long-term cost to the Federal
+                                  10               Government.
+                                  11      SEC. 3. DEFINITIONS.
+                                  12               In this Act:
+                                  13                         (1) ADMINISTRATOR.—The term ‘‘Adminis-
+                                  14               trator’’ means the Administrator of the Environ-
+                                  15               mental Protection Agency.
+                                  16                         (2) BORROWER.—The term ‘‘borrower’’ means
+                                  17               an eligible entity that owes payments of interest or
+                                  18               principal on a credit instrument.
+                                  19                         (3) COMMUNITY                       WATER SYSTEM.—The                 term
+                                  20               ‘‘community water system’’ has the meaning given
+                                  21               the term in section 1401 of the Safe Drinking Water
+                                  22               Act (42 U.S.C. 300f).
+                                  23                         (4) COST         OF A DIRECT LOAN; COST OF A LOAN
+                                  24               GUARANTEE.—The                      terms ‘‘cost of a direct loan’’ and
+                                  25               ‘‘cost of a loan guarantee’’ mean the ‘‘cost of a di-
+
+
+                                              •S 335 IS
+
+                                                                                             5
+                                    1              rect loan’’ and ‘‘cost of a loan guarantee’’, respec-
+                                    2              tively, as those terms are used in section 502 of the
+                                    3              Federal Credit Reform Act of 1990 (2 U.S.C. 661a).
+                                    4                        (5) CREDIT              INSTRUMENT.—The                          term ‘‘credit
+                                    5              instrument’’ means—
+                                    6                                 (A) a direct loan made under this Act; or
+                                    7                                 (B) a loan or other debt obligation that is
+                                    8                        subject to a loan guarantee under this Act.
+                                    9                        (6) DIRECT            LOAN.—
+
+                                  10                                  (A) IN       GENERAL.—The                    term ‘‘direct loan’’
+                                  11                         has the meaning given the term in section 502
+                                  12                         of the Federal Credit Reform Act of 1990 (2
+                                  13                         U.S.C. 661a).
+                                  14                                  (B) INCLUSIONS.—The term ‘‘direct loan’’
+                                  15                         includes the purchase of a bond by the Federal
+                                  16                         Government.
+                                  17                         (7) ELIGIBLE             ENTITY.—
+
+                                  18                                  (A) IN       GENERAL.—The                    term ‘‘eligible enti-
+                                  19                         ty’’ means—
+                                  20                                         (i) an entity (other than a State or
+                                  21                                  local agency with jurisdiction over high-
+                                  22                                  ways or roads) that owns or operates a
+                                  23                                  treatment works that serves the general
+
+
+
+
+                                  24                                  public, including a municipal, tribal, or re-
+                                              •S 335 IS
+
+                                                                                             6
+                                    1                                 gional separate storm sewer system man-
+                                    2                                 agement agency;
+                                    3                                        (ii) an entity, including an Indian
+                                    4                                 tribe, that owns or operates a community
+                                    5                                 water system;
+                                    6                                        (iii) 1 or more entities described in
+                                    7                                 clauses (i) and (ii) that are cooperating on
+                                    8                                 an eligible project;
+                                    9                                        (iv) for an eligible project described in
+                                  10                                  paragraph (8)(B), a State infrastructure
+                                  11                                  financing authority;
+                                  12                                         (v) any entity eligible to receive a loan
+                                  13                                  or loan guarantee under a State water pol-
+                                  14                                  lution control revolving fund established
+                                  15                                  under title VI of the Federal Water Pollu-
+                                  16                                  tion Control Act (33 U.S.C. 1381 et seq.);
+                                  17                                  and
+                                  18                                         (vi) any entity eligible to receive a
+                                  19                                  loan or loan guarantee under a State
+                                  20                                  drinking water revolving loan fund estab-
+                                  21                                  lished under section 1452 of the Safe
+                                  22                                  Drinking Water Act (42 U.S.C. 300j–12).
+                                  23                                  (B) INCLUSIONS.—The term ‘‘eligible enti-
+
+
+
+
+                                  24                         ty’’ includes a public-private partnership, except
+                                  25                         that only the public entity-owned or investor-
+
+
+                                              •S 335 IS
+
+                                                                                             7
+                                    1                        owned utility shall receive assistance under this
+                                    2                        Act, not the private financing or development
+                                    3                        partner.
+                                    4                        (8) ELIGIBLE                PROJECT.—The                       term ‘‘eligible
+                                    5              project’’ means—
+                                    6                                 (A) a capital project—
+                                    7                                        (i) to construct, replace, or rehabili-
+                                    8                                 tate a treatment works or a community
+                                    9                                 water system;
+                                  10                                         (ii) to reduce the energy consumption
+                                  11                                  needs of a treatment works or a commu-
+                                  12                                  nity water system, including the implemen-
+                                  13                                  tation of energy efficient or renewable gen-
+                                  14                                  eration technologies;
+                                  15                                         (iii) to increase water efficiency, re-
+                                  16                                  duce the demand for water, or reduce the
+                                  17                                  demand for treatment works or community
+                                  18                                  water system capacity;
+                                  19                                         (iv) to manage or control stormwater;
+                                  20                                         (v) to reuse municipal wastewater or
+                                  21                                  stormwater;
+                                  22                                         (vi) for the consolidation of 2 or more
+                                  23                                  treatment works or community water sys-
+
+
+
+
+                                  24                                  tems;
+                                              •S 335 IS
+
+                                                                                             8
+                                    1                                        (vii) to increase drinking water source
+                                    2                                 protection for surface and groundwater
+                                    3                                 sources;
+                                    4                                        (viii) for construction activities involv-
+                                    5                                 ing—
+                                    6                                                  (I) the repair, replacement, or
+                                    7                                        upgrading of a treatment works or
+                                    8                                        sewage collection system in a commu-
+                                    9                                        nity that exists on the date of enact-
+                                  10                                         ment of this Act to address an ad-
+                                  11                                         verse environmental condition existing
+                                  12                                         on that date of enactment;
+                                  13                                                   (II) the construction of an ad-
+                                  14                                         vanced decentralized wastewater treat-
+                                  15                                         ment system, including planning, de-
+                                  16                                         sign, associated preconstruction plan-
+                                  17                                         ning activities (as defined in section
+                                  18                                         212 of the Federal Water Pollution
+                                  19                                         Control Act (33 U.S.C. 1292)); and
+                                  20                                                   (III) implementation measures to
+                                  21                                         control, manage, reduce, treat, infil-
+                                  22                                         trate, or reuse municipal stormwater,
+                                  23                                         the primary purpose of which is the
+
+
+
+
+                                  24                                         protection, preservation, or enhance-
+                                  25                                         ment of water quality to support pub-
+
+
+                                              •S 335 IS
+
+                                                                                             9
+                                    1                                        lic purposes (including decentralized
+                                    2                                        or distributed stormwater controls,
+                                    3                                        low-impact development technologies
+                                    4                                        and nonstructural approaches, stream
+                                    5                                        buffers, and wetlands restoration and
+                                    6                                        enhancement, the procurement and
+                                    7                                        use of equipment to support minimum
+                                    8                                        measures, such as street sweeping and
+                                    9                                        storm drain system cleaning, and ac-
+                                  10                                         quisition of other land and interests in
+                                  11                                         land to meet the needs of existing de-
+                                  12                                         velopment that are necessary for those
+                                  13                                         activities and measures);
+                                  14                                         (ix) to implement a management pro-
+                                  15                                  gram established under section 319 of the
+                                  16                                  Federal Water Pollution Control Act (33
+                                  17                                  U.S.C. 1329);
+                                  18                                         (x) to develop and implement a con-
+                                  19                                  servation and management plan under sec-
+                                  20                                  tion 320 of the Federal Water Pollution
+                                  21                                  Control Act (33 U.S.C. 1330);
+                                  22                                         (xi) to increase the security of waste-
+                                  23                                  water treatment works or a community
+
+
+
+
+                                  24                                  water system (excluding any expenditure
+                                  25                                  for operations or maintenance);
+
+
+                                              •S 335 IS
+
+                                                                                         10
+                                    1                                        (xii) to carry out water conservation
+                                    2                                 or efficiency projects, the primary purpose
+                                    3                                 of which is the protection, preservation, or
+                                    4                                 enhancement of water quality to support
+                                    5                                 public purposes;
+                                    6                                        (xiii) to implement measures to inte-
+                                    7                                 grate water resource management planning
+                                    8                                 and implementation;
+                                    9                                        (xiv) to carry out water, rainwater,
+                                  10                                  and wastewater reuse, reclamation, recy-
+                                  11                                  cling, and rainwater harvesting projects,
+                                  12                                  the primary purpose of which is the protec-
+                                  13                                  tion, preservation, or enhancement of
+                                  14                                  water quality to support public purposes;
+                                  15                                  and
+                                  16                                         (xv) for capital costs associated with
+                                  17                                  monitoring equipment for combined or san-
+                                  18                                  itary sewer overflows;
+                                  19                                  (B) a non-capital project that is—
+                                  20                                         (i) associated with a capital project;
+                                  21                                  and
+                                  22                                         (ii) the aim of which is to promote the
+                                  23                                  use of environmentally sustainable proj-
+
+
+
+
+                                  24                                  ects, including utility-backed stormwater
+                                  25                                  and water efficiency retrofit programs; and
+
+
+                                              •S 335 IS
+
+                                                                                         11
+                                    1                                 (C) 2 or more projects described in sub-
+                                    2                        paragraph (A) that are combined to receive a
+                                    3                        single direct loan or loan guarantee.
+                                    4                        (9) INDIAN             TRIBE.—The                 term ‘‘Indian tribe’’
+                                    5              has the meaning given the term in section 4 of the
+                                    6              Indian Self-Determination and Education Assistance
+                                    7              Act (25 U.S.C. 450b).
+                                    8                        (10) LOAN            GUARANTEE.—The                      term ‘‘loan guar-
+                                    9              antee’’ has the meaning given the term in section
+                                  10               502 of the Federal Credit Reform Act of 1990 (2
+                                  11               U.S.C. 661a).
+                                  12                         (11) STATE              INFRASTRUCTURE FINANCING AU-
+                                  13               THORITY.—The                   term ‘‘State infrastructure financing
+                                  14               authority’’ means the State entity established or des-
+                                  15               ignated by the Governor of a State to receive a cap-
+                                  16               italization grant provided under, or to otherwise
+                                  17               carry out the requirements of, title VI of the Federal
+                                  18               Water Pollution Control Act (33 U.S.C. 1381 et
+                                  19               seq.) or section 1452 of the Safe Drinking Water
+                                  20               Act (42 U.S.C. 300j–12).
+                                  21                         (12) TREATMENT                      WORKS.—The                   term ‘‘treat-
+                                  22               ment works’’ has the meaning given the term in sec-
+                                  23               tion 212 of Federal Water Pollution Control Act (33
+
+
+
+
+                                  24               U.S.C. 1292).
+                                              •S 335 IS
+
+                                    1     SEC. 4. ESTABLISHMENT.                         12
+                                    2              The Administrator may make a direct loan, including
+                                    3 a subordinated loan, or a loan guarantee to an eligible en-
+                                    4 tity to carry out activities for an eligible project in accord-
+                                    5 ance with this Act.
+                                    6     SEC. 5. APPLICATIONS.
+
+                                    7              (a) IN GENERAL.—As a condition of receiving assist-
+                                    8 ance under this Act, an eligible entity shall submit to the
+                                    9 Administrator an application at such time, in such man-
+                                  10 ner, and containing such information as the Administrator
+                                  11 may require.
+                                  12               (b) COMBINED PROJECTS.—In the case of an eligible
+                                  13 project described in section 3(8)(C), the Administrator
+                                  14 shall require from the eligible entity a single application
+                                  15 for the group of projects.
+                                  16      SEC. 6. USE OF ASSISTANCE.
+                                  17               An eligible entity shall only use amounts received
+                                  18 under this Act for eligible projects—
+                                  19                         (1) to carry out—
+                                  20                                  (A) development phase activities, including
+                                  21                         planning, feasibility analysis, revenue fore-
+                                  22                         casting, environmental review, permitting, and
+                                  23                         other preconstruction engineering and design
+                                  24                         work;
+
+
+
+
+
+                                              •S 335 IS
+
+                                                                                         13
+                                    1                                 (B) construction, reconstruction, rehabili-
+                                    2                        tation, and replacement activities necessary for
+                                    3                        the project; and
+                                    4                                 (C) environmental mitigation and construc-
+                                    5                        tion contingencies;
+                                    6                        (2) to acquire real property (including interests
+                                    7              in real property) and equipment;
+                                    8                        (3) to provide for any funding mechanisms nec-
+                                    9              essary to meet market or affordability requirements,
+                                  10               reasonably required reserve funds, capitalized inter-
+                                  11               est issuance expenses, and other carrying costs dur-
+                                  12               ing construction of the project; and
+                                  13                         (4) to refinance interim construction financing,
+                                  14               long-term project obligations, or direct loans or loan
+                                  15               guarantees made under this Act.
+                                  16      SEC. 7. SELECTION AMONG ELIGIBLE PROJECTS.
+
+                                  17               (a) IN GENERAL.—The Administrator shall select eli-
+                                  18 gible projects to receive assistance under this Act based
+                                  19 on—
+                                  20                         (1) the significance of the infrastructure needs
+                                  21               addressed by the project, including the economic, en-
+                                  22               vironmental, and public health benefits of the
+                                  23               project;
+
+
+
+
+
+                                  24                         (2) the creditworthiness of the project under
+                                  25               consideration, including the terms, conditions, finan-
+
+
+                                              •S 335 IS
+
+                                                                                         14
+                                    1              cial structure, and security features making up the
+                                    2              proposed financing, and the financial assumptions
+                                    3              upon which the project is based;
+                                    4                        (3) the need for Federal assistance, including
+                                    5              the likelihood that the provision of assistance by the
+                                    6              Administrator under this Act will cause the project
+                                    7              to proceed more promptly and with lower costs for
+                                    8              financing than would be the case without the assist-
+                                  109              ance;     (4) the degree to which the project financing
+                                  11               plan includes public or private financing in addition
+                                  12               to assistance under this Act;
+                                  13                         (5) the cost of the direct loan or loan guarantee
+                                  14               to the Federal Government for the project;
+                                  15                         (6) the extent to which the project is nationally
+                                  16               or regionally significant;
+                                  17                         (7) whether the project, to the maximum extent
+                                  18               practicable, incorporates environmentally sustainable
+                                  19               approaches, including conservation, efficiency, reuse,
+                                  20               source water protection, energy efficiency, green in-
+                                  21               frastructure, and other innovative techniques;
+                                  22                         (8) whether the project is consistent with—
+                                  23                                  (A) the State priority system established
+
+
+
+
+                                  24                         pursuant to section 603(g) of the Federal
+                                              •S 335 IS
+
+                                                                                         15
+                                    1                        Water          Pollution            Control            Act        (33   U.S.C.
+                                    2                        1383(g)); and
+                                    3                                 (B) the types of projects described in sec-
+                                    4                        tion 1452(b)(3) of the Safe Drinking Water Act
+                                    5                        (42 U.S.C. 300j–12(b)(3)); and
+                                    6                        (9) the priority system established under sub-
+                                    7              section (b).
+                                    8              (b) PRIORITY SYSTEM.—The Administrator shall es-
+                                    9 tablish a priority system that gives greater weight to an
+                                  10 application for an eligible project that includes—
+                                  11                         (1) an inventory of the assets of the treatment
+                                  12               works or community water system, including a de-
+                                  13               scription of the condition of those assets;
+                                  14                         (2) a schedule for replacement of the assets of
+                                  15               the treatment works or community water system;
+                                  16                         (3) a financing plan that factors in all lifecycle
+                                  17               costs and describes the sources of revenue from rate-
+                                  18               payers, grants, bonds, loans, and other sources des-
+                                  19               ignated to meet those lifecycle costs;
+                                  20                         (4) a description of any options for restruc-
+                                  21               turing the treatment works or community water sys-
+                                  22               tem;
+                                  23                         (5) any new models or techniques, other than a
+
+
+
+
+                                  24               traditional wastewater model, to treat or minimize
+                                  25               sewage or urban stormwater discharges using—
+
+
+                                              •S 335 IS
+
+                                                                                         16
+                                    1                                 (A) decentralized or distributed stormwater
+                                    2                        controls;
+                                    3                                 (B) advanced decentralized wastewater
+                                    4                        treatment;
+                                    5                                 (C) low-impact development technologies
+                                    6                        and nonstructural approaches;
+                                    7                                 (D) stream buffers;
+                                    8                                 (E) wetland restoration and enhancement;
+                                    9                                 (F) actions to minimize the quantity of
+                                  10                         and direct connections to impervious surfaces;
+                                  11                                  (G) soil and vegetation or other permeable
+                                  12                         materials; or
+                                  13                                  (H) actions that increase efficient water
+                                  14                         use, water conservation, or water or wastewater
+                                  15                         reuse, including rainwater harvesting;
+                                  16                         (6) to the maximum extent practicable, the use
+                                  17               of water efficiency and conservation techniques to
+                                  18               generate cost-effective sources of new water supply;
+                                  19               and
+                                  20                         (7) a demonstration of consistency with State,
+                                  21               regional, and municipal watershed plans, water con-
+                                  22               servation and efficiency plans, or integrated water
+                                  23               resource management plans.
+
+
+
+
+
+                                  24               (c) SPECIAL RULE                    FOR      COMBINED PROJECTS.—For
+                                  25 an eligible project described in section 3(8)(C), the Admin-
+
+
+                                              •S 335 IS
+
+                                                                                         17
+                                    1 istrator shall consider only the criteria described in para-
+                                    2 graphs (1), (2), (3), and (5) of subsection (a).
+                                    3              (d) REASONABLE ASSURANCE                                     OF     PAYMENT.—The
+                                    4 Administrator may select an eligible project for assistance
+                                    5 only if the Administrator finds that there is a reasonable
+                                    6 assurance that all payments will be made on the credit
+                                    7 instrument.
+                                    8     SEC. 8. CREDIT EVALUATION.
+
+                                    9              (a) IN GENERAL.—The Administrator shall develop
+                                  10 and implement a credit evaluation process before pro-
+                                  11 viding any assistance under this Act.
+                                  12               (b) PRELIMINARY RATING OPINION LETTER.—For
+                                  13 purposes of determining creditworthiness under section
+                                  14 7(a)(2), the Administrator may—
+                                  15                         (1) require an eligible entity to provide a pre-
+                                  16               liminary rating opinion letter from at least 1 rating
+                                  17               agency; or
+                                  18                         (2) use an alternative (including an internal)
+                                  19               credit rating process.
+                                  20               (c) RULE           FOR     CERTAIN COMBINED PROJECTS.—For
+                                  21 an eligible project described in section 3(8)(C) for which
+                                  22 a State infrastructure financing authority is the eligible
+                                  23 entity, in addition to the creditworthiness consideration
+
+
+
+
+                                  24 under section 7(a)(2), the Administrator shall evaluate the
+                                  25 creditworthiness of each entity represented by the State
+
+
+                                              •S 335 IS
+
+                                                                                         18
+                                    1 infrastructure financing authority that will be carrying out
+                                    2 any eligible project described in section 3(8)(A) that will
+                                    3 be a part of the eligible project.
+                                    4     SEC. 9. TERMS AND CONDITIONS.
+
+                                    5              (a) IN GENERAL.—Each direct loan and loan guar-
+                                    6 antee made under this Act shall be on such terms and
+                                    7 conditions and contain such covenants, representations,
+                                    8 warranties, and requirements (including requirements for
+                                    9 audits) as the Administrator may prescribe.
+                                  10               (b) INTEREST RATE.—
+                                  11                         (1) IN       GENERAL.—The                     interest rate applicable
+                                  12               to a direct loan shall be the rate that is set by ref-
+                                  13               erence to a benchmark interest rate on marketable
+                                  14               Treasury securities with a similar maturity to that
+                                  15               direct loan, as of the date of issuance of the direct
+                                  16               loan.
+                                  17                         (2) HIGHER              INTEREST RATES.—The                           Adminis-
+                                  18               trator may charge a higher interest rate on a direct
+                                  19               loan if the Administrator determines that the risk
+                                  20               profile of the eligible project indicates a higher inter-
+                                  21               est rate is necessary to protect the interests of the
+                                  22               United States.
+                                  23               (c) TERM OF LOAN.—The Administrator may provide
+
+
+
+
+                                  24 assistance under this Act only with respect to a credit in-
+                                              •S 335 IS
+
+                                                                                         19
+                                    1 strument the final maturity date of which is not later than
+                                    2 35 years after the date on which funds are disbursed.
+                                    3              (d) SECURITY FEATURES.—The Administrator shall
+                                    4 require a borrower receiving assistance under this Act to
+                                    5 use a rate covenant, coverage requirement, or similar secu-
+                                    6 rity feature supporting the project obligations to ensure
+                                    7 repayment.
+                                    8              (e) DIRECT LOAN REPAYMENTS.—
+                                    9                        (1) SCHEDULE.—The Administrator shall es-
+                                  10               tablish a repayment schedule for each direct loan
+                                  11               under this Act based on the projected cash flow from
+                                  12               project repayment sources.
+                                  13                         (2) COMMENCEMENT.—Scheduled repayments
+                                  14               of principal or interest on a direct loan made under
+                                  15               this Act shall commence not later than 5 years after
+                                  16               the date of substantial completion of the project, as
+                                  17               determined by the Administrator in a manner set
+                                  18               forth at the time the direct loan is made.
+                                  19                         (3) DEFERRAL               OF PAYMENTS.—
+
+                                  20                                  (A) IN         GENERAL.—If                   the Administrator
+                                  21                         determines that a borrower lacks the resources
+                                  22                         to make scheduled payments on a direct loan
+                                  23                         made under this Act based on circumstances
+
+
+
+
+                                  24                         not foreseeable at the time the direct loan is
+                                              •S 335 IS
+
+                                                                                         20
+                                    1                        made, the Administrator may allow for the de-
+                                    2                        ferral of the payments.
+                                    3                                 (B) INTERESTS.—Any payment deferred
+                                    4                        under subparagraph (A) shall—
+                                    5                                        (i) continue to accrue interest until
+                                    6                                 fully repaid; and
+                                    7                                        (ii) be scheduled to be amortized over
+                                    8                                 the remaining term of the direct loan.
+                                    9                                 (C)         CRITERIA.—Any                    payment         deferral
+                                  10                         under subparagraph (A) shall be contingent on
+                                  11                         the project meeting criteria established by the
+                                  12                         Administrator, which shall include standards
+                                  13                         for reasonable assurance of repayment.
+                                  14                         (4) PREPAYMENT.—Payments on the direct
+                                  15               loan may be made in advance with no penalty.
+                                  16               (f) SPECIAL RULES FOR LOAN GUARANTEES.—
+                                  17                         (1) TERMS.—The terms of a credit instrument
+                                  18               that is the subject of a loan guarantee under this
+                                  19               Act shall be consistent with the terms set forth in
+                                  20               this Act for a direct loan, except that the interest
+                                  21               rate and any prepayment features on the credit in-
+                                  22               strument shall be negotiated between the borrower
+                                  23               and the lender, with the approval of the Adminis-
+
+
+
+
+                                  24               trator.
+                                              •S 335 IS
+
+                                                                                         21
+                                    1                        (2) INTEREST               RATE.—The                 Administrator may
+                                    2              make a loan guarantee under this Act only if the
+                                    3              Administrator determines that the interest rate on
+                                    4              the credit instrument that is subject to the loan
+                                    5              guarantee is appropriate, taking into account the
+                                    6              prevailing rate of interest in the private sector for
+                                    7              similar obligations.
+                                    8                        (3) ELIGIBLE                    LENDER.—The                    Administrator
+                                    9              may not make a loan guarantee under this Act un-
+                                  10               less the lender of the loan or purchaser of the debt
+                                  11               security that will be the subject of the loan guar-
+                                  12               antee is a non-Federal, qualified institutional buyer
+                                  13               (as defined in section 230.144A(a) of title 17, Code
+                                  14               of Federal Regulations (or successor regulation)), in-
+                                  15               cluding—
+                                  16                                  (A) a qualified retirement plan (as defined
+                                  17                         in section 4974(c) of the Internal Revenue Code
+                                  18                         of 1986) that is a non-Federal qualified institu-
+                                  19                         tional buyer; and
+                                  20                                  (B) a governmental plan (as defined in
+                                  21                         section 414(d) of the Internal Revenue Code of
+                                  22                         1986) that is a non-Federal qualified institu-
+                                  23                         tional buyer.
+
+
+
+
+
+                                  24                         (4) ADEQUATE                     SERVICING               PROVISIONS     RE-
+                                  25               QUIRED.—No                 loan guarantee may be made under
+                                              •S 335 IS
+
+                                                                                         22
+                                    1              this Act for a loan unless the Administrator deter-
+                                    2              mines that the lender with respect to the loan is re-
+                                    3              sponsible and that adequate servicing provisions
+                                    4              have been made for the loan that is the subject of
+                                    5              the loan guarantee that are reasonable and protect
+                                    6              the financial interest of the United States.
+                                    7     SEC. 10. PROGRAM ADMINISTRATION.
+
+                                    8              (a) IN GENERAL.—The Administrator shall establish
+                                    9 a uniform system to service each direct loan and loan
+                                  10 guarantee made under this Act.
+                                  11               (b) ASSISTANCE FROM EXPERT FIRMS.—The Ad-
+                                  12 ministrator may retain the services of expert firms, includ-
+                                  13 ing counsel, in the field of municipal and project finance
+                                  14 to assist in the underwriting and servicing of a direct loan
+                                  15 or loan guarantee made under this Act.
+                                  16               (c) FEES FOR ADMINISTRATIVE EXPENSES.—
+                                  17                         (1) IN           GENERAL.—In                     providing assistance
+                                  18               under this Act, the Administrator may—
+                                  19                                  (A) collect fees for administrative expenses,
+                                  20                         including premiums for loan guarantees, at a
+                                  21                         level that is sufficient to cover the costs of serv-
+                                  22                         ices of expert firms and all or a portion of the
+                                  23                         costs to the Federal Government of servicing
+
+
+
+
+                                  24                         the direct loans and loan guarantees made
+                                  25                         under this Act; and
+
+
+                                              •S 335 IS
+
+                                                                                         23
+                                    1                                 (B) as provided in advance in appropria-
+                                    2                        tions acts, use the amounts described in sub-
+                                    3                        paragraph (A) to cover the expenses described
+                                    4                        in that subparagraph.
+                                    5                        (2) LEVEL            OF FEES.—The                   Administrator shall
+                                    6              set the fees described in paragraph (1) at a level
+                                    7              that will minimize the cost to the Federal Govern-
+                                    8              ment and maximize the assistance that can be pro-
+                                    9              vided under this Act, while providing competitive
+                                  10               credit terms to eligible projects, in order to reduce
+                                  11               borrowing costs and accelerate water infrastructure
+                                  12               investment.
+                                  13      SEC. 11. TECHNICAL ASSISTANCE.
+                                  14               The Administrator may use amounts made available
+                                  15 to carry out this Act to provide technical assistance to ap-
+                                  16 plicants and prospective applicants in creating financing
+                                  17 packages that leverage a mix of public and private funding
+                                  18 sources.
+                                  19      SEC. 12. RESTRICTIONS.
+
+                                  20               (a) ASSISTANCE THRESHOLD.—The Administrator
+                                  21 may provide assistance under this Act only with respect
+                                  22 to a credit instrument in an amount of not less than
+                                  23 $20,000,000.
+                                  24               (b) REFINANCING.—The Administrator shall make
+                                  25 available to eligible entities for refinancing activities de-
+
+
+                                              •S 335 IS
+
+                                                                                         24
+                                    1 scribed in section 6(4) not more than 15 percent of the
+                                    2 total amounts made available to carry out this Act.
+                                    3     SEC. 13. PREVAILING WAGES.
+
+                                    4              (a) IN GENERAL.—Notwithstanding any other provi-
+                                    5 sion of law and in a manner consistent with other provi-
+                                    6 sions in this Act, all laborers and mechanics employed by
+                                    7 contractors and subcontractors on projects funded directly
+                                    8 by, or assisted in whole or in part by and through, the
+                                    9 Federal Government pursuant to this Act shall be paid
+                                  10 wages at rates not less than those prevailing on projects
+                                  11 of a character similar in the locality as determined by the
+                                  12 Secretary of Labor in accordance with subchapter IV of
+                                  13 chapter 31 of title 40, United States Code.
+                                  14               (b) ADMINISTRATION.—With respect to the labor
+                                  15 standards specified in this section, the Secretary of Labor
+                                  16 shall have the authority and functions set forth in Reorga-
+                                  17 nization Plan Numbered 14 of 1950 (64 Stat. 1267; 5
+                                  18 U.S.C. App.) and section 3145 of title 40, United States
+                                  19 Code.
+                                  20      SEC. 14. USE OF AMERICAN IRON, STEEL, AND MANUFAC-
+                                  21                              TURED GOODS.
+                                  22               (a) IN GENERAL.—Except as provided in subsection
+                                  23 (b), none of the amounts made available under this Act
+
+
+
+
+                                  24 may be used for a project for the construction, alteration,
+                                  25 maintenance, or repair of a public building or public work
+
+
+                                              •S 335 IS
+
+                                                                                         25
+                                    1 unless all of the iron, steel, and manufactured goods used
+                                    2 in the project are produced in the United States.
+                                    3              (b) EXCEPTION.—Subsection (a) shall not apply in
+                                    4 any case or category of cases in which the head of the
+                                    5 Federal department or agency involved finds that—
+                                    6                        (1) applying subsection (a) would be incon-
+                                    7              sistent with the public interest;
+                                    8                        (2) iron, steel, and the relevant manufactured
+                                    9              goods are not produced in the United States in suffi-
+                                  10               cient and reasonably available quantities and of a
+                                  11               satisfactory quality; or
+                                  12                         (3) inclusion of iron, steel, and manufactured
+                                  13               goods produced in the United States will increase
+                                  14               the cost of the overall project by more than 25 per-
+                                  15               cent.
+                                  16               (c) PUBLIC NOTICE.—If the head of a Federal de-
+                                  17 partment or agency determines that it is necessary to
+                                  18 waive the application of subsection (a) based on a finding
+                                  19 under subsection (b), the head of the department or agen-
+                                  20 cy shall publish in the Federal Register a detailed written
+                                  21 justification as to why the provision is being waived.
+                                  22               (d) INTERNATIONAL AGREEMENTS.—This section
+                                  23 shall be applied in a manner consistent with United States
+
+
+
+
+                                  24 obligations under international agreements.
+                                              •S 335 IS
+
+                                    1     SEC. 15. FUNDING.                              26
+                                    2              (a) AUTHORIZATION OF APPROPRIATIONS.—
+                                    3                        (1) DIRECT             LOANS AND LOAN GUARANTEES.—
+                                    4              There is authorized to be appropriated for the cost
+                                    5              of providing direct loans and loan guarantees under
+                                    6              this Act such sums as are necessary.
+                                    7                        (2) ADMINISTRATIVE                     EXPENSES.—
+
+                                    8                                 (A) IN        GENERAL.—There                      is authorized to
+                                    9                        be appropriated for administrative expenses
+                                  10                         under this Act an amount equal to the amount
+                                  11                         of fees collected under section 10(c).
+                                  12                                  (B) ADDITIONAL                     AUTHORIZATION OF AP-
+                                  13                         PROPRIATIONS.—In                      addition to amounts au-
+                                  14                         thorized to be appropriated under subparagraph
+                                  15                         (A), there are authorized to be appropriated for
+                                  16                         administrative expenses under this Act such
+                                  17                         sums as are necessary.
+                                  18               (b) PAYMENT                OF     SUBSIDY COST.—A borrower may
+                                  19 pay for the cost of a direct loan or loan guarantee under
+                                  20 this Act, along with the appropriate amount of related ad-
+                                  21 ministrative expenses, with payment the Administrator
+                                  22 may use, as provided in advance in appropriations Acts,
+                                  23 instead of using amounts authorized under subsection (a),
+                                  24 to make a direct loan or loan guarantee to the borrower.
+
+
+
+
+
+                                                                                             Æ
+
+
+                                              •S 335 IS
+

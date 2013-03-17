@@ -1,0 +1,30 @@
+<bill session="113" type="h" number="932" updated="2013-03-04T18:45:40-05:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">Support and Defend Our Military Personnel and Their Families Act</title>
+    <title as="introduced" type="official">To amend the Immigration and Nationality Act to protect the well-being of soldiers and their families, and for other purposes.</title>
+  </titles>
+  <sponsor id="400403"/>
+  <cosponsors>
+    <cosponsor id="400237" joined="2013-02-28"/>
+    <cosponsor id="400290" joined="2013-02-28"/>
+    <cosponsor id="400344" joined="2013-02-28"/>
+    <cosponsor id="400347" joined="2013-02-28"/>
+    <cosponsor id="400355" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

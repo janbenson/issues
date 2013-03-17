@@ -1,0 +1,17 @@
+<amendment session="113" chamber="s" number="14" updated="2013-03-02T06:26:44-05:00">
+  <amends type="s" number="47" sequence=""/>
+  <status datetime="2013-02-07">fail</status>
+  <sponsor id="300048"/>
+  <offered datetime="2013-02-07"/>
+  <description>In the nature of a substitute.</description>
+  <purpose>In the nature of a substitute.</purpose>
+  <actions>
+    <action datetime="2013-02-07">
+      <text>Amendment SA 14 proposed by Senator McCain for Senator Grassley.</text>
+      <reference ref="CR S511" label="consideration"/>
+    </action>
+    <vote datetime="2013-02-07" how="roll" result="fail" roll="13">
+      <text>Amendment SA 14 not agreed to in Senate by Yea-Nay Vote. 34 - 65. Record Vote Number: 13.</text>
+    </vote>
+  </actions>
+</amendment>

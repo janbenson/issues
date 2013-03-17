@@ -1,0 +1,53 @@
+<bill session="113" type="h" number="634" updated="2013-03-14T04:46:01-04:00">
+  <state datetime="2013-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-13"/>
+  </status>
+  <introduced datetime="2013-02-13"/>
+  <titles>
+    <title as="introduced" type="short">Business Risk Mitigation and Price Stabilization Act of 2013</title>
+    <title as="introduced" type="official">To provide end user exemptions from certain provisions of the Commodity Exchange Act and the Securities Exchange Act of 1934, and for other purposes.</title>
+  </titles>
+  <sponsor id="412451"/>
+  <cosponsors>
+    <cosponsor id="400655" joined="2013-03-13"/>
+    <cosponsor id="412479" joined="2013-02-27"/>
+    <cosponsor id="400266" joined="2013-02-13"/>
+    <cosponsor id="412383" joined="2013-02-27"/>
+    <cosponsor id="412305" joined="2013-02-13"/>
+    <cosponsor id="412417" joined="2013-02-13"/>
+    <cosponsor id="412522" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-13">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-13">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2013-02-13">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2013-02-25">
+      <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+      <committee name="House Agriculture"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG16" subcommittee="General Farm Commodities and Risk Management" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Commodities markets"/>
+    <term name="Corporate finance and management"/>
+    <term name="Financial services and investments"/>
+    <term name="Securities"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2013--Introduced.
+Business Risk Mitigation and Price Stabilization Act of 2013 - Amends the Commodity Exchange Act (CEA) to exempt, from the rules of prudential regulators for swap dealers and major swap participants with respect to initial and variation margin requirements for swaps not cleared by a registered derivatives clearing organization, those swaps in which one of the counterparties: (1) is eligible for an exception from clearing requirements for certain significant price discovery agreements, contracts, or transactions in a commodity exempt from regulation by the Commodity Futures Trading Commission (CFTC); or (2) satisfies specified criteria governing treatment of affiliates in connection with clearing requirements. Amends the Securities Exchange Act of 1934, regarding registration and regulation of security-based swap dealers and major security-based swap participants, to exempt from initial and variation margin requirements for swaps not cleared by a registered derivatives clearing organization a security-based swap in which one of the counterparties: (1) qualifies for a specified exception from clearing requirements, or (2) satisfies certain criteria governing the treatment of affiliates. Requires that the amendments to CEA made by this Act be implemented: (1) without regard to federal information policy requirements or the notice and comment requirements of federal administrative procedure; and (2) through promulgation of an interim final rule, pursuant to which public comment will be sought before a final rule is issued. Limits the disregard of such federal information policy and notice and comment requirements solely to changes to rules and regulations, or proposed rule and regulations, that are limited to, and directly a consequence of, the amendments to CEA made by this Act.</summary>
+</bill>

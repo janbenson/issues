@@ -1,0 +1,26 @@
+<bill session="113" type="s" number="446" updated="2013-03-11T09:45:36-04:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title as="introduced" type="short">Crop Insurance Subsidy Reduction Act of 2013</title>
+    <title as="introduced" type="official">A bill to amend the Federal Crop Insurance Act to reduce Federal crop insurance subsidies, and for other purposes.</title>
+  </titles>
+  <sponsor id="400134"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-05">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="943"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

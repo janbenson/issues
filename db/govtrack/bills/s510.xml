@@ -1,0 +1,24 @@
+<bill session="113" type="s" number="510" updated="2013-03-12T09:46:27-04:00">
+  <state datetime="2013-03-07">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-07"/>
+  </status>
+  <introduced datetime="2013-03-07"/>
+  <titles>
+    <title as="introduced" type="short">Scofield Land Transfer Act</title>
+    <title as="introduced" type="official">A bill to authorize the Secretary of the Interior to convey certain interests in Federal land acquired for the Scofield Project in Carbon County, Utah.</title>
+  </titles>
+  <sponsor id="300052"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-07">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

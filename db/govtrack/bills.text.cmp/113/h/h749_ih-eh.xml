@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<body status="eh" difference-size-chars="896" percent-change="43" total-changes="3" previous-status="ih">
+  <p nid="t0:eh:1" tracking-nids="t0:ih:1">HR 749 <changed sequence="1"><changed-from>I</changed-from><changed-to>E</changed-to></changed>H</p>
+  <p/>
+  <center>
+    <p nid="t0:eh:2">113th CONGRESS</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:eh:3" tracking-nids="t0:ih:3">1st Session</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:eh:4" tracking-nids="t0:ih:4">H. R. 749</p>
+  </center>
+  <hr/>
+  <inserted sequence="2">
+    <p/>
+    <center>
+      <p nid="t0:eh:5">AN ACT</p>
+    </center>
+  </inserted>
+  <p nid="t0:eh:6">To amend the Gramm-Leach-Bliley Act to provide an exception to the annual privacy notice requirement.</p>
+  <ul>
+    <p nid="t0:eh:7" tracking-nids="t0:ih:12">
+      <em>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</em>
+    </p>
+  </ul>
+  <p/>
+  <h3 nid="t0:eh:8" tracking-nids="t0:ih:13">SECTION 1. SHORT TITLE.</h3>
+  <ul>
+    <p nid="t0:eh:9" tracking-nids="t0:ih:14">This Act may be cited as the &#x2018;Eliminate Privacy Notice Confusion Act&#x2019;.</p>
+  </ul>
+  <p/>
+  <h3 nid="t0:eh:10" tracking-nids="t0:ih:15">SEC. 2. EXCEPTION TO ANNUAL PRIVACY NOTICE REQUIREMENT UNDER THE GRAMM-LEACH-BLILEY ACT.</h3>
+  <ul>
+    <p nid="t0:eh:11">Section 503 of the Gramm-Leach-Bliley Act (<usc-reference title="15" section="6803" paragraph=""><usc-reference title="15" section="6803" paragraph="">15 U.S.C. 6803</usc-reference></usc-reference>) is amended by adding at the end the following:</p>
+    <blockquote>
+      <p nid="t0:eh:12" tracking-nids="t0:ih:17">&#x2018;(f) Exception to Annual Notice Requirement- A financial institution that--</p>
+      <ul>
+        <p nid="t0:eh:13" tracking-nids="t0:ih:18">&#x2018;(1) provides nonpublic personal information only in accordance with the provisions of subsection (b)(2) or (e) of section 502 or regulations prescribed under section 504(b), and</p>
+        <p nid="t0:eh:14" tracking-nids="t0:ih:19">&#x2018;(2) has not changed its policies and practices with regard to disclosing nonpublic personal information from the policies and practices that were disclosed in the most recent disclosure sent to consumers in accordance with this section,</p>
+      </ul>
+    </blockquote>
+    <p nid="t0:eh:15" tracking-nids="t0:ih:20">shall not be required to provide an annual disclosure under this section until such time as the financial institution fails to comply with any criteria described in paragraph (1) or (2).&#x2019;.</p>
+  </ul>
+  <inserted sequence="3">
+    <p nid="t0:eh:16">Passed the House of Representatives March 12, 2013.</p>
+    <p nid="t0:eh:17">Attest:</p>
+    <p nid="t0:eh:18">Clerk.</p>
+    <p/>
+    <center>
+      <p nid="t0:eh:19">113th CONGRESS</p>
+    </center>
+    <p/>
+    <center>
+      <p nid="t0:eh:20">1st Session</p>
+    </center>
+    <p/>
+    <center>
+      <p nid="t0:eh:21">H. R. 749</p>
+    </center>
+    <p/>
+    <center>
+      <p nid="t0:eh:22">AN ACT</p>
+    </center>
+    <p nid="t0:eh:23">To amend the Gramm-Leach-Bliley Act to provide an exception to the annual privacy notice requirement.</p>
+  </inserted>
+</body>

@@ -1,0 +1,33 @@
+<bill session="113" type="s" number="342" updated="2013-03-02T06:16:37-05:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title as="introduced" type="short">Pine Forest Range Recreation Enhancement Act of 2013</title>
+    <title as="introduced" type="official">A bill to designate the Pine Forest Range Wilderness area in Humboldt County, Nevada.</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors>
+    <cosponsor id="412218" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-14">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S776-778" label="text of measure as introduced in Senate"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land transfers"/>
+    <term name="Nevada"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+</bill>

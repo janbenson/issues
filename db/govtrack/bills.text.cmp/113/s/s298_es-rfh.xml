@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<body status="rfh" difference-size-chars="242" percent-change="2" total-changes="5" previous-status="es">
+  <p nid="t0:rfh:1" tracking-nids="t0:es:1">S 298 <changed sequence="1"><changed-from>ES</changed-from><changed-to>RFH</changed-to></changed></p>
+  <p/>
+  <center>
+    <p nid="t0:rfh:2">113th CONGRESS</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:rfh:3" tracking-nids="t0:es:3">1st Session</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:rfh:4" tracking-nids="t0:es:4">S. 298</p>
+  </center>
+  <p/>
+  <inserted sequence="2">
+    <center>
+      <p nid="t0:rfh:5">IN THE HOUSE OF REPRESENTATIVES</p>
+    </center>
+    <p/>
+    <h3 nid="t0:rfh:6">
+      <center>
+        <p nid="t0:rfh:7">February 26, 2013</p>
+      </center>
+    </h3>
+    <p nid="t0:rfh:8">Referred to the Committee on Foreign Affairs</p>
+    <hr/>
+  </inserted>
+  <p/>
+  <center>
+    <p nid="t0:rfh:9">AN ACT</p>
+  </center>
+  <p nid="t0:rfh:10" tracking-nids="t0:es:6">To prevent nuclear proliferation in North Korea, and for other purposes.</p>
+  <ul>
+    <p nid="t0:rfh:11" tracking-nids="t0:es:7">
+      <em>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</em>
+    </p>
+  </ul>
+  <p/>
+  <h3 nid="t0:rfh:12" tracking-nids="t0:es:8">SECTION 1. SHORT TITLE.</h3>
+  <ul>
+    <p nid="t0:rfh:13" tracking-nids="t0:es:9">This Act may be cited as the &#x2018;North Korea Nonproliferation and Accountability Act of 2013&#x2019;.</p>
+  </ul>
+  <p/>
+  <h3 nid="t0:rfh:14" tracking-nids="t0:es:10">SEC. 2. FINDINGS.</h3>
+  <ul>
+    <p nid="t0:rfh:15" tracking-nids="t0:es:11">Congress makes the following findings:</p>
+    <ul>
+      <p nid="t0:rfh:16" tracking-nids="t0:es:12">(1) On February 12, 2013, the Government of North Korea declared that it had conducted its third test of a nuclear device, following its first self-declared test on October 9, 2006, and its second test on May 25, 2009.</p>
+      <p nid="t0:rfh:17" tracking-nids="t0:es:13">(2) United Nations Security Council Resolution 1718, adopted on October 14, 2006, condemned the nuclear test proclaimed by North Korea on October 9, 2006, in flagrant disregard of its relevant resolutions, in particular Security Council Resolution 1695 (2006), and demanded that North Korea not conduct any further nuclear test or launch of a ballistic missile; immediately retract its announcement of withdrawal from the Treaty on the Non-Proliferation of Nuclear Weapons, done at Washington, London, and Moscow July 1, 1968, and entered into force March 5, 1970 (NPT); and return to the NPT and International Atomic Energy Agency (IAEA) safeguards.</p>
+      <p nid="t0:rfh:18" tracking-nids="t0:es:14">(3) United Nations Security Council Resolution 1718 further decided that North Korea shall suspend all activities related to its ballistic missile program and in this context re-establish its pre-existing commitments to a moratorium on missile launching; shall abandon all nuclear weapons and existing nuclear programs in a complete, verifiable, and irreversible manner; shall act strictly in accordance with the obligations applicable to parties under the NPT and the terms and conditions of its IAEA Safeguards Agreement; shall provide the IAEA transparency measures extending beyond these requirements, including such access to individuals, documentation, equipments and facilities as may be required and deemed necessary by the IAEA; and shall abandon all other existing weapons of mass destruction (WMD) and its ballistic missile program in a complete, verifiable, and irreversible manner.</p>
+      <p nid="t0:rfh:19" tracking-nids="t0:es:15">(4) United Nations Security Council Resolution 1718 also required United Nations Member States to prevent--</p>
+      <ul>
+        <p nid="t0:rfh:20" tracking-nids="t0:es:16">(A) transfers to, and procurement from, North Korea of--</p>
+        <ul>
+          <p nid="t0:rfh:21" tracking-nids="t0:es:17">(i) items, materials, equipment, goods, and technology listed in the resolution; and</p>
+          <p nid="t0:rfh:22" tracking-nids="t0:es:18">(ii) other items, determined by the Security Council or the 1718 Committee, which could contribute to North Korea&#x2019;s nuclear-related, ballistic missile-related, or other weapons of mass destruction-related programs;</p>
+        </ul>
+        <p nid="t0:rfh:23" tracking-nids="t0:es:19">(B) certain military equipment or technology transfers related to the prohibited items; and</p>
+        <p nid="t0:rfh:24" tracking-nids="t0:es:20">(C) the transfer of luxury goods to North Korea.</p>
+      </ul>
+      <p nid="t0:rfh:25" tracking-nids="t0:es:21">(5) United Nations Security Council Resolution 1718 further required United Nations Member States to prevent the entry into and transit through their territories of individuals designated by the Security Council or the 1718 Committee as being responsible for North Korea&#x2019;s ballistic missile-related, nuclear-related, or other weapons of mass destruction-related programs, and the immediate freezing of funds, other financial assets, and economic resources of persons or entities designated by the Security Council or the 1718 Committee as being engaged in or providing support for such programs, or by persons or entities acting on their behalf or at their direction.</p>
+      <p nid="t0:rfh:26" tracking-nids="t0:es:22">(6) On May 25, 2009, the Government of North Korea declared that it had conducted a second test of a nuclear device.</p>
+      <p nid="t0:rfh:27" tracking-nids="t0:es:23">(7) United Nations Security Council Resolution 1874, adopted on June 12, 2009--</p>
+      <ul>
+        <p nid="t0:rfh:28" tracking-nids="t0:es:24">(A) decided that North Korea shall abandon all nuclear weapons and existing nuclear programs in a complete, verifiable, and irreversible manner;</p>
+        <p nid="t0:rfh:29" tracking-nids="t0:es:25">(B) authorized and required United Nations Member States to seize and dispose of proscribed illicit North Korea items related to its missile, nuclear, and WMD programs identified in inspections called for by the resolution;</p>
+        <p nid="t0:rfh:30" tracking-nids="t0:es:26">(C) banned the export to North Korea of all arms and related material other than small arms and light weapons; and</p>
+        <p nid="t0:rfh:31" tracking-nids="t0:es:27">(D) decided that Member States shall--</p>
+        <ul>
+          <p nid="t0:rfh:32" tracking-nids="t0:es:28">(i) prevent the provision of financial services or the transfer to, through, or from their territory of any financial or other assets or resources that could contribute to North Korea&#x2019;s nuclear-related, ballistic missile-related, or other WMD-related programs or activities; and</p>
+          <p nid="t0:rfh:33" tracking-nids="t0:es:29">(ii) deny fuel or supplies to service the vessels carrying them except where necessary on humanitarian grounds.</p>
+        </ul>
+      </ul>
+      <p nid="t0:rfh:34" tracking-nids="t0:es:30">(8) On December 12, 2012, in flagrant defiance of past United Nations Security Council resolutions, the international community, and its Six-Party partners, the Government of North Korea launched a three-stage, long-range missile, which overflew Japanese territory near Okinawa and dropped debris into the Yellow Sea, the East China Sea, and waters adjacent to the Philippines.</p>
+      <p nid="t0:rfh:35" tracking-nids="t0:es:31">(9) The United Nations Security Council adopted Security Council Resolution 2087 on January 22, 2013, which condemned North Korea&#x2019;s December 12, 2012, missile launch as a breach of Security Council Resolutions 1718 and 1874, demanded that North Korea &#x2018;abandon all nuclear weapons and existing nuclear programs in a complete, verifiable, and irreversible manner,&#x2019; and expressed the determination of the Security Council &#x2018;to take significant action in the event of a further DPRK launch or nuclear test&#x2019;.</p>
+      <p nid="t0:rfh:36">(10) the transition to the leadership of Kim Jong-Un after the death of Kim Jong-Il has introduced new uncertainties, yet the fundamental human rights and humanitarian conditions inside North Korea remain deplorable, thousands of North Koreans remain imprisoned in modern-day gulags, North Korean refugees remain acutely vulnerable, and the findings in the North Korean Human Rights Act of 2004 (<public-law-reference session="108" number="333"><public-law-reference session="108" number="333">Public Law 108-333</public-law-reference></public-law-reference>; <usc-reference title="22" section="7801" paragraph=""><usc-reference title="22" section="7801" paragraph="">22 U.S.C. 7801</usc-reference></usc-reference> et seq.), the North Korean Human Rights Reauthorization Act of 2008 (<public-law-reference session="110" number="346"><public-law-reference session="110" number="346">Public Law 110-346</public-law-reference></public-law-reference>), and the Ambassador James R. Lilley and Congressman Stephen J. Solarz North Korea Human Rights Reauthorization Act of 2012 (<public-law-reference session="112" number="172"><public-law-reference session="112" number="172">Public Law 112-172</public-law-reference></public-law-reference>) remain substantially accurate today.</p>
+      <p nid="t0:rfh:37" tracking-nids="t0:es:33">(11) There has been extensive military cooperation between the Governments of North Korea and Iran that dates back to the 1980s.</p>
+      <p nid="t0:rfh:38" tracking-nids="t0:es:34">(12) The latest provocative and defiant action by the Government of North Korea represents a direct threat to the United States and to our regional allies and partners.</p>
+    </ul>
+  </ul>
+  <p/>
+  <h3 nid="t0:rfh:39" tracking-nids="t0:es:35">SEC. 3. SENSE OF CONGRESS.</h3>
+  <ul>
+    <p nid="t0:rfh:40" tracking-nids="t0:es:36">It is the sense of Congress that--</p>
+    <ul>
+      <p nid="t0:rfh:41" tracking-nids="t0:es:37">(1) the test of a nuclear device by the Government of North Korea on February 12, 2013, and the missile launch of December 12, 2012, represent flagrant violations of the sanctions regime created by United Nations Security Council Resolutions 1695 (2006), 1718 (2006), and 1874 (2009), the test of the nuclear device on February 12, 2013, is a clear, deliberate, and provocative violation of United Nations Security Resolution 2087 (2013), and the Government of North Korea continues to defy the United Nations, its Six-Party partners, and the international community;</p>
+      <p nid="t0:rfh:42" tracking-nids="t0:es:38">(2) all Member States of the United Nations should immediately implement and enforce sanctions imposed by these resolutions and censure North Korea;</p>
+      <p nid="t0:rfh:43" tracking-nids="t0:es:39">(3) the Government of North Korea should abandon and dismantle its provocative ballistic missile and nuclear weapons programs, cease its proliferation activities, and come into immediate compliance with all United Nations Security Council resolutions and its commitments under the 2005 Joint Statement of the Six-Party Talks;</p>
+      <p nid="t0:rfh:44" tracking-nids="t0:es:40">(4) restrictions against the Government of North Korea, including sanctions that ban the importation into the United States of unlicensed North Korean products and goods, should remain in effect until the Government of North Korea no longer engages in activities that threaten the United States, our allies and partners, and global peace and stability;</p>
+      <p nid="t0:rfh:45" tracking-nids="t0:es:41">(5) the United States Government should seek a new round of United Nations Security Council sanctions, including the public identification of all North Korean and foreign banks, business, and government agencies suspected of conduct that violates United Nations Security Council resolutions, and implementing necessary measures to ensure enforcement of such sanctions;</p>
+      <p nid="t0:rfh:46" tracking-nids="t0:es:42">(6) all United Nations Member States should--</p>
+      <ul>
+        <p nid="t0:rfh:47" tracking-nids="t0:es:43">(A) further strengthen efforts to prevent the transfer of military and dual-use technologies to North Korea, including an expansion of the list of sanctioned materials identified by the United Nations Panel of Experts on North Korea sanctions and the items on the Nuclear Suppliers Group lists;</p>
+        <p nid="t0:rfh:48" tracking-nids="t0:es:44">(B) exercise enhanced vigilance including monitoring the activities of their nationals, persons in their territories, financial institutions, and other entities with or on behalf of financial institutions in North Korea, or of those that act on behalf or at the direction of financial institutions in North Korea, including their branches, representatives, agents, and subsidiaries abroad; and</p>
+        <p nid="t0:rfh:49" tracking-nids="t0:es:45">(C) prevent transshipments that relate to North Korean military, missile, and nuclear programs and proliferation activities;</p>
+      </ul>
+      <p nid="t0:rfh:50" tracking-nids="t0:es:46">(7) the United States Government should explore appropriate measures by the United States Armed Forces in the Asia-Pacific region, including in partnership with the armed forces of others countries in the region, to safeguard the national interests, security, and livelihood of the United States and its people, as well as those of United States allies and partners in the region; and</p>
+      <p nid="t0:rfh:51" tracking-nids="t0:es:47">(8) the United States Government, acting through its appropriate diplomatic representatives, should secure the agreement of the United Nations Human Rights Council and General Assembly to adopt the recommendations made in the February 1, 2013, report of Marzuki Darusman, Special Rapporteur on the situation of human rights in the Democratic People&#x2019;s Republic of Korea, that an inquiry mechanism should be established to investigate North Korea&#x2019;s &#x2018;grave, widespread and systematic violations of human rights,&#x2019; as well as to analyze whether crimes against humanity are being perpetrated in North Korea.</p>
+    </ul>
+  </ul>
+  <p/>
+  <h3 nid="t0:rfh:52" tracking-nids="t0:es:48">SEC. 4. REPORT.</h3>
+  <ul>
+    <p nid="t0:rfh:53" tracking-nids="t0:es:49">Not later than May 15, 2013, the Secretary of State shall conduct, coordinate, and submit to Congress a comprehensive report on United States policy towards North Korea based on a full and complete interagency review of current policy and possible alternatives, including North Korea&#x2019;s weapons of mass destruction and missile programs and human rights atrocities. The report shall include recommendations for such legislative or administrative action as the Secretary considers appropriate in light of the results of the review.</p>
+  </ul>
+  <p/>
+  <h3 nid="t0:rfh:54" tracking-nids="t0:es:50">SEC. 5. RULE OF CONSTRUCTION.</h3>
+  <ul>
+    <p nid="t0:rfh:55" tracking-nids="t0:es:51">Nothing in this Act shall be construed as a declaration of war or an authorization for the use of force against North Korea.</p>
+  </ul>
+  <p nid="t0:rfh:56" tracking-nids="t0:es:52">Passed the Senate February 25, 2013.</p>
+  <p nid="t0:rfh:57">Attest:</p>
+  <p nid="t0:rfh:58">
+    <removed sequence="3"><p nid="t0:es:54">Secretary.</p><p/><center><p nid="t0:es:55">113th CONGRESS</p></center><p/><center><p nid="t0:es:56">1st Session</p></center><p/><center><p nid="t0:es:57">S. 298</p></center><p/><center><p nid="t0:es:58">AN ACT</p></center>To prevent nuclear proliferation in North Korea, and for other purposes</removed>
+    <inserted sequence="4">NANCY ERICKSON,</inserted>
+  </p>
+  <p nid="t0:rfh:59"><inserted sequence="5">Secretary</inserted>.</p>
+</body>

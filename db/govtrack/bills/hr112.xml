@@ -1,0 +1,25 @@
+<bill session="113" type="hr" number="112" updated="2013-03-14T04:45:46-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="official">Celebrating the history of municipal bonds, the 100-year precedent of the Federal tax exemption for municipal bond interest, and the important contribution municipal bonds have made to economic growth and wellbeing in each State and municipality in our great Nation.</title>
+  </titles>
+  <sponsor id="400400"/>
+  <cosponsors>
+    <cosponsor id="400291" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-13">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

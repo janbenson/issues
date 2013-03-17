@@ -1,0 +1,45 @@
+<bill session="113" type="h" number="1097" updated="2013-03-13T04:46:43-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="official">To direct the Secretary of Transportation to ensure that on-duty time does not include waiting time at a natural gas or oil well site for certain commercial motor vehicle operators, and for other purposes.</title>
+  </titles>
+  <sponsor id="412568"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2013-03-12"/>
+    <cosponsor id="412567" joined="2013-03-12"/>
+    <cosponsor id="400077" joined="2013-03-12"/>
+    <cosponsor id="400655" joined="2013-03-12"/>
+    <cosponsor id="412555" joined="2013-03-12"/>
+    <cosponsor id="412482" joined="2013-03-12"/>
+    <cosponsor id="400141" joined="2013-03-12"/>
+    <cosponsor id="400651" joined="2013-03-12"/>
+    <cosponsor id="412429" joined="2013-03-12"/>
+    <cosponsor id="412464" joined="2013-03-12"/>
+    <cosponsor id="412256" joined="2013-03-12"/>
+    <cosponsor id="400247" joined="2013-03-12"/>
+    <cosponsor id="412294" joined="2013-03-12"/>
+    <cosponsor id="412302" joined="2013-03-12"/>
+    <cosponsor id="400313" joined="2013-03-12"/>
+    <cosponsor id="412431" joined="2013-03-12"/>
+    <cosponsor id="412489" joined="2013-03-12"/>
+    <cosponsor id="412261" joined="2013-03-12"/>
+    <cosponsor id="412408" joined="2013-03-12"/>
+    <cosponsor id="412461" joined="2013-03-12"/>
+    <cosponsor id="400440" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

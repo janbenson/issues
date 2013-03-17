@@ -1,0 +1,25 @@
+<bill session="113" type="hr" number="78" updated="2013-03-09T06:17:42-05:00">
+  <state datetime="2013-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-25"/>
+  </status>
+  <introduced datetime="2013-02-25"/>
+  <titles>
+    <title as="introduced" type="official">Expressing support for designation of July as National Sarcoma Awareness Month.</title>
+  </titles>
+  <sponsor id="412195"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-25">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>2/25/2013--Introduced.
+Expresses support for the designation of National Sarcoma Awareness Month.</summary>
+</bill>

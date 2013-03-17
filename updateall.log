@@ -1,0 +1,25 @@
+Requiring REXML
+
+
+rsyncing govtrack at Fri Mar 15 21:25:19 PDT 2013
+
+
+rsyncing govtrack first the people information
+receiving incremental file list
+
+sent 34 bytes  received 64 bytes  15.08 bytes/sec
+total size is 6924393  speedup is 70657.07
+
+
+rsyncing govtrack then bills information
+receiving incremental file list
+
+sent 65 bytes  received 49307 bytes  14106.29 bytes/sec
+total size is 10960485  speedup is 222.00
+receiving incremental file list
+
+sent 54 bytes  received 620786 bytes  73040.00 bytes/sec
+total size is 185646983  speedup is 299.03
+
+
+rsyncing govtrack then bills information

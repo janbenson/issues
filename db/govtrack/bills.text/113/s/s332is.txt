@@ -1,0 +1,813 @@
+                                                                                                                                   II
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                            S. 332
+                                  To address climate disruptions, reduce carbon pollution, enhance the use
+                                      of clean energy, and promote resilience in the infrastructure of the
+                                      United States, and for other purposes.
+
+
+
+
+                                              IN THE SENATE OF THE UNITED STATES
+                                                             FEBRUARY 14, 2013
+                                  Mr. SANDERS (for himself and Mrs. BOXER) introduced the following bill;
+                                      which was read twice and referred to the Committee on Environment and
+                                      Public Works
+
+
+
+
+                                                                            A BILL
+                                  To address climate disruptions, reduce carbon pollution, en-
+                                     hance the use of clean energy, and promote resilience
+                                     in the infrastructure of the United States, and for other
+                                     purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+                                    4              (a) SHORT TITLE.—This Act may be cited as the
+                                    5 ‘‘Climate Protection Act of 2013’’.
+                                    6              (b) TABLE            OF    CONTENTS.—The table of contents for
+
+
+
+
+                                    7 this Act is as follows:
+                                          Sec. 1. Short title; table of contents.
+
+
+
+
+                                                                                             2
+                                                                      TITLE I—CARBON POLLUTION FEE
+
+                                          Sec. 101. Carbon pollution fee.
+                                          Sec. 102. Residential environmental rebate program.
+                                          Sec. 103. Pollution Reduction Trust Fund.
+
+                                               TITLE II—SUSTAINABLE TECHNOLOGIES FINANCE PROGRAM
+
+                                          Sec. 201. Sustainable Technologies Finance Program.
+                                          Sec. 202. Budgetary effects.
+
+                                                              TITLE III—ENVIRONMENTAL PROTECTION
+
+                                          Sec. 301. Regulation of hydraulic fracturing.
+                                          Sec. 302. Reports to Congress.
+                                          Sec. 303. Sense of Congress relating to reduction in greenhouse gas emissions.
+                                    1          TITLE I—CARBON POLLUTION
+                                    2                     FEE
+                                    3     SEC. 101. CARBON POLLUTION FEE.
+
+                                    4              (a) IN GENERAL.—Title I of the Clean Air Act (42
+                                    5 U.S.C. 7401 et seq.) is amended by adding at the end
+                                    6 the following:
+                                    7                      ‘‘PART E—CARBON POLLUTION FEE
+
+                                    8     ‘‘SEC. 195. DEFINITIONS.
+
+                                    9              ‘‘In this part:
+                                  10                         ‘‘(1) CARBON                    POLLUTING              SUBSTANCE.—The
+                                  11               term ‘carbon polluting substance’ means coal (in-
+                                  12               cluding lignite and peat), petroleum and any petro-
+                                  13               leum product, or natural gas that—
+                                  14                                  ‘‘(A) when combusted or otherwise used,
+                                  15                         will release greenhouse gas emissions; and
+                                  16                                  ‘‘(B) is—
+                                  17                                         ‘‘(i) extracted, manufactured, or pro-
+
+
+
+
+                                  18                                  duced in the United States; or
+                                              •S 332 IS
+
+                                                                                             3
+                                    1                                        ‘‘(ii) imported into the United States
+                                    2                                 for consumption, use, or warehousing.
+                                    3                        ‘‘(2) CARBON               POLLUTION-INTENSIVE GOOD.—
+                                    4              The term ‘carbon pollution-intensive good’ means a
+                                    5              good that is (as identified by the Administrator, by
+                                    6              rule)—
+                                    7                                 ‘‘(A) iron, steel, a steel mill product (in-
+                                    8                        cluding pipe and tube), aluminum, cement,
+                                    9                        glass (including flat, container, and specialty
+                                  10                         glass and fiberglass), pulp, paper, a chemical,
+                                  11                         or an industrial ceramic;
+                                  12                                  ‘‘(B) any other manufactured product that
+                                  13                         the Administrator determines—
+                                  14                                         ‘‘(i) is transferred for purposes of fur-
+                                  15                                  ther manufacture; and
+                                  16                                         ‘‘(ii) generates, in the course of the
+                                  17                                  manufacture of the product, direct and in-
+                                  18                                  direct greenhouse gas emissions that are
+                                  19                                  comparable (on an emissions-per-dollar of
+                                  20                                  output basis) to emissions generated in the
+                                  21                                  manufacture or production of a product
+                                  22                                  identified in subparagraph (A); or
+                                  23                                  ‘‘(C) a manufactured item—
+
+
+
+
+
+                                              •S 332 IS
+
+                                                                                             4
+                                    1                                        ‘‘(i) in which 1 or more products iden-
+                                    2                                 tified in subparagraph (A) or (B) are in-
+                                    3                                 puts; and
+                                    4                                        ‘‘(ii) the cost of production of which
+                                    5                                 in the United States is significantly in-
+                                    6                                 creased by the imposition of a fee under
+                                    7                                 this part.
+                                    8                        ‘‘(3) FIRST           CALENDAR YEAR.—The                              term ‘first
+                                    9              calendar year’ means the earlier of—
+                                  10                                  ‘‘(A) calendar year 2014; or
+                                  11                                  ‘‘(B) the first calendar year beginning at
+                                  12                         least 180 days after the date of enactment of
+                                  13                         this part.
+                                  14                         ‘‘(4) SUBSTANTIALLY                     EQUIVALENT MEASURE.—
+                                  15               The term ‘substantially equivalent measure’ means a
+                                  16               fee or other regulatory requirement that imposes a
+                                  17               cost on manufacturers of carbon pollution-intensive
+                                  18               goods located outside the United States approxi-
+                                  19               mately equal to the cost imposed by the fee under
+                                  20               this part on manufacturers of comparable carbon
+                                  21               pollution-intensive goods located in the United
+                                  22               States.
+                                  23                         ‘‘(5) 12TH           CALENDAR YEAR.—The                               term ‘12th
+                                  24               calendar year’ means the calendar year beginning 12
+
+
+
+
+                                  25               years after the first calendar year.
+                                              •S 332 IS
+
+                                    1     ‘‘SEC. 196. IMPOSITION OF FEE.                 5
+                                    2              ‘‘(a) IN GENERAL.—The Administrator shall impose
+                                    3 on any manufacturer, producer, or importer of a carbon
+                                    4 polluting substance a fee in accordance with this section.
+                                    5              ‘‘(b) AMOUNT.—
+                                    6                        ‘‘(1) IN       GENERAL.—The                     amount of the carbon
+                                    7              pollution fee imposed under subsection (a) on any
+                                    8              carbon polluting substance shall be assessed per ton
+                                    9              of carbon dioxide content (including carbon dioxide
+                                  10               equivalent content of methane) of the carbon pol-
+                                  11               luting substance, as determined by the Adminis-
+                                  12               trator, in consultation with the Secretary of Energy.
+                                  13                         ‘‘(2) FRACTIONAL                    PART OF TON.—In                   the case
+                                  14               of a fraction of a ton of a carbon polluting sub-
+                                  15               stance, the fee imposed under subsection (a) shall be
+                                  16               the same fraction of the amount of the fee imposed
+                                  17               on a whole ton of the carbon polluting substance.
+                                  18                         ‘‘(3) APPLICABLE                    AMOUNT.—For                   purposes of
+                                  19               paragraph (1), the amount of the fee shall be—
+                                  20                                  ‘‘(A) for the first calendar year, $20;
+                                  21                                  ‘‘(B) for each calendar year occurring after
+                                  22                         the first calendar year and before the 12th cal-
+                                  23                         endar year, an amount equal to the sum of—
+                                  24                                         ‘‘(i) the amount in effect under this
+
+
+
+
+                                  25                                  paragraph for the preceding calendar year;
+                                  26                                  and
+                                              •S 332 IS
+
+                                                                                             6
+                                    1                                        ‘‘(ii) the product (rounded to the
+                                    2                                 nearest dollar) obtained by multiplying—
+                                    3                                                  ‘‘(I) the amount described in
+                                    4                                        clause (i); and
+                                    5                                                  ‘‘(II) 5.6 percent; and
+                                    6                                 ‘‘(C) for the 12th calendar year and any
+                                    7                        calendar year thereafter, the amount in effect
+                                    8                        under this paragraph for the preceding calendar
+                                    9                        year.
+                                  10               ‘‘(c) SINGLE IMPOSITION                          OF     FEE.—No fee shall be
+                                  11 imposed under subsection (a) with respect to a carbon pol-
+                                  12 luting substance if the person that would be liable for the
+                                  13 fee establishes that a prior fee imposed under that sub-
+                                  14 section has been imposed with respect to that carbon pol-
+                                  15 luting substance.
+                                  16               ‘‘(d) LIMITATIONS.—No fee shall be imposed against
+                                  17 a person under subsection (a) for a calendar year if during
+                                  18 that calendar year, in accordance with such regulations
+                                  19 as the Administrator may prescribe—
+                                  20                         ‘‘(1) the person uses a carbon polluting sub-
+                                  21               stance as a feedstock so that the carbon associated
+                                  22               with that carbon polluting substance will not be
+                                  23               emitted;
+                                  24                         ‘‘(2) a fee under subsection (a) was paid with
+
+
+
+
+                                  25               respect to another carbon polluting substance that is
+                                              •S 332 IS
+
+                                                                                             7
+                                    1              used by the person in the manufacture or production
+                                    2              of the applicable carbon polluting substance; or
+                                    3                        ‘‘(3) the carbon polluting substance is exported.
+                                    4     ‘‘SEC. 197. CARBON EQUIVALENCY FEE.
+
+                                    5              ‘‘(a) IMPORTS.—
+                                    6                        ‘‘(1) IN         GENERAL.—The                      Administrator shall
+                                    7              impose a carbon equivalency fee on imports of car-
+                                    8              bon pollution-intensive goods that shall be equivalent
+                                    9              to the cost that domestic producers of comparable
+                                  10               carbon pollution-intensive goods incur as a result
+                                  11               of—
+                                  12                                  ‘‘(A) fees paid by manufacturers, pro-
+                                  13                         ducers, and importers of carbon polluting sub-
+                                  14                         stances under this part; and
+                                  15                                  ‘‘(B) carbon equivalency fees paid by im-
+                                  16                         porters of carbon pollution-intensive goods used
+                                  17                         in the production of the relevant comparable
+                                  18                         carbon pollution-intensive goods.
+                                  19                         ‘‘(2) DETERMINATION                         OF FEE AMOUNT.—
+
+                                  20                                  ‘‘(A) IN         GENERAL.—The                         amount of the
+                                  21                         carbon equivalency fee under paragraph (1)
+                                  22                         shall be—
+                                  23                                         ‘‘(i) determined annually; and
+                                  24                                         ‘‘(ii) differentiated by classes of prod-
+
+
+
+
+                                  25                                  ucts and country of origin, taking into ac-
+                                              •S 332 IS
+
+                                                                                             8
+                                    1                                 count the quantity of greenhouse gas emis-
+                                    2                                 sions released during the process of manu-
+                                    3                                 facturing the carbon pollution-intensive
+                                    4                                 goods and transporting the carbon pollu-
+                                    5                                 tion-intensive goods from the country of
+                                    6                                 origin.
+                                    7                                 ‘‘(B) PETITIONS                    FOR ADJUSTMENT.—The
+                                    8                        Administrator shall provide for a process for
+                                    9                        petitioning for adjustment to any fees deter-
+                                  10                         mined under this subsection.
+                                  11               ‘‘(b) USE OF PROCEEDS.—
+                                  12                         ‘‘(1) TRANSFER                  OF FUNDS.—For                    each applica-
+                                  13               ble fiscal year, the Secretary of the Treasury shall
+                                  14               transfer to the Administrator and the Secretary of
+                                  15               Transportation an amount equal to 50 percent each
+                                  16               of the amounts received during the preceding fiscal
+                                  17               year as a result of the carbon equivalency fee im-
+                                  18               posed under subsection (a), without further appro-
+                                  19               priation.
+                                  20                         ‘‘(2) USE        OF FUNDS.—
+
+                                  21                                  ‘‘(A) ENVIRONMENT.—The Administrator,
+                                  22                         in consultation with the Secretary of Agri-
+                                  23                         culture, the Secretary of the Interior, and the
+                                  24                         Secretary of State, shall use the amounts trans-
+
+
+
+
+                                  25                         ferred under paragraph (1)—
+                                              •S 332 IS
+
+                                                                                             9
+                                    1                                        ‘‘(i) as a primary purpose, to provide
+                                    2                                 amounts to State and local programs that
+                                    3                                 assist communities in—
+                                    4                                                  ‘‘(I) adapting to climate change;
+                                    5                                                  ‘‘(II) improving the resiliency of
+                                    6                                        critical infrastructure; and
+                                    7                                                  ‘‘(III) protecting environmental
+                                    8                                        quality and wildlife; and
+                                    9                                        ‘‘(ii) as a secondary purpose, to meet
+                                  10                                  international commitments made by the
+                                  11                                  United States to assist with climate change
+                                  12                                  adaptation.
+                                  13                                  ‘‘(B) TRANSPORTATION.—The Secretary of
+                                  14                         Transportation shall use the amounts trans-
+                                  15                         ferred         under            paragraph               (1)       to   provide
+                                  16                         amounts—
+                                  17                                         ‘‘(i) to State and local programs that
+                                  18                                  assist communities in improving the resil-
+                                  19                                  iency of critical infrastructure; and
+                                  20                                         ‘‘(ii) for projects that provide pref-
+                                  21                                  erential parking for carpools, including the
+                                  22                                  addition of electric vehicle charging sta-
+                                  23                                  tions, subject to the condition that the pri-
+                                  24                                  mary purpose of the facilities is the reduc-
+
+
+
+
+
+                                              •S 332 IS
+
+                                                                                         10
+                                    1                                 tion of vehicular traffic on nearby Federal-
+                                    2                                 aid highways.
+                                    3              ‘‘(c) EXPIRATION.—This section shall cease to have
+                                    4 effect at such time as, and to the extent that—
+                                    5                        ‘‘(1)(A) in the case of countries of export that
+                                    6              adopt and ratify an international agreement requir-
+                                    7              ing countries that emit greenhouse gases and
+                                    8              produce carbon pollution-intensive goods for inter-
+                                    9              national markets to adopt equivalent measures, the
+                                  10               international agreement comes into effect; or
+                                  11                         ‘‘(B) the country of export has implemented
+                                  12               substantially equivalent measures, as certified by the
+                                  13               President of the United States; and
+                                  14                         ‘‘(2) the actions provided under subsection (a)
+                                  15               are no longer appropriate, as determined by the Ad-
+                                  16               ministrator.
+                                  17      ‘‘SEC. 198. REPORT TO CONGRESS.
+
+                                  18               ‘‘Not later than 5 years after the date of enactment
+                                  19 of this part, the Administrator shall submit to Congress
+                                  20 a report that includes recommendations for—
+                                  21                         ‘‘(1) the administration of the carbon pollution
+                                  22               fee program under this part for calendar years be-
+                                  23               ginning after the 12th calendar year, including a
+                                  24               schedule for establishing the amount of the fee for
+
+
+
+
+                                  25               those subsequent calendar years; and
+                                              •S 332 IS
+
+                                                                                         11
+                                    1                        ‘‘(2) future investments to reduce greenhouse
+                                    2              gas emissions and provide resources for climate
+                                    3              change adaptation.’’.
+                                    4              (b) TECHNICAL AMENDMENTS.—Title IV of the
+                                    5 Clean Air Act (relating to noise pollution) (42 U.S.C.
+                                    6 7641 et seq.) is—
+                                    7                        (1) amended by redesignating sections 401
+                                    8              through 403 as sections 701 through 703, respec-
+                                    9              tively; and
+                                  10                         (2) redesignated as title VII and moved to ap-
+                                  11               pear at the end of that Act.
+                                  12      SEC. 102. RESIDENTIAL ENVIRONMENTAL REBATE PRO-
+                                  13                              GRAM.
+                                  14               (a) IN GENERAL.—There is authorized to be appro-
+                                  15 priated to the Administrator of the Environmental Protec-
+                                  16 tion Agency (referred to in this section as the ‘‘Adminis-
+                                  17 trator’’) an amount equal to 3⁄5 of the amounts received
+                                  18 in the Treasury as the result of the fee imposed under
+                                  19 section 196 of the Clean Air Act (as added by section
+                                  20 101(a)) to provide a monthly residential environmental re-
+                                  21 bate to legal residents of the United States.
+                                  22               (b) REGULATIONS.—As soon as practicable after the
+                                  23 date of enactment of this Act, the Administrator shall pro-
+                                  24 mulgate regulations establishing procedures for the dis-
+
+
+
+
+                                  25 tribution of residential environmental rebates under sub-
+                                              •S 332 IS
+
+                                                                                         12
+                                    1 section (a), including procedures that provide, to the max-
+                                    2 imum extent practicable, for—
+                                    3                        (1) the coordination of the monthly residential
+                                    4              environmental rebate with other Federal and State
+                                    5              payment mechanisms;
+                                    6                        (2) the use of electronic transfers of the month-
+                                    7              ly residential environmental rebates; and
+                                    8                        (3) the establishment of an Office of Environ-
+                                    9              mental Rebate Advocate within the Environmental
+                                  10               Protection Agency to assist households with access-
+                                  11               ing and using the residential environmental rebate
+                                  12               program.
+                                  13               (c) ADMINISTRATIVE COSTS.—Of the amounts re-
+                                  14 served for rebates under this section, not more than 1 per-
+                                  15 cent shall be used to administer the program under this
+                                  16 section.
+                                  17      SEC. 103. POLLUTION REDUCTION TRUST FUND.
+
+                                  18               (a) ESTABLISHMENT.—There is established in the
+                                  19 Treasury of the United States a trust fund to be known
+                                  20 as the ‘‘Pollution Reduction Trust Fund’’ (referred to in
+                                  21 this section as the ‘‘Trust Fund’’), consisting of such
+                                  22 amounts as are transferred to the Trust Fund under sub-
+                                  23 section (b) and to be used to facilitate the implementation
+                                  24 of the carbon pollution reduction program.
+
+
+
+
+
+                                              •S 332 IS
+
+                                                                                         13
+                                    1              (b) TRANSFERS                    TO       TRUST FUND.—After setting
+                                    2 aside amounts under section 102(a), there is appropriated
+                                    3 to the Trust Fund an amount equivalent to the remaining
+                                    4 revenues received in the Treasury as the result of the fee
+                                    5 imposed under section 196 of the Clean Air Act (as added
+                                    6 by section 101(a)).
+                                    7              (c) DISTRIBUTION                     OF     AMOUNTS.—Amounts in the
+                                    8 Trust Fund for a calendar year shall be available without
+                                    9 further appropriation, as follows:
+                                  10                         (1) $7,500,000,000 shall be available to the Ad-
+                                  11               ministrator of the Environmental Protection Agency,
+                                  12               for each of the first 10 calendar years beginning
+                                  13               after the date of enactment of this Act, to mitigate
+                                  14               the economic impacts of the fee imposed under sec-
+                                  15               tion 196 of the Clean Air Act (as added by section
+                                  16               101(a)) on energy-intensive and trade-exposed in-
+                                  17               dustries, to be distributed in accordance with regula-
+                                  18               tions promulgated by the Administrator, subject to
+                                  19               the requirement that the Administrator shall reserve
+                                  20               not less than 1⁄4 of those amounts for energy effi-
+                                  21               ciency investments in energy-intensive or trade-ex-
+                                  22               posed industries.
+                                  23                         (2) $5,000,000,000 shall be available to the
+                                  24               Secretary of Energy to carry out the Weatherization
+
+
+
+
+                                  25               Assistance Program for Low-Income Persons estab-
+                                              •S 332 IS
+
+                                                                                         14
+                                    1              lished under part A of title IV of the Energy Con-
+                                    2              servation and Production Act (42 U.S.C. 6861 et
+                                    3              seq.) for each of the first 10 calendar years begin-
+                                    4              ning after the date of enactment of this Act.
+                                    5                        (3) $1,000,000,000 shall be available to the
+                                    6              Secretary of Labor for each of the first 10 calendar
+                                    7              years beginning after the date of enactment of this
+                                    8              Act for job training, education, and transition assist-
+                                    9              ance for individuals employed by the fossil fuel in-
+                                  10               dustry seeking to transition to clean energy jobs.
+                                  11                         (4) $2,000,000,000 shall be available for the
+                                  12               Advanced Research Projects Agency-Energy for each
+                                  13               of the first 10 calendar years beginning after the
+                                  14               date of enactment of this Act.
+                                  15                         (5) The balance shall be used for Federal budg-
+                                  16               et deficit reduction.
+                                  17      TITLE II—SUSTAINABLE TECH-
+                                  18         NOLOGIES  FINANCE  PRO-
+                                  19         GRAM
+                                  20      SEC. 201. SUSTAINABLE TECHNOLOGIES FINANCE PRO-
+                                  21                              GRAM.
+                                  22               (a) ESTABLISHMENT.—The Administrator of the En-
+                                  23 vironmental Protection Agency (referred to in this section
+                                  24 as the ‘‘Administrator’’) shall establish a program, and
+
+
+
+
+                                  25 promulgate any necessary regulations to carry out the pro-
+                                              •S 332 IS
+
+                                                                                         15
+                                    1 gram, to be known as the ‘‘Sustainable Technologies Fi-
+                                    2 nance Program’’, under which the Administrator shall
+                                    3 provide loans, credit instruments, loan guarantees, and
+                                    4 other financial assistance, including in the form of assist-
+                                    5 ance for public-private partnerships, for eligible projects
+                                    6 carried out in the United States that reduce greenhouse
+                                    7 gas emissions.
+                                    8              (b) ELIGIBLE PROJECTS.—A project shall be eligible
+                                    9 to receive financial assistance under this section if the
+                                  10 project reduces greenhouse gas emissions as determined
+                                  11 by the Administrator, and uses—
+                                  12                         (1) a technology for—
+                                  13                                  (A) energy efficiency;
+                                  14                                  (B) combined heat and power;
+                                  15                                  (C) solar energy, including—
+                                  16                                         (i) photovoltaic energy;
+                                  17                                         (ii) thermal energy;
+                                  18                                         (iii) wind energy; and
+                                  19                                         (iv)        geothermal                energy,         including
+                                  20                                  groundsource heat pumps;
+                                  21                                  (D) biomass or biofuels that are not
+                                  22                         sourced from food crops;
+                                  23                                  (E) ocean, tidal, or hydropower energy;
+                                  24                                  (F) electric vehicle infrastructure;
+
+
+
+
+
+                                  25                                  (G) advanced battery or energy storage; or
+
+
+                                              •S 332 IS
+
+                                                                                         16
+                                    1                                 (H) rail, transit, or public transportation;
+                                    2                        or
+                                    3                        (2) any other transportation technology that of-
+                                    4              fers a reduction in greenhouse gas emissions, as de-
+                                    5              termined by the Administrator.
+                                    6              (c) APPLICATIONS.—To be eligible to receive financial
+                                    7 assistance under this section, the owner or operator of an
+                                    8 eligible project shall submit to the Administrator an appli-
+                                    9 cation at such time, in such manner, and containing such
+                                  10 information as the Administrator may require.
+                                  11               (d) PRIORITY.—In providing financial assistance
+                                  12 under this section, the Administrator shall give priority
+                                  13 to projects that provide the largest greenhouse gas emis-
+                                  14 sions reductions per Federal dollar invested, as deter-
+                                  15 mined by the Administrator.
+                                  16               (e) FUNDING.—
+                                  17                         (1) IN        GENERAL.—Notwithstanding                                any other
+                                  18               provision of law, on October 1, 2013, and on each
+                                  19               October 1 thereafter through October 1, 2022, out
+                                  20               of any funds in the Treasury not otherwise appro-
+                                  21               priated, the Secretary of the Treasury shall transfer
+                                  22               to the Administrator for the cost of grants, loans,
+                                  23               and loan guarantees to carry out this section,
+                                  24               $5,000,000,000, to remain available until expended.
+
+
+
+
+
+                                              •S 332 IS
+
+                                                                                         17
+                                    1                        (2) RECEIPT             AND ACCEPTANCE.—The                           Adminis-
+                                    2              trator shall be entitled to receive, shall accept, and
+                                    3              shall use to carry out this section the funds trans-
+                                    4              ferred under paragraph (1), without further appro-
+                                    5              priation.
+                                    6                        (3) ADMINISTRATIVE                          COSTS.—Of            the amounts
+                                    7              made available to carry out this section, the Admin-
+                                    8              istrator may use not more than 2 percent for each
+                                    9              fiscal year for the administration of this section.
+                                  10      SEC. 202. BUDGETARY EFFECTS.
+                                  11               The budgetary effects of this title, for the purpose
+                                  12 of complying with the Statutory Pay-As-You-Go Act of
+                                  13 2010, shall be determined by reference to the latest state-
+                                  14 ment titled ‘‘Budgetary Effects of PAYGO Legislation’’
+                                  15 for this Act, submitted for printing in the Congressional
+                                  16 Record by the Chairman of the Senate Budget Committee,
+                                  17 provided that such statement has been submitted prior to
+                                  18 the vote on passage.
+                                  19              TITLE III—ENVIRONMENTAL
+                                  20                     PROTECTION
+                                  21      SEC. 301. REGULATION OF HYDRAULIC FRACTURING.
+
+                                  22               (a) DISCLOSURE.—Section 1421(b) of the Safe
+                                  23 Drinking Water Act (42 U.S.C. 300h(b)) is amended—
+                                  24                         (1) by striking paragraph (2);
+
+
+
+
+
+                                              •S 332 IS
+
+                                                                                         18
+                                    1                        (2) by redesignating paragraph (3) as para-
+                                    2              graph (2); and
+                                    3                        (3) by adding at the end the following:
+                                    4                        ‘‘(3) DISCLOSURES                      OF CHEMICAL CONSTITU-
+                                    5              ENTS.—
+                                    6                                 ‘‘(A) IN        GENERAL.—A                   person conducting
+                                    7                        hydraulic fracturing operations shall disclose to
+                                    8                        the State (or to the Administrator, in any case
+                                    9                        in which the Administrator has primary en-
+                                  10                         forcement responsibility in a State), by not
+                                  11                         later than such deadlines as shall be established
+                                  12                         by the State (or the Administrator)—
+                                  13                                         ‘‘(i) before the commencement of any
+                                  14                                  hydraulic fracturing operations at any area
+                                  15                                  or a portion of a area, a list of chemicals
+                                  16                                  intended for use in any underground injec-
+                                  17                                  tion during the operations (including iden-
+                                  18                                  tification of the chemical constituents of
+                                  19                                  mixtures, Chemical Abstracts Service num-
+                                  20                                  bers for each chemical and constituent,
+                                  21                                  material safety data sheets when available,
+                                  22                                  and the anticipated volume of each chem-
+                                  23                                  ical to be used); and
+                                  24                                         ‘‘(ii) after the completion of hydraulic
+
+
+
+
+                                  25                                  fracturing operations described in clause
+                                              •S 332 IS
+
+                                                                                         19
+                                    1                                 (i), the list of chemicals used in each un-
+                                    2                                 derground injection during the operations
+                                    3                                 (including identification of the chemical
+                                    4                                 constituents of mixtures, Chemical Ab-
+                                    5                                 stracts Service numbers for each chemical
+                                    6                                 and         constituent,             material           safety   data
+                                    7                                 sheets when available, and the volume of
+                                    8                                 each chemical used).
+                                    9                                 ‘‘(B) PUBLIC                AVAILABILITY.—The                    State
+                                  10                         (or the Administrator, as applicable) shall make
+                                  11                         available to the public the information con-
+                                  12                         tained in each disclosure of chemical constitu-
+                                  13                         ents under subparagraph (A), including by
+                                  14                         posting the information on an appropriate
+                                  15                         Internet website.
+                                  16                                  ‘‘(C) IMMEDIATE                    DISCLOSURE IN CASE OF
+                                  17                         MEDICAL EMERGENCY.—
+                                  18                                         ‘‘(i) IN         GENERAL.—Subject                     to clause
+                                  19                                  (ii), the regulations promulgated pursuant
+                                  20                                  to subsection (a) shall require that, in any
+                                  21                                  case in which the State (or the Adminis-
+                                  22                                  trator, as applicable) or an appropriate
+                                  23                                  treating physician or nurse determines that
+                                  24                                  a medical emergency exists and the propri-
+
+
+
+
+                                  25                                  etary chemical formula or specific chemical
+                                              •S 332 IS
+
+                                                                                         20
+                                    1                                 identity of a trade-secret chemical used in
+                                    2                                 hydraulic fracturing is necessary for med-
+                                    3                                 ical treatment, the applicable person using
+                                    4                                 hydraulic fracturing shall, upon request,
+                                    5                                 immediately disclose to the State (or the
+                                    6                                 Administrator) or the treating physician or
+                                    7                                 nurse the proprietary chemical formula or
+                                    8                                 specific chemical identity of a trade-secret
+                                    9                                 chemical, regardless of the existence of—
+                                  10                                                   ‘‘(I) a written statement of need;
+                                  11                                          or
+                                  12                                                   ‘‘(II) a confidentiality agreement.
+                                  13                                          ‘‘(ii) REQUIREMENT.—A person using
+                                  14                                  hydraulic fracturing that makes a disclo-
+                                  15                                  sure required under clause (i) may require
+                                  16                                  the execution of a written statement of
+                                  17                                  need and a confidentiality agreement as
+                                  18                                  soon as practicable after the determination
+                                  19                                  by the State (or the Administrator) or the
+                                  20                                  treating physician or nurse under that
+                                  21                                  clause.
+                                  22                                  ‘‘(D)         NO         PUBLIC              DISCLOSURE      RE-
+                                  23                         QUIRED.—Nothing                     in subparagraph (A) or (B)
+                                  24                         authorizes a State (or the Administrator) to re-
+
+
+
+
+
+                                              •S 332 IS
+
+                                                                                         21
+                                    1                        quire the public disclosure of any proprietary
+                                    2                        chemical formula.’’.
+                                    3              (b) DEFINITIONS.—Section 1421(d) of the Safe
+                                    4 Drinking Water Act (42 U.S.C. 300h(d)) is amended by
+                                    5 striking paragraph (1) and inserting the following:
+                                    6                        ‘‘(1) UNDERGROUND                      INJECTION.—
+
+                                    7                                 ‘‘(A) IN           GENERAL.—The                        term ‘under-
+                                    8                        ground injection’ means the subsurface em-
+                                    9                        placement of fluids by well injection.
+                                  10                                  ‘‘(B) INCLUSION.—The term ‘underground
+                                  11                         injection’ includes the underground injection of
+                                  12                         fluids or propping agents pursuant to hydraulic
+                                  13                         fracturing operations relating to oil or gas pro-
+                                  14                         duction activities.
+                                  15                                  ‘‘(C) EXCLUSION.—The term ‘underground
+                                  16                         injection’ does not include the underground in-
+                                  17                         jection of natural gas for the purpose of stor-
+                                  18                         age.’’.
+                                  19               (c) STATE PRIMARY ENFORCEMENT RESPONSI-
+                                  20      BILITY.—Section                  1422 of the Safe Drinking Water Act
+                                  21 (42 U.S.C. 300h–1) is amended by striking subsection (c)
+                                  22 and inserting the following:
+                                  23               ‘‘(c) DISAPPROVAL OF A STATE PROGRAM.—
+                                  24                         ‘‘(1) IN        GENERAL.—If                   the Administrator dis-
+
+
+
+
+                                  25               approves a State program (or part of a program)
+                                              •S 332 IS
+
+                                                                                         22
+                                    1              under subsection (b)(2) or determines under sub-
+                                    2              section (b)(3) that a State no longer meets the re-
+                                    3              quirements of clause (i) or (ii) of subsection
+                                    4              (b)(1)(A), or if a State fails to submit an application
+                                    5              or notice before the date of expiration of the period
+                                    6              specified in subsection (b)(1), not later than 90 days
+                                    7              after the date of the disapproval, determination, or
+                                    8              expiration (as applicable), the Administrator, by reg-
+                                    9              ulation, shall prescribe (and may from time to time
+                                  10               by regulation revise) a program applicable to the
+                                  11               State that meets the requirements of section
+                                  12               1421(b).
+                                  13                         ‘‘(2) OTHER               PROGRAM NOT IN EFFECT.—A
+                                  14               program prescribed by the Administrator under
+                                  15               paragraph (1) shall apply in the State to the extent
+                                  16               that a program adopted by the State that the Ad-
+                                  17               ministrator determines meets the requirements of
+                                  18               clause (i) or (ii) of subsection (b)(1)(A) is not in ef-
+                                  19               fect.
+                                  20                         ‘‘(3) OPPORTUNITY                      FOR PUBLIC HEARING.—
+                                  21               Before promulgating any regulation under this sec-
+                                  22               tion, the Administrator shall provide an opportunity
+                                  23               for a public hearing with respect to the regulation.’’.
+
+
+
+
+
+                                              •S 332 IS
+
+                                                                                         23
+                                    1              (d) ENFORCEMENT                       OF     PROGRAM.—Section 1423(c)
+                                    2 of the Safe Drinking Water Act (42 U.S.C. 300h–2) is
+                                    3 amended—
+                                    4                        (1) by striking paragraphs (1) and (2) and in-
+                                    5              serting the following:
+                                    6                        ‘‘(1) IN        GENERAL.—In                   any case in which the
+                                    7              Administrator is authorized to bring a civil action
+                                    8              under this section with respect to any regulation or
+                                    9              other requirement of this part, the Administrator
+                                  10               may also issue an order under this subsection that
+                                  11               assesses a civil penalty of not more than $10,000 for
+                                  12               each day of violation for any past or current viola-
+                                  13               tion, up to a maximum administrative penalty of
+                                  14               $125,000 or requires compliance with the regulation
+                                  15               or other requirement, or both.’’; and
+                                  16                         (2) by redesignating paragraphs (3) through
+                                  17               (8) as paragraphs (2) through (7), respectively.
+                                  18               (e) OPTIONAL DEMONSTRATION                                    BY     STATES RELAT-
+                                  19      ING TO           OIL OR NATURAL GAS.—
+                                  20                         (1) IN         GENERAL.—Section                       1425 of the Safe
+                                  21               Drinking Water Act (42 U.S.C. 300h–4) is repealed.
+                                  22                         (2) CONFORMING                  AMENDMENTS.—
+
+                                  23                                  (A)         The         first        sentence                of   section
+                                  24                         1423(a)(1) of the Safe Drinking Water Act (42
+
+
+
+
+
+                                              •S 332 IS
+
+                                                                                         24
+                                    1                        U.S.C. 300h–2(a)(1)) is amended by striking
+                                    2                        ‘‘or section 1425(c)’’.
+                                    3                                 (B) Section 1443(c)(2) of the Safe Drink-
+                                    4                        ing Water Act (42 U.S.C. 300j–2(c)(2)) is
+                                    5                        amended by striking the second sentence.
+                                    6     SEC. 302. REPORTS TO CONGRESS.
+
+                                    7              (a) FUGITIVE METHANE EMISSIONS.—Not later than
+                                    8 2 years after the date of enactment of this Act, the Admin-
+                                    9 istrator of the Environmental Protection Agency shall sub-
+                                  10 mit to Congress a report describing the quantity of fugi-
+                                  11 tive methane emissions emitted as a result of any leak in
+                                  12 natural gas infrastructure, including recommendations for
+                                  13 eliminating each such leak.
+                                  14               (b) OTHER GREENHOUSE GAS EMISSIONS.—The Ad-
+                                  15 ministrator of the Environmental Protection Agency shall
+                                  16 enter into an agreement with the National Academy of
+                                  17 Sciences under which the Academy shall conduct a study,
+                                  18 and, not later than 2 years after the date of enactment
+                                  19 of this Act, submit to Congress a report describing—
+                                  20                         (1) the quantity of United States greenhouse
+                                  21               gas emissions not covered by a program under this
+                                  22               Act (or an amendment made by this Act); and
+                                  23                         (2) recommendations for programs to reduce
+                                  24               emissions of those greenhouse gases.
+
+
+
+
+
+                                              •S 332 IS
+
+                                                                                         25
+                                    1     SEC. 303. SENSE OF CONGRESS RELATING TO REDUCTION
+                                    2                             IN GREENHOUSE GAS EMISSIONS.
+                                    3              It is the sense of Congress that the United States
+                                    4 should carry out activities to ensure that, by January 1,
+                                    5 2050, the total quantity of greenhouse gas emissions re-
+                                    6 leased in the United States is reduced by not less than
+                                    7 80 percent, as compared to the total quantity of green-
+                                    8 house gas emissions released during calendar year 2005.
+                                              •S 332 IS                                    Æ

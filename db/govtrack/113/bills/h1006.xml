@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="1006" updated="2013-03-08T12:45:36-05:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="short">Postal Executive Accountability Act</title>
+    <title as="introduced" type="official">To amend title 39, United States Code, to lower the maximum rate of compensation for United States Postal Service employees, and for other purposes.</title>
+  </titles>
+  <sponsor id="412485"/>
+  <cosponsors>
+    <cosponsor id="400274" joined="2013-03-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

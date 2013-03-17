@@ -1,0 +1,43 @@
+<bill session="113" type="s" number="327" updated="2013-03-02T06:16:33-05:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title as="introduced" type="short">Good Neighbor Forestry Act</title>
+    <title as="introduced" type="official">A bill to authorize the Secretary of Agriculture and the Secretary of the Interior to enter into cooperative agreements with State foresters authorizing State foresters to provide certain forest, rangeland, and watershed restoration and protection services.</title>
+  </titles>
+  <sponsor id="412251"/>
+  <cosponsors>
+    <cosponsor id="300041" joined="2013-02-14"/>
+    <cosponsor id="300052" joined="2013-02-14"/>
+    <cosponsor id="300058" joined="2013-02-14"/>
+    <cosponsor id="412495" joined="2013-02-14"/>
+    <cosponsor id="400546" joined="2013-02-14"/>
+    <cosponsor id="400412" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-14">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Ecology"/>
+    <term name="Fires"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Insects"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Pest management"/>
+    <term name="State and local government operations"/>
+    <term name="Water quality"/>
+    <term name="Watersheds"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

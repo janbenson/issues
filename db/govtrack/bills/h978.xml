@@ -1,0 +1,28 @@
+<bill session="113" type="h" number="978" updated="2013-03-13T04:46:28-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="short">National Emergency Selective Service Act</title>
+    <title as="introduced" type="official">To deauthorize the Military Selective Service Act, including the registration requirement and the activities of civilian local boards, civilian appeal boards, and similar local agencies of the Selective Service System, except during a national emergency declared by the President, and for other purposes.</title>
+  </titles>
+  <sponsor id="412271"/>
+  <cosponsors>
+    <cosponsor id="400100" joined="2013-03-06"/>
+    <cosponsor id="400184" joined="2013-03-12"/>
+    <cosponsor id="412394" joined="2013-03-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

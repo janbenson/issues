@@ -1,0 +1,68 @@
+<bill session="113" type="h" number="798" updated="2013-03-13T04:46:15-04:00">
+  <state datetime="2013-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-15"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title as="introduced" type="official">To reauthorize the Workforce Investment Act of 1998 to strengthen the United States workforce investment system through innovation in, and alignment and improvement of, employment, training, and education programs, and to promote national economic growth, and for other purposes.</title>
+  </titles>
+  <sponsor id="400407"/>
+  <cosponsors>
+    <cosponsor id="400008" joined="2013-03-05"/>
+    <cosponsor id="412404" joined="2013-02-25"/>
+    <cosponsor id="400031" joined="2013-02-25"/>
+    <cosponsor id="412501" joined="2013-03-05"/>
+    <cosponsor id="400047" joined="2013-02-25"/>
+    <cosponsor id="412258" joined="2013-03-12"/>
+    <cosponsor id="412470" joined="2013-03-05"/>
+    <cosponsor id="412193" joined="2013-03-05"/>
+    <cosponsor id="400093" joined="2013-02-25"/>
+    <cosponsor id="400097" joined="2013-03-05"/>
+    <cosponsor id="400100" joined="2013-02-25"/>
+    <cosponsor id="400110" joined="2013-02-25"/>
+    <cosponsor id="412535" joined="2013-03-05"/>
+    <cosponsor id="400129" joined="2013-03-05"/>
+    <cosponsor id="412327" joined="2013-03-05"/>
+    <cosponsor id="400162" joined="2013-02-25"/>
+    <cosponsor id="400179" joined="2013-02-15"/>
+    <cosponsor id="400184" joined="2013-02-25"/>
+    <cosponsor id="400185" joined="2013-02-25"/>
+    <cosponsor id="412435" joined="2013-02-25"/>
+    <cosponsor id="412543" joined="2013-03-05"/>
+    <cosponsor id="400230" joined="2013-02-25"/>
+    <cosponsor id="400237" joined="2013-02-25"/>
+    <cosponsor id="400238" joined="2013-03-05"/>
+    <cosponsor id="412209" joined="2013-02-25"/>
+    <cosponsor id="400249" joined="2013-02-25"/>
+    <cosponsor id="400253" joined="2013-02-25"/>
+    <cosponsor id="400257" joined="2013-02-25"/>
+    <cosponsor id="400259" joined="2013-03-12"/>
+    <cosponsor id="400262" joined="2013-03-05"/>
+    <cosponsor id="400263" joined="2013-02-25"/>
+    <cosponsor id="400278" joined="2013-02-15"/>
+    <cosponsor id="400289" joined="2013-03-05"/>
+    <cosponsor id="412518" joined="2013-02-25"/>
+    <cosponsor id="400295" joined="2013-02-25"/>
+    <cosponsor id="412506" joined="2013-03-05"/>
+    <cosponsor id="412305" joined="2013-03-05"/>
+    <cosponsor id="412308" joined="2013-03-05"/>
+    <cosponsor id="412312" joined="2013-02-25"/>
+    <cosponsor id="400364" joined="2013-03-05"/>
+    <cosponsor id="412254" joined="2013-03-05"/>
+    <cosponsor id="412522" joined="2013-03-12"/>
+    <cosponsor id="412412" joined="2013-03-05"/>
+    <cosponsor id="412211" joined="2013-03-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-15">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

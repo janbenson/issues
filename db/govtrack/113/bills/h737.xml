@@ -1,0 +1,34 @@
+<bill session="113" type="h" number="737" updated="2013-03-02T06:20:34-05:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title as="introduced" type="short">Homeowners' Defense Act of 2013</title>
+    <title as="introduced" type="official">To establish a national catastrophic risk consortium to ensure the availability and affordability of homeowners' insurance coverage for catastrophic events.</title>
+  </titles>
+  <sponsor id="412412"/>
+  <cosponsors>
+    <cosponsor id="400048" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-14">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Accounting and auditing"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Government corporations and government-sponsored enterprises"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Life, casualty, property insurance"/>
+    <term name="Securities"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,29 @@
+<bill session="113" type="h" number="912" updated="2013-03-04T18:45:36-05:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">Restoring Medicaid for Compact of Free Association Migrants Act of 2013</title>
+    <title as="introduced" type="official">To amend title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 to restore Medicaid coverage for citizens of the Freely Associated States lawfully residing in the United States under the Compacts of Free Association between the Government of the United States and the Governments of the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.</title>
+  </titles>
+  <sponsor id="412418"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2013-02-28"/>
+    <cosponsor id="400128" joined="2013-02-28"/>
+    <cosponsor id="412532" joined="2013-02-28"/>
+    <cosponsor id="412312" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

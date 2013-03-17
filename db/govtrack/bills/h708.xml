@@ -1,0 +1,39 @@
+<bill session="113" type="h" number="708" updated="2013-03-08T04:45:58-05:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title as="introduced" type="short">Fair Access to Science and Technology Research Act of 2013</title>
+    <title as="introduced" type="official">To provide for Federal agencies to develop public access policies relating to research conducted by employees of that agency or from funds administered by that agency.</title>
+  </titles>
+  <sponsor id="400114"/>
+  <cosponsors>
+    <cosponsor id="400245" joined="2013-02-14"/>
+    <cosponsor id="412308" joined="2013-03-07"/>
+    <cosponsor id="412430" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-14">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="350"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Intellectual property"/>
+    <term name="Internet and video services"/>
+    <term name="Research administration and funding"/>
+  </subjects>
+  <amendments/>
+</bill>

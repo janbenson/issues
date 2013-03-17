@@ -1,0 +1,29 @@
+<bill session="113" type="h" number="1038" updated="2013-03-14T12:46:00-04:00">
+  <state datetime="2013-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-11"/>
+  </status>
+  <introduced datetime="2013-03-11"/>
+  <titles>
+    <title as="introduced" type="short">Public Power Risk Management Act of 2013</title>
+    <title as="introduced" type="official">To provide equal treatment for utility special entities using utility operations-related swaps, and for other purposes.</title>
+  </titles>
+  <sponsor id="412510"/>
+  <cosponsors>
+    <cosponsor id="400618" joined="2013-03-11"/>
+    <cosponsor id="412403" joined="2013-03-11"/>
+    <cosponsor id="412382" joined="2013-03-11"/>
+    <cosponsor id="412292" joined="2013-03-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-11">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

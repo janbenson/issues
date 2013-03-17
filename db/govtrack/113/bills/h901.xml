@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="901" updated="2013-03-09T06:21:41-05:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">Tax Return Due Date Simplification and Modernization Act of 2013</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to provide for the logical flow of return information between partnerships, corporations, trusts, estates, and individuals to better enable each party to submit timely, accurate returns and reduce the need for extended and amended returns, to provide for modified due dates by regulation, and to conform the automatic corporate extension period to longstanding regulatory rule.</title>
+  </titles>
+  <sponsor id="412284"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="420"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

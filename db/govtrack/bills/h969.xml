@@ -1,0 +1,29 @@
+<bill session="113" type="h" number="969" updated="2013-03-07T12:45:36-05:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title as="introduced" type="short">Medical Practice Freedom Act of 2013</title>
+    <title as="introduced" type="official">To prohibit conditioning licensure of a health care provider upon participation in a health plan.</title>
+  </titles>
+  <sponsor id="400626"/>
+  <cosponsors>
+    <cosponsor id="400032" joined="2013-03-05"/>
+    <cosponsor id="400636" joined="2013-03-05"/>
+    <cosponsor id="412269" joined="2013-03-05"/>
+    <cosponsor id="412310" joined="2013-03-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-05">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

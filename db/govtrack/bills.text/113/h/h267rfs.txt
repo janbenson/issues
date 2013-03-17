@@ -1,0 +1,354 @@
+                                                                                                                                    IIB
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                          H. R. 267
+                                              IN THE SENATE OF THE UNITED STATES
+                                                                FEBRUARY 14, 2013
+                                     Received; read twice and referred to the Committee on Energy and Natural
+                                                                      Resources
+
+
+
+
+                                                                         AN ACT
+                                               To improve hydropower, and for other purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+
+
+
+
+
+                                    1     SECTION 1. SHORT TITLE; TABLE OF CONTENTS.         2
+                                    2              (a) SHORT TITLE.—This Act may be cited as the
+                                    3 ‘‘Hydropower Regulatory Efficiency Act of 2013’’.
+                                    4              (b) TABLE            OF    CONTENTS.—The table of contents of
+                                    5 this Act is as follows:
+                                          Sec.   1.
+                                                  Short title; table of contents.
+                                          Sec.   2.
+                                                  Findings.
+                                          Sec.   3.
+                                                  Promoting small hydroelectric power projects.
+                                          Sec.   4.
+                                                  Promoting conduit hydropower projects.
+                                          Sec.   5.
+                                                  FERC authority to extend preliminary permit periods.
+                                          Sec.   6.
+                                                  Promoting hydropower development at nonpowered dams and closed
+                                                            loop pumped storage projects.
+                                          Sec. 7. DOE study of pumped storage and potential hydropower from conduits.
+                                    6     SEC. 2. FINDINGS.
+                                    7              Congress finds that—
+                                    8                        (1) the hydropower industry currently employs
+                                    9              approximately 300,000 workers across the United
+                                  10               States;
+                                  11                         (2) hydropower is the largest source of clean,
+                                  12               renewable electricity in the United States;
+                                  13                         (3) as of the date of enactment of this Act, hy-
+                                  14               dropower resources, including pumped storage facili-
+                                  15               ties, provide—
+                                  16                                  (A) nearly 7 percent of the electricity gen-
+                                  17                         erated in the United States; and
+                                  18                                  (B) approximately 100,000 megawatts of
+                                  19                         electric capacity in the United States;
+                                  20
+                                                             (4) only 3 percent of the 80,000 dams in the
+                                  21               United States generate electricity, so there is sub-
+
+
+                                              HR 267 RFS
+
+                                                                                             3
+                                    1              stantial potential for adding hydropower generation
+                                    2              to nonpowered dams; and
+                                    3                        (5) according to one study, by utilizing cur-
+                                    4              rently untapped resources, the United States could
+                                    5              add approximately 60,000 megawatts of new hydro-
+                                    6              power capacity by 2025, which could create 700,000
+                                    7              new jobs over the next 13 years.
+                                    8     SEC.        3.    PROMOTING                SMALL           HYDROELECTRIC                  POWER
+                                    9                             PROJECTS.
+                                  10               Subsection (d) of section 405 of the Public Utility
+                                  11 Regulatory Policies Act of 1978 (16 U.S.C. 2705) is
+                                  12 amended by striking ‘‘5,000’’ and inserting ‘‘10,000’’.
+                                  13      SEC. 4. PROMOTING CONDUIT HYDROPOWER PROJECTS.
+
+                                  14               (a) APPLICABILITY                    OF, AND           EXEMPTION FROM, LI-
+                                  15      CENSING             REQUIREMENTS.—Section 30 of the Federal
+                                  16 Power Act (16 U.S.C. 823a) is amended—
+                                  17                         (1) by striking subsections (a) and (b) and in-
+                                  18               serting the following:
+                                  19               ‘‘(a)(1) A qualifying conduit hydropower facility shall
+                                  20 not be required to be licensed under this part.
+                                  21               ‘‘(2)(A) Any person, State, or municipality proposing
+                                  22 to construct a qualifying conduit hydropower facility shall
+                                  23 file with the Commission a notice of intent to construct
+
+
+
+
+                                  24 such facility. The notice shall include sufficient informa-
+                                              HR 267 RFS
+
+                                                                                             4
+                                    1 tion to demonstrate that the facility meets the qualifying
+                                    2 criteria.
+                                    3              ‘‘(B) Not later than 15 days after receipt of a notice
+                                    4 of intent filed under subparagraph (A), the Commission
+                                    5 shall—
+                                    6                        ‘‘(i) make an initial determination as to wheth-
+                                    7              er the facility meets the qualifying criteria; and
+                                    8                        ‘‘(ii) if the Commission makes an initial deter-
+                                    9              mination, pursuant to clause (i), that the facility
+                                  10               meets the qualifying criteria, publish public notice of
+                                  11               the notice of intent filed under subparagraph (A).
+                                  12               ‘‘(C) If, not later than 45 days after the date of publi-
+                                  13 cation of the public notice described in subparagraph
+                                  14 (B)(ii)—
+                                  15                         ‘‘(i) an entity contests whether the facility
+                                  16               meets the qualifying criteria, the Commission shall
+                                  17               promptly issue a written determination as to wheth-
+                                  18               er the facility meets such criteria; or
+                                  19                         ‘‘(ii) no entity contests whether the facility
+                                  20               meets the qualifying criteria, the facility shall be
+                                  21               deemed to meet such criteria.
+                                  22               ‘‘(3) For purposes of this section:
+                                  23                         ‘‘(A) The term ‘conduit’ means any tunnel,
+
+
+
+
+                                  24               canal, pipeline, aqueduct, flume, ditch, or similar
+                                  25               manmade water conveyance that is operated for the
+
+
+                                              HR 267 RFS
+
+                                                                                             5
+                                    1              distribution of water for agricultural, municipal, or
+                                    2              industrial consumption and not primarily for the
+                                    3              generation of electricity.
+                                    4                        ‘‘(B) The term ‘qualifying conduit hydropower
+                                    5              facility’ means a facility (not including any dam or
+                                    6              other impoundment) that is determined or deemed
+                                    7              under paragraph (2)(C) to meet the qualifying cri-
+                                    8              teria.
+                                    9                        ‘‘(C) The term ‘qualifying criteria’ means, with
+                                  10               respect to a facility—
+                                  11                                  ‘‘(i) the facility is constructed, operated, or
+                                  12                         maintained for the generation of electric power
+                                  13                         and uses for such generation only the hydro-
+                                  14                         electric potential of a non-federally owned con-
+                                  15                         duit;
+                                  16                                  ‘‘(ii) the facility has an installed capacity
+                                  17                         that does not exceed 5 megawatts; and
+                                  18                                  ‘‘(iii) on or before the date of enactment of
+                                  19                         the Hydropower Regulatory Efficiency Act of
+                                  20                         2013, the facility is not licensed under, or ex-
+                                  21                         empted from the license requirements contained
+                                  22                         in, this part.
+                                  23               ‘‘(b) Subject to subsection (c), the Commission may
+
+
+
+
+                                  24 grant an exemption in whole or in part from the require-
+                                  25 ments of this part, including any license requirements con-
+
+
+                                              HR 267 RFS
+
+                                                                                             6
+                                    1 tained in this part, to any facility (not including any dam
+                                    2 or other impoundment) constructed, operated, or main-
+                                    3 tained for the generation of electric power which the Com-
+                                    4 mission determines, by rule or order—
+                                    5                        ‘‘(1) utilizes for such generation only the hydro-
+                                    6              electric potential of a conduit; and
+                                    7                        ‘‘(2) has an installed capacity that does not ex-
+                                    8              ceed 40 megawatts.’’;
+                                    9                        (2) in subsection (c), by striking ‘‘subsection
+                                  10               (a)’’ and inserting ‘‘subsection (b)’’; and
+                                  11                         (3) in subsection (d), by striking ‘‘subsection
+                                  12               (a)’’ and inserting ‘‘subsection (b)’’.
+                                  13               (b) CONFORMING AMENDMENT.—Subsection (d) of
+                                  14 section 405 of the Public Utility Regulatory Policies Act
+                                  15 of 1978 (16 U.S.C. 2705), as amended, is further amend-
+                                  16 ed by striking ‘‘subsection (a) of such section 30’’ and in-
+                                  17 serting ‘‘subsection (b) of such section 30’’.
+                                  18      SEC. 5. FERC AUTHORITY TO EXTEND PRELIMINARY PER-
+                                  19                              MIT PERIODS.
+                                  20               Section 5 of the Federal Power Act (16 U.S.C. 798)
+                                  21 is amended—
+                                  22                         (1) by designating the first, second, and third
+                                  23               sentences as subsections (a), (c), and (d), respec-
+
+
+
+
+                                  24               tively; and
+                                              HR 267 RFS
+
+                                                                                             7
+                                    1                        (2) by inserting after subsection (a) (as so des-
+                                    2              ignated) the following:
+                                    3              ‘‘(b) The Commission may extend the period of a pre-
+                                    4 liminary permit once for not more than 2 additional years
+                                    5 beyond the 3 years permitted by subsection (a) if the Com-
+                                    6 mission finds that the permittee has carried out activities
+                                    7 under such permit in good faith and with reasonable dili-
+                                    8 gence.’’.
+                                    9     SEC. 6. PROMOTING HYDROPOWER DEVELOPMENT AT
+                                  10                              NONPOWERED                     DAMS         AND       CLOSED      LOOP
+                                  11                              PUMPED STORAGE PROJECTS.
+
+                                  12               (a) IN GENERAL.—To improve the regulatory process
+                                  13 and reduce delays and costs for hydropower development
+                                  14 at nonpowered dams and closed loop pumped storage
+                                  15 projects, the Federal Energy Regulatory Commission (re-
+                                  16 ferred to in this section as the ‘‘Commission’’) shall inves-
+                                  17 tigate the feasibility of the issuance of a license for hydro-
+                                  18 power development at nonpowered dams and closed loop
+                                  19 pumped storage projects in a 2-year period (referred to
+                                  20 in this section as a ‘‘2-year process’’). Such a 2-year proc-
+                                  21 ess shall include any prefiling licensing process of the
+                                  22 Commission.
+                                  23               (b) WORKSHOPS                      AND         PILOTS.—The Commission
+
+
+
+
+                                  24 shall—
+                                              HR 267 RFS
+
+                                                                                             8
+                                    1                        (1) not later than 60 days after the date of en-
+                                    2              actment of this Act, hold an initial workshop to so-
+                                    3              licit public comment and recommendations on how
+                                    4              to implement a 2-year process;
+                                    5                        (2) develop criteria for identifying projects fea-
+                                    6              turing hydropower development at nonpowered dams
+                                    7              and closed loop pumped storage projects that may be
+                                    8              appropriate for licensing within a 2-year process;
+                                    9                        (3) not later than 180 days after the date of
+                                  10               enactment of this Act, develop and implement pilot
+                                  11               projects to test a 2-year process, if practicable; and
+                                  12                         (4) not later than 3 years after the date of im-
+                                  13               plementation of the final pilot project testing a 2-
+                                  14               year process, hold a final workshop to solicit public
+                                  15               comment on the effectiveness of each tested 2-year
+                                  16               process.
+                                  17               (c) MEMORANDUM                     OF     UNDERSTANDING.—The Com-
+                                  18 mission shall, to the extent practicable, enter into a memo-
+                                  19 randum of understanding with any applicable Federal or
+                                  20 State agency to implement a pilot project described in sub-
+                                  21 section (b).
+                                  22               (d) REPORTS.—
+                                  23                         (1) PILOT            PROJECTS NOT IMPLEMENTED.—If
+                                  24               the Commission determines that no pilot project de-
+                                  25               scribed in subsection (b) is practicable because no 2-
+
+
+                                              HR 267 RFS
+
+                                                                                             9
+                                    1              year process is practicable, not later than 240 days
+                                    2              after the date of enactment of this Act, the Commis-
+                                    3              sion shall submit to the Committee on Energy and
+                                    4              Commerce of the House of Representatives and the
+                                    5              Committee on Energy and Natural Resources of the
+                                    6              Senate a report that—
+                                    7                                 (A) describes the public comments received
+                                    8                        as part of the initial workshop held under sub-
+                                    9                        section (b)(1); and
+                                  10                                  (B) identifies the process, legal, environ-
+                                  11                         mental, economic, and other issues that justify
+                                  12                         the determination of the Commission that no 2-
+                                  13                         year process is practicable, with recommenda-
+                                  14                         tions on how Congress may address or remedy
+                                  15                         the identified issues.
+                                  16                         (2) PILOT             PROJECTS IMPLEMENTED.—If                         the
+                                  17               Commission develops and implements pilot projects
+                                  18               involving a 2-year process, not later than 60 days
+                                  19               after the date of completion of the final workshop
+                                  20               held under subsection (b)(4), the Commission shall
+                                  21               submit to the Committee on Energy and Commerce
+                                  22               of the House of Representatives and the Committee
+                                  23               on Energy and Natural Resources of the Senate a
+
+
+
+
+                                  24               report that—
+                                              HR 267 RFS
+
+                                                                                         10
+                                    1                                 (A) describes the outcomes of the pilot
+                                    2                        projects;
+                                    3                                 (B) describes the public comments from
+                                    4                        the final workshop on the effectiveness of each
+                                    5                        tested 2-year process; and
+                                    6                                 (C)(i) outlines how the Commission will
+                                    7                        adopt policies under existing law (including reg-
+                                    8                        ulations) that result in a 2-year process for ap-
+                                    9                        propriate projects;
+                                  10                                  (ii) outlines how the Commission will issue
+                                  11                         new regulations to adopt a 2-year process for
+                                  12                         appropriate projects; or
+                                  13                                  (iii) identifies the process, legal, environ-
+                                  14                         mental, economic, and other issues that justify
+                                  15                         a determination of the Commission that no 2-
+                                  16                         year process is practicable, with recommenda-
+                                  17                         tions on how Congress may address or remedy
+                                  18                         the identified issues.
+                                  19      SEC. 7. DOE STUDY OF PUMPED STORAGE AND POTENTIAL
+                                  20                              HYDROPOWER FROM CONDUITS.
+                                  21               (a) IN GENERAL.—The Secretary of Energy shall
+                                  22 conduct a study—
+                                  23                         (1)(A) of the technical flexibility that existing
+
+
+
+
+                                  24               pumped storage facilities can provide to support
+                                  25               intermittent renewable electric energy generation, in-
+
+
+                                              HR 267 RFS
+
+                                                                                         11
+                                    1              cluding the potential for such existing facilities to be
+                                    2              upgraded or retrofitted with advanced commercially
+                                    3              available technology; and
+                                    4                        (B) of the technical potential of existing
+                                    5              pumped storage facilities and new advanced pumped
+                                    6              storage facilities, to provide grid reliability benefits;
+                                    7              and
+                                    8                        (2)(A) to identify the range of opportunities for
+                                    9              hydropower that may be obtained from conduits (as
+                                  10               defined by the Secretary) in the United States; and
+                                  11                         (B) through case studies, to assess amounts of
+                                  12               potential energy generation from such conduit hy-
+                                  13               dropower projects.
+                                  14               (b) REPORT.—Not later than 1 year after the date
+                                  15 of enactment of this Act, the Secretary of Energy shall
+                                  16 submit to the Committee on Energy and Commerce of the
+                                  17 House of Representatives and the Committee on Energy
+                                  18 and Natural Resources of the Senate a report that de-
+                                  19 scribes the results of the study conducted under subsection
+                                  20 (a), including any recommendations.
+                                              Passed the House of Representatives February 13,
+                                          2013.
+                                                   Attest:                                          KAREN L. HAAS,
+                                                                                                                 Clerk.
+
+
+
+
+
+                                              HR 267 RFS
+

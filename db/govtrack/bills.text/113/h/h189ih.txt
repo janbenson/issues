@@ -1,0 +1,369 @@
+                                                                                                                                                                   I
+
+
+
+
+                                                                  113TH CONGRESS
+                                                                     1ST SESSION                           H. R. 189
+                                                                  To prohibit Fannie Mae, Freddie Mac, and Ginnie Mae from owning or
+                                                                      guaranteeing any mortgage that is assigned to the Mortgage Electronic
+                                                                      Registration Systems or for which MERS is the mortgagee of record.
+
+
+
+
+                                                                                IN THE HOUSE OF REPRESENTATIVES
+                                                                                                          JANUARY 4, 2013
+                                                                          Ms. KAPTUR           introduced the following bill; which was referred to the
+                                                                                                   Committee on Financial Services
+
+
+
+
+                                                                                                            A BILL
+                                                                  To prohibit Fannie Mae, Freddie Mac, and Ginnie Mae from
+                                                                     owning or guaranteeing any mortgage that is assigned
+                                                                     to the Mortgage Electronic Registration Systems or for
+                                                                     which MERS is the mortgagee of record.
+                                                                    1               Be it enacted by the Senate and House of Representa-
+                                                                    2 tives of the United States of America in Congress assembled,
+                                                                    3     SECTION 1. SHORT TITLE.
+                                                                    4               This Act may be cited as the ‘‘Transparency and Se-
+                                                                    5 curity in Mortgage Registration Act of 2013’’.
+                                                                    6     SEC. 2. PROHIBITION ON GUARANTEEING MERS MORT-
+                                                                    7                             GAGES.
+srobinson on DSK4SPTVN1PROD with
+
+
+
+
+                                                                    8               (a) FANNIE MAE AND FREDDIE MAC.—
+
+
+
+                                                                                                                             2
+                                                                    1                        (1) FANNIE              MAE.—Section                 302(b) of the Na-
+                                                                    2               tional Housing Act (12 U.S.C. 1717(b)) is amended
+                                                                    3               by adding at the end the following new paragraph:
+                                                                    4               ‘‘(7)(A) After the date of the enactment of the Trans-
+                                                                    5 parency and Security in Mortgage Registration Act of
+                                                                    6 2013, the corporation may not purchase, acquire, newly
+                                                                    7 lend on the security of, newly invest in securities con-
+                                                                    8 sisting of, or otherwise newly deal in any MERS mortgage
+                                                                  109 or mortgages. ‘‘(B) After the expiration of the period under sub-
+                                                                  11 paragraph (C), MERS shall not be the named mortgagee
+                                                                  12 or mortgagee of record on any mortgage owned, guaran-
+                                                                  13 teed, or securitized by the corporation. Not later than the
+                                                                  14 expiration of such period, the corporation shall require
+                                                                  15 that all mortgage loans owned, guaranteed, or securitized
+                                                                  16 at such time by the corporation and on which MERS is
+                                                                  17 the named mortgagee or mortgagee of record shall be as-
+                                                                  18 signed to the servicer, holder, or creditor, as defined by
+                                                                  19 the guidelines of the corporation. The corporation shall
+                                                                  20 not reimburse the servicer, holder, or creditor for any ex-
+                                                                  21 pense incurred in the carrying out or recording such an
+                                                                  22 assignment.
+                                                                  23                ‘‘(C)(i) Except as provided in clause (ii), the period
+srobinson on DSK4SPTVN1PROD with                                  24 under this subparagraph is the 6-month period beginning
+                                                                               •HR 189 IH
+
+                                                                                                                             3
+                                                                    1 on the date of the enactment of the Transparency and Se-
+                                                                    2 curity in Mortgage Registration Act of 2013.
+                                                                    3               ‘‘(ii) In the case of any mortgage owned, guaranteed,
+                                                                    4 or securitized by the corporation for which the servicer,
+                                                                    5 holder, or creditor has demonstrated to the corporation,
+                                                                    6 in accordance with standards established by the Director
+                                                                    7 of the Federal Housing Finance Agency, that compliance
+                                                                    8 with subparagraph (B) by the expiration of such 6-month
+                                                                    9 period will cause a severe threat to the continued financial
+                                                                  10 viability of such entity, the period under this subpara-
+                                                                  11 graph shall be the period that begins on such date of en-
+                                                                  12 actment and has such duration as determined by the cor-
+                                                                  13 poration, in accordance with standards established by the
+                                                                  14 Director, but in no case has a duration longer than 12
+                                                                  15 months.
+                                                                  16                ‘‘(D) Not later than the expiration of the 6-month
+                                                                  17 period referred to in subparagraph (C)(i), the corporation
+                                                                  18 shall submit a report detailing its compliance with sub-
+                                                                  19 paragraph (B) to the Congress, the Director of the Fed-
+                                                                  20 eral Housing Finance Agency, the Financial Stability
+                                                                  21 Oversight Council, and the Director of the Bureau of Con-
+                                                                  22 sumer Financial Protection of the Federal Reserve Sys-
+                                                                  23 tem, which shall describe any extensions of the period for
+srobinson on DSK4SPTVN1PROD with                                  24 compliance with subparagraph (B) granted pursuant to
+                                                                  25 subparagraph (C).
+
+
+                                                                               •HR 189 IH
+
+                                                                                                                             4
+                                                                    1               ‘‘(E) For purposes of this paragraph, the following
+                                                                    2 definitions shall apply:
+                                                                    3                        ‘‘(i) The term ‘MERS’ means the Mortgage
+                                                                    4               Electronic Registration Systems, Inc., or any suc-
+                                                                    5               cessor entity of such corporation.
+                                                                    6                        ‘‘(ii) The term ‘MERS mortgage’ means any
+                                                                    7               mortgage—
+                                                                    8                                 ‘‘(I) for which the MERS is, or was at any
+                                                                    9                        time, the original or nominal mortgagee or
+                                                                  10                         mortgagee of record under the mortgage;
+                                                                  11                                  ‘‘(II) that is, or was at any time, assigned
+                                                                  12                         to or recorded in the MERS; or
+                                                                  13                                  ‘‘(III) for which the MERS is, or was at
+                                                                  14                         any time, acting as nominee in the county land
+                                                                  15                         records for the lender or servicer of the mort-
+                                                                  16                         gage.’’.
+                                                                  17                         (2) FREDDIE              MAC.—Section                 305(a) of the Fed-
+                                                                  18                eral Home Loan Mortgage Corporation Act (12
+                                                                  19                U.S.C. 1454(a)) is amended by adding at the end
+                                                                  20                the following new paragraph:
+                                                                  21                ‘‘(6)(A) After the date of the enactment of the Trans-
+                                                                  22 parency and Security in Mortgage Registration Act of
+                                                                  23 2013, the Corporation may not purchase, acquire, newly
+srobinson on DSK4SPTVN1PROD with                                  24 lend on the security of, newly invest in securities con-
+                                                                               •HR 189 IH
+
+                                                                                                                             5
+                                                                    1 sisting of, or otherwise newly deal in any MERS mortgage
+                                                                    2 or mortgages.
+                                                                    3               ‘‘(B) After the expiration of the period under sub-
+                                                                    4 paragraph (C), MERS shall not be the named mortgagee
+                                                                    5 or mortgagee of record on any mortgage owned, guaran-
+                                                                    6 teed, or securitized by the Corporation. Not later than the
+                                                                    7 expiration of such period, the Corporation shall require
+                                                                    8 that all mortgage loans owned, guaranteed, or securitized
+                                                                    9 at such time by the Corporation and on which MERS is
+                                                                  10 the named mortgagee or mortgagee of record shall be as-
+                                                                  11 signed to the servicer, holder, or creditor, as defined by
+                                                                  12 the guidelines of the Corporation. The Corporation shall
+                                                                  13 not reimburse the servicer, holder, or creditor for any ex-
+                                                                  14 pense incurred in the carrying out or recording such an
+                                                                  15 assignment.
+                                                                  16                ‘‘(C)(i) Except as provided in clause (ii), the period
+                                                                  17 under this subparagraph is the 6-month period beginning
+                                                                  18 on the date of the enactment of the Transparency and Se-
+                                                                  19 curity in Mortgage Registration Act of 2013.
+                                                                  20                ‘‘(ii) In the case of any mortgage owned, guaranteed,
+                                                                  21 or securitized by the Corporation for which the servicer,
+                                                                  22 holder, or creditor has demonstrated to the Corporation,
+                                                                  23 in accordance with standards established by the Director
+srobinson on DSK4SPTVN1PROD with                                  24 of the Federal Housing Finance Agency, that compliance
+                                                                  25 with subparagraph (B) by the expiration of such 6-month
+
+
+                                                                               •HR 189 IH
+
+                                                                                                                             6
+                                                                    1 period will cause a severe threat to the continued financial
+                                                                    2 viability of such entity, the period under this subpara-
+                                                                    3 graph shall be the period that begins on such date of en-
+                                                                    4 actment and has such duration as determined by the Cor-
+                                                                    5 poration, in accordance with standards established by the
+                                                                    6 Director, but in no case has a duration longer than 12
+                                                                    7 months.
+                                                                    8               ‘‘(D) Not later than the expiration of the 6-month
+                                                                    9 period referred to in subparagraph (C)(i), the Corporation
+                                                                  10 shall submit a report detailing its compliance with sub-
+                                                                  11 paragraph (B) to the Congress, the Director of the Fed-
+                                                                  12 eral Housing Finance Agency, the Financial Stability
+                                                                  13 Oversight Council, and the Director of the Bureau of Con-
+                                                                  14 sumer Financial Protection of the Federal Reserve Sys-
+                                                                  15 tem, which shall describe any extensions of the period for
+                                                                  16 compliance with subparagraph (B) granted pursuant to
+                                                                  17 subparagraph (C).
+                                                                  18                ‘‘(E) For purposes of this paragraph, the following
+                                                                  19 definitions shall apply:
+                                                                  20                         ‘‘(i) The term ‘MERS’ means the Mortgage
+                                                                  21                Electronic Registration Systems, Inc., or any suc-
+                                                                  22                cessor entity of such corporation.
+                                                                  23                         ‘‘(ii) The term ‘MERS mortgage’ means any
+srobinson on DSK4SPTVN1PROD with                                  24                mortgage—
+                                                                               •HR 189 IH
+
+                                                                                                                             7
+                                                                    1                                 ‘‘(I) for which the MERS is, or was at any
+                                                                    2                        time, the original or nominal mortgagee or
+                                                                    3                        mortgagee of record under the mortgage;
+                                                                    4                                 ‘‘(II) that is, or was at any time, assigned
+                                                                    5                        to or recorded in the MERS; or
+                                                                    6                                 ‘‘(III) for which the MERS is, or was at
+                                                                    7                        any time, acting as nominee in the county land
+                                                                    8                        records for the lender or servicer of the mort-
+                                                                    9                        gage.’’.
+                                                                  10                         (3) REGULATIONS.—Not later than the expira-
+                                                                  11                tion of the 90-day period beginning on the date of
+                                                                  12                the enactment of this Act, the Director of the Fed-
+                                                                  13                eral Housing Finance Agency shall issue any regula-
+                                                                  14                tions necessary to carry out the amendments made
+                                                                  15                by paragraphs (1) and (2). In issuing such regula-
+                                                                  16                tions, the Director shall consult and coordinate with
+                                                                  17                the Secretary of Housing and Urban Development to
+                                                                  18                ensure that the regulations issued by the Director
+                                                                  19                and the regulations issued by the Secretary pursuant
+                                                                  20                to subsection (b)(2) of this section are uniform and
+                                                                  21                consistent to maximum extent possible.
+                                                                  22                (b) GINNIE MAE.—
+                                                                  23                         (1) PROHIBITION.—Section 302(c) of the Na-
+srobinson on DSK4SPTVN1PROD with                                  24                tional Housing Act (12 U.S.C. 1717(c)) is amended
+                                                                  25                by adding at the end the following new paragraph:
+
+
+                                                                               •HR 189 IH
+
+                                                                                                                             8
+                                                                    1               ‘‘(6)(A) After the date of the enactment of the Trans-
+                                                                    2 parency and Security in Mortgage Registration Act of
+                                                                    3 2013, the Association may not newly guarantee the pay-
+                                                                    4 ment of principal of or interest on any trust certificate
+                                                                    5 or other security based or backed by a trust or pool that
+                                                                    6 contains, or purchase or acquire, any MERS mortgage.
+                                                                    7               ‘‘(B)(i) After the expiration of the period under sub-
+                                                                    8 paragraph (C), MERS shall not be the named mortgagee
+                                                                    9 or mortgagee of record on any mortgage owned or held
+                                                                  10 by the Association or on any mortgage contained in a pool
+                                                                  11 backing or on which is based any trust certificate or other
+                                                                  12 security the payment of principal of or interest on which
+                                                                  13 is guaranteed by the Association.
+                                                                  14                ‘‘(ii) Not later than the expiration of such period, the
+                                                                  15 Association shall require that all mortgage loans that are
+                                                                  16 owned or held at such time by the Association, or that
+                                                                  17 at such time are contained in a trust or pool backing or
+                                                                  18 on which is based a trust certificate or other security the
+                                                                  19 payment of principal of or interest on which is guaranteed
+                                                                  20 by the Association, and on which MERS is the named
+                                                                  21 mortgagee or mortgagee of record, shall be assigned to
+                                                                  22 the servicer, holder, or creditor, as defined by the guide-
+                                                                  23 lines of the Association. The Association shall not reim-
+srobinson on DSK4SPTVN1PROD with                                  24 burse the servicer, holder, or creditor for any expense in-
+                                                                               •HR 189 IH
+
+                                                                                                                             9
+                                                                    1 curred in the carrying out or recording such an assign-
+                                                                    2 ment.
+                                                                    3               ‘‘(C)(i) Except as provided in clause (ii), the period
+                                                                    4 under this subparagraph is the 6-month period beginning
+                                                                    5 on the date of the enactment of the Transparency and Se-
+                                                                    6 curity in Mortgage Registration Act of 2013.
+                                                                    7               ‘‘(ii) In the case of any mortgage owned or held by
+                                                                    8 the Association, or contained in a trust or pool backing
+                                                                    9 or on which is based a trust certificate or other security
+                                                                  10 the payment of principal of or interest on which is guaran-
+                                                                  11 teed by the Association, for which the servicer, holder, or
+                                                                  12 creditor has demonstrated to the Association, in accord-
+                                                                  13 ance with standards established by the Secretary, that
+                                                                  14 compliance with subparagraph (B) by the expiration of
+                                                                  15 such 6-month period will cause a severe threat to the con-
+                                                                  16 tinued financial viability of such entity, the period under
+                                                                  17 this subparagraph shall be the period that begins on such
+                                                                  18 date of enactment and has such duration as determined
+                                                                  19 by the Association, in accordance with standards estab-
+                                                                  20 lished by the Secretary, but in no case has a duration
+                                                                  21 longer than 12 months.
+                                                                  22                ‘‘(D) Not later than the expiration of the 6-month
+                                                                  23 period described in subparagraph (C)(i), the Association
+srobinson on DSK4SPTVN1PROD with                                  24 shall submit a report detailing its compliance with sub-
+                                                                  25 paragraph (B) to the Congress, the Secretary, the Finan-
+
+
+                                                                               •HR 189 IH
+
+                                                                                                                         10
+                                                                    1 cial Stability Oversight Council, and the Director of the
+                                                                    2 Bureau of Consumer Financial Protection of the Federal
+                                                                    3 Reserve System, which shall describe any extensions of the
+                                                                    4 period for compliance with subparagraph (B) granted pur-
+                                                                    5 suant to subparagraph (C).
+                                                                    6               ‘‘(E) For purposes of this paragraph, the following
+                                                                    7 definitions shall apply:
+                                                                    8                        ‘‘(i) The term ‘MERS’ means the Mortgage
+                                                                    9               Electronic Registration Systems, Inc., or any suc-
+                                                                  10                cessor entity of such corporation.
+                                                                  11                         ‘‘(ii) The term ‘MERS mortgage’ means any
+                                                                  12                mortgage—
+                                                                  13                                  ‘‘(I) for which the MERS is, or was at any
+                                                                  14                         time, the original or nominal mortgagee or
+                                                                  15                         mortgagee of record under the mortgage;
+                                                                  16                                  ‘‘(II) that is, or was at any time, assigned
+                                                                  17                         to or recorded in the MERS; or
+                                                                  18                                  ‘‘(III) for which the MERS is, or was at
+                                                                  19                         any time, acting as nominee in the county land
+                                                                  20                         records for the lender or servicer of the mort-
+                                                                  21                         gage.’’.
+                                                                  22                         (2) REGULATIONS.—Not later than the expira-
+                                                                  23                tion of the 90-day period beginning on the date of
+srobinson on DSK4SPTVN1PROD with                                  24                the enactment of this Act, the Secretary of Housing
+                                                                  25                and Urban Development shall issue any regulations
+
+
+                                                                               •HR 189 IH
+
+                                                                                                                         11
+                                                                    1               necessary to carry out the amendments made by
+                                                                    2               paragraphs (1) and (2). In issuing such regulations,
+                                                                    3               the Secretary shall consult and coordinate with the
+                                                                    4               Director of the Federal Housing Finance Agency to
+                                                                    5               ensure that the regulations issued by the Secretary
+                                                                    6               and the regulations issued by the Director pursuant
+                                                                    7               to subsection (a)(3) of this section are uniform and
+                                                                    8               consistent to maximum extent possible.
+                                                                    9     SEC. 3. HUD STUDY.
+
+                                                                  10                (a) STUDY.—The Secretary of Housing and Urban
+                                                                  11 Development, in consultation with the Comptroller Gen-
+                                                                  12 eral of the United States, shall conduct a study to analyze
+                                                                  13 and determine—
+                                                                  14                         (1) the impacts of the lack of electronic records
+                                                                  15                and uniform standards found in local land title rec-
+                                                                  16                ordation systems currently used in the various
+                                                                  17                States;
+                                                                  18                         (2) any progress States have made in devel-
+                                                                  19                oping electronic land title recordation systems for
+                                                                  20                their localities that contain uniform standards, and
+                                                                  21                any findings and conclusions and best practices re-
+                                                                  22                sulting from such development;
+                                                                  23                         (3) the current oversight role of the Federal
+srobinson on DSK4SPTVN1PROD with                                  24                Government in the transfer and recordation of land
+                                                                  25                titles;
+
+
+                                                                               •HR 189 IH
+
+                                                                                                                         12
+                                                                    1                        (4) opportunities, and the feasibility of such op-
+                                                                    2               portunities, that may be present to leverage progress
+                                                                    3               made by some States and localities to create an elec-
+                                                                    4               tronic land title recordation system, including
+                                                                    5               through—
+                                                                    6                                 (A) a system that would maintain all pre-
+                                                                    7                        vious records of the land-property without in-
+                                                                    8                        validating, interfering with, or preempting State
+                                                                    9                        real property law governing the transfer and
+                                                                  10                         perfection of land title; and
+                                                                  11                                  (B) further actions by the States or by the
+                                                                  12                         Federal Government, or coordinated actions of
+                                                                  13                         both; and
+                                                                  14                         (5) the feasibility of creating a Federal land
+                                                                  15                title recordation system for property transfers that
+                                                                  16                would maintain all previous records of the land-prop-
+                                                                  17                erty without invalidating, interfering with, or pre-
+                                                                  18                empting State real property law governing the trans-
+                                                                  19                fer and perfection of land title.
+                                                                  20                (b) REPORT.—Not later than the expiration of the
+                                                                  21 12-month period beginning on the date of the enactment
+                                                                  22 of this Act, the Secretary of Housing and Urban Develop-
+                                                                  23 ment, in consultation with the Comptroller General of the
+srobinson on DSK4SPTVN1PROD with                                  24 United States, shall submit to the Congress a report on
+                                                                               •HR 189 IH
+
+                                                                                                                         13
+                                                                    1 the results and findings of the study conducted under this
+                                                                    2 section.
+                                                                                                                             Æ
+srobinson on DSK4SPTVN1PROD with
+
+
+
+
+                                                                               •HR 189 IH
+
