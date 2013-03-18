@@ -17,7 +17,7 @@
           </div>
 
           <div class="small_heading">
-            <span><span id="popular_ul_title">Most-Viewed Bills</span>
+            <span><span id="popular_ul_title">Whats happining on the hill</span>
             <ul class="tabs" id="bill_tab_select">
               <% @index_tabs.each do |tab| %>
                 <li id="<%= tab[:id] %>link">
@@ -30,13 +30,16 @@
 
         <div id="bill_tabs">
           <% @index_tabs.each do |tab| %>
+          <% if tab[:collection] !=nil %>
           <div id="<%= tab[:id] %>  style="<%= tab[:style] %>>
+           <span><span id="popular_ul_title"><%= tab[:title] %></span>
             <ul class="medium_bill_list">
               <%= render :partial => tab[:partial], :collection => tab[:collection], :locals => { :count_type => tab[:count_type]} %>
             </ul>
             <a href="<%= tab[:link] %>" class="more_"><span>More <%= tab[:title] %></span></a>
             <div class="clear">&nbsp;</div>
           </div>
+          <% end %>
           <% end %>
         </div>
       </div><!-- rightside -->

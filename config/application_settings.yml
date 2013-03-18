@@ -1,0 +1,84 @@
+defaults: &defaults
+  current_opensecrets_cycle: '2010'
+  default_search_page_size: 10
+  default_congress: 113
+  default_count_time: <%= 7.days %>
+  default_search_page_size: 10
+  available_congresses:
+    - 113
+    - 112
+    - 111
+    - 110
+    - 109
+
+  scraper_useragent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.1) Gecko/20060111 Firefox/1.5.0.1
+  
+  mini_mailer_from: alert@dev.issues.org
+  
+  data_path: /data
+  govtrack_data_path: /data/govtrack
+  govtrack_billtext_path: /data/govtrack/bills.text
+  govtrack_billtext_diff_path: /data/govtrack/bills.text.cmp
+  oc_billtext_path: /data/issues/bills.text
+  committee_reports_path: /data/committee_reports
+  
+  base_url: http://www.issues.org/
+  api_host: api.issues.org
+  api_base_url: http://api.issues.org/
+
+  wiki_host: www.issues.org
+  wiki_base_url: http://www.issues.org/wiki
+
+  #ban_file: /u/apps/issues/shared/files/banned_users.txt
+ 
+  # Andy's server for formageddon
+  formageddon_reply_domain: formageddon.nindy.com 
+  formageddon_server: pop.gmail.com
+  formageddon_username: formageddon@nindy.com
+  
+  group_images_path: <%= Rails.root %>/public/system/group_images
+  notebook_files_path: <%= Rails.root %>/public/system/notebook_files
+
+development:
+  <<: *defaults
+
+  data_path: /tmp/issues_data
+  govtrack_data_path: /tmp/issues_data/govtrack
+  govtrack_billtext_path: /tmp/issues_data/govtrack/bills.text
+  govtrack_billtext_diff_path: /tmp/issues_data/govtrack/bills.text.cmp
+  oc_billtext_path: /tmp/issues_data/issues/bills.text
+  committee_reports_path: /tmp/issues_data/committee_reports
+  
+  group_images_path: <%= Rails.root %>/public/system/group_images
+  notebook_files_path: <%= Rails.root %>/public/system/notebook_files
+    
+  base_url: http://localhost:3000/
+  api_host: api.127localhost.com:3000
+  api_base_url: http://api.127localhost.com:3000/
+  
+  ban_file: /tmp/banned_users.txt
+  
+
+drm:
+  <<: *defaults
+  base_url: http://drm.dev.issues.org
+  api_host: api.dev.issues.org
+  api_base_url: http://api.dev.issues.org/
+  wiki_base_url: http://wiki-dev.issues.org/wiki 
+  
+test:
+  <<: *defaults
+
+staging:
+  <<: *defaults
+  base_url: http://dev.issues.org/
+
+  wiki_base_url: http://wiki-dev.issues.org/wiki 
+  api_host: api.dev.issues.org
+  api_base_url: http://api.dev.issues.org/
+  
+production:
+  <<: *defaults
+  formageddon_reply_domain: issues.org 
+  formageddon_server: pop.gmail.com
+  formageddon_username: formageddon@issues.org
