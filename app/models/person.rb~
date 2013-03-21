@@ -185,7 +185,7 @@ class Person < ActiveRecord::Base
   end
 
   def Person.list_chamber(chamber, congress, order, limit = nil)
-    def_count_days = '3000'.to_i / 24 / 60 / 60
+    def_count_days = 1
     lim = limit.nil? ? "" : "LIMIT #{limit}"
 
     Person.find_by_sql(["SELECT people.*, 
@@ -223,7 +223,7 @@ class Person < ActiveRecord::Base
                              GROUP BY object_aggregates.aggregatable_id
                              ORDER BY view_count DESC) aggregates
                             ON people.id=aggregates.aggregatable_id                                                               			       
-    WHERE roles.role_type = ? AND ((roles.startdate <= ? AND roles.enddate >= ?) OR roles.startdate = ?) ORDER BY #{order} #{lim};", chamber, Date.today, Date.today, OpenCongress::Application::CONGRESS_START_DATES[113]])
+                            WHERE roles.role_type = ? AND ((roles.startdate <= ? AND roles.enddate >= ?) OR roles.startdate = ?) ORDER BY #{order} LIMIT 5;", chamber, Date.today, Date.today, Issues::Application::CONGRESS_START_DATES[113]])
    end
 
   def Person.rep_random_news(limit = 1, since = Settings.default_count_time)

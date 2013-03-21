@@ -12,7 +12,7 @@
             <%= vote.roll_call.question %>
           </div>
           <div class="vote">
-    
+            <%= get_vote_image(vote.vote) %> <%= vote %>
     				
             <% unless vote.with_party?.nil? %><em>(<%= vote.with_party? ? "with party" : "against party" %>)</em><% end %>
           </div>

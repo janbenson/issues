@@ -677,7 +677,7 @@ class Bill < ActiveRecord::Base
         round = round + 1
       end
       Bill.find(:all, :conditions => ["#{the_bill_conditions.join(' OR ')}", the_bill_params], :limit => find_options[:limit])
-      Bill.find_by_session_and_bill_type_and_number(session, bill_type, number, find_options)
+  #    Bill.find_by_session_and_bill_type_and_number(session, bill_type, number, find_options)
     end
   
     def long_type_to_short(type)

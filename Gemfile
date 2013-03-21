@@ -1,12 +1,14 @@
 source 'https://rubygems.org'
 gem 'rails', '3.2.12'
-gem 'rake', '10.0.3'
+gem 'rake'
 gem 'thin'
+gem 'multi_json', '1.7.0'
 gem "settingslogic"
 gem 'sunspot_solr'
 gem 'ruby-openid'
 gem 'rack-contrib'
 gem 'rack-openid'
+gem "facebooker2"
 
 # RMagick
 gem 'rmagick', '2.13.1'

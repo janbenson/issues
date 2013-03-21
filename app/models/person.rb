@@ -7,7 +7,7 @@ class Person < ActiveRecord::Base
   require 'yahoo_geocoder'
   
   has_many :committees, :through => :committee_people
- # has_many :committee_people, :conditions => proc { [ "committees_people.session = ?", Settings.default_congress ] }
+  has_many :committee_people, :conditions => proc { [ "committees_people.session = ?", Settings.default_congress ] }
   has_many :bills, :foreign_key => :sponsor_id, :conditions => proc { [ "bills.session = ?", Settings.default_congress ] }, :include => [ :bill_titles, :actions ], :order => 'bills.introduced DESC'
   has_many :bill_cosponsors
   has_many :bills_cosponsored, :class_name => 'Bill', :through => :bill_cosponsors, :source => :bill, :conditions => proc { [ "bills.session = ?", Settings.default_congress ] }, :order => 'bills.introduced DESC'

@@ -1,0 +1,30 @@
+development:
+  app_id: 159934650832053
+  secret: 0fd295606545561fe738cd12778dd1e5
+  api_key:159934650832053
+  callback_url: http://www.jbbenson.com/issues
+
+
+staging:
+  app_id: 159934650832053
+  secret: 0fd295606545561fe738cd12778dd1e5
+  api_key: 159934650832053
+  callback_url: http://www.jbbenson.com/issues
+
+production:
+  app_id: 159934650832053
+  secret: 0fd295606545561fe738cd12778dd1e5
+  api_key: 159934650832053
+  callback_url: http://www.jbbenson.com/issues
+
+test:
+  app_id: 159934650832053
+  secret: 0fd295606545561fe738cd12778dd1e5
+  api_key: 159934650832053
+  callback_url: http://www.jbbenson.com/issues
+
+drm:
+  app_id: 159934650832053
+  secret: 0fd295606545561fe738cd12778dd1e5
+  api_key: 159934650832053
+  callback_url: http://www.jbbenson.com/issues

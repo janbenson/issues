@@ -2,7 +2,7 @@ Issues::Application.routes.draw do
 	resources :issues
   # API
   constraints :subdomain => 'api' do
- #   match '/' => redirect(Settings.base_url + 'api')
+    match '/' => redirect(Settings.base_url + 'api')
     match '/bill/text_summary/:id' => 'bill#status_text'
     match '/roll_call/text_summary/:id' => 'roll_call#summary_text'
     with_options :format => [:json, :xml] do |f|

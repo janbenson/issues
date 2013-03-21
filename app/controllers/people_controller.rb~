@@ -1,6 +1,5 @@
 class PeopleController < ApplicationController
   include ActionView::Helpers::NumberHelper
-  include ActionView::Helpers::TextHelper
   
   #verify :method => :post, :only => [:most_viewed_text_update]
   before_filter :page_view, :only => :show
@@ -240,7 +239,7 @@ class PeopleController < ApplicationController
      format.html {
 		  @abstain_rank = @person.abstain_rank
       
-		  comment_redirect(params[:goto_comment]) and return if params[:goto_comment]
+      comment_redirect(params[:goto_comment]) and return if params[:goto_comment]
 		  
 		  # "issue cloud" code; to be used later
 		  #cosponsored_bills = @person.bills_cosponsored
@@ -252,15 +251,15 @@ class PeopleController < ApplicationController
 		  
 		  @include_vids_styles = true
       
-		  @featured_person_text = @person.featured_people.first
+      @featured_person_text = @person.featured_people.first
       
-		  @person_tracking_suggestions = @person.tracking_suggestions
-		  @supporting_suggestions = @person.support_suggestions
-		  @opposing_suggestions = @person.oppose_suggestions
+      @person_tracking_suggestions = @person.tracking_suggestions
+      @supporting_suggestions = @person.support_suggestions
+      @opposing_suggestions = @person.oppose_suggestions
       
-		  @bio_summary = @person.wiki_bio_summary
-		  @atom = {'link' => url_for(:only_path => false, :controller => 'people', :action => 'atom', :id => @person), 'title' => "Track " + @person.name}
-		  @hide_atom = true
+      @bio_summary = @person.wiki_bio_summary
+      @atom = {'link' => url_for(:only_path => false, :controller => 'people', :action => 'atom', :id => @person), 'title' => "Track " + @person.name}
+ 		@hide_atom = true
       }
      format.xml {
         render :xml => @person.to_xml(:include => [:recent_news, :recent_blogs])
@@ -672,7 +671,7 @@ class PeopleController < ApplicationController
         ["Comments <span>(#{@person.comments.size})</span>",{:action => 'comments', :id => @person}]
       ]
       @top_comments = @person.comments.find(:all,:include => [:user], :order => "comments.plus_score_count - comments.minus_score_count DESC", :limit => 2)
-      @atom = {'link' => url_for(:only_path => false, :controller => @person, :id => @person, :action => 'atom'), 'title' => "#{@person.popular_name} activity"}
+      @atom = {'link' => url_for(:only_path => false, :controller => 'people', :id => @person, :action => 'atom'), 'title' => "#{@person.popular_name} activity"}
       @bookmarking_image = @person.photo_path
     else
       flash[:error] = "Invalid person URL."

@@ -11,7 +11,7 @@
       <% related_bills_list.each_with_index do |bill, i| -%>
         <% unless bill.title_common.blank? -%>
          
-	<li class="<% bill %>">
+	<li class="<%= PvsCategory(bill) %>">
 		<a class="icon_link" href="<%= bill_path(bill) %>">
             <% if commentary_type %>
               <span class="list_count"><%= (i + 1) %></span>
@@ -41,7 +41,7 @@
 
 			<span class="status">            
             
-            <span> bill.status </span>
+            <span><%= temp_url_strip(bill.status) %></span>
             
             <span class="date"><%= bill.last_action.formatted_date if bill.last_action %></span>
             

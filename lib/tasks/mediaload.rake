@@ -9,7 +9,7 @@ namespace :mediaload do
       if (['production', 'staging'].include?(Rails.env))
         Emailer.deliver_rake_error(e, "Error rsyncing govtrack data!")
       else
-        puts "rsyncing govtrack data!"
+        puts "rsyncing media data!"
       end
       
     end

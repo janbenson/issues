@@ -44,6 +44,7 @@
   <% if @person.votes(3).any? %>
     <div id="voting_history">
       <h2>Recent Voting History</h2>
+      <%= site_text_explain('voting_history') %>
       <%= render(:partial => 'voting_history', :locals => { :votes => @person.votes(3) }) %>
       <a href="/people/voting_history/<%= @person.to_param %>" class="silver medium button floatleft margin-top margin-left push-left push-top clearnone"><span>View Full Voting History</span></a>
 			</div>

@@ -53,6 +53,7 @@ module Issues
     config.assets.version = '1.0'
      # Stylesheet path defined 
      config.action_view.stylesheet_path  "/app/assets/stylesheets/"
+     config.action_view.image_path  "app/images/"
     
     # Configure the default encoding used in templates for Ruby 1.9.
     config.encoding = "utf-8"
