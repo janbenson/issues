@@ -1,0 +1,59 @@
+<bill session="113" type="h" number="1248" updated="2013-03-20T04:47:20-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Patient Protection and Affordable Care Act to repeal certain limitations on health care benefits.</title>
+  </titles>
+  <sponsor id="412303"/>
+  <cosponsors>
+    <cosponsor id="400006" joined="2013-03-19"/>
+    <cosponsor id="412541" joined="2013-03-19"/>
+    <cosponsor id="400032" joined="2013-03-19"/>
+    <cosponsor id="400636" joined="2013-03-19"/>
+    <cosponsor id="412252" joined="2013-03-19"/>
+    <cosponsor id="412427" joined="2013-03-19"/>
+    <cosponsor id="400052" joined="2013-03-19"/>
+    <cosponsor id="400071" joined="2013-03-19"/>
+    <cosponsor id="412563" joined="2013-03-19"/>
+    <cosponsor id="400655" joined="2013-03-19"/>
+    <cosponsor id="400116" joined="2013-03-19"/>
+    <cosponsor id="400147" joined="2013-03-19"/>
+    <cosponsor id="412463" joined="2013-03-19"/>
+    <cosponsor id="412485" joined="2013-03-19"/>
+    <cosponsor id="412280" joined="2013-03-19"/>
+    <cosponsor id="412434" joined="2013-03-19"/>
+    <cosponsor id="412460" joined="2013-03-19"/>
+    <cosponsor id="400209" joined="2013-03-19"/>
+    <cosponsor id="412191" joined="2013-03-19"/>
+    <cosponsor id="400234" joined="2013-03-19"/>
+    <cosponsor id="412256" joined="2013-03-19"/>
+    <cosponsor id="412445" joined="2013-03-19"/>
+    <cosponsor id="400654" joined="2013-03-19"/>
+    <cosponsor id="412487" joined="2013-03-19"/>
+    <cosponsor id="412442" joined="2013-03-19"/>
+    <cosponsor id="400320" joined="2013-03-19"/>
+    <cosponsor id="412310" joined="2013-03-19"/>
+    <cosponsor id="412411" joined="2013-03-19"/>
+    <cosponsor id="412314" joined="2013-03-19"/>
+    <cosponsor id="400367" joined="2013-03-19"/>
+    <cosponsor id="412392" joined="2013-03-19"/>
+    <cosponsor id="400406" joined="2013-03-19"/>
+    <cosponsor id="400627" joined="2013-03-19"/>
+    <cosponsor id="412402" joined="2013-03-19"/>
+    <cosponsor id="412430" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-19">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

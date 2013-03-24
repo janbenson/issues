@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="1169" updated="2013-03-21T12:46:09-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="short">Naval Air Station Fallon Housing and Safety Development Act</title>
+    <title as="introduced" type="official">To direct the Secretary of the Interior to transfer to the Secretary of the Navy certain Federal land in Churchill County, Nevada.</title>
+  </titles>
+  <sponsor id="412500"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

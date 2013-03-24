@@ -1,0 +1,39 @@
+<bill session="113" type="s" number="13" updated="2013-03-16T06:15:22-04:00">
+  <state datetime="2013-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-26"/>
+  </status>
+  <introduced datetime="2013-02-26"/>
+  <titles>
+    <title as="introduced" type="short">Abstinence Education Reallocation Act of 2013</title>
+    <title as="introduced" type="official">A bill to authorize the Secretary of Health and Human Services, acting through the Administrator of the Health Resources and Services Administration, to award grants on a competitive basis to public and private entities to provide qualified sexual risk avoidance education to youth and their parents.</title>
+  </titles>
+  <sponsor id="300047"/>
+  <cosponsors>
+    <cosponsor id="402675" joined="2013-02-26"/>
+    <cosponsor id="400546" joined="2013-02-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-26">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="718"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Family planning and birth control"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Marriage and family status"/>
+    <term name="Sex and reproductive health"/>
+    <term name="Sexually transmitted diseases"/>
+    <term name="Teenage pregnancy"/>
+  </subjects>
+  <amendments/>
+</bill>

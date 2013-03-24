@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="1394" updated="2013-03-22T04:47:25-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To direct the Secretary of the Interior to establish goals for an all-of-the-above energy production plan strategy on a 4-year basis on all onshore Federal lands managed by the Department of the Interior and the Forest Service.</title>
+  </titles>
+  <sponsor id="412405"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="113" type="s" number="14" updated="2013-03-16T06:15:23-04:00">
+  <state datetime="2013-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-26"/>
+  </status>
+  <introduced datetime="2013-02-26"/>
+  <titles>
+    <title as="introduced" type="short">Southeast Alaska Native Land Conveyance Act</title>
+    <title as="introduced" type="official">A bill to provide for the partial settlement of certain claims under the Alaska Native Claims Settlement Act.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors>
+    <cosponsor id="412326" joined="2013-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-26">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S872-873"/>
+    </action>
+    <action state="REFERRED" datetime="2013-02-26">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Alaska"/>
+    <term name="Alaska Natives and Hawaiians"/>
+    <term name="Indian claims"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+  </subjects>
+  <amendments/>
+</bill>

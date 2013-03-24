@@ -1,0 +1,38 @@
+<bill session="113" type="h" number="1350" updated="2013-03-22T04:47:03-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To withdraw the Tusayan Ranger District and Federal land managed by the Bureau of Land Management in the vicinity of Kanab Creek and in House Rock Valley from location, entry, and patent under the mining laws, and for other purposes.</title>
+  </titles>
+  <sponsor id="400162"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2013-03-21"/>
+    <cosponsor id="412379" joined="2013-03-21"/>
+    <cosponsor id="400080" joined="2013-03-21"/>
+    <cosponsor id="412215" joined="2013-03-21"/>
+    <cosponsor id="400129" joined="2013-03-21"/>
+    <cosponsor id="412511" joined="2013-03-21"/>
+    <cosponsor id="412286" joined="2013-03-21"/>
+    <cosponsor id="400251" joined="2013-03-21"/>
+    <cosponsor id="400259" joined="2013-03-21"/>
+    <cosponsor id="400289" joined="2013-03-21"/>
+    <cosponsor id="400290" joined="2013-03-21"/>
+    <cosponsor id="400310" joined="2013-03-21"/>
+    <cosponsor id="412308" joined="2013-03-21"/>
+    <cosponsor id="400378" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

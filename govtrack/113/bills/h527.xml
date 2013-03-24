@@ -1,0 +1,59 @@
+<bill session="113" type="h" number="527" updated="2013-03-21T06:15:45-04:00">
+  <state datetime="2013-03-20">REPORTED</state>
+  <status>
+    <unknown datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-02-06"/>
+  <titles>
+    <title as="introduced" type="short">Responsible Helium Administration and Stewardship Act</title>
+    <title as="introduced" type="official">To amend the Helium Act to complete the privatization of the Federal helium reserve in a competitive market fashion that ensures stability in the helium markets while protecting the interests of American taxpayers, and for other purposes.</title>
+  </titles>
+  <sponsor id="400171"/>
+  <cosponsors>
+    <cosponsor id="412472" joined="2013-03-19"/>
+    <cosponsor id="412480" joined="2013-02-06"/>
+    <cosponsor id="400184" joined="2013-02-06"/>
+    <cosponsor id="400253" joined="2013-02-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-06">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-02-14">
+      <text>Committee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-03-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2013-03-20">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Hearings, Markup, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Business records"/>
+    <term name="Congressional oversight"/>
+    <term name="Energy prices"/>
+    <term name="Energy research"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Government trust funds"/>
+    <term name="Oil and gas"/>
+    <term name="Pipelines"/>
+    <term name="Research and development"/>
+    <term name="Strategic materials and reserves"/>
+    <term name="Texas"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>2/6/2013--Introduced.
+Responsible Helium Administration and Stewardship Act - Amends the Helium Act to redefine the Federal Helium Reserve as the Bureau of Land Management (BLM) Cliffside Gas Field and supporting infrastructure, including: (1) the Cliffside Gas Field helium storage reservoir; and (2) all associated infrastructure owned, leased, or managed under contract by the Secretary of the Interior (Secretary) for helium storage, transportation, withdrawal, purification, or management. Directs the Secretary (who currently is merely authorized) to offer for sale crude helium for federal, medical, scientific, and commercial uses, dividing such sales into three phases, the second of which is to maximize total recovery of helium from the Reserve. Limits the first phase to the one-year period following enactment of this Act, and specifies duration requirements for the second and third phases. Requires the Secretary to establish prices for crude helium sales during the first phase that are not less than the last sales of crude helium from the Federal Helium Reserve before enactment of this Act. Prescribes requirements for the sale of crude helium at auction for federal, medical, scientific, and commercial uses. Permits designated federal agencies and grantees to purchase refined helium from an eligible person for federal, medical, research, and scientific uses at either the minimum auction price, or another price designated by the Secretary. Directs the Secretary to require all parties to a contract for the acceptance, storage, and redelivery of crude helium to disclose, on a confidential basis, in dollars per thousand cubic feet, the weighted average price of all crude helium and bulk liquid helium purchased, sold, or processed by them in qualifying domestic helium transactions during the fiscal year. Specifies conditions under which the Secretary is authorized to change the minimum sales price for crude helium. Requires persons participating in auctions of helium from the Federal Helium Reserve to furnish, upon request, records of transactions in helium auctions required by the Secretary to reconstruct bidding or trading in the course of a particular inquiry or investigation conducted for enforcement or surveillance purposes. Sets forth uses of the Helium Production Fund, including capital investments and maintenance at the Cliffside Gas Field helium storage reservoir and helium pipeline. Directs the Secretary to: (1) publicize on the Internet certain information regarding the current refining capacity on the Federal Helium Reserve pipeline, and (2) take any applications for new refining capacity on the Federal Helium Reserve pipeline. Requires the BLM Director to establish a real-time reporting process, including reporting over the Internet, providing specified data affecting the helium industry (including effects for all persons in the industry from crude helium suppliers to end users). Directs the Secretary to: (1) conduct a national helium gas resource assessment in each reservoir (including the isotope helium-3); (2) complete an assessment of trends in global demand for helium, including such isotope; (3) cooperate with the Secretary of Energy on any assessment or research relating to the extraction and refining of the isotope helium-3 from crude helium at either the Federal Helium Reserve or along the Federal Helium Reserve pipeline system; and (4) report to Congress on the feasibility of establishing a facility to separate the isotope helium-3 from crude helium at either the Federal Helium Reserve or at an existing helium separation or purification facility connected to the Federal Helium Reserve pipeline system.</summary>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="113" type="s" number="289" updated="2013-03-19T04:45:38-04:00">
+  <state datetime="2013-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-12"/>
+  </status>
+  <introduced datetime="2013-02-12"/>
+  <titles>
+    <title as="introduced" type="short">Commercial Real Estate and Economic Development Act of 2013</title>
+    <title as="introduced" type="short">CREED Act of 2013</title>
+    <title as="introduced" type="official">A bill to extend the low-interest refinancing provisions under the Local Development Business Loan Program of the Small Business Administration.</title>
+  </titles>
+  <sponsor id="300063"/>
+  <cosponsors>
+    <cosponsor id="400064" joined="2013-03-14"/>
+    <cosponsor id="412586" joined="2013-03-18"/>
+    <cosponsor id="400194" joined="2013-03-12"/>
+    <cosponsor id="412243" joined="2013-03-11"/>
+    <cosponsor id="412323" joined="2013-02-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S660-661"/>
+    </action>
+    <action state="REFERRED" datetime="2013-02-12">
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+      <reference ref="CR S661" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Committee on Small Business and Entrepreneurship. Hearings held.</text>
+      <committee name="Committee on Small Business and Entrepreneurship"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2013--Introduced.
+Commercial Real Estate and Economic Development Act of 2013 or CREED Act of 2013 - Reinstates for a five-year period beginning on the date of enactment of this Act the authority for Small Business Administration (SBA) low-interest refinancing of small business debt not involving business expansion under the SBA's local development business loan program. Repeals a provision of the Small Business Jobs Act of 2010 which terminated such authority as of September 27, 2012.</summary>
+</bill>

@@ -1,0 +1,1112 @@
+                                                                                                                                   I
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                          H. R. 409
+                                  To provide for Indian trust asset management reform, and for other purposes.
+
+
+
+
+                                                IN THE HOUSE OF REPRESENTATIVES
+                                                                         JANUARY 23, 2013
+                                          Mr. SIMPSON          introduced the following bill; which was referred to the
+                                                                   Committee on Natural Resources
+
+
+
+
+                                                                            A BILL
+                                     To provide for Indian trust asset management reform, and
+                                                         for other purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+                                    4              (a) SHORT TITLE.—This Act may be cited as the
+                                    5 ‘‘Indian Trust Asset Reform Act’’.
+                                    6              (b) TABLE            OF    CONTENTS.—The table of contents for
+                                    7 this Act is as follows:
+                                          Sec. 1. Short title; table of contents.
+
+                                                      TITLE I—RECOGNITION OF TRUST RESPONSIBILITY
+                                          Sec. 101. Congressional statement of findings.
+                                          Sec. 102. Congressional reaffirmation of policy.
+
+                                          TITLE II—INDIAN TRUST ASSET MANAGEMENT DEMONSTRATION
+                                                                PROJECT ACT
+
+
+
+                                                                                             2
+                                          Sec. 201. Short title.
+                                          Sec. 202. Definitions.
+                                          Sec. 203. Establishment of demonstration project; selection of participating In-
+                                                          dian tribes.
+                                          Sec. 204. Indian trust asset management plan.
+                                          Sec. 205. Effect of title.
+
+                                              TITLE III—RESTRUCTURING BUREAU OF INDIAN AFFAIRS AND
+                                                            OFFICE OF SPECIAL TRUSTEE
+
+                                          Sec.   301.      Purpose.
+                                          Sec.   302.      Definitions.
+                                          Sec.   303.      Under Secretary for Indian Affairs.
+                                          Sec.   304.      Transfer of functions of Assistant Secretary for Indian Affairs.
+                                          Sec.   305.      Office of Special Trustee for American Indians.
+                                          Sec.   306.      Cost savings recommendations.
+                                          Sec.   307.      Hiring preference.
+                                    1                TITLE I—RECOGNITION OF
+                                    2                 TRUST RESPONSIBILITY
+                                    3     SEC. 101. CONGRESSIONAL STATEMENT OF FINDINGS.
+                                    4              The Congress, after careful review of the Federal
+                                    5 Government’s historical and special legal relationship
+                                    6 with, and resulting responsibilities to, American Indian
+                                    7 people, finds that—
+                                    8                        (1) the relationship of Indian tribes to the
+                                    9              United States is founded in part on the settled doc-
+                                  10               trine of the law of nations that when a stronger sov-
+                                  11               ereign assumes authority over a weaker sovereign,
+                                  12               the stronger one assumes a duty of protection for
+                                  13               the weaker one, which does not surrender its right
+                                  14               to self-government;
+                                  15                         (2) the United States fiduciary responsibilities
+
+
+
+
+                                  16               to Indians also constitutes a foundational basis for,
+                                  17               not merely a function of, congressional legislation re-
+
+
+                                              •HR 409 IH
+
+                                                                                             3
+                                    1              garding Indians because it constitutes an inherent
+                                    2              presupposition of our constitutional structure, which
+                                    3              provides an inherent limit on the exercise and appli-
+                                    4              cation of the Indian Commerce Clause and the Trea-
+                                    5              ty Clause of the Constitution;
+                                    6                        (3) the United States fiduciary responsibilities
+                                    7              to Indians also are founded in part on specific com-
+                                    8              mitments made through written treaties and agree-
+                                    9              ments securing peace, in exchange for which Indians
+                                  10               have surrendered claims to vast tracts of land, which
+                                  11               provided legal consideration for permanent, ongoing
+                                  12               performance of Federal trust duties; and
+                                  13                         (4) the foregoing historic Federal-tribal rela-
+                                  14               tions and understandings have benefitted the people
+                                  15               of the United States as a whole for centuries and es-
+                                  16               tablished enduring and enforceable Federal obliga-
+                                  17               tions to which the national honor has been com-
+                                  18               mitted.
+                                  19      SEC. 102. CONGRESSIONAL REAFFIRMATION OF POLICY.
+                                  20               Pursuant to its constitutionally vested authority over
+                                  21 Indian affairs, the Congress hereby reaffirms the following
+                                  22 regarding the proper discharge of the United States fidu-
+                                  23 ciary responsibilities to Indians—
+
+
+
+
+
+                                  24                         (1) enforceable fiduciary duties necessarily arise
+                                  25               when the United States assumes control or super-
+
+
+                                              •HR 409 IH
+
+                                                                                             4
+                                    1              vision over tribal trust assets even though nothing is
+                                    2              said expressly in the governing statutes or regula-
+                                    3              tions, unless Congress has expressly specified other-
+                                    4              wise;
+                                    5                        (2) in general, the most exacting common-law
+                                    6              fiduciary standards which govern private trustees
+                                    7              also govern the United States when it manages In-
+                                    8              dian trust assets, and enforceable Federal trust du-
+                                    9              ties for Indian trust asset management are not lim-
+                                  10               ited to the express terms of statutes and regulations;
+                                  11                         (3) the fact that the United States simulta-
+                                  12               neously performs another task for another interest
+                                  13               that Congress has obligated it by statute to do does
+                                  14               not compromise or limit the United States enforce-
+                                  15               able fiduciary obligations to Indians; and
+                                  16                         (4) the United States fiduciary responsibilities
+                                  17               to Indian tribes include and are not limited by a
+                                  18               duty to promote tribal self-determination regarding
+                                  19               governmental authority and economic development.
+                                  20      TITLE II—INDIAN TRUST ASSET
+                                  21         MANAGEMENT DEMONSTRA-
+                                  22         TION PROJECT ACT
+                                  23      SEC. 201. SHORT TITLE.
+                                  24               This title may be cited as the ‘‘Indian Trust Asset
+                                  25 Management Demonstration Project Act of 2013’’.
+
+
+                                              •HR 409 IH
+
+                                    1     SEC. 202. DEFINITIONS.                             5
+                                    2              In this title:
+                                    3                        (1) PROJECT.—The term ‘‘Project’’ means the
+                                    4              Indian             trust       asset          management                 demonstration
+                                    5              project established under section 103(a).
+                                    6                        (2) INDIAN             TRIBE.—The                 term ‘‘Indian tribe’’
+                                    7              means an Indian tribe that—
+                                    8                                 (A) is federally recognized; and
+                                    9                                 (B) submits an application under section
+                                  10                         203(c).
+                                  11                         (3) SECRETARY.—The term ‘‘Secretary’’ means
+                                  12               the Secretary of the Interior.
+                                  13      SEC. 203. ESTABLISHMENT OF DEMONSTRATION PROJECT;
+                                  14                              SELECTION                  OF          PARTICIPATING             INDIAN
+                                  15                              TRIBES.
+
+                                  16               (a) IN GENERAL.—The Secretary shall establish and
+                                  17 carry out an Indian trust asset management demonstra-
+                                  18 tion project, in accordance with this title.
+                                  19               (b)         SELECTION                 OF          PARTICIPATING                 INDIAN
+                                  20 TRIBES.—
+                                  21                         (1) INDIAN           TRIBES.—
+
+                                  22                                  (A) IN        GENERAL.—Any                    Indian tribe shall
+                                  23                         be eligible to participate in the Project if—
+                                  24                                          (i) the Indian tribe submits to the
+
+
+
+
+                                  25                                  Secretary an application under subsection
+                                  26                                  (c); and
+                                              •HR 409 IH
+
+                                                                                             6
+                                    1                                        (ii) the Secretary approves the appli-
+                                    2                                 cation of the Indian tribe.
+                                    3                        (2) NOTICE.—
+                                    4                                 (A) IN          GENERAL.—The                      Secretary shall
+                                    5                        provide a written notice to each Indian tribe ap-
+                                    6                        proved to participate in the Project.
+                                    7                                 (B) CONTENTS.—A notice under subpara-
+                                    8                        graph (A) shall include—
+                                    9                                        (i) a statement that the application of
+                                  10                                  the Indian tribe has been approved by the
+                                  11                                  Secretary; and
+                                  12                                         (ii) a requirement that the Indian
+                                  13                                  tribe shall submit to the Secretary a pro-
+                                  14                                  posed Indian trust asset management plan
+                                  15                                  in accordance with section 104.
+                                  16               (c) APPLICATION.—
+                                  17                         (1) IN       GENERAL.—To                    be eligible to participate
+                                  18               in the Project, an Indian tribe shall submit to the
+                                  19               Secretary a written application in accordance with
+                                  20               paragraph (2).
+                                  21                         (2) REQUIREMENTS.—The Secretary shall take
+                                  22               into consideration an application under this sub-
+                                  23               section only if the application—
+
+
+
+
+
+                                  24                                  (A) includes a copy of a resolution or other
+                                  25                         appropriate action by the governing body of the
+
+
+                                              •HR 409 IH
+
+                                                                                             7
+                                    1                        Indian tribe, as determined by the Secretary, in
+                                    2                        support of or authorizing the application;
+                                    3                                 (B) is received by the Secretary after the
+                                    4                        date of enactment of this Act; and
+                                    5                                 (C) states that the Indian tribe is request-
+                                    6                        ing to participate in the Project.
+                                    7              (d) DURATION.—The Project shall remain in effect
+                                    8 for a period of 8 years after the date of enactment of this
+                                    9 Act.
+                                  10      SEC. 204. INDIAN TRUST ASSET MANAGEMENT PLAN.
+
+                                  11               (a) PROPOSED PLAN.—
+                                  12                         (1) SUBMISSION.—After the date on which an
+                                  13               Indian tribe receives a notice from the Secretary
+                                  14               under section 203(b)(2), the Indian tribe shall sub-
+                                  15               mit to the Secretary a proposed Indian trust asset
+                                  16               management plan in accordance with paragraph (2).
+                                  17                         (2) CONTENTS.—A proposed Indian trust asset
+                                  18               management plan shall include provisions that—
+                                  19                                  (A) identify the trust assets that will be
+                                  20                         subject to the plan, including financial and non-
+                                  21                         financial trust assets;
+                                  22                                  (B) establish trust asset management ob-
+                                  23                         jectives and priorities for Indian trust assets
+
+
+
+
+                                  24                         that are located within the reservation, or oth-
+                                              •HR 409 IH
+
+                                                                                             8
+                                    1                        erwise subject to the jurisdiction, of the Indian
+                                    2                        tribe;
+                                    3                                 (C) allocate trust asset management fund-
+                                    4                        ing that is available for the Indian trust assets
+                                    5                        subject to the plan in order to meet the trust
+                                    6                        asset management objectives and priorities;
+                                    7                                 (D) if the Indian tribe has contracted or
+                                    8                        compacted functions or activities under the In-
+                                    9                        dian Self-Determination and Education Assist-
+                                  10                         ance Act (25 U.S.C. 450 et seq.) relating to the
+                                  11                         management of trust assets—
+                                  12                                         (i) identify the functions or activities
+                                  13                                  that are being performed by the Indian
+                                  14                                  tribe under the contracts or compacts; and
+                                  15                                         (ii) describe the proposed manage-
+                                  16                                  ment systems, practices, and procedures
+                                  17                                  that the Indian tribe will follow;
+                                  18                                  (E) establish procedures for nonbinding
+                                  19                         mediation or resolution of any dispute between
+                                  20                         the Indian tribe and the United States relating
+                                  21                         to the trust asset management plan;
+                                  22                                  (F) include a process for the Indian tribe
+                                  23                         and the Federal agencies affected by the trust
+
+
+
+
+                                  24                         asset management plan to conduct annual eval-
+                                              •HR 409 IH
+
+                                                                                             9
+                                    1                        uations to ensure that trust assets are being
+                                    2                        managed in accordance with the plan; and
+                                    3                                 (G) identify any Federal regulations that
+                                    4                        will be superseded by the plan.
+                                    5                        (3) AUTHORITY                       OF INDIAN TRIBES TO DE-
+                                    6              VELOP SYSTEMS, PRACTICES, AND PROCEDURES.—
+                                    7              For purposes of preparing and carrying out a man-
+                                    8              agement plan under this section, an Indian tribe
+                                    9              that has compacted or contracted activities or func-
+                                  10               tions under the Indian Self-Determination and Edu-
+                                  11               cation Assistance Act (25 U.S.C. 450 et seq.), for
+                                  12               purposes of carrying out the activities or functions,
+                                  13               may develop and carry out trust asset management
+                                  14               systems, practices, and procedures that differ from
+                                  15               any such systems, practices, and procedures used by
+                                  16               the Secretary in managing the trust assets if the
+                                  17               systems, practices, and procedures of the Indian
+                                  18               tribe meet the requirements of the laws, standards,
+                                  19               and responsibilities described in subsection (c).
+                                  20                         (4) TECHNICAL                       ASSISTANCE             AND        INFORMA-
+                                  21               TION.—The               Secretary shall provide to an Indian
+                                  22               tribe any technical assistance and information, in-
+                                  23               cluding budgetary information, that the Indian tribe
+
+
+
+
+                                  24               determines to be necessary for preparation of a pro-
+                                              •HR 409 IH
+
+                                                                                         10
+                                    1              posed plan on receipt of a written request from the
+                                    2              Indian tribe.
+                                    3              (b) APPROVAL                   AND        DISAPPROVAL                    OF     PROPOSED
+                                    4 PLANS.—
+                                    5                        (1) APPROVAL.—
+                                    6                                 (A) IN          GENERAL.—Not                     later than 120
+                                    7                        days after the date on which an Indian tribe
+                                    8                        submits a proposed Indian trust asset manage-
+                                    9                        ment plan under subsection (a), the Secretary
+                                  10                         shall approve or disapprove the proposed plan.
+                                  11                                  (B) REQUIREMENTS                        FOR DISAPPROVAL.—
+                                  12                         The Secretary shall approve a proposed plan
+                                  13                         unless the Secretary determines that—
+                                  14                                         (i) the proposed plan fails to address
+                                  15                                  a requirement under subsection (a)(2);
+                                  16                                         (ii) the proposed plan includes one or
+                                  17                                  more provisions that are inconsistent with
+                                  18                                  subsection (c); or
+                                  19                                         (iii) the cost of implementing the pro-
+                                  20                                  posed plan exceeds the amount of funding
+                                  21                                  available for the management of trust as-
+                                  22                                  sets that would be subject to the proposed
+                                  23                                  plan.
+
+
+
+
+
+                                  24                         (2) ACTION            ON DISAPPROVAL.—
+
+
+
+
+                                              •HR 409 IH
+
+                                                                                         11
+                                    1                                 (A) NOTICE.—If the Secretary disapproves
+                                    2                        a proposed plan under paragraph (1)(B), the
+                                    3                        Secretary shall provide to the Indian tribe a
+                                    4                        written notice of the disapproval, including any
+                                    5                        reason why the proposed plan was disapproved.
+                                    6                                 (B) ACTION               BY TRIBES.—If                       a proposed
+                                    7                        plan is disapproved under paragraph (1)(B),
+                                    8                        the Indian tribe may resubmit an amended pro-
+                                    9                        posed plan not later than 90 days after the date
+                                  10                         on which the Indian tribe receives the notice
+                                  11                         under subparagraph (A).
+                                  12                         (3) FAILURE              TO APPROVE OR DISAPPROVE.—If
+                                  13               the Secretary fails to approve or disapprove a pro-
+                                  14               posed plan in accordance with paragraph (1), the
+                                  15               plan shall be considered to be approved.
+                                  16                         (4) JUDICIAL               REVIEW.—An                  Indian tribe may
+                                  17               seek judicial review of the determination of the Sec-
+                                  18               retary in accordance with subchapter II of chapter
+                                  19               5, and chapter 7, of title 5, United States Code
+                                  20               (commonly known as the ‘‘Administrative Procedure
+                                  21               Act’’) if—
+                                  22                                  (A) the Secretary disapproves the proposed
+                                  23                         plan of the Indian tribe under paragraph (1) or
+
+
+
+
+
+                                  24                         (3); and
+
+
+
+
+                                              •HR 409 IH
+
+                                                                                         12
+                                    1                                 (B) the Indian tribe has exhausted any
+                                    2                        other administrative remedy available to the In-
+                                    3                        dian tribe.
+                                    4              (c) APPLICABLE LAWS; STANDARDS; TRUST RE-
+                                    5     SPONSIBILITY.—
+
+                                    6                        (1) APPLICABLE                  LAWS.—An               Indian trust asset
+                                    7              management plan, and any activity carried out
+                                    8              under the plan, shall not be approved unless the pro-
+                                    9              posed plan is consistent with—
+                                  10                                  (A) all Federal treaties, statutes, Executive
+                                  11                         orders, and court decisions that are applicable
+                                  12                         to the trust assets, or the management of the
+                                  13                         trust assets, identified in the plan; and
+                                  14                                  (B) all tribal laws that are applicable to
+                                  15                         the trust assets, or the management of trust as-
+                                  16                         sets, identified in the plan, except to the extent
+                                  17                         that the laws are inconsistent with the treaties,
+                                  18                         statutes, Executive orders, and court decisions
+                                  19                         referred to in subparagraph (A).
+                                  20                         (2) STANDARDS.—Subject to the laws referred
+                                  21               to in paragraph (1)(A), an Indian trust asset man-
+                                  22               agement plan shall not be approved unless the Sec-
+                                  23               retary determines that the plan will—
+
+
+
+
+
+                                  24                                  (A) protect trust assets from loss, waste,
+                                  25                         and unlawful alienation;
+
+
+                                              •HR 409 IH
+
+                                                                                         13
+                                    1                                 (B) promote the interests of the beneficial
+                                    2                        owner of the trust asset;
+                                    3                                 (C) conform, to the maximum extent prac-
+                                    4                        ticable, to the preferred use of the trust asset
+                                    5                        by the beneficial owner, unless the use is incon-
+                                    6                        sistent with a treaty, statute, regulation, Execu-
+                                    7                        tive order, or court decision referred to in para-
+                                    8                        graph (1)(A);
+                                    9                                 (D) protect any applicable treaty-based
+                                  10                         fishing, hunting and gathering, and similar
+                                  11                         rights relating to the use, access, or enjoyment
+                                  12                         of a trust asset; and
+                                  13                                  (E) require that any activity carried out
+                                  14                         under the plan be carried out in good faith and
+                                  15                         with loyalty to the beneficial owner of the trust
+                                  16                         asset.
+                                  17                         (3) TRUST             RESPONSIBILITY.—An                         Indian trust
+                                  18               asset management plan shall not be approved unless
+                                  19               the Secretary determines that the plan is consistent
+                                  20               with the trust responsibility of the United States to
+                                  21               the Indian tribe and individual Indians.
+                                  22               (d) TERMINATION OF PLAN.—
+                                  23                         (1) IN       GENERAL.—An                    Indian tribe may termi-
+
+
+
+
+                                  24               nate an Indian trust asset management plan on any
+                                  25               date after the date on which a proposed Indian trust
+
+
+                                              •HR 409 IH
+
+                                                                                         14
+                                    1              asset management plan is approved by providing to
+                                    2              the Secretary—
+                                    3                                 (A) a notice of the intent of the Indian
+                                    4                        tribe to terminate the plan; and
+                                    5                                 (B) a resolution of the governing body of
+                                    6                        the Indian tribe authorizing the termination of
+                                    7                        the plan.
+                                    8                        (2) EFFECTIVE               DATE.—A              termination of an In-
+                                    9              dian trust asset management plan under paragraph
+                                  10               (1) takes effect on October 1 of the first fiscal year
+                                  11               following the date on which a notice is provided to
+                                  12               the Secretary under paragraph (1)(A).
+                                  13      SEC. 205. EFFECT OF TITLE.
+
+                                  14               (a) LIABILITY.—Nothing in this title, or a trust asset
+                                  15 management plan approved under section 204, shall inde-
+                                  16 pendently diminish, increase, create, or otherwise affect
+                                  17 the liability of the United States or an Indian tribe partici-
+                                  18 pating in the Project for any loss resulting from the man-
+                                  19 agement of an Indian trust asset under an Indian trust
+                                  20 asset management plan.
+                                  21               (b) EFFECT ON OTHER LAWS.—Except for any regu-
+                                  22 lation superseded by a trust asset management plan ap-
+                                  23 proved under section 204, nothing in this title amends or
+
+
+
+
+                                  24 otherwise affects the application of any treaty, statute,
+                                  25 regulation, Executive order, or court decision that is appli-
+
+
+                                              •HR 409 IH
+
+                                                                                         15
+                                    1 cable to Indian trust assets or the management or admin-
+                                    2 istration of Indian trust assets.
+                                    3              (c) TRUST RESPONSIBILITY.—Nothing in this title
+                                    4 diminishes or otherwise affects the trust responsibility of
+                                    5 the United States to Indian tribes and individual Indians.
+                                    6     TITLE III—RESTRUCTURING BU-
+                                    7        REAU OF INDIAN AFFAIRS
+                                    8        AND OFFICE OF SPECIAL
+                                    9        TRUSTEE
+                                  10      SEC. 301. PURPOSE.
+                                  11               The purpose of this title is to ensure a more effective
+                                  12 and accountable administration of duties of the Secretary
+                                  13 of the Interior with respect to providing services and pro-
+                                  14 grams to Indians and Indian tribes, including the manage-
+                                  15 ment of Indian trust resources.
+                                  16      SEC. 302. DEFINITIONS.
+                                  17               In this title:
+                                  18                         (1) BUREAU.—The term ‘‘Bureau’’ means the
+                                  19               Bureau of Indian Affairs.
+                                  20                         (2) OFFICE.—The term ‘‘Office’’ means the Of-
+                                  21               fice of Trust Reform Implementation and Oversight
+                                  22               referred to in section 303(c).
+                                  23                         (3) SECRETARY.—The term ‘‘Secretary’’ means
+
+
+
+
+                                  24               the Secretary of the Interior.
+                                              •HR 409 IH
+
+                                                                                         16
+                                    1                        (4) UNDER                SECRETARY.—The                        term ‘‘Under
+                                    2              Secretary’’ means the individual appointed to the po-
+                                    3              sition of Under Secretary for Indian Affairs, estab-
+                                    4              lished by section 303(a).
+                                    5     SEC. 303. UNDER SECRETARY FOR INDIAN AFFAIRS.
+
+                                    6              (a) ESTABLISHMENT                         OF   POSITION.—There is estab-
+                                    7 lished in the Department of the Interior the position of
+                                    8 Under Secretary for Indian Affairs, who shall report di-
+                                    9 rectly to the Secretary.
+                                  10               (b) APPOINTMENT.—
+                                  11                         (1) IN       GENERAL.—Except                      as provided in para-
+                                  12               graph (2), the Under Secretary shall be appointed
+                                  13               by the President, by and with the advice and consent
+                                  14               of the Senate.
+                                  15                         (2) EXCEPTION.—The officer serving as the As-
+                                  16               sistant Secretary for Indian Affairs on the date of
+                                  17               enactment of this Act may assume the position of
+                                  18               Under Secretary without appointment under para-
+                                  19               graph (1) if—
+                                  20                                  (A) the officer was appointed as Assistant
+                                  21                         Secretary for Indian Affairs by the President by
+                                  22                         and with the advice and consent of the Senate;
+                                  23                         and
+
+
+
+
+
+                                              •HR 409 IH
+
+                                                                                         17
+                                    1                                 (B) not later than 180 days after the date
+                                    2                        of enactment of this Act, the Secretary ap-
+                                    3                        proves the assumption.
+                                    4              (c) DUTIES.—In addition to the duties transferred to
+                                    5 the Under Secretary under sections 304 and 305, the
+                                    6 Under Secretary, acting through an Office of Trust Re-
+                                    7 form Implementation and Oversight, shall—
+                                    8                        (1) carry out any activity relating to trust fund
+                                    9              accounts and trust resource management of the Bu-
+                                  10               reau (except any activity carried out under the Of-
+                                  11               fice of the Special Trustee for American Indians be-
+                                  12               fore the date on which the Office of the Special
+                                  13               Trustee is abolished), in accordance with the Amer-
+                                  14               ican Indian Trust Fund Management Reform Act of
+                                  15               1994 (25 U.S.C. 4001 et seq.);
+                                  16                         (2) develop and maintain an inventory of Indian
+                                  17               trust assets and resources;
+                                  18                         (3) coordinate with the Special Trustee for
+                                  19               American Indians to ensure an orderly transition of
+                                  20               the functions of the Special Trustee under section
+                                  21               305;
+                                  22                         (4) supervise any activity carried out by the De-
+                                  23               partment of the Interior, including but not limited
+
+
+
+
+                                  24               to—
+                                              •HR 409 IH
+
+                                                                                         18
+                                    1                                 (A) to the extent that the activities relate
+                                    2                        to Indian affairs, activities carried out by—
+                                    3                                        (i) the Commissioner of Reclamation;
+                                    4                                        (ii) the Director of the Bureau of
+                                    5                                 Land Management;
+                                    6                                        (iii) the Director of the Office of Nat-
+                                    7                                 ural Resources Revenue;
+                                    8                                        (iv) the Director of the National Park
+                                    9                                 Service; and
+                                  10                                         (v) the Director of the U.S. Fish and
+                                  11                                  Wildlife Service; and
+                                  12                                  (B) intergovernmental relations between
+                                  13                         the Bureau and Indian tribal governments;
+                                  14                         (5) to the maximum extent practicable, coordi-
+                                  15               nate activities and policies of the Bureau with activi-
+                                  16               ties and policies of—
+                                  17                                  (A) the Bureau of Reclamation;
+                                  18                                  (B) the Bureau of Land Management;
+                                  19                                  (C) the Office of Natural Resources Rev-
+                                  20                         enue;
+                                  21                                  (D) the National Park Service; and
+                                  22                                  (E) the U.S. Fish and Wildlife Service;
+                                  23                         (6) provide for regular consultation with Indi-
+
+
+
+
+                                  24               ans and Indian tribes that own interests in trust re-
+                                  25               sources and trust fund accounts;
+
+
+                                              •HR 409 IH
+
+                                                                                         19
+                                    1                        (7) manage and administer Indian trust re-
+                                    2              sources in accordance with any applicable Federal
+                                    3              law;
+                                    4                        (8) take steps to protect the security of data re-
+                                    5              lating to individual Indian and Indian tribal trust
+                                    6              accounts; and
+                                    7                        (9) take any other measure the Under Sec-
+                                    8              retary determines to be necessary with respect to In-
+                                    9              dian affairs.
+                                  10      SEC. 304. TRANSFER OF FUNCTIONS OF ASSISTANT SEC-
+                                  11                              RETARY FOR INDIAN AFFAIRS.
+                                  12               (a) TRANSFER OF FUNCTIONS.—There is transferred
+                                  13 to the Under Secretary any function of the Assistant Sec-
+                                  14 retary for Indian Affairs that has not been carried out
+                                  15 by the Assistant Secretary as of the date of enactment
+                                  16 of this Act.
+                                  17               (b) DETERMINATIONS                          OF    CERTAIN FUNCTIONS             BY
+                                  18      THE       OFFICE            OF    MANAGEMENT                   AND       BUDGET.—If nec-
+                                  19 essary, the Office of Management and Budget shall make
+                                  20 any determination relating to the functions transferred
+                                  21 under subsection (a).
+                                  22               (c) PERSONNEL PROVISIONS.—
+                                  23                         (1) APPOINTMENTS.—The Under Secretary
+
+
+
+
+                                  24               may appoint and fix the compensation of such offi-
+                                  25               cers and employees as the Under Secretary deter-
+
+
+                                              •HR 409 IH
+
+                                                                                         20
+                                    1              mines to be necessary to carry out any function
+                                    2              transferred under this section.
+                                    3                        (2) REQUIREMENTS.—Except as otherwise pro-
+                                    4              vided by law—
+                                    5                                 (A) an officer or employee described in
+                                    6                        paragraph (1) shall be appointed in accordance
+                                    7                        with the civil service laws; and
+                                    8                                 (B) the compensation of the officer or em-
+                                    9                        ployee shall be fixed in accordance with title 5,
+                                  10                         United States Code.
+                                  11               (d) DELEGATION AND ASSIGNMENT.—
+                                  12                         (1) IN          GENERAL.—Except                        as otherwise ex-
+                                  13               pressly prohibited by law or otherwise provided by
+                                  14               this section, the Under Secretary may—
+                                  15                                  (A) delegate any of the functions trans-
+                                  16                         ferred to the Under Secretary by this section
+                                  17                         and any function transferred or granted to the
+                                  18                         Under Secretary after the date of enactment of
+                                  19                         this Act to such officers and employees of the
+                                  20                         Office as the Under Secretary may designate;
+                                  21                         and
+                                  22                                  (B) authorize successive redelegations of
+                                  23                         such functions as the Under Secretary deter-
+
+
+
+
+                                  24                         mines to be necessary or appropriate.
+                                              •HR 409 IH
+
+                                                                                         21
+                                    1                        (2) DELEGATION.—No delegation of functions
+                                    2              by the Under Secretary under this section shall re-
+                                    3              lieve the Under Secretary of responsibility for the
+                                    4              administration of the functions.
+                                    5              (e) REORGANIZATION.—The Under Secretary may al-
+                                    6 locate or reallocate any function transferred under this
+                                    7 section among the officers of the Office, and establish,
+                                    8 consolidate, alter, or discontinue such organizational enti-
+                                    9 ties in the Office, as the Under Secretary determines to
+                                  10 be necessary or appropriate.
+                                  11               (f) RULES.—The Under Secretary may prescribe, in
+                                  12 accordance with the provisions of chapters 5 and 6 of title
+                                  13 5, United States Code, such rules and regulations as the
+                                  14 Under Secretary determines to be necessary or appro-
+                                  15 priate to administer and manage the functions of the Of-
+                                  16 fice.
+                                  17               (g) TRANSFER                   AND        ALLOCATIONS                OF     APPROPRIA-
+                                  18      TIONS AND            PERSONNEL.—
+                                  19                         (1) IN         GENERAL.—Except                        as otherwise pro-
+                                  20               vided in this section, the personnel employed in con-
+                                  21               nection with, and the assets, liabilities, contracts,
+                                  22               property, records, and unexpended balances of ap-
+                                  23               propriations, authorizations, allocations, and other
+
+
+
+
+                                  24               funds employed, used, held, arising from, available
+                                  25               to, or to be made available in connection with, the
+
+
+                                              •HR 409 IH
+
+                                                                                         22
+                                    1              functions transferred by this section, subject to sec-
+                                    2              tion 1531 of title 31, United States Code, shall be
+                                    3              transferred to the Office.
+                                    4                        (2) UNEXPENDED                     FUNDS.—Unexpended                    funds
+                                    5              transferred pursuant to this subsection shall be used
+                                    6              only for the purposes for which the funds were origi-
+                                    7              nally authorized and appropriated.
+                                    8              (h) INCIDENTAL TRANSFERS.—
+                                    9                        (1) IN      GENERAL.—The                    Director of the Office of
+                                  10               Management and Budget, at any time the Director
+                                  11               may provide, may make such determinations as are
+                                  12               necessary with regard to the functions transferred
+                                  13               by this section, and make such additional incidental
+                                  14               dispositions of personnel, assets, liabilities, grants,
+                                  15               contracts, property, records, and unexpended bal-
+                                  16               ances of appropriations, authorizations, allocations,
+                                  17               and other funds held, used, arising from, available
+                                  18               to, or to be made available in connection with such
+                                  19               functions, as are necessary, to carry out this section.
+                                  20                         (2) TERMINATION                    OF AFFAIRS.—The                    Director
+                                  21               of the Office of Management and Budget shall pro-
+                                  22               vide for the termination of the affairs of all entities
+                                  23               terminated by this section and for any further meas-
+
+
+
+
+                                  24               ures and dispositions as are necessary to effectuate
+                                  25               the purposes of this section.
+
+
+                                              •HR 409 IH
+
+                                    1              (i) EFFECT ON PERSONNEL.—           23
+                                    2                        (1) IN         GENERAL.—Except                        as otherwise pro-
+                                    3              vided by this section, the transfer pursuant to this
+                                    4              section of full-time personnel (except special Govern-
+                                    5              ment employees) and part-time personnel holding
+                                    6              permanent positions shall not cause any such em-
+                                    7              ployee to be separated or reduced in grade or com-
+                                    8              pensation for a period of at least 1 year after the
+                                    9              date of transfer of the employee under this section.
+                                  10                         (2) EXECUTIVE                   SCHEDULE POSITIONS.—Except
+                                  11               as otherwise provided in this section, any person
+                                  12               who, on the day preceding the date of enactment of
+                                  13               this Act, held a position compensated in accordance
+                                  14               with the Executive Schedule prescribed in chapter
+                                  15               53 of title 5, United States Code, and who, without
+                                  16               a break in service, is appointed to a position in the
+                                  17               Office having duties comparable to the duties per-
+                                  18               formed immediately preceding such appointment
+                                  19               shall continue to be compensated in the new position
+                                  20               at not less than the rate provided for the previous
+                                  21               position, for the duration of the service of the person
+                                  22               in the new position.
+                                  23                         (3) TERMINATION                      OF CERTAIN POSITIONS.—
+                                  24               Positions whose incumbents are appointed by the
+                                  25               President, by and with the advice and consent of the
+
+
+                                              •HR 409 IH
+
+                                                                                         24
+                                    1              Senate, the functions of which are transferred by
+                                    2              this title, shall terminate on the date of enactment
+                                    3              of this Act.
+                                    4              (j) SEPARABILITY.—If a provision of this section or
+                                    5 the application of this section to any person or cir-
+                                    6 cumstance is held invalid, neither the remainder of this
+                                    7 section nor the application of the provision to other per-
+                                    8 sons or circumstances shall be affected.
+                                    9              (k) TRANSITION.—The Under Secretary may use—
+                                  10                         (1) the services of the officers, employees, and
+                                  11               other personnel of the Assistant Secretary for Indian
+                                  12               Affairs relating to functions transferred to the Office
+                                  13               by this section; and
+                                  14                         (2) funds appropriated to the functions for such
+                                  15               period of time as may reasonably be needed to facili-
+                                  16               tate the orderly implementation of this section.
+                                  17               (l) REFERENCES.—Any reference in a Federal law,
+                                  18 Executive order, rule, regulation, delegation of authority,
+                                  19 or document relating to the Assistant Secretary for Indian
+                                  20 Affairs, with respect to functions transferred under this
+                                  21 section, shall be deemed to be a reference to the Under
+                                  22 Secretary.
+                                  23               (m) RECOMMENDED LEGISLATION.—Not later than
+
+
+
+
+                                  24 180 days after the effective date of this title, the Under
+                                  25 Secretary, in consultation with the appropriate committees
+
+
+                                              •HR 409 IH
+
+                                                                                         25
+                                    1 of Congress and the Director of the Office of Management
+                                    2 and Budget, shall submit to Congress any recommenda-
+                                    3 tions relating to additional technical and conforming
+                                    4 amendments to Federal law to reflect the changes made
+                                    5 by this section.
+                                    6              (n) EFFECT OF SECTION.—
+                                    7                        (1) CONTINUING                     EFFECT            OF        LEGAL   DOCU-
+                                    8              MENTS.—Any                 legal document relating to a function
+                                    9              transferred by this section that is in effect on the
+                                  10               date of enactment of this Act shall continue in effect
+                                  11               in accordance with the terms of the document until
+                                  12               the document is modified or terminated by—
+                                  13                                  (A) the President;
+                                  14                                  (B) the Under Secretary;
+                                  15                                  (C) a court of competent jurisdiction; or
+                                  16                                  (D) operation of Federal or State law.
+                                  17                         (2) PROCEEDINGS                     NOT AFFECTED.—This                  sec-
+                                  18               tion shall not affect any proceeding (including a no-
+                                  19               tice of proposed rulemaking, an administrative pro-
+                                  20               ceeding, and an application for a license, permit,
+                                  21               certificate, or financial assistance) relating to a
+                                  22               function transferred under this section that is pend-
+                                  23               ing before the Assistant Secretary on the date of en-
+
+
+
+
+                                  24               actment of this Act.
+                                              •HR 409 IH
+
+                                                                                         26
+                                    1     SEC. 305. OFFICE OF SPECIAL TRUSTEE FOR AMERICAN IN-
+                                    2                             DIANS.
+                                    3              (a) TERMINATION.—Notwithstanding sections 302
+                                    4 and 303 of the American Indian Trust Fund Management
+                                    5 Reform Act of 1994 (25 U.S.C. 4042; 4043), the Office
+                                    6 of Special Trustee for American Indians shall terminate
+                                    7 on the effective date of this section.
+                                    8              (b) TRANSFER OF FUNCTIONS.—There is transferred
+                                    9 to the Under Secretary any function of the Special Trustee
+                                  10 for American Indians that has not been carried out by
+                                  11 the Special Trustee as of the effective date of this section.
+                                  12               (c) DETERMINATIONS                         OF     CERTAIN FUNCTIONS             BY
+                                  13      THE       OFFICE            OF    MANAGEMENT                   AND       BUDGET.—If nec-
+                                  14 essary, the Office of Management and Budget shall make
+                                  15 any determination relating to the functions transferred
+                                  16 under subsection (b).
+                                  17               (d) PERSONNEL PROVISIONS.—
+                                  18                         (1) APPOINTMENTS.—The Under Secretary
+                                  19               may appoint and fix the compensation of such offi-
+                                  20               cers and employees as the Under Secretary deter-
+                                  21               mines to be necessary to carry out any function
+                                  22               transferred under this section.
+                                  23                         (2) REQUIREMENTS.—Except as otherwise pro-
+                                  24               vided by law—
+
+
+
+
+
+                                              •HR 409 IH
+
+                                                                                         27
+                                    1                                 (A) any officer or employee described in
+                                    2                        paragraph (1) shall be appointed in accordance
+                                    3                        with the civil service laws; and
+                                    4                                 (B) the compensation of such an officer or
+                                    5                        employee shall be fixed in accordance with title
+                                    6                        5, United States Code.
+                                    7              (e) DELEGATION AND ASSIGNMENT.—
+                                    8                        (1) IN          GENERAL.—Except                        as otherwise ex-
+                                    9              pressly prohibited by law or otherwise provided by
+                                  10               this section, the Under Secretary may—
+                                  11                                  (A) delegate any of the functions trans-
+                                  12                         ferred to the Under Secretary under this sec-
+                                  13                         tion and any function transferred or granted to
+                                  14                         the Under Secretary after the effective date of
+                                  15                         this section to such officers and employees of
+                                  16                         the Office as the Under Secretary may des-
+                                  17                         ignate; and
+                                  18                                  (B) authorize successive redelegations of
+                                  19                         the functions as are necessary or appropriate.
+                                  20                         (2) DELEGATION.—No delegation of functions
+                                  21               by the Under Secretary under this section shall re-
+                                  22               lieve the Under Secretary of responsibility for the
+                                  23               administration of the functions.
+
+
+
+
+
+                                  24               (f) REORGANIZATION.—The Under Secretary may al-
+                                  25 locate or reallocate any function transferred under sub-
+
+
+                                              •HR 409 IH
+
+                                                                                         28
+                                    1 section (b) among the officers of the Office, and establish,
+                                    2 consolidate, alter, or discontinue such organizational enti-
+                                    3 ties in the Office as the Under Secretary determines to
+                                    4 be necessary or appropriate.
+                                    5              (g) RULES.—The Under Secretary may prescribe, in
+                                    6 accordance with the provisions of chapters 5 and 6 of title
+                                    7 5, United States Code, such rules and regulations as the
+                                    8 Under Secretary determines to be necessary or appro-
+                                    9 priate to administer and manage the functions of the Of-
+                                  10 fice.
+                                  11               (h) TRANSFER                   AND        ALLOCATIONS                OF     APPROPRIA-
+                                  12      TIONS AND              PERSONNEL.—Except as otherwise provided
+                                  13 in this section, the personnel employed in connection with,
+                                  14 and the assets, liabilities, contracts, property, records, and
+                                  15 unexpended balances of appropriations, authorizations, al-
+                                  16 locations, and other funds employed, used, held, arising
+                                  17 from, available to, or to be made available in connection
+                                  18 with the functions transferred by this section, subject to
+                                  19 section 1531 of title 31, United States Code, shall be
+                                  20 transferred to the Office.
+                                  21               (i) INCIDENTAL TRANSFERS.—
+                                  22                         (1) IN      GENERAL.—The                    Director of the Office of
+                                  23               Management and Budget, at any time the Director
+
+
+
+
+                                  24               may provide, may make such determinations as are
+                                  25               necessary with regard to the functions transferred
+
+
+                                              •HR 409 IH
+
+                                                                                         29
+                                    1              by this section, and make such additional incidental
+                                    2              dispositions of personnel, assets, liabilities, grants,
+                                    3              contracts, property, records, and unexpended bal-
+                                    4              ances of appropriations, authorizations, allocations,
+                                    5              and other funds held, used, arising from, available
+                                    6              to, or to be made available in connection with such
+                                    7              functions, as are necessary, to carry out this section.
+                                    8                        (2) TERMINATION                    OF AFFAIRS.—The                    Director
+                                    9              of the Office of Management and Budget shall pro-
+                                  10               vide for the termination of the affairs of all entities
+                                  11               terminated by this section and for any further meas-
+                                  12               ures and dispositions as are necessary to effectuate
+                                  13               the purposes of this section.
+                                  14               (j) EFFECT ON PERSONNEL.—
+                                  15                         (1) IN         GENERAL.—Except                        as otherwise pro-
+                                  16               vided by this section, the transfer pursuant to this
+                                  17               section of full-time personnel (except special Govern-
+                                  18               ment employees) and part-time personnel holding
+                                  19               permanent positions shall not cause any such em-
+                                  20               ployee to be separated or reduced in grade or com-
+                                  21               pensation for a period of at least 1 year after the
+                                  22               date of transfer of the employee under this section.
+                                  23                         (2) EXECUTIVE                   SCHEDULE POSITIONS.—Except
+
+
+
+
+                                  24               as otherwise provided in this section, any person
+                                  25               who, on the day preceding the effective date of this
+
+
+                                              •HR 409 IH
+
+                                                                                         30
+                                    1              section, held a position compensated in accordance
+                                    2              with the Executive Schedule prescribed in chapter
+                                    3              53 of title 5, United States Code, and who, without
+                                    4              a break in service, is appointed to a position in the
+                                    5              Office having duties comparable to the duties per-
+                                    6              formed immediately preceding such appointment,
+                                    7              shall continue to be compensated in the new position
+                                    8              at not less than the rate provided for the previous
+                                    9              position, for the duration of the service of the person
+                                  10               in the new position.
+                                  11                         (3) TERMINATION                      OF CERTAIN POSITIONS.—
+                                  12               Positions the incumbents of which are appointed by
+                                  13               the President, by and with the advice and consent
+                                  14               of the Senate, and the functions of which are trans-
+                                  15               ferred by this title, shall terminate on the effective
+                                  16               date of this section.
+                                  17               (k) SEPARABILITY.—If a provision of this section or
+                                  18 the application of this section to any person or cir-
+                                  19 cumstance is held invalid, neither the remainder of this
+                                  20 section nor the application of the provision to other per-
+                                  21 sons or circumstances shall be affected.
+                                  22               (l) TRANSITION.—The Under Secretary may use—
+                                  23                         (1) the services of the officers, employees, and
+
+
+
+
+                                  24               other personnel of the Special Trustee relating to
+                                              •HR 409 IH
+
+                                                                                         31
+                                    1              functions transferred to the Office by this section;
+                                    2              and
+                                    3                        (2) funds appropriated to those functions for
+                                    4              such period of time as may reasonably be needed to
+                                    5              facilitate the orderly implementation of this section.
+                                    6              (m) REFERENCES.—Any reference in a Federal law,
+                                    7 Executive order, rule, regulation, delegation of authority,
+                                    8 or document relating to the Special Trustee, with respect
+                                    9 to functions transferred under this section, shall be
+                                  10 deemed to be a reference to the Under Secretary.
+                                  11               (n) RECOMMENDED LEGISLATION.—Not later than
+                                  12 180 days after the effective date of this title, the Under
+                                  13 Secretary, in consultation with the appropriate committees
+                                  14 of Congress and the Director of the Office of Management
+                                  15 and Budget, shall submit to Congress any recommenda-
+                                  16 tions relating to additional technical and conforming
+                                  17 amendments to Federal law to reflect the changes made
+                                  18 by this section.
+                                  19               (o) EFFECT OF SECTION.—
+                                  20                         (1) CONTINUING                     EFFECT            OF        LEGAL   DOCU-
+                                  21               MENTS.—Any                 legal document relating to a function
+                                  22               transferred by this section that is in effect on the ef-
+                                  23               fective date of this section shall continue in effect in
+
+
+
+
+                                  24               accordance with the terms of the document until the
+                                  25               document is modified or terminated by—
+
+
+                                              •HR 409 IH
+
+                                                                                         32
+                                    1                                 (A) the President;
+                                    2                                 (B) the Under Secretary;
+                                    3                                 (C) a court of competent jurisdiction; or
+                                    4                                 (D) operation of Federal or State law.
+                                    5                        (2) PROCEEDINGS                     NOT AFFECTED.—This                sec-
+                                    6              tion shall not affect any proceeding (including a no-
+                                    7              tice of proposed rulemaking, an administrative pro-
+                                    8              ceeding, and an application for a license, permit,
+                                    9              certificate, or financial assistance) relating to a
+                                  10               function transferred under this section that is pend-
+                                  11               ing before the Special Trustee on the effective date
+                                  12               of this section.
+                                  13               (p) EFFECTIVE DATE.—This section shall take effect
+                                  14 on April 1, 2014, or 180 days following enactment of this
+                                  15 Act into law, whichever is earlier.
+                                  16      SEC. 306. COST SAVINGS RECOMMENDATIONS.
+
+                                  17               (a) COST SAVINGS IDENTIFICATION.—Within 60
+                                  18 days of the effective date in section 305(p), the Under Sec-
+                                  19 retary shall initiate procedures to—
+                                  20                         (1) identify the programs, functions, services,
+                                  21               and activities (or any portions of programs, func-
+                                  22               tions, services, or activities) that will not have to op-
+                                  23               erate or carry out as a result of any transfer of
+
+
+
+
+                                  24               functions and personnel under section 305;
+                                              •HR 409 IH
+
+                                                                                         33
+                                    1                        (2) identify the amounts that the Secretary
+                                    2              would have otherwise expended to operate or carry
+                                    3              out each program, function, service, and activity (or
+                                    4              any portion of a program, function, service, or activ-
+                                    5              ity) identified pursuant to paragraph (1); and
+                                    6                        (3) provide to the Secretary and the tribal rep-
+                                    7              resentatives of the Tribal/Interior Budget Council,
+                                    8              within 120 days of the effective date in section
+                                    9              305(p), a list of the programs, functions, services,
+                                  10               and activities (or any portions of programs, func-
+                                  11               tions, services, or activities) identified pursuant
+                                  12               paragraph (1) and the amounts associated with each
+                                  13               program, function, service, and activity (or any por-
+                                  14               tion of a program, function, service, or activity)
+                                  15               identified pursuant to paragraph (2).
+                                  16               (b) TRIBAL RECOMMENDATIONS.—Within 120 days
+                                  17 of receipt of the information in subsection (a)(3), the trib-
+                                  18 al representatives of the Tribal/Interior Budget Council
+                                  19 may provide recommendations to the Secretary and the
+                                  20 Office of Management and Budget on how any amounts
+                                  21 or cost savings should be reallocated and/or incorporated
+                                  22 into future budget requests.
+                                  23      SEC. 307. HIRING PREFERENCE.
+                                  24               In appointing or otherwise hiring any employee to the
+                                  25 Office, the Under Secretary shall give preference to Indi-
+
+
+                                              •HR 409 IH
+
+                                                                                         34
+                                    1 ans in accordance with section 12 of the Act of June 8,
+                                    2 1934 (25 U.S.C. 472).                                  Æ
+                                              •HR 409 IH
+

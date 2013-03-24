@@ -330,9 +330,10 @@ namespace :update do
   end
 
   task :all => [:rsync, :people, :bills, :amendments, :roll_calls, :committee_reports, :committee_schedule, :person_voting_similarities, :sponsored_bill_stats, :expire_cached_bill_fragments, :expire_cached_person_fragments]
-  task :finishup => [:mailing_list, :person_voting_similarities, :sponsored_bill_stats, :expire_cached_bill_fragments, :expire_cached_person_fragments]
+  task :finishup => [:committee_reports, :committee_schedule, :person_voting_similarities, :sponsored_bill_stats, :expire_cached_bill_fragments, :expire_cached_person_fragments]
   task :parse_all => [ :people, :bills, :amendments, :roll_calls, :committee_reports, :committee_schedule]
   task :govtrack => [ :rsync, :people, :bills, :amendments, :roll_calls, :expire_cached_bill_fragments, :expire_cached_person_fragments]
   task :committee_info => [:committee_reports, :committee_schedule]
+  task :committee_info2 => [:committee_schedule]
   task :people_meta_data => [:person_voting_similarities, :sponsored_bill_stats, :expire_cached_person_fragments]
 end

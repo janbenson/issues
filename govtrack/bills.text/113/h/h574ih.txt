@@ -1,0 +1,769 @@
+                                                                                                                                   I
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                          H. R. 574
+                                  To amend part B of title XVIII of the Social Security Act to reform Medicare
+                                      payment for physicians’ services by eliminating the sustainable growth
+                                      rate system and providing incentives for the adoption of innovative pay-
+                                      ment and delivery models to improve quality and efficiency.
+
+
+
+
+                                                IN THE HOUSE OF REPRESENTATIVES
+                                                                 FEBRUARY 6, 2013
+                                  Ms. SCHWARTZ (for herself, Mr. HECK of Nevada, Mr. BLUMENAUER, Mrs.
+                                      CHRISTENSEN, Mr. CARNEY, Mr. COURTNEY, Mr. POLIS, Mr. FATTAH,
+                                      and Ms. CASTOR of Florida) introduced the following bill; which was re-
+                                      ferred to the Committee on Energy and Commerce, and in addition to
+                                      the Committee on Ways and Means, for a period to be subsequently de-
+                                      termined by the Speaker, in each case for consideration of such provisions
+                                      as fall within the jurisdiction of the committee concerned
+
+
+
+
+                                                                            A BILL
+                                  To amend part B of title XVIII of the Social Security
+                                     Act to reform Medicare payment for physicians’ services
+                                     by eliminating the sustainable growth rate system and
+                                     providing incentives for the adoption of innovative pay-
+                                     ment and delivery models to improve quality and effi-
+                                     ciency.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+
+
+
+
+
+                                    1     SECTION 1. SHORT TITLE; PURPOSE.                   2
+                                    2              (a) SHORT TITLE.—This Act may be cited as the
+                                    3 ‘‘Medicare Physician Payment Innovation Act of 2013’’.
+                                    4              (b) PURPOSE.—The purpose of this Act is to reform
+                                    5 the system of Medicare payment for physicians’ services—
+                                    6                        (1) by ending the application of the sustainable
+                                    7              growth rate (SGR) system;
+                                    8                        (2) to stabilize payments for 2014;
+                                    9                        (3) to promote the rapid development and im-
+                                  10               plementation of alternative improved payment and
+                                  11               delivery models that incentivize high quality, high-
+                                  12               value care; and
+                                  13                         (4) to provide continuing incentives for adop-
+                                  14               tion of such alternative payment and delivery models
+                                  15               by physicians and other providers.
+                                  16      SEC. 2. MEDICARE PHYSICIAN PAYMENT REFORM.
+
+                                  17               (a) REPEAL               OF     SGR PAYMENT METHODOLOGY.—
+                                  18 Section 1848 of the Social Security Act (42 U.S.C.
+                                  19 1395w–4) is amended—
+                                  20                         (1) in subsection (d)—
+                                  21                                  (A) in paragraph (1)(A), by inserting ‘‘or
+                                  22                         a subsequent paragraph’’ after ‘‘paragraph
+                                  23                         (4)’’; and
+                                  24                                  (B) in paragraph (4)—
+
+
+
+
+
+                                              •HR 574 IH
+
+                                                                                             3
+                                    1                                        (i) in the heading, by striking ‘‘YEARS
+                                    2                                 BEGINNING                  WITH       2001’’          and inserting
+                                    3                                 ‘‘2001,     2002, AND 2003’’;              and
+                                    4                                        (ii) in subparagraph (A), by striking
+                                    5                                 ‘‘a year beginning with 2001’’ and insert-
+                                    6                                 ing ‘‘2001, 2002, and 2003’’; and
+                                    7                        (2) in subsection (f)—
+                                    8                                 (A) in paragraph (1)(B), by inserting
+                                    9                        ‘‘through 2013’’ after ‘‘of such succeeding
+                                  10                         year’’; and
+                                  11                                  (B) in paragraph (2), by inserting ‘‘and
+                                  12                         ending with 2013’’ after ‘‘beginning with
+                                  13                         2000’’.
+                                  14               (b) STABILIZING 2014 PAYMENT RATES                                              AT   CUR-
+                                  15      RENT        LEVEL.—
+                                  16                         (1) IN         GENERAL.—Subsection                             (d) of section
+                                  17               1848 of the Social Security Act (42 U.S.C. 1395w–
+                                  18               4), as amended by section 601 of the American Tax-
+                                  19               payer Relief Act of 2012 (Public Law 112–240), is
+                                  20               amended by adding at the end the following new
+                                  21               paragraph:
+                                  22                         ‘‘(15) UPDATE              FOR 2014.—In                 lieu of the update
+                                  23               to the single conversion factor established in para-
+                                  24               graph (1)(C) that would otherwise apply for 2014,
+
+
+
+
+
+                                              •HR 574 IH
+
+                                                                                             4
+                                    1              the update to the single conversion factor shall be 0
+                                    2              percent for 2014.’’.
+                                    3                        (2) TECHNICAL                       AMENDMENT.—Effective                    for
+                                    4              years beginning with 2014, subparagraph (C)(i) of
+                                    5              paragraph (7) of section 1848(m) of the Social Se-
+                                    6              curity Act (42 U.S.C. 1395w–4(m)(7)(C)(i); relating
+                                    7              to additional incentive payment) is amended by in-
+                                    8              serting ‘‘, the program of Osteopathic Continuous
+                                    9              Certification of the American Osteopathic Associa-
+                                  10               tion,’’ after ‘‘Specialties Maintenance of Certification
+                                  11               program’’.
+                                  12               (c) ESTABLISHMENT                             OF   DIFFERENTIAL UPDATES
+                                  13 BEGINNING WITH 2015 TO PROMOTE ACCESS                                                         TO   PRI-
+                                  14      MARY        CARE SERVICES.—
+                                  15                         (1)        ESTABLISHMENT                        OF         SERVICE         CAT-
+                                  16               EGORIES.—Subsection                           (j) of section 1848 of the So-
+                                  17               cial Security Act (42 U.S.C. 1395w–4) is amended
+                                  18               by adding at the end the following new paragraphs:
+                                  19                         ‘‘(5) SERVICE             CATEGORIES.—
+
+                                  20                                  ‘‘(A) IN       GENERAL.—For                    services furnished
+                                  21                         on or after January 1, 2015, each of the fol-
+                                  22                         lowing categories of services shall be treated as
+                                  23                         a separate ‘service category’:
+
+
+
+
+
+                                              •HR 574 IH
+
+                                                                                             5
+                                    1                                        ‘‘(i) PRIMARY                  CARE.—Primary               care
+                                    2                                 services (as defined in subparagraph (B))
+                                    3                                 furnished by a qualifying practitioner.
+                                    4                                        ‘‘(ii) OTHER                SERVICES.—Other              physi-
+                                    5                                 cians’ services.
+                                    6                                 ‘‘(B) PRIMARY                 CARE SERVICES.—In                   this
+                                    7                        subsection, the term ‘primary care services’
+                                    8                        means services identified, as of April 1, 2013,
+                                    9                        with the following HCPCS codes (and as subse-
+                                  10                         quently modified by the Secretary):
+                                  11                                         ‘‘(i) OFFICE                 AND OUTPATIENT VIS-
+                                  12                                  ITS.—99201                 through 99215.
+                                  13                                         ‘‘(ii)          HOSPITAL                  OBSERVATIONAL
+                                  14                                  SERVICES.—99217                     through 99220.
+                                  15                                         ‘‘(iii) HOSPITAL                     INPATIENT           VISITS
+                                  16                                  SERVICES.—99221                     through 99239.
+                                  17                                         ‘‘(iv) NURSING                   HOME, DOMICILIARY,
+                                  18                                  REST HOME OR CUSTODIAL CARE VISITS.—
+                                  19                                  99304 through 99340.
+                                  20                                         ‘‘(v) HOME                  SERVICE VISITS.—99341
+                                  21                                  through 99350.
+                                  22                                         ‘‘(vi)              WELCOME               TO          MEDICARE
+                                  23                                  VISIT.—G0402.
+                                  24                                         ‘‘(vii) ANNUAL                   WELLNESS VISITS.—
+
+
+
+
+                                  25                                  G0438 and G0439.
+                                              •HR 574 IH
+
+                                    1                                 ‘‘(C) INCLUSION    6               OF PREVENTIVE SERV-
+                                    2                        ICES.—Such              term also includes preventive serv-
+                                    3                        ices described in section 1861(ddd)(3) and addi-
+                                    4                        tional preventive services described in section
+                                    5                        1861(ddd)(1).
+                                    6                                 ‘‘(D) INCLUSION                    OF ADDITIONAL SERV-
+                                    7                        ICES.—Such              term also includes services, such
+                                    8                        as care coordination services, telemedicine serv-
+                                    9                        ices, non-face-to-face care management services,
+                                  10                         preparation and supervision of long-term care
+                                  11                         plans, home care plan oversight services, and
+                                  12                         similar services that the Secretary identifies, by
+                                  13                         regulation, as being similar to the services de-
+                                  14                         scribed in subparagraph (B) or (C).
+                                  15                         ‘‘(6) QUALIFYING                     PRACTITIONER.—The                term
+                                  16               ‘qualifying practitioner’ means, with respect to the
+                                  17               furnishing of primary care services, an individual—
+                                  18                                  ‘‘(A) for whom primary care services has
+                                  19                         accounted for at least 60 percent of the allowed
+                                  20                         charges under this part (not counting any such
+                                  21                         charges attributable to in-office clinical labora-
+                                  22                         tory services) in a prior period as determined by
+                                  23                         the Secretary; or
+                                  24                                  ‘‘(B) who does not have claims under this
+
+
+
+
+                                  25                         part during such a prior period and whom the
+                                              •HR 574 IH
+
+                                                                                             7
+                                    1                        Secretary determines is likely to meet the re-
+                                    2                        quirement of subparagraph (A) for the subse-
+                                    3                        quent period.’’.
+                                    4                        (2) ESTABLISHMENT                           OF SEPARATE CONVER-
+                                    5              SION FACTORS FOR EACH SERVICE CATEGORY.—Sec-
+                                    6              tion 1848(d)(1) of the Social Security Act (42
+                                    7              U.S.C. 1395w–4(d)(1)), as amended by subsection
+                                    8              (a)(1)(A), is further amended—
+                                    9                                 (A) in subparagraph (A)—
+                                  10                                         (i) by designating the sentence begin-
+                                  11                                  ning ‘‘The conversion factor’’ as clause (i)
+                                  12                                  with the heading ‘‘APPLICATION                                OF SIN-
+                                  13                                  GLE CONVERSION FACTOR.—’’                                    and with
+                                  14                                  appropriate indentation;
+                                  15                                         (ii) by striking ‘‘The conversion fac-
+                                  16                                  tor’’ and inserting ‘‘Subject to clause (ii),
+                                  17                                  the conversion factor’’; and
+                                  18                                         (iii) by adding at the end the fol-
+                                  19                                  lowing new clause:
+                                  20                                         ‘‘(ii) APPLICATION                   OF MULTIPLE CON-
+                                  21                                  VERSION                FACTORS             BEGINNING            WITH
+                                  22                                  2015.—
+
+                                  23                                                   ‘‘(I) IN          GENERAL.—In                applying
+                                  24                                         clause (i) for each year beginning with
+
+
+
+
+                                  25                                         2015,           separate            conversion          factors
+                                              •HR 574 IH
+
+                                                                                             8
+                                    1                                        shall be established for each service
+                                    2                                        category of physicians’ services (as de-
+                                    3                                        fined in subsection (j)(5)(A)) and any
+                                    4                                        reference in this section to a conver-
+                                    5                                        sion factor for such years shall be
+                                    6                                        deemed a reference to the conversion
+                                    7                                        factor for each of such categories.
+                                    8                                                  ‘‘(II) INITIAL              CONVERSION FAC-
+                                    9                                        TORS.—Such                  factors for 2015 shall be
+                                  10                                         based upon the single conversion fac-
+                                  11                                         tor for the previous year multiplied by
+                                  12                                         the update established under para-
+                                  13                                         graph (16) for such category for
+                                  14                                         2015.
+                                  15                                                   ‘‘(III) UPDATING                      OF    CONVER-
+                                  16                                         SION        FACTORS.—Such                       factor for a
+                                  17                                         service category for a subsequent year
+                                  18                                         shall be based upon the conversion
+                                  19                                         factor for such category for the pre-
+                                  20                                         vious year and adjusted by the update
+                                  21                                         established for such category under
+                                  22                                         paragraph (16) or a subsequent para-
+                                  23                                         graph for the year involved.’’; and
+                                  24                                  (B) in subparagraph (D), by striking
+
+
+
+
+
+                                  25                         ‘‘other physicians’ services’’ and inserting ‘‘for
+
+
+                                              •HR 574 IH
+
+                                                                                             9
+                                    1                        physicians’ services in the service category de-
+                                    2                        scribed in subsection (j)(5)(A)(ii))’’.
+                                    3                        (3) ESTABLISHMENT                           OF SEPARATE UPDATES
+                                    4              FOR CONVERSION FACTORS FOR EACH SERVICE CAT-
+                                    5              EGORY.—Section                   1848(d) of the Social Security Act
+                                    6              (42 U.S.C. 1395w–4(d)), as amended by subsection
+                                    7              (b), is amended by adding at the end the following
+                                    8              new paragraph:
+                                    9                        ‘‘(16) UPDATES                  BY SERVICE CATEGORY BEGIN-
+                                  10               NING         WITH         2015;       UPDATES              FOR       2015       THROUGH
+                                  11               2018.—In            applying paragraph (4) for each year be-
+                                  12               ginning with 2015, the following rules apply:
+                                  13                                  ‘‘(A) APPLICATION                    OF SEPARATE UPDATE
+                                  14                         ADJUSTMENTS                     FOR         EACH           SERVICE       CAT-
+                                  15                         EGORY.—Pursuant                      to paragraph (1)(A)(ii)(I),
+                                  16                         for each year beginning with 2014, the update
+                                  17                         shall be made to the conversion factor for each
+                                  18                         service category (as defined in subsection
+                                  19                         (j)(5)(A)).
+                                  20                                  ‘‘(B) UPDATES               FOR 2015 THROUGH 2018.—
+                                  21                         The updates for 2015, 2016, 2017, and 2018
+                                  22                         for the conversion factor for the services cat-
+                                  23                         egory described in—
+                                  24                                         ‘‘(i) subsection (j)(5)(A)(i) shall be
+
+
+
+
+                                  25                                  2.5 percent; and
+                                              •HR 574 IH
+
+                                                                                         10
+                                    1                                        ‘‘(ii) subsection (j)(5)(A)(ii) shall be
+                                    2                                 0.5 percent.’’.
+                                    3              (d) PROMOTING TESTING                           AND       EVALUATION            OF   NEW
+                                    4 PAYMENT AND DELIVERY MODELS (PHASE I).—
+                                    5                        (1) EXPANSION                   OF TESTING IN MULTIPLE GEO-
+                                    6              GRAPHIC REGIONS.—Section                               1115A(a)(5) of the So-
+                                    7              cial Security Act (42 U.S.C. 1315a(a)(5)) is amend-
+                                    8              ed by inserting before the period at the end the fol-
+                                    9              lowing: ‘‘, but shall (to the maximum extent feasible)
+                                  10               including testing of each such model in geographic
+                                  11               areas in at least 3 regions’’.
+                                  12                         (2) INCLUSION                   OF PHYSICIAN IMPLEMENTA-
+                                  13               TION               COSTS                  IN          EVALUATIONS.—Section
+                                  14               1115A(b)(4)(A) of the Social Security Act (42
+                                  15               U.S.C. 1315a(b)(4)(A)) is amended—
+                                  16                                  (A) by striking ‘‘and’’ at the end of clause
+                                  17                         (i);
+                                  18                                  (B) by striking the period at the end of
+                                  19                         clause (ii) and inserting ‘‘; and’’; and
+                                  20                                  (C) by adding at the end the following new
+                                  21                         clause:
+                                  22                                         ‘‘(iii) the average cost, per physician,
+                                  23                                  of implementation of the model with re-
+                                  24                                  spect to physicians’ services.’’.
+
+
+
+
+
+                                              •HR 574 IH
+
+                                    1                        (3) ACCELERATING            11       TESTING AND EVALUATION
+                                    2              PROCESS.—Section                     1115A(b) of the Social Security
+                                    3              Act (42 U.S.C. 1315a(b)) is amended by adding at
+                                    4              the end the following new paragraph:
+                                    5                        ‘‘(5) TIMING.—The Secretary, acting through
+                                    6              the CMI, shall conduct activities under this sub-
+                                    7              section in such a timely manner so that evaluations
+                                    8              of initial models can be initially completed so that
+                                    9              physicians and other providers can begin to transi-
+                                  10               tion to implementation of such models with respect
+                                  11               to services for which payment is made under section
+                                  12               1848 beginning not later than January 1, 2018.’’.
+                                  13                         (4) INVOLVEMENT                   OF PROVIDER GROUPS IN SE-
+                                  14               LECTION OF MODELS.—Section                                  1115A(b)(4) of such
+                                  15               Act is amended by adding at the end the following
+                                  16               subparagraph:
+                                  17                                  ‘‘(D) INVOLVEMENT                     OF PROVIDER GROUPS
+                                  18                         IN MODEL SELECTION.—The                                    Secretary shall
+                                  19                         consult and work closely with physician and
+                                  20                         other provider groups in the selection of models
+                                  21                         under this subsection and subsection (c).’’.
+                                  22                         (5) USE          OF OTHER MODELS.—Section                             1115A
+                                  23               of such Act is further amended—
+                                  24                                  (A) by adding at the end of subsection
+
+
+
+
+
+                                  25                         (b)(2)(B) the following new clause:
+
+
+                                              •HR 574 IH
+
+                                                                                         12
+                                    1                                        ‘‘(xxi) Providing payment for out-
+                                    2                                 patient therapy services and speech lan-
+                                    3                                 guage pathology services on the basis of a
+                                    4                                 treatment session, an episode of care, or
+                                    5                                 other bundled payment methodology that
+                                    6                                 takes into account varying levels of severity
+                                    7                                 and complexity of patient diagnoses, condi-
+                                    8                                 tions, and comorbidities and the varying
+                                    9                                 intensity of services needed for effective
+                                  10                                  treatment of patients.’’; and
+                                  11                                  (B) in subsection (c), in the matter pre-
+                                  12                         ceding paragraph (1), by—
+                                  13                                         (i) striking ‘‘or’’ after ‘‘tested under
+                                  14                                  subsection (b)’’ and inserting a comma;
+                                  15                                  and
+                                  16                                         (ii) by inserting ‘‘, or other model (in-
+                                  17                                  cluding a model that was not tested under
+                                  18                                  subsection (b))’’ after ‘‘section 1866C’’.
+                                  19                         (6) GAO              REVIEW AND STUDY.—The                            Comp-
+                                  20               troller General of the United States shall conduct a
+                                  21               study of the evaluations made under subsection (b)
+                                  22               of section 1115A of the Social Security Act, as
+                                  23               amended by this section. Such study shall include an
+                                  24               analysis of the alternative payment and delivery
+
+
+
+
+                                  25               models identified under such section for payment for
+                                              •HR 574 IH
+
+                                                                                         13
+                                    1              physicians’ services (and other services) under the
+                                    2              Medicare program. Not later than April 1, 2017, the
+                                    3              Comptroller General shall submit a report to Con-
+                                    4              gress on such study and shall include in the report
+                                    5              such recommendations as the Comptroller General
+                                    6              deems appropriate for—
+                                    7                                 (A) changes in the development and imple-
+                                    8                        mentation process under such section; and
+                                    9                                 (B) alternative payment and delivery mod-
+                                  10                         els identified under such section as being appro-
+                                  11                         priate for expansion under subsection (c) of
+                                  12                         such section.
+                                  13                         (7) PUBLICATION                      OF      LIST        OF      SUCCESSFUL
+                                  14               MODELS.—Beginning                         on October 1, 2017, and each
+                                  15               year thereafter, the Secretary of Health and Human
+                                  16               Services shall publicly release a comprehensive list of
+                                  17               such health care delivery and payment models identi-
+                                  18               fied, under section 1115A of the Social Security Act
+                                  19               or otherwise, as meeting (or likely to meet) the re-
+                                  20               quirements of subsection (c)(1) of such section. Such
+                                  21               list shall include at least 4 health care delivery and
+                                  22               payment models and may include models not tested
+                                  23               under subsection (b) of such section.
+                                  24                         (8) CONSIDERATIONS.—The Comptroller Gen-
+
+
+
+
+                                  25               eral in making recommendations under paragraph
+                                              •HR 574 IH
+
+                                                                                         14
+                                    1              (6) and the Secretary in releasing the list of models
+                                    2              under paragraph (7) shall take into account vari-
+                                    3              ations among providers in size, specialty mix, case
+                                    4              mix, and patient demographics, as well as regional
+                                    5              health care infrastructure variations and variations
+                                    6              in cost of living among areas, and shall specifically
+                                    7              consider appropriate variations that take into ac-
+                                    8              count the special circumstances of providers in rural
+                                    9              and other underserved areas.
+                                  10               (e) IMPLEMENTATION                         OF    PAYMENT                 AND    DELIVERY
+                                  11 MODEL OPTIONS (PHASE II).—
+                                  12                         (1) IN       GENERAL.—Based                       on the report of the
+                                  13               Comptroller General under subsection (d)(4) and not
+                                  14               later than October 1, 2017, the Secretary of Health
+                                  15               and Human Services shall provide information to
+                                  16               physicians (and nurse practitioners and other pro-
+                                  17               viders for which payment is determined based on the
+                                  18               fee schedule under section 1848 of the Social Secu-
+                                  19               rity Act) or group practices and institutions employ-
+                                  20               ing Medicare part B providers on how best to transi-
+                                  21               tion to alternative health care delivery and payment
+                                  22               models that are aimed at improving the coordina-
+                                  23               tion, quality and efficiency of health care, including
+                                  24               those developed under section 1115A or 1866E of
+
+
+
+
+
+                                              •HR 574 IH
+
+                                                                                         15
+                                    1              the Social Security Act (42 U.S.C. 1315a, 1395cc–
+                                    2              5).
+                                    3                        (2) INCREASING                  FLEXIBILITY IN IMPLEMENTA-
+                                    4              TION.—Section                  1115A(c) of the Social Security Act
+                                    5              (42 U.S.C. 1315a(c)), as amended by subsection
+                                    6              (c)(5), is further amended, in the matter preceding
+                                    7              paragraph (1), by inserting, after ‘‘through rule-
+                                    8              making’’, the following: ‘‘(which may include the
+                                    9              issuance of interim final rules) or through publica-
+                                  10               tion of a directive or other guidance’’.
+                                  11                         (3) TIMING.—Section 1115A of such Act is fur-
+                                  12               ther amended by adding at the end the following:
+                                  13               ‘‘The Secretary shall seek to effect such expansion
+                                  14               to the maximum extent feasible so that physicians
+                                  15               (and other providers paid in amounts determined
+                                  16               based on the fee schedule under section 1848) may
+                                  17               begin to transition to implementation of such models
+                                  18               beginning not later than January 1, 2018.’’.
+                                  19               (f) TRANSITION DURING 2019.—
+                                  20                         (1) FREEZE               IN FEE SCHEDULE FOR 2019.—
+                                  21               Subsection (d) of section 1848 of the Social Security
+                                  22               Act (42 U.S.C. 1395w–4), as amended by sub-
+                                  23               sections (b) and (c)(3), is amended by adding at the
+                                  24               end the following new paragraph:
+
+
+
+
+
+                                              •HR 574 IH
+
+                                                                                         16
+                                    1                        ‘‘(17) UPDATE               FOR 2019.—The                      update to both
+                                    2              of the conversion factors for 2019 shall be 0 per-
+                                    3              cent.’’.
+                                    4                        (2) EXPANDED                      ASSISTANCE                   THROUGH    RE-
+                                    5              GIONAL EXTENSION CENTERS AND OTHER QUALI-
+                                    6              FIED ENTITIES.—Section                          1115A(d) of the Social Se-
+                                    7              curity Act (42 U.S.C. 1315a(d)) is amended by add-
+                                    8              ing at the end the following new paragraph:
+                                    9                        ‘‘(4) ASSISTANCE                 IN IMPLEMENTATION.—
+
+                                  10                                  ‘‘(A) IN        GENERAL.—Using                        funds available
+                                  11                         under subsection (f)(1) and consistent with this
+                                  12                         paragraph, the Secretary shall enter into con-
+                                  13                         tracts and agreements with regional extension
+                                  14                         centers, in coordination with the National Coor-
+                                  15                         dinator for Health Information Technology, and
+                                  16                         other appropriate entities to provide guidance
+                                  17                         and assistance on how physicians (and other
+                                  18                         providers paid in amounts determined based on
+                                  19                         the fee schedule under section 1848) may tran-
+                                  20                         sition to implementation of alternative health
+                                  21                         care delivery models identified as representing
+                                  22                         best practices under this section.
+                                  23                                  ‘‘(B) DEDICATED                    FUNDING.—
+
+                                  24                                         ‘‘(i) IN          GENERAL.—Of                    the amounts
+
+
+
+
+                                  25                                  available under subsection (f)(1)(B), the
+                                              •HR 574 IH
+
+                                                                                         17
+                                    1                                 Secretary shall make $720,000,000 avail-
+                                    2                                 able to the Office of the National Coordi-
+                                    3                                 nator for Health Information Technology
+                                    4                                 for the awarding of grants and incentive
+                                    5                                 payments under a competitive process to
+                                    6                                 regional extension centers (receiving fund-
+                                    7                                 ing under section 3012(c) of the Public
+                                    8                                 Health Service Act) and other qualified en-
+                                    9                                 tities for activities described in subpara-
+                                  10                                  graph (A). Such grants and payments shall
+                                  11                                  not be available for assistance after De-
+                                  12                                  cember 31, 2019.
+                                  13                                         ‘‘(ii) PROCESS.—Under clause (i), the
+                                  14                                  Office shall—
+                                  15                                                   ‘‘(I) establish a competitive selec-
+                                  16                                         tion process for the selection of re-
+                                  17                                         gional extension centers (and other
+                                  18                                         qualified entities) in the third quarter
+                                  19                                         of 2015; and
+                                  20                                                   ‘‘(II) provide for the initial dis-
+                                  21                                         tribution of funds to such centers and
+                                  22                                         entities by January 1, 2016.
+                                  23                                         ‘‘(iii) COLLABORATION.—The Center
+                                  24                                  shall collaborate with the Office in pro-
+
+
+
+
+                                  25                                  viding direction to such centers and enti-
+                                              •HR 574 IH
+
+                                                                                         18
+                                    1                                 ties in conducting activities under this
+                                    2                                 paragraph, including the development of
+                                    3                                 performance benchmarks based on provider
+                                    4                                 participation and progress toward integra-
+                                    5                                 tion.
+                                    6                                         ‘‘(iv) PRIORITY.—The grants and in-
+                                    7                                 centive payments under this subparagraph
+                                    8                                 shall be directed to target assistance to
+                                    9                                 solo and small specialty practices as well as
+                                  10                                  community health centers and similar pro-
+                                  11                                  viders of primary care services.’’.
+                                  12               (g) CONTINUING INCENTIVES                               FOR      PROVIDING HIGH-
+                                  13 QUALITY, HIGH-VALUE CARE.—
+                                  14                         (1)       FEE          SCHEDULE                 ADJUSTMENTS.—Sub-
+                                  15               section (d) of section 1848 of the Social Security Act
+                                  16               (42 U.S.C. 1395w–4), as amended by subsections
+                                  17               (b), (c)(3), and (f), is amended by adding at the end
+                                  18               the following:
+                                  19                         ‘‘(18) UPDATES                  FOR 2020 THROUGH 2023.—
+
+                                  20                                  ‘‘(A) IN       GENERAL.—Except                        as provided in
+                                  21                         this paragraph, the update to each of the con-
+                                  22                         version factors—
+                                  23                                          ‘‘(i) for 2020 shall be minus 2 per-
+                                  24                                  cent;
+
+
+
+
+
+                                              •HR 574 IH
+
+                                                                                         19
+                                    1                                         ‘‘(ii) for 2021 shall be minus 3 per-
+                                    2                                 cent;
+                                    3                                         ‘‘(iii) for 2022 shall be minus 4 per-
+                                    4                                 cent; and
+                                    5                                         ‘‘(iv) for 2023 shall be minus 5 per-
+                                    6                                 cent.
+                                    7                                 ‘‘(B) TREATMENT                         OF       SERVICES         PAID
+                                    8                        USING ALTERNATIVE PAYMENT AND DELIVERY
+                                    9                        MODELS.—In                the case of physicians’ services
+                                  10                         for which payment is covered under an alter-
+                                  11                         native payment and delivery model, such as
+                                  12                         those implemented under section 1115A, sub-
+                                  13                         paragraph (A) does not apply.
+                                  14                                  ‘‘(C) GENERAL                      EXEMPTION.—The                 Sec-
+                                  15                         retary shall, by regulation, exempt a provider
+                                  16                         from the application of the negative payment
+                                  17                         update specified in subparagraph (A) for a year
+                                  18                         if the Secretary determines that—
+                                  19                                          ‘‘(i) the provider—
+                                  20                                                   ‘‘(I) is a meaningful EHR user
+                                  21                                          (as       determined                 under           subsection
+                                  22                                          (o)(2) with respect to the year); and
+                                  23                                                   ‘‘(II) meets the qualifications
+                                  24                                          under subparagraph (B) of subsection
+
+
+
+
+
+                                  25                                          (m)(7) (relating to additional incen-
+
+
+                                              •HR 574 IH
+
+                                                                                         20
+                                    1                                        tive payments) for an additional in-
+                                    2                                        centive payment under subparagraph
+                                    3                                        (A) of such subsection (which includes
+                                    4                                        satisfactory participation in the qual-
+                                    5                                        ity reporting system and participation
+                                    6                                        in an approved Maintenance of Cer-
+                                    7                                        tification program);
+                                    8                                        ‘‘(ii) the payment modifier for the
+                                    9                                 provider under subsection (p), which is
+                                  10                                  based upon the performance of the pro-
+                                  11                                  vider on measures of quality of care fur-
+                                  12                                  nished compared to cost and which is ex-
+                                  13                                  pressed as a percentage of payment, is
+                                  14                                  within the top 25 percent of such payment
+                                  15                                  modifiers for providers within the same fee
+                                  16                                  schedule area, as determined by the Sec-
+                                  17                                  retary; or
+                                  18                                         ‘‘(iii) in the case of outpatient therapy
+                                  19                                  services, the provider of such services ad-
+                                  20                                  heres to a comprehensive list of cost, qual-
+                                  21                                  ity,        and        outcome           measures            as   dem-
+                                  22                                  onstrated by—
+                                  23                                                    ‘‘(I) participation in a certified
+                                  24                                         registry;
+
+
+
+
+
+                                              •HR 574 IH
+
+                                                                                         21
+                                    1                                                  ‘‘(II) if applicable, participation
+                                    2                                        in the physician quality reporting sys-
+                                    3                                        tem under subsection (k);
+                                    4                                                  ‘‘(III) use of an approved patient
+                                    5                                        assessment tool;
+                                    6                                                  ‘‘(IV) current certification as a
+                                    7                                        physical therapist clinical specialist by
+                                    8                                        the American Physical Therapy Asso-
+                                    9                                        ciation (APTA), an occupational ther-
+                                  10                                         apist by the American Occupational
+                                  11                                         Therapy Association, or as an audiol-
+                                  12                                         ogist or a speech-language pathologist
+                                  13                                         by the American Speech-Language-
+                                  14                                         Hearing Association; or
+                                  15                                                   ‘‘(V) compliance with comparable
+                                  16                                         functional measures reporting require-
+                                  17                                         ments as recognized by the Secretary.
+                                  18                                  ‘‘(D) CASE-BY-CASE                         HARDSHIP          EXEMP-
+                                  19                         TION.—The              Secretary may, on a case-by-case
+                                  20                         basis, exempt a provider from the application of
+                                  21                         the negative payment update specified in sub-
+                                  22                         paragraph (A) for a year if the Secretary deter-
+                                  23                         mines, subject to annual renewal, that because
+                                  24                         of limitations in the nature of a medical prac-
+
+
+
+
+                                  25                         tice, limitations in the number of Medicare
+                                              •HR 574 IH
+
+                                                                                         22
+                                    1                        beneficiaries that may be served by the pro-
+                                    2                        vider, or other special circumstances, imposing
+                                    3                        a financial disincentive under such subpara-
+                                    4                        graph for failure to adopt an alternative pay-
+                                    5                        ment and delivery model referred to in subpara-
+                                    6                        graph (B) would result in a significant hardship
+                                    7                        to the provider.
+                                    8                        ‘‘(19) UPDATES                  BEGINNING WITH 2024.—
+
+                                    9                                 ‘‘(A) IN       GENERAL.—The                    update to both of
+                                  10                         the conversion factors for each year beginning
+                                  11                         with 2024 shall be 0 percent.
+                                  12                                  ‘‘(B) TREATMENT                         OF       SERVICES     PAID
+                                  13                         USING ALTERNATIVE PAYMENT AND DELIVERY
+                                  14                         MODELS.—In                the case of physicians’ services
+                                  15                         for which payment is covered under an alter-
+                                  16                         native payment and delivery model, such as
+                                  17                         those implemented under section 1115A, sub-
+                                  18                         paragraph (A) does not apply.’’.
+                                  19                         (2)        CONSIDERATIONS                         IN           PROMULGATING
+                                  20               GROWTH RATES FOR ALTERNATIVE PAYMENT AND
+                                  21               DELIVERY MODELS.—
+
+                                  22                                  (A) IN           GENERAL.—In                    determining the
+                                  23                         growth rates to be recognized beginning with
+                                  24                         2020 for alternative payment and delivery mod-
+
+
+
+
+                                  25                         els under the Medicare program that cover phy-
+                                              •HR 574 IH
+
+                                                                                         23
+                                    1                        sicians’ services, such as those implemented
+                                    2                        under section 1115A of the Social Security Act,
+                                    3                        the Secretary of Health and Human Services
+                                    4                        shall consider (among other factors) the fol-
+                                    5                        lowing:
+                                    6                                        (i) Ensuring access to primary care
+                                    7                                 and specialty services, including participa-
+                                    8                                 tion of primary care practitioners and spe-
+                                    9                                 cialists and newly graduating practitioners.
+                                  10                                         (ii) Restraining spending growth.
+                                  11                                         (iii) Ensuring access to services for
+                                  12                                  vulnerable populations.
+                                  13                                  (B) LIMITATIONS.—In no case shall the
+                                  14                         growth factor determined under this paragraph
+                                  15                         for a year—
+                                  16                                         (i) be less than 1 percent; or
+                                  17                                         (ii) be greater than the percentage in-
+                                  18                                  crease in the MEI (as defined in section
+                                  19                                  1842(i)(3) of the Social Security Act, 42
+                                  20                                  U.S.C. 1395u(i)(3)) for such year.
+                                  21                                  (C) APPLICATION                    OF CONGRESSIONAL RE-
+                                  22                         VIEW ACT.—Chapter                      8 of title 5, United States
+                                  23                         Code, applies with respect to the promulgation
+                                  24                         of a growth factor under this paragraph for a
+
+
+
+
+                                  25                         year.
+                                              •HR 574 IH
+
+                                                                                         24
+                                    1              (h) IMPACT REPORT.—Not later than January 1,
+                                    2 2023, the Secretary of Health and Human Services shall
+                                    3 submit to Congress a report on the impact on spending
+                                    4 and on access to services under title XVIII of the Social
+                                    5 Security Act, including under part A of such title, result-
+                                    6 ing from changes to Medicare delivery and payment sys-
+                                    7 tems, including under the amendments made by this sec-
+                                    8 tion.
+                                              •HR 574 IH                                   Æ

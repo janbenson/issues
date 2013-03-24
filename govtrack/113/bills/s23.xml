@@ -1,0 +1,41 @@
+<bill session="113" type="s" number="23" updated="2013-03-15T15:45:39-04:00">
+  <state datetime="2013-03-14">REPORTED</state>
+  <status>
+    <unknown datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-01-22"/>
+  <titles>
+    <title as="introduced" type="short">Sleeping Bear Dunes National Lakeshore Conservation and Recreation Act</title>
+    <title as="introduced" type="official">A bill to designate as wilderness certain land and inland water within the Sleeping Bear Dunes National Lakeshore in the State of Michigan, and for other purposes.</title>
+  </titles>
+  <sponsor id="300066"/>
+  <cosponsors>
+    <cosponsor id="300093" joined="2013-01-22"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-01-22">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2013-03-14">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="163"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Great Lakes"/>
+    <term name="Michigan"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Seashores and lakeshores"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2013--Introduced.
+Sleeping Bear Dunes National Lakeshore Conservation and Recreation Act - Designates specified land and inland water within the Sleeping Bear Dunes National Lakeshore in Michigan, to be known as the Sleeping Bear Dunes Wilderness, as wilderness and as a component of the National Wilderness Preservation System.</summary>
+</bill>

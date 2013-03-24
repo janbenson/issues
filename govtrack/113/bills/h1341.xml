@@ -1,0 +1,30 @@
+<bill session="113" type="h" number="1341" updated="2013-03-22T04:46:58-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To require the Financial Stability Oversight Council to conduct a study of the likely effects of the differences between the United States and other jurisdictions in implementing the derivatives credit valuation adjustment capital requirement.</title>
+  </titles>
+  <sponsor id="412479"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Agriculture</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="1132" updated="2013-03-20T12:46:41-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="short">Efficient Service for Veterans Act</title>
+    <title as="introduced" type="official">To direct the Secretary of Veterans Affairs and the Secretary of Defense to jointly ensure that the Vet Centers of the Department of Veterans Affairs have access to the Defense Personnel Record Image Retrieval system and the Veterans Affairs/Department of Defense Identity Repository system.</title>
+  </titles>
+  <sponsor id="412403"/>
+  <cosponsors>
+    <cosponsor id="412310" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-13">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-13">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2013-03-13">
+      <text>Referred to House Armed Services</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,471 @@
+                                                                                                                                   I
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                          H. R. 593
+                                  To amend the Balanced Budget and Emergency Deficit Control Act of 1985
+                                      to modify the discretionary spending limits to take into account savings
+                                      resulting from the reduction in the number of Federal employees.
+
+
+
+
+                                                IN THE HOUSE OF REPRESENTATIVES
+                                                                FEBRUARY 8, 2013
+                                  Mr. MCKEON (for himself, Mrs. HARTZLER, Mr. BROOKS of Alabama, Mr.
+                                      HUNTER, Mr. THORNBERRY, Mrs. WALORSKI, Mr. WILSON of South
+                                      Carolina, Mr. RIGELL, Mr. JONES, Mr. CONAWAY, Mr. FRANKS of Ari-
+                                      zona, Mr. TURNER, Mr. MILLER of Florida, Mr. PALAZZO, Mrs. NOEM,
+                                      Mr. AUSTIN SCOTT of Georgia, Mr. HECK of Nevada, Mr. RUNYAN, Mr.
+                                      SALMON, Mr. BISHOP of Utah, Mr. LOBIONDO, Mr. ROGERS of Alabama,
+                                      Mr. COFFMAN, Mr. SHUSTER, and Mr. KLINE) introduced the following
+                                      bill; which was referred to the Committee on Oversight and Government
+                                      Reform, and in addition to the Committees on the Budget, House Admin-
+                                      istration, and Appropriations, for a period to be subsequently determined
+                                      by the Speaker, in each case for consideration of such provisions as fall
+                                      within the jurisdiction of the committee concerned
+
+
+
+
+                                                                            A BILL
+                                  To amend the Balanced Budget and Emergency Deficit Con-
+                                     trol Act of 1985 to modify the discretionary spending
+                                     limits to take into account savings resulting from the
+                                     reduction in the number of Federal employees.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+
+
+
+
+
+                                    1     SECTION 1. SHORT TITLE.                            2
+                                    2              This Act may be cited as the ‘‘Down Payment to Pro-
+                                    3 tect National Security Act of 2013’’.
+                                    4     SEC. 2. FINDINGS AND SENSE OF CONGRESS.
+
+                                    5              (a) FINDINGS.—Congress makes the following find-
+                                    6 ings:
+                                    7                        (1) On April 13, 2011, in a speech at George
+                                    8              Washington University, the President outlined his
+                                    9              plan to further reduce military spending by $400 bil-
+                                  10               lion through fiscal year 2023.
+                                  11                         (2) On August 2, 2011, the President signed
+                                  12               into law, S. 365, the Budget Control Act of 2011,
+                                  13               which reduced discretionary spending and estab-
+                                  14               lished a sequestration effective January 2, 2013,
+                                  15               pursuant to the Balanced Budget and Emergency
+                                  16               Deficit Control Act of 1985 (Gramm-Rudman-Hol-
+                                  17               lings Act) in the event that additional deficit reduc-
+                                  18               tion could not be found. To this end, the Budget
+                                  19               Control Act of 2011 also established a Joint Select
+                                  20               Committee on Deficit Reduction charged with identi-
+                                  21               fying $1.2 trillion in additional savings by Novem-
+                                  22               ber, 2011.
+                                  23                         (3) The Joint Select Committee on Deficit Re-
+                                  24               duction was unable to reach an agreement, which re-
+
+
+
+
+                                  25               sulted in new spending caps for national defense for
+                                  26               fiscal year 2013.
+                                              •HR 593 IH
+
+                                                                                             3
+                                    1                        (4) On March 29, 2012, the House of Rep-
+                                    2              resentatives passed H. Con. Res. 112, the budget
+                                    3              resolution for fiscal year 2013, which included rec-
+                                    4              onciliation instructions directing House Committees
+                                    5              to craft legislation that would achieve the savings re-
+                                    6              quired to replace the sequestration called for in fis-
+                                    7              cal year 2013, as established by the Budget Control
+                                    8              Act of 2011.
+                                    9                        (5) On May 10, 2012, the House of Represent-
+                                  10               atives passed H.R. 5652, the Sequestration Replace-
+                                  11               ment Reconciliation Act of 2012, which would re-
+                                  12               place the $98 billion sequestration of discretionary
+                                  13               spending called for in 2013, as established by the
+                                  14               Budget Control Act of 2011, by making changes in
+                                  15               law to reduce mandatory spending by $310 billion
+                                  16               through fiscal year 2022.
+                                  17                         (6) Acting Director of the Office of Manage-
+                                  18               ment and Budget, Jeffery Zients, testified before the
+                                  19               House Armed Services Committee on August 1,
+                                  20               2012, ‘‘Sequestration, by design, is bad policy, and
+                                  21               Congress should pass balanced deficit reduction to
+                                  22               avoid it.’’.
+                                  23                         (7) On August 7, 2012, the President signed
+                                  24               into law, H.R. 5872, the Sequestration Trans-
+
+
+
+
+                                  25               parency Act of 2012, which required the President
+                                              •HR 593 IH
+
+                                                                                             4
+                                    1              to submit to Congress a detailed report on the im-
+                                    2              plementation of the sequestration for fiscal year
+                                    3              2013 by September 6, 2012. The President failed to
+                                    4              submit the report by the due date and the report did
+                                    5              not provide a detailed assessment of potential im-
+                                    6              pacts of sequestration, stating instead that, ‘‘no
+                                    7              amount of planning can mitigate the significant im-
+                                    8              pact of the sequestration’’.
+                                    9                        (8) On September 11, 2012, Bob Woodward re-
+                                  10               leased ‘‘The Price of Politics’’, documenting the ori-
+                                  11               gins of sequestration in the Budget Control Act of
+                                  12               2011 negotiations, stating, ‘‘[Jack] Lew, [Rob]
+                                  13               Nabors, [Gene] Sperling and Bruce Reed, Biden’s
+                                  14               chief of staff, had finally decided to propose using
+                                  15               language from the 1985 Gramm-Rudman-Hollings
+                                  16               deficit reduction law as the model for the trigger.
+                                  17               . . . It would require a sequester with half the cuts
+                                  18               from Defense, and the other half from domestic pro-
+                                  19               grams. There would be no chance the Republicans
+                                  20               would want to pull the trigger and allow the seques-
+                                  21               ter to force massive cuts to Defense.’’.
+                                  22                         (9) On October 22, 2012, referring to the up-
+                                  23               coming implementation of sequestration on the U.S.
+                                  24               military, the President said, ‘‘it will not happen’’.
+
+
+
+
+
+                                              •HR 593 IH
+
+                                                                                             5
+                                    1                        (10) On January 2, 2013, the President signed
+                                    2              into law, H.R. 8, the American Taxpayer Relief Act
+                                    3              of 2012, which moved the effective date of the se-
+                                    4              questration to March 1, 2013. Fifty percent of the
+                                    5              required offset was generated through tax increases,
+                                    6              while 25 percent came from additional cuts to de-
+                                    7              fense discretionary spending and the remaining 25
+                                    8              percent from domestic discretionary spending. No
+                                    9              reduction to mandatory spending was included in
+                                  10               H.R. 8.
+                                  11                         (11) To date, Congress has enacted and the
+                                  12               President has signed into law $1.1 trillion in discre-
+                                  13               tionary spending cuts, plus an additional $600 bil-
+                                  14               lion in tax increases, with no spending reductions in
+                                  15               mandatory programs.
+                                  16                         (12) Should sequestration occur on March 1,
+                                  17               2013, an additional $800 billion in across the board
+                                  18               defense and domestic discretionary cuts will be ap-
+                                  19               plied over a 9-year period, with negligible reductions
+                                  20               in mandatory spending.
+                                  21                         (13) On January 14, 2013, all seven members
+                                  22               of the Joint Chiefs of Staff signed a letter to the
+                                  23               congressional defense committees stating, ‘‘Should
+                                  24               this looming readiness crisis be left unaddressed, we
+
+
+
+
+                                  25               will have to ground aircraft, return ships to port,
+                                              •HR 593 IH
+
+                                                                                             6
+                                    1              and stop driving combat vehicles in training. Train-
+                                    2              ing will be reduced by almost half of what we were
+                                    3              planning just three months ago. . . . We will also be
+                                    4              unable to reset and restore the force’s full-spectrum
+                                    5              combat capability after over a decade of hard fight-
+                                    6              ing in Iraq and Afghanistan. . . . Under current
+                                    7              budgetary uncertainty, we are at grave risk of an
+                                    8              imposed mismatch between the size of our Nation’s
+                                    9              military force and the funding required to maintain
+                                  10               its readiness, which will inevitably lead to a hollow
+                                  11               force.’’.
+                                  12                         (14) The Joint Chiefs of Staff further stated,
+                                  13               ‘‘We are also now planning for the potential to fur-
+                                  14               lough up to nearly 800,000 defense civilians who are
+                                  15               essential to critical functions like maintenance, intel-
+                                  16               ligence, logistics, contracting, and health care.’’.
+                                  17                         (15) On January 28, 2013, the Vice Chairman
+                                  18               of the Joint Chiefs of Staff stated ‘‘I know of no
+                                  19               other time in history when we have come potentially
+                                  20               down this far, this fast, in the defense budget. . . .
+                                  21               There could be, for the first time in my career, in-
+                                  22               stances where we may be asked to respond to a cri-
+                                  23               sis and we will have to say that we cannot.’’.
+                                  24                         (16) On February 5, 2013, the President pro-
+
+
+
+
+                                  25               posed to further delay the sequestration using the
+                                              •HR 593 IH
+
+                                                                                             7
+                                    1              same model adopted in H.R. 8, the American Tax-
+                                    2              payer Relief Act of 2012, 50 percent through tax in-
+                                    3              creases, 25 percent through additional cuts to de-
+                                    4              fense discretionary, and 25 percent through addi-
+                                    5              tional cuts to domestic discretionary programs. For
+                                    6              fiscal year 2013, the President’s proposal would re-
+                                    7              sult in an additional $21 billion cut to the military.
+                                    8              (b) SENSE             OF       CONGRESS.—It is the sense of Con-
+                                  109 gress that:            (1) Full sequestration is a failed Administration
+                                  11               policy that must be averted.
+                                  12                         (2) Without growing the economy and reducing
+                                  13               the rate of growth in mandatory spending programs,
+                                  14               the United States will continue to run deficits, even
+                                  15               if defense and domestic discretionary programs were
+                                  16               defunded in their entirety.
+                                  17                         (3) Having enacted defense and domestic dis-
+                                  18               cretionary spending reductions and raised taxes,
+                                  19               truly balanced deficit reduction must include sub-
+                                  20               stantive reductions in mandatory spending.
+                                  21                         (4) The President’s short term plan to avert se-
+                                  22               questration lacks balance and would continue to
+                                  23               raise taxes and slash defense and domestic discre-
+                                  24               tionary spending, exacerbating the readiness crisis
+
+
+
+
+
+                                              •HR 593 IH
+
+                                                                                             8
+                                    1              described by the Joint Chiefs of Staff, rather than
+                                    2              addressing the drivers of our debt.
+                                    3                        (5) Secretary Panetta was correct in his assess-
+                                    4              ment of January 10, 2013 that the civilian furloughs
+                                    5              resulting from full sequestration would also, ‘‘. . .
+                                    6              further harm our readiness and create hardship on
+                                    7              them and their families. In a word—in a word, we
+                                    8              would be forced to . . . hollow out the defense force
+                                    9              of this nation.’’.
+                                  10                         (6) Any plan to avert sequestration and provide
+                                  11               additional time for political negotiations on a truly
+                                  12               balanced deficit reduction package must use addi-
+                                  13               tional savings that do not increase the risk to mili-
+                                  14               tary personnel or degrade the readiness or capabili-
+                                  15               ties of our Armed Forces. This goal can be achieved
+                                  16               by providing tools to reshape the Federal civilian
+                                  17               workforce without furloughs.
+                                  18      SEC. 3. REDUCTION IN THE NUMBER OF FEDERAL EMPLOY-
+                                  19                              EES.
+                                  20               (a) DEFINITION.—In this section, the term ‘‘agency’’
+                                  21 means an executive agency as defined under section 105
+                                  22 of title 5, United States Code.
+                                  23               (b) DETERMINATION                         OF   NUMBER           OF       EMPLOYEES.—
+                                  24 Not later than 60 days after the date of enactment of this
+
+
+
+
+                                  25 Act, the Director of the Office of Management and Budget
+                                              •HR 593 IH
+
+                                                                                             9
+                                    1 shall determine the number of full-time employees em-
+                                    2 ployed in each agency. The head of each agency shall co-
+                                    3 operate with the Director of the Office of Management
+                                    4 and Budget in making the determinations.
+                                    5              (c) REPLACEMENT HIRE RATE.—
+                                    6                        (1) IN       GENERAL.—During                       the period described
+                                    7              under paragraph (2), the head of each agency may
+                                    8              hire no more than 1 employee in that agency for
+                                    9              every 3 employees who leave employment in that
+                                  10               agency.
+                                  11                         (2) PERIOD              OF REPLACEMENT HIRE RATE.—
+                                  12               Paragraph (1) shall apply to each agency during the
+                                  13               period beginning 60 days after the date of enact-
+                                  14               ment of this Act through the date on which the Di-
+                                  15               rector of the Office of Management and Budget
+                                  16               makes a determination that the number of full-time
+                                  17               employees employed in that agency is 10 percent less
+                                  18               than the number of full-time employees employed in
+                                  19               that agency determined under subsection (a).
+                                  20               (d) WAIVERS.—This section may be waived upon a
+                                  21 determination by the President that—
+                                  22                         (1) the existence of a state of war or other na-
+                                  23               tional security concern so requires; or
+
+
+
+
+
+                                              •HR 593 IH
+
+                                                                                         10
+                                    1                        (2) the existence of an extraordinary emergency
+                                    2              threatening life, health, public safety, property, or
+                                    3              the environment so requires.
+                                    4     SEC. 4. REDUCTION OF DISCRETIONARY SPENDING LIMITS
+                                    5                             TO ACHIEVE SAVINGS FROM FEDERAL EM-
+                                    6                             PLOYEE PROVISIONS.
+                                    7              Paragraphs (2) through (10) of section 251(c) of the
+                                    8 Balanced Budget and Emergency Deficit Control Act of
+                                    9 1985 are amended to read as follows:
+                                  10                         ‘‘(2) with respect to fiscal year 2013, for the
+                                  11               discretionary category, $1,043,000,000,000 in new
+                                  12               budget authority;
+                                  13                         ‘‘(3) with respect to fiscal year 2014—
+                                  14                                  ‘‘(A)          for          the          security            category,
+                                  15                         $549,000,000,000 in budget authority; and
+                                  16                                  ‘‘(B)        for         the        nonsecurity              category,
+                                  17                         $500,000,000,000 in budget authority;
+                                  18                         ‘‘(4) with respect to fiscal year 2015—
+                                  19                                  ‘‘(A)          for          the          security            category,
+                                  20                         $562,000,000,000 in budget authority; and
+                                  21                                  ‘‘(B)        for         the        nonsecurity              category,
+                                  22                         $514,000,000,000 in budget authority;
+                                  23                         ‘‘(5) with respect to fiscal year 2016—
+                                  24                                  ‘‘(A)          for          the          security            category,
+
+
+
+
+
+                                  25                         $573,000,000,000 in budget authority; and
+
+
+                                              •HR 593 IH
+
+                                                                                         11
+                                    1                                 ‘‘(B)        for         the        nonsecurity              category,
+                                    2                        $523,000,000,000 in budget authority;
+                                    3                        ‘‘(6) with respect to fiscal year 2017—
+                                    4                                 ‘‘(A)          for          the          security            category,
+                                    5                        $586,000,000,000 in budget authority; and
+                                    6                                 ‘‘(B)        for         the        nonsecurity              category,
+                                    7                        $534,000,000,000 in budget authority;
+                                    8                        ‘‘(7) with respect to fiscal year 2018—
+                                    9                                 ‘‘(A)          for          the          security            category,
+                                  10                         $599,000,000,000 in budget authority; and
+                                  11                                  ‘‘(B)        for         the        nonsecurity              category,
+                                  12                         $546,000,000,000 in budget authority;
+                                  13                         ‘‘(8) with respect to fiscal year 2019—
+                                  14                                  ‘‘(A)          for          the          security            category,
+                                  15                         $612,000,000,000 in budget authority; and
+                                  16                                  ‘‘(B)        for         the        nonsecurity              category,
+                                  17                         $559,000,000,000 in budget authority;
+                                  18                         ‘‘(9) with respect to fiscal year 2020—
+                                  19                                  ‘‘(A)          for          the          security            category,
+                                  20                         $626,000,000,000 in budget authority; and
+                                  21                                  ‘‘(B)        for         the        nonsecurity              category,
+                                  22                         $571,000,000,000 in budget authority; and
+                                  23                         ‘‘(10) with respect to fiscal year 2021—
+                                  24                                  ‘‘(A)          for          the          security            category,
+
+
+
+
+
+                                  25                         $640,000,000,000 in budget authority; and
+
+
+                                              •HR 593 IH
+
+                                                                                         12
+                                    1                                 ‘‘(B)        for         the        nonsecurity              category,
+                                    2                        $583,000,000,000 in budget authority;’’.
+                                    3     SEC. 5. CALCULATION OF TOTAL DEFICIT REDUCTION.
+                                    4              Section 251A of the Balanced Budget and Emer-
+                                    5 gency Deficit Control Act of 1985 is amended—
+                                    6                        (1)(A)         in       paragraph               (3)(A),          by    striking
+                                    7              ‘‘$1,200,000,000,000’’                                     and                  inserting
+                                    8              ‘‘$1,091,000,000,000’’ and in paragraph (3)(D), by
+                                    9              striking ‘‘9’’ and inserting ‘‘8’’; and
+                                  10                         (B) in paragraph (3)(C), by inserting ‘‘and’’
+                                  11               after the semicolon, in paragraph (3)(D) by striking
+                                  12               ‘‘; and’’ and inserting a period, and by striking para-
+                                  13               graph (3)(E);
+                                  14                         (2) in paragraph (4), by striking ‘‘On March 1,
+                                  15               2013, for fiscal year 2013, and in’’ and inserting
+                                  16               ‘‘In’’;
+                                  17                         (3) in paragraphs (5) and (6), by striking
+                                  18               ‘‘2013’’ each place it appears and inserting ‘‘2014’’;
+                                  19               and
+                                  20                         (4) in paragraph (7), by striking subparagraph
+                                  21               (A) and by striking ‘‘(B) FISCAL                               YEARS 2014–2021.—
+
+                                  22               ’’, moving the remaining text 2 ems to the left, and
+                                  23               redesignating clauses (i) and (ii) as subparagraphs
+                                  24               (A) and (B), respectively.
+
+
+
+
+
+                                              •HR 593 IH
+
+                                                                                         13
+                                    1     SEC. 6. TRANSFER AUTHORITY FOR FUNDING OF DEPART-
+                                    2                             MENT OF DEFENSE UNDER CONTINUING RES-
+                                    3                             OLUTION              AND          SEQUESTER                 CONSISTENT
+                                    4                             WITH AMOUNTS AUTHORIZED BY NATIONAL
+                                    5                             DEFENSE AUTHORIZATION ACT FOR FISCAL
+                                    6                             YEAR 2013.
+                                    7              (a) IN GENERAL.—In accordance with subsection (b),
+                                    8 the Secretary of Defense may transfer amounts appro-
+                                    9 priated for the Department of Defense by the Continuing
+                                  10 Appropriations Resolution (Public Law 112–175) among
+                                  11 accounts of the Department of Defense.
+                                  12               (b) TRANSFERS CONSISTENT WITH AMOUNTS AP-
+                                  13      PROPRIATED OR                  AUTHORIZED.—In the event of any trans-
+                                  14 fers under subsection (a), the total amount in any account
+                                  15 of the Department of Defense that is available for obliga-
+                                  16 tion and expenditure in fiscal year 2013 shall be consistent
+                                  17 with, and may not exceed—
+                                  18                         (1) if a regular appropriation Act making ap-
+                                  19               propriations for the Department of Defense for fis-
+                                  20               cal year 2013 is enacted before the date of the
+                                  21               transfer, the level provided for that account for that
+                                  22               fiscal year by applicable provisions of such Act; or
+                                  23                         (2) if no such Act is enacted before the date of
+                                  24               the transfer, the amount authorized to be appro-
+
+
+
+
+                                  25               priated for that account for that fiscal year by appli-
+                                  26               cable provisions of division A of the National De-
+                                              •HR 593 IH
+
+                                                                                         14
+                                    1              fense Authorization Act for Fiscal Year 2013 (Pub-
+                                    2              lic Law 112–239).
+                                    3              (c) NOTICE             TO      CONGRESS.—Not later than 15 days
+                                    4 before any transfer under subsection (a), the Secretary of
+                                    5 Defense shall submit to the congressional defense commit-
+                                    6 tees a report setting forth a description of the transfer,
+                                    7 including the amount of the transfer and the accounts
+                                    8 from and to which the funds were transferred.
+                                    9              (d) TRANSFER SUBJECT                                  TO     NOTIFICATION RE-
+                                  10      QUIREMENTS.—In                      addition to the notice required under
+                                  11 subsection (c), a transfer under subsection (a) shall be
+                                  12 subject to the applicable notification requirements for re-
+                                  13 programming in division A of Public Law 112–74.
+                                  14               (e) TRANSFER AUTHORITY.—The transfer authority
+                                  15 provided by subsection (a) is in addition to any other
+                                  16 transfer authority provided by law.
+                                  17               (f) DEFINITION.—In this section, the term ‘‘congres-
+                                  18 sional defense committees’’ has the meaning given that
+                                  19 term in section 101(a)(16) of title 10, United States Code.
+                                  20      SEC. 7. NO COST-OF-LIVING ADJUSTMENTS FOR MEMBERS
+                                  21                              OF CONGRESS.
+                                  22               Notwithstanding any other provision of law, no ad-
+                                  23 justment shall be made under section 601(a) of the Legis-
+                                  24 lative Reorganization Act of 1946 (2 U.S.C. 31) (relating
+
+
+
+
+                                  25 to cost-of-living adjustments for Members of Congress) for
+                                              •HR 593 IH
+
+                                                                                         15
+                                    1 any fiscal year for which the Congressional Budget Office
+                                    2 determines there is a Federal budget deficit.
+                                              •HR 593 IH                                   Æ

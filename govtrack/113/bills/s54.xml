@@ -1,0 +1,69 @@
+<bill session="113" type="s" number="54" updated="2013-03-16T06:15:43-04:00">
+  <state datetime="2013-03-07">REPORTED</state>
+  <status>
+    <unknown datetime="2013-03-07"/>
+  </status>
+  <introduced datetime="2013-01-22"/>
+  <titles>
+    <title as="introduced" type="short">Stop Illegal Trafficking in Firearms Act of 2013</title>
+    <title as="reported to senate" type="short">Stop Illegal Trafficking in Firearms Act of 2013</title>
+    <title as="introduced" type="official">A bill to increase public safety by punishing and deterring firearms trafficking.</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2013-02-07"/>
+    <cosponsor id="300025" joined="2013-03-11"/>
+    <cosponsor id="300038" joined="2013-01-22"/>
+    <cosponsor id="412223" joined="2013-03-12"/>
+    <cosponsor id="412545" joined="2013-03-13"/>
+    <cosponsor id="400222" joined="2013-03-12"/>
+    <cosponsor id="412323" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-22">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S180"/>
+    </action>
+    <action state="REFERRED" datetime="2013-01-22">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-02-12">
+      <text>Committee on the Judiciary Subcommittee on the Constitution, Civil Rights and Human Rights. Hearings held.</text>
+      <committee name="Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2013-03-07">
+      <text>Committee on the Judiciary. Ordered to be reported with an amendment favorably.</text>
+      <committee name="Committee on the Judiciary"/>
+    </calendar>
+    <action datetime="2013-03-11">
+      <text>Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="2013-03-11" calendar="Senate Legislative" under="General Orders" number="23">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 23.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSJU21" subcommittee="Constitution, Civil Rights and Human Rights" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="443"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Citizenship and naturalization"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Currency"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Firearms and explosives"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Organized crime"/>
+    <term name="Smuggling and trafficking"/>
+    <term name="U.S. Sentencing Commission"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2013--Introduced.
+Stop Illegal Trafficking in Firearms Act of 2013 - Amends the federal criminal code to prohibit any person (other than a licensed importer, manufacturer, or dealer) from knowingly purchasing a firearm for, on behalf of, or with intent to transfer it to, any other person, or attempting or conspiring to do so, if that firearm has moved in or otherwise affected interstate or foreign commerce. Includes the receipt of a firearm from pawn or on consignment as a "purchase." Sets forth exceptions for certain bona fide gifts and for certain bona fide winners of an organized raffle, contest, or auction. Prescribes fines and subjects property derived from or used to commit such offense to forfeiture. Applies an enhanced penalty for any such violation committed knowing or with reasonable cause to believe that a firearm involved will be used to commit a crime of violence. Directs the U.S. Sentencing Commission to review and amend its guidelines and policy statements to ensure that persons convicted of offenses applicable to straw purchases of firearms are subject to increased penalties. Includes such a firearms trafficking offense within the definition of: (1) "racketeering activity," and (2) "specified unlawful activity" for purposes of money laundering violations. Requires information concerning the identity, age, place of residence, and citizenship or immigration status of a person to be considered material to the lawfulness of the sale or other disposition of a firearm or ammunition. Prohibits the sale of a firearm or ammunition knowing or having reasonable cause to believe that the purchaser: (1) is prohibited by state or local law from possessing, receiving, selling, shipping, transporting, transferring, or otherwise disposing of the firearm or ammunition; (2) intends to sell or otherwise dispose of the firearm or ammunition to a person in the category of individuals excluded from firearm possession; or (3) intends to sell or otherwise dispose of the firearm or ammunition in furtherance of a crime of violence or drug trafficking offense, or to export it in violation of law. Sets forth penalties for: (1) receiving or transferring a firearm or ammunition, knowing or having reasonable cause to believe that it will be used to commit a crime of violence, a drug trafficking crime, or other specified crimes; and (2) smuggling or knowingly bringing into or taking out of the United States a firearm or ammunition with intent to engage in or promote conduct that is (or that would be, if committed in the United States) punishable under the Controlled Substances Act, the Controlled Substances Import and Export Act, or maritime drug law enforcement provisions or that constitutes (or would constitute) a crime of violence.</summary>
+</bill>

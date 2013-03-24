@@ -1,0 +1,326 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee183ebc779">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>Commemorating the 10-year anniversary of the loss of the Space Shuttle Columbia.;
+   		S. Res. 24 (ATS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-03-19</dateIngested>
+</extension>
+<titleInfo>
+ <title>Commemorating the 10-year anniversary of the loss of the Space Shuttle Columbia.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. Res. 24 (ATS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-01-31</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>4 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/2:</classification>
+<identifier type="local">P0b002ee183ebc779</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113sres24ats</identifier>
+<identifier type="preferred citation">S. Res. 24</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325577</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate resolutions</identifier>
+<identifier type="former package identifier">f:sr24_ats.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113sres24ats/html/BILLS-113sres24ats.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113sres24ats/pdf/BILLS-113sres24ats.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113sres24ats/xml/BILLS-113sres24ats.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-03-19</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2013-03-19</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113sres24ats</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mr. Cornyn</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Nelson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Thune</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Rockefeller</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Isakson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Warner</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Heller</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Durbin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Coburn</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ms. Mikulski</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mrs. Boxer</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Enzi</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Brown</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Pryor</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Alexander</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mrs. Feinstein</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Vitter</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Moran</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Hatch</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Wicker</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mrs. Gillibrand</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<extension>
+ <docClass>sres</docClass>
+ <accessId>BILLS-113sres24ats</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>24</billNumber>
+ <billVersion reprint="false">ats</billVersion>
+ <fileSuffix>ats</fileSuffix>
+ <action date="2013-01-31">Mr. Cornyn (for himself, Mr. Nelson, Mr. Thune, Mr. Rockefeller, Mr. Isakson, Mr. Warner, Mr. Heller, Mr. Durbin, Mr. Coburn, Ms. Mikulski, Mr. Rubio, Mrs. Boxer, Mr. Enzi, Mr. Brown, Mr. Pryor, Mr. Alexander, Mrs. Feinstein, Mr. Johanns, Mr. Begich, Mr. Vitter, Mrs. Shaheen, Mr. Moran, Mr. Hatch, Mr. Wicker, and Mrs. Gillibrand) submitted the following resolution; which was considered and agreed to</action>
+ <congMember chamber="S" congress="113" role="SPONSOR">
+                      <name type="parsed">Mr. Cornyn</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Nelson</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Thune</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Rockefeller</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Isakson</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Warner</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Heller</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Durbin</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Coburn</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Ms. Mikulski</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mrs. Boxer</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Enzi</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Brown</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Pryor</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Alexander</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mrs. Feinstein</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Vitter</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Moran</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Hatch</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Wicker</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mrs. Gillibrand</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

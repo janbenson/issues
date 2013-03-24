@@ -1,0 +1,36 @@
+<bill session="113" type="hc" number="27" updated="2013-03-20T04:47:36-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title as="introduced" type="official">Supporting the formation of a bipartisan Presidential Commission to study the establishment of a National Museum of the American People.</title>
+  </titles>
+  <sponsor id="400283"/>
+  <cosponsors>
+    <cosponsor id="400031" joined="2013-03-19"/>
+    <cosponsor id="412470" joined="2013-03-19"/>
+    <cosponsor id="400077" joined="2013-03-19"/>
+    <cosponsor id="412272" joined="2013-03-19"/>
+    <cosponsor id="400116" joined="2013-03-19"/>
+    <cosponsor id="400147" joined="2013-03-19"/>
+    <cosponsor id="400251" joined="2013-03-19"/>
+    <cosponsor id="400295" joined="2013-03-19"/>
+    <cosponsor id="400333" joined="2013-03-19"/>
+    <cosponsor id="400364" joined="2013-03-19"/>
+    <cosponsor id="412214" joined="2013-03-19"/>
+    <cosponsor id="400435" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-19">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

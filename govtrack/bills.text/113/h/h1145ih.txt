@@ -1,0 +1,706 @@
+                                                                                                                                     I
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                        H. R. 1145
+                                   To help ensure the fiscal solvency of the FHA mortgage insurance programs
+                                   of the Secretary of Housing and Urban Development, and for other purposes.
+
+
+
+
+                                                 IN THE HOUSE OF REPRESENTATIVES
+                                                                MARCH 13, 2013
+                                      Ms. WATERS (for herself and Mr. CAPUANO) introduced the following bill;
+                                            which was referred to the Committee on Financial Services
+
+
+
+
+                                                                            A BILL
+                                  To help ensure the fiscal solvency of the FHA mortgage
+                                     insurance programs of the Secretary of Housing and
+                                     Urban Development, and for other purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE AND TABLE OF CONTENTS.
+
+                                    4              (a) SHORT TITLE.—This Act may be cited as the
+                                    5 ‘‘FHA Emergency Fiscal Solvency Act of 2013’’.
+                                    6              (b) TABLE            OF    CONTENTS.—The table of contents for
+                                    7 this Act is as follows:
+                                          Sec.   1.   Short title and table of contents.
+
+
+
+
+
+                                          Sec.   2.   FHA annual mortgage insurance premiums.
+                                          Sec.   3.   Indemnification by FHA mortgagees.
+                                          Sec.   4.   Early period delinquencies.
+
+
+
+
+                                                                                             2
+                                          Sec. 5. Semiannual actuarial studies of MMIF during periods of capital deple-
+                                                           tion.
+                                          Sec. 6. Delegation of FHA insuring authority.
+                                          Sec. 7. Authority to terminate FHA mortgagee origination and underwriting
+                                                           approval.
+                                          Sec. 8. Authorization to participate in the origination of FHA-insured loans.
+                                          Sec. 9. Reporting of mortgagee actions taken against other mortgagees.
+                                          Sec. 10. Default and origination information by loan servicer and originating
+                                                           direct endorsement lender.
+                                          Sec. 11. Deputy Assistant Secretary of FHA for Risk Management and Regu-
+                                                           latory Affairs.
+                                          Sec. 12. Establishment of Chief Risk Officer for GNMA.
+                                          Sec. 13. Report on mortgage servicers.
+                                          Sec. 14. FHA emergency capital plan.
+                                          Sec. 15. FHA safety and soundness review.
+                                          Sec. 16. FHA disclosure standards.
+                                          Sec. 17. Report on streamlining FHA programs.
+                                          Sec. 18. Budget compliance.
+                                    1     SEC. 2. FHA ANNUAL MORTGAGE INSURANCE PREMIUMS.
+                                    2              (a) IN GENERAL.—Subparagraph (B) of section
+                                    3 203(c)(2) of the National Housing Act (12 U.S.C.
+                                    4 1709(c)(2)(B)) is amended—
+                                    5                        (1) in the matter preceding clause (i)—
+                                    6                                 (A) by striking ‘‘may’’ and inserting
+                                    7                        ‘‘shall’’;
+                                    8                                 (B) by striking ‘‘not exceeding 1.5 per-
+                                    9                        cent’’ and inserting ‘‘not less than 0.55 per-
+                                  10                         cent’’; and
+                                  11                                  (C) by inserting ‘‘and not exceeding 2.0
+                                  12                         percent of such remaining insured principal bal-
+                                  13                         ance’’ before ‘‘for the following periods:’’; and
+                                  14                         (2) in clause (ii), by striking ‘‘1.55 percent’’
+                                  15               and inserting ‘‘2.05 percent’’.
+
+
+
+
+
+                                  16               (b) EFFECTIVE DATE.—The amendments made by
+                                  17 subsection (a) take effect upon the expiration of the 6-
+
+                                              •HR 1145 IH
+
+                                                                                             3
+                                    1 month period beginning on the date of the enactment of
+                                    2 this Act.
+                                    3     SEC. 3. INDEMNIFICATION BY FHA MORTGAGEES.
+                                    4              Section 202 of the National Housing Act (12 U.S.C.
+                                    5 1708) is amended by adding at the end the following new
+                                    6 subsection:
+                                    7              ‘‘(i) INDEMNIFICATION BY MORTGAGEES.—
+                                    8                        ‘‘(1) IN      GENERAL.—If                   the Secretary determines
+                                    9              that the mortgagee knew, or should have known, of
+                                  10               a serious or material violation of the requirements
+                                  11               established by the Secretary with respect to a mort-
+                                  12               gage executed by a mortgagee approved by the Sec-
+                                  13               retary under the direct endorsement program or in-
+                                  14               sured by a mortgagee pursuant to the delegation of
+                                  15               authority under section 256 such that the mortgage
+                                  16               loan should not have been approved and endorsed
+                                  17               for insurance, and the Secretary pays an insurance
+                                  18               claim with respect to the mortgage within a reason-
+                                  19               able period specified by the Secretary, the Secretary
+                                  20               may require the mortgagee approved by the Sec-
+                                  21               retary under the direct endorsement program or the
+                                  22               mortgagee delegated authority under section 256 to
+                                  23               indemnify the Secretary for the loss, irrespective of
+                                  24               whether the violation caused the mortgage default.
+
+
+
+
+
+                                              •HR 1145 IH
+
+                                    1                        ‘‘(2)       FRAUD           4   OR      MISREPRESENTATION.—If
+                                    2              fraud or misrepresentation was involved in connec-
+                                    3              tion with the origination or underwriting and the
+                                    4              Secretary determines that the mortgagee knew or
+                                    5              should have known of the fraud or misrepresenta-
+                                    6              tion, the Secretary shall require the mortgagee ap-
+                                    7              proved by the Secretary under the direct endorse-
+                                    8              ment program or the mortgagee delegated authority
+                                    9              under section 256 to indemnify the Secretary for the
+                                  10               loss regardless of when an insurance claim is paid.
+                                  11                         ‘‘(3) APPEALS               PROCESS.—The                   Secretary shall,
+                                  12               by regulation, establish an appeals process for mort-
+                                  13               gagees to appeal indemnification determinations
+                                  14               made pursuant to paragraph (1) or (2).
+                                  15                         ‘‘(4) REQUIREMENTS                          AND PROCEDURES.—The
+                                  16               Secretary shall issue regulations establishing appro-
+                                  17               priate requirements and procedures governing the
+                                  18               indemnification of the Secretary by the mortgagee,
+                                  19               including public reporting on—
+                                  20                                  ‘‘(A) the number of loans that—
+                                  21                                         ‘‘(i) were not originated or under-
+                                  22                                  written in accordance with the require-
+                                  23                                  ments established by the Secretary; and
+
+
+
+
+
+                                              •HR 1145 IH
+
+                                                                                             5
+                                    1                                        ‘‘(ii) involved fraud or misrepresenta-
+                                    2                                 tion in connection with the origination or
+                                    3                                 underwriting; and
+                                    4                                 ‘‘(B) the financial impact on the Mutual
+                                    5                        Mortgage Insurance Fund when indemnification
+                                    6                        is required.’’.
+                                    7     SEC. 4. EARLY PERIOD DELINQUENCIES.
+                                    8              Subsection (a) of section 202 of the National Hous-
+                                    9 ing Act (12 U.S.C. 1708(a)) is amended by adding at the
+                                  10 end the following new paragraphs:
+                                  11                         ‘‘(8) PROGRAMMATIC                          REVIEW OF EARLY PE-
+                                  12               RIOD DELINQUENCIES.—The                                  Secretary shall estab-
+                                  13               lish and maintain a program—
+                                  14                                  ‘‘(A) to review the cause of each early pe-
+                                  15                         riod delinquency on a mortgage that is an obli-
+                                  16                         gation of the Mutual Mortgage Insurance Fund;
+                                  17                                  ‘‘(B) to require indemnification of the Sec-
+                                  18                         retary for a loss associated with any such early
+                                  19                         period delinquency that is the result of a mate-
+                                  20                         rial violation, as determined by the Secretary,
+                                  21                         of any provision, regulation, or other guideline
+                                  22                         established or promulgated pursuant to this
+                                  23                         title; and
+                                  24                                  ‘‘(C) to publicly report—
+
+
+
+
+
+                                              •HR 1145 IH
+
+                                                                                             6
+                                    1                                        ‘‘(i) a summary of the results of all
+                                    2                                 early period delinquencies reviewed under
+                                    3                                 subparagraph (A);
+                                    4                                        ‘‘(ii) any indemnifications required
+                                    5                                 under subparagraph (B); and
+                                    6                                        ‘‘(iii) the financial impact on the Mu-
+                                    7                                 tual Mortgage Insurance Fund of any such
+                                    8                                 indemnifications.
+                                    9                        ‘‘(9) DEFINITION                    OF EARLY PERIOD DELIN-
+                                  10               QUENCY.—For                    purposes of this section, the term
+                                  11               ‘early period delinquency’ means, with respect to a
+                                  12               mortgage, that the mortgage becomes 90 or more
+                                  13               days delinquent within 24 months of the origination
+                                  14               of such mortgage.’’.
+                                  15      SEC. 5. SEMIANNUAL ACTUARIAL STUDIES OF MMIF DUR-
+                                  16                              ING PERIODS OF CAPITAL DEPLETION.
+                                  17               (a) IN GENERAL.—Paragraph (4) of section 202(a)
+                                  18 of the National Housing Act (12 U.S.C. 1708(a)(4)) is
+                                  19 amended—
+                                  20                         (1) in the first sentence, by inserting ‘‘except as
+                                  21               provided in subparagraph (B),’’ after ‘‘to be con-
+                                  22               ducted annually,’’;
+                                  23                         (2) in the second sentence, by inserting ‘‘, ex-
+                                  24               cept as provided in subparagraph (B),’’ after ‘‘annu-
+
+
+
+
+                                  25               ally’’;
+                                              •HR 1145 IH
+
+                                                                                             7
+                                    1                        (3) by striking the paragraph designation and
+                                    2              heading and all that follows through ‘‘The Secretary
+                                    3              shall provide’’ and inserting the following:
+                                    4                        ‘‘(4) INDEPENDENT                    ACTUARIAL STUDY.—
+
+                                    5                                 ‘‘(A)       ANNUAL                 STUDY.—The                  Secretary
+                                    6                        shall provide’’; and
+                                    7                        (4) by adding at the end the following new sub-
+                                    8              paragraph:
+                                    9                                 ‘‘(B) SEMIANNUAL                    STUDIES DURING PERI-
+                                  10                         ODS OF CAPITAL DEPLETION.—During                                         any pe-
+                                  11                         riod that the Fund fails to maintain sufficient
+                                  12                         capital to comply with the capital ratio require-
+                                  13                         ment under section 205(f)(2)—
+                                  14                                          ‘‘(i) the independent study required by
+                                  15                                  subparagraph (A) shall be conducted semi-
+                                  16                                  annually and shall analyze the financial po-
+                                  17                                  sition of the Fund as of September 30 and
+                                  18                                  March 31 of each fiscal year during such
+                                  19                                  period; and
+                                  20                                          ‘‘(ii) the Secretary shall submit a re-
+                                  21                                  port meeting the requirements of subpara-
+                                  22                                  graph (A) for each such semiannual
+                                  23                                  study.’’.
+                                  24               (b) ANALYSIS                   OF    QUARTERLY ACTUARIAL STUD-
+                                  25      IES.—The             Secretary of Housing and Urban Development
+
+
+                                              •HR 1145 IH
+
+                                                                                             8
+                                    1 shall conduct an analysis of the cost and feasibility of pro-
+                                    2 viding for an independent actuarial study of the Mutual
+                                    3 Mortgage Insurance Fund on a calendar quarterly basis,
+                                    4 which shall compare the cost and feasibility of conducting
+                                    5 such a study on a quarterly basis as compared to a semi-
+                                    6 annual basis and shall determine whether such an actu-
+                                    7 arial study can be conducted on a quarterly basis without
+                                    8 substantial additional costs to the taxpayers. Not later
+                                    9 than the expiration of the 90-day period beginning on the
+                                  10 date of the enactment of this Act, the Secretary shall sub-
+                                  11 mit a report to the Congress setting forth the findings and
+                                  12 conclusion of the analysis conducted pursuant to this sub-
+                                  13 section.
+                                  14      SEC. 6. DELEGATION OF FHA INSURING AUTHORITY.
+                                  15               Section 256 of the National Housing Act (12 U.S.C.
+                                  16 1715z–21) is amended—
+                                  17                         (1) by striking subsection (c);
+                                  18                         (2) in subsection (e), by striking ‘‘, including’’
+                                  19               and all that follows through ‘‘by the mortgagee’’;
+                                  20               and
+                                  21                         (3) by redesignating subsections (d) and (e) as
+                                  22               subsections (c) and (d), respectively.
+
+
+
+
+
+                                              •HR 1145 IH
+
+                                    1     SEC. 7. AUTHORITY TO TERMINATE FHA MORTGAGEE       9
+                                    2                             ORIGINATION                     AND         UNDERWRITING                AP-
+                                    3                             PROVAL.
+                                    4              Section 533 of the National Housing Act (12 U.S.C.
+                                    5 1735f–11) is amended—
+                                    6                        (1) in the first sentence of subsection (b), by in-
+                                    7              serting ‘‘or areas or on a nationwide basis’’ after
+                                    8              ‘‘area’’ each place such term appears; and
+                                    9                        (2) in subsection (c), by striking ‘‘(c)’’ and all
+                                  10               that follows through ‘‘The Secretary’’ in the first
+                                  11               sentence of paragraph (2) and inserting the fol-
+                                  12               lowing:
+                                  13               ‘‘(c) TERMINATION                         OF   MORTGAGEE ORIGINATION
+                                  14      AND      UNDERWRITING APPROVAL.—
+                                  15                         ‘‘(1) TERMINATION                      AUTHORITY.—If                    the Sec-
+                                  16               retary determines, under the comparison provided in
+                                  17               subsection (b), that a mortgagee has a rate of early
+                                  18               defaults and claims that is excessive, the Secretary
+                                  19               may terminate the approval of the mortgagee to
+                                  20               originate or underwrite single family mortgages for
+                                  21               any area, or areas, or on a nationwide basis, not-
+                                  22               withstanding section 202(c) of this Act.
+                                  23                         ‘‘(2) PROCEDURE.—The Secretary’’.
+
+
+
+
+
+                                              •HR 1145 IH
+
+                                                                                         10
+                                    1     SEC. 8. AUTHORIZATION TO PARTICIPATE IN THE ORIGINA-
+                                    2                             TION OF FHA-INSURED LOANS.
+                                    3              (a) SINGLE FAMILY MORTGAGES.—Section 203(b) of
+                                    4 the National Housing Act (12 U.S.C. 1709(b)) is amended
+                                    5 by striking paragraph (1) and inserting the following new
+                                    6 paragraph:
+                                    7                        ‘‘(1) Have been made to a mortgagee approved
+                                    8              by the Secretary or to a person or entity authorized
+                                    9              by the Secretary under section 202(d)(1) to partici-
+                                  10               pate in the origination of the mortgage, and be held
+                                  11               by a mortgagee approved by the Secretary as re-
+                                  12               sponsible and able to service the mortgage prop-
+                                  13               erly.’’.
+                                  14               (b) HOME EQUITY CONVERSION MORTGAGES.—Sec-
+                                  15 tion 255(d) of the National Housing Act (12 U.S.C.
+                                  16 1715z–20(d)) is amended by striking paragraph (1) and
+                                  17 inserting the following new paragraph:
+                                  18                         ‘‘(1) have been originated by a mortgagee ap-
+                                  19               proved by, or by a person or entity authorized under
+                                  20               section 202(d)(1) to participate in the origination
+                                  21               by, the Secretary;’’.
+                                  22      SEC. 9. REPORTING OF MORTGAGEE ACTIONS TAKEN
+                                  23                              AGAINST OTHER MORTGAGEES.
+                                  24               Section 202 of the National Housing Act (12 U.S.C.
+
+
+
+
+                                  25 1708), as amended by the preceding provisions of this Act,
+                                              •HR 1145 IH
+
+                                                                                         11
+                                    1 is further amended by adding at the end the following new
+                                    2 subsection:
+                                    3              ‘‘(j) NOTIFICATION                   OF     MORTGAGEE ACTIONS.—The
+                                    4 Secretary shall require each mortgagee, as a condition for
+                                    5 approval by the Secretary to originate or underwrite mort-
+                                    6 gages on single family or multifamily housing that are in-
+                                    7 sured by the Secretary, if such mortgagee engages in the
+                                    8 purchase of mortgages insured by the Secretary and origi-
+                                    9 nated by other mortgagees or in the purchase of the serv-
+                                  10 icing rights to such mortgages, and such mortgagee at any
+                                  11 time takes action to terminate or discontinue such pur-
+                                  12 chases from another mortgagee based on any determina-
+                                  13 tion or evidence of fraud or material misrepresentation in
+                                  14 connection with the origination of such mortgages, to no-
+                                  15 tify the Secretary of the action taken and the reasons for
+                                  16 such action not later than 15 days after taking such ac-
+                                  17 tion.’’.
+                                  18      SEC. 10. DEFAULT AND ORIGINATION INFORMATION BY
+                                  19                              LOAN SERVICER AND ORIGINATING DIRECT
+                                  20                              ENDORSEMENT LENDER.
+
+                                  21               (a) COLLECTION                   OF       INFORMATION.—Paragraph (2)
+                                  22 of section 540(b) of the National Housing Act (12 U.S.C.
+                                  23 1712 U.S.C. 1735f–18(b)(2)) is amended by adding at the
+                                  24 end the following new subparagraph:
+
+
+
+
+
+                                              •HR 1145 IH
+
+                                                                                         12
+                                    1                                 ‘‘(C) For each entity that services insured
+                                    2                        mortgages, data on the number of claims paid
+                                    3                        to each servicing mortgagee during each cal-
+                                    4                        endar quarter occurring during the applicable
+                                    5                        collection period.’’.
+                                    6              (b) APPLICABILITY.—Information described in sub-
+                                    7 paragraph (C) of section 540(b)(2) of the National Hous-
+                                    8 ing Act, as added by subsection (a) of this section, shall
+                                    9 first be made available under such section 540 for the ap-
+                                  10 plicable collection period (as such term is defined in such
+                                  11 section) relating to the first calendar quarter ending after
+                                  12 the expiration of the 12-month period that begins on the
+                                  13 date of the enactment of this Act.
+                                  14      SEC. 11. DEPUTY ASSISTANT SECRETARY OF FHA FOR RISK
+                                  15                              MANAGEMENT AND REGULATORY AFFAIRS.
+                                  16               (a) ESTABLISHMENT                         OF    POSITION.—Subsection (b)
+                                  17 of section 4 of the Department of Housing and Urban De-
+                                  18 velopment Act (42 U.S.C. 3533(b)) is amended—
+                                  19                         (1) by inserting ‘‘(1)’’ after ‘‘(b)’’; and
+                                  20                         (2) by adding at the end the following new
+                                  21               paragraph:
+                                  22               ‘‘(2) There shall be in the Department, within the
+                                  23 Federal Housing Administration, a Deputy Assistant Sec-
+                                  24 retary for Risk Management and Regulatory Affairs, who
+
+
+
+
+                                  25 shall be appointed by the Secretary and shall be respon-
+                                              •HR 1145 IH
+
+                                                                                         13
+                                    1 sible to the Federal Housing Commissioner for all matters
+                                    2 relating to managing and mitigating risk to the mortgage
+                                    3 insurance funds of the Department and ensuring the per-
+                                    4 formance of mortgages insured by the Department.’’.
+                                    5              (b) TERMINATION.—Upon the appointment of the
+                                    6 initial Deputy Assistant Secretary for Risk Management
+                                    7 and Regulatory Affairs pursuant to section 4(b)(2) of the
+                                    8 Department of Housing and Urban Development Act, as
+                                    9 amended by subsection (a) of this section, the position of
+                                  10 chief risk officer within the Federal Housing Administra-
+                                  11 tion, filled by appointment by the Federal Housing Com-
+                                  12 missioner, is abolished.
+                                  13      SEC. 12. ESTABLISHMENT OF CHIEF RISK OFFICER FOR
+                                  14                              GNMA.
+                                  15               Section 4 of the Department of Housing and Urban
+                                  16 Development Act (42 U.S.C. 3533) is amended by adding
+                                  17 after subsection (g), as added by section 1442 of the
+                                  18 Dodd-Frank Wall Street Reform and Consumer Protec-
+                                  19 tion Act (Public Law 111–203; 124 Stat. 2163), the fol-
+                                  20 lowing new subsection:
+                                  21               ‘‘(h) There shall be in the Department a Chief Risk
+                                  22 Officer for the Government National Mortgage Associa-
+                                  23 tion, who shall—
+                                  24                         ‘‘(1) be designated by the Secretary;
+
+
+
+
+
+                                              •HR 1145 IH
+
+                                                                                         14
+                                    1                        ‘‘(2) be responsible to the President of the As-
+                                    2              sociation for all matters related to evaluating, man-
+                                    3              aging, and mitigating risk to the programs of the
+                                    4              Association;
+                                    5                        ‘‘(3) be in the competitive service or the senior
+                                    6              executive service;
+                                    7                        ‘‘(4) be a career appointee;
+                                    8                        ‘‘(5) be designated from among individuals who
+                                    9              possess demonstrated ability in general management
+                                  10               of, and knowledge of and extensive practical experi-
+                                  11               ence in risk evaluation practices in large govern-
+                                  12               mental or business entities; and
+                                  13                         ‘‘(6) shall not be required to obtain the prior
+                                  14               approval, comment, or review of any officer or agen-
+                                  15               cy of the United States before submitting to the
+                                  16               Congress, or any committee or subcommittee there-
+                                  17               of, any reports, recommendations, testimony, or
+                                  18               comments if such submission include a statement in-
+                                  19               dicating that the views expressed therein are those
+                                  20               of the Chief Risk Officer of the Association and do
+                                  21               not necessarily represent the views of the Sec-
+                                  22               retary.’’.
+                                  23      SEC. 13. REPORT ON MORTGAGE SERVICERS.
+
+                                  24               (a) EXAMINATION.—The Secretary of Housing and
+
+
+
+
+                                  25 Urban Development shall conduct an examination into
+                                              •HR 1145 IH
+
+                                                                                         15
+                                    1 mortgage servicer compliance with the loan servicing, loss
+                                    2 mitigation, and insurance claim submission guidelines of
+                                    3 the FHA mortgage insurance programs under the Na-
+                                    4 tional Housing Act (12 U.S.C. 1701 et seq.), and an esti-
+                                    5 mate of the annual costs to the Mutual Mortgage Insur-
+                                    6 ance Fund, since 2008, resulting from any failures by
+                                    7 mortgage servicers to comply with such guidelines.
+                                    8              (b) REPORT.—Not later than the expiration of the
+                                    9 120-day period that begins upon the date of the enactment
+                                  10 of this Act, the Secretary shall submit a report to the Con-
+                                  11 gress on the results of the examination conducted pursu-
+                                  12 ant to subsection (a), including recommendations for any
+                                  13 administrative and legislative actions to improve mortgage
+                                  14 servicer compliance with the guidelines referred to in sub-
+                                  15 section (a).
+                                  16      SEC. 14. FHA EMERGENCY CAPITAL PLAN.
+
+                                  17               (a) ESTABLISHMENT.—Not later than the expiration
+                                  18 of the 30-day period beginning on the date of the enact-
+                                  19 ment of this Act, the Secretary of Housing and Urban
+                                  20 Development shall develop, submit to the Congress, and
+                                  21 commence implementation of an emergency capital plan
+                                  22 for the restoration of the fiscal solvency of the Mutual
+                                  23 Mortgage Insurance Fund (in this section referred to as
+                                  24 the ‘‘Fund’’).
+
+
+
+
+
+                                              •HR 1145 IH
+
+                                                                                         16
+                                    1              (b) CONTENTS.—The emergency capital plan devel-
+                                    2 oped pursuant to this section shall—
+                                    3                        (1) provide a detailed explanation of the proc-
+                                    4              esses and controls by which amounts of capital that
+                                    5              are assets of the Fund are monitored and tracked;
+                                    6                        (2) establish a plan to ensure the financial safe-
+                                    7              ty and soundness of the Fund that avoids the need
+                                    8              for borrowing amounts from the Treasury of the
+                                    9              United States to meet obligations of the Fund; and
+                                  10                         (3) describe the procedure by which, if nec-
+                                  11               essary, any amounts from the Treasury needed to
+                                  12               meet obligations of the Fund will be obtained from
+                                  13               the Treasury.
+                                  14               (c) MONTHLY REPORTS.—
+                                  15                         (1) REPORTS.—Subject to paragraph (3), upon
+                                  16               the conclusion of each calendar month ending after
+                                  17               the 14-day period that begins on the date of the en-
+                                  18               actment of this Act, the Secretary of Housing and
+                                  19               Urban Development shall submit to the Congress a
+                                  20               report assessing the financial status of the Fund at
+                                  21               the conclusion of such month and setting forth the
+                                  22               information described in paragraph (2).
+                                  23                         (2) CONTENTS.—Each report required under
+                                  24               paragraph (1) for a month shall contain the fol-
+
+
+
+
+
+                                              •HR 1145 IH
+
+                                                                                         17
+                                    1              lowing information regarding the Fund as of the
+                                    2              conclusion of such month:
+                                    3                                 (A) The number of mortgages that are ob-
+                                    4                        ligations of the Fund that are 60 or more days
+                                    5                        delinquent, the expected losses to the Fund as-
+                                    6                        sociated with such delinquent mortgages, and
+                                    7                        the methodology used to make such calculation.
+                                    8                                 (B) The number of mortgages that are ob-
+                                    9                        ligations of the Fund that have a loan-to-value
+                                  10                         ratio at the time of origination that is less than
+                                  11                         80 percent and the percentage of all mortgages
+                                  12                         that are obligations of the Fund having such a
+                                  13                         ratio.
+                                  14                                  (C) The number of mortgages that are ob-
+                                  15                         ligations of the Fund that had an original prin-
+                                  16                         cipal obligation exceeding 125 percent of the
+                                  17                         median house price, for a home of the size of
+                                  18                         the residence subject to the mortgage, for the
+                                  19                         area in which such residence is located, and the
+                                  20                         percentage of all mortgages that are obligations
+                                  21                         of the Fund having such an original principal
+                                  22                         obligation.
+                                  23                                  (D) The number of mortgages that are ob-
+                                  24                         ligations of the Fund for which the mortgagor’s
+
+
+
+
+                                  25                         income at the time of origination of the mort-
+                                              •HR 1145 IH
+
+                                                                                         18
+                                    1                        gage is greater than the median income for the
+                                    2                        area in which the residence subject to the mort-
+                                    3                        gage is located, and the percentage of all mort-
+                                    4                        gages that are obligations of the Fund for
+                                    5                        which the mortgagor has such an income.
+                                    6                                 (E) The balances for the financing and
+                                    7                        capital reserve accounts of the Fund.
+                                    8                                 (F) Any actions taken during such month
+                                    9                        to help ensure the financial soundness of the
+                                  10                         Fund and compliance with section 205(f) of the
+                                  11                         National Housing Act (12 U.S.C. 1711(f); re-
+                                  12                         lating to a capital ratio requirement).
+                                  13                         (3) TERMINATION                       OF      REPORTING                 REQUIRE-
+                                  14               MENT.—The                 requirement to submit reports under
+                                  15               paragraph (1) shall terminate on the first date after
+                                  16               the date of the enactment of this Act that the Fund
+                                  17               attains a capital ratio (as such term is defined in
+                                  18               section 205(f)(3) of the National Housing Act) of
+                                  19               2.0 percent.
+                                  20      SEC. 15. FHA SAFETY AND SOUNDNESS REVIEW.
+
+                                  21               (a) REVIEW.—The Comptroller General of the United
+                                  22 States shall provide for an independent third party to—
+                                  23                         (1) conduct a one-time review of the mortgage
+                                  24               insurance programs and funds of the Secretary of
+
+
+
+
+
+                                              •HR 1145 IH
+
+                                                                                         19
+                                    1              Housing and Urban Development that shall deter-
+                                    2              mine, as of the time of such review—
+                                    3                                 (A) the financial safety and soundness of
+                                    4                        such programs and funds; and
+                                    5                                 (B) the extent of loan loss reserves and
+                                    6                        capital adequacy of such programs and funds;
+                                    7                        and
+                                    8                        (2) to submit a report under subsection (b).
+                                    9 Such review shall be conducted in accordance with gen-
+                                  10 erally accepted accounting principles applicable to the pri-
+                                  11 vate sector and Federal entities.
+                                  12               (b) REPORT.—The report under this subsection shall
+                                  13 describe the methodology and standards used to conduct
+                                  14 the review under subsection (a)(1), set forth the results
+                                  15 and findings of the review, including the extent of loan
+                                  16 loss reserves and capital adequacy of the mortgage insur-
+                                  17 ance programs and funds of the Secretary of Housing and
+                                  18 Urban Development, and include recommendations re-
+                                  19 garding restoring such reserves and capital to maintain
+                                  20 such programs and funds in a safe and sound condition.
+                                  21               (c) TIMING.—The review required under subsection
+                                  22 (a) shall be completed, and the report required under sub-
+                                  23 section (b) shall be submitted, not later than the expira-
+                                  24 tion of the 60-day period beginning on the date of the en-
+
+
+
+
+                                  25 actment of this Act.
+                                              •HR 1145 IH
+
+                                                                                         20
+                                    1              (d) RULE            OF    CONSTRUCTION.—Nothing in this sec-
+                                    2 tion may be construed to alter or affect, or exempt the
+                                    3 Secretary of Housing and Urban Development from com-
+                                    4 plying with, any laws, regulations, or guidance relating to
+                                    5 preparation or submission of budgets or audits or financial
+                                    6 or management statements or reports.
+                                    7     SEC. 16. FHA DISCLOSURE STANDARDS.
+                                    8              Not later than the expiration of the 90-day period
+                                    9 beginning on the date of the enactment of this Act, the
+                                  10 Secretary of Housing and Urban Development shall review
+                                  11 and revise all standards and requirements relating to dis-
+                                  12 closure of information regarding the mortgage insurance
+                                  13 programs and funds, including actuarial studies conducted
+                                  14 under section 202(a)(4) of the National Housing Act (12
+                                  15 U.S.C. 1708(a)(4)), quarterly reports under section
+                                  16 202(a)(5) of such Act, and annual audited financial state-
+                                  17 ments under section 538 of such Act (12 U.S.C. 1735f–
+                                  18 16), to ensure that, after the date of the enactment of
+                                  19 this Act, such disclosures—
+                                  20                         (1) provide meaningful financial and other in-
+                                  21               formation that is timely, comprehensive, and accu-
+                                  22               rate;
+                                  23                         (2) do not contain any material misstatements
+                                  24               or misrepresentations;
+
+
+
+
+
+                                  25                         (3) make available all relevant information; and
+
+
+                                              •HR 1145 IH
+
+                                                                                         21
+                                    1                        (4) prohibit material omissions that make the
+                                    2              contents of the disclosure misleading.
+                                    3     SEC. 17. REPORT ON STREAMLINING FHA PROGRAMS.
+
+                                    4              (a) EXAMINATION.—The Secretary of Housing and
+                                    5 Urban Development shall conduct an examination of the
+                                    6 mortgage insurance and any other programs of the Fed-
+                                    7 eral Housing Administration to identify—
+                                    8                        (1) the level of use and need for such programs;
+                                    9                        (2) any such programs that are unused or
+                                  10               underused; and
+                                  11                         (3) methods for streamlining, consolidating,
+                                  12               simplifying, increasing the efficiency of, and reduc-
+                                  13               ing the number of such programs.
+                                  14               (b) REPORT.—Not later than the expiration of the
+                                  15 12-month period that begins upon the date of the enact-
+                                  16 ment of this Act, the Secretary shall submit a report to
+                                  17 the Congress on the results of the examination conducted
+                                  18 pursuant to subsection (a), including recommendations for
+                                  19 any administrative and legislative actions to streamline,
+                                  20 consolidate, simplify, increase the efficiency of, and reduce
+                                  21 the number of such programs.
+                                  22      SEC. 18. BUDGET COMPLIANCE.
+                                  23               The Secretary of Housing and Urban Development
+                                  24 shall allocate $2,500,000 from the account for Adminis-
+
+
+
+
+                                  25 trative Contract Expenses each fiscal year through Sep-
+                                              •HR 1145 IH
+
+                                                                                         22
+                                    1 tember 30, 2017, which amounts shall be available only
+                                    2 for the purposes of this Act and the amendments made
+                                    3 by this Act, including such additional actuarial reviews as
+                                    4 may be required by section 5 of this Act and the amend-
+                                    5 ments made by such section.
+                                              •HR 1145 IH                                  Æ

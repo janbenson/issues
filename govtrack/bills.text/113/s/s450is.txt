@@ -1,0 +1,648 @@
+                                                                                                                                   II
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                            S. 450
+                                  To require enhanced economic analysis and justification of regulations pro-
+                                      posed by certain Federal banking, housing, securities, and commodity
+                                      regulators, and for other purposes.
+
+
+
+
+                                              IN THE SENATE OF THE UNITED STATES
+                                                                MARCH 5, 2013
+                                  Mr. SHELBY (for himself, Mr. CHAMBLISS, Mr. CRAPO, and Mr. JOHANNS)
+                                      introduced the following bill; which was read twice and referred to the
+                                      Committee on Banking, Housing, and Urban Affairs
+
+
+
+
+                                                                            A BILL
+                                  To require enhanced economic analysis and justification of
+                                     regulations proposed by certain Federal banking, hous-
+                                     ing, securities, and commodity regulators, and for other
+                                     purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Financial Regulatory
+                                    5 Responsibility Act of 2013’’.
+                                    6     SEC. 2. DEFINITIONS.
+                                    7              As used in this Act—
+
+
+
+
+                                                                                             2
+                                    1                        (1) the term ‘‘agency’’ means the Board of Gov-
+                                    2              ernors of the Federal Reserve System, the Bureau of
+                                    3              Consumer Financial Protection, the Commodity Fu-
+                                    4              tures Trading Commission, the Federal Deposit In-
+                                    5              surance Corporation, the Federal Housing Finance
+                                    6              Agency, the Financial Stability Oversight Council,
+                                    7              the Office of the Comptroller of the Currency, the
+                                    8              Office of Financial Research, the National Credit
+                                    9              Union Administration, and the Securities and Ex-
+                                  10               change Commission;
+                                  11                         (2) the term ‘‘chief economist’’ means—
+                                  12                                  (A) with respect to the Board of Governors
+                                  13                         of the Federal Reserve System, the Director of
+                                  14                         the Division of Research and Statistics, or an
+                                  15                         employee of the agency with comparable author-
+                                  16                         ity;
+                                  17                                  (B) with respect to the Bureau of Con-
+                                  18                         sumer Financial Protection, the Assistant Di-
+                                  19                         rector for Research, or an employee of the
+                                  20                         agency with comparable authority;
+                                  21                                  (C) with respect to the Commodity Fu-
+                                  22                         tures Trading Commission, the Chief Econo-
+                                  23                         mist, or an employee of the agency with com-
+
+
+
+
+                                  24                         parable authority;
+                                              •S 450 IS
+
+                                                                                             3
+                                    1                                 (D) with respect to the Federal Deposit
+                                    2                        Insurance Corporation, the Director of the Divi-
+                                    3                        sion of Insurance and Research, or an employee
+                                    4                        of the agency with comparable authority;
+                                    5                                 (E) with respect to the Federal Housing
+                                    6                        Finance Agency, the Chief Economist, or an
+                                    7                        employee of the agency with comparable author-
+                                    8                        ity;
+                                    9                                 (F) with respect to the Financial Stability
+                                  10                         Oversight Council, the Chief Economist, or an
+                                  11                         employee of the agency with comparable author-
+                                  12                         ity;
+                                  13                                  (G) with respect to the Office of the Comp-
+                                  14                         troller of the Currency, the Director for Policy
+                                  15                         Analysis, or an employee of the agency with
+                                  16                         comparable authority;
+                                  17                                  (H) with respect to the Office of Financial
+                                  18                         Research, the Director, or an employee of the
+                                  19                         agency with comparable authority;
+                                  20                                  (I) with respect to the National Credit
+                                  21                         Union Administration, the Chief Economist, or
+                                  22                         an employee of the agency with comparable au-
+                                  23                         thority; and
+
+
+
+
+
+                                  24                                  (J) with respect to the Securities and Ex-
+                                  25                         change Commission, the Director of the Divi-
+
+
+                                              •S 450 IS
+
+                                                                                             4
+                                    1                        sion of Risk, Strategy, and Financial Innova-
+                                    2                        tion, or an employee of the agency with com-
+                                    3                        parable authority;
+                                    4                        (3) the term ‘‘Council’’ means the Chief Econo-
+                                    5              mists Council established under section 9; and
+                                    6                        (4) the term ‘‘regulation’’—
+                                    7                                 (A) means an agency statement of general
+                                    8                        applicability and future effect that is designed
+                                    9                        to implement, interpret, or prescribe law or pol-
+                                  10                         icy or to describe the procedure or practice re-
+                                  11                         quirements of an agency, including rules, orders
+                                  12                         of general applicability, interpretive releases,
+                                  13                         and other statements of general applicability
+                                  14                         that the agency intends to have the force and
+                                  15                         effect of law;
+                                  16                                  (B) does not include—
+                                  17                                         (i) a regulation issued in accordance
+                                  18                                  with the formal rulemaking provisions of
+                                  19                                  section 556 or 557 of title 5, United States
+                                  20                                  Code;
+                                  21                                         (ii) a regulation that is limited to
+                                  22                                  agency organization, management, or per-
+                                  23                                  sonnel matters;
+
+
+
+
+
+                                              •S 450 IS
+
+                                                                                             5
+                                    1                                        (iii) a regulation promulgated pursu-
+                                    2                                 ant to statutory authority that expressly
+                                    3                                 prohibits compliance with this provision;
+                                    4                                        (iv) a regulation that is certified by
+                                    5                                 the agency to be an emergency action, if
+                                    6                                 such certification is published in the Fed-
+                                    7                                 eral Register; or
+                                    8                                        (v) a regulation that is promulgated
+                                    9                                 by the Board of Governors of the Federal
+                                  10                                  Reserve System or the Federal Open Mar-
+                                  11                                  ket Committee under section 10A, 10B,
+                                  12                                  13, 13A, or 19 of the Federal Reserve Act,
+                                  13                                  or any of subsections (a) through (f) of
+                                  14                                  section 14 of that Act.
+                                  15      SEC. 3. REQUIRED REGULATORY ANALYSIS.
+
+                                  16               (a) REQUIREMENTS                          FOR         NOTICES            OF     PROPOSED
+                                  17 RULEMAKING.—An agency may not issue a notice of pro-
+                                  18 posed rulemaking unless the agency includes in the notice
+                                  19 of proposed rulemaking an analysis that contains, at a
+                                  20 minimum, with respect to each regulation that is being
+                                  21 proposed—
+                                  22                         (1) an identification of the need for the regula-
+                                  23               tion and the regulatory objective, including identi-
+
+
+
+
+                                  24               fication of the nature and significance of the market
+                                              •S 450 IS
+
+                                                                                             6
+                                    1              failure, regulatory failure, or other problem that ne-
+                                    2              cessitates the regulation;
+                                    3                        (2) an explanation of why the private market or
+                                    4              State, local, or tribal authorities cannot adequately
+                                    5              address the identified market failure or other prob-
+                                    6              lem;
+                                    7                        (3) an analysis of the adverse impacts to regu-
+                                    8              lated entities, other market participants, economic
+                                    9              activity, or agency effectiveness that are engendered
+                                  10               by the regulation and the magnitude of such adverse
+                                  11               impacts;
+                                  12                         (4) a quantitative and qualitative assessment of
+                                  13               all anticipated direct and indirect costs and benefits
+                                  14               of the regulation (as compared to a benchmark that
+                                  15               assumes the absence of the regulation), including—
+                                  16                                  (A) compliance costs;
+                                  17                                  (B) effects on economic activity, net job
+                                  18                         creation (excluding jobs related to ensuring
+                                  19                         compliance with the regulation), efficiency, com-
+                                  20                         petition, and capital formation;
+                                  21                                  (C) regulatory administrative costs; and
+                                  22                                  (D) costs imposed by the regulation on
+                                  23                         State, local, or tribal governments or other reg-
+
+
+
+
+                                  24                         ulatory authorities;
+                                              •S 450 IS
+
+                                                                                             7
+                                    1                        (5) if quantified benefits do not outweigh quan-
+                                    2              titative costs, a justification for the regulation;
+                                    3                        (6) identification and assessment of all available
+                                    4              alternatives to the regulation, including modification
+                                    5              of an existing regulation or statute, together with—
+                                    6                                 (A) an explanation of why the regulation
+                                    7                        meets the objectives of the regulation more ef-
+                                    8                        fectively than the alternatives, and if the agency
+                                    9                        is proposing multiple alternatives, an expla-
+                                  10                         nation of why a notice of proposed rulemaking,
+                                  11                         rather than an advanced notice of proposed
+                                  12                         rulemaking, is appropriate; and
+                                  13                                  (B) if the regulation is not a pilot pro-
+                                  14                         gram, an explanation of why a pilot program is
+                                  15                         not appropriate;
+                                  16                         (7) if the regulation specifies the behavior or
+                                  17               manner of compliance, an explanation of why the
+                                  18               agency did not instead specify performance objec-
+                                  19               tives;
+                                  20                         (8) an assessment of how the burden imposed
+                                  21               by the regulation will be distributed among market
+                                  22               participants, including whether consumers, investors,
+                                  23               or small businesses will be disproportionately bur-
+
+
+
+
+                                  24               dened;
+                                              •S 450 IS
+
+                                                                                             8
+                                    1                        (9) an assessment of the extent to which the
+                                    2              regulation is inconsistent, incompatible, or duplica-
+                                    3              tive with the existing regulations of the agency or
+                                    4              those of other domestic and international regulatory
+                                    5              authorities with overlapping jurisdiction;
+                                    6                        (10) a description of any studies, surveys, or
+                                    7              other data relied upon in preparing the analysis;
+                                    8                        (11) an assessment of the degree to which the
+                                    9              key assumptions underlying the analysis are subject
+                                  10               to uncertainty; and
+                                  11                         (12) an explanation of predicted changes in
+                                  12               market structure and infrastructure and in behavior
+                                  13               by market participants, including consumers and in-
+                                  14               vestors, assuming that they will pursue their eco-
+                                  15               nomic interests.
+                                  16               (b) REQUIREMENTS                      FOR       NOTICES           OF      FINAL RULE-
+                                  17      MAKING.—
+
+                                  18                         (1) IN        GENERAL.—Notwithstanding                                any other
+                                  19               provision of law, an agency may not issue a notice
+                                  20               of final rulemaking with respect to a regulation un-
+                                  21               less the agency—
+                                  22                                  (A) has issued a notice of proposed rule-
+                                  23                         making for the relevant regulation;
+
+
+
+
+
+                                  24                                  (B) has conducted and includes in the no-
+                                  25                         tice of final rulemaking an analysis that con-
+
+
+                                              •S 450 IS
+
+                                                                                             9
+                                    1                        tains, at a minimum, the elements required
+                                    2                        under subsection (a); and
+                                    3                                 (C) includes in the notice of final rule-
+                                    4                        making regulatory impact metrics selected by
+                                    5                        the chief economist to be used in preparing the
+                                    6                        report required pursuant to section 6.
+                                    7                        (2)       CONSIDERATION                       OF        COMMENTS.—The
+                                    8              agency shall incorporate in the elements described in
+                                    9              paragraph (1)(B) the data and analyses provided to
+                                  10               the agency by commenters during the comment pe-
+                                  11               riod, or explain why the data or analyses are not
+                                  12               being incorporated.
+                                  13                         (3) COMMENT                 PERIOD.—An                   agency shall not
+                                  14               publish a notice of final rulemaking with respect to
+                                  15               a regulation, unless the agency—
+                                  16                                  (A) has allowed at least 90 days from the
+                                  17                         date of publication in the Federal Register of
+                                  18                         the notice of proposed rulemaking for the sub-
+                                  19                         mission of public comments; or
+                                  20                                  (B) includes in the notice of final rule-
+                                  21                         making an explanation of why the agency was
+                                  22                         not able to provide a 90-day comment period.
+                                  23                         (4) PROHIBITED                  RULES.—
+                                  24                                  (A) IN          GENERAL.—An                    agency may not
+                                  25                         publish a notice of final rulemaking if the agen-
+
+
+                                              •S 450 IS
+
+                                                                                         10
+                                    1                        cy, in its analysis under paragraph (1)(B), de-
+                                    2                        termines that the quantified costs are greater
+                                    3                        than the quantified benefits under subsection
+                                    4                        (a)(5).
+                                    5                                 (B) PUBLICATION                      OF ANALYSIS.—If         the
+                                    6                        agency is precluded by subparagraph (A) from
+                                    7                        publishing a notice of final rulemaking, the
+                                    8                        agency shall publish in the Federal Register
+                                    9                        and on the public website of the agency its
+                                  10                         analysis under paragraph (1)(B), and provide
+                                  11                         the analysis to each House of Congress.
+                                  12                                  (C)         CONGRESSIONAL                     WAIVER.—If     the
+                                  13                         agency is precluded by subparagraph (A) from
+                                  14                         publishing a notice of final rulemaking, Con-
+                                  15                         gress, by joint resolution pursuant to the proce-
+                                  16                         dures set forth for joint resolutions in section
+                                  17                         802 of title 5, United States Code, may direct
+                                  18                         the agency to publish a notice of final rule-
+                                  19                         making notwithstanding the prohibition con-
+                                  20                         tained in subparagraph (A). In applying section
+                                  21                         802 of title 5, United States Code, for purposes
+                                  22                         of this paragraph, section 802(e)(2) shall not
+                                  23                         apply and the term—
+
+
+
+
+
+                                  24                                         (i) ‘‘joint resolution’’ or ‘‘joint resolu-
+                                  25                                  tion described in subsection (a)’’ means
+
+
+                                              •S 450 IS
+
+                                                                                         11
+                                    1                                 only a joint resolution introduced during
+                                    2                                 the period beginning on the submission or
+                                    3                                 publication date and ending 60 days there-
+                                    4                                 after (excluding days either House of Con-
+                                    5                                 gress is adjourned for more than 3 days
+                                    6                                 during a session of Congress), the matter
+                                    7                                 after the resolving clause of which is as fol-
+                                    8                                 lows: ‘‘That Congress directs, notwith-
+                                    9                                 standing the prohibition contained in sec-
+                                  10                                  tion 3(b)(4)(A) of the Financial Regu-
+                                  11                                  latory Responsibility Act of 2013, the ll
+                                  12                                  to publish the notice of final rulemaking
+                                  13                                  for the regulation or regulations that were
+                                  14                                  the subject of the analysis submitted by
+                                  15                                  the ll to Congress on ll.’’ (The
+                                  16                                  blank spaces being appropriately filled in.);
+                                  17                                  and
+                                  18                                         (ii) ‘‘submission or publication date’’
+                                  19                                  means—
+                                  20                                                   (I) the date on which the analysis
+                                  21                                         under paragraph (1)(B) is submitted
+                                  22                                         to Congress under paragraph (4)(B);
+                                  23                                         or
+
+
+
+
+
+                                  24                                                   (II) if the analysis is submitted
+                                  25                                         to Congress less than 60 session days
+
+
+                                              •S 450 IS
+
+                                                                                         12
+                                    1                                        or 60 legislative days before the date
+                                    2                                        on which the Congress adjourns a ses-
+                                    3                                        sion of Congress, the date on which
+                                    4                                        the same or succeeding Congress first
+                                    5                                        convenes its next session.
+                                    6     SEC. 4. RULE OF CONSTRUCTION.
+                                    7              For purposes of the Paperwork Reduction Act (44
+                                    8 U.S.C. 3501 et seq.), obtaining, causing to be obtained,
+                                    9 or soliciting information for purposes of complying with
+                                  10 section 3 with respect to a proposed rulemaking shall not
+                                  11 be construed to be a collection of information, provided
+                                  12 that the agency has first issued an advanced notice of pro-
+                                  13 posed rulemaking in connection with the regulation, iden-
+                                  14 tifies that advanced notice of proposed rulemaking in its
+                                  15 solicitation of information, and informs the person from
+                                  16 whom the information is obtained or solicited that the pro-
+                                  17 vision of information is voluntary.
+                                  18      SEC. 5. PUBLIC AVAILABILITY OF DATA AND REGULATORY
+                                  19                              ANALYSIS.
+                                  20               (a) IN GENERAL.—At or before the commencement
+                                  21 of the public comment period with respect to a regulation,
+                                  22 the agency shall make available on its public website suffi-
+                                  23 cient information about the data, methodologies, and as-
+
+
+
+
+                                  24 sumptions underlying the analyses performed pursuant to
+                                  25 section 3 so that the analytical results of the agency are
+
+
+                                              •S 450 IS
+
+                                                                                         13
+                                    1 capable of being substantially reproduced, subject to an
+                                    2 acceptable degree of imprecision or error.
+                                    3              (b) CONFIDENTIALITY.—The agency shall comply
+                                    4 with subsection (a) in a manner that preserves the con-
+                                    5 fidentiality of nonpublic information, including confiden-
+                                    6 tial trade secrets, confidential commercial or financial in-
+                                    7 formation, and confidential information about positions,
+                                    8 transactions, or business practices.
+                                    9     SEC. 6. FIVE-YEAR REGULATORY IMPACT ANALYSIS.
+
+                                  10               (a) IN GENERAL.—Not later than 5 years after the
+                                  11 date of publication in the Federal Register of a notice of
+                                  12 final rulemaking, the chief economist of the agency shall
+                                  13 issue a report that examines the economic impact of the
+                                  14 subject regulation, including the direct and indirect costs
+                                  15 and benefits of the regulation.
+                                  16               (b) REGULATORY IMPACT METRICS.—In preparing
+                                  17 the report required by subsection (a), the chief economist
+                                  18 shall employ the regulatory impact metrics included in the
+                                  19 notice of final rulemaking pursuant to section 3(b)(1)(C).
+                                  20               (c) REPRODUCIBILITY.—The report shall include the
+                                  21 data, methodologies, and assumptions underlying the eval-
+                                  22 uation so that the agency’s analytical results are capable
+                                  23 of being substantially reproduced, subject to an acceptable
+
+
+
+
+                                  24 degree of imprecision or error.
+                                              •S 450 IS
+
+                                                                                         14
+                                    1              (d) CONFIDENTIALITY.—The agency shall comply
+                                    2 with subsection (c) in a manner that preserves the con-
+                                    3 fidentiality of nonpublic information, including confiden-
+                                    4 tial trade secrets, confidential commercial or financial in-
+                                    5 formation, and confidential information about positions,
+                                    6 transactions, or business practices.
+                                    7              (e) REPORT.—The agency shall submit the report re-
+                                    8 quired by subsection (a) to the Committee on Banking,
+                                    9 Housing, and Urban Affairs of the Senate and the Com-
+                                  10 mittee on Financial Services of the House of Representa-
+                                  11 tives and post it on the public website of the agency. The
+                                  12 Commodity Futures Trading Commission shall also sub-
+                                  13 mit its report to the Committee on Agriculture, Nutrition,
+                                  14 and Forestry of the Senate and the Committee on Agri-
+                                  15 culture of the House of Representatives.
+                                  16      SEC. 7. RETROSPECTIVE REVIEW OF EXISTING RULES.
+
+                                  17               (a) REGULATORY IMPROVEMENT PLAN.—Not later
+                                  18 than 1 year after the date of enactment of this Act and
+                                  19 every 5 years thereafter, each agency shall develop, submit
+                                  20 to the Committee on Banking, Housing, and Urban Af-
+                                  21 fairs of the Senate and the Committee on Financial Serv-
+                                  22 ices of the House of Representatives, and post on the pub-
+                                  23 lic website of the agency a plan, consistent with law and
+
+
+
+
+                                  24 its resources and regulatory priorities, under which the
+                                  25 agency will modify, streamline, expand, or repeal existing
+
+
+                                              •S 450 IS
+
+                                                                                         15
+                                    1 regulations so as to make the regulatory program of the
+                                    2 agency more effective or less burdensome in achieving the
+                                    3 regulatory objectives. The Commodity Futures Trading
+                                    4 Commission shall also submit its plan to the Committee
+                                    5 on Agriculture, Nutrition, and Forestry of the Senate and
+                                    6 the Committee on Agriculture of the House of Representa-
+                                    7 tives.
+                                    8              (b) IMPLEMENTATION PROGRESS REPORT.—Two
+                                    9 years after the date of submission of each plan required
+                                  10 under subsection (a), each agency shall develop, submit
+                                  11 to the Committee on Banking, Housing, and Urban Af-
+                                  12 fairs of the Senate and the Committee on Financial Serv-
+                                  13 ices of the House of Representatives, and post on the pub-
+                                  14 lic website of the agency a report of the steps that it has
+                                  15 taken to implement the plan, steps that remain to be taken
+                                  16 to implement the plan, and, if any parts of the plan will
+                                  17 not be implemented, reasons for not implementing those
+                                  18 parts of the plan. The Commodity Futures Trading Com-
+                                  19 mission shall also submit its plan to the Committee on
+                                  20 Agriculture, Nutrition, and Forestry of the Senate and the
+                                  21 Committee on Agriculture of the House of Representa-
+                                  22 tives.
+                                  23      SEC. 8. JUDICIAL REVIEW.
+                                  24               (a) IN GENERAL.—Notwithstanding any other provi-
+                                  25 sion of law, during the period beginning on the date on
+
+
+                                              •S 450 IS
+
+                                                                                         16
+                                    1 which a notice of final rulemaking for a regulation is pub-
+                                    2 lished in the Federal Register and ending 1 year later,
+                                    3 a person that is adversely affected or aggrieved by the reg-
+                                    4 ulation is entitled to bring an action in the United States
+                                    5 Court of Appeals for the District of Columbia Circuit for
+                                    6 judicial review of agency compliance with the requirements
+                                    7 of section 3.
+                                    8              (b) STAY.—The court may stay the effective date of
+                                    9 the regulation or any provision thereof.
+                                  10               (c) RELIEF.—If the court finds that an agency has
+                                  11 not complied with the requirements of section 3, the court
+                                  12 shall vacate the subject regulation, unless the agency
+                                  13 shows by clear and convincing evidence that vacating the
+                                  14 regulation would result in irreparable harm. Nothing in
+                                  15 this section affects other limitations on judicial review or
+                                  16 the power or duty of the court to dismiss any action or
+                                  17 deny relief on any other appropriate legal or equitable
+                                  18 ground.
+                                  19      SEC. 9. CHIEF ECONOMISTS COUNCIL.
+
+                                  20               (a) ESTABLISHMENT.—There is established the Chief
+                                  21 Economists Council.
+                                  22               (b) MEMBERSHIP.—The Council shall consist of the
+                                  23 chief economist of each agency. The members of the Coun-
+
+
+
+
+                                  24 cil shall select the first chairperson of the Council. There-
+                                              •S 450 IS
+
+                                                                                         17
+                                    1 after the position of Chairperson shall rotate annually
+                                    2 among the members of the Council.
+                                    3              (c) MEETINGS.—The Council shall meet at the call
+                                    4 of the Chairperson, but not less frequently than quarterly.
+                                    5              (d) REPORT.—One year after the effective date of
+                                    6 this Act and annually thereafter, the Council shall prepare
+                                    7 and submit to the Committee on Banking, Housing, and
+                                    8 Urban Affairs and the Committee on Agriculture, Nutri-
+                                    9 tion, and Forestry of the Senate and the Committee on
+                                  10 Financial Services and the Committee on Agriculture of
+                                  11 the House of Representatives a report on—
+                                  12                         (1) the benefits and costs of regulations adopt-
+                                  13               ed by the agencies during the past 12 months;
+                                  14                         (2) the regulatory actions planned by the agen-
+                                  15               cies for the upcoming 12 months;
+                                  16                         (3) the cumulative effect of the existing regula-
+                                  17               tions of the agencies on economic activity, innova-
+                                  18               tion, international competitiveness of entities regu-
+                                  19               lated by the agencies, and net job creation (exclud-
+                                  20               ing jobs related to ensuring compliance with the reg-
+                                  21               ulation);
+                                  22                         (4) the training and qualifications of the per-
+                                  23               sons who prepared the cost-benefit analyses of each
+
+
+
+
+                                  24               agency during the past 12 months;
+                                              •S 450 IS
+
+                                                                                         18
+                                    1                        (5) the sufficiency of the resources available to
+                                    2              the chief economists during the past 12 months for
+                                    3              the conduct of the activities required by this Act;
+                                    4              and
+                                    5                        (6) recommendations for legislative or regu-
+                                    6              latory action to enhance the efficiency and effective-
+                                    7              ness of financial regulation in the United States.
+                                    8     SEC. 10. CONFORMING AMENDMENTS.
+                                    9              Section 15(a) of the Commodity Exchange Act (7
+                                  10 U.S.C. 19(a)) is amended—
+                                  11                         (1) by striking paragraph (1);
+                                  12                         (2) in paragraph (2), by striking (2) and all
+                                  13               that follows through ‘‘light of—’’ and inserting the
+                                  14               following:
+                                  15                         ‘‘(1) CONSIDERATIONS.—Before promulgating a
+                                  16               regulation under this chapter or issuing an order
+                                  17               (except as provided in paragraph (2)), the Commis-
+                                  18               sion shall take into consideration—’’;
+                                  19                         (3) in paragraph (1), as so redesignated—
+                                  20                                  (A) in subparagraph (B), by striking ‘‘fu-
+                                  21                         tures’’ and inserting ‘‘the relevant’’;
+                                  22                                  (B) in subparagraph (C), by adding ‘‘and’’
+                                  23                         at the end;
+
+
+
+
+
+                                  24                                  (C) in subparagraph (D), by striking
+                                  25                         ‘‘and’’ at the end; and
+
+
+                                              •S 450 IS
+
+                                                                                         19
+                                    1                                 (D) by striking subparagraph (E); and
+                                    2                        (4) by redesignating paragraph (3) as para-
+                                    3              graph (2).
+                                    4     SEC. 11. OTHER REGULATORY ENTITIES.
+
+                                    5              (a) SECURITIES                 AND        EXCHANGE COMMISSION.—Not
+                                    6 later than 1 year after the date of enactment of this Act,
+                                    7 the Securities and Exchange Commission shall provide to
+                                    8 the Committee on Banking, Housing, and Urban Affairs
+                                    9 of the Senate and the Committee on Financial Services
+                                  10 of the House of Representatives a report setting forth a
+                                  11 plan for subjecting the Public Company Accounting Over-
+                                  12 sight Board, the Municipal Securities Rulemaking Board,
+                                  13 and any national securities association registered under
+                                  14 section 15A of the Securities Exchange Act of 1934 (15
+                                  15 U.S.C. 78o–4(a)) to the requirements of this Act, other
+                                  16 than direct representation on the Council.
+                                  17               (b) COMMODITY FUTURES TRADING COMMISSION.—
+                                  18 Not later than 1 year after the date of enactment of this
+                                  19 Act, the Commodity Futures Trading Commission shall
+                                  20 provide to the Committee on Banking, Housing, and
+                                  21 Urban Affairs of the Senate, the Committee on Financial
+                                  22 Services of the House of Representatives, the Committee
+                                  23 on Agriculture, Nutrition, and Forestry of the Senate, and
+
+
+
+
+                                  24 the Committee on Agriculture of the House of Representa-
+                                  25 tives a report setting forth a plan for subjecting any fu-
+
+
+                                              •S 450 IS
+
+                                                                                         20
+                                    1 tures association registered under section 17 of the Com-
+                                    2 modity Exchange Act (7 U.S.C. 21) to the requirements
+                                    3 of this Act, other than direct representation on the Coun-
+                                    4 cil.
+                                    5     SEC. 12. AVOIDANCE OF DUPLICATIVE OR UNNECESSARY
+                                    6                             ANALYSES.
+                                    7              An agency may perform the analyses required by this
+                                    8 Act in conjunction with, or as a part of, any other agenda
+                                    9 or analysis required by any other provision of law, if such
+                                  10 other analysis satisfies the provisions this Act.
+                                  11      SEC. 13. SEVERABILITY.
+                                  12               If any provision of this Act or the application of any
+                                  13 provision of this Act to any person or circumstance, is held
+                                  14 invalid, the application of such provision to other persons
+                                  15 or circumstances, and the remainder of this Act, shall not
+                                  16 be affected thereby.
+                                              •S 450 IS                                    Æ

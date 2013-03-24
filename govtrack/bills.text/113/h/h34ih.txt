@@ -1,0 +1,841 @@
+                                                                                                                                                             I
+
+
+
+
+                                                              113TH CONGRESS
+                                                                 1ST SESSION                             H. R. 34
+                                                              To provide for the implementation of a system of licensing for purchasers
+                                                                  of certain firearms and for a record of sale system for those firearms,
+                                                                  and for other purposes.
+
+
+
+
+                                                                            IN THE HOUSE OF REPRESENTATIVES
+                                                                                                   JANUARY 3, 2013
+                                                                Mr. RUSH        introduced the following bill; which was referred to the Committee
+                                                                                                    on the Judiciary
+
+
+
+
+                                                                                                        A BILL
+                                                              To provide for the implementation of a system of licensing
+                                                                 for purchasers of certain firearms and for a record of
+                                                                 sale system for those firearms, and for other purposes.
+                                                                1               Be it enacted by the Senate and House of Representa-
+                                                                2 tives of the United States of America in Congress assembled,
+                                                                3     SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+                                                                4               (a) SHORT TITLE.—This Act may be cited as ‘‘Blair
+                                                                5 Holt’s Firearm Licensing and Record of Sale Act of
+                                                                6 2013’’.
+                                                                7               (b) TABLE           OF    CONTENTS.—The table of contents for
+jbell on DSK7SPTVN1PROD with                                    8 this Act is as follows:
+                                                                      Sec. 1. Short title; table of contents.
+                                                                      Sec. 2. Findings and purposes.
+
+
+
+                                                                                                                          2
+                                                                      Sec. 3. Definitions.
+
+                                                                                                              TITLE I—LICENSING
+
+                                                                      Sec.    101.     Licensing requirement.
+                                                                      Sec.    102.     Application requirements.
+                                                                      Sec.    103.     Issuance of license.
+                                                                      Sec.    104.     Renewal of license.
+                                                                      Sec.    105.     Revocation of license.
+
+                                                                                          TITLE II—RECORD OF SALE OR TRANSFER
+
+                                                                      Sec. 201. Sale or transfer requirements for qualifying firearms.
+                                                                      Sec. 202. Firearm records.
+
+                                                                                            TITLE III—ADDITIONAL PROHIBITIONS
+
+                                                                      Sec.    301.     Universal background check requirement.
+                                                                      Sec.    302.     Failure to maintain or permit inspection of records.
+                                                                      Sec.    303.     Failure to report loss or theft of firearm.
+                                                                      Sec.    304.     Failure to provide notice of change of address.
+                                                                      Sec.    305.     Child access prevention.
+
+                                                                                                       TITLE IV—ENFORCEMENT
+
+                                                                      Sec.    401.     Criminal penalties.
+                                                                      Sec.    402.     Regulations.
+                                                                      Sec.    403.     Inspections.
+                                                                      Sec.    404.     Orders.
+                                                                      Sec.    405.     Injunctive enforcement.
+
+                                                                             TITLE V—FIREARM INJURY INFORMATION AND RESEARCH
+
+                                                                      Sec. 501. Duties of the Attorney General.
+
+                                                                                                  TITLE VI—EFFECT ON STATE LAW
+
+                                                                      Sec. 601. Effect on State law.
+                                                                      Sec. 602. Certification of State firearm licensing systems and State firearm
+                                                                                       record of sale systems.
+
+                                                                                          TITLE VII—RELATIONSHIP TO OTHER LAW
+
+                                                                      Sec. 701. Subordination to Arms Export Control Act.
+
+                                                                                                    TITLE VIII—INAPPLICABILITY
+
+                                                                      Sec. 801. Inapplicability to governmental authorities.
+
+                                                                                                     TITLE IX—EFFECTIVE DATE
+
+                                                                      Sec. 901. Effective date of amendments.
+                                                                1     SEC. 2. FINDINGS AND PURPOSES.
+jbell on DSK7SPTVN1PROD with                                    2               (a) FINDINGS.—Congress finds that—
+                                                                           •HR 34 IH
+
+                                                                                                                         3
+                                                                1                        (1) the manufacture, distribution, and importa-
+                                                                2               tion of firearms is inherently commercial in nature;
+                                                                3                        (2) firearms regularly move in interstate com-
+                                                                4               merce;
+                                                                5                        (3) to the extent that firearms trafficking is
+                                                                6               intrastate in nature, it arises out of and is substan-
+                                                                7               tially connected with a commercial transaction,
+                                                                8               which, when viewed in the aggregate, substantially
+                                                                9               affects interstate commerce;
+                                                              10                         (4) because the intrastate and interstate traf-
+                                                              11                ficking of firearms are so commingled, full regula-
+                                                              12                tion of interstate commerce requires the incidental
+                                                              13                regulation of intrastate commerce;
+                                                              14                         (5) gun violence in the United States is associ-
+                                                              15                ated with the majority of homicides, over half the
+                                                              16                suicides, and two-thirds of non-fatal violent injuries;
+                                                              17                and
+                                                              18                         (6) on the afternoon of May 10, 2007, Blair
+                                                              19                Holt, a junior at Julian High School in Chicago, was
+                                                              20                killed on a public bus riding home from school when
+                                                              21                he used his body to shield a girl who was in the line
+                                                              22                of fire after a young man boarded the bus and start-
+                                                              23                ed shooting.
+                                                              24                (b) SENSE            OF THE              CONGRESS.—It is the sense of
+jbell on DSK7SPTVN1PROD with                                  25 the Congress that—
+                                                                           •HR 34 IH
+
+                                                                                                                         4
+                                                                1                        (1) firearms trafficking is prevalent and wide-
+                                                                2               spread in and among the States, and it is usually
+                                                                3               impossible to distinguish between intrastate traf-
+                                                                4               ficking and interstate trafficking; and
+                                                                5                        (2) it is in the national interest and within the
+                                                                6               role of the Federal Government to ensure that the
+                                                                7               regulation of firearms is uniform among the States,
+                                                                8               that law enforcement can quickly and effectively
+                                                                9               trace firearms used in crime, and that firearms own-
+                                                              10                ers know how to use and safely store their firearms.
+                                                              11                (c) PURPOSES.—The purposes of this Act and the
+                                                              12 amendments made by this Act are—
+                                                              13                         (1) to protect the public against the unreason-
+                                                              14                able risk of injury and death associated with the un-
+                                                              15                recorded sale or transfer of qualifying firearms to
+                                                              16                criminals and youth;
+                                                              17                         (2) to ensure that owners of qualifying firearms
+                                                              18                are knowledgeable in the safe use, handling, and
+                                                              19                storage of those firearms;
+                                                              20                         (3) to restrict the availability of qualifying fire-
+                                                              21                arms to criminals, youth, and other persons prohib-
+                                                              22                ited by Federal law from receiving firearms; and
+                                                              23                         (4) to facilitate the tracing of qualifying fire-
+                                                              24                arms used in crime by Federal and State law en-
+                                                              25
+jbell on DSK7SPTVN1PROD with
+
+
+
+
+                                                                                forcement agencies.
+
+
+                                                                           •HR 34 IH
+
+                                                                1     SEC. 3. DEFINITIONS.                               5
+                                                                2               (a) IN GENERAL.—In this Act:
+                                                                3                        (1) FIREARM;                    LICENSED DEALER; LICENSED
+                                                                4               MANUFACTURER; STATE.—The                                   terms ‘‘firearm’’, ‘‘li-
+                                                                5               censed            dealer’’,        ‘‘licensed             manufacturer’’,             and
+                                                                6               ‘‘State’’ have the meanings given those terms in sec-
+                                                                7               tion 921(a) of title 18, United States Code.
+                                                                8                        (2) QUALIFYING                      FIREARM.—The                    term ‘‘quali-
+                                                                9               fying firearm’’ has the meaning given the term in
+                                                              10                section 921(a) of title 18, United States Code, as
+                                                              11                amended by subsection (b) of this section.
+                                                              12                (b) AMENDMENT                     TO         TITLE 18, UNITED STATES
+                                                              13 CODE.—Section 921(a) of title 18, United States Code,
+                                                              14 is amended by adding at the end the following:
+                                                              15                ‘‘(36) The term ‘qualifying firearm’—
+                                                              16                         ‘‘(A) means—
+                                                              17                                  ‘‘(i) any handgun; or
+                                                              18                                  ‘‘(ii) any semiautomatic firearm that can
+                                                              19                         accept any detachable ammunition feeding de-
+                                                              20                         vice; and
+                                                              21                         ‘‘(B) does not include any antique.’’.
+                                                              22                           TITLE I—LICENSING
+                                                              23      SEC. 101. LICENSING REQUIREMENT.
+                                                              24                Section 922 of title 18, United States Code, is
+jbell on DSK7SPTVN1PROD with                                  25 amended by adding at the end the following:
+                                                              26                ‘‘(aa) FIREARM LICENSING REQUIREMENT.—
+                                                                           •HR 34 IH
+
+                                                                                                                         6
+                                                                1                        ‘‘(1) IN      GENERAL.—It                   shall be unlawful for any
+                                                                2               person other than a licensed importer, licensed man-
+                                                                3               ufacturer, licensed dealer, or licensed collector to
+                                                                4               possess a qualifying firearm on or after the applica-
+                                                                5               ble date, unless that person has been issued a fire-
+                                                                6               arm license—
+                                                                7                                 ‘‘(A) under title I of Blair Holt’s Firearm
+                                                                8                        Licensing and Record of Sale Act of 2013,
+                                                                9                        which license has not been invalidated or re-
+                                                              10                         voked under that title; or
+                                                              11                                  ‘‘(B) pursuant to a State firearm licensing
+                                                              12                         and record of sale system certified under sec-
+                                                              13                         tion 602 of Blair Holt’s Firearm Licensing and
+                                                              14                         Record of Sale Act of 2013, which license has
+                                                              15                         not been invalidated or revoked under State
+                                                              16                         law.
+                                                              17                         ‘‘(2) APPLICABLE                    DATE.—In                  this subsection,
+                                                              18                the term ‘applicable date’ means—
+                                                              19                                  ‘‘(A) with respect to a qualifying firearm
+                                                              20                         that is acquired by the person before the date
+                                                              21                         of the enactment of Blair Holt’s Firearm Li-
+                                                              22                         censing and Record of Sale Act of 2013, 2
+                                                              23                         years after such date of enactment; and
+                                                              24                                  ‘‘(B) with respect to a qualifying firearm
+                                                              25
+jbell on DSK7SPTVN1PROD with
+
+
+
+
+                                                                                         that is acquired by the person on or after the
+
+
+                                                                           •HR 34 IH
+
+                                                                                                                         7
+                                                                1                        date of the enactment of Blair Holt’s Firearm
+                                                                2                        Licensing and Record of Sale Act of 2013, 1
+                                                                3                        year after such date of enactment.’’.
+                                                                4     SEC. 102. APPLICATION REQUIREMENTS.
+
+                                                                5               (a) IN GENERAL.—In order to be issued a firearm
+                                                                6 license under this title, an individual shall submit to the
+                                                                7 Attorney General (in accordance with the regulations pro-
+                                                                8 mulgated under subsection (b)) an application, which shall
+                                                              109 include—             (1) a current, passport-sized photograph of the
+                                                              11                applicant that provides a clear, accurate likeness of
+                                                              12                the applicant;
+                                                              13                         (2) the name, address, and date and place of
+                                                              14                birth of the applicant;
+                                                              15                         (3) any other name that the applicant has ever
+                                                              16                used or by which the applicant has ever been known;
+                                                              17                         (4) a clear thumb print of the applicant, which
+                                                              18                shall be made when, and in the presence of the enti-
+                                                              19                ty to whom, the application is submitted;
+                                                              20                         (5) with respect to each category of person pro-
+                                                              21                hibited by Federal law, or by the law of the State
+                                                              22                of residence of the applicant, from obtaining a fire-
+                                                              23                arm, a statement that the individual is not a person
+jbell on DSK7SPTVN1PROD with                                  24                prohibited from obtaining a firearm;
+                                                                           •HR 34 IH
+
+                                                                                                                         8
+                                                                1                        (6) a certification by the applicant that the ap-
+                                                                2               plicant will keep any firearm owned by the applicant
+                                                                3               safely stored and out of the possession of persons
+                                                                4               who have not attained 18 years of age;
+                                                                5                        (7) a certificate attesting to the completion at
+                                                                6               the time of application of a written firearms exam-
+                                                                7               ination, which shall test the knowledge and ability of
+                                                                8               the applicant regarding—
+                                                                9                                 (A) the safe storage of firearms, particu-
+                                                              10                         larly in the vicinity of persons who have not at-
+                                                              11                         tained 18 years of age;
+                                                              12                                  (B) the safe handling of firearms;
+                                                              13                                  (C) the use of firearms in the home and
+                                                              14                         the risks associated with such use;
+                                                              15                                  (D) the legal responsibilities of firearms
+                                                              16                         owners, including Federal, State, and local laws
+                                                              17                         relating to requirements for the possession and
+                                                              18                         storage of firearms, and relating to reporting
+                                                              19                         requirements with respect to firearms; and
+                                                              20                                  (E) any other subjects, as the Attorney
+                                                              21                         General determines to be appropriate;
+                                                              22                         (8) an authorization by the applicant to release
+                                                              23                to the Attorney General or an authorized representa-
+                                                              24                tive of the Attorney General any mental health
+                                                              25
+jbell on DSK7SPTVN1PROD with
+
+
+
+
+                                                                                records pertaining to the applicant;
+
+
+                                                                           •HR 34 IH
+
+                                                                                                                         9
+                                                                1                        (9) the date on which the application was sub-
+                                                                2               mitted; and
+                                                                3                        (10) the signature of the applicant.
+                                                                4               (b) REGULATIONS GOVERNING SUBMISSION.—The
+                                                                5 Attorney General shall promulgate regulations specifying
+                                                                6 procedures for the submission of applications to the Attor-
+                                                                7 ney General under this section, which regulations shall—
+                                                                8                        (1) provide for submission of the application
+                                                                9               through a licensed dealer or an office or agency of
+                                                              10                the Federal Government designated by the Attorney
+                                                              11                General;
+                                                              12                         (2) require the applicant to provide a valid
+                                                              13                identification document (as defined in section
+                                                              14                1028(d)(2) of title 18, United States Code) of the
+                                                              15                applicant, containing a photograph of the applicant,
+                                                              16                to the licensed dealer or to the office or agency of
+                                                              17                the Federal Government, as applicable, at the time
+                                                              18                of submission of the application to that dealer, of-
+                                                              19                fice, or agency; and
+                                                              20                         (3) require that a completed application be for-
+                                                              21                warded to the Attorney General not later than 48
+                                                              22                hours after the application is submitted to the li-
+                                                              23                censed dealer or office or agency of the Federal Gov-
+                                                              24                ernment, as applicable.
+                                                              25
+jbell on DSK7SPTVN1PROD with
+
+
+
+
+                                                                                (c) FEES.—
+
+
+                                                                           •HR 34 IH
+
+                                                                                                                     10
+                                                                1                        (1) IN       GENERAL.—The                     Attorney General shall
+                                                                2               charge and collect from each applicant for a license
+                                                                3               under this title a fee in an amount determined in ac-
+                                                                4               cordance with paragraph (2).
+                                                                5                        (2) FEE         AMOUNT.—The                    amount of the fee col-
+                                                                6               lected under this subsection shall be not less than
+                                                                7               the amount determined by the Attorney General to
+                                                                8               be necessary to ensure that the total amount of all
+                                                                9               fees collected under this subsection during a fiscal
+                                                              10                year is sufficient to cover the costs of carrying out
+                                                              11                this title during that fiscal year, except that such
+                                                              12                amount shall not exceed $25.
+                                                              13      SEC. 103. ISSUANCE OF LICENSE.
+
+                                                              14                (a) IN GENERAL.—The Attorney General shall issue
+                                                              15 a firearm license to an applicant who has submitted an
+                                                              16 application that meets the requirements of section 102 of
+                                                              17 this Act, if the Attorney General ascertains that the indi-
+                                                              18 vidual is not prohibited by subsection (g) or (n) of section
+                                                              19 922 of title 18, United States Code, from receiving a fire-
+                                                              20 arm.
+                                                              21                (b) EFFECT               OF      ISSUANCE              TO     PROHIBITED PER-
+                                                              22      SON.—A            firearm license issued under this section shall be
+                                                              23 null and void if issued to a person who is prohibited by
+                                                              24 subsection (g) or (n) of section 922 of title 18, United
+jbell on DSK7SPTVN1PROD with                                  25 States Code, from receiving a firearm.
+                                                                           •HR 34 IH
+
+                                                                                                                     11
+                                                                1               (c) FORM             OF       LICENSE.—A firearm license issued
+                                                                2 under this section shall be in the form of a tamper-resist-
+                                                                3 ant card, and shall include—
+                                                                4                        (1) the photograph of the licensed individual
+                                                                5               submitted with the application;
+                                                                6                        (2) the address of the licensed individual;
+                                                                7                        (3) the date of birth of the licensed individual;
+                                                                8                        (4) a license number, unique to each licensed
+                                                                9               individual;
+                                                              10                         (5) the expiration date of the license, which
+                                                              11                shall be the date that is 5 years after the initial an-
+                                                              12                niversary of the date of birth of the licensed indi-
+                                                              13                vidual following the date on which the license is
+                                                              14                issued (or in the case of a license renewal, following
+                                                              15                the date on which the license is renewed under sec-
+                                                              16                tion 104);
+                                                              17                         (6) the signature of the licensed individual pro-
+                                                              18                vided on the application, or a facsimile of the appli-
+                                                              19                cation; and
+                                                              20                         (7) centered at the top of the license, capital-
+                                                              21                ized, and in boldface type, the following:
+                                                              22 ‘‘FIREARM                        LICENSE—NOT                            VALID               FOR   ANY
+                                                              23 OTHER PURPOSE’’.
+                                                              24      SEC. 104. RENEWAL OF LICENSE.
+
+                                                              25
+jbell on DSK7SPTVN1PROD with
+
+
+
+
+                                                                                (a) APPLICATION FOR RENEWAL.—
+
+
+                                                                           •HR 34 IH
+
+                                                                                                                     12
+                                                                1                        (1) IN       GENERAL.—In                    order to renew a firearm
+                                                                2               license issued under this title, not later than 30 days
+                                                                3               before the expiration date of the license, the licensed
+                                                                4               individual shall submit to the Attorney General (in
+                                                                5               accordance with the regulations promulgated under
+                                                                6               paragraph (3)), in a form approved by the Attorney
+                                                                7               General, an application for renewal of the license.
+                                                                8                        (2)       CONTENTS.—An                        application           submitted
+                                                                9               under paragraph (1) shall include—
+                                                              10                                  (A) a current, passport-sized photograph of
+                                                              11                         the applicant that provides a clear, accurate
+                                                              12                         likeness of the applicant;
+                                                              13                                  (B) current proof of identity of the li-
+                                                              14                         censed individual; and
+                                                              15                                  (C) the address of the licensed individual.
+                                                              16                         (3) REGULATIONS                     GOVERNING SUBMISSION.—
+                                                              17                The Attorney General shall promulgate regulations
+                                                              18                specifying procedures for the submission of applica-
+                                                              19                tions under this subsection.
+                                                              20                (b) ISSUANCE                  OF   RENEWED LICENSE.—Upon ap-
+                                                              21 proval of an application submitted under subsection (a)
+                                                              22 of this section, the Attorney General shall issue a renewed
+                                                              23 license, which shall meet the requirements of section
+                                                              24 103(c), except that the license shall include the current
+jbell on DSK7SPTVN1PROD with                                  25 photograph and address of the licensed individual, as pro-
+                                                                           •HR 34 IH
+
+                                                                                                                     13
+                                                                1 vided in the application submitted under this section, and
+                                                                2 the expiration date of the renewed license, as provided in
+                                                                3 section 103(c)(5).
+                                                                4     SEC. 105. REVOCATION OF LICENSE.
+
+                                                                5               (a) IN GENERAL.—If an individual to whom a license
+                                                                6 has been issued under this title subsequently becomes a
+                                                                7 person who is prohibited by subsection (g) or (n) of section
+                                                                8 922 of title 18, United States Code, from receiving a fire-
+                                                              109 arm—                 (1) the license is revoked; and
+                                                              11                         (2) the individual shall promptly return the li-
+                                                              12                cense to the Attorney General.
+                                                              13                (b) ADMINISTRATIVE ACTION.—Upon receipt by the
+                                                              14 Attorney General of notice that an individual to whom a
+                                                              15 license has been issued under this title has become a per-
+                                                              16 son described in subsection (a), the Attorney General shall
+                                                              17 ensure that the individual promptly returns the license to
+                                                              18 the Attorney General.
+                                                              19          TITLE II—RECORD OF SALE OR
+                                                              20                   TRANSFER
+                                                              21      SEC. 201. SALE OR TRANSFER REQUIREMENTS FOR QUALI-
+                                                              22                              FYING FIREARMS.
+                                                              23                Section 922 of title 18, United States Code, as
+                                                              24 amended by section 101 of this Act, is amended by adding
+jbell on DSK7SPTVN1PROD with                                  25 at the end the following:
+                                                                           •HR 34 IH
+
+                                                                                                                     14
+                                                                1               ‘‘(bb) UNAUTHORIZED SALE                                  OR     TRANSFER    OF A
+                                                                2 QUALIFYING FIREARM.—It shall be unlawful for any per-
+                                                                3 son to sell, deliver, or otherwise transfer a qualifying fire-
+                                                                4 arm to, or for, any person who is not a licensed importer,
+                                                                5 licensed manufacturer, licensed dealer, or licensed col-
+                                                                6 lector, or to receive a qualifying firearm from a person
+                                                                7 who is not a licensed importer, licensed manufacturer, li-
+                                                                8 censed dealer, or licensed collector, unless, at the time and
+                                                                9 place of the transfer or receipt—
+                                                              10                         ‘‘(1) the transferee presents to a licensed dealer
+                                                              11                a valid firearm license issued to the transferee—
+                                                              12                                  ‘‘(A) under title I of Blair Holt’s Firearm
+                                                              13                         Licensing and Record of Sale Act of 2013; or
+                                                              14                                  ‘‘(B) pursuant to a State firearm licensing
+                                                              15                         and record of sale system certified under sec-
+                                                              16                         tion 602 of Blair Holt’s Firearm Licensing and
+                                                              17                         Record of Sale Act of 2013 established by the
+                                                              18                         State in which the transfer or receipt occurs;
+                                                              19                         ‘‘(2) the licensed dealer contacts the Attorney
+                                                              20                General or the head of the State agency that admin-
+                                                              21                isters the certified system described in paragraph
+                                                              22                (1)(B), as applicable, and receives notice that the
+                                                              23                transferee has been issued a firearm license de-
+                                                              24                scribed in paragraph (1) and that the license re-
+                                                              25
+jbell on DSK7SPTVN1PROD with
+
+
+
+
+                                                                                mains valid; and
+
+
+                                                                           •HR 34 IH
+
+                                                                                                                     15
+                                                                1                        ‘‘(3) the licensed dealer records on a document
+                                                                2               (which, in the case of a sale, shall be the sales re-
+                                                                3               ceipt) a tracking authorization number provided by
+                                                                4               the Attorney General or the head of the State agen-
+                                                                5               cy, as applicable, as evidence that the licensed dealer
+                                                                6               has verified the validity of the license.’’.
+                                                                7     SEC. 202. FIREARM RECORDS.
+
+                                                                8               (a) SUBMISSION OF SALE OR TRANSFER REPORTS.—
+                                                                9 Not later than 14 days after the date on which the trans-
+                                                              10 fer of qualifying firearm is processed by a licensed dealer
+                                                              11 under section 922(bb) of title 18, United States Code (as
+                                                              12 added by section 201 of this Act), the licensed dealer shall
+                                                              13 submit to the Attorney General (or, in the case of a li-
+                                                              14 censed dealer located in a State that has a State firearm
+                                                              15 licensing and record of sale system certified under section
+                                                              16 602 of this Act, to the head of the State agency that ad-
+                                                              17 ministers that system) a report of that transfer, which
+                                                              18 shall include information relating to—
+                                                              19                         (1) the manufacturer of the firearm;
+                                                              20                         (2) the model name or number of the firearm;
+                                                              21                         (3) the serial number of the firearm;
+                                                              22                         (4) the date on which the firearm was received
+                                                              23                by the transferee;
+                                                              24                         (5) the number of a valid firearm license issued
+                                                              25
+jbell on DSK7SPTVN1PROD with
+
+
+
+
+                                                                                to the transferee under title I of this Act; and
+
+
+                                                                           •HR 34 IH
+
+                                                                                                                     16
+                                                                1                        (6) the name and address of the individual who
+                                                                2               transferred the firearm to the transferee.
+                                                                3               (b) FEDERAL RECORD                         OF    SALE SYSTEM.—Not later
+                                                                4 than 9 months after the date of the enactment of this Act,
+                                                                5 the Attorney General shall establish and maintain a Fed-
+                                                                6 eral record of sale system, which shall include the informa-
+                                                                7 tion included in each report submitted to the Attorney
+                                                                8 General under subsection (a).
+                                                                9               (c) ELIMINATION                   OF     PROHIBITION                   ON    ESTABLISH-
+                                                              10      MENT OF             SYSTEM         OF     REGISTRATION.—Section 926(a) of
+                                                              11 title 18, United States Code, is amended by striking the
+                                                              12 second sentence.
+                                                              13                       TITLE III—ADDITIONAL
+                                                              14                           PROHIBITIONS
+                                                              15      SEC. 301. UNIVERSAL BACKGROUND CHECK REQUIRE-
+                                                              16                              MENT.
+                                                              17                Section 922 of title 18, United States Code, as
+                                                              18 amended by sections 101 and 201 of this Act, is amended
+                                                              19 by adding at the end the following:
+                                                              20                ‘‘(cc) UNIVERSAL BACKGROUND CHECK REQUIRE-
+                                                              21      MENT.—
+
+                                                              22                         ‘‘(1) REQUIREMENT.—Except as provided in
+                                                              23                paragraph (2), it shall be unlawful for any person
+                                                              24                other than a licensed importer, licensed manufac-
+                                                              25
+jbell on DSK7SPTVN1PROD with
+
+
+
+
+                                                                                turer, licensed dealer, or licensed collector to sell, de-
+
+
+                                                                           •HR 34 IH
+
+                                                                                                                     17
+                                                                1               liver, or otherwise transfer a firearm to any person
+                                                                2               other than such a licensee, unless the transfer is
+                                                                3               processed through a licensed dealer in accordance
+                                                                4               with subsection (t).
+                                                                5                        ‘‘(2) EXCEPTION.—Paragraph (1) shall not
+                                                                6               apply to the infrequent transfer of a firearm by gift,
+                                                                7               bequest, intestate succession or other means by an
+                                                                8               individual to a parent, child, grandparent, or grand-
+                                                                9               child of the individual, or to any loan of a firearm
+                                                              10                for any lawful purpose for not more than 30 days
+                                                              11                between persons who are personally known to each
+                                                              12                other.’’.
+                                                              13      SEC. 302. FAILURE TO MAINTAIN OR PERMIT INSPECTION
+                                                              14                              OF RECORDS.
+                                                              15                Section 922 of title 18, United States Code, as
+                                                              16 amended by sections 101, 201, and 301 of this Act, is
+                                                              17 amended by adding at the end the following:
+                                                              18                ‘‘(dd) FAILURE TO MAINTAIN                                 OR     PERMIT INSPEC-
+                                                              19      TION OF            RECORDS.—It shall be unlawful for a licensed
+                                                              20 manufacturer or a licensed dealer to fail to comply with
+                                                              21 section 202 of Blair Holt’s Handgun Licensing and
+                                                              22 Record of Sale Act of 2013, or to maintain such records
+                                                              23 or supply such information as the Attorney General may
+                                                              24 require in order to ascertain compliance with such Act and
+jbell on DSK7SPTVN1PROD with                                  25 the regulations and orders issued under such Act.’’.
+                                                                           •HR 34 IH
+
+                                                                                                                     18
+                                                                1     SEC. 303. FAILURE TO REPORT LOSS OR THEFT OF FIRE-
+                                                                2                             ARM.
+                                                                3               Section 922 of title 18, United States Code, as
+                                                                4 amended by sections 101, 201, 301, and 302 of this Act,
+                                                                5 is amended by adding at the end the following:
+                                                                6               ‘‘(ee) FAILURE TO REPORT LOSS                                          OR    THEFT    OF
+                                                                7 FIREARM.—It shall be unlawful for any person who owns
+                                                                8 a qualifying firearm to fail to report the loss or theft of
+                                                                9 the firearm to the Attorney General within 72 hours after
+                                                              10 the loss or theft is discovered.’’.
+                                                              11      SEC. 304. FAILURE TO PROVIDE NOTICE OF CHANGE OF AD-
+                                                              12                              DRESS.
+                                                              13                Section 922 of title 18, United States Code, as
+                                                              14 amended by sections 101, 201, 301, 302, and 303 of this
+                                                              15 Act, is amended by adding at the end the following:
+                                                              16                ‘‘(ff) FAILURE TO PROVIDE NOTICE                                       OF    CHANGE   OF
+                                                              17 ADDRESS.—It shall be unlawful for any individual to
+                                                              18 whom a firearm license has been issued under title I of
+                                                              19 Blair Holt’s Firearm Licensing and Record of Sale Act
+                                                              20 of 2013 to fail to report to the Attorney General a change
+                                                              21 in the address of that individual within 60 days of that
+                                                              22 change of address.’’.
+                                                              23      SEC. 305. CHILD ACCESS PREVENTION.
+                                                              24                Section 922 of title 18, United States Code, as
+jbell on DSK7SPTVN1PROD with                                  25 amended by sections 101, 201, 301, 302, 303, and 304
+                                                              26 of this Act, is amended by adding at the end the following:
+                                                                           •HR 34 IH
+
+                                                                                                                     19
+                                                                1               ‘‘(gg) CHILD ACCESS PREVENTION.—
+                                                                2                        ‘‘(1) DEFINITION                     OF       CHILD.—In             this sub-
+                                                                3               section, the term ‘child’ means an individual who has
+                                                                4               not attained the age of 18 years.
+                                                                5                        ‘‘(2) PROHIBITION                  AND PENALTIES.—Except                   as
+                                                                6               provided in paragraph (3), it shall be unlawful for
+                                                                7               any person to keep a loaded firearm, or an unloaded
+                                                                8               firearm and ammunition for the firearm, any one of
+                                                                9               which has been shipped or transported in interstate
+                                                              10                or foreign commerce, within any premises that is
+                                                              11                under the custody or control of that person, if—
+                                                              12                                  ‘‘(A) that person—
+                                                              13                                          ‘‘(i) knows, or recklessly disregards
+                                                              14                                  the risk, that a child is capable of gaining
+                                                              15                                  access to the firearm; and
+                                                              16                                          ‘‘(ii) either—
+                                                              17                                                   ‘‘(I) knows, or recklessly dis-
+                                                              18                                          regards the risk, that a child will use
+                                                              19                                          the firearm to cause the death of, or
+                                                              20                                          serious bodily injury (as defined in
+                                                              21                                          section 1365 of this title) to, the child
+                                                              22                                          or any other person; or
+                                                              23                                                   ‘‘(II) knows, or reasonably should
+jbell on DSK7SPTVN1PROD with                                  24                                          know, that possession of the firearm
+                                                                           •HR 34 IH
+
+                                                                                                                     20
+                                                                1                                         by a child is unlawful under Federal
+                                                                2                                         or State law; and
+                                                                3                                 ‘‘(B) a child uses the firearm and the use
+                                                                4                        of that firearm causes the death of, or serious
+                                                                5                        bodily injury to, the child or any other person.
+                                                                6                        ‘‘(3) EXCEPTIONS.—Paragraph (2) shall not
+                                                                7               apply if—
+                                                                8                                 ‘‘(A) at the time the child obtained access,
+                                                                9                        the firearm was secured with a secure gun stor-
+                                                              10                         age or safety device;
+                                                              11                                  ‘‘(B) the person is a peace officer, a mem-
+                                                              12                         ber of the Armed Forces, or a member of the
+                                                              13                         National Guard, and the child obtains the fire-
+                                                              14                         arm during, or incidental to, the performance of
+                                                              15                         the official duties of the person in that capacity;
+                                                              16                                  ‘‘(C) the child uses the firearm in a lawful
+                                                              17                         act of self-defense or defense of one or more
+                                                              18                         other persons; or
+                                                              19                                  ‘‘(D) the person has no reasonable expecta-
+                                                              20                         tion,       based          on        objective            facts     and   cir-
+                                                              21                         cumstances, that a child is likely to be present
+jbell on DSK7SPTVN1PROD with                                  22                         on the premises on which the firearm is kept.’’.
+                                                                           •HR 34 IH
+
+                                                                1                 TITLE IV—ENFORCEMENT             21
+                                                                2     SEC. 401. CRIMINAL PENALTIES.
+
+                                                                3               (a) FAILURE TO POSSESS FIREARM LICENSE; FAIL-
+                                                                4     URE       TO COMPLY WITH QUALIFYING FIREARM SALE                                       OR
+                                                                5 TRANSFER REQUIREMENTS; FAILURE TO MAINTAIN                                                 OR
+                                                                6 PERMIT INSPECTION                             OF       RECORDS.—Section 924(a) of
+                                                                7 title 18, United States Code, is amended by adding at the
+                                                                8 end the following:
+                                                                9               ‘‘(8) Whoever knowingly violates subsection (aa),
+                                                              10 (bb), or (dd) of section 922 shall be fined under this title,
+                                                              11 imprisoned not more than 2 years, or both.’’.
+                                                              12                (b) FAILURE TO COMPLY WITH UNIVERSAL BACK-
+                                                              13      GROUND            CHECKS; FAILURE TO TIMELY REPORT LOSS OR
+                                                              14 THEFT                 OF A       QUALIFYING FIREARM; FAILURE TO PRO-
+                                                              15      VIDE             NOTICE         OF        CHANGE               OF       ADDRESS.—Section
+                                                              16 924(a)(5) of such title is amended by striking ‘‘(s) or (t)’’
+                                                              17 and inserting ‘‘(t), (cc), (ee), or (ff)’’.
+                                                              18                (c) CHILD ACCESS PREVENTION.—Section 924(a) of
+                                                              19 such title, as amended by subsection (a) of this section,
+                                                              20 is amended by adding at the end the following:
+                                                              21                ‘‘(9) Whoever violates section 105(a)(2) of Blair
+                                                              22 Holt’s Handgun Licensing and Record of Sale Act of
+                                                              23 2013, knowingly or having reason to believe that the per-
+jbell on DSK7SPTVN1PROD with                                  24 son is prohibited by subsection (g) or (n) of section 922
+                                                              25 of title 18, United States Code, from receiving a firearm,
+
+
+                                                                           •HR 34 IH
+
+                                                                                                                     22
+                                                                1 shall be fined under this title, imprisoned not more than
+                                                                2 10 years, or both.
+                                                                3               ‘‘(10) Whoever violates section 922(gg) shall be fined
+                                                                4 under this title, imprisoned not more than 5 years, or
+                                                                5 both.’’.
+                                                                6     SEC. 402. REGULATIONS.
+
+                                                                7               (a) IN GENERAL.—The Attorney General shall issue
+                                                                8 regulations governing the licensing of possessors of quali-
+                                                                9 fying firearms and the recorded sale of qualifying fire-
+                                                              10 arms, consistent with this Act and the amendments made
+                                                              11 by this Act, as the Attorney General determines to be rea-
+                                                              12 sonably necessary to reduce or prevent deaths or injuries
+                                                              13 resulting from qualifying firearms, and to assist law en-
+                                                              14 forcement in the apprehension of owners or users of quali-
+                                                              15 fying firearms used in criminal activity.
+                                                              16                (b) MAXIMUM INTERVAL BETWEEN ISSUANCE                                        OF
+                                                              17 PROPOSED AND FINAL REGULATION.—Not later than 120
+                                                              18 days after the date on which the Attorney General issues
+                                                              19 a proposed regulation under subsection (a) with respect
+                                                              20 to a matter, the Attorney General shall issue a final regu-
+                                                              21 lation with respect to the matter.
+                                                              22      SEC. 403. INSPECTIONS.
+                                                              23                In order to ascertain compliance with this Act, the
+                                                              24 amendments made by this Act, and the regulations and
+jbell on DSK7SPTVN1PROD with                                  25 orders issued under this Act, the Attorney General may,
+                                                                           •HR 34 IH
+
+                                                                                                                     23
+                                                                1 during regular business hours, enter any place in which
+                                                                2 firearms or firearm products are manufactured, stored, or
+                                                                3 held, for distribution in commerce, and inspect those areas
+                                                                4 where the products are so manufactured, stored, or held.
+                                                                5     SEC. 404. ORDERS.
+                                                                6               The Attorney General may issue an order prohibiting
+                                                                7 the sale or transfer of any firearm that the Attorney Gen-
+                                                                8 eral finds has been transferred or distributed in violation
+                                                                9 of this Act, an amendment made by this Act, or a regula-
+                                                              10 tion issued under this Act.
+                                                              11      SEC. 405. INJUNCTIVE ENFORCEMENT.
+                                                              12                The Attorney General may bring an action to restrain
+                                                              13 any violation of this Act or an amendment made by this
+                                                              14 Act in the district court of the United States for any dis-
+                                                              15 trict in which the violation has occurred, or in which the
+                                                              16 defendant is found or transacts business.
+                                                              17            TITLE V—FIREARM INJURY
+                                                              18          INFORMATION AND RESEARCH
+                                                              19      SEC. 501. DUTIES OF THE ATTORNEY GENERAL.
+
+                                                              20                (a) IN GENERAL.—The Attorney General shall—
+                                                              21                         (1) establish and maintain a firearm injury in-
+                                                              22                formation clearinghouse to collect, investigate, ana-
+                                                              23                lyze, and disseminate data and information relating
+                                                              24                to the causes and prevention of death and injury as-
+                                                              25
+jbell on DSK7SPTVN1PROD with
+
+
+
+
+                                                                                sociated with firearms;
+
+
+                                                                           •HR 34 IH
+
+                                                                                                                     24
+                                                                1                        (2) conduct continuing studies and investiga-
+                                                                2               tions of firearm-related deaths and injuries; and
+                                                                3                        (3) collect and maintain current production and
+                                                                4               sales figures for each licensed manufacturer.
+                                                                5               (b) AVAILABILITY                    OF     INFORMATION.—Periodically,
+                                                                6 but not less frequently than annually, the Attorney Gen-
+                                                                7 eral shall report to the Congress and make available to
+                                                                8 the public a report on the activities of the Attorney Gen-
+                                                                9 eral under subsection (a).
+                                                              10             TITLE VI—EFFECT ON STATE
+                                                              11                       LAW
+                                                              12      SEC. 601. EFFECT ON STATE LAW.
+
+                                                              13                (a) IN GENERAL.—This Act and the amendments
+                                                              14 made by this Act may not be construed to preempt any
+                                                              15 provision of the law of any State or political subdivision
+                                                              16 of that State, or prevent a State or political subdivision
+                                                              17 of that State from enacting any provision of law regulating
+                                                              18 or prohibiting conduct with respect to firearms, except to
+                                                              19 the extent that the provision of law is inconsistent with
+                                                              20 any provision of this Act or an amendment made by this
+                                                              21 Act, and then only to the extent of the inconsistency.
+                                                              22                (b) RULE              OF      INTERPRETATION.—A provision of
+                                                              23 State law is not inconsistent with this Act or an amend-
+                                                              24 ment made by this Act if the provision imposes a regula-
+jbell on DSK7SPTVN1PROD with                                  25 tion or prohibition of greater scope or a penalty of greater
+                                                                           •HR 34 IH
+
+                                                                                                                     25
+                                                                1 severity than a corresponding prohibition or penalty im-
+                                                                2 posed by this Act or an amendment made by this Act.
+                                                                3     SEC. 602. CERTIFICATION OF STATE FIREARM LICENSING
+                                                                4                             SYSTEMS AND STATE FIREARM RECORD OF
+                                                                5                             SALE SYSTEMS.
+                                                                6               Upon a written request of the chief executive officer
+                                                                7 of a State, the Attorney General may certify—
+                                                                8                        (1) a firearm licensing system established by a
+                                                                9               State, if State law requires the system to satisfy the
+                                                              10                requirements applicable to the Federal firearm li-
+                                                              11                censing system established under title I; or
+                                                              12                         (2) a firearm record of sale system established
+                                                              13                by a State, if State law requires the head of the
+                                                              14                State agency that administers the system to submit
+                                                              15                to the Federal firearm record of sale system estab-
+                                                              16                lished under section 202(b) a copy of each report
+                                                              17                submitted to the head of the agency under section
+                                                              18                202(a), within 7 days after receipt of the report.
+                                                              19            TITLE VII—RELATIONSHIP TO
+                                                              20                    OTHER LAW
+                                                              21      SEC. 701. SUBORDINATION TO ARMS EXPORT CONTROL
+                                                              22                              ACT.
+                                                              23                In the event of any conflict between any provision of
+                                                              24 this Act or an amendment made by this Act, and any pro-
+jbell on DSK7SPTVN1PROD with                                  25 vision of the Arms Export Control Act (22 U.S.C. 2751),
+                                                                           •HR 34 IH
+
+                                                                                                                     26
+                                                                1 the provision of the Arms Export Control Act shall con-
+                                                                2 trol.
+                                                                3           TITLE VIII—INAPPLICABILITY
+                                                                4     SEC. 801. INAPPLICABILITY TO GOVERNMENTAL AUTHORI-
+                                                                5                             TIES.
+                                                                6               This Act and the amendments made by this Act shall
+                                                                7 not apply to any department or agency of the United
+                                                                8 States, of a State, or of a political subdivision of a State,
+                                                                9 or to any official conduct of any officer or employee of
+                                                              10 such a department or agency.
+                                                              11               TITLE IX—EFFECTIVE DATE
+                                                              12      SEC. 901. EFFECTIVE DATE OF AMENDMENTS.
+                                                              13                The amendments made by this Act shall take effect
+                                                              14 1 year after the date of the enactment of this Act.
+                                                                                                                         Æ
+jbell on DSK7SPTVN1PROD with
+
+
+
+
+                                                                           •HR 34 IH
+

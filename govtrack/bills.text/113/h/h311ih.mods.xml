@@ -1,0 +1,369 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee183eb21d9">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To direct the Administrator of the Environmental Protection Agency to change the Spill Prevention, Control, and Countermeasure rule with respect to certain farms.;
+   		Farmers Undertake Environmental Land Stewardship Act;Farmers Undertake Environmental Land Stewardship Act;H.R. 311 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-03-19</dateIngested>
+</extension>
+<titleInfo>
+ <title>To direct the Administrator of the Environmental Protection Agency to change the Spill Prevention, Control, and Countermeasure rule with respect to certain farms.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Farmers Undertake Environmental Land Stewardship Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>FUELS Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 311 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-01-18</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>4 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee183eb21d9</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr311ih</identifier>
+<identifier type="preferred citation">H.R. 311</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h311_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr311ih/html/BILLS-113hr311ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr311ih/pdf/BILLS-113hr311ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr311ih/xml/BILLS-113hr311ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-03-19</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2013-03-19</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr311ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mr. Duncan of South Carolina</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Jones</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Lucas</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Stockman</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Terry</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Austin Scott of Georgia</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Franks of Arizona</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. McIntyre</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. King of Iowa</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Latta</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Smith of Nebraska</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Westmoreland</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Cole</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Griffin of Arkansas</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Michaud</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Carter</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Graves of Missouri</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Cramer</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Johnson of Ohio</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Thompson of Mississippi</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Peterson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Thompson of Pennsylvania</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Poe of Texas</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Transportation and Infrastructure</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr311ih</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>311</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle>Farmers Undertake Environmental Land Stewardship Act</shortTitle>
+ <shortTitle>FUELS Act</shortTitle>
+ <action date="2013-01-18">Mr. Crawford (for himself, Mr. Duncan of South Carolina, Mr. Jones, Mr. Ribble, Mr. Lucas, Mr. Stockman, Mr. Terry, Mr. Austin Scott of Georgia, Mr. Franks of Arizona, Mr. McIntyre, Mr. King of Iowa, Mr. Fincher, Mr. Hultgren, Mr. Latta, Mr. Smith of Nebraska, Mr. Denham, Mr. Westmoreland, Mr. Womack, Mr. Cole, Mr. Griffin of Arkansas, Mr. Michaud, Mr. Cassidy, Mr. Luetkemeyer, Mr. Gibbs, Mr. Carter, Mr. Graves of Missouri, Mr. Cramer, Mr. Johnson of Ohio, Mr. Thompson of Mississippi, Mr. Bucshon, Mr. Barletta, Mr. Peterson, Mr. DesJarlais, Mr. Thompson of Pennsylvania, and Mr. Poe of Texas) introduced the following bill; which was referred to the Committee on Transportation and Infrastructure</action>
+ <congCommittee authorityId="hspw00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Transportation and Infrastructure</name>
+                      <name type="authority-short">Transportation</name>
+                </congCommittee>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="SC">
+                      <name type="parsed">Mr. Duncan of South Carolina</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Jones</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Lucas</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Stockman</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Terry</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Austin Scott of Georgia</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Franks of Arizona</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. McIntyre</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="IA">
+                      <name type="parsed">Mr. King of Iowa</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Latta</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="NE">
+                      <name type="parsed">Mr. Smith of Nebraska</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Westmoreland</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Cole</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="AR">
+                      <name type="parsed">Mr. Griffin of Arkansas</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Michaud</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Carter</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="MO">
+                      <name type="parsed">Mr. Graves of Missouri</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Cramer</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="OH">
+                      <name type="parsed">Mr. Johnson of Ohio</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="MS">
+                      <name type="parsed">Mr. Thompson of Mississippi</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Peterson</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Thompson of Pennsylvania</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Poe of Texas</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

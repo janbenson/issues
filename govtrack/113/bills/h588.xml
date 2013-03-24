@@ -1,0 +1,94 @@
+<bill session="113" type="h" number="588" updated="2013-03-21T06:15:51-04:00">
+  <state datetime="2013-03-20">REPORTED</state>
+  <status>
+    <unknown datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-02-06"/>
+  <titles>
+    <title as="introduced" type="short">Vietnam Veterans Donor Acknowledgment Act of 2013</title>
+    <title as="introduced" type="official">To provide for donor contribution acknowledgments to be displayed at the Vietnam Veterans Memorial Visitor Center, and for other purposes.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2013-03-12"/>
+    <cosponsor id="412502" joined="2013-03-12"/>
+    <cosponsor id="400041" joined="2013-02-06"/>
+    <cosponsor id="400057" joined="2013-03-12"/>
+    <cosponsor id="400062" joined="2013-02-06"/>
+    <cosponsor id="412517" joined="2013-03-15"/>
+    <cosponsor id="400639" joined="2013-02-06"/>
+    <cosponsor id="412271" joined="2013-02-12"/>
+    <cosponsor id="412555" joined="2013-03-12"/>
+    <cosponsor id="400100" joined="2013-02-06"/>
+    <cosponsor id="400116" joined="2013-02-12"/>
+    <cosponsor id="412532" joined="2013-02-14"/>
+    <cosponsor id="400162" joined="2013-02-06"/>
+    <cosponsor id="412278" joined="2013-02-06"/>
+    <cosponsor id="412418" joined="2013-02-06"/>
+    <cosponsor id="412454" joined="2013-02-06"/>
+    <cosponsor id="412559" joined="2013-03-15"/>
+    <cosponsor id="400211" joined="2013-03-12"/>
+    <cosponsor id="400221" joined="2013-03-12"/>
+    <cosponsor id="400630" joined="2013-03-12"/>
+    <cosponsor id="400255" joined="2013-03-12"/>
+    <cosponsor id="400259" joined="2013-03-12"/>
+    <cosponsor id="400274" joined="2013-02-12"/>
+    <cosponsor id="400279" joined="2013-03-12"/>
+    <cosponsor id="400313" joined="2013-02-06"/>
+    <cosponsor id="412306" joined="2013-03-12"/>
+    <cosponsor id="412310" joined="2013-02-06"/>
+    <cosponsor id="400344" joined="2013-02-06"/>
+    <cosponsor id="400352" joined="2013-02-14"/>
+    <cosponsor id="412312" joined="2013-02-12"/>
+    <cosponsor id="400361" joined="2013-02-14"/>
+    <cosponsor id="412219" joined="2013-02-06"/>
+    <cosponsor id="412581" joined="2013-03-15"/>
+    <cosponsor id="412317" joined="2013-03-12"/>
+    <cosponsor id="400415" joined="2013-02-06"/>
+    <cosponsor id="412214" joined="2013-03-12"/>
+    <cosponsor id="412255" joined="2013-03-12"/>
+    <cosponsor id="400435" joined="2013-02-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-06">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-02-21">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Subcommittee Hearings Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-03-20">
+      <text>Subcommittee on Public Lands and Environmental Regulation Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-03-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2013-03-20">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, In Committee"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Asia"/>
+    <term name="District of Columbia"/>
+    <term name="Military history"/>
+    <term name="Monuments and memorials"/>
+    <term name="Veterans' organizations and recognition"/>
+    <term name="Vietnam"/>
+  </subjects>
+  <amendments/>
+  <summary>2/6/2013--Introduced.
+Vietnam Veterans Donor Acknowledgment Act of 2013 - Directs the Secretary of the Interior to allow the Vietnam Veterans Memorial Fund, Inc. (Fund) to acknowledge donor contributions to the Vietnam Veterans Memorial Visitor Center by displaying, inside the Center, an appropriate statement or credit. Requires the Fund to: (1) bear all display expenses; and (2) prior to such display, submit to the Secretary for approval a display plan. Requires the Secretary to approve such plan if it: (1) allows only short, discrete, and unobtrusive acknowledgments or credits; (2) does not permit any advertising slogans or company logos; and (3) conforms to applicable National Park Service guidelines for indoor recognition. Allows the Fund, if a plan is not approved, to resubmit a revised plan.</summary>
+</bill>

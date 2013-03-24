@@ -1,0 +1,244 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee183eb5785">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To clarify the National Credit Union Administration authority to improve credit union safety and soundness.;
+   		Capital Access for Small Businesses and Jobs Act;H.R. 719 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-03-19</dateIngested>
+</extension>
+<titleInfo>
+ <title>To clarify the National Credit Union Administration authority to improve credit union safety and soundness.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Capital Access for Small Businesses and Jobs Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 719 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-02-14</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>4 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee183eb5785</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr719ih</identifier>
+<identifier type="preferred citation">H.R. 719</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h719_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr719ih/html/BILLS-113hr719ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr719ih/pdf/BILLS-113hr719ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr719ih/xml/BILLS-113hr719ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-03-19</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2013-03-19</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr719ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mr. King of New York</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Sherman</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Bishop of New York</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Hanna</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Jones</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Loebsack</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Meeks</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Michaud</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ms. Norton</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ms. Waters</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Blumenauer</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Financial Services</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 12 Section 1751et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">12 U.S.C. 1751et seq.</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr719ih</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>719</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle>Capital Access for Small Businesses and Jobs Act</shortTitle>
+ <action date="2013-02-14">Mr. King of New York (for himself, Mr. Sherman, Ms. Bonamici, Mr. Bishop of New York, Mr. Hanna, Mr. Jones, Mr. Loebsack, Mr. Meeks, Mr. Michaud, Ms. Norton, Ms. Pingree of Maine, Mr. Polis, Mr. Posey, Ms. Waters, and Mr. Blumenauer) introduced the following bill; which was referred to the Committee on Financial Services</action>
+ <congCommittee authorityId="hsba00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Financial Services</name>
+                      <name type="authority-short">Financial Services</name>
+                </congCommittee>
+ <congMember chamber="H" congress="113" role="SPONSOR" state="NY">
+                      <name type="parsed">Mr. King of New York</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Sherman</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Bishop of New York</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Hanna</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Jones</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Loebsack</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Meeks</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Michaud</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Ms. Norton</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Ms. Waters</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Blumenauer</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="12">
+                      <section detail="et seq." number="1751"></section>
+                </USCode>
+</extension>
+</mods>

@@ -8,14 +8,17 @@
       <div class="just_for_a_border">
         <% cache("frontpage_rightside", :expires_in => 3.hours) do %>
         <div class="rightside">
-          <a class="og" href="/about/version3">Check out these features!!</a>
+          <a class="og" href="/about/version3">See New Features in OpenCongress v3!</a>
 
           <div class="congress_status">
             <h2 class="small_heading">Today in Congress<span><%= Date.today.strftime("%B %d, %Y") %></span></h2>
-            <%= session_div('house', @housesession ) %>
-            <%= session_div('senate', @senatesessions )%> 	
+            <%= session_div('house', @sessions[:house_session]) %>
+            <%= session_div('senate', @sessions[:senate_session])%>	
           </div>
-
+   <script>
+      var $j = jQuery.noConflict();
+    </script>
+    <%= javascript_include_tag 'frontpage', :debug => Rails.env.development?%>
           <div class="small_heading">
             <span><span id="popular_ul_title">Most-Viewed Bills</span>
             <ul class="tabs" id="bill_tab_select">
@@ -30,9 +33,10 @@
 
         <div id="bill_tabs">
           <% @index_tabs.each do |tab| %>
-          <div id="<%= tab[:id] %>  style="<%= tab[:style] %>>
+          <div id="<%= tab[:id] %>" style="<%= tab[:style] %>">
             <ul class="medium_bill_list">
-              <%= render :partial => tab[:partial], :collection => tab[:collection],locals => { :count_type => tab[:count_type]} %>
+              <%= render :partial => tab[:partial], :collection => tab[:collection], 
+                         :locals => { :count_type => tab[:count_type]} %>
             </ul>
             <a href="<%= tab[:link] %>" class="more_"><span>More <%= tab[:title] %></span></a>
             <div class="clear">&nbsp;</div>
@@ -118,7 +122,25 @@
     </div><!-- featured members -->
     <% end %>
 
- 
+    <div class="box01 clearfix">
+      <h3>Latest Votes</h3>
+      <ul class="latest_votes">
+        <% RollCall.latest_votes_for_unique_bills(5).each do |r| %>
+        <li>
+          <a href="<%= r.vote_url %>" title="<%= r.bill.title_full_common %>">
+            <span><%= truncate(r.bill.title_full_common, :length => 58) %></span><br />
+
+            <span class="votes"><span class="aye">Ayes</span> <%= r.ayes %>&nbsp;&nbsp;&nbsp;<span class="nay">Nays</span> <%= r.nays %></span>
+            <span class="date"><%= r.date.strftime("%b %d, %Y") %></span>
+
+            <span class="type"><%= get_result_image(r.result) %> <%= r.roll_type %></span>
+
+          </a>
+        </li>
+        <% end %>
+      </ul>	
+      <%= link_to '<span>More Recent Votes</span>'.html_safe, { :controller => 'roll_call', :action => :all}, :class => 'more_' %>
+    </div><!-- second tier -->
 
     <div id="pitch">
       <div id="home_pitch">

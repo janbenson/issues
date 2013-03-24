@@ -1,0 +1,54 @@
+<bill session="113" type="s" number="315" updated="2013-03-12T04:45:33-04:00">
+  <state datetime="2013-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-13"/>
+  </status>
+  <introduced datetime="2013-02-13"/>
+  <titles>
+    <title as="introduced" type="short">Paul D. Wellstone Muscular Dystrophy Community Assistance, Research and Education (MD-CARE) Amendments of 2013</title>
+    <title as="introduced" type="official">A bill to reauthorize and extend the Paul D. Wellstone Muscular Dystrophy Community Assistance, Research, and Education Amendments of 2008.</title>
+  </titles>
+  <sponsor id="412242"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2013-02-28"/>
+    <cosponsor id="300023" joined="2013-02-28"/>
+    <cosponsor id="300025" joined="2013-02-13"/>
+    <cosponsor id="400194" joined="2013-02-13"/>
+    <cosponsor id="412545" joined="2013-03-11"/>
+    <cosponsor id="300064" joined="2013-02-13"/>
+    <cosponsor id="300065" joined="2013-02-13"/>
+    <cosponsor id="400272" joined="2013-02-13"/>
+    <cosponsor id="300073" joined="2013-02-13"/>
+    <cosponsor id="300078" joined="2013-02-13"/>
+    <cosponsor id="400357" joined="2013-02-13"/>
+    <cosponsor id="300087" joined="2013-02-25"/>
+    <cosponsor id="400432" joined="2013-02-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-13">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="594"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cardiovascular and respiratory health"/>
+    <term name="Child health"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical education"/>
+    <term name="Medical research"/>
+    <term name="Minority health"/>
+    <term name="Musculoskeletal and skin diseases"/>
+    <term name="Research administration and funding"/>
+  </subjects>
+  <amendments/>
+</bill>

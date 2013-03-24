@@ -1,0 +1,35 @@
+<bill session="113" type="s" number="572" updated="2013-03-15T15:46:10-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend title 38, United States Code, to clarify the conditions under which certain persons may be treated as adjudicated mentally incompetent for certain purposes.</title>
+  </titles>
+  <sponsor id="400054"/>
+  <cosponsors>
+    <cosponsor id="400040" joined="2013-03-14"/>
+    <cosponsor id="300021" joined="2013-03-14"/>
+    <cosponsor id="300030" joined="2013-03-14"/>
+    <cosponsor id="300041" joined="2013-03-14"/>
+    <cosponsor id="300055" joined="2013-03-14"/>
+    <cosponsor id="400284" joined="2013-03-14"/>
+    <cosponsor id="412322" joined="2013-03-14"/>
+    <cosponsor id="300083" joined="2013-03-14"/>
+    <cosponsor id="400546" joined="2013-03-14"/>
+    <cosponsor id="400418" joined="2013-03-14"/>
+    <cosponsor id="400432" joined="2013-03-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

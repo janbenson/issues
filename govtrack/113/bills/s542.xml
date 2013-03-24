@@ -1,0 +1,28 @@
+<bill session="113" type="s" number="542" updated="2013-03-21T15:45:38-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="short">Maritime Lien Reform Act of 2013</title>
+    <title as="introduced" type="official">A bill to provide limitations on maritime liens on fishing licenses and for other purposes.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors>
+    <cosponsor id="412326" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-13">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="1147"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

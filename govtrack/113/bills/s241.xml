@@ -1,0 +1,34 @@
+<bill session="113" type="s" number="241" updated="2013-03-02T06:16:11-05:00">
+  <state datetime="2013-02-07">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-07"/>
+  </status>
+  <introduced datetime="2013-02-07"/>
+  <titles>
+    <title as="introduced" type="short">Rio Grande del Norte National Conservation Area Establishment Act</title>
+    <title as="introduced" type="official">A bill to establish the Rio Grande del Norte National Conservation Area in the State of New Mexico, and for other purposes.</title>
+  </titles>
+  <sponsor id="400413"/>
+  <cosponsors>
+    <cosponsor id="412281" joined="2013-02-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-07">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="560"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="New Mexico"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+  <summary>2/7/2013--Introduced.
+Rio Grande Del Norte National Conservation Area Establishment Act - Establishes the Rio Grande Del Norte National Conservation Area in New Mexico. Requires the Secretary of the Interior to ensure the protection of religious and cultural sites in the Conservation Area and to provide access to them by tribal members. Requires the Secretary to develop a management plan for the Conservation Area. Designates the Cerro Del Yuta Wilderness and Rio San Antonio Wilderness as wilderness and as components of the National Wilderness Preservation System.</summary>
+</bill>

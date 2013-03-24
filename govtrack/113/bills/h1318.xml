@@ -1,0 +1,77 @@
+<bill session="113" type="h" number="1318" updated="2013-03-22T04:46:47-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To provide for evidence-based and promising practices related to juvenile delinquency and criminal street gang activity prevention and intervention to help build individual, family, and community strength and resiliency to ensure that youth lead productive, safe, healthy, gang-free, and law-abiding lives.</title>
+  </titles>
+  <sponsor id="400364"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2013-03-21"/>
+    <cosponsor id="412565" joined="2013-03-21"/>
+    <cosponsor id="400030" joined="2013-03-21"/>
+    <cosponsor id="412501" joined="2013-03-21"/>
+    <cosponsor id="400041" joined="2013-03-21"/>
+    <cosponsor id="400047" joined="2013-03-21"/>
+    <cosponsor id="400048" joined="2013-03-21"/>
+    <cosponsor id="400616" joined="2013-03-21"/>
+    <cosponsor id="412517" joined="2013-03-21"/>
+    <cosponsor id="412407" joined="2013-03-21"/>
+    <cosponsor id="400073" joined="2013-03-21"/>
+    <cosponsor id="412379" joined="2013-03-21"/>
+    <cosponsor id="412221" joined="2013-03-21"/>
+    <cosponsor id="412236" joined="2013-03-21"/>
+    <cosponsor id="412272" joined="2013-03-21"/>
+    <cosponsor id="400080" joined="2013-03-21"/>
+    <cosponsor id="400093" joined="2013-03-21"/>
+    <cosponsor id="400103" joined="2013-03-21"/>
+    <cosponsor id="412263" joined="2013-03-21"/>
+    <cosponsor id="412215" joined="2013-03-21"/>
+    <cosponsor id="412327" joined="2013-03-21"/>
+    <cosponsor id="400653" joined="2013-03-21"/>
+    <cosponsor id="400162" joined="2013-03-21"/>
+    <cosponsor id="412498" joined="2013-03-21"/>
+    <cosponsor id="400170" joined="2013-03-21"/>
+    <cosponsor id="400204" joined="2013-03-21"/>
+    <cosponsor id="412199" joined="2013-03-21"/>
+    <cosponsor id="400209" joined="2013-03-21"/>
+    <cosponsor id="412543" joined="2013-03-21"/>
+    <cosponsor id="412546" joined="2013-03-21"/>
+    <cosponsor id="400233" joined="2013-03-21"/>
+    <cosponsor id="400237" joined="2013-03-21"/>
+    <cosponsor id="400240" joined="2013-03-21"/>
+    <cosponsor id="412521" joined="2013-03-21"/>
+    <cosponsor id="400263" joined="2013-03-21"/>
+    <cosponsor id="400271" joined="2013-03-21"/>
+    <cosponsor id="400661" joined="2013-03-21"/>
+    <cosponsor id="400283" joined="2013-03-21"/>
+    <cosponsor id="400289" joined="2013-03-21"/>
+    <cosponsor id="400295" joined="2013-03-21"/>
+    <cosponsor id="412506" joined="2013-03-21"/>
+    <cosponsor id="412305" joined="2013-03-21"/>
+    <cosponsor id="400333" joined="2013-03-21"/>
+    <cosponsor id="412432" joined="2013-03-21"/>
+    <cosponsor id="400350" joined="2013-03-21"/>
+    <cosponsor id="412186" joined="2013-03-21"/>
+    <cosponsor id="400403" joined="2013-03-21"/>
+    <cosponsor id="412254" joined="2013-03-21"/>
+    <cosponsor id="412522" joined="2013-03-21"/>
+    <cosponsor id="400623" joined="2013-03-21"/>
+    <cosponsor id="400422" joined="2013-03-21"/>
+    <cosponsor id="400424" joined="2013-03-21"/>
+    <cosponsor id="412412" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

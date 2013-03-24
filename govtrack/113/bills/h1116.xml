@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="1116" updated="2013-03-20T12:46:35-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="short">End the Hijacking of Shareholder Funds Act</title>
+    <title as="introduced" type="official">To require the approval of a majority of a public company's shareholders for any expenditure by that company to influence public opinion on matters not related to the company's products or services.</title>
+  </titles>
+  <sponsor id="412276"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-13">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

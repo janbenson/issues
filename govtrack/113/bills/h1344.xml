@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="1344" updated="2013-03-22T04:47:00-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 49, United States Code, to direct the Assistant Secretary of Homeland Security (Transportation Security Administration) to provide expedited air passenger screening to severely injured or disabled members of the Armed Forces and severely injured or disabled veterans, and for other purposes.</title>
+  </titles>
+  <sponsor id="412532"/>
+  <cosponsors>
+    <cosponsor id="412566" joined="2013-03-21"/>
+    <cosponsor id="412432" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

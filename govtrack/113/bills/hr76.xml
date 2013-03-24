@@ -1,0 +1,38 @@
+<bill session="113" type="hr" number="76" updated="2013-03-20T04:46:07-04:00">
+  <state datetime="2013-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-15"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the House of Representatives that the United States and the European Union should pursue a Transatlantic Trade and Investment Partnership.</title>
+  </titles>
+  <sponsor id="412303"/>
+  <cosponsors>
+    <cosponsor id="400636" joined="2013-03-04"/>
+    <cosponsor id="412196" joined="2013-03-04"/>
+    <cosponsor id="400618" joined="2013-03-04"/>
+    <cosponsor id="412284" joined="2013-03-12"/>
+    <cosponsor id="412435" joined="2013-03-04"/>
+    <cosponsor id="400218" joined="2013-03-04"/>
+    <cosponsor id="400656" joined="2013-03-12"/>
+    <cosponsor id="400654" joined="2013-03-12"/>
+    <cosponsor id="400283" joined="2013-03-04"/>
+    <cosponsor id="400291" joined="2013-02-15"/>
+    <cosponsor id="412308" joined="2013-03-12"/>
+    <cosponsor id="412202" joined="2013-03-05"/>
+    <cosponsor id="400367" joined="2013-03-12"/>
+    <cosponsor id="412461" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-15">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

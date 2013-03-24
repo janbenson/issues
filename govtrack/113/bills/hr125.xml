@@ -1,0 +1,41 @@
+<bill session="113" type="hr" number="125" updated="2013-03-19T04:46:05-04:00">
+  <state datetime="2013-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-18"/>
+  </status>
+  <introduced datetime="2013-03-18"/>
+  <titles>
+    <title as="introduced" type="official">Encouraging the Navy to commission the USS Somerset (LPD-25) in Philadelphia, Pennsylvania.</title>
+  </titles>
+  <sponsor id="409888"/>
+  <cosponsors>
+    <cosponsor id="412469" joined="2013-03-18"/>
+    <cosponsor id="400047" joined="2013-03-18"/>
+    <cosponsor id="412571" joined="2013-03-18"/>
+    <cosponsor id="400648" joined="2013-03-18"/>
+    <cosponsor id="400114" joined="2013-03-18"/>
+    <cosponsor id="400130" joined="2013-03-18"/>
+    <cosponsor id="400646" joined="2013-03-18"/>
+    <cosponsor id="400147" joined="2013-03-18"/>
+    <cosponsor id="412465" joined="2013-03-18"/>
+    <cosponsor id="412468" joined="2013-03-18"/>
+    <cosponsor id="412466" joined="2013-03-18"/>
+    <cosponsor id="400285" joined="2013-03-18"/>
+    <cosponsor id="412569" joined="2013-03-18"/>
+    <cosponsor id="400320" joined="2013-03-18"/>
+    <cosponsor id="412570" joined="2013-03-18"/>
+    <cosponsor id="400647" joined="2013-03-18"/>
+    <cosponsor id="412317" joined="2013-03-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-18">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

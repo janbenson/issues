@@ -1,0 +1,37 @@
+<bill session="113" type="hr" number="130" updated="2013-03-22T04:46:05-04:00">
+  <state datetime="2013-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-03-20"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the cultural and historical significance of Nowruz and acknowledging the Cyrus Cylinder as a symbol of respect for human rights and religious tolerance.</title>
+  </titles>
+  <sponsor id="400425"/>
+  <cosponsors>
+    <cosponsor id="412547" joined="2013-03-20"/>
+    <cosponsor id="412517" joined="2013-03-20"/>
+    <cosponsor id="412258" joined="2013-03-20"/>
+    <cosponsor id="412221" joined="2013-03-20"/>
+    <cosponsor id="412272" joined="2013-03-20"/>
+    <cosponsor id="412544" joined="2013-03-21"/>
+    <cosponsor id="412263" joined="2013-03-20"/>
+    <cosponsor id="400185" joined="2013-03-20"/>
+    <cosponsor id="400251" joined="2013-03-20"/>
+    <cosponsor id="400273" joined="2013-03-20"/>
+    <cosponsor id="412202" joined="2013-03-20"/>
+    <cosponsor id="400371" joined="2013-03-20"/>
+    <cosponsor id="412259" joined="2013-03-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-20">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

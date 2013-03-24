@@ -1,0 +1,27 @@
+<bill session="113" type="h" number="1131" updated="2013-03-14T04:46:27-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 10, United States Code, to extend military commissary and exchange store privileges, without time-period limitation, to members of the Armed Forces who are involuntarily separated with a service-connected disability and also to extend such privileges to their dependents.</title>
+  </titles>
+  <sponsor id="412403"/>
+  <cosponsors>
+    <cosponsor id="412482" joined="2013-03-13"/>
+    <cosponsor id="412421" joined="2013-03-13"/>
+    <cosponsor id="412461" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-13">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

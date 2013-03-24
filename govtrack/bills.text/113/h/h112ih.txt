@@ -1,0 +1,811 @@
+                                                                                                                                                                          I
+
+
+
+
+                                                                  113TH CONGRESS
+                                                                     1ST SESSION                           H. R. 112
+                                                                      To enable States to implement integrated statewide education longitudinal
+                                                                                                   data systems.
+
+
+
+
+                                                                                IN THE HOUSE OF REPRESENTATIVES
+                                                                                                       JANUARY 3, 2013
+                                                                    Mr. HOLT        introduced the following bill; which was referred to the Committee
+                                                                                               on Education and the Workforce
+
+
+
+
+                                                                                                            A BILL
+                                                                  To enable States to implement integrated statewide education
+                                                                                   longitudinal data systems.
+                                                                    1               Be it enacted by the Senate and House of Representa-
+                                                                    2 tives of the United States of America in Congress assembled,
+                                                                    3     SECTION 1. SHORT TITLE.
+                                                                    4               This Act may be cited as the ‘‘Measuring and Evalu-
+                                                                    5 ating Trends for Reliability, Integrity, and Continued Suc-
+                                                                    6 cess (METRICS) Act of 2013’’ or the ‘‘METRICS Act’’.
+                                                                    7     SEC. 2. DEFINITIONS.
+                                                                    8               In this Act:
+smartinez on DSK5TPTVN1PROD with                                    9                        (1) ESEA             DEFINITIONS.—The                          terms ‘‘elemen-
+                                                                  10                tary school’’, ‘‘local educational agency’’, ‘‘secondary
+
+
+
+                                                                                                                             2
+                                                                    1               school’’, ‘‘Secretary’’, and ‘‘State educational agen-
+                                                                    2               cy’’ have the meanings given the terms in section
+                                                                    3               9101 of the Elementary and Secondary Education
+                                                                    4               Act of 1965 (20 U.S.C. 7801).
+                                                                    5                        (2) ALIGNED              STATEWIDE EDUCATION LONGITU-
+                                                                    6               DINAL DATA SYSTEMS.—The                                   term ‘‘aligned state-
+                                                                    7               wide education longitudinal data systems’’ means
+                                                                    8               one or more statewide data systems that house and
+                                                                    9               link the longitudinal data of individual students, in-
+                                                                  10                cluding such students’ early childhood, elementary
+                                                                  11                school, secondary school, postsecondary education,
+                                                                  12                and workforce data.
+                                                                  13                         (3) ELIGIBLE              LOCAL ENTITY.—The                           term ‘‘eligi-
+                                                                  14                ble local entity’’ means—
+                                                                  15                                  (A) a high-need local educational agency;
+                                                                  16                                  (B) a consortium of high-need local edu-
+                                                                  17                         cational agencies; or
+                                                                  18                                  (C) a high-need local educational agency or
+                                                                  19                         a consortium of high-need local educational
+                                                                  20                         agencies and an external partner.
+                                                                  21                         (4) ELIGIBLE              STATE ENTITY.—The                           term ‘‘eligi-
+                                                                  22                ble State entity’’ means a State educational agency,
+                                                                  23                which may partner with another public State agency,
+smartinez on DSK5TPTVN1PROD with                                  24                such as a State higher education agency, an early
+                                                                  25                childhood agency, a State workforce agency, or a
+
+
+                                                                               HR 112 IH
+
+                                                                                                                             3
+                                                                    1               multi-agency State group (such as a preschool
+                                                                    2               through grade 20 (P–20) council).
+                                                                    3                        (5) EXTERNAL                PARTNER.—The                       term ‘‘external
+                                                                    4               partner’’ means an entity, such as a nonprofit orga-
+                                                                    5               nization, community-based organization, local edu-
+                                                                    6               cation fund, service organization, educational service
+                                                                    7               agency, or institution of postsecondary education,
+                                                                    8               that has demonstrated expertise and effectiveness in
+                                                                    9               providing targeted support (such as data analysis,
+                                                                  10                professional development, or the provision of non-
+                                                                  11                academic support and integrated student services) to
+                                                                  12                local educational agencies, schools, or students that
+                                                                  13                leads to improved teaching, learning, and outcomes
+                                                                  14                for students, including students who are failing to
+                                                                  15                make sufficient progress to graduate in the standard
+                                                                  16                number of years or students who have dropped out
+                                                                  17                of secondary school.
+                                                                  18                         (6) HIGH-NEED                       LOCAL EDUCATIONAL AGEN-
+                                                                  19                CY.—The            term ‘‘high-need local educational agency’’
+                                                                  20                means a local educational agency—
+                                                                  21                                  (A) that serves not less than 10,000 chil-
+                                                                  22                         dren who are from families with incomes below
+smartinez on DSK5TPTVN1PROD with                                  23                         the poverty line; or
+                                                                               HR 112 IH
+
+                                                                                                                             4
+                                                                    1                                 (B) for which not less than 20 percent of
+                                                                    2                        the children served by such agency are from
+                                                                    3                        families with incomes below the poverty line.
+                                                                    4                        (7) POVERTY               LINE.—The                term ‘‘poverty line’’
+                                                                    5               means the poverty line (as defined and revised annu-
+                                                                    6               ally in accordance with section 673(2) of the Com-
+                                                                    7               munity Services Block Grant Act) applicable to a
+                                                                    8               family of the size involved.
+                                                                    9     SEC. 3. IMPROVING THE USE OF STATEWIDE LONGITU-
+                                                                  10                              DINAL DATA SYSTEMS.
+                                                                  11                (a) GRANTS AUTHORIZED.—From the funds appro-
+                                                                  12 priated under section 8 for a fiscal year, the Secretary
+                                                                  13 shall award grants, on a competitive basis, to eligible State
+                                                                  14 entities to enable such eligible State entities to improve
+                                                                  15 access to, sharing of, and use of education data to improve
+                                                                  16 student outcomes.
+                                                                  17                (b) DURATION.—Each grant awarded under this sec-
+                                                                  18 tion shall be for a period of not more than 5 years.
+                                                                  19                (c) APPLICATIONS.—
+                                                                  20                         (1) CONTENTS                OF APPLICATION.—Each                      eligible
+                                                                  21                State entity that desires to receive a grant under
+                                                                  22                this section shall submit an application to the Sec-
+                                                                  23                retary at such time, in such manner, and containing
+smartinez on DSK5TPTVN1PROD with                                  24                such information as the Secretary may reasonably
+                                                                  25                require. Such application shall include the following:
+
+
+                                                                               HR 112 IH
+
+                                                                                                                             5
+                                                                    1                                 (A) A list of State agencies whose coopera-
+                                                                    2                        tion will be necessary for the implementation of
+                                                                    3                        the grant program, and an assurance of sup-
+                                                                    4                        port from—
+                                                                    5                                         (i) each such agency;
+                                                                    6                                         (ii) the chief State school officer;
+                                                                    7                                         (iii) the Governor of the State; and
+                                                                    8                                         (iv) any other entity that will com-
+                                                                    9                                 prise the eligible State entity.
+                                                                  10                                  (B) A description of the State’s status re-
+                                                                  11                         lating to each priority activity described in sub-
+                                                                  12                         section (e)(2), including—
+                                                                  13                                          (i) a demonstration that the State has
+                                                                  14                                  implemented the priority activity;
+                                                                  15                                          (ii) a demonstration that the State
+                                                                  16                                  has, at the time of the application, received
+                                                                  17                                  funding from another source and made
+                                                                  18                                  plans for the implementation of the pri-
+                                                                  19                                  ority activity; or
+                                                                  20                                          (iii) a statement that the State has
+                                                                  21                                  not, at the time of the application, imple-
+                                                                  22                                  mented, or received funds to implement,
+                                                                  23                                  the priority activity.
+smartinez on DSK5TPTVN1PROD with                                  24                                  (C) For each priority activity whose status
+                                                                  25                         is categorized under subparagraph (B)(iii), a
+
+
+                                                                               HR 112 IH
+
+                                                                                                                             6
+                                                                    1                        description of how the eligible State entity plans
+                                                                    2                        to use grant funds under this section to carry
+                                                                    3                        out such activity.
+                                                                    4                                 (D) A description of how the eligible State
+                                                                    5                        entity plans to use grant funds to carry out the
+                                                                    6                        permissible activities described in subsection
+                                                                    7                        (e)(3), if the eligible State entity—
+                                                                    8                                         (i) categorizes the status of many of
+                                                                    9                                 the priority activities described in sub-
+                                                                  10                                  section (e)(2) under clause (i) or (ii) of
+                                                                  11                                  subparagraph (B); and
+                                                                  12                                          (ii) anticipates the possibility of hav-
+                                                                  13                                  ing remaining grant funds after ensuring
+                                                                  14                                  implementation of each priority activity de-
+                                                                  15                                  scribed under subsection (e)(2).
+                                                                  16                                  (E) A description of how activities funded
+                                                                  17                         under the grant program will—
+                                                                  18                                          (i) support the State’s policy and re-
+                                                                  19                                  form goals;
+                                                                  20                                          (ii) support alignment between State
+                                                                  21                                  and local data systems; and
+                                                                  22                                          (iii) support coordination with, or
+                                                                  23                                  alignment or advancement of, related ac-
+smartinez on DSK5TPTVN1PROD with                                  24                                  tivities that are funded through other Fed-
+                                                                  25                                  eral programs, including such programs
+
+
+                                                                               HR 112 IH
+
+                                                                                                                             7
+                                                                    1                                 under section 208 of the Educational
+                                                                    2                                 Technical Assistance Act of 2002 (20
+                                                                    3                                 U.S.C. 9607), the American Recovery and
+                                                                    4                                 Reinvestment Act of 2009 (Public Law
+                                                                    5                                 111–5), the Race to the Top fund under
+                                                                    6                                 section 14006 of such Act, including the
+                                                                    7                                 Race to the Top Early Learning Challenge
+                                                                    8                                 fund under sections 14005, 14006, and
+                                                                    9                                 14013 of such Act (as amended by, and
+                                                                  10                                  subject to the requirements of, section
+                                                                  11                                  1832 of the Full-Year Continuing Appro-
+                                                                  12                                  priations Act, 2011 (Public Law 112–10)),
+                                                                  13                                  and the Workforce Data Quality Initiative
+                                                                  14                                  under section 171(c)(2) of the Workforce
+                                                                  15                                  Investment                 Act     of      1998          (29    U.S.C.
+                                                                  16                                  2916(c)(2)).
+                                                                  17                                  (F) A budget that details how grant funds
+                                                                  18                         and other funding resources, including State
+                                                                  19                         and Federal funding, will be used to carry out
+                                                                  20                         the proposed activities.
+                                                                  21                                  (G) An assurance of the State’s long-term
+                                                                  22                         financial commitment to—
+                                                                  23                                          (i)      implementing                   and          supporting
+smartinez on DSK5TPTVN1PROD with                                  24                                  aligned statewide education longitudinal
+                                                                  25                                  data systems; and
+
+
+                                                                               HR 112 IH
+
+                                                                                                                             8
+                                                                    1                                         (ii) maintaining such systems after
+                                                                    2                                 the end of the grant program.
+                                                                    3                                 (H) A description of the indicators that
+                                                                    4                        the eligible State entity will use to determine—
+                                                                    5                                         (i) if grant funds are being used effec-
+                                                                    6                                 tively; and
+                                                                    7                                         (ii) the impact of grant funds on im-
+                                                                    8                                 proving teaching, learning, and student
+                                                                    9                                 outcomes.
+                                                                  10                                  (I) Any other information that the Sec-
+                                                                  11                         retary may reasonably require.
+                                                                  12                         (2) FORM              OF APPLICATION.—In                              establishing
+                                                                  13                the application described under this subsection, the
+                                                                  14                Secretary shall, where practicable, require each eligi-
+                                                                  15                ble State entity to provide a demonstration of the
+                                                                  16                capabilities of any system that the eligible State en-
+                                                                  17                tity is, at the time of the application, using to track
+                                                                  18                data, in lieu of a description of such capabilities.
+                                                                  19                (d) AWARDING OF GRANTS.—
+                                                                  20                         (1) IN        GENERAL.—In                    awarding grants under
+                                                                  21                this section, the Secretary shall—
+                                                                  22                                  (A) use a peer review process, as described
+                                                                  23                         in paragraph (2);
+smartinez on DSK5TPTVN1PROD with                                  24                                  (B) select applications that demonstrate
+                                                                  25                         technical quality, validity, and reliability;
+
+
+                                                                               HR 112 IH
+
+                                                                                                                             9
+                                                                    1                                 (C) promote multi-state collaboration; and
+                                                                    2                                 (D) ensure that applications protect stu-
+                                                                    3                        dent and educator privacy, including through
+                                                                    4                        compliance with the requirements of Federal,
+                                                                    5                        State, and local privacy laws (including section
+                                                                    6                        444 of the General Education Provisions Act
+                                                                    7                        (commonly known as the ‘‘Family Educational
+                                                                    8                        Rights and Privacy Act of 1974’’) (20 U.S.C.
+                                                                    9                        1232g)).
+                                                                  10                         (2) PEER              REVIEW PROCESS.—The                             Secretary
+                                                                  11                shall award grants under this section through a peer
+                                                                  12                review process that, to the extent practicable, in-
+                                                                  13                cludes—
+                                                                  14                                  (A) educators;
+                                                                  15                                  (B) users and consumers of statewide lon-
+                                                                  16                         gitudinal data systems, including representa-
+                                                                  17                         tives of State educational agencies;
+                                                                  18                                  (C) individuals with demonstrated tech-
+                                                                  19                         nical expertise in data system construction, in-
+                                                                  20                         tegration, or implementation; and
+                                                                  21                                  (D) representatives of business and the
+                                                                  22                         workforce.
+                                                                  23                         (3) COMPETITIVE                      PRIORITIES.—In                   awarding
+smartinez on DSK5TPTVN1PROD with                                  24                grants under this section, the Secretary may give
+                                                                  25                priority to eligible State entities that—
+
+
+                                                                               HR 112 IH
+
+                                                                                                                         10
+                                                                    1                                 (A) propose to coordinate efforts with
+                                                                    2                        other State educational agencies;
+                                                                    3                                 (B) propose to coordinate efforts with local
+                                                                    4                        educational agencies; and
+                                                                    5                                 (C) fulfill other criteria relating to the pur-
+                                                                    6                        poses of this section, as determined by the Sec-
+                                                                    7                        retary.
+                                                                    8               (e) USES OF FUNDS.—
+                                                                    9                        (1) IN      GENERAL.—
+
+                                                                  10                                  (A) REQUIREMENT                     RELATING TO PRIORITY
+                                                                  11                         ACTIVITIES.—Each                      eligible State entity shall
+                                                                  12                         use grant funds to carry out the priority activi-
+                                                                  13                         ties described in paragraph (2), before such en-
+                                                                  14                         tity may use any remaining funds to carry out
+                                                                  15                         the permissible activities described in paragraph
+                                                                  16                         (3).
+                                                                  17                                  (B) EXCEPTION.—An eligible State entity
+                                                                  18                         is deemed to satisfy the requirements of para-
+                                                                  19                         graph (1) if such entity demonstrates that the
+                                                                  20                         State has funding for, and has in place, or has
+                                                                  21                         developed and is implementing a plan that will
+                                                                  22                         result in the existence of, aligned statewide edu-
+                                                                  23                         cation longitudinal data systems and related ac-
+smartinez on DSK5TPTVN1PROD with                                  24                         tivities that meet the requirements of para-
+                                                                  25                         graph (2).
+
+
+                                                                               HR 112 IH
+
+                                                                                                                         11
+                                                                    1                        (2) PRIORITY                ACTIVITIES.—An                      eligible State
+                                                                    2               entity receiving a grant under this section shall use
+                                                                    3               grant funds to carry out the following activities:
+                                                                    4                                 (A) Implementing aligned statewide edu-
+                                                                    5                        cation longitudinal data systems that include
+                                                                    6                        the following:
+                                                                    7                                         (i) With respect to preschool through
+                                                                    8                                 grade 12 education and postsecondary edu-
+                                                                  109                                 cation—        (I) a unique statewide student
+                                                                  11                                          identifier that does not permit a stu-
+                                                                  12                                          dent to be individually identified by
+                                                                  13                                          users of the system;
+                                                                  14                                                   (II) student-level enrollment, de-
+                                                                  15                                          mographic, and program participation
+                                                                  16                                          information;
+                                                                  17                                                   (III)        student-level                  information
+                                                                  18                                          about the points at which students
+                                                                  19                                          exit, transfer in, transfer out, drop
+                                                                  20                                          out, or complete P–16 education pro-
+                                                                  21                                          grams;
+                                                                  22                                                   (IV) the capacity to communicate
+                                                                  23                                          with higher education data systems;
+smartinez on DSK5TPTVN1PROD with                                  24                                          and
+                                                                               HR 112 IH
+
+                                                                                                                         12
+                                                                    1                                                  (V) a State data audit system as-
+                                                                    2                                         sessing data quality, validity, and reli-
+                                                                    3                                         ability.
+                                                                    4                                         (ii) With respect to preschool through
+                                                                    5                                 grade 12 education—
+                                                                    6                                                  (I) yearly test records of indi-
+                                                                    7                                         vidual students with respect to State
+                                                                    8                                         assessments under section 1111(b)(3)
+                                                                    9                                         of the Elementary and Secondary
+                                                                  10                                          Education Act of 1965 (20 U.S.C.
+                                                                  11                                          6311(b)(3));
+                                                                  12                                                   (II) information on students not
+                                                                  13                                          tested by grade and subject;
+                                                                  14                                                   (III) a teacher identifier system
+                                                                  15                                          with the ability to match teachers to
+                                                                  16                                          students;
+                                                                  17                                                   (IV) student-level transcript in-
+                                                                  18                                          formation, including information on
+                                                                  19                                          courses completed and grades earned;
+                                                                  20                                          and
+                                                                  21                                                   (V) student-level college readi-
+                                                                  22                                          ness test scores.
+                                                                  23                                          (iii) With respect to postsecondary
+smartinez on DSK5TPTVN1PROD with                                  24                                  education, data that provide—
+                                                                               HR 112 IH
+
+                                                                                                                         13
+                                                                    1                                                  (I) information regarding the ex-
+                                                                    2                                         tent to which students transition suc-
+                                                                    3                                         cessfully from secondary school to
+                                                                    4                                         postsecondary                  education,            including
+                                                                    5                                         whether students enroll in remedial
+                                                                    6                                         coursework; and
+                                                                    7                                                  (II) other information determined
+                                                                    8                                         necessary to address alignment and
+                                                                    9                                         adequate preparation for success in
+                                                                  10                                          postsecondary education.
+                                                                  11                                  (B) Establishing inter- and intra-agency
+                                                                  12                         governance strategies that define policies and
+                                                                  13                         procedures for the collection, access, and use of
+                                                                  14                         education data.
+                                                                  15                                  (C) Establishing and implementing com-
+                                                                  16                         prehensive policies and procedures to protect
+                                                                  17                         the privacy, security, and confidentiality of stu-
+                                                                  18                         dent and educator data, including—
+                                                                  19                                          (i) justifying that data being collected,
+                                                                  20                                  stored, and shared are necessary, useful,
+                                                                  21                                  accurate, and valid;
+                                                                  22                                          (ii) limiting access to personally iden-
+                                                                  23                                  tifiable information to necessary and ap-
+smartinez on DSK5TPTVN1PROD with                                  24                                  propriate individuals;
+                                                                               HR 112 IH
+
+                                                                                                                         14
+                                                                    1                                         (iii) protecting shared data from inap-
+                                                                    2                                 propriate use;
+                                                                    3                                         (iv) implementing a data security
+                                                                    4                                 framework (including regular and com-
+                                                                    5                                 prehensive training and professional devel-
+                                                                    6                                 opment) for the use, dissemination, stor-
+                                                                    7                                 age, and maintenance of data;
+                                                                    8                                         (v) providing parental and public no-
+                                                                    9                                 tice about data collection, information
+                                                                  10                                  about data policies, and information relat-
+                                                                  11                                  ing to the accessibility and use of data;
+                                                                  12                                          (vi) ensuring compliance with the re-
+                                                                  13                                  quirements of Federal, State and local pri-
+                                                                  14                                  vacy laws, including section 444 of the
+                                                                  15                                  General Education Provisions Act (com-
+                                                                  16                                  monly known as the ‘‘Family Educational
+                                                                  17                                  Rights and Privacy Act of 1974’’) (20
+                                                                  18                                  U.S.C. 1232g); and
+                                                                  19                                          (vii) aligning data policies and proce-
+                                                                  20                                  dures with best practices for data steward-
+                                                                  21                                  ship, including best practices identified by
+                                                                  22                                  the Secretary.
+                                                                  23                                  (D) Establishing the capacity to link edu-
+smartinez on DSK5TPTVN1PROD with                                  24                         cation data with workforce data.
+                                                                               HR 112 IH
+
+                                                                                                                         15
+                                                                    1                                 (E) Enabling the matching of the teacher
+                                                                    2                        identifier described in subparagraph (A)(ii)(III)
+                                                                    3                        with information about certification or licensure
+                                                                    4                        and teacher preparation programs, including
+                                                                    5                        the development of linkages with pre-service
+                                                                    6                        programs that enable the matching of teacher
+                                                                    7                        certification and preparation programs to—
+                                                                    8                                         (i) the postsecondary institutions at
+                                                                    9                                 which teachers received their training;
+                                                                  10                                          (ii) job placement;
+                                                                  11                                          (iii) retention rates; and
+                                                                  12                                          (iv) teacher impact on student aca-
+                                                                  13                                  demic achievement.
+                                                                  14                                  (F) Enabling standardization of education
+                                                                  15                         data through the use of openly developed com-
+                                                                  16                         mon education data standards.
+                                                                  17                                  (G) Providing the State with the ability to
+                                                                  18                         meet Federal reporting requirements, including
+                                                                  19                         reporting requirements under the Elementary
+                                                                  20                         and Secondary Education Act of 1965 (20
+                                                                  21                         U.S.C. 6301 et seq.), the American Recovery
+                                                                  22                         and Reinvestment Act of 2009 (Public Law
+                                                                  23                         111–5), the Carl D. Perkins Career and Tech-
+smartinez on DSK5TPTVN1PROD with                                  24                         nical Education Act of 2006 (20 U.S.C. 2301
+                                                                               HR 112 IH
+
+                                                                                                                         16
+                                                                    1                        et seq.), and the Individuals with Disabilities
+                                                                    2                        Education Act (20 U.S.C. 1400 et seq.).
+                                                                    3                        (3)       PERMISSIBLE                  ACTIVITIES.—An                 eligible
+                                                                    4               State entity receiving a grant under this section may
+                                                                    5               use remaining grant funds, after ensuring the imple-
+                                                                    6               mentation of the priority activities described in para-
+                                                                    7               graph (2), to carry out activities that—
+                                                                    8                                 (A) expand the ability of aligned statewide
+                                                                    9                        education longitudinal data systems to align
+                                                                  10                         data that covers the time a student enters pre-
+                                                                  11                         school through the time that such student grad-
+                                                                  12                         uates from secondary school or an institution of
+                                                                  13                         postsecondary education, and enters and spends
+                                                                  14                         time in the workforce;
+                                                                  15                                  (B) improve opportunities to access, ana-
+                                                                  16                         lyze, communicate about, and use data from
+                                                                  17                         aligned statewide education longitudinal data
+                                                                  18                         systems; or
+                                                                  19                                  (C) build the capacity of teachers, school
+                                                                  20                         leaders, parents, students, researchers, external
+                                                                  21                         partners, and the public to use longitudinal
+                                                                  22                         data for effective decisionmaking.
+                                                                  23                (f) SUPPLEMENT NOT SUPPLANT.—Funds made
+smartinez on DSK5TPTVN1PROD with                                  24 available under this section shall be used to supplement,
+                                                                  25 and not supplant, other State or local funds used for de-
+
+
+                                                                               HR 112 IH
+
+                                                                                                                         17
+                                                                    1 veloping integrated statewide education longitudinal data
+                                                                    2 systems linking early childhood, elementary school, sec-
+                                                                    3 ondary school, postsecondary, or workforce data.
+                                                                    4     SEC. 4. IMPROVING LOCAL USE OF DATA TO IMPROVE STU-
+                                                                    5                             DENT OUTCOMES.
+                                                                    6               (a) GRANTS AUTHORIZED.—From the funds appro-
+                                                                    7 priated under section 8 for a fiscal year, the Secretary
+                                                                    8 shall award grants, on a competitive basis, to eligible local
+                                                                    9 entities to enable educators to improve access to, sharing
+                                                                  10 of, and use of education data to improve student out-
+                                                                  11 comes.
+                                                                  12                (b) DURATION.—Each grant awarded under this sec-
+                                                                  13 tion shall be for a period of not more than 5 years.
+                                                                  14                (c) APPLICATIONS.—Each eligible local entity that
+                                                                  15 desires to receive a grant under this section shall submit
+                                                                  16 an application to the Secretary at such time, in such man-
+                                                                  17 ner, and containing such information as the Secretary may
+                                                                  18 reasonably require. Such application shall include the fol-
+                                                                  19 lowing:
+                                                                  20                         (1) A memorandum of understanding between
+                                                                  21                the State educational agency and the eligible local
+                                                                  22                entity, which shall include—
+                                                                  23                                  (A) a description of the State educational
+smartinez on DSK5TPTVN1PROD with                                  24                         agency’s level of participation in the grant;
+                                                                               HR 112 IH
+
+                                                                                                                         18
+                                                                    1                                 (B) an assurance that the State edu-
+                                                                    2                        cational agency agrees to—
+                                                                    3                                         (i) provide the eligible local entity
+                                                                    4                                 with—
+                                                                    5                                                  (I) appropriate access to student
+                                                                    6                                         data from State data systems; and
+                                                                    7                                                  (II) cooperation in efforts to
+                                                                    8                                         align local educational agency data
+                                                                    9                                         with data from State data systems;
+                                                                  10                                          and
+                                                                  11                                          (ii) provide training to the eligible
+                                                                  12                                  local entity to address the use of data col-
+                                                                  13                                  lection software, privacy policies, Federal,
+                                                                  14                                  State, and local privacy laws (including
+                                                                  15                                  section 444 of the General Education Pro-
+                                                                  16                                  visions Act (commonly known as the
+                                                                  17                                  ‘‘Family Educational Rights and Privacy
+                                                                  18                                  Act of 1974’’) (20 U.S.C. 1232g)), data
+                                                                  19                                  integrity issues, reporting, planning, and
+                                                                  20                                  processes;
+                                                                  21                                  (C) a description of the State educational
+                                                                  22                         agency’s strategy for the dissemination of infor-
+                                                                  23                         mation about the successes and challenges of
+smartinez on DSK5TPTVN1PROD with                                  24                         the grant activities under this section; and
+                                                                               HR 112 IH
+
+                                                                                                                         19
+                                                                    1                                 (D) a description of how the State will
+                                                                    2                        fund the activities described in subparagraph
+                                                                    3                        (B), including information about any grant
+                                                                    4                        funds that the eligible local entity will give to
+                                                                    5                        the State educational agency to carry out the
+                                                                    6                        activities described in such subparagraph.
+                                                                    7                        (2) A description of how the local educational
+                                                                    8               agencies that are part of the eligible local entity, and
+                                                                    9               any educators working for such agencies, submit
+                                                                  10                data to, access, and use existing statewide education
+                                                                  11                longitudinal data systems, at the time of the applica-
+                                                                  12                tion.
+                                                                  13                         (3) A description of the data systems used by
+                                                                  14                the eligible local entity at the time of the applica-
+                                                                  15                tion.
+                                                                  16                         (4) A description of how activities funded under
+                                                                  17                the grant will improve local access to, and use of,
+                                                                  18                data that is, at the time of the application, provided
+                                                                  19                by data systems at the local and State level.
+                                                                  20                         (5) A description of how the eligible local entity
+                                                                  21                will use funds received under this section to carry
+                                                                  22                out the proposed activities in order to improve teach-
+                                                                  23                ing, learning, and student outcomes.
+smartinez on DSK5TPTVN1PROD with                                  24                         (6) A mechanism for soliciting the feedback of
+                                                                  25                educators, school leaders, parents, and external part-
+
+
+                                                                               HR 112 IH
+
+                                                                                                                         20
+                                                                    1               ners in developing, revising, and implementing plans
+                                                                    2               and activities under this section.
+                                                                    3                        (7) A description of how the eligible local entity
+                                                                    4               will align the use of funds under this section with
+                                                                    5               the technology plan of each local educational agency
+                                                                    6               served under the grant.
+                                                                    7                        (8) A description of the indicators that the eli-
+                                                                    8               gible local entity will use to determine—
+                                                                    9                                 (A) if grant funds are being used effec-
+                                                                  10                         tively; and
+                                                                  11                                  (B) the impact of grant funds on improv-
+                                                                  12                         ing teaching, learning, and student outcomes.
+                                                                  13                         (9) Such other information as the Secretary
+                                                                  14                may reasonably require.
+                                                                  15                (d) AWARDING OF GRANTS.—
+                                                                  16                         (1) IN        GENERAL.—In                    awarding grants under
+                                                                  17                this section, the Secretary shall—
+                                                                  18                                  (A) use a peer review process, as described
+                                                                  19                         in paragraph (2);
+                                                                  20                                  (B) select applications that demonstrate
+                                                                  21                         technical quality, validity, and reliability; and
+                                                                  22                                  (C) protect student and educator privacy,
+                                                                  23                         consistent with the requirements of Federal,
+smartinez on DSK5TPTVN1PROD with                                  24                         State, and local privacy laws (including section
+                                                                  25                         444 of the General Education Provisions Act
+
+
+                                                                               HR 112 IH
+
+                                                                                                                         21
+                                                                    1                        (commonly known as the ‘‘Family Educational
+                                                                    2                        Rights and Privacy Act of 1974’’) (20 U.S.C.
+                                                                    3                        1232g)).
+                                                                    4                        (2) PEER               REVIEW               PROCESS.—In               awarding
+                                                                    5               grants under this section, the Secretary shall, to the
+                                                                    6               extent practicable, use a peer review process that—
+                                                                    7                                 (A) ensures technical quality, validity, and
+                                                                    8                        reliability;
+                                                                    9                                 (B) ensures that applications protect stu-
+                                                                  10                         dent and educator privacy, consistent with the
+                                                                  11                         requirements of Federal, State, and local pri-
+                                                                  12                         vacy laws (including section 444 of the General
+                                                                  13                         Education Provisions Act (commonly known as
+                                                                  14                         the Family Educational Rights and Privacy Act
+                                                                  15                         of 1974) (20 U.S.C. 1232g)); and
+                                                                  16                                  (C) includes—
+                                                                  17                                          (i) educators;
+                                                                  18                                          (ii) users and consumers of a local
+                                                                  19                                  educational data systems;
+                                                                  20                                          (iii) individuals with demonstrated
+                                                                  21                                  technical expertise in data system con-
+                                                                  22                                  struction, integration, or implementation;
+                                                                  23                                  and
+smartinez on DSK5TPTVN1PROD with                                  24                                          (iv) representatives of business and
+                                                                  25                                  the workforce.
+
+
+                                                                               HR 112 IH
+
+                                                                                                                         22
+                                                                    1                        (3) CONSIDERATIONS.—In awarding grants
+                                                                    2               under this section, the Secretary shall ensure, to the
+                                                                    3               greatest extent possible, that grants are awarded to
+                                                                    4               eligible local entities that are diverse in terms of ge-
+                                                                    5               ography, size, and location within an urban, rural,
+                                                                    6               or suburban area.
+                                                                    7               (e) USES OF FUNDS.—
+                                                                    8                        (1) REQUIRED                    USES OF FUNDS.—An                     eligible
+                                                                    9               local entity receiving a grant under this section shall
+                                                                  10                use grant funds to develop and implement a com-
+                                                                  11                prehensive plan for using data to improve teaching,
+                                                                  12                learning, and student outcomes. Such plan shall in-
+                                                                  13                clude strategies designed to—
+                                                                  14                                  (A) provide teachers, school leaders, par-
+                                                                  15                         ents, students, researchers, external partners,
+                                                                  16                         and the public with access to student education
+                                                                  17                         data in a way that ensures the quality and in-
+                                                                  18                         tegrity of data contained in data systems and
+                                                                  19                         respects student and educator privacy, including
+                                                                  20                         through compliance with the requirements of
+                                                                  21                         Federal, State, and local privacy laws (including
+                                                                  22                         section 444 of the General Education Provi-
+                                                                  23                         sions Act (20 U.S.C. 1232g));
+smartinez on DSK5TPTVN1PROD with                                  24                                  (B) regularly analyze and share appro-
+                                                                  25                         priate student data with educators, counselors,
+
+
+                                                                               HR 112 IH
+
+                                                                                                                         23
+                                                                    1                        school staff, parents, students, and external
+                                                                    2                        partners in a way that ensures the quality and
+                                                                    3                        integrity of data contained in data systems and
+                                                                    4                        respects student and educator privacy, including
+                                                                    5                        through compliance with the requirements of
+                                                                    6                        Federal, State, and local privacy laws (including
+                                                                    7                        section 444 of the General Education Provi-
+                                                                    8                        sions Act (20 U.S.C. 1232g));
+                                                                  109                        to—    (C) improve the ability of school leaders
+                                                                  11                                          (i) use student data to guide school
+                                                                  12                                  improvement efforts; and
+                                                                  13                                          (ii) support classroom use of data
+                                                                  14                                  through high-quality training and profes-
+                                                                  15                                  sional development; and
+                                                                  16                                  (D) improve the ability of teachers to ef-
+                                                                  17                         fectively use student data through on-going,
+                                                                  18                         sustainable, and high-quality professional devel-
+                                                                  19                         opment activities in order to ensure that edu-
+                                                                  20                         cators have the capacity to—
+                                                                  21                                          (i) analyze data and monitor academic
+                                                                  22                                  outcomes;
+                                                                  23                                          (ii) modify instructional activities as
+smartinez on DSK5TPTVN1PROD with                                  24                                  needed; and
+                                                                  25                                          (iii) differentiate student instructions.
+
+
+                                                                               HR 112 IH
+
+                                                                                                                         24
+                                                                    1                        (2) ALLOWABLE                   USES OF FUNDS.—An                     eligible
+                                                                    2               local entity receiving a grant under this section may
+                                                                    3               use grant funds to carry out any of the following ac-
+                                                                    4               tivities:
+                                                                    5                                 (A) Supplementing statewide longitudinal
+                                                                    6                        data systems existing at the time of the applica-
+                                                                    7                        tion by improving local data systems through—
+                                                                    8                                         (i) the collection of local data ele-
+                                                                    9                                 ments that support decisionmaking about
+                                                                  10                                  school improvement;
+                                                                  11                                          (ii) enhancing the ability of educators
+                                                                  12                                  to manage, analyze, disaggregate, or report
+                                                                  13                                  student, teacher, and school data; or
+                                                                  14                                          (iii) standardization through use of
+                                                                  15                                  openly developed common education data
+                                                                  16                                  standards.
+                                                                  17                                  (B) Using new assessment tools that pro-
+                                                                  18                         vide timely data to educators, which can be
+                                                                  19                         used to identify the learning needs of individual
+                                                                  20                         students and guide appropriate, personalized in-
+                                                                  21                         structional interventions.
+                                                                  22                                  (C) Using external partners, central office
+                                                                  23                         staff, or data specialists in order to build educa-
+smartinez on DSK5TPTVN1PROD with                                  24                         tor capacity to effectively use data to improve
+                                                                  25                         teaching and learning.
+
+
+                                                                               HR 112 IH
+
+                                                                                                                         25
+                                                                    1                                 (D) Analyzing and disseminating best
+                                                                    2                        practices, strategies, and approaches regarding
+                                                                    3                        pedagogical advancement that will leverage the
+                                                                    4                        local educational agency’s or State educational
+                                                                    5                        agency’s data system to enhance teaching and
+                                                                    6                        learning, including opportunities for individual-
+                                                                    7                        ized instruction.
+                                                                    8                                 (E) Analyzing data and realigning existing
+                                                                    9                        resources to maximize impact on student
+                                                                  10                         achievement, including the use of early warning
+                                                                  11                         data to target resources.
+                                                                  12                                  (F) Coordinating activities with other local
+                                                                  13                         agencies providing services to students.
+                                                                  14                                  (G) Coordinating activities with educator
+                                                                  15                         preparation programs in order to build edu-
+                                                                  16                         cators’ capacity to use data.
+                                                                  17      SEC. 5. NATIONAL ACTIVITIES TO SUPPORT EFFECTIVE
+                                                                  18                              DATA USE.
+                                                                  19                From the funds appropriated under section 8 for a
+                                                                  20 fiscal year, the Secretary may carry out the following na-
+                                                                  21 tional activities:
+                                                                  22                         (1) Providing technical and policy assistance to
+                                                                  23                grantees and non-grantees in order to facilitate im-
+smartinez on DSK5TPTVN1PROD with                                  24                plementation, and improve the quality of, student
+                                                                  25                longitudinal data systems, including technical assist-
+
+
+                                                                               HR 112 IH
+
+                                                                                                                         26
+                                                                    1               ance to ensure the protection of personally identifi-
+                                                                    2               able information.
+                                                                    3                        (2) Identifying or promoting activities that im-
+                                                                    4               prove data coordination, quality, and use at the na-
+                                                                    5               tional, State, and local levels (including activities
+                                                                    6               that improve the coordination, quality, and use of
+                                                                    7               education data for Indian tribes, tribal organiza-
+                                                                    8               tions, and schools operated or funded by the Bureau
+                                                                    9               of Indian Education).
+                                                                  10                         (3) Implementing innovative strategies to ad-
+                                                                  11                vance the use of data.
+                                                                  12                         (4) Conducting research on emerging trends
+                                                                  13                and challenges relating to the collection and use of
+                                                                  14                education data.
+                                                                  15                         (5) Awarding prizes (consistent with section 24
+                                                                  16                of the Stevenson-Wydler Technology Innovation Act
+                                                                  17                of 1980 (15 U.S.C. 3719)).
+                                                                  18                         (6) Providing funding to support the innovative
+                                                                  19                use of data for pilot programs, in order to identify
+                                                                  20                and promote models of effective data use in emerg-
+                                                                  21                ing areas.
+                                                                  22      SEC. 6. REPORT.
+                                                                  23                Not later than 3 years after the Secretary awards a
+smartinez on DSK5TPTVN1PROD with                                  24 grant under this Act, and annually thereafter, the Sec-
+                                                                  25 retary shall make publicly available a report on the imple-
+
+
+                                                                               HR 112 IH
+
+                                                                                                                         27
+                                                                    1 mentation, actual costs, and effectiveness of the activities
+                                                                    2 carried out through grants under this Act, including ef-
+                                                                    3 forts to protect student and educator privacy.
+                                                                    4     SEC. 7. TRANSPARENCY.
+
+                                                                    5               (a) REPORTING REQUIREMENTS.—
+                                                                    6                        (1) IN       GENERAL.—Not                    later than 1 year after
+                                                                    7               the date of enactment of this Act, the Secretary
+                                                                    8               shall make publicly available a comprehensive and
+                                                                    9               searchable description of all reporting requirements
+                                                                  10                of the Department that apply to State educational
+                                                                  11                agencies, local educational agencies, or schools. Such
+                                                                  12                description shall include, for each reporting require-
+                                                                  13                ment, the following information:
+                                                                  14                                  (A) The definition of the required data ele-
+                                                                  15                         ment or indicator.
+                                                                  16                                  (B) The purpose of the particular data col-
+                                                                  17                         lection.
+                                                                  18                                  (C) The legislative or regulatory source of
+                                                                  19                         the reporting requirement.
+                                                                  20                                  (D) The level of data (such as the State
+                                                                  21                         educational agency, local educational agency, in-
+                                                                  22                         stitution of postsecondary education, or school).
+smartinez on DSK5TPTVN1PROD with                                  23                                  (E) The mechanism of data collection.
+                                                                               HR 112 IH
+
+                                                                                                                         28
+                                                                    1                                 (F) Information about whether data relat-
+                                                                    2                        ing to the reporting requirement is publicly
+                                                                    3                        available.
+                                                                    4                        (2) UPDATES.—The Secretary shall update the
+                                                                    5               description required under subsection (a) annually.
+                                                                    6               (b) ASSURANCE.—The Secretary shall ensure that if
+                                                                    7 a new reporting requirement becomes effective, or if a re-
+                                                                    8 porting requirement is changed, on or after the date of
+                                                                    9 enactment of this Act, each State shall have not less than
+                                                                  10 90 days to comply with such requirement.
+                                                                  11      SEC. 8. AUTHORIZATION OF APPROPRIATIONS.
+                                                                  12                There are authorized to be appropriated to carry out
+                                                                  13 this Act $100,000,000 for fiscal year 2012 and such sums
+                                                                  14 as may be necessary for each succeeding fiscal year.
+                                                                                                                             Æ
+smartinez on DSK5TPTVN1PROD with
+
+
+
+
+                                                                               HR 112 IH
+

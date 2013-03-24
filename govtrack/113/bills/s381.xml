@@ -1,0 +1,50 @@
+<bill session="113" type="s" number="381" updated="2013-03-22T04:45:40-04:00">
+  <state datetime="2013-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-26"/>
+  </status>
+  <introduced datetime="2013-02-26"/>
+  <titles>
+    <title as="introduced" type="official">A bill to award a Congressional Gold Medal to the World War II members of the "Doolittle Tokyo Raiders", for outstanding heroism, valor, skill, and service to the United States in conducting the bombings of Tokyo.</title>
+  </titles>
+  <sponsor id="400050"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="2013-02-26"/>
+    <cosponsor id="400040" joined="2013-02-26"/>
+    <cosponsor id="300018" joined="2013-02-26"/>
+    <cosponsor id="412554" joined="2013-03-18"/>
+    <cosponsor id="412494" joined="2013-03-18"/>
+    <cosponsor id="300064" joined="2013-02-26"/>
+    <cosponsor id="300076" joined="2013-02-26"/>
+    <cosponsor id="300078" joined="2013-02-26"/>
+    <cosponsor id="412491" joined="2013-03-21"/>
+    <cosponsor id="412507" joined="2013-02-26"/>
+    <cosponsor id="412244" joined="2013-02-26"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-26">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1146-1147"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Asia"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Japan"/>
+    <term name="Military history"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2013--Introduced.
+Directs the President pro tempore of the Senate and the Speaker of the House of Representatives to arrange for the award, on behalf of Congress, of six gold medals in honor of the members of the 17 Bombardment Group (Medium), who became known as the Doolittle Tokyo Raiders, in recognition of their military service during World War II. Requires: (1) five of the medals to be given to the five surviving members of the April 18, 1942, Tokyo bombing mission; and (2) the remaining medal to be given to the National Museum of the United States Air Force for display. Expresses the sense of Congress that such Museum should make the medal available for display elsewhere, particularly at locations and events associated with the Doolittle Tokyo Raiders.</summary>
+</bill>

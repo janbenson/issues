@@ -1,0 +1,32 @@
+<bill session="113" type="s" number="562" updated="2013-03-15T15:46:05-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="short">Seniors Mental Health Access Improvement Act of 2013</title>
+    <title as="introduced" type="official">A bill to amend title XVIII of the Social Security Act to provide for the coverage of marriage and family therapist services and mental health counselor services under part B of the Medicare program, and for other purposes.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2013-03-14"/>
+    <cosponsor id="412325" joined="2013-03-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1855"/>
+    </action>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <reference ref="CR S1855-1856" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,32 @@
+<bill session="113" type="h" number="1258" updated="2013-03-20T04:47:25-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title as="introduced" type="official">To strengthen communities through English literacy and civics education for new Americans, and for other purposes.</title>
+  </titles>
+  <sponsor id="400185"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2013-03-19"/>
+    <cosponsor id="412215" joined="2013-03-19"/>
+    <cosponsor id="400170" joined="2013-03-19"/>
+    <cosponsor id="400237" joined="2013-03-19"/>
+    <cosponsor id="412521" joined="2013-03-19"/>
+    <cosponsor id="412312" joined="2013-03-19"/>
+    <cosponsor id="412186" joined="2013-03-19"/>
+    <cosponsor id="412522" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-19">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

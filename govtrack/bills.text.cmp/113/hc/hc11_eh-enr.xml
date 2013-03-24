@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<body status="enr" difference-size-chars="482" percent-change="59" total-changes="13" previous-status="eh">
+  <p nid="t0:enr:1">H<removed sequence="1">CON 11 EH<p/><center><p nid="t0:eh:2">113th CONGRESS</p></center><p/><center><p nid="t0:eh:3">1st Session</p></center><p/>H</removed>.C<changed sequence="2"><changed-from>ON</changed-from><changed-to>on</changed-to></changed>.R<changed sequence="3"><changed-from>ES</changed-from><changed-to>es</changed-to></changed>.11</p>
+  <p nid="t0:enr:2">
+    <removed sequence="4">
+      <hr/>
+      <p/>
+      <center>
+        <p nid="t0:eh:5">CONCURRENT RESOLUTION</p>
+      </center>
+    </removed>
+    <inserted sequence="5">Agreed to February 7, 2013</inserted>
+  </p>
+  <inserted sequence="6">
+    <p nid="t0:enr:3">
+      <em>
+        <center>
+          <p nid="t0:enr:4">One Hundred Thirteenth Congress</p>
+        </center>
+      </em>
+    </p>
+    <p nid="t0:enr:5">
+      <em>
+        <center>
+          <p nid="t0:enr:6">of the</p>
+        </center>
+      </em>
+    </p>
+    <p nid="t0:enr:7">
+      <em>
+        <center>
+          <p nid="t0:enr:8">United States of America</p>
+        </center>
+      </em>
+    </p>
+    <p nid="t0:enr:9">
+      <em>
+        <center>
+          <p nid="t0:enr:10">AT THE FIRST SESSION</p>
+        </center>
+      </em>
+    </p>
+    <p nid="t0:enr:11">Begun and held at the City of Washington on Thursday,</p>
+    <p nid="t0:enr:12">the third day of January, two thousand and thirteen</p>
+    <p nid="t0:enr:13">Concurrent Resolution</p>
+  </inserted>
+  <ul>
+    <p nid="t0:enr:14"><em>Resolved by the House of Representatives (the Senate concurring),</em> That the two Houses of Congress assemble in the Hall of the House of Representatives on Tuesday, February 12, 2013, at 9 p.m., for the purpose of receiving such communication as the President of the United States shall be pleased to make to them.</p>
+  </ul>
+  <p nid="t0:enr:15">
+    <removed sequence="7">Passed</removed>
+    <inserted sequence="8">Attest:</inserted>
+  </p>
+  <p nid="t0:enr:16"><inserted sequence="9">Clerk of</inserted> the House of Representatives<removed sequence="10">February 4, 2013.<p nid="t0:eh:8">Attest:</p><p nid="t0:eh:9">Clerk.</p><p/><center><p nid="t0:eh:10">113th CONGRESS</p></center><p/><center><p nid="t0:eh:11">1st Session</p></center><p/>H. CON</removed>.</p>
+  <p nid="t0:enr:17">
+    <removed sequence="11">RES. 11<p/><center><p nid="t0:eh:13">CONCURRENT RESOLUTION</p></center>Providing for a joint session of Congress to receive a message from the President</removed>
+    <inserted sequence="12">Attest:</inserted>
+  </p>
+  <p nid="t0:enr:18"><inserted sequence="13">Secretary of the Senate</inserted>.</p>
+</body>

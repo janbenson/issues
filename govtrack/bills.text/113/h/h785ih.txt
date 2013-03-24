@@ -1,0 +1,190 @@
+                                                                                                                                   I
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                          H. R. 785
+                                         To prevent excessive speculation in energy commodities, and for other
+                                                                       purposes.
+
+
+
+
+                                                IN THE HOUSE OF REPRESENTATIVES
+                                                             FEBRUARY 15, 2013
+                                  Mr. MARKEY (for himself, Ms. DELAURO, Ms. BORDALLO, Ms. BROWN of
+                                      Florida, Mr. CAPUANO, Ms. EDWARDS, Mr. GRIJALVA, Mr. HOLT, Ms.
+                                      LEE of California, Mr. MICHAUD, Mr. MORAN, Mr. PASCRELL, Ms.
+                                      SCHAKOWSKY, Mr. SCOTT of Virginia, Ms. SLAUGHTER, Ms. SPEIER, Mr.
+                                      TIERNEY, and Mr. WATT) introduced the following bill; which was re-
+                                      ferred to the Committee on Agriculture
+
+
+
+
+                                                                            A BILL
+                                    To prevent excessive speculation in energy commodities, and
+                                                        for other purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Halt Index Trading
+                                    5 of Energy Commodities (HITEC) Act’’.
+                                    6     SEC. 2. FINDINGS.
+                                    7              The Congress finds the following:
+
+
+
+
+
+                                                                                             2
+                                    1                        (1) Investment in our commodities markets has
+                                    2              grown dramatically in recent years. While the vol-
+                                    3              ume of futures contracts traded in the United States
+                                    4              was only 630,000,000 in 1998, that volume
+                                    5              ballooned to over 3,200,000,000 in 2007.
+                                    6                        (2) According to testimony provided to the
+                                    7              Committee on Natural Resources of the House of
+                                    8              Representatives, this growth in volume has been ac-
+                                    9              companied by a huge increase in the percentage of
+                                  10               commodity futures contracts owned by speculators.
+                                  11               While physical hedgers used to account for 70 per-
+                                  12               cent of futures contracts and speculators accounted
+                                  13               for just 30 percent, those numbers have reversed,
+                                  14               and speculators now possess 70 percent of all open
+                                  15               commodity futures contracts.
+                                  16                         (3) Almost all of this increase in speculation
+                                  17               has been caused by a surge in trading of commodity
+                                  18               index funds.
+                                  19                         (4) Commodity index trading is investing in
+                                  20               funds or other financial products which are indexed
+                                  21               to changes in value of various commodities traded on
+                                  22               commodity markets in the United States. These
+                                  23               funds can be tied to a basket of different commod-
+                                  24               ities or just to a single commodity.
+
+
+
+
+
+                                              •HR 785 IH
+
+                                                                                             3
+                                    1                        (5) Investment in funds tied to these indexes
+                                    2              has grown enormously in the last 2 decades. Accord-
+                                    3              ing to the Commodity Futures Trading Commission,
+                                    4              a partial tally of net long positions in United States
+                                    5              markets             in         these          indexes          reached          to   over
+                                    6              $160,000,000,000 in February 2012, and net long
+                                    7              positions in West Texas Intermediate Crude Oil
+                                    8              reached to over $39,000,000,000. Many of the inves-
+                                    9              tors in these funds are institutional clients, such as
+                                  10               pension funds and universities.
+                                  11                         (6) The vast majority of investors in commodity
+                                  12               index funds do not use the commodities involved.
+                                  13               These investors are only interested in profiting from
+                                  14               a rise in value of the commodities and must sell
+                                  15               their interests in the commodities before the futures
+                                  16               contracts they own close. This practice, known as
+                                  17               rolling, causes hundreds of billions of dollars of addi-
+                                  18               tional trading to flow through our commodities mar-
+                                  19               kets each month, artificially increasing the volatility
+                                  20               of our markets and driving up prices for many of
+                                  21               our commodities, including crude oil.
+                                  22                         (7) Because our commodities markets are tied
+                                  23               to the actual retail prices of our commodities, the
+                                  24               artificial and excessive levels of speculation have sig-
+
+
+
+
+                                  25               nificantly increased the retail prices our citizens pay
+                                              •HR 785 IH
+
+                                                                                             4
+                                    1              for their commodities. In the case of oil, excessive
+                                    2              speculation may have added nearly $1.00 to the per
+                                    3              gallon price of gasoline.
+                                    4                        (8) As sharp increases in energy costs reduce
+                                    5              economic growth, these commodity index funds are
+                                    6              creating a weight on the overall economy, threat-
+                                    7              ening to delay our Nation’s full recovery from the
+                                    8              2008 financial crisis and recession.
+                                    9                        (9) Thus, commodity index funds hurt economic
+                                  10               growth and consumer’s wallets.
+                                  11                         (10) In the Dodd-Frank Wall Street Reform
+                                  12               Act, Congress ordered the Commodity Futures
+                                  13               Trading Commission to limit the number of posi-
+                                  14               tions that a person or a class of persons may hold
+                                  15               in the commodities markets. Congress has taken ini-
+                                  16               tial steps to set boundaries on commodity trading,
+                                  17               but more must be done to address the role of com-
+                                  18               modity index funds in the energy commodity mar-
+                                  19               kets.
+                                  20                         (11) Because oil prices have been at elevated
+                                  21               levels for much of the last year, Congress believes
+                                  22               the situation is an emergency and warrants imme-
+                                  23               diate action to ban commodity index trading in en-
+                                  24               ergy commodities.
+
+
+
+
+
+                                              •HR 785 IH
+
+                                    1     SEC. 3. PREVENTION OF EXCESSIVE SPECULATION IN EN- 5
+                                    2                             ERGY COMMODITIES.
+                                    3              Section 4c of the Commodity Exchange Act (7 U.S.C.
+                                    4 6c) is amended by adding at the end the following:
+                                    5              ‘‘(h)(1)(A) It shall be unlawful for a commodity index
+                                    6 fund to engage in a transaction involving an energy com-
+                                    7 modity if any person investing in the fund is an excluded
+                                    8 investor.
+                                    9              ‘‘(B) It shall be unlawful for an energy commodity
+                                  10 index fund to accept an investment from a person who
+                                  11 is an excluded investor.
+                                  12               ‘‘(C) Beginning 2 years after the date of the enact-
+                                  13 ment of this subsection, it shall be unlawful for a com-
+                                  14 modity index fund to hold an investment in an energy
+                                  15 commodity if any person investing in the fund is an ex-
+                                  16 cluded investor.
+                                  17               ‘‘(2) In this subsection:
+                                  18                         ‘‘(A) The term ‘commodity index fund’ means a
+                                  19               fund that consists principally of swaps involving, or
+                                  20               contracts of sale for future delivery of, more than 1
+                                  21               commodity, the value or level of which is based, in
+                                  22               whole or in part, on the value or level of more than
+                                  23               1 commodity, and that transfers, as between the
+                                  24               parties to the transaction, in whole or in part, the
+
+
+
+
+                                  25               financial risk associated with a future change in any
+                                  26               such value or level.
+                                              •HR 785 IH
+
+                                                                                             6
+                                    1                        ‘‘(B) The term ‘energy commodity index fund’
+                                    2              means a commodity index fund that consists prin-
+                                    3              cipally of swaps involving, or contracts of sale for fu-
+                                    4              ture delivery of, more than 1 energy commodity.
+                                    5                        ‘‘(C) The term ‘energy commodity’ means crude
+                                    6              oil, natural gas, or any other product (other than an
+                                    7              agricultural commodity) that is produced or refined,
+                                    8              in whole or in part, from crude oil or natural gas
+                                    9              and that may be used as fuel for a power source of
+                                  10               any kind, but does not include electricity.
+                                  11                         ‘‘(D) The term ‘excluded investor’ means a per-
+                                  12               son with respect to whom there is no position in at
+                                  13               least 1 energy commodity which, if held by the per-
+                                  14               son, would be considered a bona fide hedging posi-
+                                  15               tion (within the meaning of section 4a(c)(1)).
+                                  16                         ‘‘(E) The term ‘swap’ shall have the meaning
+                                  17               the term would have if the provisions of title VII of
+                                  18               the Dodd-Frank Wall Street Reform and Consumer
+                                  19               Protection Act defining, and authorizing further def-
+                                  20               inition of, the term were in effect.’’.
+                                              •HR 785 IH                                   Æ

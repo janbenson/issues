@@ -1,0 +1,25 @@
+<bill session="113" type="s" number="576" updated="2013-03-15T15:46:12-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="official">A bill to reform laws relating to small public housing agencies, and for other purposes.</title>
+  </titles>
+  <sponsor id="412320"/>
+  <cosponsors>
+    <cosponsor id="412244" joined="2013-03-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

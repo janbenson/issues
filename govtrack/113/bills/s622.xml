@@ -1,0 +1,26 @@
+<bill session="113" type="s" number="622" updated="2013-03-21T09:49:19-04:00">
+  <state datetime="2013-03-20">REPORTED</state>
+  <status>
+    <unknown datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-03-20"/>
+  <titles>
+    <title as="introduced" type="official">An original bill to amend the Federal Food, Drug, and Cosmetic Act to reauthorize user fee programs relating to new animal drugs and generic new animal drugs.</title>
+  </titles>
+  <sponsor id="300051"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-03-20">
+      <text>Committee on Health, Education, Labor, and Pensions. Original measure reported to Senate by Senator Harkin. Without written report.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2013-03-20" calendar="Senate Legislative" under="General Orders" number="31">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 31.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -8,16 +8,18 @@
       <div class="just_for_a_border">
         <% cache("frontpage_rightside", :expires_in => 3.hours) do %>
         <div class="rightside">
-          <a class="og" href="/about/version3">Check out these features!!</a>
+          <a class="og" href="/about/version3">See New Features in OpenCongress v3!</a>
 
           <div class="congress_status">
             <h2 class="small_heading">Today in Congress<span><%= Date.today.strftime("%B %d, %Y") %></span></h2>
-            <%= session_div('house', @housesession ) %>
-            <%= session_div('senate', @senatesessions )%> 	
+            <%= session_div('house', @sessions[:house_session]) %>
+            <%= session_div('senate', @sessions[:senate_session])%>	
           </div>
-
-          <div class="small_heading">
-            <span><span id="popular_ul_title">Whats happining on the hill</span>
+    <%= javascript_include_tag 'jquery-1.3.2.min'%>
+    <%= javascript_include_tag 'prototype' %>
+    <%= javascript_include_tag 'frontpage'%>
+    <div class="small_heading">
+            <span><span id="popular_ul_title">Most-Viewed Bills</span>
             <ul class="tabs" id="bill_tab_select">
               <% @index_tabs.each do |tab| %>
                 <li id="<%= tab[:id] %>link">
@@ -28,22 +30,21 @@
           </span>
         </div>
 
-        <div id="bill_tabs">
+         <div id="bill_tabs">
           <% @index_tabs.each do |tab| %>
-          <% if tab[:collection] !=nil %>
-          <div id="<%= tab[:id] %>  style="<%= tab[:style] %>>
-           <span><span id="popular_ul_title"><%= tab[:title] %></span>
+          <div id="<%= tab[:id] %>" style="<%= tab[:style] %>">
             <ul class="medium_bill_list">
-              <%= render :partial => tab[:partial], :collection => tab[:collection], :locals => { :count_type => tab[:count_type]} %>
+              <%= render :partial => tab[:partial], :collection => tab[:collection], 
+                         :locals => { :count_type => tab[:count_type]} %>
             </ul>
             <a href="<%= tab[:link] %>" class="more_"><span>More <%= tab[:title] %></span></a>
             <div class="clear">&nbsp;</div>
           </div>
           <% end %>
-          <% end %>
         </div>
       </div><!-- rightside -->
       <% end %>
+
 
       <div class="blog_list">
         <%= render :partial => 'articles/frontpage', :locals => { :articles => Article.frontpage_gossip(7) } %>
@@ -121,7 +122,25 @@
     </div><!-- featured members -->
     <% end %>
 
- 
+    <div class="box01 clearfix">
+      <h3>Latest Votes</h3>
+      <ul class="latest_votes">
+        <% RollCall.latest_votes_for_unique_bills(5).each do |r| %>
+        <li>
+          <a href="<%= r.vote_url %>" title="<%= r.bill.title_full_common %>">
+            <span><%= truncate(r.bill.title_full_common, :length => 58) %></span><br />
+
+            <span class="votes"><span class="aye">Ayes</span> <%= r.ayes %>&nbsp;&nbsp;&nbsp;<span class="nay">Nays</span> <%= r.nays %></span>
+            <span class="date"><%= r.date.strftime("%b %d, %Y") %></span>
+
+            <span class="type"><%= get_result_image(r.result) %> <%= r.roll_type %></span>
+
+          </a>
+        </li>
+        <% end %>
+      </ul>	
+      <%= link_to '<span>More Recent Votes</span>'.html_safe, { :controller => 'roll_call', :action => :all}, :class => 'more_' %>
+    </div><!-- second tier -->
 
     <div id="pitch">
       <div id="home_pitch">
@@ -184,7 +203,7 @@
       <br />
 
       <h3>Contact Us</h3>
-      <p>We are always interested in hearing from you: How do you use the site? What would make it more useful?  Have you found a bug? Email us with feedback: <script type="text/javascript">m("writeus","opencongress","org","1");</script>. If you support the mission of OpenCongress and would like to help, volunteers are encouraged to join our open-source development team. Whether you're a web developer, a graphic designer, a political blogger, or a person with ideas about how to make Congress more open, <a href="/contact">contact us</a> anytime to get involved.</p>	
+      <p>We are always interested in hearing from you: How do you use the site? What would make it more useful?  Have you found a bug? Email us with feedback: <script type="text/javascript">("writeus","opencongress","org","1");</script>. If you support the mission of OpenCongress and would like to help, volunteers are encouraged to join our open-source development team. Whether you're a web developer, a graphic designer, a political blogger, or a person with ideas about how to make Congress more open, <a href="/contact">contact us</a> anytime to get involved.</p>	
     </div><!-- use OC -->
     <div class="clear">&nbsp;</div>
   </div><!-- second tier -->

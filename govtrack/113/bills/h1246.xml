@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="1246" updated="2013-03-20T04:47:19-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title as="introduced" type="official">To amend the District of Columbia Home Rule Act to provide that the District of Columbia Treasurer or one of the Deputy Chief Financial Officers of the Office of the Chief Financial Officer of the District of Columbia may perform the functions and duties of the Office in an acting capacity if there is a vacancy in the Office.</title>
+  </titles>
+  <sponsor id="400295"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-19">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

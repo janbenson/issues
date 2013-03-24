@@ -1,0 +1,30 @@
+<bill session="113" type="h" number="1384" updated="2013-03-22T04:47:20-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To provide for the issuance of a Wildlife Refuge System Conservation Semipostal Stamp.</title>
+  </titles>
+  <sponsor id="412312"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Natural Resources</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

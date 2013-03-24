@@ -1,0 +1,39 @@
+<bill session="113" type="h" number="967" updated="2013-03-15T04:47:19-04:00">
+  <state datetime="2013-03-14">REPORTED</state>
+  <status>
+    <unknown datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title as="introduced" type="short">Advancing America's Networking and Information Technology Research and Development Act of 2013</title>
+    <title as="introduced" type="official">To amend the High-Performance Computing Act of 1991 to authorize activities for support of networking and information technology research, and for other purposes.</title>
+  </titles>
+  <sponsor id="412294"/>
+  <cosponsors>
+    <cosponsor id="412555" joined="2013-03-12"/>
+    <cosponsor id="400204" joined="2013-03-05"/>
+    <cosponsor id="400381" joined="2013-03-05"/>
+    <cosponsor id="412514" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-05">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Science, Space, and Technology"/>
+    </action>
+    <calendar state="REPORTED" datetime="2013-03-14">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+      <committee name="House Committee on Science, Space, and Technology"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral, Markup, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>3/5/2013--Introduced.
+Advancing America's Networking and Information Technology Research and Development Act of 2013 - Amends the High-Performance Computing Act of 1991 to rename the National High-Performance Computing Program as the Networking and Information Technology Research and Development Program. Directs the federal agencies participating in the Program to: (1) periodically assess the contents and funding levels of program component areas and restructure the Program when warranted; and (2) ensure that the Program includes large-scale, long-term, interdisciplinary research and development (R&amp;D) activities, including such activities in networking and information technology in areas having the potential for significant contributions to national economic competitiveness and for other societal benefits. Requires the participating federal agencies to develop, and update every three years, a five-year strategic plan to guide activities provided for under the Program, to be accompanied by milestones and road maps for establishing the national research infrastructure required to support the Program. Requires the Director of the Office of Science and Technology Policy (OSTP) to encourage and monitor the efforts of participating agencies to allocate the resources and management attention necessary to ensure that the strategic plan is executed effectively and that Program objectives are met. Requires the Program, in addition to its current requirements, to provide for: (1) increased understanding of the scientific principles of cyber-physical systems and improve the methods available for the design, development, and operation of such systems; and (2) research and development on human-computer interactions, visualization, and big data. Requires continuation of a National Coordination Office and requires the Director of the Office to convene: (1) a task force to explore mechanisms for carrying out collaborative R&amp;D activities on cyber-physical systems; and (2) through the National Science and Technology Council, an interagency working group to examine issues around funding mechanisms and policies for the use of cloud computing services for federally-funded science and engineering research. Requires the National Institute of Standards and Technology (NIST) to develop and propose standards and guidelines needed for assuring the cost-effective security and privacy of information in federal computer systems (under current law, privacy of sensitive information in those systems).</summary>
+</bill>

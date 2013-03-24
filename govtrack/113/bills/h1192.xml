@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="1192" updated="2013-03-15T04:47:52-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="official">To redesignate Mammoth Peak in Yosemite National Park as "Mount Jessie Benton Fre'mont".</title>
+  </titles>
+  <sponsor id="412295"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

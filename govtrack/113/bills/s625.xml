@@ -1,0 +1,27 @@
+<bill session="113" type="s" number="625" updated="2013-03-21T09:49:21-04:00">
+  <state datetime="2013-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-03-20"/>
+  <titles>
+    <title as="introduced" type="official">A bill to provide for a biennial appropriations process with the exception of defense spending and to enhance oversight and the performance of the Federal Government.</title>
+  </titles>
+  <sponsor id="300041"/>
+  <cosponsors>
+    <cosponsor id="300019" joined="2013-03-20"/>
+    <cosponsor id="400194" joined="2013-03-20"/>
+    <cosponsor id="412323" joined="2013-03-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-20">
+      <text>Read twice and referred to the Committee on the Budget.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBU" name="Senate Budget" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

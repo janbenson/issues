@@ -1,0 +1,29 @@
+<bill session="113" type="s" number="620" updated="2013-03-21T18:46:07-04:00">
+  <state datetime="2013-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-03-20"/>
+  <titles>
+    <title as="introduced" type="short">No Budget, No OMB Pay Act of 2013</title>
+    <title as="introduced" type="official">A bill to withhold the salary of the Director of OMB upon failure to submit the President's budget to Congress as required by section 1105 of title 31, United States Code.</title>
+  </titles>
+  <sponsor id="300027"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-03-20">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2029"/>
+    </action>
+    <action state="REFERRED" datetime="2013-03-20">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <reference ref="CR S2029" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,25 @@
+<bill session="113" type="h" number="1232" updated="2013-03-19T04:46:48-04:00">
+  <state datetime="2013-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-18"/>
+  </status>
+  <introduced datetime="2013-03-18"/>
+  <titles>
+    <title as="introduced" type="official">To amend titles 40, 41, and 44, United States Code, to eliminate duplication and waste in information technology acquisition and management.</title>
+  </titles>
+  <sponsor id="400196"/>
+  <cosponsors>
+    <cosponsor id="412272" joined="2013-03-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-18">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

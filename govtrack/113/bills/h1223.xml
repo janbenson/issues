@@ -1,0 +1,28 @@
+<bill session="113" type="h" number="1223" updated="2013-03-20T04:47:17-04:00">
+  <state datetime="2013-03-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-15"/>
+  </status>
+  <introduced datetime="2013-03-15"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Servicemembers Civil Relief Act to ensure that relocation of a servicemember to serve on active duty away from the servicemember's principal residence does not prevent the servicemember from refinancing a mortgage on that principal residence.</title>
+  </titles>
+  <sponsor id="412283"/>
+  <cosponsors>
+    <cosponsor id="400097" joined="2013-03-15"/>
+    <cosponsor id="400209" joined="2013-03-19"/>
+    <cosponsor id="400352" joined="2013-03-15"/>
+    <cosponsor id="400411" joined="2013-03-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-15">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,51 @@
+<bill session="113" type="h" number="291" updated="2013-03-21T06:15:33-04:00">
+  <state datetime="2013-03-20">REPORTED</state>
+  <status>
+    <unknown datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-01-15"/>
+  <titles>
+    <title as="introduced" type="short">Black Hills Cemetery Act</title>
+    <title as="introduced" type="official">To provide for the conveyance of certain cemeteries that are located on National Forest System land in Black Hills National Forest, South Dakota.</title>
+  </titles>
+  <sponsor id="412475"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-01-15">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-01-31">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-03-20">
+      <text>Subcommittee on Public Lands and Environmental Regulation Discharged.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <action datetime="2013-03-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+    <calendar state="REPORTED" datetime="2013-03-20">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, Markup, In Committee"/>
+    <committee activity="Referral, Discharged" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="447"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land transfers"/>
+    <term name="South Dakota"/>
+  </subjects>
+  <amendments/>
+  <summary>1/15/2013--Introduced.
+Black Hills Cemetery Act - Directs the Secretary of Agriculture (USDA) to convey, to the local communities in South Dakota that are currently managing specified community cemeteries, all interest of the United States in: (1) the parcels of National Forest System land that contain the cemeteries, and (2) up to an additional two acres adjoining each cemetery to ensure that such conveyances include unmarked gravesites and allow for the expansion of those cemeteries.</summary>
+</bill>

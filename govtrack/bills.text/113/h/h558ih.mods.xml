@@ -1,0 +1,212 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee183eb4202">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To provide Capitol-flown flags to the immediate family of fire fighters, law enforcement officers, emergency medical technicians, and other rescue workers who are killed in the line of duty.;
+   		Fallen Heroes Flag Act of 2013;H.R. 558 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-03-19</dateIngested>
+</extension>
+<titleInfo>
+ <title>To provide Capitol-flown flags to the immediate family of fire fighters, law enforcement officers, emergency medical technicians, and other rescue workers who are killed in the line of duty.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Fallen Heroes Flag Act of 2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 558 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-02-06</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>4 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee183eb4202</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr558ih</identifier>
+<identifier type="preferred citation">H.R. 558</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h558_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr558ih/html/BILLS-113hr558ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr558ih/pdf/BILLS-113hr558ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr558ih/xml/BILLS-113hr558ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-03-19</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2013-03-19</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr558ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mr. King of New York</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Young of Alaska</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Reichert</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ms. Bordallo</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Larson of Connecticut</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Ruppersberger</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Pascrell</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Coble</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Jones</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on House Administration</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr558ih</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>558</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle>Fallen Heroes Flag Act of 2013</shortTitle>
+ <action date="2013-02-06">Mr. King of New York (for himself, Mr. Young of Alaska, Mr. Reichert, Mr. Grimm, Ms. Bordallo, Mr. Larson of Connecticut, Mr. Runyan, Mr. Ruppersberger, Mr. Pascrell, Mr. Coble, and Mr. Jones) introduced the following bill; which was referred to the Committee on House Administration</action>
+ <congCommittee authorityId="hsha00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on House Administration</name>
+                      <name type="authority-short">House Administration</name>
+                </congCommittee>
+ <congMember chamber="H" congress="113" role="SPONSOR" state="NY">
+                      <name type="parsed">Mr. King of New York</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="AK">
+                      <name type="parsed">Mr. Young of Alaska</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Reichert</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Ms. Bordallo</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="CT">
+                      <name type="parsed">Mr. Larson of Connecticut</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Ruppersberger</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Pascrell</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Coble</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Jones</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

@@ -1,0 +1,27 @@
+<bill session="113" type="s" number="628" updated="2013-03-21T09:49:22-04:00">
+  <state datetime="2013-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-03-20"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend title 10, United States Code, to extend the duration of the Physical Disability Board of Review and to the expand the authority of such Board to review of the separation of members of the Armed Forces on the basis of mental condition not amounting to disability, including separation on the basis of a personality or adjustment disorder.</title>
+  </titles>
+  <sponsor id="412244"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="2013-03-20"/>
+    <cosponsor id="412326" joined="2013-03-20"/>
+    <cosponsor id="412242" joined="2013-03-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-20">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -9,18 +9,16 @@ Bundler.require(:default, Rails.env) if defined?(Bundler)
 
 module Issues
   class Application < Rails::Application
-
-    # Detect and handle jsonp requests
-    require 'rack/contrib.rb'
+     # Detect and handle jsonp requests
+    require 'rack/contrib'
     config.middleware.use 'Rack::JSONP'
-    config.action_view
+
     config.active_record.schema_format = :sql
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
     # -- all .rb files in that directory are automatically loaded.
     # Custom directories with classes and modules you want to be autoloadable.
     config.autoload_paths += %W(#{config.root}/app/models/views)
-   
 
     # Only load the plugins named here, in the order given (default is alphabetical).
     # :all can be used as a placeholder for all plugins not explicitly named.
@@ -45,16 +43,17 @@ module Issues
     # config.i18n.default_locale = :de
 
     # JavaScript files you want as :defaults (application.js is always included).
+     
+     config.assets.enabled = true
      config.action_view.javascript_expansions[:defaults] = %w(jquery rails)
-    # Enable the asset pipeline
-    config.assets.enabled = true
 
     # Version of your assets, change this if you want to expire all your assets
     config.assets.version = '1.0'
      # Stylesheet path defined 
      config.action_view.stylesheet_path  "/app/assets/stylesheets/"
-     config.action_view.image_path  "app/images/"
-    
+     config.action_view.image_path  "app/assets/images/"
+     config.action_view.javascript_path "app/assets/javascript/"
+     
     # Configure the default encoding used in templates for Ruby 1.9.
     config.encoding = "utf-8"
 
@@ -75,13 +74,15 @@ module Issues
     # following should go in application_settings.yml, but it appears settingslogic
     # does not support hashes
     CONGRESS_START_DATES = {
-      113 => '2013-01-01',
-      112 => '2011-01-01',
+      113 => '2013-01-03',
+      112 => '2011-01-05',
       111 => '2009-01-01',
       110 => '2007-01-01',
       109 => '2005-01-01',
       108 => '2003-01-01',
       107 => '2001-01-01'
     }
+    
+    require 'ostruct'  
   end
 end

@@ -1,0 +1,117 @@
+<bill session="113" type="sr" number="65" updated="2013-03-21T09:49:26-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="official">A resolution strongly supporting the full implementation of United States and international sanctions on Iran and urging the President to continue to strengthen enforcement of sanctions legislation.</title>
+  </titles>
+  <sponsor id="300047"/>
+  <cosponsors>
+    <cosponsor id="412493" joined="2013-02-28"/>
+    <cosponsor id="412251" joined="2013-03-06"/>
+    <cosponsor id="300005" joined="2013-03-05"/>
+    <cosponsor id="412326" joined="2013-02-28"/>
+    <cosponsor id="412330" joined="2013-03-05"/>
+    <cosponsor id="412490" joined="2013-02-28"/>
+    <cosponsor id="400034" joined="2013-02-28"/>
+    <cosponsor id="400040" joined="2013-03-05"/>
+    <cosponsor id="300011" joined="2013-02-28"/>
+    <cosponsor id="400050" joined="2013-02-28"/>
+    <cosponsor id="400054" joined="2013-03-05"/>
+    <cosponsor id="300018" joined="2013-03-18"/>
+    <cosponsor id="400064" joined="2013-02-28"/>
+    <cosponsor id="412246" joined="2013-02-28"/>
+    <cosponsor id="300021" joined="2013-03-05"/>
+    <cosponsor id="402675" joined="2013-03-18"/>
+    <cosponsor id="400576" joined="2013-03-12"/>
+    <cosponsor id="300023" joined="2013-03-18"/>
+    <cosponsor id="300025" joined="2013-02-28"/>
+    <cosponsor id="412390" joined="2013-03-06"/>
+    <cosponsor id="300027" joined="2013-02-28"/>
+    <cosponsor id="300030" joined="2013-02-28"/>
+    <cosponsor id="412573" joined="2013-03-05"/>
+    <cosponsor id="412205" joined="2013-03-05"/>
+    <cosponsor id="300038" joined="2013-03-13"/>
+    <cosponsor id="300043" joined="2013-03-12"/>
+    <cosponsor id="412556" joined="2013-03-05"/>
+    <cosponsor id="400134" joined="2013-03-11"/>
+    <cosponsor id="412223" joined="2013-02-28"/>
+    <cosponsor id="300048" joined="2013-03-05"/>
+    <cosponsor id="412324" joined="2013-03-05"/>
+    <cosponsor id="300052" joined="2013-03-14"/>
+    <cosponsor id="412554" joined="2013-03-11"/>
+    <cosponsor id="412218" joined="2013-03-05"/>
+    <cosponsor id="412200" joined="2013-03-05"/>
+    <cosponsor id="412494" joined="2013-02-28"/>
+    <cosponsor id="300055" joined="2013-03-06"/>
+    <cosponsor id="400194" joined="2013-03-05"/>
+    <cosponsor id="412320" joined="2013-03-05"/>
+    <cosponsor id="412496" joined="2013-03-20"/>
+    <cosponsor id="300058" joined="2013-03-11"/>
+    <cosponsor id="412582" joined="2013-03-11"/>
+    <cosponsor id="400222" joined="2013-02-28"/>
+    <cosponsor id="412242" joined="2013-03-11"/>
+    <cosponsor id="300063" joined="2013-03-19"/>
+    <cosponsor id="300064" joined="2013-02-28"/>
+    <cosponsor id="412495" joined="2013-03-12"/>
+    <cosponsor id="412391" joined="2013-02-28"/>
+    <cosponsor id="300071" joined="2013-03-13"/>
+    <cosponsor id="412243" joined="2013-03-05"/>
+    <cosponsor id="300072" joined="2013-03-18"/>
+    <cosponsor id="400272" joined="2013-02-28"/>
+    <cosponsor id="300073" joined="2013-03-05"/>
+    <cosponsor id="400284" joined="2013-03-05"/>
+    <cosponsor id="300075" joined="2013-03-12"/>
+    <cosponsor id="300076" joined="2013-03-11"/>
+    <cosponsor id="300078" joined="2013-03-14"/>
+    <cosponsor id="400325" joined="2013-02-28"/>
+    <cosponsor id="300080" joined="2013-03-13"/>
+    <cosponsor id="412322" joined="2013-03-18"/>
+    <cosponsor id="300083" joined="2013-03-05"/>
+    <cosponsor id="412491" joined="2013-02-28"/>
+    <cosponsor id="300087" joined="2013-02-28"/>
+    <cosponsor id="412471" joined="2013-03-11"/>
+    <cosponsor id="412323" joined="2013-03-19"/>
+    <cosponsor id="300089" joined="2013-03-18"/>
+    <cosponsor id="300093" joined="2013-03-05"/>
+    <cosponsor id="412244" joined="2013-03-05"/>
+    <cosponsor id="400546" joined="2013-03-19"/>
+    <cosponsor id="400408" joined="2013-03-05"/>
+    <cosponsor id="400418" joined="2013-03-13"/>
+    <cosponsor id="412321" joined="2013-03-11"/>
+    <cosponsor id="412247" joined="2013-03-11"/>
+    <cosponsor id="400432" joined="2013-03-05"/>
+    <cosponsor id="300100" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S1035-1036" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Iran"/>
+    <term name="Israel"/>
+    <term name="Middle East"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Military operations and strategy"/>
+    <term name="Nuclear weapons"/>
+    <term name="Sanctions"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+  <summary>2/28/2013--Introduced.
+States that Congress: reaffirms the long-standing bonds of friendship and cooperation between the United States and Israel which enjoy bipartisan support in Congress and among the people of the United States; supports the close military, intelligence, and security cooperation that President Obama has pursued with Israel; condemns the statements and policies of the leaders of the Islamic Republic of Iran threatening Israel's security and existence; recognizes the tremendous threat posed to the United States, the West, and Israel by Iran's pursuit of a nuclear weapons capability; reiterates that U.S. policy is to prevent Iran from acquiring a nuclear weapon capability and to take necessary action to implement such policy; supports the full implementation of U.S. and international sanctions on Iran; declares that the United States has a vital national interest and commitment to ensuring Israel's existence and security; supports Israel's right to self-defense; and urges that if Israel is compelled to take military action in self-defense the U.S. government should provide Israel with diplomatic, military, and economic support. States that nothing in this resolution shall be construed as an authorization for the use of force or a declaration of war.</summary>
+</bill>

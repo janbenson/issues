@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<body status="eh" difference-size-chars="757" percent-change="30" total-changes="3" previous-status="ih">
+  <p nid="t0:eh:1" tracking-nids="t0:ih:1">HCON 18 <changed sequence="1"><changed-from>I</changed-from><changed-to>E</changed-to></changed>H</p>
+  <p/>
+  <center>
+    <p nid="t0:eh:2">113th CONGRESS</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:eh:3" tracking-nids="t0:ih:3">1st Session</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:eh:4" tracking-nids="t0:ih:4">H. CON. RES. 18</p>
+  </center>
+  <hr/>
+  <inserted sequence="2">
+    <p/>
+    <center>
+      <p nid="t0:eh:5">CONCURRENT RESOLUTION</p>
+    </center>
+  </inserted>
+  <ul>
+    <p nid="t0:eh:6">
+      <em>Resolved by the House of Representatives (the Senate concurring),</em>
+    </p>
+  </ul>
+  <p/>
+  <h3 nid="t0:eh:7" tracking-nids="t0:ih:13">SECTION 1. USE OF THE CAPITOL GROUNDS FOR NATIONAL PEACE OFFICERS&#x2019; MEMORIAL SERVICE.</h3>
+  <ul>
+    <p nid="t0:eh:8" tracking-nids="t0:ih:14">(a) In General- The Grand Lodge of the Fraternal Order of Police and its auxiliary (in this resolution</p>
+    <p nid="t0:eh:9">referred to as the &#x2018;sponsor&#x2019;) shall be permitted to sponsor a public event, the 32nd Annual National Peace Officers&#x2019; Memorial Service (in this resolution referred to as the &#x2018;event&#x2019;), on the Capitol Grounds, in order to honor the law enforcement officers who died in the line of duty during 2012.</p>
+    <p nid="t0:eh:10" tracking-nids="t0:ih:15">(b) Date of Event- The event shall be held on May 15, 2013, or on such other date as the Speaker of the House of Representatives and the Committee on Rules and Administration of the Senate jointly designate.</p>
+  </ul>
+  <p/>
+  <h3 nid="t0:eh:11" tracking-nids="t0:ih:16">SEC. 2. TERMS AND CONDITIONS.</h3>
+  <ul>
+    <p nid="t0:eh:12" tracking-nids="t0:ih:17">(a) In General- Under conditions to be prescribed by the Architect of the Capitol and the Capitol Police Board, the event shall be--</p>
+    <ul>
+      <p nid="t0:eh:13" tracking-nids="t0:ih:18">(1) free of admission charge and open to the public; and</p>
+      <p nid="t0:eh:14" tracking-nids="t0:ih:19">(2) arranged not to interfere with the needs of Congress.</p>
+    </ul>
+    <p nid="t0:eh:15" tracking-nids="t0:ih:20">(b) Expenses and Liabilities- The sponsor shall assume full responsibility for all expenses and liabilities incident to all activities associated with the event.</p>
+  </ul>
+  <p/>
+  <h3 nid="t0:eh:16" tracking-nids="t0:ih:21">SEC. 3. EVENT PREPARATIONS.</h3>
+  <ul>
+    <p nid="t0:eh:17" tracking-nids="t0:ih:22">Subject to the approval of the Architect of the Capitol, the sponsor is authorized to erect upon the Capitol Grounds such stage, sound amplification devices, and other related structures and equipment, as may be required for the event.</p>
+  </ul>
+  <p/>
+  <h3 nid="t0:eh:18" tracking-nids="t0:ih:23">SEC. 4. ENFORCEMENT OF RESTRICTIONS.</h3>
+  <ul>
+    <p nid="t0:eh:19">The Capitol Police Board shall provide for enforcement of the restrictions contained in <usc-reference title="40" section="5104" paragraph="c"><usc-reference title="40" section="5104" paragraph="c">section 5104(c) of title 40, United States Code</usc-reference></usc-reference>, concerning sales, advertisements, displays, and solicitations on the Capitol Grounds, as well as other restrictions applicable to the Capitol Grounds, in connection with the event.</p>
+  </ul>
+  <inserted sequence="3">
+    <p nid="t0:eh:20">Passed the House of Representatives March 18, 2013.</p>
+    <p nid="t0:eh:21">Attest:</p>
+    <p nid="t0:eh:22">Clerk.</p>
+    <p/>
+    <center>
+      <p nid="t0:eh:23">113th CONGRESS</p>
+    </center>
+    <p/>
+    <center>
+      <p nid="t0:eh:24">1st Session</p>
+    </center>
+    <p/>
+    <center>
+      <p nid="t0:eh:25">H. CON. RES. 18</p>
+    </center>
+    <p/>
+    <center>
+      <p nid="t0:eh:26">CONCURRENT RESOLUTION</p>
+    </center>
+    <p nid="t0:eh:27">Authorizing the use of the Capitol Grounds for the National Peace Officers&#x2019; Memorial Service.</p>
+  </inserted>
+</body>

@@ -1,0 +1,53 @@
+<bill session="113" type="h" number="1242" updated="2013-03-21T06:16:30-04:00">
+  <state datetime="2013-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-18"/>
+  </status>
+  <introduced datetime="2013-03-18"/>
+  <titles>
+    <title as="introduced" type="official">To prohibit the use of drones to kill citizens of the United States within the United States.</title>
+  </titles>
+  <sponsor id="412489"/>
+  <cosponsors>
+    <cosponsor id="412436" joined="2013-03-19"/>
+    <cosponsor id="400071" joined="2013-03-20"/>
+    <cosponsor id="412555" joined="2013-03-20"/>
+    <cosponsor id="400089" joined="2013-03-20"/>
+    <cosponsor id="412536" joined="2013-03-19"/>
+    <cosponsor id="412472" joined="2013-03-20"/>
+    <cosponsor id="412480" joined="2013-03-20"/>
+    <cosponsor id="400141" joined="2013-03-20"/>
+    <cosponsor id="400651" joined="2013-03-20"/>
+    <cosponsor id="400165" joined="2013-03-20"/>
+    <cosponsor id="412434" joined="2013-03-20"/>
+    <cosponsor id="400206" joined="2013-03-20"/>
+    <cosponsor id="400209" joined="2013-03-20"/>
+    <cosponsor id="412510" joined="2013-03-20"/>
+    <cosponsor id="400320" joined="2013-03-20"/>
+    <cosponsor id="412310" joined="2013-03-20"/>
+    <cosponsor id="400606" joined="2013-03-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-18">
+      <text>Referred to the Committee on Intelligence (Permanent Select), and in addition to the Committees on the Judiciary, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-18">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2013-03-18">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-03-18">
+      <text>Referred to House Armed Services</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral, In Committee"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="1022" updated="2013-03-12T09:46:32-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="short">Securing Energy Critical Elements and American Jobs Act of 2013</title>
+    <title as="introduced" type="official">To develop an energy critical elements program, to amend the National Materials and Minerals Policy, Research and Development Act of 1980, and for other purposes.</title>
+  </titles>
+  <sponsor id="412514"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,30 @@
+<bill session="113" type="h" number="1337" updated="2013-03-22T04:46:56-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To restrict funds for the Palestinian Authority, and for other purposes.</title>
+  </titles>
+  <sponsor id="412526"/>
+  <cosponsors>
+    <cosponsor id="400089" joined="2013-03-21"/>
+    <cosponsor id="412480" joined="2013-03-21"/>
+    <cosponsor id="400141" joined="2013-03-21"/>
+    <cosponsor id="400206" joined="2013-03-21"/>
+    <cosponsor id="400220" joined="2013-03-21"/>
+    <cosponsor id="400320" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

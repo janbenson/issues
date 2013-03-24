@@ -1,0 +1,709 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee183eb27c1">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To repeal the provisions of the Patient Protection and Affordable Care Act providing for the Independent Payment Advisory Board.;
+   		Protecting Seniors’ Access to Medicare Act of 2013;H.R. 351 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-03-19</dateIngested>
+</extension>
+<titleInfo>
+ <title>To repeal the provisions of the Patient Protection and Affordable Care Act providing for the Independent Payment Advisory Board.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Protecting Seniors’ Access to Medicare Act of 2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 351 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-01-23</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>2 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee183eb27c1</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr351ih</identifier>
+<identifier type="preferred citation">H.R. 351</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h351_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr351ih/html/BILLS-113hr351ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr351ih/pdf/BILLS-113hr351ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr351ih/xml/BILLS-113hr351ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-03-19</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2013-03-19</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr351ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mr. Roe of Tennessee</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ms. Schwartz</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Bilirakis</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Bishop of New York</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Bishop of Utah</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mrs. Blackburn</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Boustany</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Buchanan</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Burgess</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mrs. Capito</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Chabot</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mrs. Christensen</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Courtney</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Cramer</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Culberson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Dent</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Duncan of Tennessee</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Fitzpatrick</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Franks of Arizona</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Gerlach</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Gingrey of Georgia</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Griffin of Arkansas</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Hanna</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Harris</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Johnson of Ohio</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Jones</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Lamborn</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Latham</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Long</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Matheson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Meehan</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Miller of Florida</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Murphy of Pennsylvania</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Pearce</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Petri</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Poe of Texas</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Price of Georgia</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Reed</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Rogers of Michigan</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Roskam</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Shimkus</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Simpson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Smith of Texas</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Thompson of Pennsylvania</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Thornberry</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Tiberi</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Walberg</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Walden</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Westmoreland</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Wilson of South Carolina</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Young of Florida</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Energy and Commerce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Rules</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Ways and Means</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-148</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-148</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr351ih</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>351</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle>Protecting Seniors’ Access to Medicare Act of 2013</shortTitle>
+ <action date="2013-01-23">Mr. Roe of Tennessee (for himself, Ms. Schwartz, Mr. Benishek, Mr. Bilirakis, Mr. Bishop of New York, Mr. Bishop of Utah, Mrs. Black, Mrs. Blackburn, Mr. Boustany, Mr. Buchanan, Mr. Bucshon, Mr. Burgess, Mrs. Capito, Mr. Cassidy, Mr. Chabot, Mrs. Christensen, Mr. Courtney, Mr. Cramer, Mr. Culberson, Mr. Daines, Mr. Denham, Mr. Dent, Mr. DesJarlais, Mr. Duncan of Tennessee, Mr. Fincher, Mr. Fitzpatrick, Mr. Fleming, Mr. Franks of Arizona, Mr. Gerlach, Mr. Gibbs, Mr. Gingrey of Georgia, Mr. Gosar, Mr. Gowdy, Mr. Griffin of Arkansas, Mr. Griffith of Virginia, Mr. Guthrie, Mr. Hanna, Mr. Harper, Mr. Harris, Mrs. Hartzler, Mr. Heck of Nevada, Mr. Huelskamp, Mr. Johnson of Ohio, Mr. Jones, Mr. Lamborn, Mr. Lance, Mr. Latham, Ms. Linda T. Sánchez of California, Mr. Long, Mr. Luetkemeyer, Mr. Matheson, Mr. McKinley, Mr. Meehan, Mr. Miller of Florida, Mr. Mulvaney, Mr. Murphy of Pennsylvania, Mr. Nugent, Mr. Olson, Mr. Palazzo, Mr. Pearce, Mr. Petri, Mr. Poe of Texas, Mr. Pompeo, Mr. Posey, Mr. Price of Georgia, Mr. Reed, Mrs. Roby, Mr. Rogers of Michigan, Mr. Rokita, Mr. Roskam, Mr. Schock, Mr. Shimkus, Mr. Simpson, Mr. Smith of Texas, Mr. Thompson of Pennsylvania, Mr. Thornberry, Mr. Tiberi, Mr. Walberg, Mr. Walden, Mr. Webster of Florida, Mr. Wenstrup, Mr. Westmoreland, Mr. Wilson of South Carolina, Mr. Womack, and Mr. Young of Florida) introduced the following bill; which was referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action>
+ <congCommittee authorityId="hsif00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Energy and Commerce</name>
+                      <name type="authority-short">Energy and Commerce</name>
+                </congCommittee>
+ <congCommittee authorityId="hsru00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Rules</name>
+                      <name type="authority-short">Rules</name>
+                </congCommittee>
+ <congCommittee authorityId="hswm00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Ways and Means</name>
+                      <name type="authority-short">Ways and Means</name>
+                </congCommittee>
+ <congMember chamber="H" congress="113" role="SPONSOR" state="TN">
+                      <name type="parsed">Mr. Roe of Tennessee</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Ms. Schwartz</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Bilirakis</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Bishop of New York</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="UT">
+                      <name type="parsed">Mr. Bishop of Utah</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mrs. Blackburn</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Boustany</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Buchanan</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Burgess</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mrs. Capito</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Chabot</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mrs. Christensen</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Courtney</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Cramer</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Culberson</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Dent</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="TN">
+                      <name type="parsed">Mr. Duncan of Tennessee</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Fitzpatrick</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Franks of Arizona</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Gerlach</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Gingrey of Georgia</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="AR">
+                      <name type="parsed">Mr. Griffin of Arkansas</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Hanna</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Harris</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="OH">
+                      <name type="parsed">Mr. Johnson of Ohio</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Jones</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Lamborn</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Latham</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Long</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Matheson</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Meehan</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Miller of Florida</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Murphy of Pennsylvania</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Pearce</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Petri</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Poe of Texas</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Price of Georgia</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Reed</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="MI">
+                      <name type="parsed">Mr. Rogers of Michigan</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Roskam</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Shimkus</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Simpson</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Smith of Texas</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Thompson of Pennsylvania</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Thornberry</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Tiberi</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Walberg</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Walden</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Westmoreland</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="SC">
+                      <name type="parsed">Mr. Wilson of South Carolina</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Young of Florida</name>
+                </congMember>
+ <law congress="111" isPrivate="false" number="148"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

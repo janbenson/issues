@@ -1,0 +1,42 @@
+<bill session="113" type="h" number="1250" updated="2013-03-21T15:46:24-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title as="introduced" type="official">To amend title XVIII of the Social Security Act to improve operations of recovery auditors under the Medicare integrity program, to increase transparency and accuracy in audits conducted by contractors, and for other purposes.</title>
+  </titles>
+  <sponsor id="400158"/>
+  <cosponsors>
+    <cosponsor id="400129" joined="2013-03-19"/>
+    <cosponsor id="412454" joined="2013-03-19"/>
+    <cosponsor id="412429" joined="2013-03-19"/>
+    <cosponsor id="400219" joined="2013-03-19"/>
+    <cosponsor id="400220" joined="2013-03-19"/>
+    <cosponsor id="412209" joined="2013-03-19"/>
+    <cosponsor id="412445" joined="2013-03-19"/>
+    <cosponsor id="412521" joined="2013-03-21"/>
+    <cosponsor id="412383" joined="2013-03-19"/>
+    <cosponsor id="412431" joined="2013-03-19"/>
+    <cosponsor id="400361" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-19">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-19">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-03-19">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

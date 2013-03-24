@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="1067" updated="2013-03-15T04:47:24-04:00">
+  <state datetime="2013-03-14">REPORTED</state>
+  <status>
+    <unknown datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="official">To make revisions in title 36, United States Code, as necessary to keep the title current and make technical corrections and improvements.</title>
+  </titles>
+  <sponsor id="400154"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </action>
+    <calendar state="REPORTED" datetime="2013-03-14">
+      <text>Ordered to be Reported by Voice Vote.</text>
+      <committee name="House Committee on the Judiciary"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

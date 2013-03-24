@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="1345" updated="2013-03-22T04:47:00-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To address the forest health, public safety, and wildlife habitat threat presented by the risk of wildfire, including catastrophic wildfire, on National Forest System lands and public lands managed by the Bureau of Land Management by requiring the Secretary of Agriculture and the Secretary of the Interior to expedite forest management projects relating to hazardous fuels reduction, forest health, and economic development, and for other purposes.</title>
+  </titles>
+  <sponsor id="412397"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2013-03-21"/>
+    <cosponsor id="400655" joined="2013-03-21"/>
+    <cosponsor id="412555" joined="2013-03-21"/>
+    <cosponsor id="400141" joined="2013-03-21"/>
+    <cosponsor id="412286" joined="2013-03-21"/>
+    <cosponsor id="412294" joined="2013-03-21"/>
+    <cosponsor id="400255" joined="2013-03-21"/>
+    <cosponsor id="412295" joined="2013-03-21"/>
+    <cosponsor id="400313" joined="2013-03-21"/>
+    <cosponsor id="400606" joined="2013-03-21"/>
+    <cosponsor id="412399" joined="2013-03-21"/>
+    <cosponsor id="412581" joined="2013-03-21"/>
+    <cosponsor id="400419" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Agriculture</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

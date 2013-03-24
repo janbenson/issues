@@ -1,0 +1,40 @@
+<bill session="113" type="sr" number="74" updated="2013-03-16T06:32:30-04:00">
+  <state datetime="2013-03-11">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2013-03-11"/>
+  </status>
+  <introduced datetime="2013-03-11"/>
+  <titles>
+    <title as="introduced" type="official">A resolution supporting the goals of International Women's Day.</title>
+  </titles>
+  <sponsor id="412323"/>
+  <cosponsors>
+    <cosponsor id="412326" joined="2013-03-11"/>
+    <cosponsor id="300011" joined="2013-03-11"/>
+    <cosponsor id="400064" joined="2013-03-11"/>
+    <cosponsor id="412246" joined="2013-03-11"/>
+    <cosponsor id="300025" joined="2013-03-11"/>
+    <cosponsor id="300038" joined="2013-03-11"/>
+    <cosponsor id="300043" joined="2013-03-11"/>
+    <cosponsor id="412242" joined="2013-03-11"/>
+    <cosponsor id="300063" joined="2013-03-11"/>
+    <cosponsor id="300064" joined="2013-03-11"/>
+    <cosponsor id="300073" joined="2013-03-11"/>
+    <cosponsor id="300075" joined="2013-03-11"/>
+    <cosponsor id="300076" joined="2013-03-11"/>
+    <cosponsor id="412507" joined="2013-03-11"/>
+    <cosponsor id="412247" joined="2013-03-11"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASSED:SIMPLERES" datetime="2013-03-11" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S1669" label="consideration"/>
+      <reference ref="CR S1598" label="text as passed Senate"/>
+      <reference ref="CR S1598" label="text of measure as introduced"/>
+    </vote>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

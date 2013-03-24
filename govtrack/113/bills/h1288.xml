@@ -1,0 +1,76 @@
+<bill session="113" type="h" number="1288" updated="2013-03-22T04:46:40-04:00">
+  <state datetime="2013-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-03-20"/>
+  <titles>
+    <title as="introduced" type="official">To direct the Secretary of Homeland Security to accept additional documentation when considering the application for veterans status of an individual who performed service as a coastwise merchant seaman during World War II, and for other purposes.</title>
+  </titles>
+  <sponsor id="400616"/>
+  <cosponsors>
+    <cosponsor id="400628" joined="2013-03-20"/>
+    <cosponsor id="400041" joined="2013-03-20"/>
+    <cosponsor id="400047" joined="2013-03-20"/>
+    <cosponsor id="400048" joined="2013-03-20"/>
+    <cosponsor id="400076" joined="2013-03-21"/>
+    <cosponsor id="412272" joined="2013-03-20"/>
+    <cosponsor id="412193" joined="2013-03-20"/>
+    <cosponsor id="400090" joined="2013-03-20"/>
+    <cosponsor id="400100" joined="2013-03-20"/>
+    <cosponsor id="412401" joined="2013-03-20"/>
+    <cosponsor id="412498" joined="2013-03-20"/>
+    <cosponsor id="400170" joined="2013-03-20"/>
+    <cosponsor id="412282" joined="2013-03-20"/>
+    <cosponsor id="412553" joined="2013-03-20"/>
+    <cosponsor id="400185" joined="2013-03-20"/>
+    <cosponsor id="412199" joined="2013-03-20"/>
+    <cosponsor id="400209" joined="2013-03-20"/>
+    <cosponsor id="412435" joined="2013-03-20"/>
+    <cosponsor id="412543" joined="2013-03-20"/>
+    <cosponsor id="400219" joined="2013-03-20"/>
+    <cosponsor id="412256" joined="2013-03-20"/>
+    <cosponsor id="400630" joined="2013-03-20"/>
+    <cosponsor id="400244" joined="2013-03-20"/>
+    <cosponsor id="412209" joined="2013-03-20"/>
+    <cosponsor id="400251" joined="2013-03-20"/>
+    <cosponsor id="400257" joined="2013-03-20"/>
+    <cosponsor id="400259" joined="2013-03-20"/>
+    <cosponsor id="400262" joined="2013-03-20"/>
+    <cosponsor id="400263" joined="2013-03-21"/>
+    <cosponsor id="400644" joined="2013-03-20"/>
+    <cosponsor id="400266" joined="2013-03-20"/>
+    <cosponsor id="412552" joined="2013-03-20"/>
+    <cosponsor id="400274" joined="2013-03-21"/>
+    <cosponsor id="400290" joined="2013-03-20"/>
+    <cosponsor id="412307" joined="2013-03-20"/>
+    <cosponsor id="412551" joined="2013-03-20"/>
+    <cosponsor id="400326" joined="2013-03-20"/>
+    <cosponsor id="400333" joined="2013-03-20"/>
+    <cosponsor id="412411" joined="2013-03-20"/>
+    <cosponsor id="400361" joined="2013-03-20"/>
+    <cosponsor id="400647" joined="2013-03-20"/>
+    <cosponsor id="400623" joined="2013-03-20"/>
+    <cosponsor id="400424" joined="2013-03-21"/>
+    <cosponsor id="400627" joined="2013-03-20"/>
+    <cosponsor id="412255" joined="2013-03-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-20">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-20">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2013-03-20">
+      <text>Referred to House Armed Services</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

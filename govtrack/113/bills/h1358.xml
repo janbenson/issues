@@ -1,0 +1,37 @@
+<bill session="113" type="h" number="1358" updated="2013-03-22T04:47:07-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To direct the Director of the Office of Science and Technology Policy to carry out programs and activities to ensure that Federal science agencies and institutions of higher education receiving Federal research and development funding are fully engaging their entire talent pool, and for other purposes.</title>
+  </titles>
+  <sponsor id="400204"/>
+  <cosponsors>
+    <cosponsor id="412516" joined="2013-03-21"/>
+    <cosponsor id="400073" joined="2013-03-21"/>
+    <cosponsor id="412221" joined="2013-03-21"/>
+    <cosponsor id="400093" joined="2013-03-21"/>
+    <cosponsor id="400179" joined="2013-03-21"/>
+    <cosponsor id="400185" joined="2013-03-21"/>
+    <cosponsor id="412583" joined="2013-03-21"/>
+    <cosponsor id="400232" joined="2013-03-21"/>
+    <cosponsor id="400245" joined="2013-03-21"/>
+    <cosponsor id="400295" joined="2013-03-21"/>
+    <cosponsor id="400350" joined="2013-03-21"/>
+    <cosponsor id="400647" joined="2013-03-21"/>
+    <cosponsor id="412520" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

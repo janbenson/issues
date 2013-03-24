@@ -1,0 +1,672 @@
+                                                                                                                                   II
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                            S. 488
+                                      To provide for a program of research, development, demonstration, and
+                                    commercial application in vehicle technologies at the Department of Energy.
+
+
+
+
+                                              IN THE SENATE OF THE UNITED STATES
+                                                                  MARCH 7, 2013
+                                        Ms. STABENOW introduced the following bill; which was read twice and
+                                             referred to the Committee on Energy and Natural Resources
+
+
+
+
+                                                                            A BILL
+                                  To provide for a program of research, development, dem-
+                                     onstration, and commercial application in vehicle tech-
+                                     nologies at the Department of Energy.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+                                    4              (a) SHORT TITLE.—This Act may be cited as the
+                                    5 ‘‘Advanced Vehicle Technology Act of 2013’’.
+                                    6              (b) TABLE            OF    CONTENTS.—The table of contents of
+                                    7 this Act is as follows:
+                                          Sec.   1.   Short title; table of contents.
+                                          Sec.   2.   Objectives.
+
+
+
+
+
+                                          Sec.   3.   Definitions.
+                                          Sec.   4.   Coordination and nonduplication.
+
+
+
+
+                                                                                             2
+                                                      TITLE I—VEHICLE RESEARCH AND DEVELOPMENT
+
+                                          Sec.   101.      Program.
+                                          Sec.   102.      Sensing and communications technologies.
+                                          Sec.   103.      Manufacturing.
+                                          Sec.   104.      Reporting.
+
+                                                  TITLE II—MEDIUM AND HEAVY DUTY COMMERCIAL AND
+                                                                 TRANSIT VEHICLES
+
+                                          Sec.   201.      Program.
+                                          Sec.   202.      Class 8 truck and trailer systems demonstration.
+                                          Sec.   203.      Technology testing and metrics.
+                                          Sec.   204.      Nonroad systems pilot program.
+                                          Sec.   205.      Repeal of existing authorities.
+                                    1     SEC. 2. OBJECTIVES.
+                                    2              The objectives of this Act are—
+                                    3                        (1) to reform and reorient the vehicle tech-
+                                    4              nologies programs of the Department;
+                                    5                        (2) to establish a clear and consistent authority
+                                    6              for vehicle technologies programs of the Department;
+                                    7                        (3) to develop United States technologies and
+                                    8              practices that—
+                                    9                                 (A) improve the fuel efficiency and emis-
+                                  10                         sions of all vehicles produced in the United
+                                  11                         States; and
+                                  12                                  (B) reduce vehicle reliance on petroleum-
+                                  13                         based fuels;
+                                  14                         (4) to support domestic research, development,
+                                  15               engineering, demonstration, and commercial applica-
+                                  16               tion and manufacturing of advanced vehicles, en-
+                                  17               gines, and components;
+
+
+
+
+
+                                              •S 488 IS
+
+                                                                                             3
+                                    1                        (5) to enable vehicles to move larger volumes of
+                                    2              goods and more passengers with less energy and
+                                    3              emissions;
+                                    4                        (6) to develop cost-effective advanced tech-
+                                    5              nologies for wide-scale utilization throughout the
+                                    6              passenger, commercial, government, and transit ve-
+                                    7              hicle sectors;
+                                    8                        (7) to allow for greater consumer choice of vehi-
+                                    9              cle technologies and fuels;
+                                  10                         (8) to shorten technology development and inte-
+                                  11               gration cycles in the vehicle industry;
+                                  12                         (9) to ensure a proper balance and diversity of
+                                  13               Federal investment in vehicle technologies and
+                                  14               among vehicle classes; and
+                                  15                         (10) to strengthen partnerships between Fed-
+                                  16               eral and State governmental agencies and the pri-
+                                  17               vate and academic sectors.
+                                  18      SEC. 3. DEFINITIONS.
+                                  19               In this Act:
+                                  20                         (1) DEPARTMENT.—The term ‘‘Department’’
+                                  21               means the Department of Energy.
+                                  22                         (2) SECRETARY.—The term ‘‘Secretary’’ means
+                                  23               the Secretary of Energy.
+
+
+
+
+
+                                              •S 488 IS
+
+                                    1     SEC. 4. COORDINATION AND NONDUPLICATION.           4
+                                    2              (a) COORDINATION.—The Secretary shall ensure that
+                                    3 activities authorized by this Act do not duplicate activities
+                                    4 of other programs within the Department or other rel-
+                                    5 evant agencies.
+                                    6              (b) COST-SHARING REQUIREMENT.—The activities
+                                    7 carried out under this Act shall be subject to the cost-
+                                    8 sharing requirements of section 988 of the Energy Policy
+                                    9 Act of 2005 (42 U.S.C. 16352).
+                                  10            TITLE I—VEHICLE RESEARCH
+                                  11                AND DEVELOPMENT
+                                  12      SEC. 101. PROGRAM.
+
+                                  13               (a) ACTIVITIES.—The Secretary shall conduct a pro-
+                                  14 gram of basic and applied research, development, engi-
+                                  15 neering, demonstration, and commercial application activi-
+                                  16 ties on materials, technologies, and processes with the po-
+                                  17 tential to substantially reduce or eliminate petroleum use
+                                  18 and the emissions of the Nation’s passenger and commer-
+                                  19 cial vehicles, including activities in the areas of—
+                                  20                         (1) hybridization or full electrification of vehicle
+                                  21               systems;
+                                  22                         (2) batteries, ultracapacitors, and other energy
+                                  23               storage devices;
+                                  24                         (3) power electronics;
+
+
+
+
+
+                                  25                         (4) vehicle, component, and subsystem manu-
+                                  26               facturing technologies and processes;
+                                              •S 488 IS
+
+                                                                                             5
+                                    1                        (5) engine efficiency and combustion optimiza-
+                                    2              tion;
+                                    3                        (6) waste heat recovery;
+                                    4                        (7) transmission and drivetrains;
+                                    5                        (8) hydrogen vehicle technologies, including fuel
+                                    6              cells and internal combustion engines, and hydrogen
+                                    7              infrastructure;
+                                    8                        (9) compressed natural gas and liquefied petro-
+                                    9              leum gas vehicle technologies;
+                                  10                         (10) aerodynamics, rolling resistance, and ac-
+                                  11               cessory power loads of vehicles and associated equip-
+                                  12               ment;
+                                  13                         (11)        vehicle             weight          reduction,            including
+                                  14               lightweighting materials;
+                                  15                         (12) friction and wear reduction;
+                                  16                         (13) engine and component durability;
+                                  17                         (14) innovative propulsion systems;
+                                  18                         (15) advanced boosting systems;
+                                  19                         (16) hydraulic hybrid technologies;
+                                  20                         (17) engine compatibility with and optimization
+                                  21               for a variety of transportation fuels including nat-
+                                  22               ural gas and other liquid and gaseous fuels;
+                                  23                         (18) predictive engineering, modeling, and sim-
+                                  24               ulation of vehicle and transportation systems;
+
+
+
+
+
+                                              •S 488 IS
+
+                                                                                             6
+                                    1                        (19) refueling and charging infrastructure for
+                                    2              alternative fueled and electric or plug-in electric hy-
+                                    3              brid vehicles, including the unique challenges facing
+                                    4              rural areas;
+                                    5                        (20) gaseous fuels storage systems and system
+                                    6              integration and optimization;
+                                    7                        (21) sensing, communications, and actuation
+                                    8              technologies for vehicle, electrical grid, and infra-
+                                  109              structure;(22) efficient use, substitution, and recycling of
+                                  11               potentially critical materials in vehicles, including
+                                  12               rare earth elements and precious metals, at risk of
+                                  13               supply disruption;
+                                  14                         (23) aftertreatment technologies;
+                                  15                         (24) thermal management of battery systems;
+                                  16                         (25) retrofitting advanced vehicle technologies
+                                  17               to existing vehicles;
+                                  18                         (26) development of common standards, speci-
+                                  19               fications, and architectures for both transportation
+                                  20               and stationary battery applications;
+                                  21                         (27) advanced internal combustion engines; and
+                                  22                         (28) other research areas as determined by the
+                                  23               Secretary.
+                                  24               (b) TRANSFORMATIONAL TECHNOLOGY.—The Sec-
+
+
+
+
+                                  25 retary shall ensure that the Department continues to sup-
+                                              •S 488 IS
+
+                                                                                             7
+                                    1 port research, development, engineering, demonstration,
+                                    2 and commercial application activities and maintains com-
+                                    3 petency in mid- to long-term transformational vehicle tech-
+                                    4 nologies with potential to achieve deep reductions in petro-
+                                    5 leum use and emissions, including activities in the areas
+                                    6 of—
+                                    7                        (1) hydrogen vehicle technologies, including fuel
+                                    8              cells, internal combustion engines, hydrogen storage,
+                                    9              infrastructure, and activities in hydrogen technology
+                                  10               validation and safety codes and standards;
+                                  11                         (2) multiple battery chemistries and novel en-
+                                  12               ergy storage devices, including nonchemical bat-
+                                  13               teries, ultracapacitors and electromechanical storage
+                                  14               technologies such as hydraulics, flywheels, and com-
+                                  15               pressed air storage;
+                                  16                         (3) communication, connectivity, and power
+                                  17               flow among vehicles, infrastructure, and the elec-
+                                  18               trical grid; and
+                                  19                         (4) other innovative technologies research and
+                                  20               development, as determined by the Secretary.
+                                  21               (c) INDUSTRY PARTICIPATION.—To the maximum
+                                  22 extent practicable, activities under this Act shall be carried
+                                  23 out in partnership or collaboration with automotive manu-
+                                  24 facturers, heavy commercial, vocational, and transit vehi-
+
+
+
+
+                                  25 cle manufacturers, qualified plug-in electric vehicle manu-
+                                              •S 488 IS
+
+                                                                                             8
+                                    1 facturers, compressed natural gas and liquefied petroleum
+                                    2 gas vehicle manufacturers, vehicle and engine equipment
+                                    3 and component manufacturers, manufacturing equipment
+                                    4 manufacturers, advanced vehicle service providers, fuel
+                                    5 producers and energy suppliers, electric utilities, univer-
+                                    6 sities, national laboratories, and independent research lab-
+                                    7 oratories. In carrying out this Act the Secretary shall—
+                                    8                        (1) determine whether a wide range of compa-
+                                    9              nies that manufacture or assemble vehicles or com-
+                                  10               ponents in the United States are represented in on-
+                                  11               going public private partnership activities, including
+                                  12               firms that have not traditionally participated in fed-
+                                  13               erally sponsored research and development activities,
+                                  14               and where possible, partner with such firms that
+                                  15               conduct significant and relevant research and devel-
+                                  16               opment activities in the United States;
+                                  17                         (2) leverage the capabilities and resources of,
+                                  18               and formalize partnerships with, industry-led stake-
+                                  19               holder organizations, nonprofit organizations, indus-
+                                  20               try consortia, and trade associations with expertise
+                                  21               in the research and development of, and education
+                                  22               and outreach activities in, advanced automotive and
+                                  23               commercial vehicle technologies;
+
+
+
+
+
+                                              •S 488 IS
+
+                                                                                             9
+                                    1                        (3) develop more efficient processes for trans-
+                                    2              ferring research findings and technologies to indus-
+                                    3              try;
+                                    4                        (4) give consideration to conversion of existing
+                                    5              or former vehicle technology development or manu-
+                                    6              facturing facilities for the purposes of this Act;
+                                    7                        (5) establish and support public-private part-
+                                    8              nerships, dedicated to overcoming barriers in com-
+                                    9              mercial application of transformational vehicle tech-
+                                  10               nologies, that utilize such industry-led technology de-
+                                  11               velopment facilities of entities with demonstrated ex-
+                                  12               pertise in successfully designing and engineering
+                                  13               pre-commercial generations of such transformational
+                                  14               technology; and
+                                  15                         (6) promote efforts to ensure that technology
+                                  16               research, development, engineering, and commercial
+                                  17               application activities funded under this Act are car-
+                                  18               ried out in the United States.
+                                  19               (d) INTERAGENCY                      AND        INTRAAGENCY COORDINA-
+                                  20      TION.—To             the maximum extent practicable, the Secretary
+                                  21 shall coordinate research, development, demonstration,
+                                  22 and commercial application activities among—
+                                  23                         (1) relevant programs within the Department,
+                                  24               including—
+
+
+
+
+
+                                              •S 488 IS
+
+                                                                                         10
+                                    1                                 (A) the Office of Energy Efficiency and
+                                    2                        Renewable Energy;
+                                    3                                 (B) the Office of Science;
+                                    4                                 (C) the Office of Electricity Delivery and
+                                    5                        Energy Reliability;
+                                    6                                 (D) the Office of Fossil Energy;
+                                    7                                 (E) the Advanced Research Projects Agen-
+                                    8                        cy—Energy; and
+                                    9                                 (F) other offices as determined by the Sec-
+                                  10                         retary; and
+                                  11                         (2) relevant technology research and develop-
+                                  12               ment programs within the Department of Transpor-
+                                  13               tation and other Federal agencies, as determined by
+                                  14               the Secretary.
+                                  15               (e)         FEDERAL                 DEMONSTRATION                          OF   TECH-
+                                  16      NOLOGIES.—The                    Secretary shall make information avail-
+                                  17 able to procurement programs of Federal agencies regard-
+                                  18 ing the potential to demonstrate technologies resulting
+                                  19 from activities funded through programs under this Act.
+                                  20               (f)        INTERGOVERNMENTAL                              COORDINATION.—The
+                                  21 Secretary shall seek opportunities to leverage resources
+                                  22 and support initiatives of State and local governments in
+                                  23 developing and promoting advanced vehicle technologies,
+                                  24 manufacturing, and infrastructure.
+
+
+
+
+
+                                              •S 488 IS
+
+                                                                                         11
+                                    1              (g) CRITERIA.—When awarding cost-shared grants
+                                    2 under this program, the Secretary shall give priority to
+                                    3 those technologies (either individually or as part of a sys-
+                                    4 tem) that—
+                                    5                        (1) provide the greatest aggregate fuel savings
+                                    6              based on the reasonable projected sales volumes of
+                                    7              the technology; and
+                                    8                        (2) provide the greatest increase in United
+                                    9              States employment.
+                                  10      SEC.         102.       SENSING              AND         COMMUNICATIONS                  TECH-
+                                  11                              NOLOGIES.
+                                  12               (a) IN GENERAL.—The Secretary, in coordination
+                                  13 with the Secretary of Transportation and the relevant re-
+                                  14 search programs of other Federal agencies, shall conduct
+                                  15 research, development, engineering, and demonstration ac-
+                                  16 tivities on connectivity of vehicle and transportation sys-
+                                  17 tems, including on sensing, computation, communication,
+                                  18 and actuation technologies that allow for reduced fuel use,
+                                  19 optimized traffic flow, and vehicle electrification, including
+                                  20 technologies for—
+                                  21                         (1) onboard vehicle, engine, and component
+                                  22               sensing and actuation;
+                                  23                         (2) vehicle-to-vehicle sensing and communica-
+                                  24               tion;
+
+
+
+
+
+                                              •S 488 IS
+
+                                                                                         12
+                                    1                        (3) vehicle-to-infrastructure sensing and com-
+                                    2              munication; and
+                                    3                        (4) vehicle integration with the electrical grid,
+                                    4              including communications to provide grid services.
+                                    5              (b) COORDINATION.—The activities carried out under
+                                    6 this section shall supplement (and not supplant) activities
+                                    7 under the intelligent transportation system research pro-
+                                    8 gram of the Department of Transportation.
+                                    9     SEC. 103. MANUFACTURING.
+                                  10               The Secretary shall carry out a research, develop-
+                                  11 ment, engineering, demonstration, and commercial appli-
+                                  12 cation program of advanced vehicle manufacturing tech-
+                                  13 nologies and practices, including innovative processes to—
+                                  14                         (1) increase the production rate and decrease
+                                  15               the cost of advanced battery manufacturing;
+                                  16                         (2) vary the capability of individual manufac-
+                                  17               turing facilities to accommodate different battery
+                                  18               chemistries and configurations;
+                                  19                         (3) reduce waste streams, emissions, and en-
+                                  20               ergy-intensity of vehicle, engine, advanced battery
+                                  21               and component manufacturing processes;
+                                  22                         (4) recycle and remanufacture used batteries
+                                  23               and other vehicle components for reuse in vehicles or
+                                  24               stationary applications;
+
+
+
+
+
+                                              •S 488 IS
+
+                                                                                         13
+                                    1                        (5) produce cost-effective lightweight materials
+                                    2              such as advanced metal alloys, polymeric composites,
+                                    3              and carbon fiber;
+                                    4                        (6) produce lightweight high pressure storage
+                                    5              systems for gaseous fuels;
+                                    6                        (7) design and manufacture purpose-built hy-
+                                    7              drogen and fuel cell vehicles and components;
+                                    8                        (8) improve the calendar life and cycle life of
+                                    9              advanced batteries; and
+                                  10                         (9) produce permanent magnets for advanced
+                                  11               vehicles.
+                                  12      SEC. 104. REPORTING.
+
+                                  13               (a) TECHNOLOGIES DEVELOPED.—Not later than 18
+                                  14 months after the date of enactment of this Act and annu-
+                                  15 ally thereafter through 2017, the Secretary of Energy
+                                  16 shall transmit to Congress a report regarding the tech-
+                                  17 nologies developed as a result of the activities authorized
+                                  18 by this title, with a particular emphasis on whether the
+                                  19 technologies were successfully adopted for commercial ap-
+                                  20 plications, and if so, whether products relying on those
+                                  21 technologies are manufactured in the United States.
+                                  22               (b) ADDITIONAL MATTERS.—At the end of each fis-
+                                  23 cal year through 2017 the Secretary shall submit to the
+                                  24 relevant Congressional committees of jurisdiction an an-
+
+
+
+
+                                  25 nual report describing activities undertaken in the pre-
+                                              •S 488 IS
+
+                                                                                         14
+                                    1 vious year under this title, active industry participants, ef-
+                                    2 forts to recruit new participants committed to design, en-
+                                    3 gineering, and manufacturing of advanced vehicle tech-
+                                    4 nologies in the United States, progress of the program in
+                                    5 meeting goals and timelines, and a strategic plan for fund-
+                                    6 ing of activities across agencies.
+                                    7     TITLE II—MEDIUM AND HEAVY
+                                    8        DUTY   COMMERCIAL  AND
+                                    9        TRANSIT VEHICLES
+                                  10      SEC. 201. PROGRAM.
+
+                                  11               (a) IN GENERAL.—The Secretary, in partnership
+                                  12 with relevant research and development programs in other
+                                  13 Federal agencies, and a range of appropriate industry
+                                  14 stakeholders, shall carry out a program of cooperative re-
+                                  15 search, development, demonstration, and commercial ap-
+                                  16 plication activities on advanced technologies for medium-
+                                  17 to heavy-duty commercial, vocational, recreational, and
+                                  18 transit vehicles, including activities in the areas of—
+                                  19                         (1) engine efficiency and combustion research;
+                                  20                         (2) onboard storage technologies for compressed
+                                  21               natural gas and liquefied petroleum gas;
+                                  22                         (3) development and integration of engine tech-
+                                  23               nologies designed for compressed natural gas and
+                                  24               liquefied petroleum gas operation of a variety of ve-
+
+
+
+
+                                  25               hicle platforms;
+                                              •S 488 IS
+
+                                                                                         15
+                                    1                        (4) waste heat recovery and conversion;
+                                    2                        (5) improved aerodynamics and tire rolling re-
+                                    3              sistance;
+                                    4                        (6) energy and space-efficient emissions control
+                                    5              systems;
+                                    6                        (7) heavy hybrid, hybrid hydraulic, plug-in hy-
+                                    7              brid, and electric platforms, and energy storage
+                                    8              technologies;
+                                    9                        (8) drivetrain optimization;
+                                  10                         (9) friction and wear reduction;
+                                  11                         (10) engine idle and parasitic energy loss reduc-
+                                  12               tion;
+                                  13                         (11) electrification of accessory loads;
+                                  14                         (12) onboard sensing and communications tech-
+                                  15               nologies;
+                                  16                         (13) advanced lightweighting materials and ve-
+                                  17               hicle designs;
+                                  18                         (14) increasing load capacity per vehicle;
+                                  19                         (15) thermal management of battery systems;
+                                  20                         (16) recharging infrastructure;
+                                  21                         (17) compressed natural gas and liquefied pe-
+                                  22               troleum gas infrastructure;
+                                  23                         (18) advanced internal combustion engines;
+                                  24                         (19) complete vehicle modeling and simulation;
+
+
+
+
+
+                                              •S 488 IS
+
+                                                                                         16
+                                    1                        (20) hydrogen vehicle technologies, including
+                                    2              fuel cells and internal combustion engines, and hy-
+                                    3              drogen infrastructure;
+                                    4                        (21) retrofitting advanced technologies onto ex-
+                                    5              isting truck fleets; and
+                                    6                        (22) integration of these and other advanced
+                                    7              systems onto a single truck and trailer platform.
+                                    8              (b) LEADERSHIP.—The Secretary shall appoint a
+                                    9 full-time Director to coordinate research, development,
+                                  10 demonstration, and commercial application activities in
+                                  11 medium- to heavy-duty commercial, recreational, and tran-
+                                  12 sit vehicle technologies. Responsibilities of the Director
+                                  13 shall be to—
+                                  14                         (1) improve coordination and develop consensus
+                                  15               between government agency and industry partners,
+                                  16               and propose new processes for program management
+                                  17               and priority setting to better align activities and
+                                  18               budgets among partners;
+                                  19                         (2) regularly convene workshops, site visits,
+                                  20               demonstrations, conferences, investor forums, and
+                                  21               other events in which information and research find-
+                                  22               ings are shared among program participants and in-
+                                  23               terested stakeholders;
+                                  24                         (3) develop a budget for the Department’s ac-
+
+
+
+
+                                  25               tivities with regard to the interagency program, and
+                                              •S 488 IS
+
+                                                                                         17
+                                    1              provide consultation and guidance on vehicle tech-
+                                    2              nology funding priorities across agencies;
+                                    3                        (4) determine a process for reviewing program
+                                    4              technical goals, targets, and timetables and, where
+                                    5              applicable, aided by life-cycle impact and cost anal-
+                                    6              ysis, propose revisions or elimination based on pro-
+                                    7              gram progress, available funding, and rate of tech-
+                                    8              nology adoption;
+                                    9                        (5) evaluate ongoing activities of the program
+                                  10               and recommend project modifications, including the
+                                  11               termination of projects, where applicable;
+                                  12                         (6) recruit new industry participants to the
+                                  13               interagency program, including truck, trailer, and
+                                  14               component manufacturers who have not traditionally
+                                  15               participated in federally sponsored research and
+                                  16               technology development activities; and
+                                  17                         (7) other responsibilities as determined by the
+                                  18               Secretary, in consultation with interagency and in-
+                                  19               dustry partners.
+                                  20               (c) REPORTING.—At the end of each fiscal year, the
+                                  21 Secretary shall submit to the Congress an annual report
+                                  22 describing activities undertaken in the previous year, ac-
+                                  23 tive industry participants, efforts to recruit new partici-
+                                  24 pants, progress of the program in meeting goals and
+
+
+
+
+
+                                              •S 488 IS
+
+                                                                                         18
+                                    1 timelines, and a strategic plan for funding of activities
+                                    2 across agencies.
+                                    3     SEC. 202. CLASS 8 TRUCK AND TRAILER SYSTEMS DEM-
+                                    4                             ONSTRATION.
+                                    5              The Secretary shall conduct a competitive grant pro-
+                                    6 gram to demonstrate the integration of multiple advanced
+                                    7 technologies on Class 8 truck and trailer platforms with
+                                    8 a goal of improving overall freight efficiency, as measured
+                                    9 in tons and volume of freight hauled or other work per-
+                                  10 formance-based metrics, by 50 percent, including a com-
+                                  11 bination of technologies listed in section 201(a). Applicant
+                                  12 teams may be comprised of truck and trailer manufactur-
+                                  13 ers, engine and component manufacturers, fleet cus-
+                                  14 tomers, university researchers, and other applicants as ap-
+                                  15 propriate for the development and demonstration of inte-
+                                  16 grated Class 8 truck and trailer systems.
+                                  17      SEC. 203. TECHNOLOGY TESTING AND METRICS.
+                                  18               The Secretary, in coordination with the partners of
+                                  19 the interagency research program described in section
+                                  20 201(a)—
+                                  21                         (1) shall develop standard testing procedures
+                                  22               and technologies for evaluating the performance of
+                                  23               advanced heavy vehicle technologies under a range of
+                                  24               representative duty cycles and operating conditions,
+
+
+
+
+                                  25               including for heavy hybrid propulsion systems;
+                                              •S 488 IS
+
+                                                                                         19
+                                    1                        (2) shall evaluate heavy vehicle performance
+                                    2              using work performance-based metrics other than
+                                    3              those based on miles per gallon, including those
+                                    4              based on units of volume and weight transported for
+                                    5              freight applications, and appropriate metrics based
+                                    6              on the work performed by nonroad systems; and
+                                    7                        (3) may construct heavy duty truck and bus
+                                    8              testing facilities.
+                                    9     SEC. 204. NONROAD SYSTEMS PILOT PROGRAM.
+                                  10               The Secretary shall undertake a pilot program of re-
+                                  11 search, development, demonstration, and commercial ap-
+                                  12 plications of technologies to improve total machine or sys-
+                                  13 tem efficiency for nonroad mobile equipment including ag-
+                                  14 ricultural and construction equipment, and shall seek op-
+                                  15 portunities to transfer relevant research findings and tech-
+                                  16 nologies between the nonroad and on-highway equipment
+                                  17 and vehicle sectors.
+                                  18      SEC. 205. REPEAL OF EXISTING AUTHORITIES.
+
+                                  19               (a) IN GENERAL.—Sections 706, 711, 712, and 933
+                                  20 of the Energy Policy Act of 2005 (42 U.S.C. 16051,
+                                  21 16061, 16062, 16233) are repealed.
+                                  22               (b) ENERGY EFFICIENCY.—Section 911 of the En-
+                                  23 ergy Policy Act of 2005 (42 U.S.C. 16191) is amended—
+                                  24                         (1) in subsection (a)—
+
+
+
+
+
+                                              •S 488 IS
+
+                                                                                         20
+                                    1                                 (A) in paragraph (1)(A), by striking ‘‘vehi-
+                                    2                        cles, buildings,’’ and inserting ‘‘buildings’’; and
+                                    3                                 (B) in paragraph (2)—
+                                    4                                        (i) by striking subparagraph (A); and
+                                    5                                        (ii) by redesignating subparagraphs
+                                    6                                 (B) through (E) as subparagraphs (A)
+                                    7                                 through (D), respectively; and
+                                    8                        (2) in subsection (c)—
+                                    9                                 (A) by striking paragraph (3);
+                                  10                                  (B) by redesignating paragraph (4) as
+                                  11                         paragraph (3); and
+                                  12                                  (C) in paragraph (3) (as so redesignated),
+                                  13                         by        striking              ‘‘(a)(2)(D)’’              and        inserting
+                                  14                         ‘‘(a)(2)(C)’’.
+                                  15               (c) ENERGY STORAGE COMPETITIVENESS.—Section
+                                  16 641 of the Energy Independence and Security Act of 2007
+                                  17 (42 U.S.C. 17231) is amended—
+                                  18                         (1) by striking subsection (j);
+                                  19                         (2) by redesignating subsections (k) through (p)
+                                  20               as subsections (j) through (o), respectively; and
+                                  21                         (3) in subsection (o) (as so redesignated)—
+                                  22                                  (A) in paragraph (2), by striking ‘‘and;’’
+                                  23                         after the semicolon at the end;
+                                  24                                  (B) in paragraph (4), by inserting ‘‘and’’
+
+
+
+
+                                  25                         after the semicolon at the end;
+                                              •S 488 IS
+
+                                                                                         21
+                                    1                                 (C) by striking paragraph (5);
+                                    2                                 (D) by redesignating paragraph (6) as
+                                    3                        paragraph (5); and
+                                    4                                 (E) in paragraph (5) (as so redesignated),
+                                    5                        by striking ‘‘subsection (k)’’ and inserting ‘‘sub-
+                                    6                        section (j)’’.
+                                              •S 488 IS                                    Æ

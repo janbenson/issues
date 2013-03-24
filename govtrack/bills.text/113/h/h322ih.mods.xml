@@ -1,0 +1,629 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee183eb2395">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend the Toxic Substances Control Act to clarify the jurisdiction of the Environmental Protection Agency with respect to certain sporting good articles, and to exempt those articles from a definition under that Act.;
+   		Hunting, Fishing, and Recreational Shooting Protection Act;H.R. 322 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-03-19</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend the Toxic Substances Control Act to clarify the jurisdiction of the Environmental Protection Agency with respect to certain sporting good articles, and to exempt those articles from a definition under that Act.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Hunting, Fishing, and Recreational Shooting Protection Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 322 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-01-18</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>2 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee183eb2395</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr322ih</identifier>
+<identifier type="preferred citation">H.R. 322</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h322_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr322ih/html/BILLS-113hr322ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr322ih/pdf/BILLS-113hr322ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr322ih/xml/BILLS-113hr322ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-03-19</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2013-03-19</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr322ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mr. Miller of Florida</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Alexander</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Bachus</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Bishop of Utah</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mrs. Blackburn</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Bonner</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Boustany</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Broun of Georgia</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Chabot</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Conaway</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Duncan of South Carolina</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Franks of Arizona</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Graves of Missouri</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Griffin of Arkansas</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Hanna</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Hastings of Washington</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Hunter</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Jones</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Jordan</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. King of Iowa</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Kline</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Latta</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Matheson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. McIntyre</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Michaud</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Gary G. Miller of California</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Pearce</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Peterson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Pitts</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Roe of Tennessee</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Rogers of Kentucky</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Rogers of Alabama</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Ross</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Austin Scott of Georgia</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Shuster</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Simpson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Smith of Nebraska</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Terry</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Thompson of Mississippi</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Thompson of Pennsylvania</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Thornberry</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Walden</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Westmoreland</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Wittman</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Young of Alaska</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Sessions</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Energy and Commerce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 2602(2)(B)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 2602(2)(B)</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr322ih</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>322</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle>Hunting, Fishing, and Recreational Shooting Protection Act</shortTitle>
+ <action date="2013-01-18">Mr. Miller of Florida (for himself, Mr. Alexander, Mr. Bachus, Mr. Bishop of Utah, Mrs. Black, Mrs. Blackburn, Mr. Bonner, Mr. Boustany, Mr. Broun of Georgia, Mr. Cassidy, Mr. Chabot, Mr. Coffman, Mr. Conaway, Mr. Crawford, Mr. DesJarlais, Mr. Duncan of South Carolina, Mr. Fincher, Mr. Franks of Arizona, Mr. Graves of Missouri, Mr. Griffin of Arkansas, Mr. Hanna, Mrs. Hartzler, Mr. Hastings of Washington, Mr. Huelskamp, Mr. Hunter, Mr. Huizenga of Michigan, Mr. Jones, Mr. Jordan, Mr. King of Iowa, Mr. Kinzinger of Illinois, Mr. Kline, Mr. Latta, Mr. Luetkemeyer, Mrs. Lummis, Mr. Matheson, Mr. McIntyre, Mr. Michaud, Mr. Gary G. Miller of California, Mr. Nugent, Mr. Nunnelee, Mr. Olson, Mr. Palazzo, Mr. Pearce, Mr. Peterson, Mr. Pitts, Mr. Pompeo, Mr. Roe of Tennessee, Mr. Rogers of Kentucky, Mr. Rogers of Alabama, Mr. Ross, Mr. Austin Scott of Georgia, Mr. Shuster, Mr. Simpson, Mr. Southerland, Mr. Smith of Nebraska, Mr. Stivers, Mr. Stutzman, Mr. Terry, Mr. Thompson of Mississippi, Mr. Thompson of Pennsylvania, Mr. Thornberry, Mr. Tipton, Mr. Walden, Mr. Westmoreland, Mr. Wittman, Mr. Womack, Mr. Young of Alaska, and Mr. Sessions) introduced the following bill; which was referred to the Committee on Energy and Commerce</action>
+ <congCommittee authorityId="hsif00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on Energy and Commerce</name>
+                      <name type="authority-short">Energy and Commerce</name>
+                </congCommittee>
+ <congMember chamber="H" congress="113" role="SPONSOR" state="FL">
+                      <name type="parsed">Mr. Miller of Florida</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Alexander</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Bachus</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="UT">
+                      <name type="parsed">Mr. Bishop of Utah</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mrs. Blackburn</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Bonner</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Boustany</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Broun of Georgia</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Chabot</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Conaway</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="SC">
+                      <name type="parsed">Mr. Duncan of South Carolina</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Franks of Arizona</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="MO">
+                      <name type="parsed">Mr. Graves of Missouri</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="AR">
+                      <name type="parsed">Mr. Griffin of Arkansas</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Hanna</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="WA">
+                      <name type="parsed">Mr. Hastings of Washington</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Hunter</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Jones</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Jordan</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="IA">
+                      <name type="parsed">Mr. King of Iowa</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Kline</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Latta</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Matheson</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. McIntyre</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Michaud</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Gary G. Miller of California</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Pearce</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Peterson</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Pitts</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="TN">
+                      <name type="parsed">Mr. Roe of Tennessee</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="KY">
+                      <name type="parsed">Mr. Rogers of Kentucky</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="AL">
+                      <name type="parsed">Mr. Rogers of Alabama</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Ross</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Austin Scott of Georgia</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Shuster</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Simpson</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="NE">
+                      <name type="parsed">Mr. Smith of Nebraska</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Terry</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="MS">
+                      <name type="parsed">Mr. Thompson of Mississippi</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Thompson of Pennsylvania</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Thornberry</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Walden</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Westmoreland</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Wittman</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="AK">
+                      <name type="parsed">Mr. Young of Alaska</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Sessions</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="15">
+                      <section detail="(2)(B)" number="2602"></section>
+                </USCode>
+</extension>
+</mods>

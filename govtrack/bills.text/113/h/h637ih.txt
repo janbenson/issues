@@ -1,0 +1,506 @@
+                                                                                                                                   I
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                          H. R. 637
+                                        To provide for a legal framework for the operation of public unmanned
+                                                       aircraft systems, and for other purposes.
+
+
+
+
+                                                IN THE HOUSE OF REPRESENTATIVES
+                                                                FEBRUARY 13, 2013
+                                     Mr. POE of Texas (for himself and Ms. LOFGREN) introduced the following
+                                            bill; which was referred to the Committee on the Judiciary
+
+
+
+
+                                                                            A BILL
+                                    To provide for a legal framework for the operation of public
+                                       unmanned aircraft systems, and for other purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Preserving American
+                                    5 Privacy Act of 2013’’.
+                                    6     SEC. 2. USE OF UNMANNED AIRCRAFT SYSTEMS.
+
+                                    7              (a) IN GENERAL.—Part II of title 18, United States
+                                    8 Code, is amended by inserting after chapter 205 the fol-
+                                    9 lowing:
+
+
+
+
+
+                                    1            ‘‘CHAPTER 205A—USE OF UNMANNED        2
+                                    2                                  AIRCRAFT SYSTEMS
+                                          ‘‘3119a. Definitions.
+                                          ‘‘3119b. Use of public unmanned aircraft systems.
+                                          ‘‘3119c. Use of covered information as evidence.
+                                          ‘‘3119d. Administrative discipline.
+                                          ‘‘3119e. Reporting.
+                                          ‘‘3119f. Private use of unmanned aircraft systems.
+                                          ‘‘3119g. Application with other Federal laws.
+                                          ‘‘3119h. Ban on weaponization.
+                                          ‘‘3119i. Rule of construction regarding State laws on unmanned aircraft system
+                                                           usage.
+
+                                    3 ‘‘§ 3119a. Definitions
+                                    4              ‘‘In this Act:
+                                    5                        ‘‘(1) COURT             OF COMPETENT JURISDICTION.—
+                                    6              The term ‘court of competent jurisdiction’ in-
+                                    7              cludes—
+                                    8                                 ‘‘(A) any district court of the United
+                                    9                        States (including a magistrate judge of such a
+                                  10                         court) or any United States court of appeals
+                                  11                         that—
+                                  12                                         ‘‘(i) has jurisdiction over the offense
+                                  13                                  being investigated;
+                                  14                                         ‘‘(ii) is in a district in which the pub-
+                                  15                                  lic unmanned aircraft system is located or
+                                  16                                  where the public unmanned aircraft system
+                                  17                                  is being or sought to be operated; or
+                                  18                                         ‘‘(iii) is acting on a request for foreign
+                                  19                                  assistance pursuant to section 3512 of title
+
+
+
+
+                                  20                                  18, United States Code; or
+                                              •HR 637 IH
+
+                                                                                             3
+                                    1                                 ‘‘(B) a court of general criminal jurisdic-
+                                    2                        tion of a State authorized by the law of that
+                                    3                        State to issue search warrants.
+                                    4                        ‘‘(2) COVERED               INFORMATION.—The                          term ‘cov-
+                                    5              ered information’ means—
+                                    6                                 ‘‘(A) information that is reasonably likely
+                                    7                        to enable identification of an individual; or
+                                    8                                 ‘‘(B) information about an individual’s
+                                    9                        property that is not in plain view.
+                                  10                         ‘‘(3) GOVERNMENTAL                          ENTITY.—The               term ‘gov-
+                                  11               ernmental entity’ means a department or agency of
+                                  12               the United States or any State or political subdivi-
+                                  13               sion thereof.
+                                  14                         ‘‘(4) PUBLIC             UNMANNED AIRCRAFT SYSTEM.—
+                                  15               The term ‘public unmanned aircraft system’ has the
+                                  16               meaning given such term in section 331 of the FAA
+                                  17               Modernization and Reform Act of 2012 (49 U.S.C.
+                                  18               40101 note).
+                                  19                         ‘‘(5) STATE.—The term ‘State’ means any
+                                  20               State of the United States, the District of Columbia,
+                                  21               the Commonwealth of Puerto Rico, and any territory
+                                  22               or possession of the United States.
+                                  23                         ‘‘(6) UNMANNED                  AIRCRAFT SYSTEM.—The                       term
+                                  24               ‘unmanned aircraft system’ has the meaning given
+
+
+
+
+
+                                              •HR 637 IH
+
+                                                                                             4
+                                    1              such term in section 331 of the FAA Modernization
+                                    2              and Reform Act of 2012 (49 U.S.C. 40101 note).
+                                    3 ‘‘§ 3119b. Use of public unmanned aircraft systems
+                                    4              ‘‘(a) APPLICATION.—A governmental entity shall op-
+                                    5 erate any public unmanned aircraft system only in accord-
+                                    6 ance with this Act.
+                                    7              ‘‘(b) MINIMIZATION.—In operating a public un-
+                                    8 manned aircraft system or disclosing any covered informa-
+                                    9 tion collected by such operation, a governmental entity
+                                  10 shall minimize, to the maximum extent practicable, the
+                                  11 collection or disclosure of such covered information.
+                                  12               ‘‘(c) DATA COLLECTION STATEMENT REQUIRED.—
+                                  13                         ‘‘(1) Concurrent with an application for a cer-
+                                  14               tificate or license to operate a public unmanned air-
+                                  15               craft system in the national airspace, a govern-
+                                  16               mental entity shall submit to the Attorney General
+                                  17               a data collection statement, in such form and man-
+                                  18               ner as the Attorney General may by rule require,
+                                  19               that describes—
+                                  20                                  ‘‘(A) the purpose for which the public un-
+                                  21                         manned aircraft system will be used;
+                                  22                                  ‘‘(B) whether the public unmanned aircraft
+                                  23                         system is capable of collecting covered informa-
+                                  24                         tion;
+
+
+
+
+
+                                              •HR 637 IH
+
+                                                                                             5
+                                    1                                 ‘‘(C) the length of time for which the col-
+                                    2                        lected covered information will be retained;
+                                    3                                 ‘‘(D) an individual point of contact for cit-
+                                    4                        izen feedback;
+                                    5                                 ‘‘(E) the particular unit of the govern-
+                                    6                        mental entity responsible for safe and appro-
+                                    7                        priate operation of the public unmanned air-
+                                    8                        craft system;
+                                    9                                 ‘‘(F) the rank and title of the individual
+                                  10                         who may authorize the operation of the public
+                                  11                         unmanned aircraft system;
+                                  12                                  ‘‘(G) the applicable data minimization poli-
+                                  13                         cies barring the collection of covered informa-
+                                  14                         tion unrelated to the investigation of crime and
+                                  15                         requiring the destruction of covered information
+                                  16                         that is no longer relevant to the investigation of
+                                  17                         a crime; and
+                                  18                                  ‘‘(H) the applicable audit and oversight
+                                  19                         procedures that ensure governmental entities
+                                  20                         and those acting on their behalf use the un-
+                                  21                         manned aircraft system only as authorized,
+                                  22                         within the scope of the data collection state-
+                                  23                         ment, and in compliance with data minimization
+                                  24                         policies.
+
+
+
+
+
+                                              •HR 637 IH
+
+                                                                                             6
+                                    1                        ‘‘(2) The applicant is responsible for submitting
+                                    2              to the Attorney General updates to the data collec-
+                                    3              tion statement.
+                                    4                        ‘‘(3) The Attorney General may request that
+                                    5              the Secretary of Transportation revoke the certifi-
+                                    6              cate or license to operate the public unmanned air-
+                                    7              craft system in the national airspace if the opera-
+                                    8              tor’s activity contravenes the data collection state-
+                                    9              ment disclosures required in paragraph (1).
+                                  10                         ‘‘(4) Not later than 6 months after the date of
+                                  11               enactment of this Act, the Attorney General shall
+                                  12               issue regulations to establish a database, that is
+                                  13               publicly accessible via electronic means, indexing the
+                                  14               certificates or licenses and the associated data collec-
+                                  15               tion statements described in this subsection for pub-
+                                  16               lic unmanned aircraft systems operated within the
+                                  17               national airspace.
+                                  18 ‘‘§ 3119c. Use of covered information as evidence
+                                  19               ‘‘(a) IN GENERAL.—Covered information that a gov-
+                                  20 ernmental entity collects by operation of a public un-
+                                  21 manned aircraft system, and evidence derived from such
+                                  22 covered information, may not be received as evidence
+                                  23 against an individual in any trial, hearing, or other pro-
+                                  24 ceeding in or before any court, grand jury, department,
+
+
+
+
+                                  25 officer, agency, regulatory body, legislative committee, or
+                                              •HR 637 IH
+
+                                                                                             7
+                                    1 other authority of the United States, a State, or a political
+                                    2 subdivision thereof, unless such operation and collection,
+                                    3 or disclosure of such covered information is in accordance
+                                    4 with this Act.
+                                    5              ‘‘(b) PROHIBITION                  ON     USE         FOR   LAW ENFORCEMENT
+                                    6 PURPOSES.—Except as provided in subsection (c), a gov-
+                                    7 ernmental entity may not—
+                                    8                        ‘‘(1) operate a public unmanned aircraft system
+                                    9              for a law enforcement purpose to collect covered in-
+                                  10               formation; or
+                                  11                         ‘‘(2) disclose covered information so collected.
+                                  12               ‘‘(c) EXCEPTIONS.—A governmental entity may oper-
+                                  13 ate a public unmanned aircraft system and may collect
+                                  14 or disclose covered information acquired by such operation
+                                  15 for a law enforcement purpose only if such operation, col-
+                                  16 lection, or disclosure is in accordance with any of the fol-
+                                  17 lowing:
+                                  18                         ‘‘(1) WARRANT.—The operation, collection, or
+                                  19               disclosure is—
+                                  20                                  ‘‘(A) pursuant to a warrant issued by a
+                                  21                         court of competent jurisdiction; and
+                                  22                                  ‘‘(B) not later than 10 days after the exe-
+                                  23                         cution of the warrant, the governmental entity
+                                  24                         that sought the warrant serves a copy of the
+
+
+
+
+                                  25                         warrant on each person on whom covered infor-
+                                              •HR 637 IH
+
+                                                                                             8
+                                    1                        mation was collected, except, if providing such
+                                    2                        notice would seriously jeopardize an ongoing
+                                    3                        criminal or national security investigation, the
+                                    4                        court may delay such notice on request of the
+                                    5                        governmental entity.
+                                    6                        ‘‘(2) ORDER.—The operation, collection, or dis-
+                                    7              closure is pursuant to an order that may be lawfully
+                                    8              issued by a court of competent jurisdiction—
+                                    9                                 ‘‘(A) based on the allegation by the govern-
+                                  10                         mental entity requesting such order of specific
+                                  11                         and articulable facts showing a reasonable sus-
+                                  12                         picion of criminal activity and a reasonable
+                                  13                         probability that the operation of a public un-
+                                  14                         manned aircraft system will provide evidence of
+                                  15                         such criminal activity;
+                                  16                                  ‘‘(B) authorizing the operation of a public
+                                  17                         unmanned aircraft system only in a stipulated
+                                  18                         public area for a period of not more than 48
+                                  19                         hours;
+                                  20                                  ‘‘(C) which may be renewed at the court’s
+                                  21                         discretion for a total period of operation of not
+                                  22                         longer than 30 days; and
+                                  23                                  ‘‘(D) notice is provided—
+                                  24                                         ‘‘(i) not later than 10 days after the
+
+
+
+
+                                  25                                  termination of which, by serving a copy on
+                                              •HR 637 IH
+
+                                                                                             9
+                                    1                                 each person on whom covered information
+                                    2                                 was collected; or
+                                    3                                        ‘‘(ii) not less than 48 hours prior to
+                                    4                                 such operation, to the public in the stipu-
+                                    5                                 lated public area, by prominent placement
+                                    6                                 of a notification—
+                                    7                                                  ‘‘(I) in a major publication (with
+                                    8                                        circulation of more than 1,000 in that
+                                  109                                        area);    ‘‘(II) on a public Internet Web
+                                  11                                         site of the governmental entity, for
+                                  12                                         the duration of the operation; or
+                                  13                                                   ‘‘(III) on public signage in the
+                                  14                                         area, for the duration of the oper-
+                                  15                                         ation.
+                                  16                         ‘‘(3) U.S.           LAND BORDER.—The                            operation is
+                                  17               within a distance of 25 miles from any external land
+                                  18               boundary of the United States and is for the pur-
+                                  19               pose of patrolling or securing the border.
+                                  20                         ‘‘(4) CONSENT.—The covered information that
+                                  21               is collected or disclosed pertains to an individual who
+                                  22               provides prior written consent to such collection or
+                                  23               disclosure.
+                                  24                         ‘‘(5) EMERGENCY.—The operation is—
+
+
+
+
+
+                                              •HR 637 IH
+
+                                                                                         10
+                                    1                                 ‘‘(A) an investigative or law enforcement
+                                    2                        officer reasonably believes that an emergency
+                                    3                        situation exists that—
+                                    4                                        ‘‘(i) involves—
+                                    5                                                  ‘‘(I) immediate danger of death
+                                    6                                        or serious physical injury to any per-
+                                    7                                        son;
+                                    8                                                  ‘‘(II)            conspiratorial             activities
+                                    9                                        threatening the national security in-
+                                  10                                         terest; or
+                                  11                                                   ‘‘(III)           conspiratorial             activities
+                                  12                                         characteristic of organized crime; and
+                                  13                                         ‘‘(ii) requires such operation, collec-
+                                  14                                  tion, or disclosure before a warrant or
+                                  15                                  order authorizing such operation, collec-
+                                  16                                  tion, or disclosure may, with due diligence,
+                                  17                                  be obtained;
+                                  18                                  ‘‘(B) that officer applies for such a war-
+                                  19                         rant or order not later than 48 hours after such
+                                  20                         operation begins; and
+                                  21                                  ‘‘(C) that operation is terminated imme-
+                                  22                         diately on the earlier of when—
+                                  23                                         ‘‘(i) the information necessary to re-
+                                  24                                  solve the emergency situation is collected;
+
+
+
+
+                                  25                                  or
+                                              •HR 637 IH
+
+                                                                                         11
+                                    1                                        ‘‘(ii) the court denies the application
+                                    2                                 for the warrant or order.
+                                    3                        ‘‘(6) EFFECT               OF FAILURE TO SECURE WAR-
+                                    4              RANT OR ORDER.—If                          a warrant or order described
+                                    5              in paragraph (5) is denied, then for purposes of sub-
+                                    6              section (b), an operation, collection, or disclosure
+                                    7              under that paragraph shall not be considered to be
+                                    8              an operation, collection, or disclosure authorized
+                                    9              under this subsection. Any covered information so
+                                  10               collected shall be removed from all databases of the
+                                  11               governmental entity.
+                                  12 ‘‘§ 3119d. Administrative discipline
+                                  13               ‘‘(a) ADMINISTRATIVE DISCIPLINE.—If a court or
+                                  14 appropriate department or agency determines that a gov-
+                                  15 ernmental entity has violated any provision of this Act,
+                                  16 and the court or appropriate department or agency finds
+                                  17 that the circumstances surrounding the violation raise se-
+                                  18 rious questions about whether or not an officer or em-
+                                  19 ployee of the United States acted intentionally with re-
+                                  20 spect to the violation, the department or agency shall,
+                                  21 upon receipt of a true and correct copy of a decision or
+                                  22 findings of the court or appropriate department or agency,
+                                  23 promptly initiate a proceeding to determine whether dis-
+                                  24 ciplinary action against the officer or employee is war-
+
+
+
+
+                                  25 ranted. If the head of the department or agency involved
+                                              •HR 637 IH
+
+                                                                                         12
+                                    1 determines that disciplinary action is not warranted, such
+                                    2 head shall notify the Inspector General with jurisdiction
+                                    3 over the department or agency concerned and shall provide
+                                    4 the Inspector General with the reasons for such deter-
+                                    5 mination.
+                                    6              ‘‘(b) IMPROPER DISCLOSURE IS VIOLATION.—Any
+                                    7 willful disclosure or use by an investigative or law enforce-
+                                    8 ment officer or governmental entity of information beyond
+                                    9 the extent permitted by this Act is a violation of this Act
+                                  10 for purposes of this section.
+                                  11 ‘‘§ 3119e. Reporting
+                                  12               ‘‘(a) In January of each year, any Federal judge who
+                                  13 has issued a warrant or order (or an extension thereof)
+                                  14 under section 3 on operation of public unmanned aircraft
+                                  15 systems that expired during the preceding year, or who
+                                  16 has denied approval of such a warrant or order during
+                                  17 that year, shall report to the Administrative Office of the
+                                  18 United States Courts—
+                                  19                         ‘‘(1) the fact that an order or extension was ap-
+                                  20               plied for;
+                                  21                         ‘‘(2) the kind of order or extension applied for;
+                                  22                         ‘‘(3) the fact that the order or extension was
+                                  23               granted as applied for, was modified, or was denied;
+
+
+
+
+
+                                              •HR 637 IH
+
+                                                                                         13
+                                    1                        ‘‘(4) the period of collections authorized by the
+                                    2              order, and the number and duration of any exten-
+                                    3              sions of the order;
+                                    4                        ‘‘(5) the offense specified in the order or appli-
+                                    5              cation, or extension of an order; and
+                                    6                        ‘‘(6) the identity of the applying agency making
+                                    7              the application and the rank and title of the person
+                                    8              authorizing the application.
+                                    9              ‘‘(b) In March of each year the Attorney General, an
+                                  10 Assistant Attorney General specially designated by the At-
+                                  11 torney General, or the principal prosecuting attorney of
+                                  12 a State, or the principal prosecuting attorney for any po-
+                                  13 litical subdivision of a State, shall report to the Adminis-
+                                  14 trative Office of the United States Courts—
+                                  15                         ‘‘(1) the information required by paragraphs
+                                  16               (1) through (6) of subsection (a) with respect to
+                                  17               each application for an order or extension made dur-
+                                  18               ing the preceding calendar year;
+                                  19                         ‘‘(2) a general description of all the information
+                                  20               collected under such order or extension, including—
+                                  21                                  ‘‘(A) the approximate nature and fre-
+                                  22                         quency of incriminating conduct collected;
+                                  23                                  ‘‘(B) the approximate number of persons
+                                  24                         whose covered information was collected; and
+
+
+
+
+
+                                              •HR 637 IH
+
+                                                                                         14
+                                    1                                 ‘‘(C) the approximate nature, amount, and
+                                    2                        cost of the manpower and other resources used
+                                    3                        in the collection;
+                                    4                        ‘‘(3) the number of arrests resulting from cov-
+                                    5              ered information collected from such order or exten-
+                                    6              sion, and the offenses for which arrests were made;
+                                    7                        ‘‘(4) the number of trials resulting from such
+                                    8              covered information;
+                                    9                        ‘‘(5) the number of motions to suppress made
+                                  10               with respect to such covered information, and the
+                                  11               number granted or denied;
+                                  12                         ‘‘(6) the number of convictions resulting from
+                                  13               such covered information, and the offenses for which
+                                  14               the convictions were obtained, and a general assess-
+                                  15               ment of the importance of the information collected;
+                                  16               and
+                                  17                         ‘‘(7) the information required by paragraphs
+                                  18               (2) through (6) of this subsection with respect to or-
+                                  19               ders or extensions obtained in a preceding calendar
+                                  20               year.
+                                  21               ‘‘(c) In June of each year the Director of the Admin-
+                                  22 istrative Office of the United States Courts shall transmit
+                                  23 to the Congress a full and complete report that includes
+                                  24 a summary and analysis of all information received under
+
+
+
+
+                                  25 subsection (a) and (b) during the preceding calendar year.
+                                              •HR 637 IH
+
+                                                                                         15
+                                    1 The Director of the Administrative Office of the United
+                                    2 States Courts is authorized to issue regulations regarding
+                                    3 the content and form of the reports required to be filed
+                                    4 by subsections (a) and (b) of this section.
+                                    5 ‘‘§ 3119f. Private use of unmanned aircraft systems
+                                    6              ‘‘It shall be unlawful to intentionally operate a pri-
+                                    7 vate unmanned aircraft system to capture, in a manner
+                                    8 that is highly offensive to a reasonable person, any type
+                                    9 of visual image, sound recording, or other physical impres-
+                                  10 sion of a individual engaging in a personal or familial ac-
+                                  11 tivity under circumstances in which the individual had a
+                                  12 reasonable expectation of privacy, through the use of a vis-
+                                  13 ual or auditory enhancing device, regardless of whether
+                                  14 there is a physical trespass, if this image, sound recording,
+                                  15 or other physical impression could not have been achieved
+                                  16 without a trespass unless the visual or auditory enhancing
+                                  17 device was used.
+                                  18 ‘‘§ 3119g. Application with other Federal laws
+                                  19               ‘‘Nothing in this Act may be construed to modify,
+                                  20 limit, or supersede the operation of chapter 119 of title
+                                  21 18, United States Code.
+                                  22 ‘‘§ 3119h. Ban on weaponization
+                                  23               ‘‘It shall be unlawful for any investigative or law en-
+                                  24 forcement officer or private individual to operate an un-
+
+
+
+
+                                  25 manned aircraft system that is armed with a firearm (as
+                                              •HR 637 IH
+
+                                                                                         16
+                                    1 such term is defined in section 921 of title 18, United
+                                    2 States Code) within the airspace of the United States.
+                                    3 ‘‘§ 3119i. Rule of construction regarding State laws on
+                                    4                            unmanned aircraft system usage
+
+                                    5              ‘‘Nothing in this Act shall be construed to preempt
+                                    6 any State law regarding the use of unmanned aircraft sys-
+                                    7 tems exclusively within the borders of that State.’’.
+                                    8              (b) CLERICAL AMENDMENT.—The table of chapters
+                                    9 for part II of title 18, United States Code, is amended
+                                  10 by inserting after the item relating to chapter 205 the fol-
+                                  11 lowing:
+                                          ‘‘205A. Use of unmanned aircraft systems .............................................. 3119a’’.
+
+                                              •HR 637 IH                                   Æ

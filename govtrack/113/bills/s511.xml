@@ -1,0 +1,35 @@
+<bill session="113" type="s" number="511" updated="2013-03-15T15:46:02-04:00">
+  <state datetime="2013-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-11"/>
+  </status>
+  <introduced datetime="2013-03-11"/>
+  <titles>
+    <title as="introduced" type="short">EXCEL Act</title>
+    <title as="introduced" type="short">Expanding Access to Capital for Entrepreneurial Leaders Act</title>
+    <title as="introduced" type="official">A bill to amend the Small Business Investment Act of 1958 to enhance the Small Business Investment Company Program, and for other purposes.</title>
+  </titles>
+  <sponsor id="300063"/>
+  <cosponsors>
+    <cosponsor id="400064" joined="2013-03-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-11">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1594"/>
+    </action>
+    <action state="REFERRED" datetime="2013-03-11">
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Committee on Small Business and Entrepreneurship. Hearings held.</text>
+      <committee name="Committee on Small Business and Entrepreneurship"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

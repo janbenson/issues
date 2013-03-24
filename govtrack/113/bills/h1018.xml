@@ -1,0 +1,46 @@
+<bill session="113" type="h" number="1018" updated="2013-03-21T06:16:16-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="official">To clarify the application of certain Federal laws relating to elections in the Commonwealth of Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the United States Virgin Islands.</title>
+  </titles>
+  <sponsor id="412312"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2013-03-06"/>
+    <cosponsor id="400073" joined="2013-03-06"/>
+    <cosponsor id="412272" joined="2013-03-12"/>
+    <cosponsor id="400128" joined="2013-03-06"/>
+    <cosponsor id="400163" joined="2013-03-18"/>
+    <cosponsor id="400240" joined="2013-03-20"/>
+    <cosponsor id="400661" joined="2013-03-12"/>
+    <cosponsor id="400295" joined="2013-03-12"/>
+    <cosponsor id="412306" joined="2013-03-06"/>
+    <cosponsor id="400333" joined="2013-03-06"/>
+    <cosponsor id="400440" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-06">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E247-248"/>
+    </action>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Judiciary</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

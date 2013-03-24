@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="1228" updated="2013-03-16T06:31:33-04:00">
+  <state datetime="2013-03-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-15"/>
+  </status>
+  <introduced datetime="2013-03-15"/>
+  <titles>
+    <title as="introduced" type="official">To designate the facility of the United States Postal Service located at 300 Packerland Drive in Green Bay, Wisconsin, as the "Corporal Justin D. Ross Post Office Building".</title>
+  </titles>
+  <sponsor id="412489"/>
+  <cosponsors>
+    <cosponsor id="412488" joined="2013-03-15"/>
+    <cosponsor id="400218" joined="2013-03-15"/>
+    <cosponsor id="400661" joined="2013-03-15"/>
+    <cosponsor id="400318" joined="2013-03-15"/>
+    <cosponsor id="412585" joined="2013-03-15"/>
+    <cosponsor id="400351" joined="2013-03-15"/>
+    <cosponsor id="400365" joined="2013-03-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-15">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>3/15/2013--Introduced.
+Designates the facility of the United States Postal Service located at 300 Packerland Drive in Green Bay, Wisconsin, as the "Corporal Justin D. Ross Post Office Building."</summary>
+</bill>

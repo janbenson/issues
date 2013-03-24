@@ -1,0 +1,27 @@
+<bill session="113" type="h" number="1230" updated="2013-03-16T04:47:08-04:00">
+  <state datetime="2013-03-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-15"/>
+  </status>
+  <introduced datetime="2013-03-15"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Wild and Scenic Rivers Act to designate segments of the Molalla River in the State of Oregon, as components of the National Wild and Scenic Rivers System, and for other purposes.</title>
+  </titles>
+  <sponsor id="412315"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2013-03-15"/>
+    <cosponsor id="412501" joined="2013-03-15"/>
+    <cosponsor id="400100" joined="2013-03-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-15">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

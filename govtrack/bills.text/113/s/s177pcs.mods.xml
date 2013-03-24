@@ -1,0 +1,436 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee183eb9287">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To repeal the Patient Protection and Affordable Care Act and the Health Care and Education Reconciliation Act of 2010 entirely.;
+   		ObamaCare Repeal Act;S. 177 (PCS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-03-19</dateIngested>
+</extension>
+<titleInfo>
+ <title>To repeal the Patient Protection and Affordable Care Act and the Health Care and Education Reconciliation Act of 2010 entirely.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>ObamaCare Repeal Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 177 (PCS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-01-30</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>4 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee183eb9287</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s177pcs</identifier>
+<identifier type="preferred citation">S. 177</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s177_pcs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s177pcs/html/BILLS-113s177pcs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s177pcs/pdf/BILLS-113s177pcs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s177pcs/xml/BILLS-113s177pcs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-03-19</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2013-03-19</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s177pcs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mr. Johnson of Wisconsin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Vitter</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Roberts</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Grassley</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Cornyn</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Portman</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Paul</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Wicker</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Coburn</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Isakson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Blunt</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Chambliss</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Barrasso</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. McConnell</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Inhofe</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Flake</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Coats</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Boozman</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Burr</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Cochran</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ms. Collins</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Scott</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Toomey</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Alexander</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Lee</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Hatch</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. McCain</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Sessions</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Moran</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-148</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-148</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-152</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-152</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 9</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s177pcs</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>177</billNumber>
+ <billVersion reprint="false">pcs</billVersion>
+ <fileSuffix>pcs</fileSuffix>
+ <shortTitle>ObamaCare Repeal Act</shortTitle>
+ <action date="2013-01-29">Mr. Cruz (for himself, Mr. Johnson of Wisconsin, Mr. Vitter, Mr. Roberts, Mr. Grassley, Mr. Cornyn, Mr. Portman, Mr. Paul, Mr. Rubio, Mr. Johanns, Mr. Wicker, Mr. Coburn, Mr. Isakson, Mr. Blunt, Mr. Chambliss, Mr. Barrasso, Mr. McConnell, Mr. Inhofe, Mr. Flake, Mr. Coats, Mr. Boozman, Mr. Risch, Mr. Burr, Mr. Cochran, Mrs. Fischer, Ms. Collins, Mr. Scott, Mr. Toomey, Mr. Alexander, Mr. Lee, Mr. Hatch, Ms. Ayotte, Mr. McCain, Mr. Sessions, and Mr. Moran) introduced the following bill; which was read the first time</action>
+ <action date="2013-01-30">Read the second time and placed on the calendar</action>
+ <congMember chamber="S" congress="113" role="COSPONSOR" state="WI">
+                      <name type="parsed">Mr. Johnson of Wisconsin</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Vitter</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Roberts</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Grassley</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Cornyn</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Portman</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Paul</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Wicker</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Coburn</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Isakson</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Blunt</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Chambliss</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Barrasso</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. McConnell</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Inhofe</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Flake</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Coats</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Boozman</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Burr</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Cochran</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Ms. Collins</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Scott</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Toomey</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Alexander</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Lee</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Hatch</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. McCain</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Sessions</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Moran</name>
+                </congMember>
+ <law congress="111" isPrivate="false" number="148"></law>
+ <law congress="111" isPrivate="false" number="152"></law>
+ <congCalendar congress="113" number="9" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

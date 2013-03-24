@@ -52,7 +52,7 @@ development:
   group_images_path: <%= Rails.root %>/public/system/group_images
   notebook_files_path: <%= Rails.root %>/public/system/notebook_files
     
-  base_url: http://localhost:3000/
+  base_url: http://0.0.0.0:3000/
   api_host: api.127localhost.com:3000
   api_base_url: http://api.127localhost.com:3000/
   

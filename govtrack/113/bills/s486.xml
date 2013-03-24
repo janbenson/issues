@@ -1,0 +1,28 @@
+<bill session="113" type="s" number="486" updated="2013-03-16T06:19:20-04:00">
+  <state datetime="2013-03-07">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-07"/>
+  </status>
+  <introduced datetime="2013-03-07"/>
+  <titles>
+    <title as="introduced" type="short">Preserving Public Access to Cape Hatteras Beaches Act</title>
+    <title as="introduced" type="official">A bill to authorize pedestrian and motorized vehicular access in Cape Hatteras National Seashore Recreational Area, and for other purposes.</title>
+  </titles>
+  <sponsor id="400054"/>
+  <cosponsors>
+    <cosponsor id="412324" joined="2013-03-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-07">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="819"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

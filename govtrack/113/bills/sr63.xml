@@ -1,0 +1,31 @@
+<bill session="113" type="sr" number="63" updated="2013-03-16T06:32:24-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="official">A resolution encouraging the Navy to commission the USS Somerset (LPD-25) in Philadelphia, Pennsylvania.</title>
+  </titles>
+  <sponsor id="400408"/>
+  <cosponsors>
+    <cosponsor id="412246" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the Committee on Armed Services.</text>
+      <reference ref="CR S1030" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military procurement, research, weapons development"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="Pennsylvania"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,647 @@
+                                                                                                                                      I
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                         H. R. 1027
+                                      To provide for a program of research, development, demonstration, and
+                                    commercial application in vehicle technologies at the Department of Energy.
+
+
+
+
+                                                IN THE HOUSE OF REPRESENTATIVES
+                                                                            MARCH 7, 2013
+                                    Mr. PETERS             of Michigan introduced the following bill; which was referred to
+                                                           the Committee on Science, Space, and Technology
+
+
+
+
+                                                                             A BILL
+                                  To provide for a program of research, development, dem-
+                                     onstration, and commercial application in vehicle tech-
+                                     nologies at the Department of Energy.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Advanced Vehicle
+                                    5 Technology Act of 2013’’.
+                                    6     SEC. 2. FINDINGS.
+                                    7              Congress finds the following:
+                                    8                         (1) According to the Energy Information Ad-
+
+
+
+
+                                    9              ministration, the transportation sector accounts for
+                                  10               approximately 28 percent of the United States pri-
+
+                                                                                             2
+                                    1              mary energy demand and greenhouse gas emissions,
+                                    2              and 24 percent of global oil demand.
+                                    3                        (2) The United States transportation sector is
+                                    4              over 95 percent dependent on petroleum, and over
+                                    5              60 percent of petroleum demand is met by imported
+                                    6              supplies.
+                                    7                        (3) United States heavy truck fuel consumption
+                                    8              will increase 21 percent by 2030, while overall trans-
+                                    9              portation energy use will decline by 2 percent.
+                                  10                         (4) The domestic automotive and commercial
+                                  11               vehicle manufacturing sectors have increasingly lim-
+                                  12               ited resources for research, development, and engi-
+                                  13               neering of advanced technologies.
+                                  14                         (5) Vehicle, engine, and component manufactur-
+                                  15               ers are playing a more important role in vehicle
+                                  16               technology development, and should be better inte-
+                                  17               grated into Federal research efforts.
+                                  18                         (6) Priorities for the Department of Energy’s
+                                  19               vehicle technologies research have shifted drastically
+                                  20               in recent years among diesel hybrids, hydrogen fuel
+                                  21               cell vehicles, and plug-in electric hybrids, with little
+                                  22               continuity among them.
+                                  23                         (7) The integration of vehicle, communication,
+
+
+
+
+                                  24               and infrastructure technologies has great potential
+                                              •HR 1027 IH
+
+                                                                                             3
+                                    1              for efficiency gains through better management of
+                                    2              the total transportation system.
+                                    3                        (8) The Federal Government should balance its
+                                    4              role in researching longer-term exploratory concepts
+                                    5              and developing nearer-term transformational tech-
+                                    6              nologies for vehicles.
+                                    7     SEC. 3. OBJECTIVES.
+                                    8              The objectives of this Act are to—
+                                    9                        (1) develop United States technologies and
+                                  10               practices that—
+                                  11                                  (A) improve the fuel efficiency and emis-
+                                  12                         sions of all vehicles produced in the United
+                                  13                         States; and
+                                  14                                  (B) reduce vehicle reliance on petroleum-
+                                  15                         based fuels;
+                                  16                         (2) support domestic research, development, en-
+                                  17               gineering, demonstration, and commercial applica-
+                                  18               tion and manufacturing of advanced vehicles, en-
+                                  19               gines, and components;
+                                  20                         (3) enable vehicles to move larger volumes of
+                                  21               goods and more passengers with less energy and
+                                  22               emissions;
+                                  23                         (4) develop cost-effective advanced technologies
+
+
+
+
+                                  24               for wide-scale utilization throughout the passenger,
+                                  25               commercial, government, and transit vehicle sectors;
+
+
+                                              •HR 1027 IH
+
+                                                                                             4
+                                    1                        (5) allow for greater consumer choice of vehicle
+                                    2              technologies and fuels;
+                                    3                        (6) shorten technology development and inte-
+                                    4              gration cycles in the vehicle industry;
+                                    5                        (7) ensure a proper balance and diversity of
+                                    6              Federal investment in vehicle technologies; and
+                                    7                        (8) strengthen partnerships between Federal
+                                    8              and State governmental agencies and the private
+                                    9              and academic sectors.
+                                  10      SEC. 4. DEFINITIONS.
+                                  11               For the purposes of this Act:
+                                  12                         (1) DEPARTMENT.—The term ‘‘Department’’
+                                  13               means the Department of Energy.
+                                  14                         (2) SECRETARY.—The term ‘‘Secretary’’ means
+                                  15               the Secretary of Energy.
+                                  16      SEC. 5. AUTHORIZATION OF APPROPRIATIONS.
+                                  17               There are authorized to be appropriated to the Sec-
+                                  18 retary for United States research, development, engineer-
+                                  19 ing, demonstration, and commercial application of vehicles
+                                  20 and related technologies, including activities authorized
+                                  21 under this Act, such sums as may be necessary for each
+                                  22 of fiscal years 2014 through 2018.
+
+
+
+
+
+                                              •HR 1027 IH
+
+                                    1           TITLE I—VEHICLE RESEARCH                   5
+                                    2               AND DEVELOPMENT
+                                    3     SEC. 101. PROGRAM.
+
+                                    4              (a) ACTIVITIES.—The Secretary shall conduct a pro-
+                                    5 gram of basic and applied research, development, engi-
+                                    6 neering, demonstration, and commercial application activi-
+                                    7 ties on materials, technologies, and processes with the po-
+                                    8 tential to substantially reduce or eliminate petroleum use
+                                    9 and the emissions of the Nation’s passenger and commer-
+                                  10 cial vehicles, including activities in the areas of—
+                                  11                         (1) hybridization or full electrification of vehicle
+                                  12               systems;
+                                  13                         (2) batteries and other energy storage devices;
+                                  14                         (3) power electronics;
+                                  15                         (4) vehicle, component, and subsystem manu-
+                                  16               facturing technologies and processes;
+                                  17                         (5) engine efficiency and combustion optimiza-
+                                  18               tion;
+                                  19                         (6) waste heat recovery;
+                                  20                         (7) transmission and drivetrains;
+                                  21                         (8) hydrogen vehicle technologies, including fuel
+                                  22               cells and internal combustion engines, and hydrogen
+                                  23               infrastructure;
+
+
+
+
+
+                                  24                         (9) compressed natural gas vehicle technologies;
+
+
+
+                                              •HR 1027 IH
+
+                                                                                             6
+                                    1                        (10) aerodynamics, rolling resistance, and ac-
+                                    2              cessory power loads of vehicles and associated equip-
+                                    3              ment;
+                                    4                        (11)        vehicle             weight          reduction,              including
+                                    5              lightweighting materials;
+                                    6                        (12) friction and wear reduction;
+                                    7                        (13) engine and component durability;
+                                    8                        (14) innovative propulsion systems;
+                                    9                        (15) advanced boosting systems;
+                                  10                         (16) hydraulic hybrid technologies;
+                                  11                         (17) engine compatibility with and optimization
+                                  12               for a variety of transportation fuels including nat-
+                                  13               ural gas and other liquid and gaseous fuels;
+                                  14                         (18) predictive engineering, modeling, and sim-
+                                  15               ulation of vehicle and transportation systems;
+                                  16                         (19) refueling and charging infrastructure for
+                                  17               alternative fueled and electric or plug-in electric hy-
+                                  18               brid vehicles, including the unique challenges facing
+                                  19               rural areas;
+                                  20                         (20) gaseous fuels storage systems and system
+                                  21               integration and optimization;
+                                  22                         (21) sensing, communications, and actuation
+                                  23               technologies for vehicle, electrical grid, and infra-
+
+
+
+
+                                  24               structure;
+                                              •HR 1027 IH
+
+                                                                                             7
+                                    1                        (22) efficient use, substitution, and recycling of
+                                    2              potentially critical materials in vehicles, including
+                                    3              rare earth elements and precious metals, at risk of
+                                    4              supply disruption;
+                                    5                        (23) aftertreatment technologies;
+                                    6                        (24) thermal management of battery systems;
+                                    7                        (25) retrofitting advanced vehicle technologies
+                                    8              to existing vehicles;
+                                    9                        (26) development of common standards, speci-
+                                  10               fications, and architectures for both transportation
+                                  11               and stationary battery applications;
+                                  12                         (27) advanced internal combustion engines;
+                                  13                         (28) mild hybrid;
+                                  14                         (29) engine down speeding; and
+                                  15                         (30) other research areas as determined by the
+                                  16               Secretary.
+                                  17               (b) TRANSFORMATIONAL TECHNOLOGY.—The Sec-
+                                  18 retary shall ensure that the Department continues to sup-
+                                  19 port research, development, engineering, demonstration,
+                                  20 and commercial application activities and maintains com-
+                                  21 petency in mid- to long-term transformational vehicle tech-
+                                  22 nologies with potential to achieve deep reductions in petro-
+                                  23 leum use and emissions, including activities in the areas
+
+
+
+
+                                  24 of—
+                                              •HR 1027 IH
+
+                                                                                             8
+                                    1                        (1) hydrogen vehicle technologies, including fuel
+                                    2              cells, internal combustion engines, hydrogen storage,
+                                    3              infrastructure, and activities in hydrogen technology
+                                    4              validation and safety codes and standards;
+                                    5                        (2) multiple battery chemistries and novel en-
+                                    6              ergy storage devices, including nonchemical batteries
+                                    7              and electromechanical storage technologies such as
+                                    8              hydraulics, flywheels, and compressed air storage;
+                                    9                        (3) communication and connectivity among ve-
+                                  10               hicles, infrastructure, and the electrical grid; and
+                                  11                         (4) other innovative technologies research and
+                                  12               development, as determined by the Secretary.
+                                  13               (c) INDUSTRY PARTICIPATION.—To the maximum
+                                  14 extent practicable, activities under this Act shall be carried
+                                  15 out in partnership or collaboration with automotive manu-
+                                  16 facturers, heavy commercial, vocational, and transit vehi-
+                                  17 cle manufacturers, qualified plug-in electric vehicle manu-
+                                  18 facturers, compressed natural gas vehicle manufacturers,
+                                  19 vehicle and engine equipment and component manufactur-
+                                  20 ers, manufacturing equipment manufacturers, advanced
+                                  21 vehicle service providers, fuel producers and energy sup-
+                                  22 pliers, electric utilities, universities, national laboratories,
+                                  23 and independent research laboratories. In carrying out
+
+
+
+
+                                  24 this Act the Secretary shall—
+                                              •HR 1027 IH
+
+                                                                                             9
+                                    1                        (1) determine whether a wide range of compa-
+                                    2              nies that manufacture or assemble vehicles or com-
+                                    3              ponents in the United States are represented in on-
+                                    4              going public private partnership activities, including
+                                    5              firms that have not traditionally participated in fed-
+                                    6              erally sponsored research and development activities,
+                                    7              and where possible, partner with such firms that
+                                    8              conduct significant and relevant research and devel-
+                                    9              opment activities in the United States;
+                                  10                         (2) leverage the capabilities and resources of,
+                                  11               and formalize partnerships with, industry-led stake-
+                                  12               holder organizations, nonprofit organizations, indus-
+                                  13               try consortia, and trade associations with expertise
+                                  14               in the research and development of, and education
+                                  15               and outreach activities in, advanced automotive and
+                                  16               commercial vehicle technologies;
+                                  17                         (3) develop more efficient processes for trans-
+                                  18               ferring research findings and technologies to indus-
+                                  19               try;
+                                  20                         (4) give consideration to conversion of existing
+                                  21               or former vehicle technology development or manu-
+                                  22               facturing facilities for the purposes of this Act;
+                                  23                         (5) establish and support public-private part-
+
+
+
+
+                                  24               nerships, dedicated to overcoming barriers in com-
+                                  25               mercial application of transformational vehicle tech-
+
+
+                                              •HR 1027 IH
+
+                                                                                         10
+                                    1              nologies, that utilize such industry-led technology de-
+                                    2              velopment facilities of entities with demonstrated ex-
+                                    3              pertise in successfully designing and engineering
+                                    4              pre-commercial generations of such transformational
+                                    5              technology; and
+                                    6                        (6) promote efforts to ensure that technology
+                                    7              research, development, engineering, and commercial
+                                    8              application activities funded under this Act are car-
+                                    9              ried out in the United States.
+                                  10               (d) INTERAGENCY                      AND        INTRAAGENCY COORDINA-
+                                  11      TION.—To             the maximum extent practicable, the Secretary
+                                  12 shall coordinate research, development, demonstration,
+                                  13 and commercial application activities among—
+                                  14                         (1) relevant programs within the Department,
+                                  15               including—
+                                  16                                  (A) the Office of Energy Efficiency and
+                                  17                         Renewable Energy;
+                                  18                                  (B) the Office of Science;
+                                  19                                  (C) the Office of Electricity Delivery and
+                                  20                         Energy Reliability;
+                                  21                                  (D) the Office of Fossil Energy;
+                                  22                                  (E) the Advanced Research Projects Agen-
+                                  23                         cy—Energy; and
+
+
+
+
+
+                                  24                                  (F) other offices as determined by the Sec-
+                                  25                         retary; and
+
+
+                                              •HR 1027 IH
+
+                                                                                         11
+                                    1                        (2) relevant technology research and develop-
+                                    2              ment programs within other Federal agencies, as de-
+                                    3              termined by the Secretary.
+                                    4              (e) COORDINATION                     AND        NONDUPLICATION.—In co-
+                                    5 ordinating activities the Secretary shall ensure, to the
+                                    6 maximum extent practicable, that activities do not dupli-
+                                    7 cate those of other programs within the Department or
+                                    8 other relevant research agencies.
+                                    9              (f)         FEDERAL                 DEMONSTRATION                          OF     TECH-
+                                  10      NOLOGIES.—The                    Secretary shall make information avail-
+                                  11 able to procurement programs of Federal agencies regard-
+                                  12 ing the potential to demonstrate technologies resulting
+                                  13 from activities funded through programs under this Act.
+                                  14               (g)        INTERGOVERNMENTAL                              COORDINATION.—The
+                                  15 Secretary shall seek opportunities to leverage resources
+                                  16 and support initiatives of State and local governments in
+                                  17 developing and promoting advanced vehicle technologies,
+                                  18 manufacturing, and infrastructure.
+                                  19               (h) CRITERIA.—When awarding grants under this
+                                  20 program, the Secretary shall give priority to those tech-
+                                  21 nologies (either individually or as part of a system) that—
+                                  22                         (1) provide the greatest aggregate fuel savings
+                                  23               based on the reasonable projected sales volumes of
+
+
+
+
+                                  24               the technology; and
+                                              •HR 1027 IH
+
+                                                                                         12
+                                    1                        (2) provide the greatest increase in United
+                                    2              States employment.
+                                    3     SEC.         102.       SENSING              AND         COMMUNICATIONS                    TECH-
+                                    4                             NOLOGIES.
+                                    5              The Secretary, in coordination with the relevant re-
+                                    6 search programs of other Federal agencies, shall conduct
+                                    7 research, development, engineering, and demonstration ac-
+                                    8 tivities on connectivity of vehicle and transportation sys-
+                                    9 tems, including on sensing, computation, communication,
+                                  10 and actuation technologies that allow for reduced fuel use,
+                                  11 optimized traffic flow, and vehicle electrification, including
+                                  12 technologies for—
+                                  13                         (1) onboard vehicle, engine, and component
+                                  14               sensing and actuation;
+                                  15                         (2) vehicle-to-vehicle sensing and communica-
+                                  16               tion;
+                                  17                         (3) vehicle-to-infrastructure sensing and com-
+                                  18               munication; and
+                                  19                         (4) vehicle integration with the electrical grid.
+                                  20      SEC. 103. MANUFACTURING.
+                                  21               The Secretary shall carry out a research, develop-
+                                  22 ment, engineering, demonstration, and commercial appli-
+                                  23 cation program of advanced vehicle manufacturing tech-
+
+
+
+
+                                  24 nologies and practices, including innovative processes to—
+                                              •HR 1027 IH
+
+                                                                                         13
+                                    1                        (1) increase the production rate and decrease
+                                    2              the cost of advanced battery manufacturing;
+                                    3                        (2) vary the capability of individual manufac-
+                                    4              turing facilities to accommodate different battery
+                                    5              chemistries and configurations;
+                                    6                        (3) reduce waste streams, emissions, and energy
+                                    7              intensity of vehicle, engine, advanced battery and
+                                    8              component manufacturing processes;
+                                    9                        (4) recycle and remanufacture used batteries
+                                  10               and other vehicle components for reuse in vehicles or
+                                  11               stationary applications;
+                                  12                         (5) produce cost-effective lightweight materials
+                                  13               such as advanced metal alloys, polymeric composites,
+                                  14               and carbon fiber;
+                                  15                         (6) produce lightweight high pressure storage
+                                  16               systems for gaseous fuels;
+                                  17                         (7) design and manufacture purpose-built hy-
+                                  18               drogen and fuel cell vehicles and components;
+                                  19                         (8) improve the calendar life and cycle life of
+                                  20               advanced batteries; and
+                                  21                         (9) produce permanent magnets for advanced
+                                  22               vehicles.
+
+
+
+
+
+                                              •HR 1027 IH
+
+                                    1     SEC. 104. USER TESTING FACILITIES.             14
+                                    2              Activities under this Act may include construction,
+                                    3 expansion, or modification of new and existing vehicle, en-
+                                    4 gine, and component research and testing facilities for—
+                                    5                        (1) testing or simulating interoperability of a
+                                    6              variety of vehicle components and systems;
+                                    7                        (2) subjecting whole or partial vehicle platforms
+                                    8              to fully representative duty cycles and operating con-
+                                  109              ditions;  (3) developing and demonstrating a range of
+                                  11               chemistries and configurations for advanced vehicle
+                                  12               battery manufacturing; and
+                                  13                         (4) developing and demonstrating test cycles for
+                                  14               new and alternative fuels, and other advanced vehi-
+                                  15               cle technologies.
+                                  16      SEC. 105. REPORTING.
+
+                                  17               (a) TECHNOLOGIES DEVELOPED.—Not later than 18
+                                  18 months after the date of enactment of this Act and annu-
+                                  19 ally thereafter through 2019, the Secretary of Energy
+                                  20 shall transmit to Congress a report regarding the tech-
+                                  21 nologies developed as a result of the activities authorized
+                                  22 by this title, with a particular emphasis on whether the
+                                  23 technologies were successfully adopted for commercial ap-
+                                  24 plications, and if so, whether products relying on those
+
+
+
+
+                                  25 technologies are manufactured in the United States.
+                                              •HR 1027 IH
+
+                                                                                         15
+                                    1              (b) ADDITIONAL MATTERS.—At the end of each fis-
+                                    2 cal year through 2019 the Secretary shall submit to the
+                                    3 relevant congressional committees of jurisdiction an an-
+                                    4 nual report describing activities undertaken in the pre-
+                                    5 vious year under this title, active industry participants, ef-
+                                    6 forts to recruit new participants committed to design, en-
+                                    7 gineering, and manufacturing of advanced vehicle tech-
+                                    8 nologies in the United States, progress of the program in
+                                    9 meeting goals and timelines, and a strategic plan for fund-
+                                  10 ing of activities across agencies.
+                                  11      TITLE II—MEDIUM- AND HEAVY-
+                                  12         DUTY   COMMERCIAL   AND
+                                  13         TRANSIT VEHICLES
+                                  14      SEC. 201. PROGRAM.
+
+                                  15               (a) IN GENERAL.—The Secretary, in partnership
+                                  16 with relevant research and development programs in other
+                                  17 Federal agencies, and a range of appropriate industry
+                                  18 stakeholders, shall carry out a program of cooperative re-
+                                  19 search, development, demonstration, and commercial ap-
+                                  20 plication activities on advanced technologies for medium-
+                                  21 to heavy-duty commercial, vocational, recreational, and
+                                  22 transit vehicles, including activities in the areas of—
+                                  23                         (1) engine efficiency and combustion research;
+
+
+
+
+
+                                  24                         (2) onboard storage technologies for compressed
+                                  25               and liquefied natural gas;
+
+
+                                              •HR 1027 IH
+
+                                                                                         16
+                                    1                        (3) development and integration of engine tech-
+                                    2              nologies designed for natural gas operation of a vari-
+                                    3              ety of vehicle platforms;
+                                    4                        (4) waste heat recovery and conversion;
+                                    5                        (5) improved aerodynamics and tire rolling re-
+                                    6              sistance;
+                                    7                        (6) energy and space-efficient emissions control
+                                    8              systems;
+                                    9                        (7) mild hybrid, heavy hybrid, hybrid hydraulic,
+                                  10               plug-in hybrid, and electric platforms, and energy
+                                  11               storage technologies;
+                                  12                         (8) drivetrain optimization;
+                                  13                         (9) friction and wear reduction;
+                                  14                         (10) engine idle and parasitic energy loss reduc-
+                                  15               tion;
+                                  16                         (11) electrification of accessory loads;
+                                  17                         (12) onboard sensing and communications tech-
+                                  18               nologies;
+                                  19                         (13) advanced lightweighting materials and ve-
+                                  20               hicle designs;
+                                  21                         (14) increasing load capacity per vehicle;
+                                  22                         (15) thermal management of battery systems;
+                                  23                         (16) recharging infrastructure;
+
+
+
+
+
+                                  24                         (17) compressed natural gas infrastructure;
+                                  25                         (18) advanced internal combustion engines;
+
+
+                                              •HR 1027 IH
+
+                                                                                         17
+                                    1                        (19) complete vehicle and power pack modeling,
+                                    2              simulation, and testing;
+                                    3                        (20) hydrogen vehicle technologies, including
+                                    4              fuel cells and internal combustion engines, and hy-
+                                    5              drogen infrastructure;
+                                    6                        (21) retrofitting advanced technologies onto ex-
+                                    7              isting truck fleets;
+                                    8                        (22) advanced boosting systems;
+                                    9                        (23) engine down speeding; and
+                                  10                         (24) integration of these and other advanced
+                                  11               systems onto a single truck and trailer platform.
+                                  12               (b) LEADERSHIP.—The Secretary shall appoint a
+                                  13 full-time Director to coordinate research, development,
+                                  14 demonstration, and commercial application activities in
+                                  15 medium- to heavy-duty commercial, recreational, and tran-
+                                  16 sit vehicle technologies. Responsibilities of the Director
+                                  17 shall be to—
+                                  18                         (1) improve coordination and develop consensus
+                                  19               between government agency and industry partners,
+                                  20               and propose new processes for program management
+                                  21               and priority setting to better align activities and
+                                  22               budgets among partners;
+                                  23                         (2) regularly convene workshops, site visits,
+
+
+
+
+                                  24               demonstrations, conferences, investor forums, and
+                                  25               other events in which information and research find-
+
+
+                                              •HR 1027 IH
+
+                                                                                         18
+                                    1              ings are shared among program participants and in-
+                                    2              terested stakeholders;
+                                    3                        (3) develop a budget for the Department’s ac-
+                                    4              tivities with regard to the interagency program, and
+                                    5              provide consultation and guidance on vehicle tech-
+                                    6              nology funding priorities across agencies;
+                                    7                        (4) determine a process for reviewing program
+                                    8              technical goals, targets, and timetables and, where
+                                    9              applicable, aided by life-cycle impact and cost anal-
+                                  10               ysis, propose revisions or elimination based on pro-
+                                  11               gram progress, available funding, and rate of tech-
+                                  12               nology adoption;
+                                  13                         (5) evaluate ongoing activities of the program
+                                  14               and recommend project modifications, including the
+                                  15               termination of projects, where applicable;
+                                  16                         (6) recruit new industry participants to the
+                                  17               interagency program, including truck, trailer, and
+                                  18               component manufacturers who have not traditionally
+                                  19               participated in federally sponsored research and
+                                  20               technology development activities; and
+                                  21                         (7) other responsibilities as determined by the
+                                  22               Secretary, in consultation with interagency and in-
+                                  23               dustry partners.
+
+
+
+
+
+                                  24               (c) REPORTING.—At the end of each fiscal year, the
+                                  25 Secretary shall submit to the Congress an annual report
+
+
+                                              •HR 1027 IH
+
+                                                                                         19
+                                    1 describing activities undertaken in the previous year, ac-
+                                    2 tive industry participants, efforts to recruit new partici-
+                                    3 pants, progress of the program in meeting goals and
+                                    4 timelines, and a strategic plan for funding of activities
+                                    5 across agencies.
+                                    6     SEC. 202. CLASS 8 TRUCK AND TRAILER SYSTEMS DEM-
+                                    7                             ONSTRATION.
+                                    8              The Secretary shall conduct a competitive grant pro-
+                                    9 gram to demonstrate the integration of multiple advanced
+                                  10 technologies on Class 8 truck and trailer platforms with
+                                  11 a goal of improving overall freight efficiency, as measured
+                                  12 in tons and volume of freight hauled or other work per-
+                                  13 formance-based metrics, by 50 percent, including a com-
+                                  14 bination of technologies listed in section 201(a). Applicant
+                                  15 teams may be comprised of truck and trailer manufactur-
+                                  16 ers, engine and component manufacturers, fleet cus-
+                                  17 tomers, university researchers, and other applicants as ap-
+                                  18 propriate for the development and demonstration of inte-
+                                  19 grated Class 8 truck and trailer systems.
+                                  20      SEC. 203. TECHNOLOGY TESTING AND METRICS.
+                                  21               The Secretary, in coordination with the partners of
+                                  22 the interagency research program described in section
+                                  23 201(a)—
+                                  24                         (1) shall develop standard testing procedures
+                                  25               and technologies for evaluating the performance of
+
+
+                                              •HR 1027 IH
+
+                                                                                         20
+                                    1              advanced heavy vehicle technologies under a range of
+                                    2              representative duty cycles and operating conditions,
+                                    3              including for heavy hybrid propulsion systems;
+                                    4                        (2) shall evaluate heavy vehicle performance
+                                    5              using work performance-based metrics other than
+                                    6              those based on miles per gallon, including those
+                                    7              based on units of volume and weight transported for
+                                    8              freight applications, and appropriate metrics based
+                                    9              on the work performed by nonroad systems; and
+                                  10                         (3) may construct heavy duty truck and bus
+                                  11               testing facilities.
+                                  12      SEC. 204. NONROAD SYSTEMS PILOT PROGRAM.
+                                  13               The Secretary shall undertake a pilot program of re-
+                                  14 search, development, demonstration, and commercial ap-
+                                  15 plications of technologies to improve total machine or sys-
+                                  16 tem efficiency for nonroad mobile equipment including ag-
+                                  17 ricultural and construction equipment, and shall seek op-
+                                  18 portunities to transfer relevant research findings and tech-
+                                  19 nologies between the nonroad and on-highway equipment
+                                  20 and vehicle sectors.
+                                              •HR 1027 IH                                  Æ

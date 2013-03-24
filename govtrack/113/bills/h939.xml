@@ -1,0 +1,29 @@
+<bill session="113" type="h" number="939" updated="2013-03-05T09:46:06-05:00">
+  <state datetime="2013-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-04"/>
+  </status>
+  <introduced datetime="2013-03-04"/>
+  <titles>
+    <title as="introduced" type="short">Support Democracy in Egypt Act</title>
+    <title as="introduced" type="official">To suspend the sale, lease, transfer, retransfer, or delivery of F-16 aircraft, M1 tanks, and certain other defense articles or defense services to the Government of Egypt.</title>
+  </titles>
+  <sponsor id="412547"/>
+  <cosponsors>
+    <cosponsor id="412401" joined="2013-03-04"/>
+    <cosponsor id="412411" joined="2013-03-04"/>
+    <cosponsor id="400627" joined="2013-03-04"/>
+    <cosponsor id="412525" joined="2013-03-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-04">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

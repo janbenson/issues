@@ -1,0 +1,360 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee183e9f3ed">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To regulate assault weapons, to ensure that the right to keep and bear arms is not unlimited, and for other purposes.;
+   		Assault Weapons Ban of 2013;S. 150 (RS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-03-18</dateIngested>
+</extension>
+<titleInfo>
+ <title>To regulate assault weapons, to ensure that the right to keep and bear arms is not unlimited, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Assault Weapons Ban of 2013</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 150 (RS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-03-14</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>126 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee183e9f3ed</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s150rs</identifier>
+<identifier type="preferred citation">S. 150</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s150_rs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s150rs/html/BILLS-113s150rs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s150rs/pdf/BILLS-113s150rs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s150rs/xml/BILLS-113s150rs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-03-18</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2013-03-19</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s150rs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mrs. Feinstein</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Schumer</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Durbin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Whitehouse</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Levin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Rockefeller</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ms. Mikulski</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mrs. Boxer</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Reed</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Lautenberg</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Menendez</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Cardin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mrs. Gillibrand</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Murphy</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Carper</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ms. Hirono</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ms. Klobuchar</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Judiciary</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 18 Section 921</partNumber>
+  <partNumber>Title 18 Section 921(a)</partNumber>
+  <partNumber>Title 18 Section 922</partNumber>
+  <partNumber>Title 18 Section 922(y)(2)</partNumber>
+  <partNumber>Title 18 Section 923(i)</partNumber>
+  <partNumber>Title 18 Section 924</partNumber>
+  <partNumber>Title 18 Section 924(a)(1)(B)</partNumber>
+  <partNumber>Title 18 Section 925A</partNumber>
+  <partNumber>Title 18 Section 926B</partNumber>
+</titleInfo>
+ <identifier type="USC citation">18 U.S.C. 921</identifier>
+ <identifier type="USC citation">18 U.S.C. 921(a)</identifier>
+ <identifier type="USC citation">18 U.S.C. 922</identifier>
+ <identifier type="USC citation">18 U.S.C. 922(y)(2)</identifier>
+ <identifier type="USC citation">18 U.S.C. 923(i)</identifier>
+ <identifier type="USC citation">18 U.S.C. 924</identifier>
+ <identifier type="USC citation">18 U.S.C. 924(a)(1)(B)</identifier>
+ <identifier type="USC citation">18 U.S.C. 925A</identifier>
+ <identifier type="USC citation">18 U.S.C. 926B</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 1070et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 1070et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 3751(a)(1)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 3751(a)(1)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 27</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s150rs</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>150</billNumber>
+ <billVersion reprint="false">rs</billVersion>
+ <fileSuffix>rs</fileSuffix>
+ <shortTitle>Assault Weapons Ban of 2013</shortTitle>
+ <action date="2013-01-24" legislativeDay="2013-01-03">Mrs. Feinstein (for herself, Mr. Schumer, Mr. Durbin, Mr. Whitehouse, Mr. Blumenthal, Mr. Levin, Mr. Rockefeller, Ms. Mikulski, Mrs. Boxer, Mr. Reed, Mr. Lautenberg, Mr. Menendez, Mr. Cardin, Mrs. Gillibrand, Mr. Schatz, Mr. Murphy, Ms. Warren, Mr. Carper, Mr. Franken, Ms. Hirono, Ms. Klobuchar, and Mr. Cowan) introduced the following bill; which was read twice and referred to the Committee on the Judiciary</action>
+ <action date="2013-03-14">Reported by Mr. Leahy, with amendments</action>
+ <action date="2013-03-14">Reported with amendments</action>
+ <congCommittee authorityId="ssju00" chamber="S" congress="113" type="S">
+                      <name type="authority-standard">Committee on Judiciary</name>
+                      <name type="authority-short">Judiciary</name>
+                </congCommittee>
+ <congMember chamber="S" congress="113" role="SPONSOR">
+                      <name type="parsed">Mrs. Feinstein</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Schumer</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Durbin</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Whitehouse</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Levin</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Rockefeller</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Ms. Mikulski</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mrs. Boxer</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Reed</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Lautenberg</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Menendez</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Cardin</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mrs. Gillibrand</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Murphy</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Carper</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Ms. Hirono</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Ms. Klobuchar</name>
+                </congMember>
+ <congCalendar congress="113" number="27" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="18">
+                      <section number="921"></section>
+                      <section detail="(a)" number="921"></section>
+                      <section number="922"></section>
+                      <section detail="(y)(2)" number="922"></section>
+                      <section detail="(i)" number="923"></section>
+                      <section number="924"></section>
+                      <section detail="(a)(1)(B)" number="924"></section>
+                      <section number="925A"></section>
+                      <section number="926B"></section>
+                </USCode>
+ <USCode title="20">
+                      <section detail="et seq." number="1070"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="(a)(1)" number="3751"></section>
+                </USCode>
+</extension>
+</mods>

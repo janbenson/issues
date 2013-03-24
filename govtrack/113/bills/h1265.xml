@@ -1,0 +1,41 @@
+<bill session="113" type="h" number="1265" updated="2013-03-22T04:46:38-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title as="introduced" type="official">To require the continuation of tuition assistance programs for members of the Armed Forces for the remainder of fiscal year 2013.</title>
+  </titles>
+  <sponsor id="412575"/>
+  <cosponsors>
+    <cosponsor id="400010" joined="2013-03-20"/>
+    <cosponsor id="412532" joined="2013-03-21"/>
+    <cosponsor id="412453" joined="2013-03-19"/>
+    <cosponsor id="400179" joined="2013-03-20"/>
+    <cosponsor id="412557" joined="2013-03-20"/>
+    <cosponsor id="400240" joined="2013-03-21"/>
+    <cosponsor id="400263" joined="2013-03-21"/>
+    <cosponsor id="400295" joined="2013-03-20"/>
+    <cosponsor id="400326" joined="2013-03-20"/>
+    <cosponsor id="400349" joined="2013-03-20"/>
+    <cosponsor id="412219" joined="2013-03-21"/>
+    <cosponsor id="412318" joined="2013-03-20"/>
+    <cosponsor id="400433" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-19">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H1644"/>
+    </action>
+    <action state="REFERRED" datetime="2013-03-19">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

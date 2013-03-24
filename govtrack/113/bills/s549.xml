@@ -1,0 +1,24 @@
+<bill session="113" type="s" number="549" updated="2013-03-22T09:46:50-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="short">Public Online Information Act of 2013</title>
+    <title as="introduced" type="official">A bill to establish an advisory committee to issue nonbinding governmentwide guidelines on making public information available on the Internet, to require publicly available Government information held by the executive branch to be made available on the Internet, to express the sense of Congress that publicly available information held by the legislative and judicial branches should be available on the Internet, and for other purposes.</title>
+  </titles>
+  <sponsor id="412244"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-13">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,29 @@
+<bill session="113" type="s" number="541" updated="2013-03-22T04:45:45-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="short">Safeguard American Food Exports Act of 2013</title>
+    <title as="introduced" type="official">A bill to prevent human health threats posed by the consumption of equines raised in the United States.</title>
+  </titles>
+  <sponsor id="300063"/>
+  <cosponsors>
+    <cosponsor id="300047" joined="2013-03-12"/>
+    <cosponsor id="400272" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>3/12/2013--Introduced.
+Safeguard American Food Exports Act of 2013 - Amends the Federal Food, Drug, and Cosmetic Act to deem equine (horses and other members of the equidae family) parts to be an unsafe food additive or animal drug. Prohibits the knowing sale or transport of equines or equine parts in interstate or foreign commerce for purposes of human consumption.</summary>
+</bill>

@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="1280" updated="2013-03-21T06:16:34-04:00">
+  <state datetime="2013-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-03-20"/>
+  <titles>
+    <title as="introduced" type="official">To amend the National Voter Registration Act of 1993 to increase the penalties imposed for intimidating, threatening, or coercing any person from engaging in voter registration activities or for procuring, submitting, or casting false voter registration applications or ballots, to require election officials to transmit voter registration cards and absentee ballots to voters in elections for Federal office through the use of the automated tagging and tracing services provided by the United States Postal Service, and for other purposes.</title>
+  </titles>
+  <sponsor id="412302"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-20">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

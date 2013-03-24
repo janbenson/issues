@@ -1,0 +1,1365 @@
+<?xml version="1.0"?>
+<body status="enr" difference-size-chars="8010" percent-change="8" total-changes="121" previous-status="eh">
+  <p nid="t0:enr:1">H<removed sequence="1">R 307 EH<p/><center><p nid="t0:eh:2">113th CONGRESS</p></center><p/><center><p nid="t0:eh:3">1st Session</p></center><p/>H. </removed><inserted sequence="2">.</inserted>R.307</p>
+  <p nid="t0:enr:2">
+    <em>
+      <center>
+        <p nid="t0:enr:3">
+          <removed sequence="3">
+            <hr/>
+            <p/>
+            <center>
+              <p nid="t0:eh:5">AN ACT</p>
+            </center>
+          </removed>
+          <inserted sequence="4">One Hundred Thirteenth Congress</inserted>
+        </p>
+      </center>
+    </em>
+  </p>
+  <inserted sequence="5">
+    <p nid="t0:enr:4">
+      <em>
+        <center>
+          <p nid="t0:enr:5">of the</p>
+        </center>
+      </em>
+    </p>
+    <p nid="t0:enr:6">
+      <em>
+        <center>
+          <p nid="t0:enr:7">United States of America</p>
+        </center>
+      </em>
+    </p>
+    <p nid="t0:enr:8">
+      <em>
+        <center>
+          <p nid="t0:enr:9">AT THE FIRST SESSION</p>
+        </center>
+      </em>
+    </p>
+    <p nid="t0:enr:10">Begun and held at the City of Washington on Thursday,</p>
+    <p nid="t0:enr:11">the third day of January, two thousand and thirteen</p>
+    <p nid="t0:enr:12">An Act</p>
+  </inserted>
+  <p nid="t0:enr:13">To reauthorize certain programs under the Public Health Service Act and the Federal Food, Drug, and Cosmetic Act with respect to public health security and all-hazards preparedness and response, and for other purposes.</p>
+  <ul>
+    <p nid="t0:enr:14" tracking-nids="t0:eh:7">
+      <em>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</em>
+    </p>
+  </ul>
+  <p/>
+  <h3 nid="t0:enr:15">
+    <center>
+      <p nid="t0:enr:16" tracking-nids="t0:eh:8">SECTION 1. SHORT TITLE; TABLE OF CONTENTS.</p>
+    </center>
+  </h3>
+  <ul>
+    <p nid="t0:enr:17" tracking-nids="t0:eh:9">(a) Short Title- This Act may be cited as the &#x2018;Pandemic and All-Hazards Preparedness Reauthorization Act of 2013&#x2019;.</p>
+    <p nid="t0:enr:18" tracking-nids="t0:eh:10">(b) Table of Contents- The table of contents of this Act is as follows:</p>
+    <ul>
+      <p nid="t0:enr:19" tracking-nids="t0:eh:11">Sec. 1. Short title; table of contents.</p>
+    </ul>
+  </ul>
+  <p/>
+  <h3 nid="t0:enr:20" tracking-nids="t0:eh:12">TITLE I--STRENGTHENING NATIONAL PREPAREDNESS AND RESPONSE FOR PUBLIC HEALTH EMERGENCIES</h3>
+  <ul>
+    <ul>
+      <p nid="t0:enr:21" tracking-nids="t0:eh:13">Sec. 101. National Health Security Strategy.</p>
+      <p nid="t0:enr:22" tracking-nids="t0:eh:14">Sec. 102. Assistant Secretary for Preparedness and Response.</p>
+      <p nid="t0:enr:23" tracking-nids="t0:eh:15">Sec. 103. National Advisory Committee on Children and Disasters.</p>
+      <p nid="t0:enr:24" tracking-nids="t0:eh:16">Sec. 104. Modernization of the National Disaster Medical System.</p>
+      <p nid="t0:enr:25" tracking-nids="t0:eh:17">Sec. 105. Continuing the role of the Department of Veterans Affairs.</p>
+    </ul>
+  </ul>
+  <p/>
+  <h3 nid="t0:enr:26" tracking-nids="t0:eh:18">TITLE II--OPTIMIZING STATE AND LOCAL ALL-HAZARDS PREPAREDNESS AND RESPONSE</h3>
+  <ul>
+    <ul>
+      <p nid="t0:enr:27" tracking-nids="t0:eh:19">Sec. 201. Temporary re<changed sequence="6"><changed-from>deployment of federally funded</changed-from><changed-to>assignment of State and local</changed-to></changed> personnel during a public health emergency.</p>
+      <p nid="t0:enr:28" tracking-nids="t0:eh:20">Sec. 202. Improving State and local public health security.</p>
+      <p nid="t0:enr:29" tracking-nids="t0:eh:21">Sec. 203. Hospital preparedness and medical surge capacity.</p>
+      <p nid="t0:enr:30" tracking-nids="t0:eh:22">Sec. 204. Enhancing situational awareness and biosurveillance.</p>
+      <p nid="t0:enr:31" tracking-nids="t0:eh:23">Sec. 205. Eliminating duplicative Project Bioshield reports.</p>
+    </ul>
+  </ul>
+  <p/>
+  <h3 nid="t0:enr:32" tracking-nids="t0:eh:24">TITLE III--ENHANCING MEDICAL COUNTERMEASURE REVIEW</h3>
+  <ul>
+    <ul>
+      <p nid="t0:enr:33" tracking-nids="t0:eh:25">Sec. 301. Special protocol assessment.</p>
+      <p nid="t0:enr:34" tracking-nids="t0:eh:26">Sec. 302. Authorization for medical products for use in emergencies.</p>
+      <p nid="t0:enr:35" tracking-nids="t0:eh:27">Sec. 303. Definitions.</p>
+      <p nid="t0:enr:36" tracking-nids="t0:eh:28">Sec. 304. Enhancing medical countermeasure activities.</p>
+      <p nid="t0:enr:37" tracking-nids="t0:eh:29">Sec. 305. Regulatory management plans.</p>
+      <p nid="t0:enr:38" tracking-nids="t0:eh:30">Sec. 306. Report.</p>
+      <p nid="t0:enr:39" tracking-nids="t0:eh:31">Sec. 307. Pediatric medical countermeasures.</p>
+    </ul>
+  </ul>
+  <p/>
+  <h3 nid="t0:enr:40" tracking-nids="t0:eh:32">TITLE IV--ACCELERATING MEDICAL COUNTERMEASURE ADVANCED RESEARCH AND DEVELOPMENT</h3>
+  <ul>
+    <ul>
+      <p nid="t0:enr:41" tracking-nids="t0:eh:33">Sec. 401. BioShield.</p>
+      <p nid="t0:enr:42" tracking-nids="t0:eh:34">Sec. 402. Biomedical Advanced Research and Development Authority.</p>
+      <p nid="t0:enr:43" tracking-nids="t0:eh:35">Sec. 403. Strategic National Stockpile.</p>
+      <p nid="t0:enr:44" tracking-nids="t0:eh:36">Sec. 404. National Biodefense Science Board.</p>
+    </ul>
+  </ul>
+  <p/>
+  <h4 nid="t0:enr:45">
+    <center>
+      <p nid="t0:enr:46" tracking-nids="t0:eh:38">TITLE I--STRENGTHENING NATIONAL PREPAREDNESS AND RESPONSE FOR PUBLIC HEALTH EMERGENCIES</p>
+    </center>
+  </h4>
+  <p/>
+  <center>
+    <p nid="t0:enr:47" tracking-nids="t0:eh:39">SEC. 101. NATIONAL HEALTH SECURITY STRATEGY.</p>
+  </center>
+  <ul>
+    <p nid="t0:enr:48">(a) In General- Section 2802 of the Public Health Service Act (<usc-reference title="42" section="300hh-1" paragraph=""><usc-reference title="42" section="300hh-1" paragraph="">42 U.S.C. 300hh-1</usc-reference></usc-reference>) is amended--</p>
+    <ul>
+      <p nid="t0:enr:49" tracking-nids="t0:eh:41">(1) in subsection (a)(1), by striking &#x2018;2009&#x2019; and inserting &#x2018;2014&#x2019;; and</p>
+      <p nid="t0:enr:50">(2) in subsection (b)--</p>
+      <ul>
+        <p nid="t0:enr:51">(A) in paragraph (1)(A), by inserting &#x2018;, including drills and exercises to ensure medical surge capacity for events without notice&#x2019; after &#x2018;exercises&#x2019;; and</p>
+        <p nid="t0:enr:52" tracking-nids="t0:eh:44">(B) in paragraph (3)--</p>
+        <ul>
+          <p nid="t0:enr:53" tracking-nids="t0:eh:45">(i) in the matter preceding subparagraph (A)--</p>
+          <ul>
+            <p nid="t0:enr:54" tracking-nids="t0:eh:46">(I) by striking &#x2018;facilities), and trauma care&#x2019; and inserting &#x2018;and ambulatory care facilities and which may include dental health facilities), and trauma care, critical care,&#x2019;; and</p>
+            <p nid="t0:enr:55" tracking-nids="t0:eh:47">(II) by inserting &#x2018;(including related availability, accessibility, and coordination)&#x2019; after &#x2018;public health emergencies&#x2019;;</p>
+          </ul>
+          <p nid="t0:enr:56" tracking-nids="t0:eh:48">(ii) in subparagraph (A), by inserting &#x2018;and trauma&#x2019; after &#x2018;medical&#x2019;;</p>
+          <p nid="t0:enr:57" tracking-nids="t0:eh:49">(iii) in subparagraph (B), by striking &#x2018;Medical evacuation and fatality management&#x2019; and inserting &#x2018;Fatality management&#x2019;;</p>
+          <p nid="t0:enr:58" tracking-nids="t0:eh:50">(iv) by redesignating subparagraphs (C), (D), and (E) as subparagraphs (D), (E), and (F), respectively;</p>
+          <p nid="t0:enr:59" tracking-nids="t0:eh:51">(v) by inserting after subparagraph (B), the following the new subparagraph:</p>
+        </ul>
+        <blockquote>
+          <p nid="t0:enr:60" tracking-nids="t0:eh:52">&#x2018;(C) Coordinated medical triage and evacuation to appropriate medical institutions based on patient medical need, taking into account regionalized systems of care.&#x2019;;</p>
+        </blockquote>
+        <ul>
+          <p nid="t0:enr:61" tracking-nids="t0:eh:53">(vi) in subparagraph (E), as redesignated by clause (iv), by inserting &#x2018;(which may include such dental health assets)&#x2019; after &#x2018;medical assets&#x2019;; and</p>
+          <p nid="t0:enr:62" tracking-nids="t0:eh:54">(vii) by adding at the end the following:</p>
+        </ul>
+        <blockquote>
+          <p nid="t0:enr:63" tracking-nids="t0:eh:55">&#x2018;(G) Optimizing a coordinated and flexible approach to the medical surge capacity of hospitals, other health care facilities, critical care, <removed sequence="7">and </removed>trauma care (which may include trauma centers)<inserted sequence="8">,</inserted> and emergency medical systems.&#x2019;;</p>
+        </blockquote>
+        <p nid="t0:enr:64" tracking-nids="t0:eh:56">(C) in paragraph (4)--</p>
+        <ul>
+          <p nid="t0:enr:65" tracking-nids="t0:eh:57">(i) in subparagraph (A), by inserting &#x2018;, including the unique needs and considerations of individuals with disabilities,&#x2019; after &#x2018;medical needs of at-risk individuals&#x2019;; and</p>
+          <p nid="t0:enr:66" tracking-nids="t0:eh:58">(ii) in subparagraph (B), by inserting &#x2018;the&#x2019; before &#x2018;purpose of this section&#x2019;; and</p>
+        </ul>
+        <p nid="t0:enr:67" tracking-nids="t0:eh:59">(D) by adding at the end the following:</p>
+      </ul>
+      <blockquote>
+        <p nid="t0:enr:68" tracking-nids="t0:eh:60">&#x2018;(7) COUNTERMEASURES-</p>
+        <ul>
+          <p nid="t0:enr:69" tracking-nids="t0:eh:61">&#x2018;(A) Promoting strategic initiatives to advance countermeasures to diagnose, mitigate, prevent, or treat harm from any biological agent or toxin, chemical, radiological, or nuclear agent or agents, whether naturally occurring, unintentional, or deliberate.</p>
+          <p nid="t0:enr:70" tracking-nids="t0:eh:62">&#x2018;(B) For purposes of this paragraph, the term &#x2018;countermeasures&#x2019; has the same meaning as the terms &#x2018;qualified countermeasures&#x2019; under section 319F-1, &#x2018;qualified pandemic and epidemic products&#x2019; under section 319F-3, and &#x2018;security countermeasures&#x2019; under section 319F-2.</p>
+        </ul>
+        <p nid="t0:enr:71" tracking-nids="t0:eh:63">&#x2018;(8) MEDICAL AND PUBLIC HEALTH COMMUNITY RESILIENCY- Strengthening the ability of States, local communities, and tribal communities to prepare for, respond to, and be resilient in the event of public health emergencies, whether naturally occurring, unintentional, or deliberate by--</p>
+        <ul>
+          <p nid="t0:enr:72" tracking-nids="t0:eh:64">&#x2018;(A) optimizing alignment and integration of medical and public health preparedness and response planning and capabilities with and into routine daily activities; and</p>
+          <p nid="t0:enr:73" tracking-nids="t0:eh:65">&#x2018;(B) promoting familiarity with local medical and public health systems.&#x2019;.</p>
+        </ul>
+      </blockquote>
+    </ul>
+    <p nid="t0:enr:74">(b) At-Risk Individuals- Section 2814 of the Public Health Service Act (<usc-reference title="42" section="300hh-16" paragraph=""><usc-reference title="42" section="300hh-16" paragraph="">42 U.S.C. 300hh-16</usc-reference></usc-reference>) is amended--</p>
+    <ul>
+      <p nid="t0:enr:75" tracking-nids="t0:eh:67">(1) by striking paragraphs (5), (7), and (8);</p>
+      <p nid="t0:enr:76" tracking-nids="t0:eh:68">(2) in paragraph (4), by striking &#x2018;2811(b)(3)(B)&#x2019; and inserting &#x2018;2802(b)(4)(B)&#x2019;;</p>
+      <p nid="t0:enr:77" tracking-nids="t0:eh:69">(3) by redesignating paragraphs (1) through (4) as paragraphs (2) through (5), respectively;</p>
+      <p nid="t0:enr:78" tracking-nids="t0:eh:70">(4) by inserting before paragraph (2) (as so redesignated), the following:</p>
+      <blockquote>
+        <p nid="t0:enr:79" tracking-nids="t0:eh:71">&#x2018;(1) monitor emerging issues and concerns as they relate to medical and public health preparedness and response for at-risk individuals in the event of a public health emergency declared by the Secretary under section 319;&#x2019;;</p>
+      </blockquote>
+      <p nid="t0:enr:80" tracking-nids="t0:eh:72">(5) by amending paragraph (2) (as so redesignated) to read as follows:</p>
+      <blockquote>
+        <p nid="t0:enr:81" tracking-nids="t0:eh:73">&#x2018;(2) oversee the implementation of the preparedness goals described in section 2802(b) with respect to the public health and medical needs of at-risk individuals in the event of a public health emergency, as described in section 2802(b)(4);&#x2019;; and</p>
+      </blockquote>
+      <p nid="t0:enr:82" tracking-nids="t0:eh:74">(6) by inserting after paragraph (6), the following:</p>
+      <blockquote>
+        <p nid="t0:enr:83" tracking-nids="t0:eh:75">&#x2018;(7) disseminate and, as appropriate, update novel and best practices of outreach to and care of at-risk individuals before, during, and following public health emergencies in as timely a manner as is practicable, including from the time a public health threat is identified; and</p>
+        <p nid="t0:enr:84" tracking-nids="t0:eh:76">&#x2018;(8) ensure that public health and medical information distributed by the Department of Health and Human Services during a public health emergency is delivered in a manner that takes into account the range of communication needs of the intended recipients, including at-risk individuals.&#x2019;.</p>
+      </blockquote>
+    </ul>
+  </ul>
+  <p/>
+  <center>
+    <p nid="t0:enr:85" tracking-nids="t0:eh:77">SEC. 102. ASSISTANT SECRETARY FOR PREPAREDNESS AND RESPONSE.</p>
+  </center>
+  <ul>
+    <p nid="t0:enr:86">(a) In General- Section 2811 of the Public Health Service Act (<usc-reference title="42" section="300hh-10" paragraph=""><usc-reference title="42" section="300hh-10" paragraph="">42 U.S.C. 300hh-10</usc-reference></usc-reference>) is amended--</p>
+    <ul>
+      <p nid="t0:enr:87">(1) in subsection (b)--</p>
+      <ul>
+        <p nid="t0:enr:88">(A) in paragraph (3), by inserting &#x2018;, security countermeasures (as defined in section 319F-2),&#x2019; after &#x2018;qualified countermeasures (as defined in section 319F-1)&#x2019;;</p>
+        <p nid="t0:enr:89" tracking-nids="t0:eh:81">(B) in paragraph (4), by adding at the end the following:</p>
+        <blockquote>
+          <p nid="t0:enr:90" tracking-nids="t0:eh:82">&#x2018;(D) POLICY COORDINATION AND STRATEGIC DIRECTION- Provide integrated policy coordination and strategic direction with respect to all matters related to Federal public health and medical preparedness and execution and deployment of the Federal response for public health emergencies and incidents covered by the National Response Plan developed pursuant to section 504(6) of the Homeland Security Act of 2002, or any successor plan, before, during, and following public health emergencies.</p>
+          <p nid="t0:enr:91" tracking-nids="t0:eh:83">&#x2018;(E) IDENTIFICATION OF INEFFICIENCIES- Identify and minimize gaps, duplication, and other inefficiencies in medical and public health preparedness and response activities and the actions necessary to overcome these obstacles.</p>
+          <p nid="t0:enr:92" tracking-nids="t0:eh:84">&#x2018;(F) COORDINATION OF GRANTS AND AGREEMENTS- Align and coordinate medical and public health grants and cooperative agreements as applicable to preparedness and response activities authorized under this Act, to the extent possible, including program requirements, timelines, and measurable goals, and in consultation with the Secretary of Homeland Security, to--</p>
+          <ul>
+            <p nid="t0:enr:93" tracking-nids="t0:eh:85">&#x2018;(i) optimize and streamline medical and public health preparedness and response capabilities and the ability of local communities to respond to public health emergencies; and</p>
+            <p nid="t0:enr:94" tracking-nids="t0:eh:86">&#x2018;(ii) gather and disseminate best practices among grant and cooperative agreement recipients, as appropriate.</p>
+          </ul>
+          <p nid="t0:enr:95" tracking-nids="t0:eh:87">&#x2018;(G) DRILL AND OPERATIONAL EXERCISES- Carry out drills and operational exercises, in consultation with the Department of Homeland Security, the Department of Defense, the Department of Veterans Affairs, and other applicable Federal departments and agencies, as necessary and appropriate, to identify, inform, and address gaps in and policies related to all-hazards medical and public health preparedness and response, including exercises based on--</p>
+          <ul>
+            <p nid="t0:enr:96" tracking-nids="t0:eh:88">&#x2018;(i) identified threats for which countermeasures are available and for which no countermeasures are available; and</p>
+            <p nid="t0:enr:97" tracking-nids="t0:eh:89">&#x2018;(ii) unknown threats for which no countermeasures are available.</p>
+          </ul>
+          <p nid="t0:enr:98" tracking-nids="t0:eh:90">&#x2018;(H) NATIONAL SECURITY PRIORITY- On a periodic basis consult with, as applicable and appropriate, the Assistant to the President for National Security Affairs, to provide an update on, and discuss, medical and public health preparedness and response activities pursuant to this Act and the Federal Food, Drug, and Cosmetic Act, including progress on the development, approval, clearance, and licensure of medical countermeasures.&#x2019;; and</p>
+        </blockquote>
+        <p nid="t0:enr:99" tracking-nids="t0:eh:91">(C) by adding at the end the following:</p>
+      </ul>
+      <blockquote>
+        <p nid="t0:enr:100" tracking-nids="t0:eh:92">&#x2018;(7) COUNTERMEASURES BUDGET PLAN- Develop, and update on an annual basis, a coordinated 5-year budget plan based on the medical countermeasure priorities described in subsection (d). Each such plan shall--</p>
+        <ul>
+          <p nid="t0:enr:101" tracking-nids="t0:eh:93">&#x2018;(A) include consideration of the entire medical countermeasures enterprise, including--</p>
+          <ul>
+            <p nid="t0:enr:102" tracking-nids="t0:eh:94">&#x2018;(i) basic research and advanced research and development;</p>
+            <p nid="t0:enr:103" tracking-nids="t0:eh:95">&#x2018;(ii) approval, clearance, licensure, and authorized uses of products; and</p>
+            <p nid="t0:enr:104" tracking-nids="t0:eh:96">&#x2018;(iii) procurement, stockpiling, maintenance, and replenishment of all products in the Strategic National Stockpile;</p>
+          </ul>
+          <p nid="t0:enr:105" tracking-nids="t0:eh:97">&#x2018;(B) inform prioritization of resources and include measurable outputs and outcomes to allow for the tracking of the progress made toward identified priorities;</p>
+          <p nid="t0:enr:106" tracking-nids="t0:eh:98">&#x2018;(C) identify medical countermeasure life-cycle costs to inform planning, budgeting, and anticipated needs within the continuum of the medical countermeasure enterprise consistent with section 319F-2; and</p>
+          <p nid="t0:enr:107" tracking-nids="t0:eh:99">&#x2018;(D) be made available to the appropriate committees of Congress upon request.&#x2019;;</p>
+        </ul>
+      </blockquote>
+      <p nid="t0:enr:108" tracking-nids="t0:eh:100">(2) by striking subsection (c) and inserting the following:</p>
+    </ul>
+    <blockquote>
+      <p nid="t0:enr:109" tracking-nids="t0:eh:101">&#x2018;(c) Functions- The Assistant Secretary for Preparedness and Response shall--</p>
+      <ul>
+        <p nid="t0:enr:110" tracking-nids="t0:eh:102">&#x2018;(1) have lead responsibility within the Department of Health and Human Services for emergency preparedness and response policy coordination and strategic direction;</p>
+        <p nid="t0:enr:111" tracking-nids="t0:eh:103">&#x2018;(2) have authority over and responsibility for--</p>
+        <ul>
+          <p nid="t0:enr:112" tracking-nids="t0:eh:104">&#x2018;(A) the National Disaster Medical System pursuant to section 2812;</p>
+          <p nid="t0:enr:113" tracking-nids="t0:eh:105">&#x2018;(B) the Hospital Preparedness Cooperative Agreement Program pursuant to section 319C-2;</p>
+          <p nid="t0:enr:114" tracking-nids="t0:eh:106">&#x2018;(C) the Biomedical Advanced Research and Development Authority pursuant to section 319L;</p>
+          <p nid="t0:enr:115" tracking-nids="t0:eh:107">&#x2018;(D) the Medical Reserve Corps pursuant to section 2813;</p>
+          <p nid="t0:enr:116" tracking-nids="t0:eh:108">&#x2018;(E) the Emergency System for Advance Registration of Volunteer Health Professionals pursuant to section 319I; and</p>
+          <p nid="t0:enr:117" tracking-nids="t0:eh:109">&#x2018;(F) administering grants and related authorities related to trauma care under parts A through C of title XII, such authority to be transferred by the Secretary from the Administrator of the Health Resources and Services Administration to such Assistant Secretary;</p>
+        </ul>
+        <p nid="t0:enr:118" tracking-nids="t0:eh:110">&#x2018;(3) exercise the responsibilities and authorities of the Secretary with respect to the coordination of--</p>
+        <ul>
+          <p nid="t0:enr:119" tracking-nids="t0:eh:111">&#x2018;(A) the Public Health Emergency Preparedness Cooperative Agreement Program pursuant to section 319C-1;</p>
+          <p nid="t0:enr:120" tracking-nids="t0:eh:112">&#x2018;(B) the Strategic National Stockpile pursuant to section 319F-2; and</p>
+          <p nid="t0:enr:121" tracking-nids="t0:eh:113">&#x2018;(C) the Cities Readiness Initiative; and</p>
+        </ul>
+        <p nid="t0:enr:122" tracking-nids="t0:eh:114">&#x2018;(4) assume other duties as determined appropriate by the Secretary.&#x2019;; and</p>
+        <p nid="t0:enr:123" tracking-nids="t0:eh:115">(3) by adding at the end the following:</p>
+      </ul>
+      <p nid="t0:enr:124" tracking-nids="t0:eh:116">&#x2018;(d) Public Health Emergency Medical Countermeasures Enterprise Strategy and Implementation Plan-</p>
+      <ul>
+        <p nid="t0:enr:125">&#x2018;(1) IN GENERAL- Not later than 180 days after the date of enactment of this subsection, and every year thereafter, the Assistant Secretary for Preparedness and Response shall develop and submit to the appropriate committees of Congress a coordinated strategy and accompanying implementation plan for medical countermeasures to address chemical, biological, radiological, and nuclear threats. In developing such a plan, the Assistant Secretary for Preparedness and Response shall consult with the Director of the Biomedical Advanced Research and Development Authority, the Director of the National Institutes of Health, the Director of the Centers for Disease Control and Prevention, and the Commissioner of Food and Drugs. Such strategy and plan shall be known as the &#x2018;Public Health Emergency Medical Countermeasures Enterprise Strategy and Implementation Plan&#x2019;.</p>
+        <p nid="t0:enr:126" tracking-nids="t0:eh:118">&#x2018;(2) REQUIREMENTS- The plan under paragraph (1) shall--</p>
+        <ul>
+          <p nid="t0:enr:127" tracking-nids="t0:eh:119">&#x2018;(A) describe the chemical, biological, radiological, and nuclear agent or agents that may present a threat to the Nation and the corresponding efforts to develop qualified countermeasures (as defined in section 319F-1), security countermeasures (as defined in section 319F-2), or qualified pandemic or epidemic products (as defined in section 319F-3) for each threat;</p>
+          <p nid="t0:enr:128" tracking-nids="t0:eh:120">&#x2018;(B) evaluate the progress of all activities with respect to such countermeasures or products, including research, advanced research, development, procurement, stockpiling, deployment, distribution, and utilization;</p>
+          <p nid="t0:enr:129" tracking-nids="t0:eh:121">&#x2018;(C) identify and prioritize near-, mid-, and long-term needs with respect to such countermeasures or products to address a chemical, biological, radiological, and nuclear threat or threats;</p>
+          <p nid="t0:enr:130" tracking-nids="t0:eh:122">&#x2018;(D) identify, with respect to each category of threat, a summary of all awards and contracts, including advanced research and development and procurement, that includes--</p>
+          <ul>
+            <p nid="t0:enr:131" tracking-nids="t0:eh:123">&#x2018;(i) the time elapsed from the issuance of the initial solicitation or request for a proposal to the adjudication (such as the award, denial of award, or solicitation termination); and</p>
+            <p nid="t0:enr:132" tracking-nids="t0:eh:124">&#x2018;(ii) an identification of projected timelines, anticipated funding allocations, benchmarks, and milestones for each medical countermeasure priority under subparagraph (C), including projected needs with regard to replenishment of the Strategic National Stockpile;</p>
+          </ul>
+          <p nid="t0:enr:133" tracking-nids="t0:eh:125">&#x2018;(E) be informed by the recommendations of the National Biodefense Science Board pursuant to section 319M;</p>
+          <p nid="t0:enr:134" tracking-nids="t0:eh:126">&#x2018;(F) evaluate progress made in meeting timelines, allocations, benchmarks, and milestones identified under subparagraph (D)(ii);</p>
+          <p nid="t0:enr:135" tracking-nids="t0:eh:127">&#x2018;(G) report on the amount of funds available for procurement in the special reserve fund as defined in section 319F-2(h) and the impact this funding will have on meeting the requirements under section 319F-2;</p>
+          <p nid="t0:enr:136" tracking-nids="t0:eh:128">&#x2018;(H) incorporate input from Federal, State, local, and tribal stakeholders;</p>
+          <p nid="t0:enr:137" tracking-nids="t0:eh:129">&#x2018;(I) identify the progress made in meeting the medical countermeasure priorities for at-risk individuals (as defined in 2802(b)(4)(B)), as applicable under subparagraph (C), including with regard to the projected needs for related stockpiling and replenishment of the Strategic National Stockpile, including by addressing the needs of pediatric populations with respect to such countermeasures and products in the Strategic National Stockpile, including--</p>
+          <ul>
+            <p nid="t0:enr:138" tracking-nids="t0:eh:130">&#x2018;(i) a list of such countermeasures and products necessary to address the needs of pediatric populations;</p>
+            <p nid="t0:enr:139" tracking-nids="t0:eh:131">&#x2018;(ii) a description of measures taken to coordinate with the Office of Pediatric Therapeutics of the Food and Drug Administration to maximize the labeling, dosages, and formulations of such countermeasures and products for pediatric populations;</p>
+            <p nid="t0:enr:140" tracking-nids="t0:eh:132">&#x2018;(iii) a description of existing gaps in the Strategic National Stockpile and the development of such countermeasures and products to address the needs of pediatric populations; and</p>
+            <p nid="t0:enr:141" tracking-nids="t0:eh:133">&#x2018;(iv) an evaluation of the progress made in addressing priorities identified pursuant to subparagraph (C);</p>
+          </ul>
+          <p nid="t0:enr:142" tracking-nids="t0:eh:134">&#x2018;(J) identify the use of authority and activities undertaken pursuant to sections 319F-1(b)(1), 319F-1(b)(2), 319F-1(b)(3), 319F-1(c), 319F-1(d), 319F-1(e), 319F-2(c)(7)(C)(iii), 319F-2(c)(7)(C)(iv), and 319F-2(c)(7)(C)(v) of this Act, and subsections (a)(1), (b)(1), and (e) of section 564 of the Federal Food, Drug, and Cosmetic Act, by summarizing--</p>
+          <ul>
+            <p nid="t0:enr:143" tracking-nids="t0:eh:135">&#x2018;(i) the particular actions that were taken under the authorities specified, including, as applicable, the identification of the threat agent, emergency, or the biomedical countermeasure with respect to which the authority was used;</p>
+            <p nid="t0:enr:144" tracking-nids="t0:eh:136">&#x2018;(ii) the reasons underlying the decision to use such authorities, including, as applicable, the options that were considered and rejected with respect to the use of such authorities;</p>
+            <p nid="t0:enr:145" tracking-nids="t0:eh:137">&#x2018;(iii) the number of, nature of, and other information concerning the persons and entities that received a grant, cooperative agreement, or contract pursuant to the use of such authorities, and the persons and entities that were considered and rejected for such a grant, cooperative agreement, or contract, except that the report need not disclose the identity of any such person or entity;</p>
+            <p nid="t0:enr:146" tracking-nids="t0:eh:138">&#x2018;(iv) whether, with respect to each procurement that is approved by the President under section 319F-2(c)(6), a contract was entered into within one year after such approval by the President; and</p>
+            <p nid="t0:enr:147" tracking-nids="t0:eh:139">&#x2018;(v) with respect to section 319F-1(d), for the one-year period for which the report is submitted, the number of persons who were paid amounts totaling $100,000 or greater and the number of persons who were paid amounts totaling at least $50,000 but less than $100,000; and</p>
+          </ul>
+          <p nid="t0:enr:148" tracking-nids="t0:eh:140">&#x2018;(K) be made publicly available.</p>
+        </ul>
+        <p nid="t0:enr:149" tracking-nids="t0:eh:141">&#x2018;(3) GAO REPORT-</p>
+        <ul>
+          <p nid="t0:enr:150">&#x2018;(A) IN GENERAL- Not later than 1 year after the date of the submission to the Congress of the first Public Health Emergency Medical Countermeasures Enterprise Strategy and Implementation Plan, the Comptroller General of the United States shall conduct an independent evaluation, and submit to the appropriate committees of Congress a report, concerning such Strategy and Implementation Plan.</p>
+          <p nid="t0:enr:151" tracking-nids="t0:eh:143">&#x2018;(B) CONTENT- The report described in subparagraph (A) shall review and assess--</p>
+          <ul>
+            <p nid="t0:enr:152" tracking-nids="t0:eh:144">&#x2018;(i) the near-term, mid-term, and long-term medical countermeasure needs and identified priorities of the Federal Government pursuant to paragraph (2)(C);</p>
+            <p nid="t0:enr:153" tracking-nids="t0:eh:145">&#x2018;(ii) the activities of the Department of Health and Human Services with respect to advanced research and development pursuant to section 319L; and</p>
+            <p nid="t0:enr:154" tracking-nids="t0:eh:146">&#x2018;(iii) the progress made toward meeting the timelines, allocations, benchmarks, and milestones identified in the Public Health Emergency Medical Countermeasures Enterprise Strategy and Implementation Plan under this subsection.</p>
+          </ul>
+        </ul>
+      </ul>
+      <p nid="t0:enr:155" tracking-nids="t0:eh:147">&#x2018;(e) Protection of National Security- In carrying out subsections (b)(7) and (d), the Secretary shall ensure that information and items that could compromise national security, contain confidential commercial information, or contain proprietary information are not disclosed.&#x2019;.</p>
+    </blockquote>
+    <p nid="t0:enr:156">(b) Interagency Coordination Plan- In the first Public Health Emergency Countermeasures Enterprise Strategy and Implementation Plan submitted under subsection (d) of section 2811 of the Public Health Service Act (<usc-reference title="42" section="300hh-10" paragraph=""><usc-reference title="42" section="300hh-10" paragraph="">42 U.S.C. 300hh-10</usc-reference></usc-reference>) (as added by subsection (a)(3)), the Secretary of Health and Human Services, in consultation with the Secretary of Defense, shall include a description of the manner in which the Department of Health and Human Services is coordinating with the Department of Defense regarding countermeasure activities to address chemical, biological, radiological, and nuclear threats. Such report shall include information with respect to--</p>
+    <ul>
+      <p nid="t0:enr:157" tracking-nids="t0:eh:149">(1) the research, advanced research, development, procurement, stockpiling, and distribution of countermeasures to meet identified needs; and</p>
+      <p nid="t0:enr:158" tracking-nids="t0:eh:150">(2) the coordination of efforts between the Department of Health and Human Services and the Department of Defense to address countermeasure needs for various segments of the population.</p>
+    </ul>
+  </ul>
+  <p/>
+  <center>
+    <p nid="t0:enr:159" tracking-nids="t0:eh:151">SEC. 103. NATIONAL ADVISORY COMMITTEE ON CHILDREN AND DISASTERS.</p>
+  </center>
+  <ul>
+    <p nid="t0:enr:160">Subtitle B of title XXVIII of the Public Health Service Act (<usc-reference title="42" section="300hh" paragraph=""><usc-reference title="42" section="300hh" paragraph="">42 U.S.C. 300hh</usc-reference></usc-reference> et seq.) is amended by inserting after section 2811 the following:</p>
+  </ul>
+  <p/>
+  <blockquote>
+    <center>
+      <p nid="t0:enr:161" tracking-nids="t0:eh:153">&#x2018;SEC. 2811A. NATIONAL ADVISORY COMMITTEE ON CHILDREN AND DISASTERS.</p>
+    </center>
+    <ul>
+      <p nid="t0:enr:162" tracking-nids="t0:eh:154">&#x2018;(a) Establishment- The Secretary, in consultation with the Secretary of Homeland Security, shall establish an advisory committee to be known as the &#x2018;National Advisory Committee on Children and Disasters&#x2019; (referred to in this section as the &#x2018;Advisory Committee&#x2019;).</p>
+      <p nid="t0:enr:163" tracking-nids="t0:eh:155">&#x2018;(b) Duties- The Advisory Committee shall--</p>
+      <ul>
+        <p nid="t0:enr:164" tracking-nids="t0:eh:156">&#x2018;(1) provide advice and consultation with respect to the activities carried out pursuant to section 2814, as applicable and appropriate;</p>
+        <p nid="t0:enr:165" tracking-nids="t0:eh:157">&#x2018;(2) evaluate and provide input with respect to the medical and public health needs of children as they relate to preparation for, response to, and recovery from all-hazards emergencies; and</p>
+        <p nid="t0:enr:166" tracking-nids="t0:eh:158">&#x2018;(3) provide advice and consultation with respect to State emergency preparedness and response activities and children, including related drills and exercises pursuant to the preparedness goals under section 2802(b).</p>
+      </ul>
+      <p nid="t0:enr:167" tracking-nids="t0:eh:159">&#x2018;(c) Additional Duties- The Advisory Committee may provide advice and recommendations to the Secretary with respect to children and the medical and public health grants and cooperative agreements as applicable to preparedness and response activities authorized under this title and title III.</p>
+      <p nid="t0:enr:168" tracking-nids="t0:eh:160">&#x2018;(d) Membership-</p>
+      <ul>
+        <p nid="t0:enr:169">&#x2018;(1) IN GENERAL- The Secretary, in consultation with such other Secretaries as may be appropriate, shall appoint not to exceed 15 members to the Advisory Committee. In appointing such members, the Secretary shall ensure that the total membership of the Advisory Committee is an odd number.</p>
+        <p nid="t0:enr:170" tracking-nids="t0:eh:162">&#x2018;(2) REQUIRED MEMBERS- The Secretary, in consultation with such other Secretaries as may be appropriate, may appoint to the Advisory Committee under paragraph (1) such individuals as may be appropriate to perform the duties described in subsections (b) and (c), which may include--</p>
+        <ul>
+          <p nid="t0:enr:171" tracking-nids="t0:eh:163">&#x2018;(A) the Assistant Secretary for Preparedness and Response;</p>
+          <p nid="t0:enr:172" tracking-nids="t0:eh:164">&#x2018;(B) the Director of the Biomedical Advanced Research and Development Authority;</p>
+          <p nid="t0:enr:173" tracking-nids="t0:eh:165">&#x2018;(C) the Director of the Centers for Disease Control and Prevention;</p>
+          <p nid="t0:enr:174" tracking-nids="t0:eh:166">&#x2018;(D) the Commissioner of Food and Drugs;</p>
+          <p nid="t0:enr:175" tracking-nids="t0:eh:167">&#x2018;(E) the Director of the National Institutes of Health;</p>
+          <p nid="t0:enr:176" tracking-nids="t0:eh:168">&#x2018;(F) the Assistant Secretary of the Administration for Children and Families;</p>
+          <p nid="t0:enr:177" tracking-nids="t0:eh:169">&#x2018;(G) the Administrator of the Federal Emergency Management Agency;</p>
+          <p nid="t0:enr:178" tracking-nids="t0:eh:170">&#x2018;(H) at least two non-Federal health care professionals with expertise in pediatric medical disaster planning, preparedness, response, or recovery;</p>
+          <p nid="t0:enr:179" tracking-nids="t0:eh:171">&#x2018;(I) at least two representatives from State, local, territorial, or tribal agencies with expertise in pediatric disaster planning, preparedness, response, or recovery; and</p>
+          <p nid="t0:enr:180" tracking-nids="t0:eh:172">&#x2018;(J) representatives from such Federal agencies (such as the Department of Education and the Department of Homeland Security) as determined necessary to fulfill the duties of the Advisory Committee, as established under subsections (b) and (c).</p>
+        </ul>
+      </ul>
+      <p nid="t0:enr:181" tracking-nids="t0:eh:173">&#x2018;(e) Meetings- The Advisory Committee shall meet not less than biannually.</p>
+      <p nid="t0:enr:182" tracking-nids="t0:eh:174">&#x2018;(f) Sunset- The Advisory Committee shall terminate on <changed sequence="9"><changed-from>the date that is 5 years after the date of enactment of the Pandemic and All-Hazards Preparedness Reauthorization Act of 2013</changed-from><changed-to>September 30, 2018</changed-to></changed>.&#x2019;.</p>
+    </ul>
+  </blockquote>
+  <p/>
+  <center>
+    <p nid="t0:enr:183" tracking-nids="t0:eh:175">SEC. 104. MODERNIZATION OF THE NATIONAL DISASTER MEDICAL SYSTEM.</p>
+  </center>
+  <ul>
+    <p nid="t0:enr:184">Section 2812 of the Public Health Service Act (<usc-reference title="42" section="300hh-11" paragraph=""><usc-reference title="42" section="300hh-11" paragraph="">42 U.S.C. 300hh-11</usc-reference></usc-reference>) is amended--</p>
+    <ul>
+      <p nid="t0:enr:185" tracking-nids="t0:eh:177">(1) in subsection (a)(3)--</p>
+      <ul>
+        <p nid="t0:enr:186" tracking-nids="t0:eh:178">(A) in subparagraph (A), in clause (i) by inserting &#x2018;, including at-risk individuals as applicable&#x2019; after &#x2018;victims of a public health emergency&#x2019;;</p>
+        <p nid="t0:enr:187" tracking-nids="t0:eh:179">(B) by redesignating subparagraph (C) as subparagraph (E); and</p>
+        <p nid="t0:enr:188" tracking-nids="t0:eh:180">(C) by inserting after subparagraph (B), the following:</p>
+        <blockquote>
+          <p nid="t0:enr:189" tracking-nids="t0:eh:181">&#x2018;(C) CONSIDERATIONS FOR AT-RISK POPULATIONS- The Secretary shall take steps to ensure that an appropriate specialized and focused range of public health and medical capabilities are represented in the National Disaster Medical System, which take into account the needs of at-risk individuals, in the event of a public health emergency.&#x2019;.</p>
+          <p nid="t0:enr:190" tracking-nids="t0:eh:182">&#x2018;(D) ADMINISTRATION- The Secretary may determine and pay claims for reimbursement for services under subparagraph (A) directly or through contracts that provide for payment in advance or by way of reimbursement.&#x2019;; and</p>
+        </blockquote>
+      </ul>
+      <p nid="t0:enr:191" tracking-nids="t0:eh:183">(2) in subsection (g), by striking &#x2018;such sums as may be necessary for each of the fiscal years 2007 through 2011&#x2019; and inserting &#x2018;$52,700,000 for each of fiscal years 201<changed sequence="10"><changed-from>3 through 2017</changed-from><changed-to>4 through 2018</changed-to></changed>&#x2019;.</p>
+    </ul>
+  </ul>
+  <p/>
+  <center>
+    <p nid="t0:enr:192" tracking-nids="t0:eh:184">SEC. 105. CONTINUING THE ROLE OF THE DEPARTMENT OF VETERANS AFFAIRS.</p>
+  </center>
+  <ul>
+    <p nid="t0:enr:193"><usc-reference title="38" section="8117" paragraph="g"><usc-reference title="38" section="8117" paragraph="g">Section 8117(g) of title 38, United States Code</usc-reference></usc-reference>, is amended by striking &#x2018;such sums as may be necessary to carry out this section for each of fiscal years 2007 through 2011&#x2019; and inserting &#x2018;$155,300,000 for each of fiscal years 201<changed sequence="11"><changed-from>3 through 2017</changed-from><changed-to>4 through 2018</changed-to></changed> to carry out this section&#x2019;.</p>
+  </ul>
+  <p/>
+  <h4 nid="t0:enr:194">
+    <center>
+      <p nid="t0:enr:195" tracking-nids="t0:eh:187">TITLE II--OPTIMIZING STATE AND LOCAL ALL-HAZARDS PREPAREDNESS AND RESPONSE</p>
+    </center>
+  </h4>
+  <p/>
+  <center>
+    <p nid="t0:enr:196" tracking-nids="t0:eh:188">SEC. 201. TEMPORARY RE<changed sequence="12"><changed-from>DEPLOYMENT OF FEDERALLY FUNDED</changed-from><changed-to>ASSIGNMENT OF STATE AND LOCAL</changed-to></changed> PERSONNEL DURING A PUBLIC HEALTH EMERGENCY.</p>
+  </center>
+  <ul>
+    <p nid="t0:enr:197">Section 319 of the Public Health Service Act (<usc-reference title="42" section="247d" paragraph=""><usc-reference title="42" section="247d" paragraph="">42 U.S.C. 247d</usc-reference></usc-reference>) is amended by adding at the end the following:</p>
+    <blockquote>
+      <p nid="t0:enr:198" tracking-nids="t0:eh:190">&#x2018;(e) Temporary Re<changed sequence="13"><changed-from>deployment of Federally Funded</changed-from><changed-to>assignment of State and Local</changed-to></changed> Personnel During a Public Health Emergency-</p>
+      <ul>
+        <p nid="t0:enr:199" tracking-nids="t0:eh:191">&#x2018;(1) EMERGENCY RE<changed sequence="14"><changed-from>DEPLOY</changed-from><changed-to>ASSIGN</changed-to></changed>MENT OF FEDERALLY FUNDED PERSONNEL- Notwithstanding any other provision of law, and subject to paragraph (2), upon request by the Governor of a State or <changed sequence="15"><changed-from>the chief of a tribe</changed-from><changed-to>a tribal organization</changed-to></changed> or such Governor or <changed sequence="16"><changed-from>chief</changed-from><changed-to>tribal organization</changed-to></changed>&#x2019;s designee, the Secretary may authorize the requesting State or <inserted sequence="17">Indian </inserted>tribe to temporarily re<changed sequence="18"><changed-from>deploy</changed-from><changed-to>assign</changed-to></changed>, for purposes of immediately addressing a public health emergency in the State or <changed sequence="19"><changed-from>tribe, non-Federal</changed-from><changed-to>Indian tribe, State and local public health department or agency</changed-to></changed> personnel funded in whole or in part through<changed sequence="20"><changed-from>, as appropriate, programs under this Act</changed-from><changed-to> programs authorized under this Act, as appropriate</changed-to></changed>.</p>
+        <p nid="t0:enr:200" tracking-nids="t0:eh:192">&#x2018;(2) ACTIVATION OF EMERGENCY RE<changed sequence="21"><changed-from>DEPLOY</changed-from><changed-to>ASSIGN</changed-to></changed>MENT-</p>
+        <ul>
+          <p nid="t0:enr:201" tracking-nids="t0:eh:193">&#x2018;(A) PUBLIC HEALTH EMERGENCY- The Secretary may authorize a temporary re<changed sequence="22"><changed-from>deploy</changed-from><changed-to>assign</changed-to></changed>ment of personnel under paragraph (1) only during the period of a public health emergency determined pursuant to subsection (a).</p>
+          <p nid="t0:enr:202" tracking-nids="t0:eh:194">&#x2018;(B) CONTENTS OF REQUEST- To seek authority for a temporary re<changed sequence="23"><changed-from>deploy</changed-from><changed-to>assign</changed-to></changed>ment of personnel under paragraph (1), the Governor of a State or <changed sequence="24"><changed-from>the chief of a tribe</changed-from><changed-to>a tribal organization</changed-to></changed> shall submit to the Secretary a request for such <changed sequence="25"><changed-from>authority and shall include in the request each of the </changed-from><changed-to>reassignment flexibility and shall include in the request each of the</changed-to></changed> following:</p>
+          <ul>
+            <p nid="t0:enr:203" tracking-nids="t0:eh:195">&#x2018;(i) An assurance that the public health emergency in the geographic area of the requesting State or <inserted sequence="26">Indian </inserted>tribe cannot be adequately and appropriately addressed by the public health workforce otherwise available.</p>
+            <p nid="t0:enr:204" tracking-nids="t0:eh:196">&#x2018;(ii) An assurance that the public health emergency would be addressed more efficiently and effectively through the requested temporary re<changed sequence="27"><changed-from>deployment of personnel</changed-from><changed-to>assignment of State and local personnel described in paragraph (1)</changed-to></changed>.</p>
+            <p nid="t0:enr:205" tracking-nids="t0:eh:197">&#x2018;(iii) An assurance that the requested temporary re<changed sequence="28"><changed-from>deploy</changed-from><changed-to>assign</changed-to></changed>ment of personnel is consistent with any applicable All-Hazards Public Health Emergency Preparedness and Response Plan under section 319C-1.</p>
+            <p nid="t0:enr:206" tracking-nids="t0:eh:198">&#x2018;(iv) An identification of--</p>
+            <ul>
+              <p nid="t0:enr:207" tracking-nids="t0:eh:199">&#x2018;(I) each Federal program from which personnel would be temporarily re<changed sequence="29"><changed-from>deploy</changed-from><changed-to>assign</changed-to></changed>ed pursuant to the requested authority; and</p>
+              <p nid="t0:enr:208" tracking-nids="t0:eh:200">&#x2018;(II) the number of personnel who would be so re<changed sequence="30"><changed-from>deploy</changed-from><changed-to>assign</changed-to></changed>ed from each such program.</p>
+            </ul>
+            <p nid="t0:enr:209" tracking-nids="t0:eh:201">&#x2018;(v) Such other information and assurances <changed sequence="31"><changed-from>as the Secretary may requir</changed-from><changed-to>upon which the Secretary and Governor of a State or tribal organization agre</changed-to></changed>e.</p>
+          </ul>
+          <p nid="t0:enr:210" tracking-nids="t0:eh:202">&#x2018;(C) CONSIDERATION- In reviewing a request for temporary re<changed sequence="32"><changed-from>deployment under paragraph (1) of personnel funded through a Federal program</changed-from><changed-to>assignment under paragraph (1)</changed-to></changed>, the Secretary shall consider the degree to which the program <inserted sequence="33">or programs funded in whole or in part by programs authorized under this Act </inserted>would be adversely affected by the re<removed sequence="34">deployment.&#x2018;(D) </removed><inserted sequence="35">assignment.</inserted></p>
+          <p nid="t0:enr:211"><inserted sequence="36">&#x2018;(D)</inserted> TERMINATION AND EXTENSION-</p>
+          <ul>
+            <p nid="t0:enr:212" tracking-nids="t0:eh:204">&#x2018;(i) TERMINATION- A State or <changed sequence="37"><changed-from>tribe&#x2019;s authority for a temporary redeploy</changed-from><changed-to>Indian tribe&#x2019;s temporary reassign</changed-to></changed>ment of personnel under paragraph (1) shall terminate upon the earlier of the following:</p>
+            <ul>
+              <p nid="t0:enr:213" tracking-nids="t0:eh:205">&#x2018;(I) The Secretary&#x2019;s determination that the public health emergency no longer exists.</p>
+              <p nid="t0:enr:214" tracking-nids="t0:eh:206">&#x2018;(II) Subject to clause (ii), the expiration of the 30-day period following the date on which the Secretary approved the State or <inserted sequence="38">Indian </inserted>tribe&#x2019;s request for such <changed sequence="39"><changed-from>author</changed-from><changed-to>reassignment flexibil</changed-to></changed>ity.</p>
+            </ul>
+            <p nid="t0:enr:215" tracking-nids="t0:eh:207">&#x2018;(ii) EXTENSION <changed sequence="40"><changed-from>AUTHORITY- The Secretary </changed-from><changed-to>OF REASSIGNMENT FLEXIBILITY- The Secretary</changed-to></changed> may extend <changed sequence="41"><changed-from>the authority to authorize a temporary redeployment of personnel</changed-from><changed-to>reassignment flexibility of personnel </changed-to></changed>under paragraph (1) beyond the date otherwise applicable under clause (i)(II) if the public health emergency still exists as of such date, but only if--</p>
+            <ul>
+              <p nid="t0:enr:216">&#x2018;(I) the State or <inserted sequence="42">Indian </inserted>tribe that submitted the initial request for a<changed sequence="43"><changed-from>uthority for a temporary redeploy</changed-from><changed-to> temporary reassign</changed-to></changed>ment of personnel submits a request for an extension of such <changed sequence="44"><changed-from>authority</changed-from><changed-to>temporary reassignment</changed-to></changed>; and</p>
+              <p nid="t0:enr:217" tracking-nids="t0:eh:209">&#x2018;(II) the request for an extension contains the same <removed sequence="45">type of </removed>information and assurances necessary for the approval of an initial request for such <changed sequence="46"><changed-from>authority</changed-from><changed-to>temporary reassignment pursuant to subparagraph (B)</changed-to></changed>.</p>
+            </ul>
+          </ul>
+        </ul>
+        <p nid="t0:enr:218" tracking-nids="t0:eh:210">&#x2018;(3) <removed sequence="47">NOTICE TO PERSONNEL OF POSSIBILITY OF REDEPLOYMENT- The Secretary shall ensure that, if a State or tribe receives Federal funds for personnel who are subject to the Secretary&#x2019;s redeployment authority under this subsection, the State or</removed><inserted sequence="48">VOLUNTARY NATURE OF TEMPORARY REASSIGNMENT OF STATE AND LOCAL PERSONNEL-</inserted></p>
+        <ul>
+          <inserted sequence="49">
+            <p nid="t0:enr:219">&#x2018;(A) IN GENERAL- Unless otherwise provided under the law or regulation of the State or Indian tribe that receives authorization for temporary reassignment of personnel under paragraph (1), personnel eligible for reassignment pursuant to such authorization--</p>
+            <ul>
+              <p nid="t0:enr:220">&#x2018;(i) shall have the opportunity to volunteer for temporary reassignment; and</p>
+              <p nid="t0:enr:221">&#x2018;(ii) shall not be required to agree to a temporary reassignment.</p>
+            </ul>
+          </inserted>
+          <p nid="t0:enr:222"><inserted sequence="50">&#x2018;(B) PROHIBITION ON CONDITIONING FEDERAL AWARDS- The Secretary may not condition the award of a grant, contract, or cooperative agreement under this Act on the requirement that a State or Indian</inserted> tribe <removed sequence="51">gives notice to such personnel of the possibility of redeployment--<ul><p nid="t0:eh:211">&#x2018;(A) at the time of hiring; or</p><p nid="t0:eh:212">&#x2018;(B) in the case of personnel hired before the date of the enactment of this subsection, as soon as practicable.</p></ul>&#x2018;(4) </removed><inserted sequence="52">require that personnel eligible for reassignment pursuant to an authorization under paragraph (1) agree to such reassignment.</inserted></p>
+        </ul>
+        <p nid="t0:enr:223"><inserted sequence="53">&#x2018;(4)</inserted> NOTICE TO CONGRESS- The Secretary shall give notice to the Congress in conjunction with the approval under this subsection of--</p>
+        <ul>
+          <p nid="t0:enr:224" tracking-nids="t0:eh:214">&#x2018;(A) any initial request for <changed sequence="54"><changed-from>authority for a temporary redeploy</changed-from><changed-to>temporary reassign</changed-to></changed>ment of personnel; and</p>
+          <p nid="t0:enr:225" tracking-nids="t0:eh:215">&#x2018;(B) any request for an extension of such <changed sequence="55"><changed-from>authority</changed-from><changed-to>temporary reassignment</changed-to></changed>.</p>
+        </ul>
+        <p nid="t0:enr:226">&#x2018;(5) GUIDANCE- The Secretary shall--</p>
+        <ul>
+          <p nid="t0:enr:227">&#x2018;(A) not later than 6 months after the enactment of this subsection, issue proposed guidance on the temporary re<changed sequence="56"><changed-from>deploy</changed-from><changed-to>assign</changed-to></changed>ment of personnel under this subsection; and</p>
+          <p nid="t0:enr:228" tracking-nids="t0:eh:218">&#x2018;(B) after providing notice and a 60-day period for public comment, finalize such guidance.</p>
+        </ul>
+        <p nid="t0:enr:229" tracking-nids="t0:eh:219">&#x2018;(6) REPORT TO CONGRESS- Not later than 4 years after the date of enactment of the Pandemic and All-Hazards Preparedness Reauthorization Act of 2013, the Comptroller General of the United States shall conduct an independent evaluation, and submit to the appropriate committees of the Congress a report, on t<changed sequence="57"><changed-from>he Secretary&#x2019;s authority</changed-from><changed-to>emporary reassignment</changed-to></changed> under this subsection, including--</p>
+        <ul>
+          <p nid="t0:enr:230" tracking-nids="t0:eh:220">&#x2018;(A) a description of how, and under what circumstances, such <changed sequence="58"><changed-from>authority</changed-from><changed-to>temporary reassignment</changed-to></changed> has been used by States and <inserted sequence="59">Indian </inserted>tribes;</p>
+          <p nid="t0:enr:231" tracking-nids="t0:eh:221">&#x2018;(B) an analysis of how such <changed sequence="60"><changed-from>authority</changed-from><changed-to>temporary reassignment</changed-to></changed> has assisted States and <inserted sequence="61">Indian </inserted>tribes in responding to public health emergencies;</p>
+          <p nid="t0:enr:232" tracking-nids="t0:eh:222">&#x2018;(C) an evaluation of how such <changed sequence="62"><changed-from>authority</changed-from><changed-to>temporary reassignment</changed-to></changed> has improved operational efficiencies in responding to public health emergencies;</p>
+          <p nid="t0:enr:233" tracking-nids="t0:eh:223">&#x2018;(D) an analysis of the extent to which, if any, Federal programs from which personnel have been temporarily re<changed sequence="63"><changed-from>deployed pursuant to such authority</changed-from><changed-to>assigned</changed-to></changed> have been adversely affected by the re<changed sequence="64"><changed-from>deploy</changed-from><changed-to>assign</changed-to></changed>ment; and</p>
+          <p nid="t0:enr:234" tracking-nids="t0:eh:224">&#x2018;(E) recommendations on how <changed sequence="65"><changed-from>such author</changed-from><changed-to>medical surge capac</changed-to></changed>ity could be improved <removed sequence="66">to further assist </removed>in responding to public health emergencies<inserted sequence="67"> and the impact of the reassignment flexibility under this section on such surge capacity</inserted>.</p>
+        </ul>
+        <p nid="t0:enr:235" tracking-nids="t0:eh:225">&#x2018;(7) DEFINITION<removed sequence="68">- In this subsection,</removed><inserted sequence="69">S- In this subsection--</inserted></p>
+        <ul>
+          <inserted sequence="70">
+            <p nid="t0:enr:236">&#x2018;(A) the terms &#x2018;Indian tribe&#x2019; and &#x2018;tribal organization&#x2019; have the meanings given such terms in section 4 of the Indian Self-Determination and Education Assistance Act; and</p>
+          </inserted>
+          <p nid="t0:enr:237"><inserted sequence="71">&#x2018;(B)</inserted> the term &#x2018;State&#x2019; includes, in addition to the entities listed in the definition of such term in section 2, the Freely Associated States.</p>
+        </ul>
+        <p nid="t0:enr:238" tracking-nids="t0:eh:226">&#x2018;(8) SUNSET- Th<changed sequence="72"><changed-from>e authority under this subsection shall terminate on the date that is 5 years after the date of enactment of the Pandemic and All-Hazards Preparedness Reauthorization Act of 2013</changed-from><changed-to>is subsection shall terminate on September 30, 2018</changed-to></changed>.&#x2019;.</p>
+      </ul>
+    </blockquote>
+  </ul>
+  <p/>
+  <center>
+    <p nid="t0:enr:239" tracking-nids="t0:eh:227">SEC. 202. IMPROVING STATE AND LOCAL PUBLIC HEALTH SECURITY.</p>
+  </center>
+  <ul>
+    <p nid="t0:enr:240">(a) Cooperative Agreements- Section 319C-1 of the Public Health Service Act (<usc-reference title="42" section="247d-3a" paragraph=""><usc-reference title="42" section="247d-3a" paragraph="">42 U.S.C. 247d-3a</usc-reference></usc-reference>) is amended--</p>
+    <ul>
+      <p nid="t0:enr:241" tracking-nids="t0:eh:229">(1) in subsection (b)(1)(C), by striking &#x2018;consortium of entities described in subparagraph (A)&#x2019; and inserting &#x2018;consortium of States&#x2019;;</p>
+      <p nid="t0:enr:242" tracking-nids="t0:eh:230">(2) in subsection (b)(2)--</p>
+      <ul>
+        <p nid="t0:enr:243" tracking-nids="t0:eh:231">(A) in subparagraph (A)--</p>
+        <ul>
+          <p nid="t0:enr:244" tracking-nids="t0:eh:232">(i) by striking clauses (i) and (ii) and inserting the following:</p>
+          <blockquote>
+            <p nid="t0:enr:245" tracking-nids="t0:eh:233">&#x2018;(i) a description of the activities such entity will carry out under the agreement to meet the goals identified under section 2802, including with respect to chemical, biological, radiological, or nuclear threats, whether naturally occurring, unintentional, or deliberate;</p>
+            <p nid="t0:enr:246" tracking-nids="t0:eh:234">&#x2018;(ii) a description of the activities such entity will carry out with respect to pandemic influenza, as a component of the activities carried out under clause (i), and consistent with the requirements of paragraphs (2) and (5) of subsection (g);&#x2019;;</p>
+          </blockquote>
+          <p nid="t0:enr:247" tracking-nids="t0:eh:235">(ii) in clause (iv), by striking &#x2018;and&#x2019; at the end; and</p>
+          <p nid="t0:enr:248" tracking-nids="t0:eh:236">(iii) by adding at the end the following:</p>
+          <blockquote>
+            <p nid="t0:enr:249" tracking-nids="t0:eh:237">&#x2018;(vi) a description of how, as appropriate, the entity may partner with relevant public and private stakeholders in public health emergency preparedness and response;</p>
+            <p nid="t0:enr:250" tracking-nids="t0:eh:238">&#x2018;(vii) a description of how the entity, as applicable and appropriate, will coordinate with State emergency preparedness and response plans in public health emergency preparedness, including State educational agencies (as defined in section 9101(41) of the Elementary and Secondary Education Act of 1965) and State child care lead agencies (designated under section 658D of the Child Care and Development Block Grant Act of 1990);</p>
+            <p nid="t0:enr:251" tracking-nids="t0:eh:239">&#x2018;(viii) in the case of entities that operate on the United States-Mexico border or the United States-Canada border, a description of the activities such entity will carry out under the agreement that are specific to the border area including disease detection, identification, investigation, and preparedness and response activities related to emerging diseases and infectious disease outbreaks whether naturally occurring or due to bioterrorism, consistent with the requirements of this section; and</p>
+            <p nid="t0:enr:252" tracking-nids="t0:eh:240">&#x2018;(ix) a description of any activities that such entity will use to analyze real-time clinical specimens for pathogens of public health or bioterrorism significance, including any utilization of poison control centers;&#x2019;; and</p>
+          </blockquote>
+        </ul>
+        <p nid="t0:enr:253" tracking-nids="t0:eh:241">(B) in subparagraph (C), by inserting &#x2018;, including addressing the needs of at-risk individuals,&#x2019; after &#x2018;capabilities of such entity&#x2019;;</p>
+      </ul>
+      <p nid="t0:enr:254" tracking-nids="t0:eh:242">(3) in subsection (f)--</p>
+      <ul>
+        <p nid="t0:enr:255" tracking-nids="t0:eh:243">(A) in paragraph (2), by adding &#x2018;and&#x2019; at the end;</p>
+        <p nid="t0:enr:256" tracking-nids="t0:eh:244">(B) in paragraph (3), by striking &#x2018;; and&#x2019; and inserting a period; and</p>
+        <p nid="t0:enr:257" tracking-nids="t0:eh:245">(C) by striking paragraph (4);</p>
+      </ul>
+      <p nid="t0:enr:258" tracking-nids="t0:eh:246">(4) in subsection (g)--</p>
+      <ul>
+        <p nid="t0:enr:259" tracking-nids="t0:eh:247">(A) in paragraph (1), by striking subparagraph (A) and inserting the following:</p>
+        <blockquote>
+          <p nid="t0:enr:260" tracking-nids="t0:eh:248">&#x2018;(A) include outcome goals representing operational achievements of the National Preparedness Goals developed under section 2802(b) with respect to all-hazards, including chemical, biological, radiological, or nuclear threats; and&#x2019;; and</p>
+        </blockquote>
+        <p nid="t0:enr:261" tracking-nids="t0:eh:249">(B) in paragraph (2)(A), by adding at the end the following: &#x2018;The Secretary shall periodically update, as necessary and appropriate, such pandemic influenza plan criteria and shall require the integration of such criteria into the benchmarks and standards described in paragraph (1).&#x2019;;</p>
+      </ul>
+      <p nid="t0:enr:262" tracking-nids="t0:eh:250">(5) by striking subsection (h);</p>
+      <p nid="t0:enr:263">(6) <removed sequence="73">in subsection (i)</removed><inserted sequence="74">by redesignating subsections (i), (j), and (k) as subsections (h), (i), and (j), respectively;</inserted></p>
+      <p nid="t0:enr:264"><inserted sequence="75">(7) in subsection (h), as so redesignated</inserted>--</p>
+      <ul>
+        <p nid="t0:enr:265">(A) in paragraph (1)--</p>
+        <ul>
+          <p nid="t0:enr:266" tracking-nids="t0:eh:253">(i) in subparagraph (A)--</p>
+          <ul>
+            <p nid="t0:enr:267" tracking-nids="t0:eh:254">(I) by striking &#x2018;$824,000,000 for fiscal year 2007, of which $35,000,000 shall be used to carry out subsection (h),&#x2019; and inserting &#x2018;$641,900,000 for fiscal year 201<changed sequence="76"><changed-from>3</changed-from><changed-to>4</changed-to></changed>&#x2019;; and</p>
+            <p nid="t0:enr:268" tracking-nids="t0:eh:255">(II) by striking &#x2018;such sums as may be necessary for each of fiscal years 2008 through 2011&#x2019; and inserting &#x2018;$641,900,000 for each of fiscal years 201<changed sequence="77"><changed-from>4 through 2017</changed-from><changed-to>5 through 2018</changed-to></changed>&#x2019;;</p>
+          </ul>
+          <p nid="t0:enr:269">(ii) by striking subparagraph (B);</p>
+          <p nid="t0:enr:270" tracking-nids="t0:eh:257">(iii) by redesignating subparagraphs (C) and (D) as subparagraphs (B) and (C), respectively; and</p>
+          <p nid="t0:enr:271" tracking-nids="t0:eh:258">(iv) in subparagraph (C), as so redesignated, by striking &#x2018;subparagraph (C)&#x2019; and inserting &#x2018;subparagraph (B)&#x2019;;</p>
+        </ul>
+        <p nid="t0:enr:272" tracking-nids="t0:eh:259">(B) in subparagraphs (C) and (D) of paragraph (3), by striking &#x2018;(1)(A)(i)(I)&#x2019; each place it appears and inserting &#x2018;(1)(A)&#x2019;;</p>
+        <p nid="t0:enr:273" tracking-nids="t0:eh:260">(C) in paragraph (4)(B), by striking &#x2018;subsection (c)&#x2019; and inserting &#x2018;subsection (b)&#x2019;; and</p>
+        <p nid="t0:enr:274" tracking-nids="t0:eh:261">(D) by adding at the end the following:</p>
+      </ul>
+      <blockquote>
+        <p nid="t0:enr:275" tracking-nids="t0:eh:262">&#x2018;(7) AVAILABILITY OF COOPERATIVE AGREEMENT FUNDS-</p>
+        <ul>
+          <p nid="t0:enr:276">&#x2018;(A) IN GENERAL- Amounts provided to an eligible entity under a cooperative agreement under subsection (a) for a fiscal year and remaining unobligated at the end of such year shall remain available to such entity for the next fiscal year for the purposes for which such funds were provided.</p>
+          <p nid="t0:enr:277" tracking-nids="t0:eh:264">&#x2018;(B) FUNDS CONTINGENT ON ACHIEVING BENCHMARKS- The continued availability of funds under subparagraph (A) with respect to an entity shall be contingent upon such entity achieving the benchmarks and submitting the pandemic influenza plan as described in subsection (g).&#x2019;; and</p>
+        </ul>
+      </blockquote>
+      <p nid="t0:enr:278">(<removed sequence="78">7) in subsection (j),</removed><inserted sequence="79">8) in subsection (i), as so redesignated--</inserted></p>
+      <ul>
+        <inserted sequence="80">
+          <p nid="t0:enr:279">(A) in paragraph (1)(E), by striking &#x2018;subsection (k)&#x2019; and inserting &#x2018;subsection (j)&#x2019;;</p>
+        </inserted>
+        <p nid="t0:enr:280"><inserted sequence="81">(B)</inserted> by striking paragraph (3).</p>
+      </ul>
+    </ul>
+    <p nid="t0:enr:281">(b) Vaccine Tracking and Distribution- Section 319A(e) of the Public Health Service Act (<usc-reference title="42" section="247d-1" paragraph="e"><usc-reference title="42" section="247d-1" paragraph="e">42 U.S.C. 247d-1(e)</usc-reference></usc-reference>) is amended by striking &#x2018;such sums for each of fiscal years 2007 through 2011&#x2019; and inserting &#x2018;$30,800,000 for each of fiscal years 201<removed sequence="82">3 through 2017</removed><inserted sequence="83">4 through 2018&#x2019;.</inserted></p>
+    <inserted sequence="84">
+      <p nid="t0:enr:282">(c) Technical and Conforming Amendments-</p>
+    </inserted>
+    <ul>
+      <inserted sequence="85">
+        <p nid="t0:enr:283">(1) Section 319C-1(b)(1)(B) of the Public Health Service Act (<usc-reference title="42" section="247d-3a" paragraph="b_1_B"><usc-reference title="42" section="247d-3a" paragraph="b_1_B">42 U.S.C. 247d-3a(b)(1)(B)</usc-reference></usc-reference>) is amended by striking &#x2018;subsection (i)(4)&#x2019; and inserting &#x2018;subsection (h)(4)&#x2019;.</p>
+        <p nid="t0:enr:284">(2) Section 319C-2 of the Public Health Service Act (<usc-reference title="42" section="247d-3b" paragraph=""><usc-reference title="42" section="247d-3b" paragraph="">42 U.S.C. 247d-3b</usc-reference></usc-reference>) is amended--</p>
+      </inserted>
+      <ul>
+        <inserted sequence="86">
+          <p nid="t0:enr:285">(A) in subsection (i), by striking &#x2018;(j), and (k)&#x2019; and inserting &#x2018;(i), and (j)&#x2019;; and</p>
+        </inserted>
+        <p nid="t0:enr:286"><inserted sequence="87">(B) in subsection (j)(3), by striking &#x2018;319C-1(i)&#x2019; and inserting &#x2018;319C-1(h)</inserted>&#x2019;.</p>
+      </ul>
+    </ul>
+  </ul>
+  <p/>
+  <center>
+    <p nid="t0:enr:287" tracking-nids="t0:eh:267">SEC. 203. HOSPITAL PREPAREDNESS AND MEDICAL SURGE CAPACITY.</p>
+  </center>
+  <ul>
+    <p nid="t0:enr:288">(a) All-Hazards Public Health and Medical Response Curricula and Training- Section 319F(a)(5)(B) of the Public Health Service Act (<usc-reference title="42" section="247d-6" paragraph="a_5_B"><usc-reference title="42" section="247d-6" paragraph="a_5_B">42 U.S.C. 247d-6(a)(5)(B)</usc-reference></usc-reference>) is amended by striking &#x2018;public health or medical&#x2019; and inserting &#x2018;public health, medical, or dental&#x2019;.</p>
+    <p nid="t0:enr:289" tracking-nids="t0:eh:269">(b) Encouraging Health Professional Volunteers-</p>
+    <ul>
+      <p nid="t0:enr:290">(1) EMERGENCY SYSTEM FOR ADVANCE REGISTRATION OF VOLUNTEER HEALTH PROFESSIONALS- Section 319I(k) of the Public Health Service Act (<usc-reference title="42" section="247d-7b" paragraph="k"><usc-reference title="42" section="247d-7b" paragraph="k">42 U.S.C. 247d-7b(k)</usc-reference></usc-reference>) is amended by striking &#x2018;$2,000,000 for fiscal year 2002, and such sums as may be necessary for each of the fiscal years 2003 through 2011&#x2019; and inserting &#x2018;$5,000,000 for each of fiscal years 201<changed sequence="88"><changed-from>3 through 2017</changed-from><changed-to>4 through 2018</changed-to></changed>&#x2019;.</p>
+      <p nid="t0:enr:291">(2) VOLUNTEERS- Section 2813 of the Public Health Service Act (<usc-reference title="42" section="300hh-15" paragraph=""><usc-reference title="42" section="300hh-15" paragraph="">42 U.S.C. 300hh-15</usc-reference></usc-reference>) is amended--</p>
+      <ul>
+        <p nid="t0:enr:292" tracking-nids="t0:eh:272">(A) in subsection (d)(2), by adding at the end the following: &#x2018;Such training exercises shall, as appropriate and applicable, incorporate the needs of at-risk individuals in the event of a public health emergency.&#x2019;; and</p>
+        <p nid="t0:enr:293" tracking-nids="t0:eh:273">(B) in subsection (i), by striking &#x2018;$22,000,000 for fiscal year 2007, and such sums as may be necessary for each of fiscal years 2008 through 2011&#x2019; and inserting &#x2018;$11,200,000 for each of fiscal years 201<changed sequence="89"><changed-from>3 through 2017</changed-from><changed-to>4 through 2018</changed-to></changed>&#x2019;.</p>
+      </ul>
+    </ul>
+    <p nid="t0:enr:294">(c) Partnerships for State and Regional Preparedness To Improve Surge Capacity- Section 319C-2 of the Public Health Service Act (<usc-reference title="42" section="247d-3b" paragraph=""><usc-reference title="42" section="247d-3b" paragraph="">42 U.S.C. 247d-3b</usc-reference></usc-reference>) is amended--</p>
+    <ul>
+      <p nid="t0:enr:295" tracking-nids="t0:eh:275">(1) in subsection (a), by inserting &#x2018;, including<inserted sequence="90">, as appropriate,</inserted> capacity and preparedness to address the needs of <changed sequence="91"><changed-from>pediatric</changed-from><changed-to>children</changed-to></changed> and other at-risk <changed sequence="92"><changed-from>population</changed-from><changed-to>individual</changed-to></changed>s&#x2019; before the period at the end;</p>
+      <p nid="t0:enr:296" tracking-nids="t0:eh:276">(2) in subsection (b)(1)(A)(ii), by striking &#x2018;centers, primary&#x2019; and inserting &#x2018;centers, community health centers, primary&#x2019;;</p>
+      <p nid="t0:enr:297" tracking-nids="t0:eh:277">(3) by striking subsection (c) and inserting the following:</p>
+    </ul>
+    <blockquote>
+      <p nid="t0:enr:298" tracking-nids="t0:eh:278">&#x2018;(c) Use of Funds- An award under subsection (a) shall be expended for activities to achieve the preparedness goals described under paragraphs (1), (3), (4), (5), and (6) of section 2802(b) with respect to all-hazards, including chemical, biological, radiological, or nuclear threats.&#x2019;;</p>
+    </blockquote>
+    <ul>
+      <p nid="t0:enr:299" tracking-nids="t0:eh:279">(4) by striking subsection (g) and inserting the following:</p>
+    </ul>
+    <blockquote>
+      <p nid="t0:enr:300" tracking-nids="t0:eh:280">&#x2018;(g) Coordination-</p>
+      <ul>
+        <p nid="t0:enr:301" tracking-nids="t0:eh:281">&#x2018;(1) LOCAL RESPONSE CAPABILITIES- An eligible entity shall, to the extent practicable, ensure that activities carried out under an award under subsection (a) are coordinated with activities of relevant local Metropolitan Medical Response Systems, local Medical Reserve Corps, the local Cities Readiness Initiative, and local emergency plans.</p>
+        <p nid="t0:enr:302" tracking-nids="t0:eh:282">&#x2018;(2) NATIONAL COLLABORATION- Partnerships consisting of one or more eligible entities under this section may, to the extent practicable, collaborate with other partnerships consisting of one or more eligible entities under this section for purposes of national coordination and collaboration with respect to activities to achieve the preparedness goals described under paragraphs (1), (3), (4), (5), and (6) of section 2802(b).&#x2019;;</p>
+        <p nid="t0:enr:303" tracking-nids="t0:eh:283">(5) in subsection (i)--</p>
+        <ul>
+          <p nid="t0:enr:304" tracking-nids="t0:eh:284">(A) by striking &#x2018;The requirements of&#x2019; and inserting the following:</p>
+        </ul>
+        <p nid="t0:enr:305">&#x2018;(1) IN GENERAL- The requirements of&#x2019;; and</p>
+        <ul>
+          <p nid="t0:enr:306" tracking-nids="t0:eh:286">(B) by adding at the end the following:</p>
+        </ul>
+        <p nid="t0:enr:307" tracking-nids="t0:eh:287">&#x2018;(2) MEETING GOALS OF NATIONAL HEALTH SECURITY STRATEGY- The Secretary shall implement objective, evidence-based metrics to ensure that entities receiving awards under this section are meeting, to the extent practicable, the applicable goals of the National Health Security Strategy under section 2802.&#x2019;; and</p>
+        <p nid="t0:enr:308" tracking-nids="t0:eh:288">(6) in subsection (j)--</p>
+        <ul>
+          <p nid="t0:enr:309" tracking-nids="t0:eh:289">(A) by amending paragraph (1) to read as follows:</p>
+        </ul>
+        <p nid="t0:enr:310">&#x2018;(1) IN GENERAL- For purposes of carrying out this section, there is authorized to be appropriated $374,700,000 for each of fiscal years 201<changed sequence="93"><changed-from>3 through 2017</changed-from><changed-to>4 through 2018</changed-to></changed>.&#x2019;; and</p>
+        <ul>
+          <p nid="t0:enr:311" tracking-nids="t0:eh:291">(B) by adding at the end the following:</p>
+        </ul>
+        <p nid="t0:enr:312" tracking-nids="t0:eh:292">&#x2018;(4) AVAILABILITY OF COOPERATIVE AGREEMENT FUNDS-</p>
+        <ul>
+          <p nid="t0:enr:313">&#x2018;(A) IN GENERAL- Amounts provided to an eligible entity under a cooperative agreement under subsection (a) for a fiscal year and remaining unobligated at the end of such year shall remain available to such entity for the next fiscal year for the purposes for which such funds were provided.</p>
+          <p nid="t0:enr:314" tracking-nids="t0:eh:294">&#x2018;(B) FUNDS CONTINGENT ON ACHIEVING BENCHMARKS- The continued availability of funds under subparagraph (A) with respect to an entity shall be contingent upon such entity achieving the benchmarks and submitting the pandemic influenza plan as required under subsection (i).&#x2019;.</p>
+        </ul>
+      </ul>
+    </blockquote>
+  </ul>
+  <p/>
+  <center>
+    <p nid="t0:enr:315" tracking-nids="t0:eh:295">SEC. 204. ENHANCING SITUATIONAL AWARENESS AND BIOSURVEILLANCE.</p>
+  </center>
+  <ul>
+    <p nid="t0:enr:316"><inserted sequence="94">(a) In General- </inserted>Section 319D of the Public Health Service Act (<usc-reference title="42" section="247d-4" paragraph=""><usc-reference title="42" section="247d-4" paragraph="">42 U.S.C. 247d-4</usc-reference></usc-reference>) is amended--</p>
+    <ul>
+      <p nid="t0:enr:317">(1) in subsection (b)--</p>
+      <ul>
+        <p nid="t0:enr:318">(A) in paragraph (1)(B), by inserting &#x2018;poison control centers,&#x2019; after &#x2018;hospitals,&#x2019;;</p>
+        <p nid="t0:enr:319" tracking-nids="t0:eh:299">(B) in paragraph (2), by inserting before the period at the end the following: &#x2018;, allowing for coordination to maximize all-hazards medical and public health preparedness and response and to minimize duplication of effort&#x2019;; and</p>
+        <p nid="t0:enr:320" tracking-nids="t0:eh:300">(C) in paragraph (3), by inserting before the period at the end the following: &#x2018;and update such standards as necessary&#x2019;;</p>
+      </ul>
+      <p nid="t0:enr:321" tracking-nids="t0:eh:301">(2) by striking subsection (c);</p>
+      <p nid="t0:enr:322">
+        <removed sequence="95"> and(3) in subsection (d)</removed>
+        <inserted sequence="96">(3) by redesignating subsections (d) through (g) as subsections (c) through (f), respectively;</inserted>
+      </p>
+      <p nid="t0:enr:323"><inserted sequence="97">(4) in subsection (c), as so redesignated</inserted>--</p>
+      <ul>
+        <p nid="t0:enr:324" tracking-nids="t0:eh:303">(A) in the subsection heading, by striking &#x2018;Public Health Situational Awareness&#x2019; and inserting &#x2018;Modernizing Public Health Situational Awareness and Biosurveillance&#x2019;;</p>
+        <p nid="t0:enr:325" tracking-nids="t0:eh:304">(B) in paragraph (1)--</p>
+        <ul>
+          <p nid="t0:enr:326" tracking-nids="t0:eh:305">(i) by striking &#x2018;Pandemic and All-Hazards Preparedness Act&#x2019; and inserting &#x2018;Pandemic and All-Hazards Preparedness Reauthorization Act of 2013&#x2019;; and</p>
+          <p nid="t0:enr:327" tracking-nids="t0:eh:306">(ii) by inserting &#x2018;, novel emerging threats,&#x2019; after &#x2018;disease outbreaks&#x2019;;</p>
+        </ul>
+        <p nid="t0:enr:328" tracking-nids="t0:eh:307">(C) by striking paragraph (2) and inserting the following:</p>
+      </ul>
+      <blockquote>
+        <p nid="t0:enr:329" tracking-nids="t0:eh:308">&#x2018;(2) STRATEGY AND IMPLEMENTATION PLAN- Not later than 180 days after the date of enactment of the Pandemic and All-Hazards Preparedness Reauthorization Act of 2013, the Secretary shall submit to the appropriate committees of Congress a coordinated strategy and an accompanying implementation plan that identifies and demonstrates the measurable steps the Secretary will carry out to--</p>
+        <ul>
+          <p nid="t0:enr:330" tracking-nids="t0:eh:309">&#x2018;(A) develop, implement, and evaluate the network described in paragraph (1), utilizing the elements described in paragraph (3);</p>
+          <p nid="t0:enr:331" tracking-nids="t0:eh:310">&#x2018;(B) modernize and enhance biosurveillance activities; and</p>
+          <p nid="t0:enr:332" tracking-nids="t0:eh:311">&#x2018;(C) improve information sharing, coordination, and communication among disparate biosurveillance systems supported by the Department of Health and Human Services.&#x2019;;</p>
+          <p nid="t0:enr:333" tracking-nids="t0:eh:312">(D) in paragraph (3)(D), by inserting &#x2018;community health centers, health centers&#x2019; after &#x2018;poison control,&#x2019;;</p>
+          <p nid="t0:enr:334" tracking-nids="t0:eh:313">(E) in paragraph (5), by striking subparagraph (A) and inserting the following:</p>
+          <p nid="t0:enr:335" tracking-nids="t0:eh:314">&#x2018;(A) utilize applicable interoperability standards as determined by the Secretary, and in consultation with the Office of the National Coordinator for Health Information Technology, through a joint public and private sector process;&#x2019;; and</p>
+          <p nid="t0:enr:336" tracking-nids="t0:eh:315">(F) by adding at the end the following:</p>
+        </ul>
+        <p nid="t0:enr:337" tracking-nids="t0:eh:316">&#x2018;(6) CONSULTATION WITH THE NATIONAL BIODEFENSE SCIENCE BOARD- In carrying out this section and consistent with section 319M, the National Biodefense Science Board shall provide expert advice and guidance, including recommendations, regarding the measurable steps the Secretary should take to modernize and enhance biosurveillance activities pursuant to the efforts of the Department of Health and Human Services to ensure comprehensive, real-time, all-hazards biosurveillance capabilities. In complying with the preceding sentence, the National Biodefense Science Board shall--</p>
+        <ul>
+          <p nid="t0:enr:338" tracking-nids="t0:eh:317">&#x2018;(A) identify the steps necessary to achieve a national biosurveillance system for human health, with international connectivity, where appropriate, that is predicated on State, regional, and community level capabilities and creates a networked system to allow for two-way information flow between and among Federal, State, and local government public health authorities and clinical health care providers;</p>
+          <p nid="t0:enr:339" tracking-nids="t0:eh:318">&#x2018;(B) identify any duplicative surveillance programs under the authority of the Secretary, or changes that are necessary to existing programs, in order to enhance and modernize such activities, minimize duplication, strengthen and streamline such activities under the authority of the Secretary, and achieve real-time and appropriate data that relate to disease activity, both human and zoonotic; and</p>
+          <p nid="t0:enr:340" tracking-nids="t0:eh:319">&#x2018;(C) coordinate with applicable existing advisory committees of the Director of the Centers for Disease Control and Prevention, including such advisory committees consisting of representatives from State, local, and tribal public health authorities and appropriate public and private sector health care entities and academic institutions, in order to provide guidance on public health surveillance activities.&#x2019;;</p>
+        </ul>
+      </blockquote>
+      <p nid="t0:enr:341">(<removed sequence="98">4) in subsection (e)(5),</removed><inserted sequence="99">5) in subsection (d), as so redesignated--</inserted></p>
+      <ul>
+        <inserted sequence="100">
+          <p nid="t0:enr:342">(A) in paragraph (1), by striking &#x2018;subsection (d)&#x2019; and inserting &#x2018;subsection (c)&#x2019;;</p>
+          <p nid="t0:enr:343">(B) in paragraph (4)(B), by striking &#x2018;subsection (d)&#x2019; and inserting &#x2018;subsection (c)&#x2019;; and</p>
+          <p nid="t0:enr:344">(C) in paragraph (5)--</p>
+        </inserted>
+        <ul>
+          <p nid="t0:enr:345"><inserted sequence="101">(i)</inserted> by striking &#x2018;4 years after the date of enactment of the Pandemic and All-Hazards Preparedness Act&#x2019; and inserting &#x2018;3 years after the date of enactment of the Pandemic and All-Hazards Preparedness Reauthorization Act of 2013&#x2019;;<removed sequence="102">(5) in subsection (g), by striking </removed><inserted sequence="103"> and</inserted></p>
+          <inserted sequence="104">
+            <p nid="t0:enr:346">(ii) by striking &#x2018;subsection (d)&#x2019; and inserting &#x2018;subsection (c)&#x2019;;</p>
+          </inserted>
+        </ul>
+      </ul>
+      <p nid="t0:enr:347"><inserted sequence="105">(6) in subsection (f), as so redesignated, by striking</inserted> &#x2018;such sums as may be necessary in each of fiscal years 2007 through 2011&#x2019; and inserting &#x2018;$138,300,000 for each of fiscal years 201<removed sequence="106">3 through 2017&#x2019;; and(6</removed><inserted sequence="107">4 through 2018&#x2019;; and</inserted></p>
+      <p nid="t0:enr:348"><inserted sequence="108">(7</inserted>) by adding at the end the following:</p>
+    </ul>
+    <blockquote>
+      <p nid="t0:enr:349">&#x2018;(<changed sequence="109"><changed-from>h</changed-from><changed-to>g</changed-to></changed>) Definition- For purposes of this section the term &#x2018;biosurveillance&#x2019; means the process of gathering near real-time biological data that relates to human and zoonotic disease activity and threats to human or animal health, in order to achieve early warning and identification of such health threats, early detection and prompt ongoing tracking of health events, and overall situational awareness of disease activity.&#x2019;.</p>
+    </blockquote>
+    <inserted sequence="110">
+      <p nid="t0:enr:350">(b) Technical and Conforming Amendment- Section 319C-1(b)(2)(D) of the Public Health Service Act (<usc-reference title="42" section="247d-3a" paragraph="b_2_D"><usc-reference title="42" section="247d-3a" paragraph="b_2_D">42 U.S.C. 247d-3a(b)(2)(D)</usc-reference></usc-reference>) is amended by striking &#x2018;section 319D(d)(3)&#x2019; and inserting &#x2018;section 319D(c)(3)&#x2019;.</p>
+    </inserted>
+  </ul>
+  <p/>
+  <center>
+    <p nid="t0:enr:351">SEC. 205. ELIMINATING DUPLICATIVE PROJECT BIOSHIELD REPORTS.</p>
+  </center>
+  <ul>
+    <p nid="t0:enr:352">Section 5 of the Project Bioshield Act of 2004 (<usc-reference title="42" section="247d-6c" paragraph=""><usc-reference title="42" section="247d-6c" paragraph="">42 U.S.C. 247d-6c</usc-reference></usc-reference>) is repealed.</p>
+  </ul>
+  <p tracking-nids="t0:eh:327"/>
+  <h4 nid="t0:enr:353">
+    <center>
+      <p nid="t0:enr:354">TITLE III--ENHANCING MEDICAL COUNTERMEASURE REVIEW</p>
+    </center>
+  </h4>
+  <p tracking-nids="t0:eh:328"/>
+  <center>
+    <p nid="t0:enr:355">SEC. 301. SPECIAL PROTOCOL ASSESSMENT.</p>
+  </center>
+  <ul>
+    <p nid="t0:enr:356">Section 505(b)(5)(B) of the Federal Food, Drug, and Cosmetic Act (<usc-reference title="21" section="355" paragraph="b_5_B"><usc-reference title="21" section="355" paragraph="b_5_B">21 U.S.C. 355(b)(5)(B)</usc-reference></usc-reference>) is amended by striking &#x2018;size of clinical trials intended&#x2019; and all that follows through &#x2018;. The sponsor or applicant&#x2019; and inserting the following: &#x2018;size--</p>
+    <blockquote>
+      <ul>
+        <p nid="t0:enr:357" tracking-nids="t0:eh:330">&#x2018;(i)(I) of clinical trials intended to form the primary basis of an effectiveness claim; or</p>
+        <p nid="t0:enr:358" tracking-nids="t0:eh:331">&#x2018;(II) in the case where human efficacy studies are not ethical or feasible, of animal and any associated clinical trials which, in combination, are intended to form the primary basis of an effectiveness claim; or</p>
+        <p nid="t0:enr:359" tracking-nids="t0:eh:332">&#x2018;(ii) with respect to an application for approval of a biological product under section 351(k) of the Public Health Service Act, of any necessary clinical study or studies.</p>
+      </ul>
+    </blockquote>
+    <p nid="t0:enr:360" tracking-nids="t0:eh:333">The sponsor or applicant&#x2019;.</p>
+  </ul>
+  <p/>
+  <center>
+    <p nid="t0:enr:361" tracking-nids="t0:eh:334">SEC. 302. AUTHORIZATION FOR MEDICAL PRODUCTS FOR USE IN EMERGENCIES.</p>
+  </center>
+  <ul>
+    <p nid="t0:enr:362">(a) In General- Section 564 of the Federal Food, Drug, and Cosmetic Act (<usc-reference title="21" section="360bbb-3" paragraph=""><usc-reference title="21" section="360bbb-3" paragraph="">21 U.S.C. 360bbb-3</usc-reference></usc-reference>) is amended--</p>
+    <ul>
+      <p nid="t0:enr:363" tracking-nids="t0:eh:336">(1) in subsection (a)--</p>
+      <ul>
+        <p nid="t0:enr:364" tracking-nids="t0:eh:337">(A) in paragraph (1), by striking &#x2018;sections 505, 510(k), and 515 of this Act&#x2019; and inserting &#x2018;any provision of this Act&#x2019;;</p>
+        <p nid="t0:enr:365" tracking-nids="t0:eh:338">(B) in paragraph (2)(A), by striking &#x2018;under a provision of law referred to in such paragraph&#x2019; and inserting &#x2018;under section 505, 510(k), or 515 of this Act or section 351 of the Public Health Service Act&#x2019;; and</p>
+        <p nid="t0:enr:366" tracking-nids="t0:eh:339">(C) in paragraph (3), by striking &#x2018;a provision of law referred to in such paragraph&#x2019; and inserting &#x2018;a section of this Act or the Public Health Service Act referred to in paragraph (2)(A)&#x2019;;</p>
+      </ul>
+      <p nid="t0:enr:367" tracking-nids="t0:eh:340">(2) in subsection (b)--</p>
+      <ul>
+        <p nid="t0:enr:368" tracking-nids="t0:eh:341">(A) in the subsection heading, by striking &#x2018;Emergency&#x2019; and inserting &#x2018;Emergency or Threat Justifying Emergency Authorized Use&#x2019;;</p>
+        <p nid="t0:enr:369" tracking-nids="t0:eh:342">(B) in paragraph (1)--</p>
+        <ul>
+          <p nid="t0:enr:370" tracking-nids="t0:eh:343">(i) in the matter preceding subparagraph (A), by striking &#x2018;may declare an emergency&#x2019; and inserting &#x2018;may make a declaration that the circumstances exist&#x2019;;</p>
+          <p nid="t0:enr:371" tracking-nids="t0:eh:344">(ii) in subparagraph (A), by striking &#x2018;specified&#x2019;;</p>
+          <p nid="t0:enr:372" tracking-nids="t0:eh:345">(iii) in subparagraph (B)--</p>
+          <ul>
+            <p nid="t0:enr:373" tracking-nids="t0:eh:346">(I) by striking &#x2018;specified&#x2019;; and</p>
+            <p nid="t0:enr:374" tracking-nids="t0:eh:347">(II) by striking &#x2018;; or&#x2019; and inserting a semicolon;</p>
+          </ul>
+          <p nid="t0:enr:375" tracking-nids="t0:eh:348">(iv) by amending subparagraph (C) to read as follows:</p>
+        </ul>
+        <blockquote>
+          <p nid="t0:enr:376" tracking-nids="t0:eh:349">&#x2018;(C) a determination by the Secretary that there is a public health emergency, or a significant potential for a public health emergency, that affects, or has a significant potential to affect, national security or the health and security of United States citizens living abroad, and that involves a biological, chemical, radiological, or nuclear agent or agents, or a disease or condition that may be attributable to such agent or agents; or&#x2019;; and</p>
+        </blockquote>
+        <ul>
+          <p nid="t0:enr:377" tracking-nids="t0:eh:350">(v) by adding at the end the following:</p>
+        </ul>
+        <blockquote>
+          <p nid="t0:enr:378" tracking-nids="t0:eh:351">&#x2018;(D) the identification of a material threat pursuant to section 319F-2 of the Public Health Service Act sufficient to affect national security or the health and security of United States citizens living abroad.&#x2019;;</p>
+        </blockquote>
+        <p nid="t0:enr:379" tracking-nids="t0:eh:352">(C) in paragraph (2)--</p>
+        <ul>
+          <p nid="t0:enr:380" tracking-nids="t0:eh:353">(i) in subparagraph (A), by amending clause (ii) to read as follows:</p>
+          <blockquote>
+            <p nid="t0:enr:381" tracking-nids="t0:eh:354">&#x2018;(ii) a change in the approval status of the product such that the circumstances described in subsection (a)(2) have ceased to exist.&#x2019;;</p>
+          </blockquote>
+          <p nid="t0:enr:382" tracking-nids="t0:eh:355">(ii) by striking subparagraph (B); and</p>
+          <p nid="t0:enr:383" tracking-nids="t0:eh:356">(iii) by redesignating subparagraph (C) as subparagraph (B);</p>
+        </ul>
+        <p nid="t0:enr:384" tracking-nids="t0:eh:357">(D) in paragraph (4), by striking &#x2018;advance notice of termination, and renewal under this subsection.&#x2019; and inserting &#x2018;, and advance notice of termination under this subsection.&#x2019;; and</p>
+        <p nid="t0:enr:385" tracking-nids="t0:eh:358">(E) by adding at the end the following:</p>
+      </ul>
+      <blockquote>
+        <p nid="t0:enr:386" tracking-nids="t0:eh:359">&#x2018;(5) EXPLANATION BY SECRETARY- If an authorization under this section with respect to an unapproved product or an unapproved use of an approved product has been in effect for more than 1 year, the Secretary shall provide in writing to the sponsor of such product an explanation of the scientific, regulatory, or other obstacles to approval, licensure, or clearance of such product or use, including specific actions to be taken by the Secretary and the sponsor to overcome such obstacles.&#x2019;;</p>
+      </blockquote>
+      <p nid="t0:enr:387" tracking-nids="t0:eh:360">(3) in subsection (c)--</p>
+      <ul>
+        <p nid="t0:enr:388" tracking-nids="t0:eh:361">(A) in the matter preceding paragraph (1)--</p>
+        <ul>
+          <p nid="t0:enr:389" tracking-nids="t0:eh:362">(i) by inserting &#x2018;the Assistant Secretary for Preparedness and Response,&#x2019; after &#x2018;consultation with&#x2019;;</p>
+          <p nid="t0:enr:390" tracking-nids="t0:eh:363">(ii) by striking &#x2018;Health and&#x2019; and inserting &#x2018;Health, and&#x2019;; and</p>
+          <p nid="t0:enr:391" tracking-nids="t0:eh:364">(iii) by striking &#x2018;circumstances of the emergency involved&#x2019; and inserting &#x2018;applicable circumstances described in subsection (b)(1)&#x2019;;</p>
+        </ul>
+        <p nid="t0:enr:392" tracking-nids="t0:eh:365">(B) in paragraph (1), by striking &#x2018;specified&#x2019; and inserting &#x2018;referred to&#x2019;; and</p>
+        <p nid="t0:enr:393" tracking-nids="t0:eh:366">(C) in paragraph (2)(B), by inserting &#x2018;, taking into consideration the material threat posed by the agent or agents identified in a declaration under subsection (b)(1)(D), if applicable&#x2019; after &#x2018;risks of the product&#x2019;;</p>
+      </ul>
+      <p nid="t0:enr:394" tracking-nids="t0:eh:367">(4) in subsection (d)(3), by inserting &#x2018;, to the extent practicable given the circumstances of the emergency,&#x2019; after &#x2018;including&#x2019;;</p>
+      <p nid="t0:enr:395" tracking-nids="t0:eh:368">(5) in subsection (e)--</p>
+      <ul>
+        <p nid="t0:enr:396" tracking-nids="t0:eh:369">(A) in paragraph (1)(A), by striking &#x2018;circumstances of the emergency&#x2019; and inserting &#x2018;applicable circumstances described in subsection (b)(1)&#x2019;;</p>
+        <p nid="t0:enr:397" tracking-nids="t0:eh:370">(B) in paragraph (1)(B), by amending clause (iii) to read as follows:</p>
+        <blockquote>
+          <ul>
+            <p nid="t0:enr:398" tracking-nids="t0:eh:371">&#x2018;(iii) Appropriate conditions with respect to collection and analysis of information concerning the safety and effectiveness of the product with respect to the use of such product during the period when the authorization is in effect and a reasonable time following such period.&#x2019;;</p>
+          </ul>
+        </blockquote>
+        <p nid="t0:enr:399" tracking-nids="t0:eh:372">(C) in paragraph (2)--</p>
+        <ul>
+          <p nid="t0:enr:400" tracking-nids="t0:eh:373">(i) in subparagraph (A)--</p>
+          <ul>
+            <p nid="t0:enr:401" tracking-nids="t0:eh:374">(I) by striking &#x2018;manufacturer of the product&#x2019; and inserting &#x2018;person&#x2019;;</p>
+            <p nid="t0:enr:402" tracking-nids="t0:eh:375">(II) by striking &#x2018;circumstances of the emergency&#x2019; and inserting &#x2018;applicable circumstances described in subsection (b)(1)&#x2019;; and</p>
+            <p nid="t0:enr:403" tracking-nids="t0:eh:376">(III) by inserting at the end before the period &#x2018;or in paragraph (1)(B)&#x2019;;</p>
+          </ul>
+          <p nid="t0:enr:404" tracking-nids="t0:eh:377">(ii) in subparagraph (B)(i), by inserting before the period at the end &#x2018;, except as provided in section 564A with respect to authorized changes to the product expiration date&#x2019;; and</p>
+          <p nid="t0:enr:405" tracking-nids="t0:eh:378">(iii) by amending subparagraph (C) to read as follows:</p>
+        </ul>
+        <blockquote>
+          <p nid="t0:enr:406" tracking-nids="t0:eh:379">&#x2018;(C) In establishing conditions under this paragraph with respect to the distribution and administration of the product for the unapproved use, the Secretary shall not impose conditions that would restrict distribution or administration of the product when distributed or administered for the approved use.&#x2019;; and</p>
+        </blockquote>
+        <p nid="t0:enr:407" tracking-nids="t0:eh:380">(D) by amending paragraph (3) to read as follows:</p>
+      </ul>
+      <blockquote>
+        <p nid="t0:enr:408" tracking-nids="t0:eh:381">&#x2018;(3) GOOD MANUFACTURING PRACTICE; PRESCRIPTION- With respect to the emergency use of a product for which an authorization under this section is issued (whether an unapproved product or an unapproved use of an approved product), the Secretary may waive or limit, to the extent appropriate given the applicable circumstances described in subsection (b)(1)--</p>
+        <ul>
+          <p nid="t0:enr:409" tracking-nids="t0:eh:382">&#x2018;(A) requirements regarding current good manufacturing practice otherwise applicable to the manufacture, processing, packing, or holding of products subject to regulation under this Act, including such requirements established under section 501 or 520(f)(1), and including relevant conditions prescribed with respect to the product by an order under section 520(f)(2);</p>
+          <p nid="t0:enr:410" tracking-nids="t0:eh:383">&#x2018;(B) requirements established under section 503(b); and</p>
+          <p nid="t0:enr:411" tracking-nids="t0:eh:384">&#x2018;(C) requirements established under section 520(e).&#x2019;;</p>
+        </ul>
+      </blockquote>
+      <p nid="t0:enr:412" tracking-nids="t0:eh:385">(6) in subsection (g)--</p>
+      <ul>
+        <p nid="t0:enr:413" tracking-nids="t0:eh:386">(A) in the subsection heading, by inserting &#x2018;Review and&#x2019; before &#x2018;Revocation&#x2019;;</p>
+        <p nid="t0:enr:414" tracking-nids="t0:eh:387">(B) in paragraph (1), by inserting after the period at the end the following: &#x2018;As part of such review, the Secretary shall regularly review the progress made with respect to the approval, licensure, or clearance of--</p>
+        <blockquote>
+          <p nid="t0:enr:415" tracking-nids="t0:eh:388">&#x2018;(A) an unapproved product for which an authorization was issued under this section; or</p>
+          <p nid="t0:enr:416" tracking-nids="t0:eh:389">&#x2018;(B) an unapproved use of an approved product for which an authorization was issued under this section.&#x2019;; and</p>
+        </blockquote>
+        <p nid="t0:enr:417" tracking-nids="t0:eh:390">(C) by amending paragraph (2) to read as follows:</p>
+      </ul>
+      <blockquote>
+        <p nid="t0:enr:418" tracking-nids="t0:eh:391">&#x2018;(2) REVISION AND REVOCATION- The Secretary may revise or revoke an authorization under this section if--</p>
+        <ul>
+          <p nid="t0:enr:419" tracking-nids="t0:eh:392">&#x2018;(A) the circumstances described under subsection (b)(1) no longer exist;</p>
+          <p nid="t0:enr:420" tracking-nids="t0:eh:393">&#x2018;(B) the criteria under subsection (c) for issuance of such authorization are no longer met; or</p>
+          <p nid="t0:enr:421" tracking-nids="t0:eh:394">&#x2018;(C) other circumstances make such revision or revocation appropriate to protect the public health or safety.&#x2019;;</p>
+        </ul>
+      </blockquote>
+      <p nid="t0:enr:422" tracking-nids="t0:eh:395">(7) in subsection (h)(1), by adding after the period at the end the following: &#x2018;The Secretary shall make any revisions to an authorization under this section available on the Internet Web site of the Food and Drug Administration.&#x2019;;</p>
+      <p nid="t0:enr:423" tracking-nids="t0:eh:396">(8) by adding at the end of subsection (j) the following:</p>
+      <blockquote>
+        <p nid="t0:enr:424" tracking-nids="t0:eh:397">&#x2018;(4) Nothing in this section shall be construed as authorizing a delay in the review or other consideration by the Secretary of any application or submission pending before the Food and Drug Administration for a product for which an authorization under this section is issued.&#x2019;; and</p>
+      </blockquote>
+      <p nid="t0:enr:425" tracking-nids="t0:eh:398">(9) by adding at the end the following:</p>
+    </ul>
+    <blockquote>
+      <p nid="t0:enr:426" tracking-nids="t0:eh:399">&#x2018;(m) Categorization of Laboratory Tests Associated With Devices Subject to Authorization-</p>
+      <ul>
+        <p nid="t0:enr:427">&#x2018;(1) IN GENERAL- In issuing an authorization under this section with respect to a device, the Secretary may, subject to the provisions of this section, determine that a laboratory examination or procedure associated with such device shall be deemed, for purposes of section 353 of the Public Health Service Act, to be in a particular category of examinations and procedures (including the category described by subsection (d)(3) of such section) if, based on the totality of scientific evidence available to the Secretary--</p>
+        <ul>
+          <p nid="t0:enr:428" tracking-nids="t0:eh:401">&#x2018;(A) such categorization would be beneficial to protecting the public health; and</p>
+          <p nid="t0:enr:429" tracking-nids="t0:eh:402">&#x2018;(B) the known and potential benefits of such categorization under the circumstances of the authorization outweigh the known and potential risks of the categorization.</p>
+        </ul>
+        <p nid="t0:enr:430" tracking-nids="t0:eh:403">&#x2018;(2) CONDITIONS OF DETERMINATION- The Secretary may establish appropriate conditions on the performance of the examination or procedure pursuant to such determination.</p>
+        <p nid="t0:enr:431" tracking-nids="t0:eh:404">&#x2018;(3) EFFECTIVE PERIOD- A determination under this subsection shall be effective for purposes of section 353 of the Public Health Service Act notwithstanding any other provision of that section during the effective period of the relevant declaration under subsection (b).&#x2019;.</p>
+      </ul>
+    </blockquote>
+    <p nid="t0:enr:432">(b) Emergency Use of Medical Products- Subchapter E of chapter V of the Federal Food, Drug, and Cosmetic Act (<usc-reference title="21" section="360bbb" paragraph=""><usc-reference title="21" section="360bbb" paragraph="">21 U.S.C. 360bbb</usc-reference></usc-reference> et seq.) is amended by inserting after section 564 the following:</p>
+  </ul>
+  <blockquote>
+    <p nid="t0:enr:433"><removed sequence="111"><p/></removed>&#x2018;SEC. 564A. EMERGENCY USE OF MEDICAL PRODUCTS.</p>
+    <ul>
+      <p nid="t0:enr:434" tracking-nids="t0:eh:407">&#x2018;(a) Definitions- In this section:</p>
+      <ul>
+        <p nid="t0:enr:435" tracking-nids="t0:eh:408">&#x2018;(1) ELIGIBLE PRODUCT- The term &#x2018;eligible product&#x2019; means a product that--</p>
+        <ul>
+          <p nid="t0:enr:436" tracking-nids="t0:eh:409">&#x2018;(A) is approved or cleared under this chapter or licensed under section 351 of the Public Health Service Act;</p>
+          <p nid="t0:enr:437" tracking-nids="t0:eh:410">&#x2018;(B)(i) is intended for use to prevent, diagnose, or treat a disease or condition involving a biological, chemical, radiological, or nuclear agent or agents; or</p>
+          <p nid="t0:enr:438" tracking-nids="t0:eh:411">&#x2018;(ii) is intended for use to prevent, diagnose, or treat a serious or life-threatening disease or condition caused by a product described in clause (i); and</p>
+          <p nid="t0:enr:439" tracking-nids="t0:eh:412">&#x2018;(C) is intended for use during the circumstances under which--</p>
+          <ul>
+            <p nid="t0:enr:440" tracking-nids="t0:eh:413">&#x2018;(i) a determination described in subparagraph (A), (B), or (C) of section 564(b)(1) has been made by the Secretary of Homeland Security, the Secretary of Defense, or the Secretary, respectively; or</p>
+            <p nid="t0:enr:441" tracking-nids="t0:eh:414">&#x2018;(ii) the identification of a material threat described in subparagraph (D) of section 564(b)(1) has been made pursuant to section 319F-2 of the Public Health Service Act.</p>
+          </ul>
+        </ul>
+        <p nid="t0:enr:442" tracking-nids="t0:eh:415">&#x2018;(2) PRODUCT- The term &#x2018;product&#x2019; means a drug, device, or biological product.</p>
+      </ul>
+      <p nid="t0:enr:443" tracking-nids="t0:eh:416">&#x2018;(b) Expiration Dating-</p>
+      <ul>
+        <p nid="t0:enr:444">&#x2018;(1) IN GENERAL- The Secretary may extend the expiration date and authorize the introduction or delivery for introduction into interstate commerce of an eligible product after the expiration date provided by the manufacturer if--</p>
+        <ul>
+          <p nid="t0:enr:445" tracking-nids="t0:eh:418">&#x2018;(A) the expiration date extension is intended to support the United States ability to protect--</p>
+          <ul>
+            <p nid="t0:enr:446" tracking-nids="t0:eh:419">&#x2018;(i) the public health; or</p>
+            <p nid="t0:enr:447" tracking-nids="t0:eh:420">&#x2018;(ii) military preparedness and effectiveness; and</p>
+          </ul>
+          <p nid="t0:enr:448" tracking-nids="t0:eh:421">&#x2018;(B) the expiration date extension is supported by an appropriate scientific evaluation that is conducted or accepted by the Secretary.</p>
+        </ul>
+        <p nid="t0:enr:449" tracking-nids="t0:eh:422">&#x2018;(2) REQUIREMENTS AND CONDITIONS- Any extension of an expiration date under paragraph (1) shall, as part of the extension, identify--</p>
+        <ul>
+          <p nid="t0:enr:450" tracking-nids="t0:eh:423">&#x2018;(A) each specific lot, batch, or other unit of the product for which extended expiration is authorized;</p>
+          <p nid="t0:enr:451" tracking-nids="t0:eh:424">&#x2018;(B) the duration of the extension; and</p>
+          <p nid="t0:enr:452" tracking-nids="t0:eh:425">&#x2018;(C) any other requirements or conditions as the Secretary may deem appropriate for the protection of the public health, which may include requirements for, or conditions on, product sampling, storage, packaging or repackaging, transport, labeling, notice to product recipients, recordkeeping, periodic testing or retesting, or product disposition.</p>
+        </ul>
+        <p nid="t0:enr:453" tracking-nids="t0:eh:426">&#x2018;(3) EFFECT- Notwithstanding any other provision of this Act or the Public Health Service Act, an eligible product shall not be considered an unapproved product (as defined in section 564(a)(2)(A)) and shall not be deemed adulterated or misbranded under this Act because, with respect to such product, the Secretary has, under paragraph (1), extended the expiration date and authorized the introduction or delivery for introduction into interstate commerce of such product after the expiration date provided by the manufacturer.</p>
+        <p nid="t0:enr:454" tracking-nids="t0:eh:427">&#x2018;(4) EXPIRATION DATE- For purposes of this subsection, the term &#x2018;expiration date&#x2019; means the date established through appropriate stability testing required by the regulations issued by the Secretary to ensure that the product meets applicable standards of identity, strength, quality, and purity at the time of use.</p>
+      </ul>
+      <p nid="t0:enr:455" tracking-nids="t0:eh:428">&#x2018;(c) Current Good Manufacturing Practice-</p>
+      <ul>
+        <p nid="t0:enr:456">&#x2018;(1) IN GENERAL- The Secretary may, when the circumstances of a domestic, military, or public health emergency or material threat described in subsection (a)(1)(C) so warrant, authorize, with respect to an eligible product, deviations from current good manufacturing practice requirements otherwise applicable to the manufacture, processing, packing, or holding of products subject to regulation under this Act, including requirements under section 501 or 520(f)(1) or applicable conditions prescribed with respect to the eligible product by an order under section 520(f)(2).</p>
+        <p nid="t0:enr:457" tracking-nids="t0:eh:430">&#x2018;(2) EFFECT- Notwithstanding any other provision of this Act or the Public Health Service Act, an eligible product shall not be considered an unapproved product (as defined in section 564(a)(2)(A)) and shall not be deemed adulterated or misbranded under this Act because, with respect to such product, the Secretary has authorized deviations from current good manufacturing practices under paragraph (1).</p>
+      </ul>
+      <p nid="t0:enr:458" tracking-nids="t0:eh:431">&#x2018;(d) Emergency Dispensing- The requirements of sections 503(b) and 520(e) shall not apply to an eligible product, and the product shall not be considered an unapproved product (as defined in section 564(a)(2)(A)) and shall not be deemed adulterated or misbranded under this Act because it is dispensed without an individual prescription, if--</p>
+      <ul>
+        <p nid="t0:enr:459" tracking-nids="t0:eh:432">&#x2018;(1) the product is dispensed during the circumstances described in subsection (a)(1)(C); and</p>
+        <p nid="t0:enr:460" tracking-nids="t0:eh:433">&#x2018;(2) such dispensing without an individual prescription occurs--</p>
+        <ul>
+          <p nid="t0:enr:461" tracking-nids="t0:eh:434">&#x2018;(A) as permitted under the law of the State in which the product is dispensed; or</p>
+          <p nid="t0:enr:462" tracking-nids="t0:eh:435">&#x2018;(B) in accordance with an order issued by the Secretary, for the purposes and duration of the circumstances described in subsection (a)(1)(C).</p>
+        </ul>
+      </ul>
+      <p nid="t0:enr:463" tracking-nids="t0:eh:436">&#x2018;(e) Emergency Use Instructions-</p>
+      <ul>
+        <p nid="t0:enr:464">&#x2018;(1) IN GENERAL- The Secretary, acting through an appropriate official within the Department of Health and Human Services, may create and issue emergency use instructions to inform health care providers or individuals to whom an eligible product is to be administered concerning such product&#x2019;s approved, licensed, or cleared conditions of use.</p>
+        <p nid="t0:enr:465" tracking-nids="t0:eh:438">&#x2018;(2) EFFECT- Notwithstanding any other provisions of this Act or the Public Health Service Act, a product shall not be considered an unapproved product and shall not be deemed adulterated or misbranded under this Act because of the issuance of emergency use instructions under paragraph (1) with respect to such product or the introduction or delivery for introduction of such product into interstate commerce accompanied by such instructions--</p>
+        <ul>
+          <p nid="t0:enr:466" tracking-nids="t0:eh:439">&#x2018;(A) during an emergency response to an actual emergency that is the basis for a determination described in subsection (a)(1)(C)(i); or</p>
+          <p nid="t0:enr:467" tracking-nids="t0:eh:440">&#x2018;(B) by a government entity (including a Federal, State, local, or tribal government entity), or a person acting on behalf of such a government entity, in preparation for an emergency response.&#x2019;.</p>
+        </ul>
+      </ul>
+      <p nid="t0:enr:468">(c) Risk Evaluation and Mitigation Strategies- Section 505-1 of the Federal Food, Drug, and Cosmetic Act (<usc-reference title="21" section="355-1" paragraph=""><usc-reference title="21" section="355-1" paragraph="">21 U.S.C. 355-1</usc-reference></usc-reference>), is amended--</p>
+      <ul>
+        <p nid="t0:enr:469" tracking-nids="t0:eh:442">(1) in subsection (f), by striking paragraph (7); and</p>
+        <p nid="t0:enr:470" tracking-nids="t0:eh:443">(2) by adding at the end the following:</p>
+      </ul>
+      <p nid="t0:enr:471" tracking-nids="t0:eh:444">&#x2018;(k) Waiver in Public Health Emergencies- The Secretary may waive any requirement of this section with respect to a qualified countermeasure (as defined in section 319F-1(a)(2) of the Public Health Service Act) to which a requirement under this section has been applied, if the Secretary determines that such waiver is required to mitigate the effects of, or reduce the severity of, the circumstances under which--</p>
+      <ul>
+        <p nid="t0:enr:472" tracking-nids="t0:eh:445">&#x2018;(1) a determination described in subparagraph (A), (B), or (C) of section 564(b)(1) has been made by the Secretary of Homeland Security, the Secretary of Defense, or the Secretary, respectively; or</p>
+        <p nid="t0:enr:473" tracking-nids="t0:eh:446">&#x2018;(2) the identification of a material threat described in subparagraph (D) of section 564(b)(1) has been made pursuant to section 319F-2 of the Public Health Service Act.&#x2019;.</p>
+      </ul>
+      <p nid="t0:enr:474">(d) Products Held for Emergency Use- The Federal Food, Drug, and Cosmetic Act (<usc-reference title="21" section="301" paragraph=""><usc-reference title="21" section="301" paragraph="">21 U.S.C. 301</usc-reference></usc-reference> et seq.) is amended by inserting after section 564A, as added by subsection (b), the following:</p>
+    </ul>
+    <p nid="t0:enr:475"><removed sequence="112"><p/></removed>&#x2018;SEC. 564B. PRODUCTS HELD FOR EMERGENCY USE.</p>
+    <ul>
+      <p nid="t0:enr:476" tracking-nids="t0:eh:449">&#x2018;It is not a violation of any section of this Act or of the Public Health Service Act for a government entity (including a Federal, State, local, or tribal government entity), or a person acting on behalf of such a government entity, to introduce into interstate commerce a product (as defined in section 564(a)(4)) intended for emergency use, if that product--</p>
+      <ul>
+        <p nid="t0:enr:477" tracking-nids="t0:eh:450">&#x2018;(1) is intended to be held and not used; and</p>
+        <p nid="t0:enr:478" tracking-nids="t0:eh:451">&#x2018;(2) is held and not used, unless and until that product--</p>
+        <ul>
+          <p nid="t0:enr:479" tracking-nids="t0:eh:452">&#x2018;(A) is approved, cleared, or licensed under section 505, 510(k), or 515 of this Act or section 351 of the Public Health Service Act;</p>
+          <p nid="t0:enr:480">&#x2018;(B) is authorized for investigational use under section 505 or 520 of this Act or section 351 of the Public Health Service Act; or</p>
+          <p nid="t0:enr:481">&#x2018;(C) is authorized for use under section 564.&#x2019;.</p>
+        </ul>
+      </ul>
+    </ul>
+  </blockquote>
+  <p/>
+  <center>
+    <p nid="t0:enr:482" tracking-nids="t0:eh:455">SEC. 303. DEFINITIONS.</p>
+  </center>
+  <ul>
+    <p nid="t0:enr:483">Section 565 of the Federal Food, Drug, and Cosmetic Act (<usc-reference title="21" section="360bbb-4" paragraph=""><usc-reference title="21" section="360bbb-4" paragraph="">21 U.S.C. 360bbb-4</usc-reference></usc-reference>) is amended by striking &#x2018;The Secretary, in consultation&#x2019; and inserting the following:</p>
+    <blockquote>
+      <p nid="t0:enr:484" tracking-nids="t0:eh:457">&#x2018;(a) Definitions- In this section--</p>
+      <ul>
+        <p nid="t0:enr:485" tracking-nids="t0:eh:458">&#x2018;(1) the term &#x2018;countermeasure&#x2019; means a qualified countermeasure, a security countermeasure, and a qualified pandemic or epidemic product;</p>
+        <p nid="t0:enr:486" tracking-nids="t0:eh:459">&#x2018;(2) the term &#x2018;qualified countermeasure&#x2019; has the meaning given such term in section 319F-1 of the Public Health Service Act;</p>
+        <p nid="t0:enr:487" tracking-nids="t0:eh:460">&#x2018;(3) the term &#x2018;security countermeasure&#x2019; has the meaning given such term in section 319F-2 of such Act; and</p>
+        <p nid="t0:enr:488" tracking-nids="t0:eh:461">&#x2018;(4) the term &#x2018;qualified pandemic or epidemic product&#x2019; means a product that meets the definition given such term in section 319F-3 of the Public Health Service Act and--</p>
+        <ul>
+          <p nid="t0:enr:489" tracking-nids="t0:eh:462">&#x2018;(A) that has been identified by the Department of Health and Human Services or the Department of Defense as receiving funding directly related to addressing chemical, biological, radiological, or nuclear threats, including pandemic influenza; or</p>
+          <p nid="t0:enr:490" tracking-nids="t0:eh:463">&#x2018;(B) is included under this paragraph pursuant to a determination by the Secretary.</p>
+        </ul>
+      </ul>
+      <p nid="t0:enr:491" tracking-nids="t0:eh:464">&#x2018;(b) General Duties- The Secretary, in consultation&#x2019;.</p>
+    </blockquote>
+  </ul>
+  <p/>
+  <center>
+    <p nid="t0:enr:492" tracking-nids="t0:eh:465">SEC. 304. ENHANCING MEDICAL COUNTERMEASURE ACTIVITIES.</p>
+  </center>
+  <ul>
+    <p nid="t0:enr:493">Section 565 of the Federal Food, Drug, and Cosmetic Act (<usc-reference title="21" section="360bbb-4" paragraph=""><usc-reference title="21" section="360bbb-4" paragraph="">21 U.S.C. 360bbb-4</usc-reference></usc-reference>), as amended by section 303, is further amended--</p>
+    <ul>
+      <p nid="t0:enr:494" tracking-nids="t0:eh:467">(1) in the section heading, by striking &#x2018;technical assistance&#x2019; and inserting &#x2018;countermeasure development, review, and technical assistance&#x2019;;</p>
+      <p nid="t0:enr:495" tracking-nids="t0:eh:468">(2) in subsection (b), by striking the subsection enumerator and all that follows through &#x2018;shall establish&#x2019; and inserting the following:</p>
+    </ul>
+    <blockquote>
+      <p nid="t0:enr:496" tracking-nids="t0:eh:469">&#x2018;(b) General Duties- In order to accelerate the development, stockpiling, approval, licensure, and clearance of qualified countermeasures, security countermeasures, and qualified pandemic or epidemic products, the Secretary, in consultation with the Assistant Secretary for Preparedness and Response, shall--</p>
+      <ul>
+        <p nid="t0:enr:497" tracking-nids="t0:eh:470">&#x2018;(1) ensure the appropriate involvement of Food and Drug Administration personnel in interagency activities related to countermeasure advanced research and development, consistent with sections 319F, 319F-1, 319F-2, 319F-3, 319L, and 2811 of the Public Health Service Act;</p>
+        <p nid="t0:enr:498" tracking-nids="t0:eh:471">&#x2018;(2) ensure the appropriate involvement and consultation of Food and Drug Administration personnel in any flexible manufacturing activities carried out under section 319L of the Public Health Service Act, including with respect to meeting regulatory requirements set forth in this Act;</p>
+        <p nid="t0:enr:499" tracking-nids="t0:eh:472">&#x2018;(3) promote countermeasure expertise within the Food and Drug Administration by--</p>
+        <ul>
+          <p nid="t0:enr:500" tracking-nids="t0:eh:473">&#x2018;(A) ensuring that Food and Drug Administration personnel involved in reviewing countermeasures for approval, licensure, or clearance are informed by the Assistant Secretary for Preparedness and Response on the material threat assessment conducted under section 319F-2 of the Public Health Service Act for the agent or agents for which the countermeasure under review is intended;</p>
+          <p nid="t0:enr:501" tracking-nids="t0:eh:474">&#x2018;(B) training Food and Drug Administration personnel regarding review of countermeasures for approval, licensure, or clearance;</p>
+          <p nid="t0:enr:502" tracking-nids="t0:eh:475">&#x2018;(C) holding public meetings at least twice annually to encourage the exchange of scientific ideas; and</p>
+          <p nid="t0:enr:503" tracking-nids="t0:eh:476">&#x2018;(D) establishing protocols to ensure that countermeasure reviewers have sufficient training or experience with countermeasures;</p>
+        </ul>
+        <p nid="t0:enr:504" tracking-nids="t0:eh:477">&#x2018;(4) maintain teams, composed of Food and Drug Administration personnel with expertise on countermeasures, including specific countermeasures, populations with special clinical needs (including children and pregnant women that may use countermeasures, as applicable and appropriate), classes or groups of countermeasures, or other countermeasure-related technologies and capabilities, that shall--</p>
+        <ul>
+          <p nid="t0:enr:505" tracking-nids="t0:eh:478">&#x2018;(A) consult with countermeasure experts, including countermeasure sponsors and applicants, to identify and help resolve scientific issues related to the approval, licensure, or clearance of countermeasures, through workshops or public meetings; and</p>
+          <p nid="t0:enr:506" tracking-nids="t0:eh:479">&#x2018;(B) improve and advance the science relating to the development of new tools, standards, and approaches to assessing and evaluating countermeasures--</p>
+          <ul>
+            <p nid="t0:enr:507" tracking-nids="t0:eh:480">&#x2018;(i) in order to inform the process for countermeasure approval, clearance, and licensure; and</p>
+            <p nid="t0:enr:508" tracking-nids="t0:eh:481">&#x2018;(ii) with respect to the development of countermeasures for populations with special clinical needs, including children and pregnant women, in order to meet the needs of such populations, as necessary and appropriate; and</p>
+          </ul>
+        </ul>
+        <p nid="t0:enr:509" tracking-nids="t0:eh:482">&#x2018;(5) establish&#x2019;; and</p>
+        <p nid="t0:enr:510" tracking-nids="t0:eh:483">(3) by adding at the end the following:</p>
+      </ul>
+      <p nid="t0:enr:511" tracking-nids="t0:eh:484">&#x2018;(c) Final Guidance on Development of Animal Models-</p>
+      <ul>
+        <p nid="t0:enr:512">&#x2018;(1) IN GENERAL- Not later than 1 year after the date of the enactment of the Pandemic and All-Hazards Preparedness Reauthorization Act of 2013, the Secretary shall provide final guidance to industry regarding the development of animal models to support approval, clearance, or licensure of countermeasures referred to in subsection (a) when human efficacy studies are not ethical or feasible.</p>
+        <p nid="t0:enr:513" tracking-nids="t0:eh:486">&#x2018;(2) AUTHORITY TO EXTEND DEADLINE- The Secretary may extend the deadline for providing final guidance under paragraph (1) by not more than 6 months upon submission by the Secretary of a report on the status of such guidance to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate.</p>
+      </ul>
+      <p nid="t0:enr:514" tracking-nids="t0:eh:487">&#x2018;(d) Development and Animal Modeling Procedures-</p>
+      <ul>
+        <p nid="t0:enr:515" tracking-nids="t0:eh:488">&#x2018;(1) AVAILABILITY OF ANIMAL MODEL MEETINGS- To facilitate the timely development of animal models and support the development, stockpiling, licensure, approval, and clearance of countermeasures, the Secretary shall, not later than 180 days after the enactment of this subsection, establish a procedure by which a sponsor or applicant that is developing a countermeasure for which human efficacy studies are not ethical or practicable, and that has an approved investigational new drug application or investigational device exemption, may request and receive--</p>
+        <ul>
+          <p nid="t0:enr:516" tracking-nids="t0:eh:489">&#x2018;(A) a meeting to discuss proposed animal model development activities; and</p>
+          <p nid="t0:enr:517" tracking-nids="t0:eh:490">&#x2018;(B) a meeting prior to initiating pivotal animal studies.</p>
+        </ul>
+        <p nid="t0:enr:518" tracking-nids="t0:eh:491">&#x2018;(2) PEDIATRIC MODELS- To facilitate the development and selection of animal models that could translate to pediatric studies, any meeting conducted under paragraph (1) shall include discussion of animal models for pediatric populations, as appropriate.</p>
+      </ul>
+      <p nid="t0:enr:519" tracking-nids="t0:eh:492">&#x2018;(e) Review and Approval of Countermeasures-</p>
+      <ul>
+        <p nid="t0:enr:520" tracking-nids="t0:eh:493">&#x2018;(1) MATERIAL THREAT- When evaluating an application or submission for approval, licensure, or clearance of a countermeasure, the Secretary shall take into account the material threat posed by the chemical, biological, radiological, or nuclear agent or agents identified under section 319F-2 of the Public Health Service Act for which the countermeasure under review is intended.</p>
+        <p nid="t0:enr:521" tracking-nids="t0:eh:494">&#x2018;(2) REVIEW EXPERTISE- When practicable and appropriate, teams of Food and Drug Administration personnel reviewing applications or submissions described under paragraph (1) shall include a reviewer with sufficient training or experience with countermeasures pursuant to the protocols established under subsection (b)(3)(D).&#x2019;.</p>
+      </ul>
+    </blockquote>
+  </ul>
+  <p/>
+  <center>
+    <p nid="t0:enr:522" tracking-nids="t0:eh:495">SEC. 305. REGULATORY MANAGEMENT PLANS.</p>
+  </center>
+  <ul>
+    <p nid="t0:enr:523">Section 565 of the Federal Food, Drug, and Cosmetic Act (<usc-reference title="21" section="360bbb-4" paragraph=""><usc-reference title="21" section="360bbb-4" paragraph="">21 U.S.C. 360bbb-4</usc-reference></usc-reference>), as amended by section 304, is further amended by adding at the end the following:</p>
+    <blockquote>
+      <p nid="t0:enr:524" tracking-nids="t0:eh:497">&#x2018;(f) Regulatory Management Plan-</p>
+      <ul>
+        <p nid="t0:enr:525" tracking-nids="t0:eh:498">&#x2018;(1) DEFINITION- In this subsection, the term &#x2018;eligible countermeasure&#x2019; means--</p>
+        <ul>
+          <p nid="t0:enr:526" tracking-nids="t0:eh:499">&#x2018;(A) a security countermeasure with respect to which the Secretary has entered into a procurement contract under section 319F-2(c) of the Public Health Service Act; or</p>
+          <p nid="t0:enr:527" tracking-nids="t0:eh:500">&#x2018;(B) a countermeasure with respect to which the Biomedical Advanced Research and Development Authority has provided funding under section 319L of the Public Health Service Act for advanced research and development.</p>
+        </ul>
+        <p nid="t0:enr:528" tracking-nids="t0:eh:501">&#x2018;(2) REGULATORY MANAGEMENT PLAN PROCESS- The Secretary, in consultation with the Assistant Secretary for Preparedness and Response and the Director of the Biomedical Advanced Research and Development Authority, shall establish a formal process for obtaining scientific feedback and interactions regarding the development and regulatory review of eligible countermeasures by facilitating the development of written regulatory management plans in accordance with this subsection.</p>
+        <p nid="t0:enr:529" tracking-nids="t0:eh:502">&#x2018;(3) SUBMISSION OF REQUEST AND PROPOSED PLAN BY SPONSOR OR APPLICANT-</p>
+        <ul>
+          <p nid="t0:enr:530">&#x2018;(A) IN GENERAL- A sponsor or applicant of an eligible countermeasure may initiate the process described under paragraph (2) upon submission of a written request to the Secretary. Such request shall include a proposed regulatory management plan.</p>
+          <p nid="t0:enr:531" tracking-nids="t0:eh:504">&#x2018;(B) TIMING OF SUBMISSION- A sponsor or applicant may submit a written request under subparagraph (A) after the eligible countermeasure has an investigational new drug or investigational device exemption in effect.</p>
+          <p nid="t0:enr:532" tracking-nids="t0:eh:505">&#x2018;(C) RESPONSE BY SECRETARY- The Secretary shall direct the Food and Drug Administration, upon submission of a written request by a sponsor or applicant under subparagraph (A), to work with the sponsor or applicant to agree on a regulatory management plan within a reasonable time not to exceed 90 days. If the Secretary determines that no plan can be agreed upon, the Secretary shall provide to the sponsor or applicant, in writing, the scientific or regulatory rationale why such agreement cannot be reached.</p>
+        </ul>
+        <p nid="t0:enr:533" tracking-nids="t0:eh:506">&#x2018;(4) PLAN- The content of a regulatory management plan agreed to by the Secretary and a sponsor or applicant shall include--</p>
+        <ul>
+          <p nid="t0:enr:534" tracking-nids="t0:eh:507">&#x2018;(A) an agreement between the Secretary and the sponsor or applicant regarding developmental milestones that will trigger responses by the Secretary as described in subparagraph (B);</p>
+          <p nid="t0:enr:535" tracking-nids="t0:eh:508">&#x2018;(B) performance targets and goals for timely and appropriate responses by the Secretary to the triggers described under subparagraph (A), including meetings between the Secretary and the sponsor or applicant, written feedback, decisions by the Secretary, and other activities carried out as part of the development and review process; and</p>
+          <p nid="t0:enr:536" tracking-nids="t0:eh:509">&#x2018;(C) an agreement on how the plan shall be modified, if needed.</p>
+        </ul>
+        <p nid="t0:enr:537" tracking-nids="t0:eh:510">&#x2018;(5) MILESTONES AND PERFORMANCE TARGETS- The developmental milestones described in paragraph (4)(A) and the performance targets and goals described in paragraph (4)(B) shall include--</p>
+        <ul>
+          <p nid="t0:enr:538" tracking-nids="t0:eh:511">&#x2018;(A) feedback from the Secretary regarding the data required to support the approval, clearance, or licensure of the eligible countermeasure involved;</p>
+          <p nid="t0:enr:539" tracking-nids="t0:eh:512">&#x2018;(B) feedback from the Secretary regarding the data necessary to inform any authorization under section 564;</p>
+          <p nid="t0:enr:540" tracking-nids="t0:eh:513">&#x2018;(C) feedback from the Secretary regarding the data necessary to support the positioning and delivery of the eligible countermeasure, including to the Strategic National Stockpile;</p>
+          <p nid="t0:enr:541" tracking-nids="t0:eh:514">&#x2018;(D) feedback from the Secretary regarding the data necessary to support the submission of protocols for review under section 505(b)(5)(B);</p>
+          <p nid="t0:enr:542" tracking-nids="t0:eh:515">&#x2018;(E) feedback from the Secretary regarding any gaps in scientific knowledge that will need resolution prior to approval, licensure, or clearance of the eligible countermeasure and plans for conducting the necessary scientific research;</p>
+          <p nid="t0:enr:543" tracking-nids="t0:eh:516">&#x2018;(F) identification of the population for which the countermeasure sponsor or applicant seeks approval, licensure, or clearance and the population for which desired labeling would not be appropriate, if known; and</p>
+          <p nid="t0:enr:544" tracking-nids="t0:eh:517">&#x2018;(G) as necessary and appropriate, and to the extent practicable, a plan for demonstrating safety and effectiveness in pediatric populations, and for developing pediatric dosing, formulation, and administration with respect to the eligible countermeasure, provided that such plan would not delay authorization under section 564, approval, licensure, or clearance for adults.</p>
+        </ul>
+        <p nid="t0:enr:545" tracking-nids="t0:eh:518">&#x2018;(6) PRIORITIZATION-</p>
+        <ul>
+          <p nid="t0:enr:546" tracking-nids="t0:eh:519">&#x2018;(A) PLANS FOR SECURITY COUNTERMEASURES- The Secretary shall establish regulatory management plans for all security countermeasures for which a request is submitted under paragraph (3)(A).</p>
+          <p nid="t0:enr:547" tracking-nids="t0:eh:520">&#x2018;(B) PLANS FOR OTHER ELIGIBLE COUNTERMEASURES- The Secretary shall determine whether resources are available to establish regulatory management plans for eligible countermeasures that are not security countermeasures. If resources are available to establish regulatory management plans for eligible countermeasures that are not security countermeasures, and if resources are not available to establish regulatory management plans for all eligible countermeasures for which requests have been submitted, the Director of the Biomedical Advanced Research and Development Authority, in consultation with the Commissioner, shall prioritize which eligible countermeasures may receive regulatory management plans.&#x2019;.</p>
+        </ul>
+      </ul>
+    </blockquote>
+  </ul>
+  <p/>
+  <center>
+    <p nid="t0:enr:548" tracking-nids="t0:eh:521">SEC. 306. REPORT.</p>
+  </center>
+  <ul>
+    <p nid="t0:enr:549">Section 565 of the Federal Food, Drug, and Cosmetic Act (<usc-reference title="21" section="360bbb-4" paragraph=""><usc-reference title="21" section="360bbb-4" paragraph="">21 U.S.C. 360bbb-4</usc-reference></usc-reference>), as amended by section 305, is further amended by adding at the end the following:</p>
+    <blockquote>
+      <p nid="t0:enr:550" tracking-nids="t0:eh:523">&#x2018;(g) Annual Report- Not later than 180 days after the date of enactment of this subsection, and annually thereafter, the Secretary shall make publicly available on the Web site of the Food and Drug Administration a report that details the countermeasure development and review activities of the Food and Drug Administration, including--</p>
+      <ul>
+        <p nid="t0:enr:551" tracking-nids="t0:eh:524">&#x2018;(1) with respect to the development of new tools, standards, and approaches to assess and evaluate countermeasures--</p>
+        <ul>
+          <p nid="t0:enr:552" tracking-nids="t0:eh:525">&#x2018;(A) the identification of the priorities of the Food and Drug Administration and the progress made on such priorities; and</p>
+          <p nid="t0:enr:553" tracking-nids="t0:eh:526">&#x2018;(B) the identification of scientific gaps that impede the development, approval, licensure, or clearance of countermeasures for populations with special clinical needs, including children and pregnant women, and the progress made on resolving these challenges;</p>
+        </ul>
+        <p nid="t0:enr:554" tracking-nids="t0:eh:527">&#x2018;(2) with respect to countermeasures for which a regulatory management plan has been agreed upon under subsection (f), the extent to which the performance targets and goals set forth in subsection (f)(4)(B) and the regulatory management plan have been met, including, for each such countermeasure--</p>
+        <ul>
+          <p nid="t0:enr:555" tracking-nids="t0:eh:528">&#x2018;(A) whether the regulatory management plan was completed within the required timeframe, and the length of time taken to complete such plan;</p>
+          <p nid="t0:enr:556" tracking-nids="t0:eh:529">&#x2018;(B) whether the Secretary adhered to the timely and appropriate response times set forth in such plan; and</p>
+          <p nid="t0:enr:557" tracking-nids="t0:eh:530">&#x2018;(C) explanations for any failure to meet such performance targets and goals;</p>
+        </ul>
+        <p nid="t0:enr:558" tracking-nids="t0:eh:531">&#x2018;(3) the number of regulatory teams established pursuant to subsection (b)(4), the number of products, classes of products, or technologies assigned to each such team, and the number of, type of, and any progress made as a result of consultations carried out under subsection (b)(4)(A);</p>
+        <p nid="t0:enr:559" tracking-nids="t0:eh:532">&#x2018;(4) an estimate of resources obligated to countermeasure development and regulatory assessment, including--</p>
+        <ul>
+          <p nid="t0:enr:560" tracking-nids="t0:eh:533">&#x2018;(A) Center-specific objectives and accomplishments; and</p>
+          <p nid="t0:enr:561" tracking-nids="t0:eh:534">&#x2018;(B) the number of full-time equivalent employees of the Food and Drug Administration who directly support the review of countermeasures;</p>
+        </ul>
+        <p nid="t0:enr:562" tracking-nids="t0:eh:535">&#x2018;(5) the number of countermeasure applications and submissions submitted, the number of countermeasures approved, licensed, or cleared, the status of remaining submitted applications and submissions, and the number of each type of authorization issued pursuant to section 564;</p>
+        <p nid="t0:enr:563" tracking-nids="t0:eh:536">&#x2018;(6) the number of written requests for a regulatory management plan submitted under subsection (f)(3)(A), the number of regulatory management plans developed, and the number of such plans developed for security countermeasures; and</p>
+        <p nid="t0:enr:564" tracking-nids="t0:eh:537">&#x2018;(7) the number, type, and frequency of meetings between the Food and Drug Administration and--</p>
+        <ul>
+          <p nid="t0:enr:565" tracking-nids="t0:eh:538">&#x2018;(A) sponsors of a countermeasure as defined in subsection (a); or</p>
+          <p nid="t0:enr:566" tracking-nids="t0:eh:539">&#x2018;(B) another agency engaged in development or management of portfolios for such countermeasures, including the Centers for Disease Control and Prevention, the Biomedical Advanced Research and Development Authority, the National Institutes of Health, and the appropriate agencies of the Department of Defense.&#x2019;.</p>
+        </ul>
+      </ul>
+    </blockquote>
+  </ul>
+  <p/>
+  <center>
+    <p nid="t0:enr:567" tracking-nids="t0:eh:540">SEC. 307. PEDIATRIC MEDICAL COUNTERMEASURES.</p>
+  </center>
+  <ul>
+    <p nid="t0:enr:568">(a) Pediatric Studies of Drugs- Section 505A of the Federal Food, Drug, and Cosmetic Act (<usc-reference title="21" section="355a" paragraph=""><usc-reference title="21" section="355a" paragraph="">21 U.S.C. 355a</usc-reference></usc-reference>) is amended--</p>
+    <ul>
+      <p nid="t0:enr:569" tracking-nids="t0:eh:542">(1) in subsection (d), by adding at the end the following:</p>
+      <blockquote>
+        <p nid="t0:enr:570" tracking-nids="t0:eh:543">&#x2018;(5) CONSULTATION- With respect to a drug that is a qualified countermeasure (as defined in section 319F-1 of the Public Health Service Act), a security countermeasure (as defined in section 319F-2 of the Public Health Service Act), or a qualified pandemic or epidemic product (as defined in section 319F-3 of the Public Health Service Act), the Secretary shall solicit input from the Assistant Secretary for Preparedness and Response regarding the need for and, from the Director of the Biomedical Advanced Research and Development Authority regarding the conduct of, pediatric studies under this section.&#x2019;; and</p>
+      </blockquote>
+      <p nid="t0:enr:571" tracking-nids="t0:eh:544">(2) in subsection (n)(1), by adding at the end the following:</p>
+      <blockquote>
+        <ul>
+          <p nid="t0:enr:572" tracking-nids="t0:eh:545">&#x2018;(C) For a drug that is a qualified countermeasure (as defined in section 319F-1 of the Public Health Service Act), a security countermeasure (as defined in section 319F-2 of the Public Health Service Act), or a qualified pandemic or epidemic product (as defined in section 319F-3 of such Act), in addition to any action with respect to such drug under subparagraph (A) or (B), the Secretary shall notify the Assistant Secretary for Preparedness and Response and the Director of the Biomedical Advanced Research and Development Authority of all pediatric studies in the written request issued by the Commissioner of Food and Drugs.&#x2019;.</p>
+        </ul>
+      </blockquote>
+    </ul>
+    <p nid="t0:enr:573">(b) Addition to Priority List Considerations- Section 409I of the Public Health Service Act (<usc-reference title="42" section="284m" paragraph=""><usc-reference title="42" section="284m" paragraph="">42 U.S.C. 284m</usc-reference></usc-reference>) is amended--</p>
+    <ul>
+      <p nid="t0:enr:574" tracking-nids="t0:eh:547">(1) by striking subsection (a)(2) and inserting the following:</p>
+      <blockquote>
+        <p nid="t0:enr:575" tracking-nids="t0:eh:548">&#x2018;(2) CONSIDERATION OF AVAILABLE INFORMATION- In developing and prioritizing the list under paragraph (1), the Secretary--</p>
+        <ul>
+          <p nid="t0:enr:576" tracking-nids="t0:eh:549">&#x2018;(A) shall consider--</p>
+          <ul>
+            <p nid="t0:enr:577" tracking-nids="t0:eh:550">&#x2018;(i) therapeutic gaps in pediatrics that may include developmental pharmacology, pharmacogenetic determinants of drug response, metabolism of drugs and biologics in children, and pediatric clinical trials;</p>
+            <p nid="t0:enr:578" tracking-nids="t0:eh:551">&#x2018;(ii) particular pediatric diseases, disorders or conditions where more complete knowledge and testing of therapeutics, including drugs and biologics, may be beneficial in pediatric populations; and</p>
+            <p nid="t0:enr:579" tracking-nids="t0:eh:552">&#x2018;(iii) the adequacy of necessary infrastructure to conduct pediatric pharmacological research, including research networks and trained pediatric investigators; and</p>
+          </ul>
+          <p nid="t0:enr:580" tracking-nids="t0:eh:553">&#x2018;(B) may consider the availability of qualified countermeasures (as defined in section 319F-1), security countermeasures (as defined in section 319F-2), and qualified pandemic or epidemic products (as defined in section 319F-3) to address the needs of pediatric populations, in consultation with the Assistant Secretary for Preparedness and Response, consistent with the purposes of this section.&#x2019;; and</p>
+        </ul>
+      </blockquote>
+      <p nid="t0:enr:581" tracking-nids="t0:eh:554">(2) in subsection (b), by striking &#x2018;subsection (a)&#x2019; and inserting &#x2018;paragraphs (1) and (2)(A) of subsection (a)&#x2019;.</p>
+    </ul>
+    <p nid="t0:enr:582">(c) Advice and Recommendations of the Pediatric Advisory Committee Regarding Countermeasures for Pediatric Populations- Subsection (b)(2) of section 14 of the Best Pharmaceuticals for Children Act (<usc-reference title="42" section="284m" paragraph=""><usc-reference title="42" section="284m" paragraph="">42 U.S.C. 284m</usc-reference></usc-reference> note) is amended--</p>
+    <ul>
+      <p nid="t0:enr:583" tracking-nids="t0:eh:556">(1) in subparagraph (C), by striking the period and inserting &#x2018;; and&#x2019;; and</p>
+      <p nid="t0:enr:584" tracking-nids="t0:eh:557">(2) by adding at the end the following:</p>
+      <blockquote>
+        <ul>
+          <p nid="t0:enr:585" tracking-nids="t0:eh:558">&#x2018;(D) the development of countermeasures (as defined in section 565(a) of the Federal Food, Drug, and Cosmetic Act) for pediatric populations.&#x2019;.</p>
+        </ul>
+      </blockquote>
+    </ul>
+  </ul>
+  <p tracking-nids="t0:eh:560"/>
+  <h4 nid="t0:enr:586">
+    <center>
+      <p nid="t0:enr:587">TITLE IV--ACCELERATING MEDICAL COUNTERMEASURE ADVANCED RESEARCH AND DEVELOPMENT</p>
+    </center>
+  </h4>
+  <p tracking-nids="t0:eh:561"/>
+  <center>
+    <p nid="t0:enr:588">SEC. 401. BIOSHIELD.</p>
+  </center>
+  <ul>
+    <p nid="t0:enr:589">(a) Procurement of Countermeasures- Section 319F-2(c) of the Public Health Service Act (<usc-reference title="42" section="247d-6b" paragraph="c"><usc-reference title="42" section="247d-6b" paragraph="c">42 U.S.C. 247d-6b(c)</usc-reference></usc-reference>) is amended--</p>
+    <ul>
+      <p nid="t0:enr:590" tracking-nids="t0:eh:563">(1) in paragraph (1)(B)(i)(III)(bb), by striking &#x2018;eight years&#x2019; and inserting &#x2018;10 years&#x2019;;</p>
+      <p nid="t0:enr:591" tracking-nids="t0:eh:564">(2) in paragraph (2)(C), by striking &#x2018;the designated congressional committees (as defined in paragraph (10))&#x2019; and inserting &#x2018;the appropriate committees of Congress&#x2019;;</p>
+      <p nid="t0:enr:592" tracking-nids="t0:eh:565">(3) in paragraph (5)(B)(ii), by striking &#x2018;eight years&#x2019; and inserting &#x2018;10 years&#x2019;;</p>
+      <p nid="t0:enr:593" tracking-nids="t0:eh:566">(4) in subparagraph (C) of paragraph (6)--</p>
+      <ul>
+        <p nid="t0:enr:594" tracking-nids="t0:eh:567">(A) in the subparagraph heading, by striking &#x2018;DESIGNATED CONGRESSIONAL COMMITTEES&#x2019; and inserting &#x2018;APPROPRIATE CONGRESSIONAL COMMITTEES&#x2019;; and</p>
+        <p nid="t0:enr:595" tracking-nids="t0:eh:568">(B) by striking &#x2018;the designated congressional committees&#x2019; and inserting &#x2018;the appropriate congressional committees&#x2019;; and</p>
+      </ul>
+      <p nid="t0:enr:596" tracking-nids="t0:eh:569">(5) in paragraph (7)(C)--</p>
+      <ul>
+        <p nid="t0:enr:597" tracking-nids="t0:eh:570">(A) in clause (i)(I), by inserting &#x2018;including advanced research and development,&#x2019; after &#x2018;as may reasonably be required,&#x2019;;</p>
+        <p nid="t0:enr:598" tracking-nids="t0:eh:571">(B) in clause (ii)--</p>
+        <ul>
+          <p nid="t0:enr:599" tracking-nids="t0:eh:572">(i) in subclause (III), by striking &#x2018;eight years&#x2019; and inserting &#x2018;10 years&#x2019;; and</p>
+          <p nid="t0:enr:600" tracking-nids="t0:eh:573">(ii) by striking subclause (IX) and inserting the following:</p>
+          <blockquote>
+            <ul>
+              <p nid="t0:enr:601" tracking-nids="t0:eh:574">&#x2018;(IX) CONTRACT TERMS- The Secretary, in any contract for procurement under this section--</p>
+            </ul>
+          </blockquote>
+        </ul>
+      </ul>
+    </ul>
+  </ul>
+  <blockquote>
+    <p nid="t0:enr:602" tracking-nids="t0:eh:575">&#x2018;(aa) may specify--</p>
+    <p nid="t0:enr:603" tracking-nids="t0:eh:576">&#x2018;(AA) the dosing and administration requirements for the countermeasure to be developed and procured;</p>
+    <p nid="t0:enr:604" tracking-nids="t0:eh:577">&#x2018;(BB) the amount of funding that will be dedicated by the Secretary for advanced research, development, and procurement of the countermeasure; and</p>
+    <p nid="t0:enr:605" tracking-nids="t0:eh:578">&#x2018;(CC) the specifications the countermeasure must meet to qualify for procurement under a contract under this section; and</p>
+    <p nid="t0:enr:606" tracking-nids="t0:eh:579">&#x2018;(bb) shall provide a clear statement of defined Government purpose limited to uses related to a security countermeasure, as defined in paragraph (1)(B).&#x2019;; and</p>
+  </blockquote>
+  <ul>
+    <ul>
+      <ul>
+        <p nid="t0:enr:607" tracking-nids="t0:eh:580">(C) by adding at the end the following:</p>
+        <blockquote>
+          <ul>
+            <p nid="t0:enr:608" tracking-nids="t0:eh:581">&#x2018;(viii) FLEXIBILITY- In carrying out this section, the Secretary may, consistent with the applicable provisions of this section, enter into contracts and other agreements that are in the best interest of the Government in meeting identified security countermeasure needs, including with respect to reimbursement of the cost of advanced research and development as a reasonable, allowable, and allocable direct cost of the contract involved.&#x2019;.</p>
+          </ul>
+        </blockquote>
+      </ul>
+    </ul>
+    <p nid="t0:enr:609">(b) Reauthorization of the Special Reserve Fund- Section 319F-2 of the Public Health Service Act (<usc-reference title="42" section="247d-6b" paragraph=""><usc-reference title="42" section="247d-6b" paragraph="">42 U.S.C. 247d-6b</usc-reference></usc-reference>) is amended--</p>
+    <ul>
+      <p nid="t0:enr:610" tracking-nids="t0:eh:583">(1) in subsection (c)--</p>
+      <ul>
+        <p nid="t0:enr:611" tracking-nids="t0:eh:584">(A) by striking &#x2018;special reserve fund under paragraph (10)&#x2019; each place it appears and inserting &#x2018;special reserve fund as defined in subsection (h)&#x2019;; and</p>
+        <p nid="t0:enr:612" tracking-nids="t0:eh:585">(B) by striking paragraphs (9) and (10); and</p>
+      </ul>
+      <p nid="t0:enr:613" tracking-nids="t0:eh:586">(2) by adding at the end the following:</p>
+    </ul>
+    <blockquote>
+      <p nid="t0:enr:614" tracking-nids="t0:eh:587">&#x2018;(g) Special Reserve Fund-</p>
+      <ul>
+        <p nid="t0:enr:615" tracking-nids="t0:eh:588">&#x2018;(1) AUTHORIZATION OF APPROPRIATIONS- In addition to amounts appropriated to the special reserve fund prior to the date of the enactment of this subsection, there is authorized to be appropriated, for the procurement of security countermeasures under subsection (c) and for carrying out section 319L (relating to the Biomedical Advanced Research and Development Authority), $2,800,000,000 for the period of fiscal years 2014 through 2018. Amounts appropriated pursuant to the preceding sentence are authorized to remain available until September 30, 2019.</p>
+        <p nid="t0:enr:616" tracking-nids="t0:eh:589">&#x2018;(2) USE OF SPECIAL RESERVE FUND FOR ADVANCED RESEARCH AND DEVELOPMENT- The Secretary may utilize not more than 50 percent of the amounts authorized to be appropriated under paragraph (1) to carry out section 319L (related to the Biomedical Advanced Research and Development Authority). Amounts authorized to be appropriated under this subsection to carry out section 319L are in addition to amounts otherwise authorized to be appropriated to carry out such section.</p>
+        <p nid="t0:enr:617" tracking-nids="t0:eh:590">&#x2018;(3) RESTRICTIONS ON USE OF FUNDS- Amounts in the special reserve fund shall not be used to pay costs other than payments made by the Secretary to a vendor for advanced development (under section 319L) or for procurement of a security countermeasure under subsection (c)(7).</p>
+        <p nid="t0:enr:618" tracking-nids="t0:eh:591">&#x2018;(4) REPORT- Not later than 30 days after any date on which the Secretary determines that the amount of funds in the special reserve fund available for procurement is less than $1,500,000,000, the Secretary shall submit to the appropriate committees of Congress a report detailing the amount of such funds available for procurement and the impact such reduction in funding will have--</p>
+        <ul>
+          <p nid="t0:enr:619" tracking-nids="t0:eh:592">&#x2018;(A) in meeting the security countermeasure needs identified under this section; and</p>
+          <p nid="t0:enr:620" tracking-nids="t0:eh:593">&#x2018;(B) on the annual Public Health Emergency Medical Countermeasures Enterprise and Strategy Implementation Plan (pursuant to section 2811(d)).</p>
+        </ul>
+      </ul>
+      <p nid="t0:enr:621" tracking-nids="t0:eh:594">&#x2018;(h) Definitions- In this section:</p>
+      <ul>
+        <p nid="t0:enr:622" tracking-nids="t0:eh:595">&#x2018;(1) The term &#x2018;advanced research and development&#x2019; has the meaning given such term in section 319L(a).</p>
+        <p nid="t0:enr:623" tracking-nids="t0:eh:596">&#x2018;(2) The term &#x2018;special reserve fund&#x2019; means the &#x2018;Biodefense Countermeasures&#x2019; appropriations account, any appropriation made available pursuant to section 521(a) of the Homeland Security Act of 2002, and any appropriation made available pursuant to subsection (g)(1).&#x2019;.</p>
+      </ul>
+    </blockquote>
+  </ul>
+  <p/>
+  <center>
+    <p nid="t0:enr:624" tracking-nids="t0:eh:597">SEC. 402. BIOMEDICAL ADVANCED RESEARCH AND DEVELOPMENT AUTHORITY.</p>
+  </center>
+  <ul>
+    <p nid="t0:enr:625">(a) Duties- Section 319L(c)(4) of the Public Health Service Act (<usc-reference title="42" section="247d-7e" paragraph="c_4"><usc-reference title="42" section="247d-7e" paragraph="c_4">42 U.S.C. 247d-7e(c)(4)</usc-reference></usc-reference>) is amended--</p>
+    <ul>
+      <p nid="t0:enr:626" tracking-nids="t0:eh:599">(1) in subparagraph (B)(iii), by inserting &#x2018;(which may include advanced research and development for purposes of fulfilling requirements under the Federal Food, Drug, and Cosmetic Act or section 351 of this Act)&#x2019; after &#x2018;development&#x2019;; and</p>
+      <p nid="t0:enr:627" tracking-nids="t0:eh:600">(2) in subparagraph (D)(iii), by striking &#x2018;and vaccine manufacturing technologies&#x2019; and inserting &#x2018;vaccine-manufacturing technologies, dose-sparing technologies, efficacy-increasing technologies, and platform technologies&#x2019;.</p>
+    </ul>
+    <p nid="t0:enr:628">(b) Transaction Authorities- Section 319L(c)(5) of the Public Health Service Act (<usc-reference title="42" section="247d-7e" paragraph="c_5"><usc-reference title="42" section="247d-7e" paragraph="c_5">42 U.S.C. 247d-7e(c)(5)</usc-reference></usc-reference>) is amended by adding at the end the following:</p>
+    <blockquote>
+      <ul>
+        <ul>
+          <p nid="t0:enr:629" tracking-nids="t0:eh:602">&#x2018;(G) GOVERNMENT PURPOSE- In awarding contracts, grants, and cooperative agreements under this section, the Secretary shall provide a clear statement of defined Government purpose related to activities included in subsection (a)(6)(B) for a qualified countermeasure or qualified pandemic or epidemic product.&#x2019;.</p>
+        </ul>
+      </ul>
+    </blockquote>
+    <p nid="t0:enr:630">(c) Fund- Paragraph (2) of section 319L(d) of the Public Health Service Act (<usc-reference title="42" section="247d-7e" paragraph="d_2"><usc-reference title="42" section="247d-7e" paragraph="d_2">42 U.S.C. 247d-7e(d)(2)</usc-reference></usc-reference>) is amended to read as follows:</p>
+    <blockquote>
+      <ul>
+        <p nid="t0:enr:631" tracking-nids="t0:eh:604">&#x2018;(2) FUNDING- To carry out the purposes of this section, there is authorized to be appropriated to the Fund $415,000,000 for each of fiscal years 201<changed sequence="113"><changed-from>3 through 2017</changed-from><changed-to>4 through 2018</changed-to></changed>, such amounts to remain available until expended.&#x2019;.</p>
+      </ul>
+    </blockquote>
+    <p nid="t0:enr:632">(d) Continued Inapplicability of Certain Provisions- Section 319L(e)(1)(C) of the Public Health Service Act (<usc-reference title="42" section="247d-7e" paragraph="e_1_C"><usc-reference title="42" section="247d-7e" paragraph="e_1_C">42 U.S.C. 247d-7e(e)(1)(C)</usc-reference></usc-reference>) is amended by striking &#x2018;7 years&#x2019; and inserting &#x2018;1<changed sequence="114"><changed-from>1</changed-from><changed-to>2</changed-to></changed> years&#x2019;.</p>
+    <p nid="t0:enr:633" tracking-nids="t0:eh:606">(e) Extension of Limited Antitrust Exemption-</p>
+    <ul>
+      <p nid="t0:enr:634">(1) IN GENERAL- Section 405(b) of the Pandemic and All-Hazards Preparedness Act (<usc-reference title="42" section="247d-6a" paragraph=""><usc-reference title="42" section="247d-6a" paragraph="">42 U.S.C. 247d-6a</usc-reference></usc-reference> note) is amended by striking &#x2018;6-year&#x2019; and inserting &#x2018;1<changed sequence="115"><changed-from>1</changed-from><changed-to>2</changed-to></changed>-year&#x2019;.</p>
+      <p nid="t0:enr:635" tracking-nids="t0:eh:608">(2) EFFECTIVE DATE- This subsection shall take effect as if enacted on December 17, 2012.</p>
+    </ul>
+    <p nid="t0:enr:636">(f) Independent Evaluation- Section 319L of the Public Health Service Act (<usc-reference title="42" section="247d-7e" paragraph=""><usc-reference title="42" section="247d-7e" paragraph="">42 U.S.C. 247d-7e</usc-reference></usc-reference>) is amended by adding at the end the following:</p>
+    <blockquote>
+      <p nid="t0:enr:637" tracking-nids="t0:eh:610">&#x2018;(f) Independent Evaluation-</p>
+      <ul>
+        <p nid="t0:enr:638">&#x2018;(1) IN GENERAL- Not later than 180 days after the date of enactment of this subsection, the Comptroller General of the United States shall conduct an independent evaluation of the activities carried out to facilitate flexible manufacturing capacity pursuant to this section.</p>
+        <p nid="t0:enr:639" tracking-nids="t0:eh:612">&#x2018;(2) REPORT- Not later than 1 year after the date of enactment of this subsection, the Comptroller General of the United States shall submit to the appropriate committees of Congress a report concerning the results of the evaluation conducted under paragraph (1). Such report shall review and assess--</p>
+        <ul>
+          <p nid="t0:enr:640" tracking-nids="t0:eh:613">&#x2018;(A) the extent to which flexible manufacturing capacity under this section is dedicated to chemical, biological, radiological, and nuclear threats;</p>
+          <p nid="t0:enr:641" tracking-nids="t0:eh:614">&#x2018;(B) the activities supported by flexible manufacturing initiatives; and</p>
+          <p nid="t0:enr:642" tracking-nids="t0:eh:615">&#x2018;(C) the ability of flexible manufacturing activities carried out under this section to--</p>
+          <ul>
+            <p nid="t0:enr:643" tracking-nids="t0:eh:616">&#x2018;(i) secure and leverage leading technical expertise with respect to countermeasure advanced research, development, and manufacturing processes; and</p>
+            <p nid="t0:enr:644" tracking-nids="t0:eh:617">&#x2018;(ii) meet the surge manufacturing capacity needs presented by novel and emerging threats, including chemical, biological, radiological, and nuclear agents.&#x2019;.</p>
+          </ul>
+        </ul>
+      </ul>
+    </blockquote>
+    <p nid="t0:enr:645" tracking-nids="t0:eh:618">(g) Definitions-</p>
+    <ul>
+      <p nid="t0:enr:646">(1) QUALIFIED COUNTERMEASURE- Section 319F-1(a)(2)(A) of the Public Health Service Act (<usc-reference title="42" section="247d-6a" paragraph="a_2_A"><usc-reference title="42" section="247d-6a" paragraph="a_2_A">42 U.S.C. 247d-6a(a)(2)(A)</usc-reference></usc-reference>) is amended--</p>
+      <ul>
+        <p nid="t0:enr:647" tracking-nids="t0:eh:620">(A) in the matter preceding clause (i), by striking &#x2018;to--&#x2019; and inserting &#x2018;--&#x2019;;</p>
+        <p nid="t0:enr:648" tracking-nids="t0:eh:621">(B) in clause (i)--</p>
+        <ul>
+          <p nid="t0:enr:649" tracking-nids="t0:eh:622">(i) by striking &#x2018;diagnose&#x2019; and inserting &#x2018;to diagnose&#x2019;; and</p>
+          <p nid="t0:enr:650" tracking-nids="t0:eh:623">(ii) by striking &#x2018;; or&#x2019; and inserting a semicolon;</p>
+        </ul>
+        <p nid="t0:enr:651" tracking-nids="t0:eh:624">(C) in clause (ii)--</p>
+        <ul>
+          <p nid="t0:enr:652" tracking-nids="t0:eh:625">(i) by striking &#x2018;diagnose&#x2019; and inserting &#x2018;to diagnose&#x2019;; and</p>
+          <p nid="t0:enr:653" tracking-nids="t0:eh:626">(ii) by striking the period at the end and inserting &#x2018;; or&#x2019;; and</p>
+        </ul>
+        <p nid="t0:enr:654" tracking-nids="t0:eh:627">(D) by adding at the end the following:</p>
+        <blockquote>
+          <ul>
+            <p nid="t0:enr:655" tracking-nids="t0:eh:628">&#x2018;(iii) is a product or technology intended to enhance the use or effect of a drug, biological product, or device described in clause (i) or (ii).&#x2019;.</p>
+          </ul>
+        </blockquote>
+      </ul>
+      <p nid="t0:enr:656">(2) QUALIFIED PANDEMIC OR EPIDEMIC PRODUCT- Section 319F-3(i)(7)(A) of the Public Health Service Act (<usc-reference title="42" section="247d-6d" paragraph="i_7_A"><usc-reference title="42" section="247d-6d" paragraph="i_7_A">42 U.S.C. 247d-6d(i)(7)(A)</usc-reference></usc-reference>) is amended--</p>
+      <ul>
+        <p nid="t0:enr:657" tracking-nids="t0:eh:630">(A) in clause (i)(II), by striking &#x2018;; or&#x2019; and inserting &#x2018;;&#x2019;;</p>
+        <p nid="t0:enr:658" tracking-nids="t0:eh:631">(B) in clause (ii), by striking &#x2018;; and&#x2019; and inserting &#x2018;; or&#x2019;; and</p>
+        <p nid="t0:enr:659" tracking-nids="t0:eh:632">(C) by adding at the end the following:</p>
+        <blockquote>
+          <ul>
+            <p nid="t0:enr:660" tracking-nids="t0:eh:633">&#x2018;(iii) a product or technology intended to enhance the use or effect of a drug, biological product, or device described in clause (i) or (ii); and&#x2019;.</p>
+          </ul>
+        </blockquote>
+      </ul>
+      <p nid="t0:enr:661">(3) TECHNICAL AMENDMENTS- Section 319F-3(i) of the Public Health Service Act (<usc-reference title="42" section="247d-6d" paragraph="i"><usc-reference title="42" section="247d-6d" paragraph="i">42 U.S.C. 247d-6d(i)</usc-reference></usc-reference>) is amended--</p>
+      <ul>
+        <p nid="t0:enr:662" tracking-nids="t0:eh:635">(A) in paragraph (1)(C), by inserting &#x2018;, 564A, or 564B&#x2019; after &#x2018;564&#x2019;; and</p>
+        <p nid="t0:enr:663" tracking-nids="t0:eh:636">(B) in paragraph (7)(B)(iii), by inserting &#x2018;, 564A, or 564B&#x2019; after &#x2018;564&#x2019;.</p>
+      </ul>
+    </ul>
+  </ul>
+  <p/>
+  <center>
+    <p nid="t0:enr:664" tracking-nids="t0:eh:637">SEC. 403. STRATEGIC NATIONAL STOCKPILE.</p>
+  </center>
+  <ul>
+    <p nid="t0:enr:665">Section 319F-2 of the Public Health Service Act (<usc-reference title="42" section="247d-6b" paragraph=""><usc-reference title="42" section="247d-6b" paragraph="">42 U.S.C. 247d-6b</usc-reference></usc-reference>) is amended--</p>
+    <ul>
+      <p nid="t0:enr:666" tracking-nids="t0:eh:639">(1) in subsection (a)--</p>
+      <ul>
+        <p nid="t0:enr:667" tracking-nids="t0:eh:640">(A) in paragraph (1)--</p>
+        <ul>
+          <p nid="t0:enr:668" tracking-nids="t0:eh:641">(i) by inserting &#x2018;consistent with section 2811&#x2019; before &#x2018;by the Secretary to be appropriate&#x2019;; and</p>
+          <p nid="t0:enr:669" tracking-nids="t0:eh:642">(ii) by inserting before the period at the end of the second sentence the following: &#x2018;and shall submit such review annually to the appropriate congressional committees of jurisdiction to the extent that disclosure of such information does not compromise national security&#x2019;; and</p>
+        </ul>
+        <p nid="t0:enr:670" tracking-nids="t0:eh:643">(B) in paragraph (2)(D), by inserting before the semicolon at the end the following: &#x2018;and that the potential depletion of countermeasures currently in the stockpile is identified and appropriately addressed, including through necessary replenishment&#x2019;; and</p>
+      </ul>
+      <p nid="t0:enr:671" tracking-nids="t0:eh:644">(2) in subsection (f)(1), by striking &#x2018;$640,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006. Such authorization is in addition to amounts in the special reserve fund referred to in subsection (c)(10)(A).&#x2019; and inserting &#x2018;$533,800,000 for each of fiscal years 201<changed sequence="116"><changed-from>3 through 2017</changed-from><changed-to>4 through 2018</changed-to></changed>. Such authorization is in addition to amounts in the special reserve fund referred to in subsection (h).&#x2019;.</p>
+    </ul>
+  </ul>
+  <p/>
+  <center>
+    <p nid="t0:enr:672" tracking-nids="t0:eh:645">SEC. 404. NATIONAL BIODEFENSE SCIENCE BOARD.</p>
+  </center>
+  <ul>
+    <p nid="t0:enr:673">Section 319M(a) of the Public Health Service Act (<usc-reference title="42" section="247d-f" paragraph="a"><usc-reference title="42" section="247d-f" paragraph="a">42 U.S.C. 247d-f(a)</usc-reference></usc-reference>) is amended--</p>
+    <ul>
+      <p nid="t0:enr:674" tracking-nids="t0:eh:647">(1) in paragraph (2)--</p>
+      <ul>
+        <p nid="t0:enr:675" tracking-nids="t0:eh:648">(A) in subparagraph (D)--</p>
+        <ul>
+          <p nid="t0:enr:676" tracking-nids="t0:eh:649">(i) in clause (i), by striking &#x2018;and&#x2019; at the end;</p>
+          <p nid="t0:enr:677" tracking-nids="t0:eh:650">(ii) in clause (ii), by striking the period and inserting a semicolon; and</p>
+          <p nid="t0:enr:678" tracking-nids="t0:eh:651">(iii) by adding at the end the following:</p>
+          <blockquote>
+            <p nid="t0:enr:679" tracking-nids="t0:eh:652">&#x2018;(iii) one such member shall be an individual with pediatric subject matter expertise; and</p>
+            <p nid="t0:enr:680" tracking-nids="t0:eh:653">&#x2018;(iv) one such member shall be a State, tribal, territorial, or local public health official.&#x2019;; and</p>
+          </blockquote>
+        </ul>
+        <p nid="t0:enr:681" tracking-nids="t0:eh:654">(B) by adding at the end the following flush sentence:</p>
+      </ul>
+      <blockquote>
+        <p nid="t0:enr:682" tracking-nids="t0:eh:655">&#x2018;Nothing in this paragraph shall preclude a member of the Board from satisfying two or more of the requirements described in subparagraph (D).&#x2019;; and</p>
+      </blockquote>
+      <p nid="t0:enr:683" tracking-nids="t0:eh:656">(2) in paragraph (5)--</p>
+      <ul>
+        <p nid="t0:enr:684" tracking-nids="t0:eh:657">(A) in subparagraph (B), by striking &#x2018;and&#x2019; at the end;</p>
+        <p nid="t0:enr:685" tracking-nids="t0:eh:658">(B) in subparagraph (C), by striking the period and inserting &#x2018;; and&#x2019;; and</p>
+        <p nid="t0:enr:686" tracking-nids="t0:eh:659">(C) by adding at the end the following:</p>
+        <blockquote>
+          <p nid="t0:enr:687" tracking-nids="t0:eh:660">&#x2018;(D) provide any recommendation, finding, or report provided to the Secretary under this paragraph to the appropriate committees of Congress.&#x2019;.</p>
+        </blockquote>
+      </ul>
+    </ul>
+  </ul>
+  <p nid="t0:enr:688"><changed sequence="117"><changed-from>Passed</changed-from><changed-to>Speaker of</changed-to></changed> the House of Representatives<removed sequence="118"> January 22, 2013.<p nid="t0:eh:662">Attest:</p><p nid="t0:eh:663">Clerk.</p><p/><center><p nid="t0:eh:664">113th CONGRESS</p></center><p/><center><p nid="t0:eh:665">1st Session</p></center><p/><center><p nid="t0:eh:666">H. R. 307</p></center><p/><center><p nid="t0:eh:667">AN ACT</p></center>To reauthorize certain programs under the Public Health Service Act and the Federal Food, Drug, and Cosmetic Act with respect to public health security and all-hazards preparedness and response, and for other purposes</removed><inserted sequence="119">.</inserted></p>
+  <inserted sequence="120">
+    <p nid="t0:enr:689">Vice President of the United States and</p>
+  </inserted>
+  <p nid="t0:enr:690"><inserted sequence="121">President of the Senate</inserted>.</p>
+</body>

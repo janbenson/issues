@@ -1,0 +1,38 @@
+<bill session="113" type="s" number="610" updated="2013-03-21T09:49:16-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend the Patient Protection and Affordable Care Act to repeal certain limitations on health care benefits.</title>
+  </titles>
+  <sponsor id="412320"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2013-03-19"/>
+    <cosponsor id="400034" joined="2013-03-19"/>
+    <cosponsor id="400040" joined="2013-03-19"/>
+    <cosponsor id="400054" joined="2013-03-19"/>
+    <cosponsor id="300021" joined="2013-03-19"/>
+    <cosponsor id="400576" joined="2013-03-19"/>
+    <cosponsor id="300023" joined="2013-03-19"/>
+    <cosponsor id="300025" joined="2013-03-19"/>
+    <cosponsor id="300055" joined="2013-03-19"/>
+    <cosponsor id="400194" joined="2013-03-19"/>
+    <cosponsor id="400325" joined="2013-03-19"/>
+    <cosponsor id="412322" joined="2013-03-20"/>
+    <cosponsor id="300083" joined="2013-03-19"/>
+    <cosponsor id="400432" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-19">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

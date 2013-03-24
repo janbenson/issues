@@ -1,0 +1,199 @@
+                                                                                                                                   II
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                            S. 361
+                                  To require the lender or servicer of a home mortgage, upon a request by
+                                      the homeowner for a short sale, to make a prompt decision whether
+                                      to allow the sale.
+
+
+
+
+                                              IN THE SENATE OF THE UNITED STATES
+                                                             FEBRUARY 14, 2013
+                                  Ms. MURKOWSKI (for herself, Mr. BROWN, Mr. ENZI, Mr. MENENDEZ, Mr.
+                                      REED, and Mr. MERKLEY) introduced the following bill; which was read
+                                      twice and referred to the Committee on Banking, Housing, and Urban
+                                      Affairs
+
+
+
+
+                                                                            A BILL
+                                  To require the lender or servicer of a home mortgage, upon
+                                     a request by the homeowner for a short sale, to make
+                                     a prompt decision whether to allow the sale.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Prompt Notification
+                                    5 of Short Sales Act’’.
+                                    6     SEC. 2. DEFINITIONS.
+                                    7              For purposes of this Act, the following definitions
+                                    8 shall apply:
+
+
+                                                                                             2
+                                    1              (a) RESIDENTIAL MORTGAGE LOAN.—The term
+                                    2 ‘‘residential mortgage loan’’ means any consumer credit
+                                    3 transaction that is secured by a mortgage, deed of trust,
+                                    4 or other equivalent consensual security interest on a dwell-
+                                    5 ing or on residential real property that includes a dwelling,
+                                    6 other than a consumer credit transaction under an open
+                                    7 end credit plan or an extension of credit relating to a plan
+                                    8 described in section 101(53D) of title 11, United States
+                                  109 Code.        (b)          SECURITIZATION                           VEHICLE.—The              term
+                                  11 ‘‘securitization vehicle’’ means a trust, special purpose en-
+                                  12 tity, or other legal structure that is used to facilitate the
+                                  13 issuing of securities, participation certificates, or similar
+                                  14 instruments backed by or referring to a pool of assets that
+                                  15 includes residential mortgage loans (or instruments that
+                                  16 are related to residential mortgage loans, such as credit-
+                                  17 linked notes).
+                                  18               (c) SERVICER.—The term ‘‘servicer’’ has the same
+                                  19 meaning as in section 129A of the Truth in Lending Act
+                                  20 (15 U.S.C. 1639a), as so designated by section 1402(a)(1)
+                                  21 of Public Law 111–203, except that such term includes
+                                  22 a person who makes or holds a residential mortgage loan
+                                  23 (including a pool of residential mortgage loans), if such
+
+
+
+
+                                  24 person also services the loan.
+                                              •S 361 IS
+
+                                                                                             3
+                                    1              (d) SHORT SALE.—The term ‘‘short sale’’ means the
+                                    2 sale of the dwelling or residential real property that is sub-
+                                    3 ject to the mortgage, deed or trust, or other security inter-
+                                    4 est that secures a residential mortgage loan that—
+                                    5                        (1) will result in proceeds in an amount that is
+                                    6              less than the remaining amount due under the mort-
+                                    7              gage loan; and
+                                    8                        (2) requires authorization by the securitization
+                                    9              vehicle or other investment vehicle or holder of the
+                                  10               mortgage loan, or the servicer acting on behalf of
+                                  11               such a vehicle or holder.
+                                  12      SEC. 3. PROMPT NOTIFICATIONS AND DECISION REGARD-
+                                  13                              ING SHORT SALE.
+                                  14               (a) REQUIREMENT                           FOR    PROMPT NOTIFICATIONS,
+                                  15 DECISIONS.—
+                                  16                         (1) NOTIFICATIONS.—
+                                  17                                  (A) IN       GENERAL.—Each                     servicer shall pro-
+                                  18                         vide in writing to a mortgagor of a residential
+                                  19                         mortgage loan—
+                                  20                                         (i) an acknowledgment of receipt of a
+                                  21                                  written request of the mortgagor, not later
+                                  22                                  than 3 days after the date of such receipt;
+                                  23                                         (ii) a notice of any missing or incom-
+
+
+
+
+                                  24                                  plete information required with respect to
+                                              •S 361 IS
+
+                                                                                             4
+                                    1                                 such request, not later than 5 days after
+                                    2                                 the date of such receipt; and
+                                    3                                        (iii) a definitive response to such re-
+                                    4                                 quest approving or denying such request,
+                                    5                                 not later than 30 days after the date of
+                                    6                                 such receipt.
+                                    7                                 (B) EXCEPTIONAL                         CIRCUMSTANCES.—In
+                                    8                        any case in which a servicer is unable to provide
+                                    9                        a decision with respect to a written request of
+                                  10                         a mortgagor of a residential mortgage loan dur-
+                                  11                         ing the 30-day period required by subparagraph
+                                  12                         (A), such period may be extended to not later
+                                  13                         than 60 days after the date of receipt of a com-
+                                  14                         pleted application, except that the servicer shall,
+                                  15                         verbally or in writing—
+                                  16                                         (i) notify the mortgagor during the
+                                  17                                  initial 30-day period that the application is
+                                  18                                  still under review; and
+                                  19                                         (ii) each week thereafter provide to
+                                  20                                  the mortgagor a status update indicating
+                                  21                                  the reasons why a decision is pending be-
+                                  22                                  yond the required 30-day period.
+                                  23                                  (C) APPLICABILITY.—Subparagraph (A)
+
+
+
+
+                                  24                         shall apply, except as provided in subsection
+                                  25                         (b), and notwithstanding any other provision of
+
+
+                                              •S 361 IS
+
+                                                                                             5
+                                    1                        law or of any contract, including a contract be-
+                                    2                        tween a servicer of a residential mortgage loan
+                                    3                        and a securitization vehicle or other investment
+                                    4                        vehicle.
+                                    5                                 (D) CONTENT.—A written response by a
+                                    6                        servicer under subparagraph (A) shall specify a
+                                    7                        decision on whether such request has been de-
+                                    8                        nied, approved, or that such request has been
+                                    9                        approved subject to specified changes.
+                                  10                         (2) MORTGAGOR                       SUBMISSION.—Paragraph             (1)
+                                  11               shall apply in any case in which the mortgagor
+                                  12               under a residential mortgage loan submits to the
+                                  13               servicer thereof—
+                                  14                                  (A) a written offer for a short sale of the
+                                  15                         dwelling or residential real property that is sub-
+                                  16                         ject to the mortgage, deed of trust, or other se-
+                                  17                         curity interest that secures the mortgage loan;
+                                  18                         and
+                                  19                                  (B) all information required by the servicer
+                                  20                         in connection with such a request (including a
+                                  21                         copy of an executed contract between the owner
+                                  22                         of the dwelling or property and the prospective
+                                  23                         buyer that is subject to approval by the
+
+
+
+
+                                  24                         servicer).
+                                              •S 361 IS
+
+                                                                                             6
+                                    1                        (3) CIVIL              ACTIONS              AUTHORIZED.—An            ag-
+                                    2              grieved individual may bring an action in a court of
+                                    3              competent jurisdiction, asserting a violation of this
+                                    4              Act. Aggrieved individuals may be awarded all ap-
+                                    5              propriate relief, including equitable relief, and a
+                                    6              monetary award of $1,000 per violation, plus reason-
+                                    7              able attorneys’ fees, or such higher amount as may
+                                    8              be appropriate in the case of an established pattern
+                                    9              or practice of such failures.
+                                  10               (b) INAPPLICABILITY                       TO    CERTAIN EXISTING MORT-
+                                  11      GAGES.—Subsection                       (a) shall not apply with respect to
+                                  12 any residential mortgage with respect to which the mort-
+                                  13 gagor and the mortgagee or servicer have entered into a
+                                  14 written agreement before the date of enactment of this Act
+                                  15 explicitly providing a procedure or terms for approval of
+                                  16 a short sale.
+                                  17               (c) TREATMENT                  OF    OTHER TIME LIMITS.—This sec-
+                                  18 tion may not be construed to preempt, annul, or otherwise
+                                  19 affect any other provision of law or of any contract or pro-
+                                  20 gram that provides a shorter period than is provided under
+                                  21 subsection (a) for a decision by the servicer of a residential
+                                  22 mortgage loan regarding a short sale of the dwelling or
+                                  23 residential real property that is subject to the mortgage,
+
+
+
+
+
+                                              •S 361 IS
+
+                                                                                             7
+                                    1 deed or trust, or other security interest that secures the
+                                    2 mortgage loan.
+                                              •S 361 IS                                    Æ

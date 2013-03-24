@@ -1,0 +1,18 @@
+<amendment session="113" chamber="s" number="25" updated="2013-03-09T06:25:34-05:00">
+  <amends type="sr" number="64" sequence=""/>
+  <status datetime="2013-03-05">fail</status>
+  <sponsor id="412492"/>
+  <offered datetime="2013-03-04"/>
+  <description>To strike supplemental staff funding available only to a limited number of Senators in a time of sequestration.</description>
+  <purpose>To strike supplemental staff funding available only to a limited number of Senators in a time of sequestration.</purpose>
+  <actions>
+    <action datetime="2013-03-05">
+      <text>Amendment SA 25 proposed by Senator Paul.</text>
+      <reference ref="CR S1104" label="consideration"/>
+      <reference ref="CR S1104" label="text"/>
+    </action>
+    <vote datetime="2013-03-05" how="roll" result="fail" roll="29">
+      <text>Amendment SA 25 not agreed to in Senate by Yea-Nay Vote. 44 - 53. Record Vote Number: 29.</text>
+    </vote>
+  </actions>
+</amendment>

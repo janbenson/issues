@@ -1,0 +1,831 @@
+                                                                                                                                                              II
+
+
+
+
+                                                               113TH CONGRESS
+                                                                  1ST SESSION                                  S. 44
+                                                               To improve patient access to health care services and provide improved
+                                                                   medical care by reducing the excessive burden the liability system places
+                                                                   on the health care delivery system.
+
+
+
+
+                                                                           IN THE SENATE OF THE UNITED STATES
+                                                                             JANUARY 22 (legislative day, JANUARY 3), 2013
+                                                               Mr. PORTMAN (for himself and Mr. INHOFE) introduced the following bill;
+                                                                   which was read twice and referred to the Committee on Health, Edu-
+                                                                   cation, Labor, and Pensions
+
+
+
+
+                                                                                                         A BILL
+                                                               To improve patient access to health care services and provide
+                                                                   improved medical care by reducing the excessive burden
+                                                                   the liability system places on the health care delivery
+                                                                   system.
+                                                                 1               Be it enacted by the Senate and House of Representa-
+                                                                 2 tives of the United States of America in Congress assembled,
+                                                                 3     SECTION 1. SHORT TITLE.
+                                                                 4               This Act may be cited as the ‘‘Medical Care Access
+                                                                 5 Protection Act of 2013’’ or the ‘‘MCAP Act’’.
+                                                                 6     SEC. 2. FINDINGS AND PURPOSE.
+
+                                                                 7               (a) FINDINGS.—
+tjames on DSK6SPTVN1PROD with
+
+
+
+
+                                                                                                                          2
+                                                                 1                        (1) EFFECT               ON HEALTH CARE ACCESS AND
+                                                                 2               COSTS.—Congress                   finds that our current civil justice
+                                                                 3               system is adversely affecting patient access to health
+                                                                 4               care services, better patient care, and cost-efficient
+                                                                 5               health care, in that the health care liability system
+                                                                 6               is a costly and ineffective mechanism for resolving
+                                                                 7               claims of health care liability and compensating in-
+                                                                 8               jured patients, and is a deterrent to the sharing of
+                                                                 9               information among health care professionals which
+                                                               10                impedes efforts to improve patient safety and quality
+                                                               11                of care.
+                                                               12                         (2) EFFECT                 ON       INTERSTATE                 COMMERCE.—
+                                                               13                Congress finds that the health care and insurance
+                                                               14                industries are industries affecting interstate com-
+                                                               15                merce and the health care liability litigation systems
+                                                               16                existing throughout the United States are activities
+                                                               17                that affect interstate commerce by contributing to
+                                                               18                the high costs of health care and premiums for
+                                                               19                health care liability insurance purchased by health
+                                                               20                care system providers.
+                                                               21                         (3) EFFECT                ON FEDERAL SPENDING.—Con-
+                                                               22                gress finds that the health care liability litigation
+                                                               23                systems existing throughout the United States have
+tjames on DSK6SPTVN1PROD with                                  24                a significant effect on the amount, distribution, and
+                                                               25                use of Federal funds because of—
+
+
+                                                                            •S 44 IS
+
+                                                                                                                          3
+                                                                 1                                 (A) the large number of individuals who
+                                                                 2                        receive health care benefits under programs op-
+                                                                 3                        erated or financed by the Federal Government;
+                                                                 4                                 (B) the large number of individuals who
+                                                                 5                        benefit because of the exclusion from Federal
+                                                                 6                        taxes of the amounts spent to provide them
+                                                                 7                        with health insurance benefits; and
+                                                                 8                                 (C) the large number of health care pro-
+                                                                 9                        viders who provide items or services for which
+                                                               10                         the Federal Government makes payments.
+                                                               11                (b) PURPOSE.—It is the purpose of this Act to imple-
+                                                               12 ment reasonable, comprehensive, and effective health care
+                                                               13 liability reforms designed to—
+                                                               14                         (1) improve the availability of health care serv-
+                                                               15                ices in cases in which health care liability actions
+                                                               16                have been shown to be a factor in the decreased
+                                                               17                availability of services;
+                                                               18                         (2) reduce the incidence of ‘‘defensive medi-
+                                                               19                cine’’ and lower the cost of health care liability in-
+                                                               20                surance, all of which contribute to the escalation of
+                                                               21                health care costs;
+                                                               22                         (3) ensure that persons with meritorious health
+                                                               23                care injury claims receive fair and adequate com-
+tjames on DSK6SPTVN1PROD with                                  24                pensation, including reasonable noneconomic dam-
+                                                               25                ages;
+
+
+                                                                            •S 44 IS
+
+                                                                                                                          4
+                                                                 1                        (4) improve the fairness and cost-effectiveness
+                                                                 2               of our current health care liability system to resolve
+                                                                 3               disputes over, and provide compensation for, health
+                                                                 4               care liability by reducing uncertainty in the amount
+                                                                 5               of compensation provided to injured individuals; and
+                                                                 6                        (5) provide an increased sharing of information
+                                                                 7               in the health care system which will reduce unin-
+                                                                 8               tended injury and improve patient care.
+                                                                 9     SEC. 3. DEFINITIONS.
+                                                               10                In this Act:
+                                                               11                         (1) ALTERNATIVE                     DISPUTE RESOLUTION SYS-
+                                                               12                TEM; ADR.—The                  term ‘‘alternative dispute resolution
+                                                               13                system’’ or ‘‘ADR’’ means a system that provides
+                                                               14                for the resolution of health care lawsuits in a man-
+                                                               15                ner other than through a civil action brought in a
+                                                               16                State or Federal court.
+                                                               17                         (2) CLAIMANT.—The term ‘‘claimant’’ means
+                                                               18                any person who brings a health care lawsuit, includ-
+                                                               19                ing a person who asserts or claims a right to legal
+                                                               20                or equitable contribution, indemnity or subrogation,
+                                                               21                arising out of a health care liability claim or action,
+                                                               22                and any person on whose behalf such a claim is as-
+                                                               23                serted or such an action is brought, whether de-
+tjames on DSK6SPTVN1PROD with                                  24                ceased, incompetent, or a minor.
+                                                                            •S 44 IS
+
+                                                                                                                          5
+                                                                 1                        (3)       COLLATERAL                  SOURCE              BENEFITS.—The
+                                                                 2               term ‘‘collateral source benefits’’ means any amount
+                                                                 3               paid or reasonably likely to be paid in the future to
+                                                                 4               or on behalf of the claimant, or any service, product
+                                                                 5               or other benefit provided or reasonably likely to be
+                                                                 6               provided in the future to or on behalf of the claim-
+                                                                 7               ant, as a result of the injury or wrongful death, pur-
+                                                                 8               suant to—
+                                                                 9                                 (A) any State or Federal health, sickness,
+                                                               10                         income-disability, accident, or workers’ com-
+                                                               11                         pensation law;
+                                                               12                                  (B) any health, sickness, income-disability,
+                                                               13                         or accident insurance that provides health bene-
+                                                               14                         fits or income-disability coverage;
+                                                               15                                  (C) any contract or agreement of any
+                                                               16                         group, organization, partnership, or corporation
+                                                               17                         to provide, pay for, or reimburse the cost of
+                                                               18                         medical, hospital, dental, or income disability
+                                                               19                         benefits; and
+                                                               20                                  (D) any other publicly or privately funded
+                                                               21                         program.
+                                                               22                         (4)       COMPENSATORY                       DAMAGES.—The                 term
+                                                               23                ‘‘compensatory                    damages’’                 means            objectively
+tjames on DSK6SPTVN1PROD with                                  24                verifiable monetary losses incurred as a result of the
+                                                               25                provision of, use of, or payment for (or failure to
+
+
+                                                                            •S 44 IS
+
+                                                                                                                          6
+                                                                 1               provide, use, or pay for) health care services or med-
+                                                                 2               ical products, such as past and future medical ex-
+                                                                 3               penses, loss of past and future earnings, cost of ob-
+                                                                 4               taining domestic services, loss of employment, and
+                                                                 5               loss of business or employment opportunities, dam-
+                                                                 6               ages for physical and emotional pain, suffering, in-
+                                                                 7               convenience, physical impairment, mental anguish,
+                                                                 8               disfigurement, loss of enjoyment of life, loss of soci-
+                                                                 9               ety and companionship, loss of consortium (other
+                                                               10                than loss of domestic service), hedonic damages, in-
+                                                               11                jury to reputation, and all other nonpecuniary losses
+                                                               12                of any kind or nature. Such term includes economic
+                                                               13                damages and noneconomic damages, as such terms
+                                                               14                are defined in this section.
+                                                               15                         (5) CONTINGENT                      FEE.—The             term ‘‘contingent
+                                                               16                fee’’ includes all compensation to any person or per-
+                                                               17                sons which is payable only if a recovery is effected
+                                                               18                on behalf of one or more claimants.
+                                                               19                         (6) ECONOMIC               DAMAGES.—The                       term ‘‘economic
+                                                               20                damages’’ means objectively verifiable monetary
+                                                               21                losses incurred as a result of the provision of, use
+                                                               22                of, or payment for (or failure to provide, use, or pay
+                                                               23                for) health care services or medical products, such as
+tjames on DSK6SPTVN1PROD with                                  24                past and future medical expenses, loss of past and
+                                                               25                future earnings, cost of obtaining domestic services,
+
+
+                                                                            •S 44 IS
+
+                                                                                                                          7
+                                                                 1               loss of employment, and loss of business or employ-
+                                                                 2               ment opportunities.
+                                                                 3                        (7) HEALTH               CARE GOODS OR SERVICES.—The
+                                                                 4               term ‘‘health care goods or services’’ means any
+                                                                 5               goods or services provided by a health care institu-
+                                                                 6               tion, provider, or by any individual working under
+                                                                 7               the supervision of a health care provider, that relates
+                                                                 8               to the diagnosis, prevention, care, or treatment of
+                                                                 9               any human disease or impairment, or the assessment
+                                                               10                of the health of human beings.
+                                                               11                         (8) HEALTH                 CARE INSTITUTION.—The                    term
+                                                               12                ‘‘health care institution’’ means any entity licensed
+                                                               13                under Federal or State law to provide health care
+                                                               14                services (including but not limited to ambulatory
+                                                               15                surgical centers, assisted living facilities, emergency
+                                                               16                medical services providers, hospices, hospitals and
+                                                               17                hospital systems, nursing homes, or other entities li-
+                                                               18                censed to provide such services).
+                                                               19                         (9)       HEALTH                CARE          LAWSUIT.—The          term
+                                                               20                ‘‘health care lawsuit’’ means any health care liability
+                                                               21                claim concerning the provision of health care goods
+                                                               22                or services affecting interstate commerce, or any
+                                                               23                health care liability action concerning the provision
+tjames on DSK6SPTVN1PROD with                                  24                of (or the failure to provide) health care goods or
+                                                               25                services affecting interstate commerce, brought in a
+
+
+                                                                            •S 44 IS
+
+                                                                                                                          8
+                                                                 1               State or Federal court or pursuant to an alternative
+                                                                 2               dispute resolution system, against a health care pro-
+                                                                 3               vider or a health care institution regardless of the
+                                                                 4               theory of liability on which the claim is based, or the
+                                                                 5               number of claimants, plaintiffs, defendants, or other
+                                                                 6               parties, or the number of claims or causes of action,
+                                                                 7               in which the claimant alleges a health care liability
+                                                                 8               claim.
+                                                                 9                        (10) HEALTH                 CARE LIABILITY ACTION.—The
+                                                               10                term ‘‘health care liability action’’ means a civil ac-
+                                                               11                tion brought in a State or Federal Court or pursu-
+                                                               12                ant to an alternative dispute resolution system,
+                                                               13                against a health care provider or a health care insti-
+                                                               14                tution regardless of the theory of liability on which
+                                                               15                the claim is based, or the number of plaintiffs, de-
+                                                               16                fendants, or other parties, or the number of causes
+                                                               17                of action, in which the claimant alleges a health care
+                                                               18                liability claim.
+                                                               19                         (11) HEALTH                     CARE        LIABILITY               CLAIM.—The
+                                                               20                term ‘‘health care liability claim’’ means a demand
+                                                               21                by any person, whether or not pursuant to ADR,
+                                                               22                against a health care provider or health care institu-
+                                                               23                tion, including third-party claims, cross-claims,
+tjames on DSK6SPTVN1PROD with                                  24                counter-claims, or contribution claims, which are
+                                                               25                based upon the provision of, use of, or payment for
+
+
+                                                                            •S 44 IS
+
+                                                                                                                          9
+                                                                 1               (or the failure to provide, use, or pay for) health
+                                                                 2               care services, regardless of the theory of liability on
+                                                                 3               which the claim is based, or the number of plaintiffs,
+                                                                 4               defendants, or other parties, or the number of
+                                                                 5               causes of action.
+                                                                 6                        (12) HEALTH               CARE PROVIDER.—
+
+                                                                 7                                 (A) IN        GENERAL.—The                    term ‘‘health care
+                                                                 8                        provider’’ means any person (including but not
+                                                                 9                        limited to a physician (as defined by section
+                                                               10                         1861(r) of the Social Security Act (42 U.S.C.
+                                                               11                         1395x(r))), registered nurse, dentist, podiatrist,
+                                                               12                         pharmacist, chiropractor, or optometrist) re-
+                                                               13                         quired by State or Federal law to be licensed,
+                                                               14                         registered, or certified to provide health care
+                                                               15                         services, and being either so licensed, reg-
+                                                               16                         istered, or certified, or exempted from such re-
+                                                               17                         quirement by other statute or regulation.
+                                                               18                                  (B) TREATMENT                       OF       CERTAIN       PROFES-
+                                                               19                         SIONAL ASSOCIATIONS.—For                                 purposes of this
+                                                               20                         Act, a professional association that is organized
+                                                               21                         under State law by an individual physician or
+                                                               22                         group of physicians, a partnership or limited li-
+                                                               23                         ability partnership formed by a group of physi-
+tjames on DSK6SPTVN1PROD with                                  24                         cians, a nonprofit health corporation certified
+                                                               25                         under State law, or a company formed by a
+
+
+                                                                            •S 44 IS
+
+                                                                                                                      10
+                                                                 1                        group of physicians under State law shall be
+                                                                 2                        treated as a health care provider under sub-
+                                                                 3                        paragraph (A).
+                                                                 4                        (13) MALICIOUS                      INTENT            TO       INJURE.—The
+                                                                 5               term ‘‘malicious intent to injure’’ means inten-
+                                                                 6               tionally causing or attempting to cause physical in-
+                                                                 7               jury other than providing health care goods or serv-
+                                                                 8               ices.
+                                                                 9                        (14)        NONECONOMIC                      DAMAGES.—The               term
+                                                               10                ‘‘noneconomic damages’’ means damages for phys-
+                                                               11                ical and emotional pain, suffering, inconvenience,
+                                                               12                physical impairment, mental anguish, disfigurement,
+                                                               13                loss of enjoyment of life, loss of society and compan-
+                                                               14                ionship, loss of consortium (other than loss of do-
+                                                               15                mestic service), hedonic damages, injury to reputa-
+                                                               16                tion, and all other nonpecuniary losses of any kind
+                                                               17                or nature.
+                                                               18                         (15) PUNITIVE               DAMAGES.—The                      term ‘‘punitive
+                                                               19                damages’’ means damages awarded, for the purpose
+                                                               20                of punishment or deterrence, and not solely for com-
+                                                               21                pensatory purposes, against a health care provider
+                                                               22                or health care institution. Punitive damages are nei-
+                                                               23                ther economic nor noneconomic damages.
+tjames on DSK6SPTVN1PROD with                                  24                         (16) RECOVERY.—The term ‘‘recovery’’ means
+                                                               25                the net sum recovered after deducting any disburse-
+
+
+                                                                            •S 44 IS
+
+                                                                                                                      11
+                                                                 1               ments or costs incurred in connection with prosecu-
+                                                                 2               tion or settlement of the claim, including all costs
+                                                                 3               paid or advanced by any person. Costs of health care
+                                                                 4               incurred by the plaintiff and the attorneys’ office
+                                                                 5               overhead costs or charges for legal services are not
+                                                                 6               deductible disbursements or costs for such purpose.
+                                                                 7                        (17) STATE.—The term ‘‘State’’ means each of
+                                                                 8               the several States, the District of Columbia, the
+                                                                 9               Commonwealth of Puerto Rico, the Virgin Islands,
+                                                               10                Guam, American Samoa, the Northern Mariana Is-
+                                                               11                lands, the Trust Territory of the Pacific Islands, and
+                                                               12                any other territory or possession of the United
+                                                               13                States, or any political subdivision thereof.
+                                                               14      SEC. 4. ENCOURAGING SPEEDY RESOLUTION OF CLAIMS.
+
+                                                               15                (a) IN GENERAL.—Except as otherwise provided for
+                                                               16 in this section, the time for the commencement of a health
+                                                               17 care lawsuit shall be 3 years after the date of manifesta-
+                                                               18 tion of injury or 1 year after the claimant discovers, or
+                                                               19 through the use of reasonable diligence should have discov-
+                                                               20 ered, the injury, whichever occurs first.
+                                                               21                (b) GENERAL EXCEPTION.—The time for the com-
+                                                               22 mencement of a health care lawsuit shall not exceed 3
+                                                               23 years after the date of manifestation of injury unless the
+tjames on DSK6SPTVN1PROD with                                  24 tolling of time was delayed as a result of—
+                                                               25                         (1) fraud;
+
+
+                                                                            •S 44 IS
+
+                                                                                                                      12
+                                                                 1                        (2) intentional concealment; or
+                                                                 2                        (3) the presence of a foreign body, which has no
+                                                                 3               therapeutic or diagnostic purpose or effect, in the
+                                                                 4               person of the injured person.
+                                                                 5               (c) MINORS.—An action by a minor shall be com-
+                                                                 6 menced within 3 years from the date of the alleged mani-
+                                                                 7 festation of injury except that if such minor is under the
+                                                                 8 full age of 6 years, such action shall be commenced within
+                                                                 9 3 years of the manifestation of injury, or prior to the
+                                                               10 eighth birthday of the minor, whichever provides a longer
+                                                               11 period. Such time limitation shall be tolled for minors for
+                                                               12 any period during which a parent or guardian and a health
+                                                               13 care provider or health care institution have committed
+                                                               14 fraud or collusion in the failure to bring an action on be-
+                                                               15 half of the injured minor.
+                                                               16                (d) RULE 11 SANCTIONS.—Whenever a Federal or
+                                                               17 State court determines (whether by motion of the parties
+                                                               18 or whether on the motion of the court) that there has been
+                                                               19 a violation of Rule 11 of the Federal Rules of Civil Proce-
+                                                               20 dure (or a similar violation of applicable State court rules)
+                                                               21 in a health care liability action to which this Act applies,
+                                                               22 the court shall impose upon the attorneys, law firms, or
+                                                               23 pro se litigants that have violated Rule 11 or are respon-
+tjames on DSK6SPTVN1PROD with                                  24 sible for the violation, an appropriate sanction, which shall
+                                                               25 include an order to pay the other party or parties for the
+
+
+                                                                            •S 44 IS
+
+                                                                                                                      13
+                                                                 1 reasonable expenses incurred as a direct result of the filing
+                                                                 2 of the pleading, motion, or other paper that is the subject
+                                                                 3 of the violation, including a reasonable attorneys’ fee.
+                                                                 4 Such sanction shall be sufficient to deter repetition of such
+                                                                 5 conduct or comparable conduct by others similarly situ-
+                                                                 6 ated, and to compensate the party or parties injured by
+                                                                 7 such conduct.
+                                                                 8     SEC. 5. COMPENSATING PATIENT INJURY.
+
+                                                                 9               (a) UNLIMITED AMOUNT                           OF     DAMAGES                FOR   ACTUAL
+                                                               10 ECONOMIC LOSSES                          IN    HEALTH CARE LAWSUITS.—In any
+                                                               11 health care lawsuit, nothing in this Act shall limit the re-
+                                                               12 covery by a claimant of the full amount of the available
+                                                               13 economic damages, notwithstanding the limitation con-
+                                                               14 tained in subsection (b).
+                                                               15                (b) ADDITIONAL NONECONOMIC DAMAGES.—
+                                                               16                         (1) HEALTH               CARE PROVIDERS.—In                          any health
+                                                               17                care lawsuit where final judgment is rendered
+                                                               18                against a health care provider, the amount of non-
+                                                               19                economic damages recovered from the provider, if
+                                                               20                otherwise available under applicable Federal or State
+                                                               21                law, may be as much as $250,000, regardless of the
+                                                               22                number of parties other than a health care institu-
+                                                               23                tion against whom the action is brought or the num-
+tjames on DSK6SPTVN1PROD with                                  24                ber of separate claims or actions brought with re-
+                                                               25                spect to the same occurrence.
+
+
+                                                                            •S 44 IS
+
+                                                                                                                      14
+                                                                 1                        (2) HEALTH              CARE INSTITUTIONS.—
+
+                                                                 2                                 (A) SINGLE              INSTITUTION.—In                    any health
+                                                                 3                        care lawsuit where final judgment is rendered
+                                                                 4                        against a single health care institution, the
+                                                                 5                        amount of noneconomic damages recovered
+                                                                 6                        from the institution, if otherwise available
+                                                                 7                        under applicable Federal or State law, may be
+                                                                 8                        as much as $250,000, regardless of the number
+                                                                 9                        of parties against whom the action is brought
+                                                               10                         or the number of separate claims or actions
+                                                               11                         brought with respect to the same occurrence.
+                                                               12                                  (B) MULTIPLE                       INSTITUTIONS.—In              any
+                                                               13                         health care lawsuit where final judgment is ren-
+                                                               14                         dered against more than one health care insti-
+                                                               15                         tution, the amount of noneconomic damages re-
+                                                               16                         covered from each institution, if otherwise avail-
+                                                               17                         able under applicable Federal or State law, may
+                                                               18                         be as much as $250,000, regardless of the
+                                                               19                         number of parties against whom the action is
+                                                               20                         brought or the number of separate claims or ac-
+                                                               21                         tions brought with respect to the same occur-
+                                                               22                         rence, except that the total amount recovered
+                                                               23                         from all such institutions in such lawsuit shall
+tjames on DSK6SPTVN1PROD with                                  24                         not exceed $500,000.
+                                                                            •S 44 IS
+
+                                                                                                                      15
+                                                                 1               (c) NO DISCOUNT                     OF      AWARD            FOR       NONECONOMIC
+                                                                 2 DAMAGES.—In any health care lawsuit—
+                                                                 3                        (1) an award for future noneconomic damages
+                                                                 4               shall not be discounted to present value;
+                                                                 5                        (2) the jury shall not be informed about the
+                                                                 6               maximum award for noneconomic damages under
+                                                                 7               subsection (b);
+                                                                 8                        (3) an award for noneconomic damages in ex-
+                                                                 9               cess of the limitations provided for in subsection (b)
+                                                               10                shall be reduced either before the entry of judgment,
+                                                               11                or by amendment of the judgment after entry of
+                                                               12                judgment, and such reduction shall be made before
+                                                               13                accounting for any other reduction in damages re-
+                                                               14                quired by law; and
+                                                               15                         (4) if separate awards are rendered for past
+                                                               16                and future noneconomic damages and the combined
+                                                               17                awards exceed the limitations described in subsection
+                                                               18                (b), the future noneconomic damages shall be re-
+                                                               19                duced first.
+                                                               20                (d) FAIR SHARE RULE.—In any health care lawsuit,
+                                                               21 each party shall be liable for that party’s several share
+                                                               22 of any damages only and not for the share of any other
+                                                               23 person. Each party shall be liable only for the amount of
+tjames on DSK6SPTVN1PROD with                                  24 damages allocated to such party in direct proportion to
+                                                               25 such party’s percentage of responsibility. A separate judg-
+
+
+                                                                            •S 44 IS
+
+                                                                                                                      16
+                                                                 1 ment shall be rendered against each such party for the
+                                                                 2 amount allocated to such party. For purposes of this sec-
+                                                                 3 tion, the trier of fact shall determine the proportion of
+                                                                 4 responsibility of each party for the claimant’s harm.
+                                                                 5     SEC. 6. MAXIMIZING PATIENT RECOVERY.
+
+                                                                 6               (a) COURT SUPERVISION                            OF      SHARE           OF   DAMAGES
+                                                                 7 ACTUALLY PAID TO CLAIMANTS.—
+                                                                 8                        (1) IN       GENERAL.—In                    any health care lawsuit,
+                                                                 9               the court shall supervise the arrangements for pay-
+                                                               10                ment of damages to protect against conflicts of in-
+                                                               11                terest that may have the effect of reducing the
+                                                               12                amount of damages awarded that are actually paid
+                                                               13                to claimants.
+                                                               14                         (2) CONTINGENCY                   FEES.—
+
+                                                               15                                  (A) IN       GENERAL.—In                  any health care law-
+                                                               16                         suit in which the attorney for a party claims a
+                                                               17                         financial stake in the outcome by virtue of a
+                                                               18                         contingent fee, the court shall have the power
+                                                               19                         to restrict the payment of a claimant’s damage
+                                                               20                         recovery to such attorney, and to redirect such
+                                                               21                         damages to the claimant based upon the inter-
+                                                               22                         ests of justice and principles of equity.
+                                                               23                                  (B) LIMITATION.—The total of all contin-
+tjames on DSK6SPTVN1PROD with                                  24                         gent fees for representing all claimants in a
+                                                                            •S 44 IS
+
+                                                                                                                      17
+                                                                 1                        health care lawsuit shall not exceed the fol-
+                                                                 2                        lowing limits:
+                                                                 3                                         (i) Forty percent of the first $50,000
+                                                                 4                                 recovered by the claimant(s).
+                                                                 5                                         (ii) Thirty-three and one-third percent
+                                                                 6                                 of the next $50,000 recovered by the
+                                                                 7                                 claimant(s).
+                                                                 8                                         (iii) Twenty-five percent of the next
+                                                                 9                                 $500,000 recovered by the claimant(s).
+                                                               10                                          (iv) Fifteen percent of any amount by
+                                                               11                                  which the recovery by the claimant(s) is in
+                                                               12                                  excess of $600,000.
+                                                               13                (b) APPLICABILITY.—
+                                                               14                         (1) IN      GENERAL.—The                    limitations in subsection
+                                                               15                (a) shall apply whether the recovery is by judgment,
+                                                               16                settlement, mediation, arbitration, or any other form
+                                                               17                of alternative dispute resolution.
+                                                               18                         (2) MINORS.—In a health care lawsuit involving
+                                                               19                a minor or incompetent person, a court retains the
+                                                               20                authority to authorize or approve a fee that is less
+                                                               21                than the maximum permitted under this section.
+                                                               22                (c) EXPERT WITNESSES.—
+                                                               23                         (1) REQUIREMENT.—No individual shall be
+tjames on DSK6SPTVN1PROD with                                  24                qualified to testify as an expert witness concerning
+                                                                            •S 44 IS
+
+                                                                                                                      18
+                                                                 1               issues of negligence in any health care lawsuit
+                                                                 2               against a defendant unless such individual—
+                                                                 3                                 (A) except as required under paragraph
+                                                                 4                        (2), is a health care professional who—
+                                                                 5                                         (i) is appropriately credentialed or li-
+                                                                 6                                 censed in 1 or more States to deliver
+                                                                 7                                 health care services; and
+                                                                 8                                         (ii) typically treats the diagnosis or
+                                                                 9                                 condition or provides the type of treatment
+                                                               10                                  under review; and
+                                                               11                                  (B) can demonstrate by competent evi-
+                                                               12                         dence that, as a result of training, education,
+                                                               13                         knowledge, and experience in the evaluation, di-
+                                                               14                         agnosis, and treatment of the disease or injury
+                                                               15                         which is the subject matter of the lawsuit
+                                                               16                         against the defendant, the individual was sub-
+                                                               17                         stantially familiar with applicable standards of
+                                                               18                         care and practice as they relate to the act or
+                                                               19                         omission which is the subject of the lawsuit on
+                                                               20                         the date of the incident.
+                                                               21                         (2) PHYSICIAN               REVIEW.—In                 a health care law-
+                                                               22                suit, if the claim of the plaintiff involved treatment
+                                                               23                that is recommended or provided by a physician
+tjames on DSK6SPTVN1PROD with                                  24                (allopathic or osteopathic), an individual shall not be
+                                                               25                qualified to be an expert witness under this sub-
+
+
+                                                                            •S 44 IS
+
+                                                                                                                      19
+                                                                 1               section with respect to issues of negligence con-
+                                                                 2               cerning such treatment unless such individual is a
+                                                                 3               physician.
+                                                                 4                        (3) SPECIALTIES                  AND SUBSPECIALTIES.—With
+                                                                 5               respect to a lawsuit described in paragraph (1), a
+                                                                 6               court shall not permit an expert in one medical spe-
+                                                                 7               cialty or subspecialty to testify against a defendant
+                                                                 8               in another medical specialty or subspecialty unless,
+                                                                 9               in addition to a showing of substantial familiarity in
+                                                               10                accordance with paragraph (1)(B), there is a show-
+                                                               11                ing that the standards of care and practice in the
+                                                               12                two specialty or subspecialty fields are similar.
+                                                               13                         (4) LIMITATION.—The limitations in this sub-
+                                                               14                section shall not apply to expert witnesses testifying
+                                                               15                as to the degree or permanency of medical or phys-
+                                                               16                ical impairment.
+                                                               17      SEC. 7. ADDITIONAL HEALTH BENEFITS.
+
+                                                               18                (a) IN GENERAL.—The amount of any damages re-
+                                                               19 ceived by a claimant in any health care lawsuit shall be
+                                                               20 reduced by the court by the amount of any collateral
+                                                               21 source benefits to which the claimant is entitled, less any
+                                                               22 insurance premiums or other payments made by the claim-
+                                                               23 ant (or by the spouse, parent, child, or legal guardian of
+tjames on DSK6SPTVN1PROD with                                  24 the claimant) to obtain or secure such benefits.
+                                                                            •S 44 IS
+
+                                                                                                                      20
+                                                                 1               (b) PRESERVATION                         OF   CURRENT LAW.—Where a
+                                                                 2 payor of collateral source benefits has a right of recovery
+                                                                 3 by reimbursement or subrogation and such right is per-
+                                                                 4 mitted under Federal or State law, subsection (a) shall
+                                                                 5 not apply.
+                                                                 6               (c) APPLICATION                 OF       PROVISION.—This section shall
+                                                                 7 apply to any health care lawsuit that is settled or resolved
+                                                                 8 by a fact finder.
+                                                                 9     SEC. 8. PUNITIVE DAMAGES.
+
+                                                               10                (a) PUNITIVE DAMAGES PERMITTED.—
+                                                               11                         (1) IN         GENERAL.—Punitive                        damages may, if
+                                                               12                otherwise available under applicable State or Federal
+                                                               13                law, be awarded against any person in a health care
+                                                               14                lawsuit only if it is proven by clear and convincing
+                                                               15                evidence that such person acted with malicious in-
+                                                               16                tent to injure the claimant, or that such person de-
+                                                               17                liberately failed to avoid unnecessary injury that
+                                                               18                such person knew the claimant was substantially
+                                                               19                certain to suffer.
+                                                               20                         (2) FILING           OF LAWSUIT.—No                      demand for puni-
+                                                               21                tive damages shall be included in a health care law-
+                                                               22                suit as initially filed. A court may allow a claimant
+                                                               23                to file an amended pleading for punitive damages
+tjames on DSK6SPTVN1PROD with                                  24                only upon a motion by the claimant and after a find-
+                                                               25                ing by the court, upon review of supporting and op-
+
+
+                                                                            •S 44 IS
+
+                                                                                                                      21
+                                                                 1               posing affidavits or after a hearing, after weighing
+                                                                 2               the evidence, that the claimant has established by a
+                                                                 3               substantial probability that the claimant will prevail
+                                                                 4               on the claim for punitive damages.
+                                                                 5                        (3) SEPARATE               PROCEEDING.—At                       the request of
+                                                                 6               any party in a health care lawsuit, the trier of fact
+                                                                 7               shall consider in a separate proceeding—
+                                                                 8                                 (A) whether punitive damages are to be
+                                                                 9                        awarded and the amount of such award; and
+                                                               10                                  (B) the amount of punitive damages fol-
+                                                               11                         lowing a determination of punitive liability.
+                                                               12                If a separate proceeding is requested, evidence rel-
+                                                               13                evant only to the claim for punitive damages, as de-
+                                                               14                termined by applicable State law, shall be inadmis-
+                                                               15                sible in any proceeding to determine whether com-
+                                                               16                pensatory damages are to be awarded.
+                                                               17                         (4) LIMITATION                    WHERE            NO         COMPENSATORY
+                                                               18                DAMAGES ARE AWARDED.—In                                    any health care law-
+                                                               19                suit where no judgment for compensatory damages
+                                                               20                is rendered against a person, no punitive damages
+                                                               21                may be awarded with respect to the claim in such
+                                                               22                lawsuit against such person.
+                                                               23                (b) DETERMINING AMOUNT                                    OF       PUNITIVE DAM-
+                                                               24      AGES.—
+tjames on DSK6SPTVN1PROD with
+
+
+
+
+                                                                            •S 44 IS
+
+                                                                                                                      22
+                                                                 1                        (1) FACTORS                     CONSIDERED.—In                      determining
+                                                                 2               the amount of punitive damages under this section,
+                                                                 3               the trier of fact shall consider only the following:
+                                                                 4                                 (A) the severity of the harm caused by the
+                                                                 5                        conduct of such party;
+                                                                 6                                 (B) the duration of the conduct or any
+                                                                 7                        concealment of it by such party;
+                                                                 8                                 (C) the profitability of the conduct to such
+                                                               109                        party;   (D) the number of products sold or med-
+                                                               11                         ical procedures rendered for compensation, as
+                                                               12                         the case may be, by such party, of the kind
+                                                               13                         causing the harm complained of by the claim-
+                                                               14                         ant;
+                                                               15                                  (E) any criminal penalties imposed on such
+                                                               16                         party, as a result of the conduct complained of
+                                                               17                         by the claimant; and
+                                                               18                                  (F) the amount of any civil fines assessed
+                                                               19                         against such party as a result of the conduct
+                                                               20                         complained of by the claimant.
+                                                               21                         (2) MAXIMUM               AWARD.—The                  amount of punitive
+                                                               22                damages awarded in a health care lawsuit may not
+                                                               23                exceed an amount equal to two times the amount of
+tjames on DSK6SPTVN1PROD with                                  24                economic damages awarded in the lawsuit or
+                                                               25                $250,000, whichever is greater. The jury shall not
+
+
+                                                                            •S 44 IS
+
+                                                                                                                      23
+                                                                 1               be informed of the limitation under the preceding
+                                                                 2               sentence.
+                                                                 3               (c) LIABILITY OF HEALTH CARE PROVIDERS.—
+                                                                 4                        (1) IN       GENERAL.—A                     health care provider who
+                                                                 5               prescribes, or who dispenses pursuant to a prescrip-
+                                                                 6               tion, a drug, biological product, or medical device
+                                                                 7               approved by the Food and Drug Administration, for
+                                                                 8               an approved indication of the drug, biological prod-
+                                                                 9               uct, or medical device, shall not be named as a party
+                                                               10                to a product liability lawsuit invoking such drug, bi-
+                                                               11                ological product, or medical device and shall not be
+                                                               12                liable to a claimant in a class action lawsuit against
+                                                               13                the manufacturer, distributor, or product seller of
+                                                               14                such drug, biological product, or medical device.
+                                                               15                         (2) MEDICAL                PRODUCT.—The                       term ‘‘medical
+                                                               16                product’’ means a drug or device intended for hu-
+                                                               17                mans. The terms ‘‘drug’’ and ‘‘device’’ have the
+                                                               18                meanings given such terms in sections 201(g)(1) and
+                                                               19                201(h) of the Federal Food, Drug and Cosmetic Act
+                                                               20                (21 U.S.C. 321), respectively, including any compo-
+                                                               21                nent or raw material used therein, but excluding
+tjames on DSK6SPTVN1PROD with                                  22                health care services.
+                                                                            •S 44 IS
+
+                                                                 1     SEC. 9. AUTHORIZATION OF PAYMENT OF FUTURE DAM-24
+                                                                 2                             AGES TO CLAIMANTS IN HEALTH CARE LAW-
+                                                                 3                             SUITS.
+                                                                 4               (a) IN GENERAL.—In any health care lawsuit, if an
+                                                                 5 award of future damages, without reduction to present
+                                                                 6 value, equaling or exceeding $50,000 is made against a
+                                                                 7 party with sufficient insurance or other assets to fund a
+                                                                 8 periodic payment of such a judgment, the court shall, at
+                                                                 9 the request of any party, enter a judgment ordering that
+                                                               10 the future damages be paid by periodic payments in ac-
+                                                               11 cordance with the Uniform Periodic Payment of Judg-
+                                                               12 ments Act promulgated by the National Conference of
+                                                               13 Commissioners on Uniform State Laws.
+                                                               14                (b) APPLICABILITY.—This section applies to all ac-
+                                                               15 tions which have not been first set for trial or retrial be-
+                                                               16 fore the effective date of this Act.
+                                                               17      SEC. 10. EFFECT ON OTHER LAWS.
+
+                                                               18                (a) GENERAL VACCINE INJURY.—
+                                                               19                         (1) IN      GENERAL.—To                     the extent that title XXI
+                                                               20                of the Public Health Service Act establishes a Fed-
+                                                               21                eral rule of law applicable to a civil action brought
+                                                               22                for a vaccine-related injury or death—
+                                                               23                                  (A) this Act shall not affect the application
+tjames on DSK6SPTVN1PROD with                                  24                         of the rule of law to such an action; and
+                                                                            •S 44 IS
+
+                                                                                                                      25
+                                                                 1                                 (B) any rule of law prescribed by this Act
+                                                                 2                        in conflict with a rule of law of such title XXI
+                                                                 3                        shall not apply to such action.
+                                                                 4                        (2) EXCEPTION.—If there is an aspect of a civil
+                                                                 5               action brought for a vaccine-related injury or death
+                                                                 6               to which a Federal rule of law under title XXI of
+                                                                 7               the Public Health Service Act does not apply, then
+                                                                 8               this Act or otherwise applicable law (as determined
+                                                                 9               under this Act) will apply to such aspect of such ac-
+                                                               10                tion.
+                                                               11                (b) SMALLPOX VACCINE INJURY.—
+                                                               12                         (1) IN      GENERAL.—To                     the extent that part C of
+                                                               13                title II of the Public Health Service Act establishes
+                                                               14                a Federal rule of law applicable to a civil action
+                                                               15                brought for a smallpox vaccine-related injury or
+                                                               16                death—
+                                                               17                                  (A) this Act shall not affect the application
+                                                               18                         of the rule of law to such an action; and
+                                                               19                                  (B) any rule of law prescribed by this Act
+                                                               20                         in conflict with a rule of law of such part C
+                                                               21                         shall not apply to such action.
+                                                               22                         (2) EXCEPTION.—If there is an aspect of a civil
+                                                               23                action brought for a smallpox vaccine-related injury
+tjames on DSK6SPTVN1PROD with                                  24                or death to which a Federal rule of law under part
+                                                               25                C of title II of the Public Health Service Act does
+
+
+                                                                            •S 44 IS
+
+                                                                                                                      26
+                                                                 1               not apply, then this Act or otherwise applicable law
+                                                                 2               (as determined under this Act) will apply to such as-
+                                                                 3               pect of such action.
+                                                                 4               (c) OTHER FEDERAL LAW.—Except as provided in
+                                                                 5 this section, nothing in this Act shall be deemed to affect
+                                                                 6 any defense available, or any limitation on liability that
+                                                                 7 applies to, a defendant in a health care lawsuit or action
+                                                                 8 under any other provision of Federal law.
+                                                                 9     SEC. 11. STATE FLEXIBILITY AND PROTECTION OF STATES’
+                                                               10                              RIGHTS.
+                                                               11                (a) HEALTH CARE LAWSUITS.—The provisions gov-
+                                                               12 erning health care lawsuits set forth in this Act shall pre-
+                                                               13 empt, subject to subsections (b) and (c), State law to the
+                                                               14 extent that State law prevents the application of any pro-
+                                                               15 visions of law established by or under this Act. The provi-
+                                                               16 sions governing health care lawsuits set forth in this Act
+                                                               17 supersede chapter 171 of title 28, United States Code, to
+                                                               18 the extent that such chapter—
+                                                               19                         (1) provides for a greater amount of damages
+                                                               20                or contingent fees, a longer period in which a health
+                                                               21                care lawsuit may be commenced, or a reduced appli-
+                                                               22                cability or scope of periodic payment of future dam-
+                                                               23                ages, than provided in this Act; or
+tjames on DSK6SPTVN1PROD with                                  24                         (2) prohibits the introduction of evidence re-
+                                                               25                garding collateral source benefits.
+
+
+                                                                            •S 44 IS
+
+                                                                 1               (b) PREEMPTION                    OF  27  CERTAIN STATE LAWS.—No
+                                                                 2 provision of this Act shall be construed to preempt any
+                                                                 3 State law (whether effective before, on, or after the date
+                                                                 4 of the enactment of this Act) that specifies a particular
+                                                                 5 monetary amount of compensatory or punitive damages
+                                                                 6 (or the total amount of damages) that may be awarded
+                                                                 7 in a health care lawsuit, regardless of whether such mone-
+                                                                 8 tary amount is greater or lesser than is provided for under
+                                                                 9 this Act, notwithstanding section 5(a).
+                                                               10                (c) PROTECTION                   OF      STATE’S RIGHTS                      AND   OTHER
+                                                               11 LAWS.—
+                                                               12                         (1) IN        GENERAL.—Any                     issue that is not gov-
+                                                               13                erned by a provision of law established by or under
+                                                               14                this Act (including the State standards of neg-
+                                                               15                ligence) shall be governed by otherwise applicable
+                                                               16                Federal or State law.
+                                                               17                         (2) RULE             OF CONSTRUCTION.—Nothing                             in this
+                                                               18                Act shall be construed to—
+                                                               19                                  (A) preempt or supersede any Federal or
+                                                               20                         State law that imposes greater procedural or
+                                                               21                         substantive protections (such as a shorter stat-
+                                                               22                         ute of limitations) for a health care provider or
+                                                               23                         health care institution from liability, loss, or
+tjames on DSK6SPTVN1PROD with                                  24                         damages than those provided by this Act;
+                                                                            •S 44 IS
+
+                                                                                                                      28
+                                                                 1                                 (B) preempt or supercede any State law
+                                                                 2                        that permits and provides for the enforcement
+                                                                 3                        of any arbitration agreement related to a health
+                                                                 4                        care liability claim whether enacted prior to or
+                                                                 5                        after the date of enactment of this Act;
+                                                                 6                                 (C) create a cause of action that is not
+                                                                 7                        otherwise available under Federal or State law;
+                                                                 8                        or
+                                                                 9                                 (D) affect the scope of preemption of any
+                                                               10                         other Federal law.
+                                                               11      SEC. 12. APPLICABILITY; EFFECTIVE DATE.
+                                                               12                This Act shall apply to any health care lawsuit
+                                                               13 brought in a Federal or State court, or subject to an alter-
+                                                               14 native dispute resolution system, that is initiated on or
+                                                               15 after the date of the enactment of this Act, except that
+                                                               16 any health care lawsuit arising from an injury occurring
+                                                               17 prior to the date of enactment of this Act shall be gov-
+                                                               18 erned by the applicable statute of limitations provisions
+                                                               19 in effect at the time the injury occurred.
+                                                                                                                          Æ
+tjames on DSK6SPTVN1PROD with
+
+
+
+
+                                                                            •S 44 IS
+

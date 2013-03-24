@@ -1,0 +1,18 @@
+<amendment session="113" chamber="s" number="9" updated="2013-03-02T06:26:43-05:00">
+  <amends type="h" number="325" sequence=""/>
+  <status datetime="2013-01-31">offered</status>
+  <sponsor id="412492"/>
+  <offered datetime="2013-01-31"/>
+  <description>To prohibit the sale, lease, transfer, retransfer, or delivery of F-16 aircraft, M1 tanks, or certain other defense articles or services to the Government of Egypt.</description>
+  <purpose>To prohibit the sale, lease, transfer, retransfer, or delivery of F-16 aircraft, M1 tanks, or certain other defense articles or services to the Government of Egypt.</purpose>
+  <actions>
+    <action datetime="2013-01-31">
+      <text>Amendment SA 9 proposed by Senator Paul.</text>
+      <reference ref="CR S424-425, S427-428" label="consideration"/>
+      <reference ref="CR S424" label="text"/>
+    </action>
+    <action datetime="2013-01-31">
+      <text>Motion to table amendment SA 9 agreed to in Senate by Yea-Nay Vote. 79 - 19. Record Vote Number: 9.</text>
+    </action>
+  </actions>
+</amendment>

@@ -1,0 +1,39 @@
+<bill session="113" type="s" number="459" updated="2013-03-20T18:46:55-04:00">
+  <state datetime="2013-03-14">REPORTED</state>
+  <status>
+    <unknown datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title as="introduced" type="short">Minuteman Missile National Historic Site Boundary Modification Act</title>
+    <title as="introduced" type="official">A bill to modify the boundary of the Minuteman Missile National Historic Site in the State of South Dakota, and for other purposes.</title>
+  </titles>
+  <sponsor id="300058"/>
+  <cosponsors>
+    <cosponsor id="400546" joined="2013-03-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-05">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2013-03-14">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Land transfers"/>
+    <term name="Military facilities and property"/>
+    <term name="South Dakota"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/2013--Introduced.
+Minuteman Missile National Historic Site Boundary Modification Act - Amends the Minuteman Missile National Historic Site Establishment Act of 1999 to modify the boundary of the Minuteman Missile National Historic Site in South Dakota by including in the Historic Site a visitor facility and administrative site located on a specified parcel of land that consists of: (1) approximately 25 acres of land within the Buffalo Gap National Grassland in Jackson County, South Dakota, and (2) approximately 3.65 acres of land at the Delta 1 Launch Control Facility for the construction and use of a parking lot and for other administrative uses. Transfers administrative jurisdiction over such land from the Secretary of Agriculture (USDA) to the Secretary of the Interior. Modifies the boundary of the Buffalo Gap National Grassland to exclude the transferred land.</summary>
+</bill>

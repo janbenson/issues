@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="1096" updated="2013-03-20T04:47:09-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="short">Enhancing the Quality of Parental Legal Representation Act of 2013</title>
+    <title as="introduced" type="official">To provide funds to State courts for the provision of legal representation to parents and legal guardians with respect to child welfare cases.</title>
+  </titles>
+  <sponsor id="400661"/>
+  <cosponsors>
+    <cosponsor id="400333" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

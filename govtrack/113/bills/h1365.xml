@@ -1,0 +1,41 @@
+<bill session="113" type="h" number="1365" updated="2013-03-22T04:47:10-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Immigration and Nationality Act to reaffirm the United States historic commitment to protecting refugees who are fleeing persecution or torture.</title>
+  </titles>
+  <sponsor id="400245"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="2013-03-21"/>
+    <cosponsor id="412215" joined="2013-03-21"/>
+    <cosponsor id="412308" joined="2013-03-21"/>
+    <cosponsor id="400360" joined="2013-03-21"/>
+    <cosponsor id="412514" joined="2013-03-21"/>
+    <cosponsor id="412239" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Ways and Means, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Budget</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee code="HSBU" name="House Budget" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

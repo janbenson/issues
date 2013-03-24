@@ -1,0 +1,16 @@
+<amendment session="113" chamber="s" number="433" updated="2013-03-22T04:53:31-04:00">
+  <amends type="sc" number="8" sequence=""/>
+  <status datetime="2013-03-21">fail</status>
+  <sponsor id="300076"/>
+  <offered datetime="2013-03-21"/>
+  <description>To amend the resolution.</description>
+  <purpose>To amend the resolution.</purpose>
+  <actions>
+    <action datetime="2013-03-21">
+      <text>Amendment SA 433 proposed by Senator Reid for Senator Murray.</text>
+    </action>
+    <vote datetime="2013-03-21" how="roll" result="fail" roll="46">
+      <text>Amendment SA 433 not agreed to in Senate by Yea-Nay Vote. 40 - 59. Record Vote Number: 46.</text>
+    </vote>
+  </actions>
+</amendment>

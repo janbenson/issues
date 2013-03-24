@@ -1,0 +1,47 @@
+<bill session="113" type="h" number="937" updated="2013-03-16T04:46:33-04:00">
+  <state datetime="2013-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-04"/>
+  </status>
+  <introduced datetime="2013-03-04"/>
+  <titles>
+    <title as="introduced" type="short">American Textile Technology Innovation and Research for Exportation (ATTIRE) Act</title>
+    <title as="introduced" type="official">To support innovation and research in the United States textile and fiber products industry.</title>
+  </titles>
+  <sponsor id="400326"/>
+  <cosponsors>
+    <cosponsor id="400076" joined="2013-03-04"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-04">
+      <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Ways and Means, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-04">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+    <action datetime="2013-03-04">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-03-04">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2013-03-07">
+      <text>Referred to the Subcommittee on Trade.</text>
+      <committee name="House Ways and Means"/>
+    </action>
+    <action datetime="2013-03-15">
+      <text>Referred to the Subcommittee on Terrorism, Nonproliferation, and Trade.</text>
+      <committee name="House Foreign Affairs"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral, In Committee"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA18" subcommittee="Terrorism, Nonproliferation, and Trade" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

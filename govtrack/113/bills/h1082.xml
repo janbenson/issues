@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="1082" updated="2013-03-16T04:46:47-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="short">President's Salary SUBMIT Act</title>
+    <title as="introduced" type="short">President's Salary Suspended Unless Budget Measure Is On Time Act</title>
+    <title as="introduced" type="official">To provide that compensation of the President shall be held in escrow upon failure to submit his budget in a timely manner.</title>
+  </titles>
+  <sponsor id="412427"/>
+  <cosponsors>
+    <cosponsor id="412436" joined="2013-03-12"/>
+    <cosponsor id="400071" joined="2013-03-15"/>
+    <cosponsor id="412284" joined="2013-03-15"/>
+    <cosponsor id="412292" joined="2013-03-15"/>
+    <cosponsor id="412552" joined="2013-03-12"/>
+    <cosponsor id="412474" joined="2013-03-12"/>
+    <cosponsor id="400627" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

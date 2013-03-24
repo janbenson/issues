@@ -1,0 +1,27 @@
+<bill session="113" type="h" number="1196" updated="2013-03-16T06:31:17-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="official">To amend the District of Columbia Home Rule Act to make local funds of the District of Columbia for a fiscal year available for use by the District at the beginning of the fiscal year at the rate of operations provided under the local budget act for the fiscal year if the regular District of Columbia appropriation bill for a fiscal year does not become law prior to the beginning of such fiscal year.</title>
+  </titles>
+  <sponsor id="400295"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-03-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E298"/>
+    </action>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

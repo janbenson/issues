@@ -1,0 +1,29 @@
+<bill session="113" type="h" number="1235" updated="2013-03-19T04:46:49-04:00">
+  <state datetime="2013-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-18"/>
+  </status>
+  <introduced datetime="2013-03-18"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Federal Power Act to permit States to exempt projects from certain Federal Energy Regulatory Commission considerations in issuing licenses for such projects.</title>
+  </titles>
+  <sponsor id="412444"/>
+  <cosponsors>
+    <cosponsor id="412508" joined="2013-03-18"/>
+    <cosponsor id="400158" joined="2013-03-18"/>
+    <cosponsor id="412485" joined="2013-03-18"/>
+    <cosponsor id="412464" joined="2013-03-18"/>
+    <cosponsor id="412568" joined="2013-03-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-18">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

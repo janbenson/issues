@@ -29,55 +29,55 @@ ul.profile_nav li a {
 	padding-right: 17px;
 	font-size:13px;	
 	text-decoration: none;
-	  background: url('../images/arrow_button_cap.png') right 0 no-repeat;
-   _background: url('../images/arrow_button_cap.gif') right 0 no-repeat;
+	  background: url('arrow_button_cap.png') right 0 no-repeat;
+   _background: url('arrow_button_cap.gif') right 0 no-repeat;
 }
 
 ul.profile_nav li a.active {
 font-weight: bold;
 color: #888;
-background: url('../images/arrow_button_cap.png') right -34px no-repeat;
-   _background: url('../images/arrow_button_cap.gif') right -34px no-repeat;
+background: url('arrow_button_cap.png') right -34px no-repeat;
+   _background: url('arrow_button_cap.gif') right -34px no-repeat;
 }
 
 
 ul.profile_nav li a:active {
 color: #888;
 text-decoration: none;
-background: url('../images/arrow_button_cap.png') right -34px no-repeat;
-   _background: url('../images/arrow_button_cap.gif') right -34px no-repeat;
+background: url('arrow_button_cap.png') right -34px no-repeat;
+   _background: url('arrow_button_cap.gif') right -34px no-repeat;
 }
 
 ul.profile_nav li a:active span {
-background: url('../images/arrow_button.png') left -34px repeat-x;
-   _background: url('../images/arrow_button.gif') left -34px repeat-x;
+background: url('arrow_button.png') left -34px repeat-x;
+   _background: url('arrow_button.gif') left -34px repeat-x;
 
 }
 
 ul.profile_nav li a span {
 padding: 7px 16px 8px;
 display: block;
-background: url('../images/arrow_button.png') left 0 repeat-x;
-   _background: url('../images/arrow_button.gif') left 0 repeat-x;
+background: url('arrow_button.png') left 0 repeat-x;
+   _background: url('arrow_button.gif') left 0 repeat-x;
 
 }
 
 ul.profile_nav li a.active span {
-background: url('../images/arrow_button.png') left -34px repeat-x;
-   _background: url('../images/arrow_button.gif') left -34px repeat-x;
+background: url('arrow_button.png') left -34px repeat-x;
+   _background: url('arrow_button.gif') left -34px repeat-x;
 }
 
 
 #profile.show ul.profile_nav li#AboutMe a {
 color: #888;
 text-decoration: none;
-background: url('../images/arrow_button_cap.png') right -34px no-repeat;
-   _background: url('../images/arrow_button_cap.gif') right -34px no-repeat;
+background: url('arrow_button_cap.png') right -34px no-repeat;
+   _background: url('arrow_button_cap.gif') right -34px no-repeat;
 }
 
 #profile.show ul.profile_nav li#AboutMe a span {
-background: url('../images/arrow_button.png') left -34px repeat-x;
-   _background: url('../images/arrow_button.gif') left -34px repeat-x;
+background: url('arrow_button.png') left -34px repeat-x;
+   _background: url('arrow_button.gif') left -34px repeat-x;
 
 }
 
@@ -445,7 +445,7 @@ margin-right: 10px;
   text-decoration:none;
 }                      
 .privacy {
-  background:url('../images/private.png') no-repeat left center;
+  background:url('private.png') no-repeat left center;
   padding-left:18px;
 }
 
@@ -485,16 +485,16 @@ clear: both;
 
 
 a.med_button.on{
-background: url('../images/med_button_cap.png') right -31px no-repeat;
-   _background: url('../images/med_button_cap.gif') right -31px no-repeat;
+background: url('med_button_cap.png') right -31px no-repeat;
+   _background: url('med_button_cap.gif') right -31px no-repeat;
 text-decoration: none;
 color: #999;
 }
 
 
 a.med_button.on span{
-background: url('../images/med_button.png') left -31px no-repeat;
-   _background: url('../images/med_button.gif') left -31px no-repeat;
+background: url('med_button.png') left -31px no-repeat;
+   _background: url('med_button.gif') left -31px no-repeat;
 }
 
 
@@ -550,20 +550,20 @@ padding-bottom: 20px;
 }
 
 .rating{
-  background: url(/images/no-rating.png) 3px center no-repeat;
-   _background: url(/images/no-rating.gif) 3px center no-repeat;
+  background: urno-rating.png) 3px center no-repeat;
+   _background: urno-rating.gif) 3px center no-repeat;
 }
 .no_rating{
-  background: url(/images/no-rating.png) 3px center no-repeat;
-   _background: url(/images/no-rating.gif) 3px center no-repeat;
+  background: urno-rating.png) 3px center no-repeat;
+   _background: urno-rating.gif) 3px center no-repeat;
 }
 .bill_count{
-  background: url(/images/tiny_bill.png) left center no-repeat;
-   _background: url(/images/tiny_bill.gif) left center no-repeat;
+  background: urtiny_bill.png) left center no-repeat;
+   _background: urtiny_bill.gif) left center no-repeat;
 }
 .cronie{
-  background: url(/images/cronie.png) left center no-repeat;
-   _background: url(/images/cronie.gif) left center no-repeat;
+  background: urcronie.png) left center no-repeat;
+   _background: urcronie.gif) left center no-repeat;
 }
 
 .stats{

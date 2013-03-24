@@ -1,0 +1,25 @@
+<bill session="113" type="s" number="644" updated="2013-03-22T04:45:55-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend the Federal Food, Drug, and Cosmetic Act to prevent the abuse of dextromethorphan, and for other purposes.</title>
+  </titles>
+  <sponsor id="412246"/>
+  <cosponsors>
+    <cosponsor id="300075" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

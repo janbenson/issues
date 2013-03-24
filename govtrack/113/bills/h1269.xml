@@ -1,0 +1,38 @@
+<bill session="113" type="h" number="1269" updated="2013-03-20T04:47:30-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title as="introduced" type="official">To prohibit the use of lethal military force against citizens of the United States located within the United States.</title>
+  </titles>
+  <sponsor id="412528"/>
+  <cosponsors>
+    <cosponsor id="412438" joined="2013-03-19"/>
+    <cosponsor id="412503" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-19">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committees on the Judiciary, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-19">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2013-03-19">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-03-19">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

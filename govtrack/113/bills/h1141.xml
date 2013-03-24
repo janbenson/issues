@@ -1,0 +1,29 @@
+<bill session="113" type="h" number="1141" updated="2013-03-20T12:46:43-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="short">Federal Firefighter Flexibility and Fairness Act</title>
+    <title as="introduced" type="official">To amend section 5542 of title 5, United States Code, to provide that any hours worked by Federal firefighters under a qualified trade-of-time arrangement shall be excluded for purposes of determinations relating to overtime pay.</title>
+  </titles>
+  <sponsor id="412212"/>
+  <cosponsors>
+    <cosponsor id="400047" joined="2013-03-13"/>
+    <cosponsor id="400162" joined="2013-03-13"/>
+    <cosponsor id="400295" joined="2013-03-13"/>
+    <cosponsor id="412255" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-13">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

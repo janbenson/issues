@@ -1,0 +1,46 @@
+<bill session="113" type="h" number="1209" updated="2013-03-21T06:16:29-04:00">
+  <state datetime="2013-03-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-15"/>
+  </status>
+  <introduced datetime="2013-03-15"/>
+  <titles>
+    <title as="introduced" type="official">To award a Congressional Gold Medal to the World War II members of the "Doolittle Tokyo Raiders", for outstanding heroism, valor, skill, and service to the United States in conducting the bombings of Tokyo.</title>
+  </titles>
+  <sponsor id="412302"/>
+  <cosponsors>
+    <cosponsor id="400029" joined="2013-03-20"/>
+    <cosponsor id="400041" joined="2013-03-15"/>
+    <cosponsor id="400047" joined="2013-03-19"/>
+    <cosponsor id="412567" joined="2013-03-15"/>
+    <cosponsor id="400071" joined="2013-03-19"/>
+    <cosponsor id="400076" joined="2013-03-20"/>
+    <cosponsor id="412508" joined="2013-03-20"/>
+    <cosponsor id="400090" joined="2013-03-19"/>
+    <cosponsor id="400100" joined="2013-03-19"/>
+    <cosponsor id="412401" joined="2013-03-15"/>
+    <cosponsor id="400165" joined="2013-03-19"/>
+    <cosponsor id="400206" joined="2013-03-15"/>
+    <cosponsor id="400279" joined="2013-03-19"/>
+    <cosponsor id="412442" joined="2013-03-15"/>
+    <cosponsor id="412393" joined="2013-03-19"/>
+    <cosponsor id="400352" joined="2013-03-19"/>
+    <cosponsor id="412417" joined="2013-03-20"/>
+    <cosponsor id="412581" joined="2013-03-20"/>
+    <cosponsor id="412461" joined="2013-03-15"/>
+    <cosponsor id="410396" joined="2013-03-19"/>
+    <cosponsor id="400411" joined="2013-03-15"/>
+    <cosponsor id="412402" joined="2013-03-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-15">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

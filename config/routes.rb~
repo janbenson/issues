@@ -1,5 +1,4 @@
 Issues::Application.routes.draw do
-	resources :issues
   # API
   constraints :subdomain => 'api' do
     match '/' => redirect(Settings.base_url + 'api')
@@ -38,11 +37,15 @@ Issues::Application.routes.draw do
   end
   
   resources :simple_captcha, :only => :show
+  
+  match '/' => 'index#index', :as => :home
 
-  get "issues/index"
-  match '/' => 'issues#index', :as => :home
+  # Allow downloading Web Service WSDL as a file with an extension
+  # instead of a file named 'wsdl'
+  # match ':controller/service.wsdl' => 'wsdl'
 
-
+  # Handle bill routing. The action determines what information about the bill will 
+  # be displayed.
   match 'bill/:id/users_tracking' => 'friends#tracking_bill', :as => :users_tracking_bill
   match 'bill/:id/users_tracking/:state' => 'friends#tracking_bill', :state => /\w{2}/, :as => :users_tracking_bill_by_state
 
@@ -104,7 +107,7 @@ Issues::Application.routes.draw do
        resources :article_images
      end
 
-     match '/' => 'issues#index', :as => 'admin'
+     match '/' => 'index#index', :as => 'admin'
      
      scope 'stats', :controller => 'stats' do
        match 'bills.:format', :action => 'bills'
@@ -247,4 +250,5 @@ Issues::Application.routes.draw do
 
   match ':controller(/:action(/:id))'
   #match '*path' => 'index#notfound' #unless Rails.application.config.consider_all_requests_local
-end
+  
+end  

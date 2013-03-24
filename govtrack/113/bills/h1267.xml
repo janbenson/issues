@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="1267" updated="2013-03-20T04:47:29-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title as="introduced" type="official">To delay and phase-in increases in flood insurance premium rates under the national flood insurance program for certain properties, and for other purposes.</title>
+  </titles>
+  <sponsor id="412443"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-19">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

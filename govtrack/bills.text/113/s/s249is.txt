@@ -1,0 +1,332 @@
+                                                                                                                                   II
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                            S. 249
+                                  To provide for the expansion of affordable refinancing of mortgages held
+                                      by the Federal National Mortgage Association and the Federal Home
+                                      Loan Mortgage Corporation.
+
+
+
+
+                                              IN THE SENATE OF THE UNITED STATES
+                                                             FEBRUARY 7, 2013
+                                  Mr. MENENDEZ (for himself, Mrs. BOXER, Mr. LEAHY, Mr. LAUTENBERG,
+                                      Mr. WHITEHOUSE, Mr. REED, Mrs. SHAHEEN, Mr. FRANKEN, Mr.
+                                      BEGICH, Mr. DURBIN, Ms. STABENOW, Mr. BLUMENTHAL, Mr. SCHU-
+                                      MER, Mr. WYDEN, Mr. LEVIN, Ms. LANDRIEU, Mr. MERKLEY, Mrs.
+                                      GILLIBRAND, Mr. CARDIN, Mrs. HAGAN, Mr. SANDERS, and Mrs. FEIN-
+                                      STEIN) introduced the following bill; which was read twice and referred
+                                      to the Committee on Banking, Housing, and Urban Affairs
+
+
+
+
+                                                                            A BILL
+                                  To provide for the expansion of affordable refinancing of
+                                     mortgages held by the Federal National Mortgage Asso-
+                                     ciation and the Federal Home Loan Mortgage Corpora-
+                                     tion.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Responsible Home-
+
+
+
+
+                                    5 owner Refinancing Act of 2013’’.
+                                    1     SEC. 2. DEFINITIONS.                               2
+                                    2              In this Act—
+                                    3                        (1) the term ‘‘current borrower’’ means a mort-
+                                    4              gagor who is current on the subject mortgage at the
+                                    5              time of the refinancing, and has had no late pay-
+                                    6              ments in the preceding 6 months and not more than
+                                    7              1 late payment in the preceding 12 months;
+                                    8                        (2) the term ‘‘eligible mortgage’’ means any
+                                    9              mortgage, regardless of current loan-to-value, that—
+                                  10                                  (A) is an existing first mortgage that was
+                                  11                         made for purchase of, or refinancing of another
+                                  12                         first mortgage on, a 1- to 4-family dwelling, in-
+                                  13                         cluding a condominium or a share in a coopera-
+                                  14                         tive ownership housing association;
+                                  15                                  (B) was originated or refinanced on or be-
+                                  16                         fore May 31, 2009, unless that date is extended
+                                  17                         by the Director under FHFA’s preexisting au-
+                                  18                         thority to do so;
+                                  19                                  (C) is owned or guaranteed by an enter-
+                                  20                         prise; and
+                                  21                                  (D) with respect to which, the mortgagor
+                                  22                         is a current borrower;
+                                  23                         (3) the term ‘‘enterprise’’ means the Federal
+                                  24               National Mortgage Association and the Federal
+
+
+
+
+                                  25               Home Loan Mortgage Corporation;
+                                              •S 249 IS
+
+                                                                                             3
+                                    1                        (4) the terms ‘‘FHFA’’ and ‘‘Director’’ mean
+                                    2              the Federal Housing Finance Agency and the Direc-
+                                    3              tor thereof, respectively;
+                                    4                        (5) the terms ‘‘Home Affordable Refinance Pro-
+                                    5              gram’’ and ‘‘Program’’ mean the Home Affordable
+                                    6              Refinance Program, administered by the FHFA and
+                                    7              the enterprises as part of the Making Home Afford-
+                                    8              able initiative announced on March 4, 2009;
+                                    9                        (6) the term—
+                                  10                                  (A) ‘‘LTV’’ means loan-to-value, or the
+                                  11                         ratio of the amount of the primary mortgage on
+                                  12                         a property to the value of that property; and
+                                  13                                  (B) ‘‘CLTV’’ means combined loan-to-
+                                  14                         value, or the ratio of all mortgage debt on a
+                                  15                         property to the value of the property;
+                                  16                         (7) the term ‘‘same servicer’’ means a lender
+                                  17               that is providing refinancing for a borrower whose
+                                  18               loan they already service;
+                                  19                         (8) the term ‘‘qualified lender’’ means a lender
+                                  20               that is participating in the Program;
+                                  21                         (9) the term ‘‘guarantee fee’’ has the same
+                                  22               meaning as in section 1327(a) of the Housing and
+                                  23               Community Development Act of 1992 (12 U.S.C.
+
+
+
+
+                                  24               4547(a)); and
+                                              •S 249 IS
+
+                                                                                             4
+                                    1                        (10) the term ‘‘average fees’’ means the average
+                                    2              contractual fee rate of single-family guaranty ar-
+                                    3              rangements charged by an enterprise on January 1,
+                                    4              2013, plus the recognition of any up-front cash pay-
+                                    5              ments over an estimated average life, expressed in
+                                    6              terms of basis points, such definition to be inter-
+                                    7              preted in a manner consistent with the annual re-
+                                    8              port on guarantee fees by the FHFA.
+                                    9     SEC. 3. STREAMLINED REFINANCING CRITERIA UNDER
+                                  10                              THE PROGRAM.
+                                  11               (a) IN GENERAL.—In carrying out the Home Afford-
+                                  12 able Refinance Program, each enterprise shall adopt and
+                                  13 adhere to the criteria established under this section.
+                                  14               (b) BORROWER ELIGIBILITY.—The enterprises shall
+                                  15 include as eligible borrowers in the Home Affordable Refi-
+                                  16 nance Program all current borrowers who have an eligible
+                                  17 mortgage and meet those underwriting requirements for
+                                  18 eligibility for same servicer refinancing in the Program as
+                                  19 of January 1, 2013, except that the enterprises may not
+                                  20 disqualify or impose varying rules within the Program for
+                                  21 borrowers based on LTV, CLTV, employment status or
+                                  22 income.
+                                  23               (c) ADDITIONAL RELIEF FROM REPRESENTATIONS
+                                  24      AND       WARRANTIES.—The enterprises shall not require of
+
+
+
+
+                                              •S 249 IS
+
+                                                                                             5
+                                    1 any qualified lender executing a loan under the Program
+                                    2 any representations or warranties—
+                                    3                        (1) for the value, marketability, condition, or
+                                    4              property type of the loan, as such loan characteris-
+                                    5              tics are evidenced by an appraisal or alternative
+                                    6              valuation method, provided that the lender complies
+                                    7              with the enterprises’ required methods and stand-
+                                    8              ards for ordering an appraisal under the Program;
+                                  109              or        (2) that are not required of same servicers
+                                  11               under the Program as of January 1, 2013, whether
+                                  12               that loan is manually underwritten or underwritten
+                                  13               through an automated system, except that, under no
+                                  14               circumstances shall greater representations and war-
+                                  15               ranties be required for a loan that is manually un-
+                                  16               derwritten than for one that is underwritten through
+                                  17               an automated system.
+                                  18               (d) PROHIBITION                  ON       UP-FRONT FEES.—In carrying
+                                  19 out the Program, the enterprises may not charge the
+                                  20 qualified lender any loan level price adjustment, post set-
+                                  21 tlement delivery fee, adverse delivery charge, or other simi-
+                                  22 lar up-front fee.
+                                  23               (e) APPRAISALS.—The enterprises shall develop and
+
+
+
+
+                                  24 allow alternative streamlined methods to determine the
+                                  25 value of the property for which refinancing is sought
+
+
+                                              •S 249 IS
+
+                                                                                             6
+                                    1 through the Program that eliminate the costs to the bor-
+                                    2 rower and qualified lender associated with such determina-
+                                    3 tion. Until such time as such method is developed, and
+                                    4 when the existing automated valuation models of the en-
+                                    5 terprises are unable to determine the value of a certain
+                                    6 property for which refinancing is sought through the Pro-
+                                    7 gram, the enterprises shall bear the costs associated with
+                                    8 the use of manual appraisal of that property, without
+                                    9 passing on such costs to the borrower or qualified lender.
+                                  10               (f) LIMITATION.—Notwithstanding any provision of
+                                  11 the Federal National Mortgage Association Charter Act
+                                  12 (12 U.S.C. 1716 et seq.) or the Federal Home Loan Mort-
+                                  13 gage Corporation Act (12 U.S.C. 1451 et seq.), an enter-
+                                  14 prise may purchase or guarantee any new mortgage result-
+                                  15 ing from the refinancing of an eligible mortgage pursuant
+                                  16 to this section, if at the time of origination of the eligible
+                                  17 mortgage, the eligible mortgage complied with the applica-
+                                  18 ble limitation governing the maximum original principal
+                                  19 obligation on conventional mortgages that may be pur-
+                                  20 chased or guaranteed by that enterprise.
+                                  21               (g) GUARANTEE FEES.—
+                                  22                         (1) IN      GENERAL.—
+
+                                  23                                  (A) AVERAGE                FEE.—On            each mortgage re-
+
+
+
+
+                                  24                         financed under the Program in accordance with
+                                  25                         this section, the enterprises shall set the aver-
+
+
+                                              •S 249 IS
+
+                                                                                             7
+                                    1                        age fee required under this Act, as determined
+                                    2                        by the Director in an amount not less than the
+                                    3                        average fees charged by the enterprises as of
+                                    4                        January 1, 2013, for such guarantees. The Di-
+                                    5                        rector shall prohibit an enterprise from offset-
+                                    6                        ting the cost of the fee to the mortgage origina-
+                                    7                        tors, borrowers, and investors by decreasing
+                                    8                        other charges, fees, or premiums, or in any
+                                    9                        other manner.
+                                  10                                  (B) AUTHORITY                      TO       LIMIT            OFFER   OF
+                                  11                         GUARANTEE.—The                       Director shall prohibit an
+                                  12                         enterprise from consummating any offer for a
+                                  13                         guarantee to a qualified lender for mortgage-
+                                  14                         backed securities, if the guarantee is incon-
+                                  15                         sistent with the requirements of this section.
+                                  16                         (2) INFORMATION                       COLLECTION                  AND     ANAL-
+                                  17               YSIS.—The              Director shall require each enterprise to
+                                  18               provide to the Director, as part of its annual report
+                                  19               submitted to Congress, for loans refinanced under
+                                  20               the Program—
+                                  21                                  (A) a description of changes made to up-
+                                  22                         front fees and annual fees as part of the guar-
+                                  23                         antee fees negotiated with qualified lenders; and
+
+
+
+
+
+                                              •S 249 IS
+
+                                                                                             8
+                                    1                                 (B) an assessment of how the changes in
+                                    2                        the guarantee fees described in subparagraph
+                                    3                        (A) met the requirements of paragraph (1).
+                                    4              (h) REGULATIONS.—Not later than 30 days after the
+                                    5 date of enactment of this Act, the Director shall issue any
+                                    6 regulations or guidance necessary to carry out the changes
+                                    7 to the Program established under this section, which regu-
+                                    8 lations or guidance shall be put into effect not later than
+                                    9 90 days after the date of enactment of this Act.
+                                  10               (i) TERMINATION.—The Program shall expire on De-
+                                  11 cember 31, 2014 and the requirements of this section shall
+                                  12 expire concurrent with the expiration of the Program. Not-
+                                  13 withstanding the prior sentence, the Director, at his or
+                                  14 her discretion, may extend the Program and the require-
+                                  15 ments established under this section shall apply during
+                                  16 any such extension.
+                                  17               (j) RULE OF CONSTRUCTION.—
+                                  18                         (1) IN      GENERAL.—Nothing                        in this section shall
+                                  19               be construed to supersede, preempt, or otherwise
+                                  20               nullify the requirement that a loan refinanced under
+                                  21               the Program must benefit the borrower.
+                                  22                         (2) DEFINITION.—For purposes of paragraph
+                                  23               (1), a loan refinanced under the Program benefits
+
+
+
+
+                                  24               the borrower, if the refinanced loan results in—
+                                  25                                  (A) reduction in payment;
+
+
+                                              •S 249 IS
+
+                                                                                             9
+                                    1                                 (B) reduction in interest rate;
+                                    2                                 (C) movement to a more stable product,
+                                    3                        such as from an adjustable rate mortgage to a
+                                    4                        fixed rate mortgage; or
+                                    5                                 (D) reduction in amortization term.
+                                    6     SEC. 4. INFORMATION FOR BORROWERS ON ELIGIBILITY
+                                    7                             FOR THE PROGRAM.
+                                    8              (a) NOTICE               TO      BORROWERS.—Not later than 60
+                                    9 days after the date of enactment of this Act, the enter-
+                                  10 prises shall notify all borrowers with a mortgage owned
+                                  11 or guaranteed by an enterprise about the Program and
+                                  12 its eligibility criteria, and inform borrowers of the website
+                                  13 required under subsection (b).
+                                  14               (b) PUBLIC ACCESS TO ELIGIBILITY CRITERIA.—The
+                                  15 Director shall establish, and the enterprises shall display
+                                  16 a link on their homepages to, a single website where bor-
+                                  17 rowers may—
+                                  18                         (1) determine their potential eligibility for par-
+                                  19               ticipation in the Program;
+                                  20                         (2) see a complete list of and links to qualified
+                                  21               lenders;
+                                  22                         (3) use a mortgage refinance calculator to cal-
+                                  23               culate potential payment savings based on different
+
+
+
+
+                                  24               interest rates; and
+                                  25                         (4) obtain tips on refinancing their loan.
+
+
+                                              •S 249 IS
+
+                                                                                         10
+                                    1     SEC.        5.     CONSISTENT                REFINANCING                   GUIDELINES    RE-
+                                    2                             QUIRED.
+                                    3              Not later than 60 days after the date of enactment
+                                    4 of this Act, the Director shall issue guidance to require
+                                    5 the enterprises to make their refinancing guidelines con-
+                                    6 sistent to ease the compliance requirements of qualified
+                                    7 lenders, and in particular with respect to loans with less
+                                    8 than an 80 percent loan-to-value ratio and closing cost
+                                    9 policies of the enterprises, which regulations or guidance
+                                  10 shall be put into effect not later than 90 days after the
+                                  11 date of enactment of this Act.
+                                  12      SEC. 6. PROGRESS REPORTS.
+                                  13               The Director shall provide to Congress monthly re-
+                                  14 ports on the progress of the Program, and each enterprise
+                                  15 shall include and disclose, as part of its filings with the
+                                  16 Securities and Exchange Commission on Form 10–Q,
+                                  17 Form 10–K, or any successors thereto, detailed informa-
+                                  18 tion on each enterprise’s progress and results in imple-
+                                  19 menting and executing the Program.
+                                  20      SEC. 7. SEVERABILITY.
+                                  21               If any portion of this Act or the application thereof
+                                  22 to any person or circumstance is held invalid, such inva-
+                                  23 lidity shall not affect the portions or applications of this
+                                  24 Act which can be given effect without the invalid portion
+
+
+
+
+                                  25 or application.
+                                              •S 249 IS                                    Æ

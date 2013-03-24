@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="1184" updated="2013-03-22T12:45:59-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="short">Small Business Deposit Relief Act of 2013</title>
+    <title as="introduced" type="official">To amend title 31, United States Code, to provide for lessened penalties for certain violations of the anti-structuring laws when violations are with respect to certain domestic financial institutions and are not taken in connection with another crime, and for other purposes.</title>
+  </titles>
+  <sponsor id="412434"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

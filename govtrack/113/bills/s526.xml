@@ -1,0 +1,30 @@
+<bill session="113" type="s" number="526" updated="2013-03-15T12:45:38-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="short">Rural Heritage Conservation Extension Act of 2013</title>
+    <title as="introduced" type="official">A bill to amend the Internal Revenue Code of 1986 to make permanent the special rule for contributions of qualified conservation contributions, and for other purposes.</title>
+  </titles>
+  <sponsor id="300005"/>
+  <cosponsors>
+    <cosponsor id="300052" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1711-1712"/>
+    </action>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

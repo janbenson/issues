@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="1092" updated="2013-03-21T15:46:14-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="official">To designate the air route traffic control center located in Nashua, New Hampshire, as the "Patricia Clark Boston Air Route Traffic Control Center".</title>
+  </titles>
+  <sponsor id="412557"/>
+  <cosponsors>
+    <cosponsor id="412219" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-03-13">
+      <text>Referred to the Subcommittee on Aviation.</text>
+      <committee name="House Committee on Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="540"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>3/12/2013--Introduced.
+Designates the air route traffic control center located in Nashua, New Hampshire, as the "Patricia Clark Boston Air Route Traffic Control Center."</summary>
+</bill>

@@ -1,0 +1,2345 @@
+                                                                                                                                   II
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                            S. 387
+                                  To establish the American Infrastructure Investment Fund and other activi-
+                                      ties to facilitate investments in infrastructure projects that significantly
+                                      enhance the economic competitiveness of the United States by improving
+                                      economic output, productivity, or competitive commercial advantage, and
+                                      for other purposes.
+
+
+
+
+                                              IN THE SENATE OF THE UNITED STATES
+                                                               FEBRUARY 26, 2013
+                                  Mr. ROCKEFELLER (for himself and Mr. LAUTENBERG) introduced the fol-
+                                      lowing bill; which was read twice and referred to the Committee on Com-
+                                      merce, Science, and Transportation
+
+
+
+
+                                                                            A BILL
+                                  To establish the American Infrastructure Investment Fund
+                                     and other activities to facilitate investments in infra-
+                                     structure projects that significantly enhance the economic
+                                     competitiveness of the United States by improving eco-
+                                     nomic output, productivity, or competitive commercial
+                                     advantage, and for other purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+                                    4              (a) SHORT TITLE.—This Act may be cited as the
+                                    5 ‘‘American Infrastructure Investment Fund Act’’.
+
+
+
+                                                                                             2
+                                    1              (b) TABLE            OF    CONTENTS.—The table of contents of
+                                    2 this Act is as follows:
+                                          Sec. 1. Short title; table of contents.
+                                          Sec. 2. American infrastructure investment fund.
+                                          Sec. 3. National infrastructure investment grants.
+                                    3     SEC. 2. AMERICAN INFRASTRUCTURE INVESTMENT FUND.
+                                    4              (a) ESTABLISHMENT                         OF    FUND.—Chapter 3 of title
+                                    5 49, United States Code, is amended—
+                                    6                        (1) in the table of sections, by adding at the
+                                    7              end the following:
+                                                   ‘‘SUBCHAPTER       IV—AMERICAN INFRASTRUCTURE INVESTMENT FUND
+
+                                          ‘‘361.   Definitions.
+                                          ‘‘362.   Establishment of Fund.
+                                          ‘‘363.   Organizational structure and duties.
+                                          ‘‘364.   Fund authorities and assistance.
+                                          ‘‘365.   Studies and reports.’’;
+                                    8              and
+                                    9                        (2) by adding at the end the following:
+                                  10                           ‘‘SUBCHAPTER IV—AMERICAN
+                                  11                INFRASTRUCTURE INVESTMENT FUND
+                                  12 ‘‘§ 361. Definitions
+                                  13               ‘‘In this subchapter:
+                                  14                         ‘‘(1) BOARD.—The term ‘Board’ means the
+                                  15               Board of Directors of the Fund appointed pursuant
+                                  16               to section 363(b).
+                                  17                         ‘‘(2) DIRECT            LOAN.—The                term ‘direct loan’ has
+                                  18               the meaning given the term under section 502(1) of
+
+
+
+
+                                  19               the Congressional Budget Act of 1974 (2 U.S.C.
+                                  20               661a(1)).
+
+                                              •S 387 IS
+
+                                                                                             3
+                                    1                        ‘‘(3) ECONOMIC                  COMPETITIVENESS.—The                     term
+                                    2              ‘economic competitiveness’ means the ability of the
+                                    3              economy to more efficiently produce goods and de-
+                                    4              liver services, including—
+                                    5                                 ‘‘(A) reductions in travel time of goods and
+                                    6                        people, including reductions in average delay or
+                                    7                        the uncertainty of travel time; and
+                                    8                                 ‘‘(B) net benefits to society through eco-
+                                    9                        nomic benefits attributable to improving the
+                                  10                         spatial clustering of economic activity.
+                                  11                         ‘‘(4) ELIGIBLE                  PROJECT.—The                    term ‘eligible
+                                  12               project’ means a capital project that—
+                                  13                                  ‘‘(A) advances the objectives of this sub-
+                                  14                         chapter;
+                                  15                                  ‘‘(B) is comprised of activities included in
+                                  16                         a regional, State, or national plan, either at the
+                                  17                         time of submission of the application or before
+                                  18                         the obligation of funds from the Fund;
+                                  19                                  ‘‘(C) has eligible project costs related to a
+                                  20                         single project, or has aggregate eligible project
+                                  21                         costs related to a program of projects that are
+                                  22                         coordinated to achieve a unified improvement;
+                                  23                         and
+
+
+
+
+
+                                  24                                  ‘‘(D) is a transportation-related project.
+
+
+
+
+                                              •S 387 IS
+
+                                                                                             4
+                                    1                        ‘‘(5)       ELIGIBLE                FUNDING             RECIPIENT.—The
+                                    2              term ‘eligible funding recipient’—
+                                    3                                 ‘‘(A) means an entity that has received a
+                                    4                        financing award from the Fund;
+                                    5                                 ‘‘(B) shall be—
+                                    6                                        ‘‘(i) a non-Federal governmental enti-
+                                    7                                 ty, agency, or instrumentality; or
+                                    8                                        ‘‘(ii) a nongovernmental entity, such
+                                    9                                 as a corporation, partnership, joint ven-
+                                  10                                  ture, or other instrumentality, that seeks
+                                  11                                  funding for an eligible project; and
+                                  12                                  ‘‘(C) shall have a non-Federal govern-
+                                  13                         mental cosponsor of the project if it is a non-
+                                  14                         governmental entity.
+                                  15                         ‘‘(6) ELIGIBLE              PROJECT COST.—The                         term ‘eli-
+                                  16               gible project cost’—
+                                  17                                  ‘‘(A) includes costs associated with devel-
+                                  18                         opment phase planning and design activities,
+                                  19                         construction, acquisition, rehabilitation, envi-
+                                  20                         ronmental remediation, interest expense during
+                                  21                         construction or reconstruction, and reasonable
+                                  22                         required reserves; and
+                                  23                                  ‘‘(B) excludes operating costs, research
+
+
+
+
+                                  24                         and development costs, and any other costs not
+                                              •S 387 IS
+
+                                                                                             5
+                                    1                        otherwise specifically provided for in subpara-
+                                    2                        graph (A).
+                                    3                        ‘‘(7) EXECUTIVE                 DIRECTOR.—The                    term ‘Execu-
+                                    4              tive Director’ means the Executive Director of the
+                                    5              Fund appointed pursuant to section 363(a)(1).
+                                    6                        ‘‘(8) FUND.—The term ‘Fund’ means the
+                                    7              American Infrastructure Investment Fund of the
+                                    8              Department of Transportation established under sec-
+                                  109              tion 362. ‘‘(9) INVESTMENT                     PLAN.—The                  term ‘invest-
+                                  11               ment plan’ means a written mutual agreement be-
+                                  12               tween the Fund and an applicant that outlines the
+                                  13               prospective terms of financial assistance to be in-
+                                  14               vested by the Fund.
+                                  15                         ‘‘(10) LINE              OF CREDIT.—The                        term ‘line of
+                                  16               credit’ means an agreement entered into between the
+                                  17               Fund and an eligible funding recipient to provide a
+                                  18               direct loan at a future date upon the occurrence of
+                                  19               certain events.
+                                  20                         ‘‘(11) LOAN                GUARANTEE.—The                             term ‘loan
+                                  21               guarantee’ has the meaning given the term under
+                                  22               section 502(3) of the Congressional Budget Act of
+                                  23               1974 (2 U.S.C. 661a(3)).
+                                  24                         ‘‘(12) OPERATING                    GUIDANCE.—The                      term ‘Op-
+                                  25               erating Guidance’ means the detailed description of
+
+
+                                              •S 387 IS
+
+                                                                                             6
+                                    1              the Fund’s operating policies and procedures that
+                                    2              has been published in accordance with this sub-
+                                    3              chapter.
+                                    4                        ‘‘(13) QUALIFIED                      APPLICATION.—The                     term
+                                    5              ‘Qualified Application’ means an application that the
+                                    6              Executive Director has certified to have met eligi-
+                                    7              bility and qualification standards under this sub-
+                                    8              chapter.
+                                    9                        ‘‘(14) RURAL.—The term ‘rural’ means all pop-
+                                  10               ulation and territory that are not within an Urban-
+                                  11               ized Area (as such term is defined in the most re-
+                                  12               cent decennial United States census).
+                                  13                         ‘‘(15) SECRETARY.—Except as otherwise speci-
+                                  14               fied, the term ‘Secretary’ means the Secretary of
+                                  15               Transportation.
+                                  16                         ‘‘(16) TRANSPORTATION-RELATED                                         PROJECT.—
+                                  17               The term ‘transportation-related project’ means a
+                                  18               project that is part of, or related to, a transportation
+                                  19               improvement, including projects related to the con-
+                                  20               struction or improvement of—
+                                  21                                  ‘‘(A) a passenger or freight rail line;
+                                  22                                  ‘‘(B) a highway;
+                                  23                                  ‘‘(C) a bridge;
+
+
+
+
+
+                                  24                                  ‘‘(D) an airport;
+                                  25                                  ‘‘(E) an air traffic control system;
+
+
+                                              •S 387 IS
+
+                                                                                             7
+                                    1                                 ‘‘(F) a port or marine facility;
+                                    2                                 ‘‘(G) an inland waterway;
+                                    3                                 ‘‘(H) a transmission or distribution pipe-
+                                    4                        line;
+                                    5                                 ‘‘(I) public transportation facilities or sys-
+                                    6                        tems;
+                                    7                                 ‘‘(J) intercity passenger bus or passenger
+                                    8                        rail facilities or equipment; or
+                                    9                                 ‘‘(K) freight rail facilities or equipment.
+                                  10 ‘‘§ 362. Establishment of Fund
+                                  11               ‘‘(a) ESTABLISHMENT.—There is established in the
+                                  12 Department of Transportation an entity to be known as
+                                  13 the ‘American Infrastructure Investment Fund’.
+                                  14               ‘‘(b) OBJECTIVES.—The primary objective of the
+                                  15 Fund shall be—
+                                  16                         ‘‘(1) to invest in infrastructure projects that
+                                  17               provide measurable improvements to the economic
+                                  18               competitiveness of all or part of the United States
+                                  19               by increasing or otherwise improving economic out-
+                                  20               put, productivity, or competitive commercial advan-
+                                  21               tage;
+                                  22                         ‘‘(2) to provide funding for projects that face
+                                  23               significant funding barriers due to problems associ-
+
+
+
+
+                                  24               ated with the need to combine resources across mul-
+                                  25               tiple jurisdictions or modes of transportation;
+
+
+                                              •S 387 IS
+
+                                                                                             8
+                                    1                        ‘‘(3) to improve the efficiency or throughput of
+                                    2              a national or regional transportation network by—
+                                    3                                 ‘‘(A) improving the integration between
+                                    4                        networks; or
+                                    5                                 ‘‘(B) improving the condition, performance,
+                                    6                        or long-term cost structure of existing infra-
+                                    7                        structure;
+                                    8                        ‘‘(4) to improve the safety of transportation fa-
+                                    9              cilities and systems, as measured by the reduction in
+                                  10               risk of transportation-related crashes, injuries, or
+                                  11               deaths; and
+                                  12                         ‘‘(5) to improve the environmental sustain-
+                                  13               ability of a national or regional transportation net-
+                                  14               work, as measured by—
+                                  15                                  ‘‘(A) improvement in energy efficiency;
+                                  16                                  ‘‘(B) reduction in greenhouse gas and
+                                  17                         other harmful emissions;
+                                  18                                  ‘‘(C) conservation of natural resources;
+                                  19                                  ‘‘(D) improvement in water quality;
+                                  20                                  ‘‘(E) improvement in infrastructure resil-
+                                  21                         ience to environmental hazards and natural dis-
+                                  22                         asters; and
+                                  23                                  ‘‘(F) other beneficial environmental im-
+
+
+
+
+                                  24                         pacts.
+                                  25               ‘‘(c) STRATEGY.—
+
+
+                                              •S 387 IS
+
+                                                                                             9
+                                    1                        ‘‘(1) IN        GENERAL.—The                      Fund shall advance
+                                    2              the objectives set forth in subsection (b) by pro-
+                                    3              viding financial assistance for individual projects or
+                                    4              programs of related projects identified in State, re-
+                                    5              gional, or national plans and designed to signifi-
+                                    6              cantly improve national or regional economic com-
+                                    7              petitiveness.
+                                    8                        ‘‘(2) PROJECT              PORTFOLIO.—The                       Fund shall—
+                                    9                                 ‘‘(A) target projects or programs of related
+                                  10                         projects with a demonstrated difficulty in ob-
+                                  11                         taining complete financing through other avail-
+                                  12                         able public or private sources of funds, for rea-
+                                  13                         sons including project complexity, modes, or
+                                  14                         other comparable transactional barriers;
+                                  15                                  ‘‘(B) seek to identify appropriate Invest-
+                                  16                         ment Plans for selected projects and programs
+                                  17                         of projects; and
+                                  18                                  ‘‘(C) use Fund resources to build a port-
+                                  19                         folio of transformational investments that—
+                                  20                                         ‘‘(i) promotes greater efficiency in the
+                                  21                                  movement of freight or the provision of
+                                  22                                  services;
+                                  23                                         ‘‘(ii) promotes greater efficiency in the
+
+
+
+
+                                  24                                  movement of people;
+                                              •S 387 IS
+
+                                                                                         10
+                                    1                                        ‘‘(iii) integrates multiple transpor-
+                                    2                                 tation modes in the movement of pas-
+                                    3                                 sengers or freight;
+                                    4                                        ‘‘(iv) promotes the use of innovation
+                                    5                                 and best practices in the planning, design,
+                                    6                                 development, and delivery of projects, in-
+                                    7                                 cluding practices that promote perform-
+                                    8                                 ance-based decision making to achieve na-
+                                    9                                 tional, State, or regional objectives;
+                                  10                                         ‘‘(v) promotes cross-jurisdictional in-
+                                  11                                  frastructure planning and coinvestment
+                                  12                                  among a broad range of participants, in-
+                                  13                                  cluding States, tribal governments, munici-
+                                  14                                  palities, and public and private investors;
+                                  15                                  and
+                                  16                                         ‘‘(vi) integrates transportation infra-
+                                  17                                  structure investment planning, such as re-
+                                  18                                  gional transportation plans, with land-use
+                                  19                                  economic development and other infra-
+                                  20                                  structure Investment Plans.
+                                  21                         ‘‘(3) INVESTMENT                  PROSPECTUS.—
+
+                                  22                                  ‘‘(A) PUBLICATION.—Not later than 1
+                                  23                         year after the date of enactment of the Amer-
+
+
+
+
+                                  24                         ican Infrastructure Investment Fund Act, the
+                                              •S 387 IS
+
+                                                                                         11
+                                    1                        Fund shall publish a detailed description of its
+                                    2                        strategy in an Investment Prospectus that—
+                                    3                                        ‘‘(i) specifies what will be considered
+                                    4                                 significant to the economic competitiveness
+                                    5                                 of all or part of the United States in a
+                                    6                                 manner consistent with the primary objec-
+                                    7                                 tive set forth in subsection (b)(1);
+                                    8                                        ‘‘(ii) specifies the priorities and stra-
+                                    9                                 tegic focus of the Fund in—
+                                  10                                                   ‘‘(I) reaching the objectives set
+                                  11                                         forth in subsection (b); and
+                                  12                                                   ‘‘(II) carrying out the Fund
+                                  13                                         strategy described in this subsection;
+                                  14                                         ‘‘(iii) describes in detail—
+                                  15                                                   ‘‘(I) the framework and method-
+                                  16                                         ology for calculating the qualification
+                                  17                                         score             assigned                under       section
+                                  18                                         364(f)(3);
+                                  19                                                   ‘‘(II) the data to be requested
+                                  20                                         from applicants; and
+                                  21                                                   ‘‘(III) the formula to be applied
+                                  22                                         to such data to calculate the qualifica-
+                                  23                                         tion score;
+
+
+
+
+
+                                  24                                         ‘‘(iv) describes how selection criteria
+                                  25                                  will be applied by the Fund to determine
+
+
+                                              •S 387 IS
+
+                                                                                         12
+                                    1                                 the competitiveness of an application and
+                                    2                                 its qualification score relative to other cur-
+                                    3                                 rent applications and previously funded ap-
+                                    4                                 plications; and
+                                    5                                        ‘‘(v) describes how the qualification
+                                    6                                 score methodology and project selection
+                                    7                                 framework are consistent with maximizing
+                                    8                                 the Fund’s goals in urban and rural areas.
+                                    9                                 ‘‘(B) UPDATES.—Not later than 2 years
+                                  10                         after the original publication of the Investment
+                                  11                         Prospectus, and biennially thereafter, the Fund
+                                  12                         shall publish an updated Investment Pro-
+                                  13                         spectus.
+                                  14                                  ‘‘(C) APPROVAL.—The Fund may not pub-
+                                  15                         lish the Investment Prospectus or any subse-
+                                  16                         quent updates under subparagraph (B) until
+                                  17                         the Board has approved the Investment Pro-
+                                  18                         spectus by a majority vote.
+                                  19                         ‘‘(4) OPERATING                 GUIDANCE.—
+
+                                  20                                  ‘‘(A) PUBLICATION.—Not later than 1
+                                  21                         year after the date of enactment of the Amer-
+                                  22                         ican Infrastructure Investment Fund Act, the
+                                  23                         Fund shall establish and publish its Operating
+
+
+
+
+                                  24                         Guidance for the management of the Fund,
+                                  25                         which shall—
+
+
+                                              •S 387 IS
+
+                                                                                         13
+                                    1                                        ‘‘(i) establish general operating proce-
+                                    2                                 dures to be followed by the Fund in car-
+                                    3                                 rying out its authorities under this sub-
+                                    4                                 chapter;
+                                    5                                        ‘‘(ii) establish criteria, requirements,
+                                    6                                 and standards regarding the provisions of
+                                    7                                 various forms of assistance authorized
+                                    8                                 under this subchapter, including the var-
+                                    9                                 ious forms and terms of credit assistance
+                                  10                                  that are consistent with the requirements
+                                  11                                  under this subchapter;
+                                  12                                         ‘‘(iii) establish an application and
+                                  13                                  award process for Planning and Feasibility
+                                  14                                  Loans in accordance with the provisions
+                                  15                                  under this subchapter;
+                                  16                                         ‘‘(iv) establish disclosure and applica-
+                                  17                                  tion procedures for nominating or other-
+                                  18                                  wise proposing applications for project as-
+                                  19                                  sistance, either solicited or unsolicited, that
+                                  20                                  are consistent with the requirements under
+                                  21                                  this subchapter;
+                                  22                                         ‘‘(v) describe in detail the form and
+                                  23                                  timing of data and other information re-
+
+
+
+
+                                  24                                  quired of applicants in conjunction with
+                                              •S 387 IS
+
+                                                                                         14
+                                    1                                 consideration of an application for finan-
+                                    2                                 cial assistance under this subchapter; and
+                                    3                                        ‘‘(vi) establish a schedule of regular
+                                    4                                 time intervals for the submission for con-
+                                    5                                 sideration of sets of 1 or more Investment
+                                    6                                 Plans to the Board.
+                                    7                                 ‘‘(B) REVIEW                AND UPDATE.—The                  Fund
+                                    8                        shall periodically review, and may update, the
+                                    9                        Operating Guidance published under subpara-
+                                  10                         graph (A).
+                                  11                         ‘‘(5) RULEMAKING.—Paragraphs (3) and (4)
+                                  12               shall be carried out in accordance with the rule-
+                                  13               making procedures set forth in section 553 of title
+                                  14               5, United States Code.
+                                  15 ‘‘§ 363. Organizational structure and duties
+                                  16               ‘‘(a) EXECUTIVE DIRECTOR.—
+                                  17                         ‘‘(1) APPOINTMENT;                      AUTHORITY.—The                Presi-
+                                  18               dent shall appoint, by and with the advice and con-
+                                  19               sent of the Senate, an Executive Director, who shall
+                                  20               be the chief executive officer of the Fund, and shall
+                                  21               have such executive functions, powers, and duties as
+                                  22               set forth in this subchapter or prescribed by the
+                                  23               Board.
+
+
+
+
+
+                                  24                         ‘‘(2) SUPERVISION.—The Executive Director
+                                  25               shall be subject to the supervision and direction of
+
+
+                                              •S 387 IS
+
+                                                                                         15
+                                    1              the Secretary of Transportation, consistent with the
+                                    2              Executive Director’s duties under this subchapter
+                                    3              and other requirements set forth in the Operating
+                                    4              Guidance referred to in section 362(c)(4).
+                                    5                        ‘‘(3) QUALIFICATIONS.—The Executive Director
+                                    6              shall have demonstrated expertise in at least 2 of the
+                                    7              following 3 areas:
+                                    8                                 ‘‘(A) Economic analysis.
+                                    9                                 ‘‘(B) Project, public, or corporate finance.
+                                  10                                  ‘‘(C) Organizational management.
+                                  11                         ‘‘(4) TERM            OF SERVICE; VACANCY.—The                        Exec-
+                                  12               utive Director shall serve a 5-year term, which may
+                                  13               be renewed in accordance with paragraph (1). A va-
+                                  14               cancy in the position of Executive Director shall be
+                                  15               filled as expeditiously as possible in the manner in
+                                  16               which the original appointment was made.
+                                  17                         ‘‘(5) DUTIES.—In addition to the other activi-
+                                  18               ties required to carry out the authorities and pur-
+                                  19               poses of the Fund under this subchapter, the Execu-
+                                  20               tive Director shall—
+                                  21                                  ‘‘(A) be responsible for the day-to-day op-
+                                  22                         erations of the Fund;
+                                  23                                  ‘‘(B) establish and approve the Operating
+
+
+
+
+                                  24                         Guidance in accordance with section 362(c)(4);
+                                              •S 387 IS
+
+                                                                                         16
+                                    1                                 ‘‘(C) establish and maintain a project ap-
+                                    2                        plication origination capability at the Fund that
+                                    3                        consists of a staff of qualified transportation in-
+                                    4                        frastructure planning professionals;
+                                    5                                 ‘‘(D) establish and maintain an analysis
+                                    6                        capability at the Fund that consists of a staff
+                                    7                        of qualified economics professionals directed to
+                                    8                        collect application data, analyze that data, and
+                                    9                        report to the Executive Director on qualifica-
+                                  10                         tion scores and ranges, measures of uncer-
+                                  11                         tainty, and other analyses of applications;
+                                  12                                  ‘‘(E) establish and maintain an investment
+                                  13                         planning process capability at the Fund that
+                                  14                         consists of a staff of qualified project finance
+                                  15                         professionals directed to review qualified appli-
+                                  16                         cations and to structure Investment Plans; and
+                                  17                                  ‘‘(F) establish and maintain a technical as-
+                                  18                         sistance capability at the Fund that consists of
+                                  19                         a staff of qualified project management profes-
+                                  20                         sionals directed to assist those entities receiving
+                                  21                         funding from the Fund in the successful execu-
+                                  22                         tion of their Investment Plans and to otherwise
+                                  23                         implement the funding decisions of the Sec-
+
+
+
+
+                                  24                         retary.
+                                              •S 387 IS
+
+                                                                                         17
+                                    1                        ‘‘(6) OTHER              AUTHORITY.—The                        Executive Di-
+                                    2              rector shall have the authority to hire contractors to
+                                    3              establish and maintain the expertise as described in
+                                    4              paragraph (5).
+                                    5                        ‘‘(7) COMPENSATION.—The Executive Director
+                                    6              shall be a position compensated on the General Ex-
+                                    7              ecutive Schedule.
+                                    8              ‘‘(b) BOARD OF DIRECTORS.—
+                                    9                        ‘‘(1) ESTABLISHMENT.—There is established
+                                  10               within the Fund a deliberative body to be known as
+                                  11               the ‘Board of Directors’.
+                                  12                         ‘‘(2) MEMBERSHIP.—The Board shall be com-
+                                  13               posed of 8 members, including—
+                                  14                                  ‘‘(A) the Secretary of the Treasury, the
+                                  15                         Secretary of Commerce, the Secretary of En-
+                                  16                         ergy, the Secretary of Housing and Urban De-
+                                  17                         velopment, and the Administrator of the Envi-
+                                  18                         ronmental Protection Agency, who shall serve
+                                  19                         as permanent members; and
+                                  20                                  ‘‘(B) 3 executives of the Department of
+                                  21                         Transportation appointed by the Secretary, of
+                                  22                         whom—
+                                  23                                         ‘‘(i) not more than 1 shall serve con-
+
+
+
+
+                                  24                                  currently as—
+                                  25                                                   ‘‘(I) the Deputy Secretary;
+
+
+                                              •S 387 IS
+
+                                                                                         18
+                                    1                                                  ‘‘(II) the Under Secretary of
+                                    2                                        Transportation for Policy;
+                                    3                                                  ‘‘(III) the General Counsel;
+                                    4                                                  ‘‘(IV) the Chief Financial Officer;
+                                    5                                                  ‘‘(V) the Assistant Secretary of
+                                    6                                        Transportation for Policy; or
+                                    7                                                  ‘‘(VI) the Assistant Secretary of
+                                    8                                        Transportation                     for         Aviation   and
+                                    9                                        International Affairs; and
+                                  10                                         ‘‘(ii) not more than 2 shall serve for
+                                  11                                  not longer than 2 years, while concurrently
+                                  12                                  serving as—
+                                  13                                                   ‘‘(I) the Administrator of the
+                                  14                                         Federal Aviation Administration;
+                                  15                                                   ‘‘(II) the Administrator of the
+                                  16                                         Federal Highway Administration;
+                                  17                                                   ‘‘(III) the Administrator of the
+                                  18                                         Federal Railroad Administration;
+                                  19                                                   ‘‘(IV) the Administrator of the
+                                  20                                         Federal Transit Administration;
+                                  21                                                   ‘‘(V) the Administrator of the
+                                  22                                         Maritime Administration;
+                                  23                                                   ‘‘(VI) the Administrator of the
+
+
+
+
+                                  24                                         Pipeline and Hazardous Materials
+                                  25                                         Safety Administration; or
+
+
+                                              •S 387 IS
+
+                                                                                         19
+                                    1                                                  ‘‘(VII) the Administrator of the
+                                    2                                        Federal Motor Carrier Safety Admin-
+                                    3                                        istration.
+                                    4                        ‘‘(3) DUTIES.—The Board shall—
+                                    5                                 ‘‘(A) not later than 180 days after the date
+                                    6                        of enactment of the American Infrastructure
+                                    7                        Investment Fund Act, establish and approve the
+                                    8                        Investment Prospectus, in consultation with the
+                                    9                        Fund Advisory Committee;
+                                  10                                  ‘‘(B) on each biennial anniversary of its
+                                  11                         original publication, update the Investment Pro-
+                                  12                         spectus, in consultation with the Fund Advisory
+                                  13                         Committee;
+                                  14                                  ‘‘(C) review Investment Plans, related ap-
+                                  15                         plication materials, and other analyses provided
+                                  16                         to the Board by the Executive Director;
+                                  17                                  ‘‘(D) determine by majority vote whether
+                                  18                         or not to recommend Investment Plans sub-
+                                  19                         mitted by the Executive Director to the Sec-
+                                  20                         retary; and
+                                  21                                  ‘‘(E) certify reports to Congress and other
+                                  22                         publications of the Fund.
+                                  23                         ‘‘(4) MAJORITY                  VOTE REQUIRED.—Each                   action
+
+
+
+
+                                  24               or decision by the Board shall be by majority vote
+                                  25               of all members, whether in person or in absentia.
+
+
+                                              •S 387 IS
+
+                                                                                         20
+                                    1              Each member shall be provided a reasonable oppor-
+                                    2              tunity to vote on all matters before the Board.
+                                    3              ‘‘(c) FUND ADVISORY COMMITTEE.—
+                                    4                        ‘‘(1) ESTABLISHMENT.—Not later than 180
+                                    5              days after the date of enactment of the American
+                                    6              Infrastructure Investment Fund Act, the President
+                                    7              shall establish an advisory committee, to be known
+                                    8              as the ‘Fund Advisory Committee’.
+                                    9                        ‘‘(2) MEMBERSHIP.—
+                                  10                                  ‘‘(A) APPOINTMENT.—The President shall
+                                  11                         appoint not fewer than 5 people and not more
+                                  12                         than 7 people to serve 3-year terms as members
+                                  13                         of the Fund Advisory Committee, including 1
+                                  14                         member to serve as Chair of the Committee.
+                                  15                                  ‘‘(B)        QUALIFICATIONS.—Each                            member
+                                  16                         shall have expertise in—
+                                  17                                          ‘‘(i) economics and economic analysis;
+                                  18                                          ‘‘(ii) project or fund management;
+                                  19                                          ‘‘(iii) portfolio or fund management;
+                                  20                                          ‘‘(iv) organized labor interests;
+                                  21                                          ‘‘(v) environmental interests;
+                                  22                                          ‘‘(vi) American business and trade in-
+                                  23                                  terests;
+
+
+
+
+
+                                  24                                          ‘‘(vii) rural community and economic
+                                  25                                  development;
+
+
+                                              •S 387 IS
+
+                                                                                         21
+                                    1                                        ‘‘(viii) metropolitan economic develop-
+                                    2                                 ment and clustering of economic develop-
+                                    3                                 ment;
+                                    4                                        ‘‘(ix) State Department of Transpor-
+                                    5                                 tation or Metropolitan Planning Organiza-
+                                    6                                 tion policies and priorities; or
+                                    7                                        ‘‘(x) other infrastructure planning, re-
+                                    8                                 development,                 and           development-related
+                                    9                                 codes and policies.
+                                  10                                  ‘‘(C) REPRESENTATION.—The President
+                                  11                         shall ensure that the membership of the Fund
+                                  12                         Advisory Committee—
+                                  13                                         ‘‘(i) is bipartisan;
+                                  14                                         ‘‘(ii) is geographically and economi-
+                                  15                                  cally balanced; and
+                                  16                                         ‘‘(iii) is balanced in terms of the func-
+                                  17                                  tions to be performed by the Fund Advi-
+                                  18                                  sory Committee.
+                                  19                         ‘‘(3) ADVICE.—The Fund Advisory Committee
+                                  20               shall advise the Board and the Secretary with re-
+                                  21               spect to—
+                                  22                                  ‘‘(A) the alignment of the Investment Pro-
+                                  23                         spectus with the primary and secondary objec-
+
+
+
+
+                                  24                         tives, and other elements of the Fund strategy
+                                  25                         described in section 362(c);
+
+
+                                              •S 387 IS
+
+                                                                                         22
+                                    1                                 ‘‘(B) the alignment of the framework and
+                                    2                        methodology used to determine qualification
+                                    3                        scores and uncertainty estimates with the pri-
+                                    4                        mary objective, secondary objectives, and the
+                                    5                        Fund strategy;
+                                    6                                 ‘‘(C) the consistency of the calculation of
+                                    7                        qualification scores and uncertainty estimates
+                                    8                        with academic standards for analytical rigor
+                                    9                        and data quality typically applied to peer-re-
+                                  10                         viewed research;
+                                  11                                  ‘‘(D) the alignment of investment decision
+                                  12                         mechanics and outcomes with the Investment
+                                  13                         Prospectus and the requirements under this
+                                  14                         subchapter;
+                                  15                                  ‘‘(E) the integrity and effectiveness of
+                                  16                         Fund operations and performance, including
+                                  17                         application evaluation processes, Investment
+                                  18                         Plan processes and determinations, and the op-
+                                  19                         timization of the Fund’s performance as a port-
+                                  20                         folio; and
+                                  21                                  ‘‘(F) prospects for the extension of the
+                                  22                         Fund’s activities to nontransportation infra-
+                                  23                         structure sectors likely to benefit the United
+
+
+
+
+                                  24                         States, including renewable energy generation,
+                                  25                         energy transmission and storage, energy effi-
+
+
+                                              •S 387 IS
+
+                                                                                         23
+                                    1                        ciency, drinking water and wastewater systems,
+                                    2                        and telecommunications.
+                                    3                        ‘‘(4) APPLICABILITY                    OF FACA.—The                   Fund Ad-
+                                    4              visory Committee shall be subject to the Federal Ad-
+                                    5              visory Committee Act (5 U.S.C. App.).
+                                    6 ‘‘§ 364. Fund authorities and assistance
+                                    7              ‘‘(a) AGREEMENTS WITH OTHER ORGANIZATIONS.—
+                                    8 The Fund may—
+                                    9                        ‘‘(1) enter into an agreement with any organi-
+                                  10               zation within the Department of Transportation to
+                                  11               obtain necessary technical expertise and assistance;
+                                  12               and
+                                  13                         ‘‘(2) request any Federal agency to detail em-
+                                  14               ployees to the Fund for purposes of carrying out its
+                                  15               duties under this subchapter.
+                                  16               ‘‘(b) FEES FOR SERVICES.—
+                                  17                         ‘‘(1) ADMINISTRATIVE                        FEES.—The                 Fund may
+                                  18               establish and collect fees from eligible funding recipi-
+                                  19               ents, including application and processing fees and
+                                  20               other fees associated with the costs of loan servicing,
+                                  21               at a level sufficient to cover all or a portion of the
+                                  22               administrative costs to the Federal Government of
+                                  23               providing funding assistance and servicing the credit
+
+
+
+
+                                  24               instruments entered into under this subchapter.
+                                              •S 387 IS
+
+                                                                                         24
+                                    1                        ‘‘(2) OTHER              FEES.—The                Fund may establish
+                                    2              and collect fees from eligible funding recipients at a
+                                    3              level sufficient to cover all or a portion of the costs
+                                    4              of expert firms, including counsel in the field of mu-
+                                    5              nicipal and project finance, and financial advisors to
+                                    6              assist with underwriting, credit analysis, or other
+                                    7              independent reviews, as appropriate.
+                                    8                        ‘‘(3) LIMITATION.—The Fund may not collect
+                                    9              fees under paragraph (1) or (2) that originate as a
+                                  10               loan or a debt obligation guaranteed by the Federal
+                                  11               Government.
+                                  12                         ‘‘(4) AVAILABILITY                      OF       AMOUNTS.—Amounts
+                                  13               collected under paragraphs (1) and (2) shall be
+                                  14               available to be expended to carry out the duties
+                                  15               under this subchapter.
+                                  16               ‘‘(c) PLANNING AND FEASIBILITY LOANS.—
+                                  17                         ‘‘(1) IN         GENERAL.—The                      Fund may provide
+                                  18               loans, which may be forgivable, to eligible funding
+                                  19               recipients to fund activities related to the planning,
+                                  20               preparation, or design of an eligible project proposal,
+                                  21               including costs associated with—
+                                  22                                  ‘‘(A) planning and formulating optimal
+                                  23                         project design;
+
+
+
+
+
+                                  24                                  ‘‘(B) assessing project technical feasibility;
+                                  25                         and
+
+
+                                              •S 387 IS
+
+                                                                                         25
+                                    1                                 ‘‘(C) assessing potential project perform-
+                                    2                        ance.
+                                    3                        ‘‘(2) LOAN            PROGRAM CRITERIA.—In                            providing
+                                    4              loans under this subsection, the Fund shall give pri-
+                                    5              ority to activities that are likely to lead to projects
+                                    6              that—
+                                    7                                 ‘‘(A) advance the objectives set forth in
+                                    8                        section 362(b); and
+                                    9                                 ‘‘(B) are consistent with the strategy de-
+                                  10                         scribed in section 362(c).
+                                  11                         ‘‘(3) FEDERAL                   SHARE.—The               Fund may enter
+                                  12               into a loan agreement with an eligible recipient in
+                                  13               which the Fund agrees to pay up to 100 percent of
+                                  14               eligible planning and feasibility costs of an eligible
+                                  15               project under this subsection.
+                                  16                         ‘‘(4) ELIGIBLE              COSTS.—Loan                  amounts received
+                                  17               under this subsection may be used for—
+                                  18                                  ‘‘(A) any activity reasonably necessary to
+                                  19                         obtain Federal, State, and local permits, li-
+                                  20                         censes, and approvals for an eligible project, in-
+                                  21                         cluding—
+                                  22                                         ‘‘(i) concept development and prelimi-
+                                  23                                  nary design;
+
+
+
+
+
+                                  24                                         ‘‘(ii)          economic           and         environmental
+                                  25                                  analyses; and
+
+
+                                              •S 387 IS
+
+                                                                                         26
+                                    1                                        ‘‘(iii) application, licensing, and per-
+                                    2                                 mit fees; or
+                                    3                                 ‘‘(B) the preparation of financial analyses
+                                    4                        and other economic analyses that are reason-
+                                    5                        ably necessary to secure funding to implement
+                                    6                        an eligible project.
+                                    7                        ‘‘(5) ALIGNMENT                       WITH          INVESTMENT        PRO-
+                                    8              SPECTUS.—The                   Fund may not provide a loan for a
+                                    9              project under this subsection unless the application
+                                  10               materials demonstrate that the eligible project is
+                                  11               aligned with the strategy outlined in the Investment
+                                  12               Prospectus.
+                                  13                         ‘‘(6) DESIGNATION                    FOR RECEIPT OF CERTAIN
+                                  14               FUNDS.—If                a non-Federal governmental entity,
+                                  15               agency, or instrumentality is carrying out the plan-
+                                  16               ning and feasibility activities, the eligible funding re-
+                                  17               cipient may designate such entity, agency, or instru-
+                                  18               mentality to receive loan amounts for such activities
+                                  19               directly from the Fund.
+                                  20               ‘‘(d) DIRECT LOANS AND LOAN GUARANTEES.—
+                                  21                         ‘‘(1) DIRECT            LOANS.—
+
+                                  22                                  ‘‘(A) AGREEMENTS.—The Fund is author-
+                                  23                         ized to make direct loans to eligible funding re-
+
+
+
+
+                                  24                         cipients for eligible projects on such terms and
+                                  25                         conditions, and containing such covenants, rep-
+
+
+                                              •S 387 IS
+
+                                                                                         27
+                                    1                        resentations, warranties, and requirements, in-
+                                    2                        cluding required audits, as the Fund determines
+                                    3                        appropriate, in accordance with the provisions
+                                    4                        under this subchapter, the Operating Guidance,
+                                    5                        and all other statutory and regulatory require-
+                                    6                        ments.
+                                    7                                 ‘‘(B) APPROVED                     INVESTMENT PLAN.—Di-
+                                    8                        rect loans made under this paragraph—
+                                    9                                        ‘‘(i) may only be used to fund eligible
+                                  10                                  project costs covered in an Investment
+                                  11                                  Plan approved by the Secretary; and
+                                  12                                         ‘‘(ii) are subject to the terms and con-
+                                  13                                  ditions of the approved Investment Plan.
+                                  14                                  ‘‘(C) TERMS,                CONDITIONS, AND LIMITA-
+                                  15                         TIONS.—Direct                   loans made under this para-
+                                  16                         graph will be on such terms, conditions, and
+                                  17                         limitations as the Executive Director may pre-
+                                  18                         scribe, except that—
+                                  19                                         ‘‘(i) the Fund may not provide credit
+                                  20                                  assistance to any prospective borrower un-
+                                  21                                  less such assistance—
+                                  22                                                   ‘‘(I) is necessary—
+                                  23                                                            ‘‘(aa) to alleviate a credit
+
+
+
+
+                                  24                                                   market imperfection; or
+                                              •S 387 IS
+
+                                                                                         28
+                                    1                                                           ‘‘(bb) to achieve specified
+                                    2                                                  Federal objectives by providing
+                                    3                                                  credit assistance; and
+                                    4                                                  ‘‘(II) is the most efficient way to
+                                    5                                        meet such objectives on a borrower-
+                                    6                                        by-borrower basis;
+                                    7                                        ‘‘(ii) loans made under this paragraph
+                                    8                                 may not be subordinated to other debt con-
+                                    9                                 tracted by the borrower or any other
+                                  10                                  claims against the borrower in case of de-
+                                  11                                  fault unless such subordination is nec-
+                                  12                                  essary to achieve Federal objectives, con-
+                                  13                                  sistent with the criteria and policies set
+                                  14                                  forth in the Operating Guidance;
+                                  15                                         ‘‘(iii) direct loans or interest supple-
+                                  16                                  ments on loan guarantees shall be at an in-
+                                  17                                  terest rate that is set by reference to a
+                                  18                                  benchmark interest rate (yield) on market-
+                                  19                                  able Treasury securities with a similar ma-
+                                  20                                  turity to the direct loans being made or the
+                                  21                                  non-Federal loans being guaranteed, and
+                                  22                                  includes any necessary credit risk premium
+                                  23                                  at a level consistent with the interest rate
+
+
+
+
+                                  24                                  policy set forth in the Operating Guidance;
+                                  25                                         ‘‘(iv) the Executive Director—
+
+
+                                              •S 387 IS
+
+                                                                                         29
+                                    1                                                  ‘‘(I)        shall         prescribe        explicit
+                                    2                                        standards for use in periodically as-
+                                    3                                        sessing the credit risk of new and ex-
+                                    4                                        isting direct loans and guaranteed
+                                    5                                        loans; and
+                                    6                                                  ‘‘(II) may not extend credit as-
+                                    7                                        sistance            without            determining       that
+                                    8                                        there is a reasonable assurance of re-
+                                    9                                        payment;
+                                  10                                         ‘‘(v) new direct loans may not be obli-
+                                  11                                  gated and new loan guarantees may not be
+                                  12                                  committed except to the extent that appro-
+                                  13                                  priations of budget authority to cover their
+                                  14                                  costs are made in advance, as required
+                                  15                                  under section 504 of the Federal Credit
+                                  16                                  Reform Act of 1990 (2 U.S.C. 661c);
+                                  17                                         ‘‘(vi) the total principal amount of the
+                                  18                                  direct loan or loan guarantee may not ex-
+                                  19                                  ceed—
+                                  20                                                   ‘‘(I) the lower of 70 percent of
+                                  21                                         total eligible project cost less the per-
+                                  22                                         centage of eligible project costs that
+                                  23                                         are otherwise funded by the Fund; or
+
+
+
+
+
+                                  24                                                   ‘‘(II) another level prescribed in
+                                  25                                         the Operating Guidance; and
+
+
+                                              •S 387 IS
+
+                                                                                         30
+                                    1                                        ‘‘(vii) notwithstanding any other pro-
+                                    2                                 vision of law relating to the acquisition,
+                                    3                                 handling, or disposal of property by the
+                                    4                                 Federal Government, the Fund may com-
+                                    5                                 plete, recondition, reconstruct, renovate,
+                                    6                                 repair, maintain, operate, or sell any prop-
+                                    7                                 erty acquired by the Fund under this sub-
+                                    8                                 chapter.
+                                    9                                 ‘‘(D) REPAYMENT.—
+                                  10                                         ‘‘(i) POLICIES.—The Fund shall—
+                                  11                                                   ‘‘(I) adhere to the policies set
+                                  12                                         forth in the Operating Guidance con-
+                                  13                                         cerning repayment terms; and
+                                  14                                                   ‘‘(II) establish repayment terms
+                                  15                                         for each direct loan based on the pro-
+                                  16                                         jected cash flow from project revenues
+                                  17                                         or other repayment sources.
+                                  18                                         ‘‘(ii) MATURITY                 DATE.—The             final ma-
+                                  19                                  turity date of a direct loan under this
+                                  20                                  paragraph—
+                                  21                                                   ‘‘(I) shall not exceed 90 percent
+                                  22                                         of the estimated useful economic life
+                                  23                                         of the asset being financed, except
+
+
+
+
+                                  24                                         under conditions set forth in the Op-
+                                  25                                         erating Guidance; and
+
+
+                                              •S 387 IS
+
+                                                                                         31
+                                    1                                                  ‘‘(II) may not be later than the
+                                    2                                        estimated useful economic life of the
+                                    3                                        asset being financed.
+                                    4                                 ‘‘(E) RISK             ASSESSMENT.—Before                    entering
+                                    5                        in any agreement under this section, the Execu-
+                                    6                        tive Director shall complete a risk assessment
+                                    7                        of the project to be funded. Requirements for
+                                    8                        risk assessment shall be outlined in the Oper-
+                                    9                        ating Guidance.
+                                  10                         ‘‘(2) LOAN           GUARANTEES.—
+
+                                  11                                  ‘‘(A) IN        GENERAL.—The                     Fund is author-
+                                  12                         ized to provide loan guarantees to eligible fund-
+                                  13                         ing recipients on such terms and conditions and
+                                  14                         containing             such         covenants,             representations,
+                                  15                         warranties, and requirements (including re-
+                                  16                         quired audits) as the Fund determines appro-
+                                  17                         priate, in accordance with the provisions under
+                                  18                         this subchapter, the Operating Guidance, and
+                                  19                         all other statutory and regulatory requirements.
+                                  20                                  ‘‘(B) APPROVED                      INVESTMENT               PLAN.—
+                                  21                         Loan guarantees provided under this para-
+                                  22                         graph—
+                                  23                                         ‘‘(i) may only cover eligible project
+
+
+
+
+                                  24                                  costs in an approved Investment Plan; and
+                                              •S 387 IS
+
+                                                                                         32
+                                    1                                        ‘‘(ii) are subject to the terms and con-
+                                    2                                 ditions of the approved Investment Plan.
+                                    3                                 ‘‘(C) TERMS,                CONDITIONS, AND LIMITA-
+                                    4                        TIONS.—
+                                    5                                        ‘‘(i) IN        GENERAL.—The                     terms, condi-
+                                    6                                 tions, and limitations of a guaranteed loan
+                                    7                                 shall comply with the terms, conditions,
+                                    8                                 and limitations set forth in paragraph (1)
+                                    9                                 for a direct loan, including maximum Fund
+                                  10                                  share requirements, except that the inter-
+                                  11                                  est rate on the guaranteed loan and any
+                                  12                                  repayment features shall be negotiated be-
+                                  13                                  tween the eligible funding recipient and the
+                                  14                                  lender in accordance with the policies set
+                                  15                                  forth in the Operating Guidance, and with
+                                  16                                  the consent of the Secretary.
+                                  17                                         ‘‘(ii) INCOME                   EXCLUDED.—A              loan
+                                  18                                  may not be guaranteed under this para-
+                                  19                                  graph if—
+                                  20                                                   ‘‘(I) the income from such loan is
+                                  21                                         excluded from gross income for the
+                                  22                                         purposes of chapter 1 of the Internal
+                                  23                                         Revenue Code of 1986; or
+
+
+
+
+
+                                  24                                                   ‘‘(II) the guarantee provides sig-
+                                  25                                         nificant collateral or security, as de-
+
+
+                                              •S 387 IS
+
+                                                                                         33
+                                    1                                        termined by the Executive Director,
+                                    2                                        for other obligations generating in-
+                                    3                                        come that is similarly excluded.
+                                    4                                        ‘‘(iii) FEES.—Fees or premiums for a
+                                    5                                 loan guarantee or insurance coverage shall
+                                    6                                 be set at levels that minimize the cost to
+                                    7                                 the Government (as defined in section
+                                    8                                 502(5) of the Federal Credit Reform Act
+                                    9                                 of 1990 (2 U.S.C. 661a(5))) of such cov-
+                                  10                                  erage, while supporting achievement of the
+                                  11                                  program’s objectives, in accordance with
+                                  12                                  policies set forth in the Operating Guid-
+                                  13                                  ance.
+                                  14                                         ‘‘(iv)          PERCENT                GUARANTEED.—A
+                                  15                                  loan guarantee under this paragraph may
+                                  16                                  not exceed 80 percent of the loss of the
+                                  17                                  loan. Borrowers who pose less of a risk
+                                  18                                  shall receive a lower guarantee as a per-
+                                  19                                  centage of the loan amount.
+                                  20                                         ‘‘(v) CRITERIA.—A loan may not be
+                                  21                                  guaranteed under this paragraph unless
+                                  22                                  the Executive Director determines that—
+                                  23                                                   ‘‘(I) the lender is responsible;
+
+
+
+
+                                  24                                         and
+                                              •S 387 IS
+
+                                                                                         34
+                                    1                                                  ‘‘(II) adequate provision is made
+                                    2                                        for servicing the loan on reasonable
+                                    3                                        terms.
+                                    4                                        ‘‘(vi) CONCLUSIVE                        EVIDENCE.—Any
+                                    5                                 guarantee shall be conclusive evidence
+                                    6                                 that—
+                                    7                                                  ‘‘(I) such guarantee has been
+                                    8                                        properly obtained;
+                                    9                                                  ‘‘(II) the underlying loan quali-
+                                  10                                         fied for such guarantee; and
+                                  11                                                   ‘‘(III) such guarantee is pre-
+                                  12                                         sumed to be valid, legal, and enforce-
+                                  13                                         able, unless such guarantee was ob-
+                                  14                                         tained through fraud or material mis-
+                                  15                                         representation by the holder.
+                                  16                                         ‘‘(vii) EFFECT                OF DEFAULT.—If,         as a
+                                  17                                  result of a default by a borrower under a
+                                  18                                  guaranteed loan, after the holder of the
+                                  19                                  loan has made such further collection ef-
+                                  20                                  forts and instituted such enforcement pro-
+                                  21                                  ceedings as the Executive Director may re-
+                                  22                                  quire, the Executive Director determines
+                                  23                                  that the holder has suffered a loss, the Ex-
+
+
+
+
+                                  24                                  ecutive Director—
+                                              •S 387 IS
+
+                                                                                         35
+                                    1                                                  ‘‘(I) shall pay to the holder not
+                                    2                                        more than 80 percent of such loss, as
+                                    3                                        specified in the guarantee contract;
+                                    4                                                  ‘‘(II) upon making such payment,
+                                    5                                        shall be subrogated to all the rights of
+                                    6                                        the recipient of the payment; and
+                                    7                                                  ‘‘(III) shall be entitled to recover
+                                    8                                        from the borrower the amount of any
+                                    9                                        payments made pursuant to any guar-
+                                  10                                         antee entered into under this para-
+                                  11                                         graph.
+                                  12                                         ‘‘(viii) ENFORCEMENT.—The Attorney
+                                  13                                  General shall take such action as may be
+                                  14                                  appropriate to enforce any right accruing
+                                  15                                  to the United States as a result of the
+                                  16                                  issuance of any loan guarantee under this
+                                  17                                  paragraph.
+                                  18                                         ‘‘(ix) SAVINGS                   PROVISION.—Nothing
+                                  19                                  in this paragraph may be construed to pre-
+                                  20                                  clude any forbearance for the benefit of the
+                                  21                                  borrower, which may be agreed upon by
+                                  22                                  the Executive Director, if budget authority
+                                  23                                  for any resulting modification cost (as de-
+
+
+
+
+                                  24                                  fined under section 502 of the Congres-
+                                              •S 387 IS
+
+                                                                                         36
+                                    1                                 sional Budget Act of 1974 (2 U.S.C.
+                                    2                                 661a)) is available.
+                                    3                                 ‘‘(D) REPAYMENT.—The Fund shall ad-
+                                    4                        here to policies set forth in the Operating Guid-
+                                    5                        ance concerning repayment terms and shall es-
+                                    6                        tablish repayment terms for each direct loan
+                                    7                        based on the projected cash flow from project
+                                    8                        revenues or other repayment sources.
+                                    9                                 ‘‘(E) RISK               ASSESSMENT.—Requirements
+                                  10                         for risk assessment shall be outlined in the Op-
+                                  11                         erating Guidance.
+                                  12               ‘‘(e) APPLICATION EVALUATION                                      AND           QUALIFICA-
+                                  13      TION.—
+
+                                  14                         ‘‘(1) APPLICATION                     ELIGIBILITY STANDARD.—
+                                  15               An application for financial assistance from the
+                                  16               Fund may not be considered unless—
+                                  17                                  ‘‘(A)       funding            recipient              or      recipients,
+                                  18                         project or program of related projects, and as-
+                                  19                         sociated project costs identified in the applica-
+                                  20                         tion are eligible for such funding under this
+                                  21                         subchapter;
+                                  22                                  ‘‘(B) eligible project costs identified in the
+                                  23                         application—
+
+
+
+
+
+                                  24                                          ‘‘(i) are greater than $50,000,000; or
+
+
+
+
+                                              •S 387 IS
+
+                                                                                         37
+                                    1                                        ‘‘(ii) if the application is for a project
+                                    2                                 or program of related projects located en-
+                                    3                                 tirely in a rural area, are greater than
+                                    4                                 $10,000,000;
+                                    5                                 ‘‘(C) the application identifies financial as-
+                                    6                        sistance from sources outside of the Fund equal
+                                    7                        to at least 30 percent of the total eligible
+                                    8                        project costs;
+                                    9                                 ‘‘(D) the application identifies project ben-
+                                  10                         efits that are distributed broadly, either at a
+                                  11                         national or a regional level; and
+                                  12                                  ‘‘(E) the applicant is not ineligible to re-
+                                  13                         ceive Federal loans, loan guarantees, or insur-
+                                  14                         ance due to a delinquency on Federal tax or
+                                  15                         non-tax debts, including judgment liens against
+                                  16                         property for a debt to the Federal Government.
+                                  17                         ‘‘(2) RESOLUTION                   OF DEBTS.—The                      Fund shall
+                                  18               use credit bureaus as a screening tool and ask appli-
+                                  19               cants about delinquencies described in paragraph
+                                  20               (1)(E) on the application form. An application from
+                                  21               an applicant that is delinquent on a debt to the Fed-
+                                  22               eral Government may not be processed until after
+                                  23               the applicant satisfactorily resolves the debts in com-
+
+
+
+
+                                  24               pliance with section 3720B of title 31, United States
+                                              •S 387 IS
+
+                                                                                         38
+                                    1              Code, and section 285.13 of title 31, Code of Fed-
+                                    2              eral Regulations.
+                                    3                        ‘‘(3) QUALIFICATION                    SCORE.—
+
+                                    4                                 ‘‘(A) ASSIGNMENT.—The Fund shall as-
+                                    5                        sign to each eligible application a single numer-
+                                    6                        ical factor, which shall be—
+                                    7                                        ‘‘(i) based upon an evaluation of the
+                                    8                                 information and data collected from the
+                                    9                                 applicant or otherwise obtained in the
+                                  10                                  course of due diligence on the application;
+                                  11                                         ‘‘(ii) referred to as the ‘qualification
+                                  12                                  score’; and
+                                  13                                         ‘‘(iii) equal to the ratio between the
+                                  14                                  present value of benefits to the present
+                                  15                                  value of costs reasonably expected to result
+                                  16                                  from the funding of the project or projects
+                                  17                                  proposed in the application.
+                                  18                                  ‘‘(B) CALCULATION.—The calculation of
+                                  19                         the qualification score shall be determined
+                                  20                         through a consistently and transparently ap-
+                                  21                         plied analytic and systematic framework. In
+                                  22                         order to indicate the potential uncertainty of
+                                  23                         the qualification score, the Fund shall use a
+
+
+
+
+                                  24                         measure of the uncertainty of expected project
+                                  25                         benefits and costs to derive a range of ratio val-
+
+
+                                              •S 387 IS
+
+                                                                                         39
+                                    1                        ues with the qualification score as the midpoint
+                                    2                        of that range.
+                                    3                                 ‘‘(C) METHODOLOGY.—The methodology
+                                    4                        used to calculate the qualification score and un-
+                                    5                        certainty measures shall—
+                                    6                                        ‘‘(i) apply equal weighting to all meas-
+                                    7                                 ures of the net present value of benefits
+                                    8                                 and costs;
+                                    9                                        ‘‘(ii) include standardized measures of
+                                  10                                  the expected uncertainty in both total and
+                                  11                                  specific benefits and costs associated with
+                                  12                                  the project; and
+                                  13                                         ‘‘(iii) include a descriptive statement
+                                  14                                  delineating the significant factors and
+                                  15                                  analysis that went into determination of
+                                  16                                  the score and the range.
+                                  17                                  ‘‘(D) PUBLICATION.—
+                                  18                                         ‘‘(i) INVESTMENT                     PROSPECTUS.—The
+                                  19                                  methodology of the framework for calcu-
+                                  20                                  lating the qualification score, including the
+                                  21                                  specific mechanics of its calculation, shall
+                                  22                                  be published in the Investment Prospectus.
+                                  23                                         ‘‘(ii)          METHODOLOGY.—The                      quan-
+
+
+
+
+                                  24                                  tification score, the methodology used to
+                                  25                                  calculate the qualification score, the cal-
+
+
+                                              •S 387 IS
+
+                                                                                         40
+                                    1                                 culation of the qualification score, and the
+                                    2                                 measure of uncertainty shall be—
+                                    3                                                  ‘‘(I) provided to the applicant not
+                                    4                                        later than 15 days after their final de-
+                                    5                                        termination; and
+                                    6                                                  ‘‘(II) published on the Fund’s
+                                    7                                        website not later than 30 days after
+                                    8                                        their final determination.
+                                    9                        ‘‘(4) APPLICATION                  CERTIFICATION.—The                 Exec-
+                                  10               utive Director may not certify an application as
+                                  11               qualified for financial assistance on the basis of an
+                                  12               evaluation of the information and data collected
+                                  13               from the applicant unless the Executive Director de-
+                                  14               termines that the application’s qualification score—
+                                  15                                  ‘‘(A) has been calculated on the basis of
+                                  16                         data, estimates, and assumptions that are de-
+                                  17                         fensible according to accepted standards of eco-
+                                  18                         nomic analysis;
+                                  19                                  ‘‘(B) appears valid based on efforts by the
+                                  20                         Fund to conduct due diligence and verification;
+                                  21                                  ‘‘(C) is greater than the threshold for qual-
+                                  22                         ification published in the Investment Pro-
+                                  23                         spectus; and
+
+
+
+
+
+                                  24                                  ‘‘(D) is competitive with scores issued to
+                                  25                         applications currently under consideration and
+
+
+                                              •S 387 IS
+
+                                                                                         41
+                                    1                        scores issued to applications previously funded
+                                    2                        under this section, after taking into account the
+                                    3                        extent to which the application under consider-
+                                    4                        ation, in order of priority—
+                                    5                                        ‘‘(i) advances the objectives of the
+                                    6                                 Fund set forth in section 362(b);
+                                    7                                        ‘‘(ii) addresses a special infrastructure
+                                    8                                 investment challenge due to cost, com-
+                                    9                                 plexity, cross-jurisdictional scope, multi-
+                                  10                                  modal features, or the use of innovative
+                                  11                                  technologies;
+                                  12                                         ‘‘(iii) provides a cost-effective ap-
+                                  13                                  proach to achieving the benefits described
+                                  14                                  in the application relative to alternative ap-
+                                  15                                  proaches to achieving comparable benefits,
+                                  16                                  after taking into account the estimated un-
+                                  17                                  certainty in measures of costs and benefits
+                                  18                                  associated with the project;
+                                  19                                         ‘‘(iv) combines amounts received from
+                                  20                                  the Fund with other revenue sources to le-
+                                  21                                  verage substantial co-investment from non-
+                                  22                                  Federal sources;
+                                  23                                         ‘‘(v) delivers revenue streams from
+
+
+
+
+                                  24                                  public or private sources dedicated to pay
+                                  25                                  debt service, meet ongoing operating ex-
+
+
+                                              •S 387 IS
+
+                                                                                         42
+                                    1                                 penses, or provide for needed maintenance
+                                    2                                 and capital renewal over the life cycle of
+                                    3                                 the funded asset; and
+                                    4                                        ‘‘(vi) encourages the use of innovative
+                                    5                                 procurement, asset management, or financ-
+                                    6                                 ing to optimize the all-in-life-cycle cost-ef-
+                                    7                                 fectiveness of a project.
+                                    8              ‘‘(f) INVESTMENT PLANS.—
+                                    9                        ‘‘(1)        QUALIFIED                  APPLICATION                   REQUIRE-
+                                  10               MENT.—After                an application is certified by the Ex-
+                                  11               ecutive Director as qualified under subsection (e)(4),
+                                  12               the Executive Director and the applicant shall enter
+                                  13               a process for producing a mutually agreeable Invest-
+                                  14               ment Plan. Financial assistance may not be provided
+                                  15               to an applicant under this section unless the appli-
+                                  16               cant’s Investment Plan has been recommended by
+                                  17               the Board and approved by the Secretary.
+                                  18                         ‘‘(2) INVESTMENT                     PLANNING PROCESS.—The
+                                  19               Fund shall establish an investment planning process
+                                  20               for determining the level, form, and terms of finan-
+                                  21               cial assistance to be offered by the Fund, including
+                                  22               a mutually agreeable financing package that—
+                                  23                                  ‘‘(A) is adequate to fund the project or
+
+
+
+
+                                  24                         projects included in the application;
+                                              •S 387 IS
+
+                                                                                         43
+                                    1                                 ‘‘(B) maximizes total expected project ben-
+                                    2                        efits relative to total expected costs; and
+                                    3                                 ‘‘(C) considers the portion of total costs to
+                                    4                        be financed by the Fund.
+                                    5                        ‘‘(3) CONSIDERATIONS.—When considering the
+                                    6              appropriate level and form of Fund resources to in-
+                                    7              clude in an Investment Plan, the Fund shall—
+                                    8                                 ‘‘(A)       consider               the      qualification     score
+                                    9                        achieved by the application relative to other
+                                  10                         current applications and previously funded ap-
+                                  11                         plications;
+                                  12                                  ‘‘(B) strive to make investment plan deci-
+                                  13                         sions on the basis of maximizing total net bene-
+                                  14                         fits relative to cost; and
+                                  15                                  ‘‘(C) consider—
+                                  16                                          ‘‘(i) the amount of Fund budgetary
+                                  17                                  resources required to complete a financing
+                                  18                                  package;
+                                  19                                          ‘‘(ii) the percentage of Federal re-
+                                  20                                  sources included in the Investment Plan in
+                                  21                                  the form of grants;
+                                  22                                          ‘‘(iii) the level of certainty of the pro-
+                                  23                                  posed net benefits, including the risks to
+
+
+
+
+                                  24                                  the Federal taxpayer and the project spon-
+                                              •S 387 IS
+
+                                                                                         44
+                                    1                                 sor in the event of project cost overrun or
+                                    2                                 failure; and
+                                    3                                        ‘‘(iv) the percentage of eligible project
+                                    4                                 costs to be funded through non-Federal re-
+                                    5                                 sources pledged by the applicant to com-
+                                    6                                 plete a financing package.
+                                    7                        ‘‘(4) INVESTMENT                   PLANS.—As                   part of the in-
+                                    8              vestment planning process—
+                                    9                                 ‘‘(A) the Fund shall have the sole discre-
+                                  10                         tion to determine the terms of assistance to be
+                                  11                         offered to applicants, subject to the provisions
+                                  12                         under this subchapter, the availability of fund-
+                                  13                         ing, and any other statutory and regulatory re-
+                                  14                         quirements;
+                                  15                                  ‘‘(B) if the Fund and the applicant are
+                                  16                         able to reach mutually agreeable terms, the
+                                  17                         Fund shall record the determination on Fund
+                                  18                         assistance and the details of the complete fi-
+                                  19                         nancing package in an Investment Plan;
+                                  20                                  ‘‘(C) the Fund may not approve an Invest-
+                                  21                         ment Plan that does not identify a complete fi-
+                                  22                         nancing package; and
+                                  23                                  ‘‘(D) the Fund is not required or com-
+
+
+
+
+                                  24                         pelled to reach agreement on an Investment
+                                  25                         Plan.
+
+
+                                              •S 387 IS
+
+                                                                                         45
+                                    1                        ‘‘(5) SUBMISSION                   TO BOARD.—The                      Executive
+                                    2              Director shall advance Investment Plans for quali-
+                                    3              fied applications to the Board at regular submission
+                                    4              intervals, as set forth in the Operating Guidance.
+                                    5                        ‘‘(6) CONFLICT                  OF INTEREST PROTECTIONS.—
+                                    6              The Secretary of Transportation and the Fund shall
+                                    7              jointly establish, in operating procedures and in the
+                                    8              Operating Guidance, communications practices and
+                                    9              compliance procedures that protect professional staff
+                                  10               of the Fund who are responsible for negotiating In-
+                                  11               vestment Plans from outside or otherwise inappro-
+                                  12               priate influence, and conflicts of interest, including
+                                  13               necessary restrictions on communications between
+                                  14               staff of the Fund who are responsible for the invest-
+                                  15               ment planning process and individuals and organiza-
+                                  16               tions within and outside the Department of Trans-
+                                  17               portation, including—
+                                  18                                  ‘‘(A) the Board;
+                                  19                                  ‘‘(B) the Office of the Secretary;
+                                  20                                  ‘‘(C) the Secretary; and
+                                  21                                  ‘‘(D) others needed to safeguard the ability
+                                  22                         of the Fund to fairly and independently formu-
+                                  23                         late Investment Plans under this subsection.
+
+
+
+
+
+                                  24               ‘‘(g) FUNDING DECISIONS.—
+
+
+
+
+                                              •S 387 IS
+
+                                    1                        ‘‘(1) INVESTMENT        46         PLAN SUBMISSION REQUIRE-
+                                    2              MENT.—The                Board may not consider recommending
+                                    3              an application for funding before receiving an In-
+                                    4              vestment Plan from the Executive Director.
+                                    5                        ‘‘(2) APPLICATION                       FUNDING                RECOMMENDA-
+                                    6              TION.—Not              later than 15 days after receiving an In-
+                                    7              vestment Plan from the Executive Director, the
+                                    8              Board shall—
+                                    9                                 ‘‘(A) vote on whether to recommend fund-
+                                  10                         ing for the Investment Plan;
+                                  11                                  ‘‘(B) notify the Secretary of the outcome
+                                  12                         of such vote; and
+                                  13                                  ‘‘(C) if funding is recommended, forward
+                                  14                         the Investment Plan to the Secretary for ap-
+                                  15                         proval.
+                                  16                         ‘‘(3) NO             MODIFICATION.—Neither                            the Board
+                                  17               nor the Secretary may modify any Investment Plan.
+                                  18                         ‘‘(4) FUNDING              CONSIDERATION.—
+
+                                  19                                  ‘‘(A) DETERMINATION.—After considering
+                                  20                         an Investment Plan recommended by the
+                                  21                         Board, the Secretary shall approve or reject the
+                                  22                         Investment Plan.
+                                  23                                  ‘‘(B) APPROVAL.—If the Investment Plan
+
+
+
+
+                                  24                         is approved by the Secretary, it shall be funded
+                                              •S 387 IS
+
+                                                                                         47
+                                    1                        in accordance with the provisions of the Invest-
+                                    2                        ment Plan.
+                                    3                                 ‘‘(C) REJECTION.—If the Investment Plan
+                                    4                        is rejected by the Secretary, the Investment
+                                    5                        Plan—
+                                    6                                        ‘‘(i) shall be returned to the Executive
+                                    7                                 Director with a detailed justification for
+                                    8                                 rejecting the Investment Plan, which shall
+                                    9                                 be forwarded to the applicant; and
+                                  10                                         ‘‘(ii) may be reconsidered by the Fund
+                                  11                                  not earlier than 1 year after such date of
+                                  12                                  return.
+                                  13               ‘‘(h) PROJECT SPONSORSHIP; PUBLIC BENEFIT
+                                  14 ANALYSIS; LEGAL COMPLIANCE.—
+                                  15                         ‘‘(1) COMPLIANCE                  WITH APPLICABLE LAWS.—
+
+                                  16                                  ‘‘(A) IN         GENERAL.—Subject                        to subpara-
+                                  17                         graphs (B) and (C), the Fund shall determine
+                                  18                         which requirements under this title or title 23
+                                  19                         shall be applicable to projects receiving financial
+                                  20                         assistance under this subchapter that would
+                                  21                         otherwise be eligible for financial assistance
+                                  22                         under such titles.
+                                  23                                  ‘‘(B) LABOR            STANDARDS.—
+                                  24                                         ‘‘(i) IN         GENERAL.—All                    laborers and
+                                  25                                  mechanics employed on projects assisted in
+
+
+                                              •S 387 IS
+
+                                                                                         48
+                                    1                                 whole or in part by and through the Fund
+                                    2                                 pursuant to this subchapter shall be paid
+                                    3                                 wages at rates not less than those pre-
+                                    4                                 vailing on projects of a character similar in
+                                    5                                 the locality as determined by the Secretary
+                                    6                                 of Labor in accordance with subchapter IV
+                                    7                                 of chapter 31 of title 40.
+                                    8                                        ‘‘(ii) AUTHORITY;                    FUNCTIONS.—With
+                                    9                                 respect to the labor standards specified in
+                                  10                                  this subparagraph, the Secretary of Labor
+                                  11                                  shall have the authority and functions set
+                                  12                                  forth in Reorganization Plan Numbered 14
+                                  13                                  of 1950 (64 Stat. 1267; 5 U.S.C. App.)
+                                  14                                  and section 3145 of title 40, United States
+                                  15                                  Code.
+                                  16                                         ‘‘(iii)               REQUIREMENTS.—Projects
+                                  17                                  funded directly by or assisted in whole or
+                                  18                                  in part by and through the Fund pursuant
+                                  19                                  to this subchapter shall be subject to the
+                                  20                                  requirements of section 5333(b) of title 49,
+                                  21                                  United States Code.
+                                  22                                  ‘‘(C) PLANNING                      AND         ENVIRONMENTAL
+                                  23                         LAWS.—A              project that receives financial assist-
+
+
+
+
+                                  24                         ance under this subchapter shall comply with—
+                                              •S 387 IS
+
+                                                                                         49
+                                    1                                        ‘‘(i) the applicable planning and pro-
+                                    2                                 gramming requirements under section 134
+                                    3                                 and 135 of title 23; and
+                                    4                                        ‘‘(ii) all applicable environmental laws
+                                    5                                 and requirements, including the National
+                                    6                                 Environmental Policy Act of 1969 (42
+                                    7                                 U.S.C. 4321 et seq.) and the National His-
+                                    8                                 toric Preservation Act of 1966 (16 U.S.C.
+                                    9                                 470 et seq.).
+                                  10                         ‘‘(2) LEAD           AGENCY.—
+
+                                  11                                  ‘‘(A) IN         GENERAL.—The                         Department of
+                                  12                         Transportation shall be the Federal lead agency
+                                  13                         in the environmental review process for a
+                                  14                         project that receives financial assistance under
+                                  15                         this subchapter. Subject to subparagraphs (B)
+                                  16                         through (D), the Secretary of Transportation
+                                  17                         may delegate this responsibility to an operating
+                                  18                         administration.
+                                  19                                  ‘‘(B) JOINT               LEAD FEDERAL AGENCY.—
+                                  20                         Nothing in this paragraph precludes another
+                                  21                         Federal agency from being a joint lead agency
+                                  22                         in accordance with the regulations adopted by
+                                  23                         the President’s Council on Environmental Qual-
+
+
+
+
+                                  24                         ity.
+                                              •S 387 IS
+
+                                                                                         50
+                                    1                                 ‘‘(C) JOINT            LEAD STATE AGENCY.—A                  non-
+                                    2                        Federal government entity, agency, or instru-
+                                    3                        mentality receiving funds under this subchapter
+                                    4                        may—
+                                    5                                        ‘‘(i) serve as a joint lead agency with
+                                    6                                 the Department of Transportation under
+                                    7                                 the National Environmental Policy Act of
+                                    8                                 1969 (42 U.S.C. 4321 et seq.); and
+                                    9                                        ‘‘(ii) at the discretion of the lead Fed-
+                                  10                                  eral agency, prepare any environmental
+                                  11                                  document required in support of the
+                                  12                                  project if the lead Federal agency—
+                                  13                                                   ‘‘(I) furnishes guidance in such
+                                  14                                         preparation; and
+                                  15                                                   ‘‘(II) independently evaluates, ap-
+                                  16                                         proves, and adopts the State or local
+                                  17                                         government’s                   environmental          docu-
+                                  18                                         mentation before taking any action on
+                                  19                                         the project.
+                                  20                                  ‘‘(D) NONGOVERNMENTAL                                 FUNDING RE-
+                                  21                         CIPIENTS.—If              a project is undertaken by a non-
+                                  22                         governmental entity, the non-Federal govern-
+                                  23                         ment entity, agency, or instrumentality cospon-
+
+
+
+
+                                  24                         sor of the project shall—
+                                              •S 387 IS
+
+                                                                                         51
+                                    1                                         ‘‘(i) serve as a joint lead agency with
+                                    2                                 the Department of Transportation; and
+                                    3                                         ‘‘(i) have the authority to prepare the
+                                    4                                 environmental documents described in sub-
+                                    5                                 paragraph (C)(ii).
+                                    6                        ‘‘(3) DETERMINATION                         OF APPLICABLE MODAL
+                                    7              REQUIREMENTS.—If                          a project has cross-modal com-
+                                    8              ponents, the Fund may designate the specific re-
+                                    9              quirements that shall apply to the project.
+                                  10                         ‘‘(4) USE            OF AMERICAN IRON, STEEL, AND
+                                  11               MANUFACTURED GOODS.—
+                                  12                                  ‘‘(A) IN          GENERAL.—None                        of the funds
+                                  13                         made available under this subchapter may be
+                                  14                         used for a project for the construction, alter-
+                                  15                         ation, maintenance, or repair of a public build-
+                                  16                         ing or public work unless all of the iron, steel,
+                                  17                         and manufactured goods used in the project are
+                                  18                         produced in the United States.
+                                  19                                  ‘‘(B)         EXCEPTION.—Subparagraph                           (A)
+                                  20                         shall not apply in any case or category of cases
+                                  21                         in which the Secretary finds that—
+                                  22                                          ‘‘(i) applying subparagraph (A) would
+                                  23                                  be inconsistent with the public interest;
+
+
+
+
+
+                                  24                                          ‘‘(ii) iron, steel, and the relevant man-
+                                  25                                  ufactured goods are not produced in the
+
+
+                                              •S 387 IS
+
+                                                                                         52
+                                    1                                 United States in sufficient and reasonably
+                                    2                                 available quantities and of a satisfactory
+                                    3                                 quality; or
+                                    4                                         ‘‘(iii) inclusion of iron, steel, and man-
+                                    5                                 ufactured goods produced in the United
+                                    6                                 States will increase the cost of the overall
+                                    7                                 project by more than 25 percent.
+                                    8                                 ‘‘(C) PUBLICATION                      OF WAIVERS.—If        the
+                                    9                        Secretary determines that it is necessary to
+                                  10                         waive the application of subparagraph (A)
+                                  11                         based on a finding under subparagraph (B), the
+                                  12                         head of the department or agency shall publish
+                                  13                         in the Federal Register a detailed written jus-
+                                  14                         tification as to why the provision is being
+                                  15                         waived.
+                                  16                                  ‘‘(D)        INTERNATIONAL                       AGREEMENTS.—
+                                  17                         This paragraph shall be applied in a manner
+                                  18                         consistent with United States obligations under
+                                  19                         international agreements.
+                                  20               ‘‘(i) INVESTMENT-GRADE RATING REQUIREMENT.—
+                                  21 The Fund shall maintain a portfolio of projects whose av-
+                                  22 erage rating is not less than investment grade.
+                                  23 ‘‘§ 365. Studies and reports
+
+
+
+
+
+                                  24               ‘‘(a) ANNUAL FINANCIAL AUDITS.—
+
+
+
+
+                                              •S 387 IS
+
+                                                                                         53
+                                    1                        ‘‘(1) IN       GENERAL.—The                     Fund shall be subject
+                                    2              to an annual financial audit by an independent pub-
+                                    3              lic accounting firm selected by the Board to ensure
+                                    4              that its operations meet generally accepted account-
+                                    5              ing principles.
+                                    6                        ‘‘(2) DISSEMINATION.—The Fund shall—
+                                    7                                 ‘‘(A) submit the results of each audit
+                                    8                        under paragraph (1) to the Committee on Com-
+                                    9                        merce, Science, and Transportation of the Sen-
+                                  10                         ate and the Committee on Transportation and
+                                  11                         Infrastructure of the House of Representatives;
+                                  12                         and
+                                  13                                  ‘‘(B) post such audit results on the Fund’s
+                                  14                         website.
+                                  15               ‘‘(b) COMPTROLLER GENERAL REPORT.—
+                                  16                         ‘‘(1) IN         GENERAL.—Not                      later than 5 years
+                                  17               after the date of enactment of the American Infra-
+                                  18               structure Investment Fund Act, the Comptroller
+                                  19               General of the United States shall prepare and sub-
+                                  20               mit to the Committee on Commerce, Science, and
+                                  21               Transportation of the Senate and the Committee on
+                                  22               Transportation and Infrastructure in the House of
+                                  23               Representatives a report that evaluates the oper-
+
+
+
+
+                                  24               ations of the Fund and assesses the effectiveness of
+                                  25               the Fund at facilitating and financing infrastructure
+
+
+                                              •S 387 IS
+
+                                                                                         54
+                                    1              projects. The Comptroller General shall provide peri-
+                                    2              odic oversight and monitoring of the Fund as it is
+                                    3              established and report on such oversight, as agreed
+                                    4              to with the appropriate congressional committees.
+                                    5                        ‘‘(2) CONTENTS.—
+                                    6                                 ‘‘(A) IN       GENERAL.—The                    Comptroller Gen-
+                                    7                        eral shall review and include in the report under
+                                    8                        paragraph (1), at minimum, the following:
+                                    9                                        ‘‘(i) The type of projects selected and
+                                  10                                  financing used.
+                                  11                                         ‘‘(ii) The level of Federal funding pro-
+                                  12                                  vided to support the Fund and the projects
+                                  13                                  selected for funding.
+                                  14                                         ‘‘(iii) The level of private sector funds
+                                  15                                  that were contributed to specific projects.
+                                  16                                         ‘‘(iv) The process, criteria, and anal-
+                                  17                                  ysis used to select projects and how the
+                                  18                                  process, criteria, and analysis could be im-
+                                  19                                  proved.
+                                  20                                         ‘‘(v) The monitoring and evaluation
+                                  21                                  processes the Fund uses to determine if an
+                                  22                                  individual project is meeting its objectives.
+                                  23                                  ‘‘(B) CONSIDERATIONS.—The Government
+
+
+
+
+                                  24                         Accountability Office shall—
+                                              •S 387 IS
+
+                                                                                         55
+                                    1                                        ‘‘(i) analyze current trends in the fi-
+                                    2                                 nancing           infrastructure                 in      the   United
+                                    3                                 States;
+                                    4                                        ‘‘(ii) identify lessons the analysis
+                                    5                                 under clause (i) may imply for improve-
+                                    6                                 ments or modifications to the structure or
+                                    7                                 operations of the Fund;
+                                    8                                        ‘‘(iii) analyze the experiences of other
+                                    9                                 industrialized countries that have devel-
+                                  10                                  oped alternative forms of financing public
+                                  11                                  infrastructure; and
+                                  12                                         ‘‘(iv) identify lessons that the foreign
+                                  13                                  experiences under clause (iii) may have for
+                                  14                                  the operations and efficiency of the Fund.
+                                  15               ‘‘(c) BIENNIAL REPORT.—
+                                  16                         ‘‘(1) IN        GENERAL.—Every                        2 years after the
+                                  17               date of the enactment of the American Infrastruc-
+                                  18               ture Investment Fund Act, the Board, in consulta-
+                                  19               tion with the Director of the Office of Management
+                                  20               and Budget and the Fund Advisory Committee—
+                                  21                                  ‘‘(A) shall prepare a report that—
+                                  22                                         ‘‘(i) evaluates the Fund’s perform-
+                                  23                                  ance; and
+
+
+
+
+
+                                              •S 387 IS
+
+                                                                                         56
+                                    1                                        ‘‘(ii) includes an assessment of the
+                                    2                                 Fund as a model for infrastructure invest-
+                                    3                                 ment; and
+                                    4                                 ‘‘(B) may include a recommendation in the
+                                    5                        report under subparagraph (A) on whether to
+                                    6                        extend the Fund’s activities to nontransporta-
+                                    7                        tion infrastructure sectors likely to benefit the
+                                    8                        United States, including—
+                                    9                                        ‘‘(i) renewable energy generation;
+                                  10                                         ‘‘(ii) energy transmission and storage;
+                                  11                                         ‘‘(iii) energy efficiency;
+                                  12                                         ‘‘(iv) drinking water and wastewater
+                                  13                                  systems;
+                                  14                                         ‘‘(v) telecommunications; and
+                                  15                                         ‘‘(vi) other infrastructure activities.
+                                  16                         ‘‘(2) DISSEMINATION.—The Board shall—
+                                  17                                  ‘‘(A) submit the report prepared under
+                                  18                         paragraph (1) to the Committee on Commerce,
+                                  19                         Science, and Transportation of the Senate and
+                                  20                         the Committee on Transportation and Infra-
+                                  21                         structure of the House of Representatives; and
+                                  22                                  ‘‘(B) post the report on the Fund’s
+                                  23                         website.
+
+
+
+
+
+                                  24               ‘‘(d) INVESTMENT PLAN                          AND      DECISIONS.—Not later
+                                  25 than 90 days after the Board’s decision on an Investment
+
+
+                                              •S 387 IS
+
+                                                                                         57
+                                    1 Plan, the Fund Advisory Committee shall post a report
+                                    2 on the Fund’s website that assesses—
+                                    3                        ‘‘(1) the adherence of each funding decision to
+                                    4              the requirements of the Investment Prospectus, Op-
+                                    5              erating Guidance, and this subchapter;
+                                    6                        ‘‘(2) the consistency of funded applications with
+                                    7              the primary objective, the secondary objectives, the
+                                    8              Fund strategy, and the requirements under this sub-
+                                  109              chapter;  ‘‘(3) the validity of the qualification certifi-
+                                  11               cation of each funded application;
+                                  12                         ‘‘(4) the return on Federal investment likely to
+                                  13               result from each funded Investment Plan; and
+                                  14                         ‘‘(5) the return on total investment likely to re-
+                                  15               sult from each funded Investment Plan.’’.
+                                  16               (b) AUTHORIZATION OF APPROPRIATIONS.—
+                                  17                         (1) AMOUNTS              AUTHORIZED.—
+
+                                  18                                  (A) IN        GENERAL.—There                      is authorized to
+                                  19                         be appropriated to carry out subchapter IV of
+                                  20                         chapter 3 of title 49, United States Code, as
+                                  21                         added by subsection (a), $5,000,000,000 for
+                                  22                         each of fiscal years 2014 and 2015.
+                                  23                                  (B) AVAILABILITY                      OF FUNDS.—Amounts
+
+
+
+
+                                  24                         made available under subparagraph (A) shall
+                                  25                         remain available until expended.
+
+
+                                              •S 387 IS
+
+                                                                                         58
+                                    1                        (2)       ADMINISTRATIVE                        EXPENSES.—Of            the
+                                    2              amounts appropriated under paragraph (1), the
+                                    3              Fund may expend, to pay the reasonable costs of ad-
+                                    4              ministering such subchapter IV, inclusive of any fees
+                                    5              collected under such subchapter—
+                                    6                                 (A) not more than $50,000,000 in fiscal
+                                    7                        year 2014; and
+                                    8                                 (B) not more than $51,000,000 in fiscal
+                                    9                        year 2015.
+                                  10      SEC.         3.      NATIONAL                INFRASTRUCTURE                         INVESTMENT
+                                  11                               GRANTS.
+                                  12               (a) ESTABLISHMENT                         OF    PROGRAM.—Chapter 55 of
+                                  13 title 49, United States Code, is amended by adding at the
+                                  14 end the following:
+                                  15           ‘‘SUBCHAPTER III—FINANCIAL ASSISTANCE
+                                  16 ‘‘§ 5581. National infrastructure investment grants
+                                  17               ‘‘(a) ESTABLISHMENT                       OF    PROGRAM.—The Secretary
+                                  18 of Transportation shall establish a competitive grant pro-
+                                  19 gram to provide financial assistance for projects that will
+                                  20 have a significant impact on the Nation, a metropolitan
+                                  21 area, or a region.
+                                  22               ‘‘(b) ELIGIBLE PROJECTS.—An applicant is eligible
+                                  23 for a grant under this section for a project that is part
+
+
+
+
+                                  24 of, or related to, a transportation improvement, including
+                                  25 projects related to the construction or improvement of—
+
+
+                                              •S 387 IS
+
+                                                                                         59
+                                    1                        ‘‘(1) a passenger or freight rail line;
+                                    2                        ‘‘(2) a highway;
+                                    3                        ‘‘(3) a bridge;
+                                    4                        ‘‘(4) an airport;
+                                    5                        ‘‘(5) an air traffic control system;
+                                    6                        ‘‘(6) a port or marine facility;
+                                    7                        ‘‘(7) an inland waterway;
+                                    8                        ‘‘(8) a transmission or distribution pipeline;
+                                    9                        ‘‘(9) public transportation facilities or systems;
+                                  10                         ‘‘(10) intercity passenger bus or passenger rail
+                                  11               facilities or equipment;
+                                  12                         ‘‘(11) freight rail facilities or equipment; or
+                                  13                         ‘‘(12) planning, preparation, or design of any
+                                  14               project described in paragraphs (1) through (11).
+                                  15               ‘‘(c) PROJECT SELECTION CRITERIA.—In deter-
+                                  16 mining whether to award a grant to an eligible applicant
+                                  17 under this section, the Secretary shall consider the extent
+                                  18 to which the project—
+                                  19                         ‘‘(1) leverages Federal investment by encour-
+                                  20               aging non-Federal contributions to the project, in-
+                                  21               cluding contributions from public-private partner-
+                                  22               ships;
+                                  23                         ‘‘(2) improves the mobility of people, goods, and
+
+
+
+
+                                  24               commodities;
+                                              •S 387 IS
+
+                                                                                         60
+                                    1                        ‘‘(3) incorporates new and innovative tech-
+                                    2              nologies, including intelligent transportation sys-
+                                    3              tems;
+                                    4                        ‘‘(4) improves energy efficiency or reduces
+                                    5              greenhouse gas emissions;
+                                    6                        ‘‘(5) helps maintain or protect the environment,
+                                    7              including reducing air and water pollution;
+                                    8                        ‘‘(6) reduces congestion;
+                                    9                        ‘‘(7) improves the condition of transportation
+                                  10               infrastructure, including bringing it into a state of
+                                  11               good repair;
+                                  12                         ‘‘(8) improves safety, including reducing trans-
+                                  13               portation accidents, injuries, and fatalities;
+                                  14                         ‘‘(9) demonstrates that the proposed project
+                                  15               cannot be readily and efficiently realized without
+                                  16               Federal support and participation; and
+                                  17                         ‘‘(10) enhances national or regional economic
+                                  18               development, growth, and competitiveness.
+                                  19               ‘‘(d) PRIORITY.—The Secretary shall give priority to
+                                  20 projects that have the highest system performance im-
+                                  21 provement relative to their benefit-cost analysis.
+                                  22               ‘‘(e) LETTERS OF INTENT.—
+                                  23                         ‘‘(1) IN       GENERAL.—The                    Secretary may issue a
+
+
+
+
+                                  24               letter of intent to an applicant announcing an inten-
+                                  25               tion to obligate, for a major capital project under
+
+
+                                              •S 387 IS
+
+                                                                                         61
+                                    1              this subsection, an amount from future available
+                                    2              budget authority specified in law that is not more
+                                    3              than the amount stipulated as the financial partici-
+                                    4              pation of the Secretary in the project.
+                                    5                        ‘‘(2) NOTIFICATION.—Not later than 30 days
+                                    6              before issuing a letter under paragraph (1), the Sec-
+                                    7              retary shall submit written notification of the pro-
+                                    8              posed letter or agreement to the Committee on Com-
+                                    9              merce, Science, and Transportation of the Senate
+                                  10               and the Committee on Transportation and Infra-
+                                  11               structure of the House of Representatives, which
+                                  12               shall include—
+                                  13                                  ‘‘(A) a copy of the proposed letter or
+                                  14                         agreement;
+                                  15                                  ‘‘(B) the criteria used under subsection (c)
+                                  16                         for selecting the project for a grant award; and
+                                  17                                  ‘‘(C) a description of how the project meets
+                                  18                         such criteria.
+                                  19                         ‘‘(3) COMMITMENT.—An obligation or adminis-
+                                  20               trative commitment may be made only when
+                                  21               amounts are made available. The letter of intent
+                                  22               shall state that the contingent commitment is not an
+                                  23               obligation of the Federal Government, and is subject
+
+
+
+
+                                  24               to the availability of funds under Federal law and to
+                                              •S 387 IS
+
+                                                                                         62
+                                    1              Federal laws in force or enacted after the date of
+                                    2              the contingent commitment.
+                                    3              ‘‘(f) FEDERAL SHARE OF NET PROJECT COST.—
+                                    4                        ‘‘(1) IN         GENERAL.—The                     Federal share of a
+                                    5              grant for the project shall not exceed 80 percent of
+                                    6              the project net capital cost.
+                                    7                        ‘‘(2) ESTIMATE.—The Secretary shall estimate
+                                    8              the net project cost based on engineering studies,
+                                    9              studies of economic feasibility, and information on
+                                  10               the expected use of equipment or facilities.
+                                  11                         ‘‘(3) PRIORITY.—The Secretary shall give pri-
+                                  12               ority in allocating future obligations and contingent
+                                  13               commitments to incur obligations to grant requests
+                                  14               seeking a lower Federal share of the project net cap-
+                                  15               ital cost.
+                                  16               ‘‘(g) COOPERATIVE AGREEMENTS.—
+                                  17                         ‘‘(1) IN         GENERAL.—An                     applicant may enter
+                                  18               into an agreement with any public, private, or non-
+                                  19               profit entity to cooperatively implement any project
+                                  20               funded with a grant under this subchapter.
+                                  21                         ‘‘(2) FORMS             OF PARTICIPATION.—Participation
+                                  22               by an entity under paragraph (1) may consist of—
+                                  23                                  ‘‘(A) ownership or operation of any land,
+
+
+
+
+                                  24                         facility, vehicle, or other physical asset associ-
+                                  25                         ated with the project;
+
+
+                                              •S 387 IS
+
+                                                                                         63
+                                    1                                 ‘‘(B) cost-sharing of any project expense or
+                                    2                        non-Federal share of the project cost, including
+                                    3                        in-kind contributions;
+                                    4                                 ‘‘(C) carrying out administration, construc-
+                                    5                        tion management, project management, project
+                                    6                        operation, or any other management or oper-
+                                    7                        ational duty associated with the project; and
+                                    8                                 ‘‘(D) any other form of participation ap-
+                                    9                        proved by the Secretary.
+                                  10               ‘‘(h) OVERSIGHT PROGRAM.—
+                                  11                         ‘‘(1) ESTABLISHMENT.—
+                                  12                                  ‘‘(A) IN         GENERAL.—The                         Secretary shall
+                                  13                         establish an oversight program to monitor the
+                                  14                         effective and efficient use of funds authorized to
+                                  15                         carry out this section.
+                                  16                                  ‘‘(B) MINIMUM               REQUIREMENT.—At                     a min-
+                                  17                         imum, the program shall be responsive to all
+                                  18                         areas relating to financial integrity and project
+                                  19                         delivery.
+                                  20                         ‘‘(2) FINANCIAL                 INTEGRITY.—
+
+                                  21                                  ‘‘(A)        FINANCIAL                  MANAGEMENT                SYS-
+                                  22                         TEMS.—The              Secretary shall perform annual re-
+                                  23                         views that address elements of the applicant’s
+
+
+
+
+                                  24                         financial            management                 systems           that   affect
+                                  25                         projects approved under subsection (a).
+
+
+                                              •S 387 IS
+
+                                                                                         64
+                                    1                                 ‘‘(B) PROJECT                      COSTS.—The                Secretary
+                                    2                        shall develop minimum standards for estimating
+                                    3                        project costs and shall periodically evaluate the
+                                    4                        practices of applicants for estimating project
+                                    5                        costs, awarding contracts, and reducing project
+                                    6                        costs.
+                                    7                        ‘‘(3) PROJECT              DELIVERY.—The                       Secretary shall
+                                    8              perform annual reviews that address elements of the
+                                    9              project delivery system of an applicant, which ele-
+                                  10               ments include one or more activities that are in-
+                                  11               volved in the life cycle of a project from conception
+                                  12               to completion of the project.
+                                  13                         ‘‘(4) RESPONSIBILITY                    OF THE APPLICANTS.—
+
+                                  14                                  ‘‘(A) IN        GENERAL.—Each                         applicant shall
+                                  15                         submit to the Secretary for approval such
+                                  16                         plans, specifications, and estimates for each
+                                  17                         proposed project as the Secretary may require.
+                                  18                                  ‘‘(B) APPLICANT                       SUBRECIPIENTS.—The
+                                  19                         applicant shall be responsible for determining
+                                  20                         that a subrecipient of Federal funds under this
+                                  21                         section has—
+                                  22                                         ‘‘(i) adequate project delivery systems
+                                  23                                  for projects approved under this section;
+
+
+
+
+                                  24                                  and
+                                              •S 387 IS
+
+                                                                                         65
+                                    1                                        ‘‘(ii) sufficient accounting controls to
+                                    2                                 properly manage such Federal funds.
+                                    3                                 ‘‘(C) PERIODIC                 REVIEW.—The                   Secretary
+                                    4                        shall periodically review the monitoring of sub-
+                                    5                        recipients by the applicant.
+                                    6                        ‘‘(5)        SPECIFIC               OVERSIGHT                   RESPONSIBIL-
+                                    7              ITIES.—Nothing                   in this section shall affect or dis-
+                                    8              charge any oversight responsibility of the Secretary
+                                    9              specifically provided for under this title or other
+                                  10               Federal law.
+                                  11               ‘‘(i) MAJOR PROJECTS.—
+                                  12                         ‘‘(1) IN       GENERAL.—A                   recipient of a grant for
+                                  13               a project under this section with an estimated total
+                                  14               cost of $500,000,000 or more, and a recipient for
+                                  15               such other projects as may be identified by the Sec-
+                                  16               retary, shall submit to the Secretary for each
+                                  17               project—
+                                  18                                  ‘‘(A) a project management plan; and
+                                  19                                  ‘‘(B) an annual financial plan.
+                                  20                         ‘‘(2) PROJECT              MANAGEMENT PLAN.—A                           project
+                                  21               management plan shall document—
+                                  22                                  ‘‘(A) the procedures and processes that are
+                                  23                         in effect to provide timely information to the
+
+
+
+
+                                  24                         project decision makers to effectively manage
+                                  25                         the scope, costs, schedules, and quality of, and
+
+
+                                              •S 387 IS
+
+                                                                                         66
+                                    1                        the Federal requirements applicable to, the
+                                    2                        project; and
+                                    3                                 ‘‘(B) the role of the agency leadership and
+                                    4                        management team in the delivery of the project.
+                                    5                        ‘‘(3)       FINANCIAL                PLAN.—A                   financial   plan
+                                    6              shall—
+                                    7                                 ‘‘(A) be based on detailed estimates of the
+                                    8                        cost to complete the project; and
+                                    9                                 ‘‘(B) provide for the annual submission of
+                                  10                         updates to the Secretary that are based on rea-
+                                  11                         sonable assumptions, as determined by the Sec-
+                                  12                         retary, of future increases in the cost to com-
+                                  13                         plete the project.
+                                  14               ‘‘(j) OTHER PROJECTS.—A recipient of Federal fi-
+                                  15 nancial assistance for a project under this section with an
+                                  16 estimated total cost of $100,000,000 or more that is not
+                                  17 covered by subsection (i) shall prepare an annual financial
+                                  18 plan. Annual financial plans prepared under this sub-
+                                  19 section shall be made available to the Secretary for review
+                                  20 upon the request of the Secretary.
+                                  21               ‘‘(k) OTHER TERMS                         AND         CONDITIONS.—The Sec-
+                                  22 retary shall determine what additional grant terms and
+                                  23 conditions are necessary and appropriate to meet the re-
+
+
+
+
+                                  24 quirements of this section.
+                                              •S 387 IS
+
+                                                                                         67
+                                    1              ‘‘(l) REGULATIONS.—Not later than 1 year after the
+                                    2 date of enactment of the American Infrastructure Invest-
+                                    3 ment Fund Act, the Secretary shall prescribe regulations
+                                    4 to implement this section.
+                                    5              ‘‘(m) APPLICANT DEFINED.—In this subchapter, the
+                                    6 term ‘applicant’ includes a State, a political subdivision
+                                    7 of a State, government-sponsored authorities and corpora-
+                                    8 tions, and the District of Columbia.
+                                    9              ‘‘(n) SECRETARIAL OVERSIGHT.—
+                                  10                         ‘‘(1)        CONSTRUCTION                       MANAGEMENT                CON-
+                                  11               TRACTS.—The                    Secretary may use not more than 1
+                                  12               percent of amounts made available in a fiscal year
+                                  13               for capital projects under this subchapter to enter
+                                  14               into contracts to oversee the construction of such
+                                  15               projects.
+                                  16                         ‘‘(2) COMPLIANCE                      REVIEWS.—The                    Secretary
+                                  17               may use amounts available under paragraph (1) to
+                                  18               make contracts for safety, procurement, manage-
+                                  19               ment, and financial compliance reviews and audits of
+                                  20               a recipient of amounts under paragraph (1).
+                                  21                         ‘‘(3) FEDERAL                   COSTS.—The               Federal Govern-
+                                  22               ment shall pay the entire cost of carrying out a con-
+                                  23               tract under this subsection.
+
+
+
+
+
+                                  24               ‘‘(o) COMPLIANCE WITH APPLICABLE LAWS.—
+
+
+
+
+                                              •S 387 IS
+
+                                                                                         68
+                                    1                        ‘‘(1) LABOR               STANDARDS.—The                        provisions of
+                                    2              subchapter IV of chapter 31 of title 40, shall apply
+                                    3              to funds made available under this subchapter.
+                                    4                        ‘‘(2) PLANNING                  AND ENVIRONMENTAL LAWS.—
+                                    5              A project that receives financial assistance under
+                                    6              this subchapter shall comply with—
+                                    7                                 ‘‘(A) the applicable planning and program-
+                                    8                        ming requirements under sections 134 and 135
+                                    9                        of title 23; and
+                                  10                                  ‘‘(B) all applicable environmental laws and
+                                  11                         requirements, including the National Environ-
+                                  12                         mental Policy Act of 1969 (42 U.S.C. 4321 et
+                                  13                         seq.) and the National Historic Preservation
+                                  14                         Act of 1966 (16 U.S.C. 470 et seq.).
+                                  15               ‘‘(p) USER            OF   AMERICAN IRON, STEEL,                                AND   MANU-
+                                  16      FACTURED             GOODS.—
+                                  17                         ‘‘(1) IN         GENERAL.—None                      of the funds made
+                                  18               available under this subchapter may be used for a
+                                  19               project for the construction, alteration, maintenance,
+                                  20               or repair of a public building or public work unless
+                                  21               all of the iron, steel, and manufactured goods used
+                                  22               in the project are produced in the United States.
+                                  23                         ‘‘(2) EXCEPTION.—Paragraph (1) shall not
+
+
+
+
+                                  24               apply in any case or category of cases in which the
+                                  25               Secretary finds that—
+
+
+                                              •S 387 IS
+
+                                                                                         69
+                                    1                                 ‘‘(A) applying paragraph (1) would be in-
+                                    2                        consistent with the public interest;
+                                    3                                 ‘‘(B) iron, steel, and the relevant manufac-
+                                    4                        tured goods are not produced in the United
+                                    5                        States in sufficient and reasonably available
+                                    6                        quantities and of a satisfactory quality; or
+                                    7                                 ‘‘(C) inclusion of iron, steel, and manufac-
+                                    8                        tured goods produced in the United States will
+                                    9                        increase the cost of the overall project by more
+                                  10                         than 25 percent.
+                                  11                         ‘‘(3) PUBLICATION                    OF WAIVERS.—If                   the Sec-
+                                  12               retary determines that it is necessary to waive the
+                                  13               application of paragraph (1) based on a finding
+                                  14               under paragraph (2), the head of the department or
+                                  15               agency shall publish in the Federal Register a de-
+                                  16               tailed written justification as to why the provision is
+                                  17               being waived.
+                                  18                         ‘‘(4) INTERNATIONAL                     AGREEMENTS.—This                  sub-
+                                  19               section shall be applied in a manner consistent with
+                                  20               United States obligations under international agree-
+                                  21               ments.
+                                  22               ‘‘(q) PERFORMANCE EVALUATION.—
+                                  23                         ‘‘(1) ANNUAL             REPORTS.—
+                                  24                                  ‘‘(A) IN       GENERAL.—The                    Comptroller Gen-
+                                  25                         eral of the United States shall conduct an an-
+
+
+                                              •S 387 IS
+
+                                                                                         70
+                                    1                        nual assessment to evaluate the overall per-
+                                    2                        formance of grants made under the program es-
+                                    3                        tablished under subsection (a).
+                                    4                                 ‘‘(B) DISSEMINATION.—The Comptroller
+                                    5                        General shall submit a report containing the re-
+                                    6                        sults of the evaluation under subparagraph (A)
+                                    7                        to the Committee on Commerce, Science, and
+                                    8                        Transportation of the Senate and the Com-
+                                    9                        mittee on Transportation and Infrastructure of
+                                  10                         the House of Representatives.
+                                  11                         ‘‘(2) BIANNUAL                   REPORT.—Not                    later than 1
+                                  12               year after the date of enactment of the American In-
+                                  13               frastructure Investment Fund Act, and every 6
+                                  14               months thereafter, the Secretary of Transportation
+                                  15               shall submit a report to the congressional commit-
+                                  16               tees set forth in paragraph (1)(B) that documents—
+                                  17                                  ‘‘(A) the number of applications received
+                                  18                         under this section;
+                                  19                                  ‘‘(B) the status of such applications;
+                                  20                                  ‘‘(C) the outcome of application evalua-
+                                  21                         tions; and
+                                  22                                  ‘‘(D) the status of grants awarded under
+                                  23                         the program established under subsection (a).
+
+
+
+
+
+                                  24               ‘‘(r) AUTHORIZATION                        OF     APPROPRIATIONS.—There
+                                  25 is authorized to be appropriated to the Secretary
+
+
+                                              •S 387 IS
+
+                                                                                         71
+                                    1 $600,000,000 for each of fiscal years 2014 and 2015 to
+                                    2 carry out this section.’’.
+                                    3              (b) CONFORMING AMENDMENT.—The table of sec-
+                                    4 tions for chapter 55 of title 49, United States Code, is
+                                    5 amended by adding at the end the following:
+                                                                  ‘‘SUBCHAPTER         III—FINANCIAL ASSISTANCE
+
+                                          ‘‘5581. National infrastructure investment grants.’’.
+
+                                              •S 387 IS                                    Æ

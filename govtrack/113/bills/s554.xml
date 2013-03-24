@@ -1,0 +1,34 @@
+<bill session="113" type="s" number="554" updated="2013-03-22T04:45:46-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="official">A bill to provide for a biennial budget process and a biennial appropriations process and to enhance oversight and the performance of the Federal Government.</title>
+  </titles>
+  <sponsor id="400194"/>
+  <cosponsors>
+    <cosponsor id="300002" joined="2013-03-19"/>
+    <cosponsor id="300025" joined="2013-03-21"/>
+    <cosponsor id="300027" joined="2013-03-21"/>
+    <cosponsor id="300041" joined="2013-03-13"/>
+    <cosponsor id="412545" joined="2013-03-13"/>
+    <cosponsor id="412242" joined="2013-03-13"/>
+    <cosponsor id="412391" joined="2013-03-13"/>
+    <cosponsor id="300075" joined="2013-03-19"/>
+    <cosponsor id="400325" joined="2013-03-19"/>
+    <cosponsor id="412323" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-13">
+      <text>Read twice and referred to the Committee on the Budget.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBU" name="Senate Budget" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

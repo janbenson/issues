@@ -1,0 +1,33 @@
+<bill session="113" type="sr" number="86" updated="2013-03-22T04:47:33-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">A resolution honoring the accomplishments and legacy of Cesar Estrada Chavez.</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="2013-03-21"/>
+    <cosponsor id="300043" joined="2013-03-21"/>
+    <cosponsor id="412223" joined="2013-03-21"/>
+    <cosponsor id="412281" joined="2013-03-21"/>
+    <cosponsor id="412325" joined="2013-03-21"/>
+    <cosponsor id="300076" joined="2013-03-21"/>
+    <cosponsor id="300082" joined="2013-03-21"/>
+    <cosponsor id="300093" joined="2013-03-21"/>
+    <cosponsor id="400413" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

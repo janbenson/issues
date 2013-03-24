@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="1237" updated="2013-03-19T04:46:50-04:00">
+  <state datetime="2013-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-18"/>
+  </status>
+  <introduced datetime="2013-03-18"/>
+  <titles>
+    <title as="introduced" type="official">To authorize and request the President to award the Medal of Honor posthumously to Major Dominic S. Gentile of the United States Army Air Forces for acts of valor during World War II.</title>
+  </titles>
+  <sponsor id="412565"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-18">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

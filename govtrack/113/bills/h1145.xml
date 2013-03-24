@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="1145" updated="2013-03-20T12:46:44-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="short">FHA Emergency Fiscal Solvency Act of 2013</title>
+    <title as="introduced" type="official">To help ensure the fiscal solvency of the FHA mortgage insurance programs of the Secretary of Housing and Urban Development, and for other purposes.</title>
+  </titles>
+  <sponsor id="400422"/>
+  <cosponsors>
+    <cosponsor id="400063" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-13">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

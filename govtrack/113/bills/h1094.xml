@@ -1,0 +1,78 @@
+<bill session="113" type="h" number="1094" updated="2013-03-20T04:47:08-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="short">Safeguard American Food Exports Act of 2013</title>
+    <title as="introduced" type="official">To prohibit the sale or transport of equines and equine parts in interstate or foreign commerce for human consumption.</title>
+  </titles>
+  <sponsor id="412466"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2013-03-18"/>
+    <cosponsor id="400041" joined="2013-03-15"/>
+    <cosponsor id="412516" joined="2013-03-15"/>
+    <cosponsor id="412196" joined="2013-03-15"/>
+    <cosponsor id="412011" joined="2013-03-12"/>
+    <cosponsor id="412517" joined="2013-03-19"/>
+    <cosponsor id="412571" joined="2013-03-19"/>
+    <cosponsor id="412470" joined="2013-03-18"/>
+    <cosponsor id="412236" joined="2013-03-19"/>
+    <cosponsor id="412272" joined="2013-03-19"/>
+    <cosponsor id="400080" joined="2013-03-12"/>
+    <cosponsor id="412193" joined="2013-03-19"/>
+    <cosponsor id="412385" joined="2013-03-15"/>
+    <cosponsor id="400124" joined="2013-03-12"/>
+    <cosponsor id="400646" joined="2013-03-12"/>
+    <cosponsor id="400147" joined="2013-03-12"/>
+    <cosponsor id="412453" joined="2013-03-12"/>
+    <cosponsor id="400162" joined="2013-03-12"/>
+    <cosponsor id="412451" joined="2013-03-12"/>
+    <cosponsor id="412498" joined="2013-03-15"/>
+    <cosponsor id="400209" joined="2013-03-12"/>
+    <cosponsor id="412435" joined="2013-03-15"/>
+    <cosponsor id="400219" joined="2013-03-12"/>
+    <cosponsor id="412290" joined="2013-03-12"/>
+    <cosponsor id="400230" joined="2013-03-18"/>
+    <cosponsor id="400244" joined="2013-03-12"/>
+    <cosponsor id="400278" joined="2013-03-12"/>
+    <cosponsor id="400283" joined="2013-03-12"/>
+    <cosponsor id="412527" joined="2013-03-18"/>
+    <cosponsor id="400289" joined="2013-03-15"/>
+    <cosponsor id="412506" joined="2013-03-15"/>
+    <cosponsor id="412305" joined="2013-03-12"/>
+    <cosponsor id="412523" joined="2013-03-19"/>
+    <cosponsor id="412331" joined="2013-03-19"/>
+    <cosponsor id="400331" joined="2013-03-12"/>
+    <cosponsor id="400356" joined="2013-03-18"/>
+    <cosponsor id="400360" joined="2013-03-12"/>
+    <cosponsor id="400647" joined="2013-03-15"/>
+    <cosponsor id="412219" joined="2013-03-18"/>
+    <cosponsor id="400378" joined="2013-03-18"/>
+    <cosponsor id="400407" joined="2013-03-19"/>
+    <cosponsor id="400431" joined="2013-03-12"/>
+    <cosponsor id="400433" joined="2013-03-12"/>
+    <cosponsor id="400439" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-12">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-03-12">
+      <text>Referred to House Agriculture</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>3/12/2013--Introduced.
+Safeguard American Food Exports Act of 2013 - Amends the Federal Food, Drug, and Cosmetic Act to prohibit the sale or transport of equines (horses and other members of the equidae family) or their parts (including flesh, meat, and viscera), or the importing or exporting of equines or their parts into or out of the United States, by any person who knows or should have known that such equines are to be slaughtered for human consumption as food.</summary>
+</bill>

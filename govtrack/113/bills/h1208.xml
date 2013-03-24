@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="1208" updated="2013-03-16T04:46:57-04:00">
+  <state datetime="2013-03-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-15"/>
+  </status>
+  <introduced datetime="2013-03-15"/>
+  <titles>
+    <title as="introduced" type="official">To establish the Manhattan Project National Historical Park in Oak Ridge, Tennessee, Los Alamos, New Mexico, and Hanford, Washington, and for other purposes.</title>
+  </titles>
+  <sponsor id="400171"/>
+  <cosponsors>
+    <cosponsor id="412476" joined="2013-03-15"/>
+    <cosponsor id="412293" joined="2013-03-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-15">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

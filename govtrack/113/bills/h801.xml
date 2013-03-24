@@ -1,0 +1,34 @@
+<bill session="113" type="h" number="801" updated="2013-03-21T06:16:01-04:00">
+  <state datetime="2013-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-15"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title as="introduced" type="short">Holding Company Registration Threshold Equalization Act of 2013</title>
+    <title as="introduced" type="official">To amend the Securities Exchange Act of 1934 to make the shareholder threshold for registration of savings and loan holding companies the same as for bank holding companies.</title>
+  </titles>
+  <sponsor id="412402"/>
+  <cosponsors>
+    <cosponsor id="412544" joined="2013-02-15"/>
+    <cosponsor id="412282" joined="2013-02-15"/>
+    <cosponsor id="412331" joined="2013-03-20"/>
+    <cosponsor id="412548" joined="2013-02-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-15">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Securities"/>
+  </subjects>
+  <amendments/>
+</bill>

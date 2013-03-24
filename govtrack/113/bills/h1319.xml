@@ -1,0 +1,27 @@
+<bill session="113" type="h" number="1319" updated="2013-03-22T04:46:47-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Federal Crop Insurance Act to expand coverage under plans of insurance available under such Act to include losses to an insured commodity when, as a result of a federally-imposed quarantine, the commodity must be destroyed, and for other purposes.</title>
+  </titles>
+  <sponsor id="412189"/>
+  <cosponsors>
+    <cosponsor id="400618" joined="2013-03-21"/>
+    <cosponsor id="412518" joined="2013-03-21"/>
+    <cosponsor id="412522" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

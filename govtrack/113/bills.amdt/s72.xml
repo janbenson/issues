@@ -1,0 +1,18 @@
+<amendment session="113" chamber="s" number="72" updated="2013-03-22T04:50:58-04:00">
+  <amends type="h" number="933" sequence=""/>
+  <status datetime="2013-03-20">pass</status>
+  <sponsor id="300055"/>
+  <offered datetime="2013-03-13"/>
+  <description>To require the continuation of tuition assistance programs for members of the Armed Forces for the remainder of fiscal year 2013.</description>
+  <purpose>To require the continuation of tuition assistance programs for members of the Armed Forces for the remainder of fiscal year 2013.</purpose>
+  <actions>
+    <action datetime="2013-03-20">
+      <text>Amendment SA 72 proposed by Senator Inhofe to Amendment SA 26.</text>
+      <reference ref="CR S1974-1975, S1985" label="consideration"/>
+    </action>
+    <vote datetime="2013-03-20" how="Voice Vote" result="pass">
+      <text>Amendment SA 72 as modified agreed to in Senate by Voice Vote.</text>
+      <reference ref="CR S1985" label="text as modified"/>
+    </vote>
+  </actions>
+</amendment>

@@ -1,0 +1,23 @@
+<bill session="113" type="s" number="515" updated="2013-03-12T04:45:38-04:00">
+  <state datetime="2013-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-11"/>
+  </status>
+  <introduced datetime="2013-03-11"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend title 38, United States Code, to extend the Yellow Ribbon G.I. Education Enhancement Program to cover recipients of Marine Gunnery Sergeant John David Fry scholarship, and for other purposes.</title>
+  </titles>
+  <sponsor id="400050"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-11">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

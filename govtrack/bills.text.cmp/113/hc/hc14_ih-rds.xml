@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<body status="rds" difference-size-chars="524" percent-change="46" total-changes="11" previous-status="ih">
+  <p nid="t0:rds:1" tracking-nids="t0:ih:1">HCON 14 <changed sequence="1"><changed-from>IH</changed-from><changed-to>RDS</changed-to></changed></p>
+  <p/>
+  <center>
+    <p nid="t0:rds:2">113th CONGRESS</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:rds:3" tracking-nids="t0:ih:3">1st Session</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:rds:4">H<removed sequence="2">. CON. RES. 14Permitting the use of the rotunda of the Capitol for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust</removed>. <inserted sequence="3">CON. RES. 14</inserted></p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:rds:5">IN THE <changed sequence="4"><changed-from>HOUS</changed-from><changed-to>SENAT</changed-to></changed>E OF <removed sequence="5">REPRESENTATIVES<p/><h3 nid="t0:ih:7"><center><p nid="t0:ih:8">February 13, 2013</p></center></h3><p nid="t0:ih:9">Mr. GRIMM (for himself, Mr. MEEHAN, Mr. WAXMAN, and Mr. ISRAEL) submitted the following concurrent resolution; which was referred to the Committee on House Administration</p><hr/><p/>CONCURRENT</removed><inserted sequence="6">THE UNITED STATES</inserted></p>
+  </center>
+  <inserted sequence="7">
+    <p/>
+    <h3 nid="t0:rds:6">
+      <center>
+        <p nid="t0:rds:7">March 7, 2013</p>
+      </center>
+    </h3>
+    <p nid="t0:rds:8">Received</p>
+    <hr/>
+    <p/>
+  </inserted>
+  <center>
+    <p nid="t0:rds:9"><inserted sequence="8">CONCURRENT </inserted>RESOLUTION</p>
+  </center>
+  <p nid="t0:rds:10" tracking-nids="t0:ih:11">Permitting the use of the rotunda of the Capitol for a ceremony as part of the commemoration of the days of remembrance of victims of the Holocaust.</p>
+  <ul>
+    <p nid="t0:rds:11" tracking-nids="t0:ih:12">
+      <em>Resolved by the House of Representatives (the Senate concurring),</em>
+    </p>
+  </ul>
+  <p/>
+  <h3 nid="t0:rds:12" tracking-nids="t0:ih:13">SECTION 1. USE OF ROTUNDA FOR HOLOCAUST DAYS OF REMEMBRANCE CEREMONY.</h3>
+  <ul>
+    <p nid="t0:rds:13" tracking-nids="t0:ih:14">The rotunda of the Capitol is authorized to be used on April 11, 2013, for a ceremony as part of the commemoration of the days of remembrance of victims of the</p>
+    <p nid="t0:rds:14">Holocaust. Physical preparations for the ceremony shall be carried out in accordance with such conditions as the Architect of the Capitol may prescribe<inserted sequence="9">.</inserted></p>
+  </ul>
+  <inserted sequence="10">
+    <p nid="t0:rds:15">Passed the House of Representatives March 6, 2013.</p>
+    <p nid="t0:rds:16">Attest:</p>
+    <p nid="t0:rds:17">KAREN L. HAAS,</p>
+  </inserted>
+  <p nid="t0:rds:18"><inserted sequence="11">Clerk</inserted>.</p>
+</body>

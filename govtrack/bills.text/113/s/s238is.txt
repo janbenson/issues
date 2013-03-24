@@ -1,0 +1,907 @@
+                                                                                                                                   II
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                            S. 238
+                                  To amend the Federal Reserve Act to improve the functioning and trans-
+                                      parency of the Board of Governors of the Federal Reserve System and
+                                      the Federal Open Market Committee, and for other purposes.
+
+
+
+
+                                              IN THE SENATE OF THE UNITED STATES
+                                                              FEBRUARY 7, 2013
+                                  Mr. LEE (for himself, Mr. CORNYN, and Mr. RUBIO) introduced the following
+                                      bill; which was read twice and referred to the Committee on Banking,
+                                      Housing, and Urban Affairs
+
+
+
+
+                                                                            A BILL
+                                  To amend the Federal Reserve Act to improve the func-
+                                     tioning and transparency of the Board of Governors of
+                                     the Federal Reserve System and the Federal Open Mar-
+                                     ket Committee, and for other purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+                                    4              (a) SHORT TITLE.—This Act may be cited as the
+                                    5 ‘‘Federal Reserve Modernization Act of 2013’’.
+                                    6              (b) TABLE            OF    CONTENTS.—The table of contents for
+
+
+
+
+                                    7 this Act is as follows:
+                                          Sec. 1. Short title; table of contents.
+
+
+
+
+                                                                                             2
+                                                   TITLE I—SINGLE MANDATE FOR PRICE STABILITY ACT
+
+                                          Sec. 101. Findings.
+                                          Sec. 102. Price stability mandate.
+
+                                                    TITLE II—FINANCIAL STABILITY AND MORAL HAZARD
+                                                                    MITIGATION ACT
+
+                                          Sec. 201. Findings.
+                                          Sec. 202. Lender-of-last-resort policy.
+
+                                                  TITLE III—DIVERSIFYING THE FEDERAL OPEN MARKET
+                                                 COMMITTEE TO REFLECT A 21ST CENTURY ECONOMY ACT
+
+                                          Sec. 301. Findings.
+                                          Sec. 302. Federal Open Market Committee membership.
+
+                                              TITLE IV—DEMYSTIFICATION OF MONETARY POLICY DECISIONS
+                                                                       ACT
+
+                                          Sec. 401. Findings.
+                                          Sec. 402. Release of transcripts.
+
+                                                           TITLE V—EXCHANGE RATE RESPONSIBILITY ACT
+
+                                          Sec.   501.      Findings.
+                                          Sec.   502.      Report on the effect of exchange rate policy.
+                                          Sec.   503.      Renaming of Exchange Stabilization Fund.
+                                          Sec.   504.      Conversion to all-SDR Fund.
+
+                                                       TITLE VI—CREDIT ALLOCATION NEUTRALITY ACT
+
+                                          Sec. 601. Findings.
+                                          Sec. 602. Limitation on certain non-emergency security purchases.
+
+                                               TITLE VII—BUREAU OF CONSUMER FINANCIAL PROTECTION
+                                                                  FUNDING ACT
+
+                                          Sec. 701. Findings.
+                                          Sec. 702. Bureau of Consumer Financial Protection Funding.
+                                    1         TITLE I—SINGLE MANDATE FOR
+                                    2             PRICE STABILITY ACT
+                                    3     SEC. 101. FINDINGS.
+                                    4              The Congress finds the following:
+                                    5                        (1) Monetary policy can only affect the level of
+                                    6              employment in the short term because nonmonetary
+
+
+
+
+                                    7              factors determine the level of employment in the
+                                    8              long term. At best, the Federal Reserve may tempo-
+
+                                               •S 238 IS
+
+                                                                                             3
+                                    1              rarily increase the level of employment through mon-
+                                    2              etary policy, but such efforts risk the possibility of
+                                    3              price inflation and increased business cycle volatility
+                                    4              in the future. However, the Federal Reserve can
+                                    5              achieve price stability in the long term through mon-
+                                    6              etary policy. Price stability is desirable because both
+                                    7              price inflation and price deflation damage the U.S.
+                                    8              economy. Therefore, to maximize long-term economic
+                                    9              growth and achieve the highest sustainable level of
+                                  10               real output and employment, price stability should
+                                  11               be the objective of monetary policy.
+                                  12                         (2) Countries whose central bank has a single
+                                  13               mandate for price stability generally have a better
+                                  14               record of achieving stable prices than countries
+                                  15               whose central bank has a mandate that gives equal
+                                  16               weight to other objectives such as maximum employ-
+                                  17               ment or low interest rates.
+                                  18                         (3) In general, an overly accommodative mone-
+                                  19               tary policy inflates both asset prices and prices for
+                                  20               goods and services. However, an overly accommoda-
+                                  21               tive monetary policy may sometimes cause a
+                                  22               misallocation of capital that inflates asset prices dis-
+                                  23               proportionately, creating unsustainable bubbles in
+
+
+
+
+                                  24               asset prices, while price indices for goods and serv-
+                                  25               ices do not register significant price inflation. When
+
+
+                                              •S 238 IS
+
+                                                                                             4
+                                    1              asset bubbles burst, many investments must be liq-
+                                    2              uidated at considerable cost to the U.S. economy in
+                                    3              terms of lower real output and employment.
+                                    4                        (4) Price stability cannot always be measured
+                                    5              solely through price indices for goods and services
+                                    6              since such indices exclude changes in asset prices.
+                                    7              Therefore, the Federal Reserve should monitor (A)
+                                    8              the prices of, and the expected returns from, major
+                                    9              asset classes (including equities, residential real es-
+                                  10               tate, commercial and industrial real estate, agricul-
+                                  11               tural real estate, gold and other commodities, cor-
+                                  12               porate bonds, U.S. Government bonds, State and
+                                  13               local government bonds, and other securities), (B)
+                                  14               the value of the U.S. dollar relative to other cur-
+                                  15               rencies, and (C) the value of the United States dol-
+                                  16               lar relative to gold, as metrics to determine whether
+                                  17               the Federal Reserve’s monetary policy is consistent
+                                  18               with long-term price stability.
+                                  19      SEC. 102. PRICE STABILITY MANDATE.
+
+                                  20               (a) IN GENERAL.—Section 2A of the Federal Reserve
+                                  21 Act (12 U.S.C. 225a) is amended—
+                                  22                         (1) by striking ‘‘goals of maximum employment,
+                                  23               stable prices, and moderate long-term interest rates’’
+
+
+
+
+                                  24               and inserting ‘‘goal of long-term price stability’’;
+                                              •S 238 IS
+
+                                                                                             5
+                                    1                        (2) by striking ‘‘The Board of Governors’’ and
+                                    2              inserting the following:
+                                    3              ‘‘(a) IN GENERAL.—The Board of Governors’’; and
+                                    4                        (3) by adding at the end the following:
+                                    5              ‘‘(b) PRICE STABILITY METRICS.—
+                                    6                        ‘‘(1) IN      GENERAL.—The                     Board of Governors of
+                                    7              the Federal Reserve System and the Federal Open
+                                    8              Market Committee shall—
+                                    9                                 ‘‘(A) define the term ‘long-term price sta-
+                                  10                         bility’ for purposes of subsection (a); and
+                                  11                                  ‘‘(B) establish metrics that the Board and
+                                  12                         the Committee will use to evaluate whether
+                                  13                         long-term price stability is being achieved.
+                                  14                         ‘‘(2) ESTABLISHMENT                         OF METRICS.—In                estab-
+                                  15               lishing the metrics described under paragraph
+                                  16               (1)(B), the Board and Committee shall—
+                                  17                                  ‘‘(A) take into consideration price indices
+                                  18                         of goods and services; and
+                                  19                                  ‘‘(B) evaluate, on an ongoing basis—
+                                  20                                         ‘‘(i) whether such metrics are com-
+                                  21                                  prehensively reflecting price movements in
+                                  22                                  the economy; and
+                                  23                                         ‘‘(ii) whether any price movements not
+
+
+
+
+                                  24                                  captured by the price indices of goods and
+                                  25                                  services           are         causing                a      significant
+
+
+                                              •S 238 IS
+
+                                                                                             6
+                                    1                                 misallocation of capital in the United
+                                    2                                 States economy.
+                                    3                        ‘‘(3) METRIC               EVALUATION.—The                            Board and
+                                    4              Committee shall, with respect to the evaluation proc-
+                                    5              ess required pursuant to paragraph (2)(B), mon-
+                                    6              itor—
+                                    7                                 ‘‘(A) the prices of, and the expected re-
+                                    8                        turns from, major asset classes (including equi-
+                                    9                        ties, residential real estate, commercial and in-
+                                  10                         dustrial real estate, agricultural real estate,
+                                  11                         commodities, corporate bonds, State and local
+                                  12                         government bonds, and other securities) and
+                                  13                         the allocation of capital in financial markets
+                                  14                         and the broader economy;
+                                  15                                  ‘‘(B) the value of the United States dollar
+                                  16                         relative to other currencies; and
+                                  17                                  ‘‘(C) the value of the United States dollar
+                                  18                         relative to gold.
+                                  19                         ‘‘(4) PUBLIC               DISCLOSURE; REPORT TO THE
+                                  20               CONGRESS.—The                     Board and the Committee shall,
+                                  21               with respect to the definition of long-term price sta-
+                                  22               bility and the establishment of metrics set pursuant
+                                  23               to paragraph (1)—
+
+
+
+
+
+                                              •S 238 IS
+
+                                                                                             7
+                                    1                                 ‘‘(A) make such definition and metrics
+                                    2                        available to the public on a website maintained
+                                    3                        by the Board or the Committee; and
+                                    4                                 ‘‘(B) each time such definition and metrics
+                                    5                        are set or revised, issue a report to the Con-
+                                    6                        gress stating such definition and metrics.’’.
+                                    7              (b) ADDITIONAL EVALUATIONS                                      AND        DETERMINA-
+                                    8     TIONS            INCLUDED           IN     SEMI-ANNUAL REPORT                            TO   CON-
+                                    9     GRESS.—Section                   2B(b) of the Federal Reserve Act (12
+                                  10 U.S.C. 225b(b)) is amended—
+                                  11                         (1) by striking ‘‘containing a discussion’’ and
+                                  12               inserting the following:
+                                  13 ‘‘containing—
+                                  14                         ‘‘(1) a discussion’’;
+                                  15                         (2) by striking the period and inserting a semi-
+                                  16               colon; and
+                                  17                         (3) by adding at the end the following:
+                                  18                         ‘‘(2) the results of the evaluation process con-
+                                  19               ducted pursuant to section 2A(b)(2)(B);
+                                  20                         ‘‘(3) a determination of whether the goal of
+                                  21               long-term price stability is being met and, if such
+                                  22               goal is not being met, an explanation of why the goal
+                                  23               is not being met and the steps that the Board and
+
+
+
+
+                                  24               the Federal Open Market Committee will take to en-
+                                  25               sure that the goal is met in the future;
+
+
+                                              •S 238 IS
+
+                                                                                             8
+                                    1                        ‘‘(4) a description of the main monetary policy
+                                    2              instruments used by the Board and the Federal
+                                    3              Open Market Committee and a description of the
+                                    4              strategy of the Board and the Committee with re-
+                                    5              spect to using such instruments to achieve the goal
+                                    6              of long-term price stability; and’’.
+                                    7     TITLE II—FINANCIAL STABILITY
+                                    8        AND MORAL HAZARD MITIGA-
+                                    9        TION ACT
+                                  10      SEC. 201. FINDINGS.
+                                  11               The Congress finds the following:
+                                  12                         (1) The Federal Reserve performs an essential
+                                  13               function for financial stability by serving as lender
+                                  14               of last resort in order to—
+                                  15                                  (A) prevent the unnecessary failures of
+                                  16                         otherwise solvent United States banks and
+                                  17                         other financial institutions;
+                                  18                                  (B) reduce the likelihood of financial con-
+                                  19                         tagion and disruptions in United States finan-
+                                  20                         cial markets; and
+                                  21                                  (C) minimize any adverse effects on real
+                                  22                         output and employment in the United States
+                                  23                         economy.
+
+
+
+
+
+                                  24                         (2) In acting as the lender of last resort, the
+                                  25               Federal Reserve, may—
+
+
+                                              •S 238 IS
+
+                                                                                             9
+                                    1                                 (A) buy debt securities at fair market
+                                    2                        value; or
+                                    3                                 (B) provide short-term credit, secured by
+                                    4                        appropriate collateral in proper margin, to oth-
+                                    5                        erwise solvent banks and other financial institu-
+                                    6                        tions that encounter funding difficulties during
+                                    7                        a financial crisis.
+                                    8                        (3) Nevertheless, in its nearly 100-year history,
+                                    9              the Federal Reserve has never clearly articulated its
+                                  10               lender-of-last-resort policy.
+                                  11                         (4) The absence of an official lender-of-last-re-
+                                  12               sort policy has led to—
+                                  13                                  (A) increased economic uncertainty be-
+                                  14                         cause no one knows with certainty how the Fed-
+                                  15                         eral Reserve may behave;
+                                  16                                  (B) financially distressed firms seeking po-
+                                  17                         litical solutions in the form of pressure from
+                                  18                         Congress or the Administration being placed on
+                                  19                         the Federal Reserve to act to save them; and
+                                  20                                  (C) a moral hazard problem from financial
+                                  21                         institutions taking greater risks and increasing
+                                  22                         leverage based upon assumptions of how the
+                                  23                         Federal Reserve will act, though there is no for-
+
+
+
+
+                                  24                         mal statement assuring how the Federal Re-
+                                  25                         serve will act.
+
+
+                                              •S 238 IS
+
+                                                                                         10
+                                    1                        (5) By establishing a formal lender-of-last-re-
+                                    2              sort policy, the Federal Reserve would decrease un-
+                                    3              certainty in the market during times of financial cri-
+                                    4              sis and mitigate the moral hazards created by recent
+                                    5              bailouts.
+                                    6                        (6) An official lender-of-last-resort policy should
+                                    7              provide that once a financial crisis has dissipated,
+                                    8              the Federal Reserve should, in an orderly way, sell
+                                    9              any debt securities that—
+                                  10                                  (A) the Federal Reserve acquired acting as
+                                  11                         lender of last resort; and
+                                  12                                  (B) the Federal Reserve does not normally
+                                  13                         own for its System Account.
+                                  14                         (7) Further, to reduce moral hazard, the Fed-
+                                  15               eral Reserve’s lender-of-last-resort policy should
+                                  16               make clear that credit in any form will not be pro-
+                                  17               vided to insolvent banks or other financial institu-
+                                  18               tion.
+                                  19      SEC. 202. LENDER-OF-LAST-RESORT POLICY.
+
+                                  20               (a) IN GENERAL.—Not later than the end of the 1-
+                                  21 year period beginning on the date of the enactment of this
+                                  22 Act, the Board of Governors of the Federal Reserve Sys-
+                                  23 tem shall clearly articulate the Board’s lender-of-last-re-
+
+
+
+
+                                  24 sort policy.
+                                              •S 238 IS
+
+                                                                                         11
+                                    1              (b) CONSULTATION.—In articulating the policy re-
+                                    2 quired under subsection (a), the Board of Governors shall
+                                    3 consult with—
+                                    4                        (1) the Federal Reserve bank presidents;
+                                    5                        (2) the Comptroller of the Currency;
+                                    6                        (3) the Chairperson of the Federal Deposit In-
+                                    7              surance Corporation;
+                                    8                        (4) the Securities and Exchange Commission;
+                                  109              sion; and (5) the Commodity Futures Trading Commis-
+                                  11                         (6) such other persons with expertise in finan-
+                                  12               cial services regulation and monetary policy as the
+                                  13               Board of Governors may determine appropriate.
+                                  14      TITLE III—DIVERSIFYING THE
+                                  15         FEDERAL   OPEN   MARKET
+                                  16         COMMITTEE TO REFLECT A
+                                  17         21ST CENTURY ECONOMY ACT
+                                  18      SEC. 301. FINDINGS.
+                                  19               The Congress finds the following:
+                                  20                         (1) The Federal Reserve Act delineates specific
+                                  21               requirements for the seven governors charged with
+                                  22               oversight of the Federal Reserve System.
+                                  23                         (2) In a reflection of the Federal Reserve Sys-
+
+
+
+
+                                  24               tem’s decentralized structure that broadly distrib-
+                                  25               utes power and responsibility across the Nation, the
+
+
+                                              •S 238 IS
+
+                                                                                         12
+                                    1              Act mandates that the presidentially appointed gov-
+                                    2              ernors come from a wide range of geographic loca-
+                                    3              tions and professional backgrounds. Specifically, the
+                                    4              first undesignated paragraph under section 10 of the
+                                    5              Federal Reserve Act states that ‘‘In selecting the
+                                    6              members of the Board, not more than one of whom
+                                    7              shall be selected from any one Federal Reserve Dis-
+                                    8              trict, the President shall have due regard to a fair
+                                    9              representation of the financial, agricultural, indus-
+                                  10               trial, and commercial interests and geographical di-
+                                  11               visions of the country.’’.
+                                  12                         (3) The Federal Open Monetary Committee
+                                  13               consists of members of the Board of Governors and
+                                  14               the President or Vice President of the Federal Re-
+                                  15               serve Bank of New York on a permanent basis and
+                                  16               rotates voting membership among the remaining Re-
+                                  17               gional Reserve Banks.
+                                  18                         (4) The existing structure of the Federal Open
+                                  19               Market Committee places too much authority in the
+                                  20               hands of Washington and New York at the expense
+                                  21               of the remainder of the United States.
+                                  22                         (5) Monetary policy should be conducted in the
+                                  23               interest of all Americans and that policy goal is best
+
+
+
+
+                                  24               achieved by a Federal Open Market Committee that
+                                  25               provides greater representation and voice in policy
+
+
+                                              •S 238 IS
+
+                                                                                         13
+                                    1              decisions to the entire Nation as represented by the
+                                    2              Regional Reserve Banks. This objective is best
+                                    3              achieved by reforming the voting membership of the
+                                    4              Federal Open Market Committee to include all Re-
+                                    5              gional Reserve Banks on a permanent basis.
+                                    6     SEC. 302. FEDERAL OPEN MARKET COMMITTEE MEMBER-
+                                    7                             SHIP.
+                                    8              Section 12A(a) of the Federal Reserve Act (12
+                                    9 U.S.C. 263(a)) is amended—
+                                  10                         (1) by striking ‘‘five representatives of the Fed-
+                                  11               eral Reserve banks to be selected as hereinafter pro-
+                                  12               vided.’’ and inserting ‘‘1 representative from each of
+                                  13               the Federal Reserve banks.’’; and
+                                  14                         (2) by striking ‘‘and, beginning with the elec-
+                                  15               tion for the term commencing March 1, 1943, shall
+                                  16               be elected annually as follows: One by the board of
+                                  17               directors of the Federal Reserve Bank of New York,
+                                  18               one by the boards of directors of the Federal Re-
+                                  19               serve Banks of Boston, Philadelphia, and Richmond,
+                                  20               one by the boards of directors of the Federal Re-
+                                  21               serve Banks of Cleveland and Chicago, one by the
+                                  22               boards of directors of the Federal Reserve Banks of
+                                  23               Atlanta, Dallas, and St. Louis, and one by the
+
+
+
+
+                                  24               boards of directors of the Federal Reserve Banks of
+                                  25               Minneapolis, Kansas City, and San Francisco. In
+
+
+                                              •S 238 IS
+
+                                                                                         14
+                                    1              such elections each board of directors shall have one
+                                    2              vote; and the details of such elections may be gov-
+                                    3              erned by regulations prescribed by the committee,
+                                    4              which may be amended from time to time.’’ and in-
+                                    5              serting ‘‘and shall be elected by the board of direc-
+                                    6              tors of the Federal Reserve bank that they are to
+                                    7              represent.’’.
+                                    8     TITLE IV—DEMYSTIFICATION OF
+                                    9        MONETARY  POLICY    DECI-
+                                  10         SIONS ACT
+                                  11      SEC. 401. FINDINGS.
+                                  12               The Congress finds the following:
+                                  13                         (1) A more efficient release of transcripts from
+                                  14               the Federal Reserve would result in better guidance
+                                  15               for market participants, and hence more economi-
+                                  16               cally efficient decision making.
+                                  17                         (2) According to Federal Reserve Chairman
+                                  18               Ben Bernanke, ‘‘when the monetary policy com-
+                                  19               mittee regularly provides information about objec-
+                                  20               tives, economic outlook, and policy plans, two bene-
+                                  21               fits result: (1) markets will price assets more effi-
+                                  22               ciently, and (2) a closer alignment between market
+                                  23               participants’ expectations about the course of future
+
+
+
+
+                                  24               short-term interest rates and’’ the views of policy-
+                                  25               makers.
+
+
+                                              •S 238 IS
+
+                                                                                         15
+                                    1                        (3) The Federal Reserve is able to release tran-
+                                    2              scripts more efficiently without compromising their
+                                    3              decision making process.
+                                    4     SEC. 402. RELEASE OF TRANSCRIPTS.
+                                    5              Section 12A(a) of the Federal Reserve Act (12
+                                    6 U.S.C. 263(a)) is amended by adding at the end the fol-
+                                    7 lowing:
+                                    8              ‘‘(d) RELEASE                  OF    TRANSCRIPTS.—The Committee
+                                    9 shall release meeting transcripts to the public not later
+                                  10 than the end of the 3-year period following each meeting.’’.
+                                  11                 TITLE V—EXCHANGE RATE
+                                  12                   RESPONSIBILITY ACT
+                                  13      SEC. 501. FINDINGS.
+                                  14               The Congress finds as follows:
+                                  15                         (1) The Board of Governors of the Federal Re-
+                                  16               serve System and the Federal Open Market Com-
+                                  17               mittee exercise control over the supply of U.S. dol-
+                                  18               lars, which is a major factor affecting the foreign ex-
+                                  19               change rate value of the United States dollar. There-
+                                  20               fore, the Board of Governors and Federal Open
+                                  21               Market Committee should report to Congress on the
+                                  22               impact of monetary policy on the foreign exchange
+                                  23               rate value of the United States dollar.
+
+
+
+
+
+                                  24                         (2) Over the last several decades, Secretaries of
+                                  25               the Treasury have repeatedly used the Exchange
+
+
+                                              •S 238 IS
+
+                                                                                         16
+                                    1              Stabilization Fund for purposes that were not envi-
+                                    2              sioned by Congress. To prevent further abuses, the
+                                    3              Exchange Stabilization Fund should be renamed as
+                                    4              the Special Drawing Rights Fund. The Special
+                                    5              Drawing Rights Fund should hold the Special Draw-
+                                    6              ing Rights that the International Monetary Fund
+                                    7              provided to the United States. Any other assets cur-
+                                    8              rently in the Exchange Stabilization Fund should be
+                                    9              liquidated, and the proceeds used to reduce the pub-
+                                  10               lic debt.
+                                  11      SEC. 502. REPORT ON THE EFFECT OF EXCHANGE RATE
+                                  12                              POLICY.
+                                  13               Section 2B(b) of the Federal Reserve Act, as amend-
+                                  14 ed by section 102(b), is further amended by adding at the
+                                  15 end the following:
+                                  16                         ‘‘(5) an analysis of how the policies of the
+                                  17               Board and the Federal Open Market Committee are
+                                  18               affecting the foreign exchange rate value of the
+                                  19               United States dollar.’’.
+                                  20      SEC. 503. RENAMING OF EXCHANGE STABILIZATION FUND.
+
+                                  21               (a) IN GENERAL.—Section 5302 of title 31, United
+                                  22 States Code, is amended by striking ‘‘stabilization fund’’
+                                  23 each place such term appears and inserting ‘‘Special
+
+
+
+
+                                  24 Drawing Rights Fund’’.
+                                  25               (b) CONFORMING AMENDMENTS.—
+
+
+                                              •S 238 IS
+
+                                                                                         17
+                                    1                        (1) BALANCED                BUDGET AND EMERGENCY DEF-
+                                    2              ICIT CONTROL ACT OF 1985.—Section                                          255(g)(1)(A)
+                                    3              of the Balanced Budget and Emergency Deficit Con-
+                                    4              trol Act of 1985 (2 U.S.C. 905(g)(1)(A)) is amended
+                                    5              by striking ‘‘Exchange Stabilization Fund’’ and in-
+                                    6              serting ‘‘Special Drawing Rights Fund’’.
+                                    7                        (2) EMERGENCY                   ECONOMIC STABILIZATION ACT
+                                    8              OF 2008.—The                    Emergency Economic Stabilization
+                                    9              Act of 2008 (12 U.S.C. 5211 et seq.) is amended—
+                                  10                                  (A) in section 131, by striking ‘‘Exchange
+                                  11                         Stabilization Fund’’ each place such term ap-
+                                  12                         pears in headings and text and inserting ‘‘Spe-
+                                  13                         cial Drawing Rights Fund’’; and
+                                  14                                  (B) in the item relating to section 131 in
+                                  15                         the table of contents of such Act, by striking
+                                  16                         ‘‘Exchange Stabilization Fund’’ and inserting
+                                  17                         ‘‘Special Drawing Rights Fund’’.
+                                  18                         (3) INTERNATIONAL                       FINANCIAL INSTITUTIONS
+                                  19               ACT.—Section                   1704 of the International Financial
+                                  20               Institutions Act (22 U.S.C. 262r–3) is amended by
+                                  21               striking ‘‘stabilization fund’’ each place such term
+                                  22               appears and inserting ‘‘Special Drawing Rights
+                                  23               Fund’’.
+
+
+
+
+
+                                  24                         (4) SPECIAL             DRAWING RIGHTS ACT.—The                         Spe-
+                                  25               cial Drawing Rights Act (22 U.S.C. 286n et seq.) is
+
+
+                                              •S 238 IS
+
+                                                                                         18
+                                    1              amended by striking ‘‘Exchange Stabilization Fund’’
+                                    2              each place such term appears and inserting ‘‘Special
+                                    3              Drawing Rights Fund’’.
+                                    4              (c) REFERENCES.—Any reference in a law, regula-
+                                    5 tion, document, paper, or other record of the United
+                                    6 States to the ‘‘Exchange Stabilization Fund’’ shall be
+                                    7 deemed a reference to the ‘‘Special Drawing Rights
+                                    8 Fund’’.
+                                    9     SEC. 504. CONVERSION TO ALL-SDR FUND.
+
+                                  10               (a) FUNDS USED TO REDUCE THE DEBT.—The Sec-
+                                  11 retary of the Treasury shall liquidate all property in the
+                                  12 Special Drawing Rights Fund (as so renamed under sec-
+                                  13 tion 503), other than Special Drawing Rights, and use all
+                                  14 such amounts to reduce the public debt.
+                                  15               (b) LIMITATION                 ON    FUND.—Section 5302 of title 31,
+                                  16 United States Code, is amended—
+                                  17                         (1) in subsection (a)(1)—
+                                  18                                  (A) by striking ‘‘is available to carry out’’
+                                  19                         and inserting ‘‘is only available to carry out’’;
+                                  20                         and
+                                  21                                  (B) by striking ‘‘, and for investing in obli-
+                                  22                         gations of the United States Government those
+                                  23                         amounts in the fund the Secretary of the Treas-
+
+
+
+
+                                  24                         ury, with the approval of the President, decides
+                                  25                         are not required at the time to carry out this
+
+
+                                              •S 238 IS
+
+                                                                                         19
+                                    1                        section. Proceeds of sales and investments,
+                                    2                        earnings, and interest shall be paid into the
+                                    3                        fund and are available to carry out this section.
+                                    4                        However, the fund is not available to pay ad-
+                                    5                        ministrative expenses’’; and
+                                    6                        (2) by striking subsection (b) and inserting the
+                                    7              following:
+                                    8              ‘‘(b) FUND ONLY TO HOLD SPECIAL DRAWING
+                                    9 RIGHTS.—Notwithstanding any other provision of law,
+                                  10 only Special Drawing Rights may be deposited into the
+                                  11 Special Drawing Rights Fund.’’.
+                                  12               (c) CONFORMING AMENDMENTS.—
+                                  13                         (1) BRETTON               WOODS AGREEMENTS ACT.—Sec-
+                                  14               tion 18 of the Bretton Woods Agreements Act (22
+                                  15               U.S.C. 286e–3) is hereby repealed.
+                                  16                         (2) SUPPORT              FOR EAST EUROPEAN DEMOCRACY
+
+                                  17               (SEED) ACT OF 1989.—The                               Support for East Euro-
+                                  18               pean Democracy (SEED) Act of 1989 (22 U.S.C.
+                                  19               5401 et seq.) is amended—
+                                  20                                  (A) in section 101(b)(1), by striking ‘‘such
+                                  21                         as—’’ and all that follows through the end of
+                                  22                         the paragraph and inserting ‘‘such as the au-
+                                  23                         thority provided in section 102(c) of this Act.’’;
+
+
+
+
+                                  24                         and
+                                              •S 238 IS
+
+                                                                                         20
+                                    1                                 (B) in section 102(a), by striking ‘‘section
+                                    2                        101(b)—’’ and all that follows through the end
+                                    3                        of the subsection and inserting ‘‘section 101(b),
+                                    4                        should work closely with the European Commu-
+                                    5                        nity and international financial institutions to
+                                    6                        determine the extent of emergency assistance
+                                    7                        required by Poland for the fourth quarter of
+                                    8                        1989.’’.
+                                    9              (d) TREATMENT                    OF       CERTAIN FUNDS.—Funds that
+                                  10 would otherwise have been deposited into the Special
+                                  11 Drawing Rights Fund (as so renamed under subsection
+                                  12 (a)), but for the amendments made by this section, shall
+                                  13 instead be paid to the Secretary of the Treasury, and the
+                                  14 Secretary of the Treasury shall use such funds to reduce
+                                  15 the public debt.
+                                  16               (e) WIND DOWN PERIOD                                   FOR       CERTAIN TRANS-
+                                  17      ACTIONS.—Notwithstanding                              any other provision of this
+                                  18 section, during the 3-year period beginning on the date
+                                  19 of the enactment of this Act, property other than Special
+                                  20 Drawing Rights may be deposited, and maintained, in the
+                                  21 Special Drawing Rights Fund as needed to fulfill any out-
+                                  22 standing obligations on the Fund.
+
+
+
+
+
+                                              •S 238 IS
+
+                                    1         TITLE VI—CREDIT ALLOCATION               21
+                                    2               NEUTRALITY ACT
+                                    3     SEC. 601. FINDINGS.
+                                    4              The Congress finds the following:
+                                    5                        (1) In conducting open market operations, the
+                                    6              Federal Open Market Committee should not allocate
+                                    7              credit among households, firms, and sectors of the
+                                    8              United States economy.
+                                    9                        (2) To assure the credit allocation neutrality of
+                                  10               open market operations among households, firms,
+                                  11               and sectors of the United States economy, the Fed-
+                                  12               eral Open Market Committee should conduct open
+                                  13               market operations in United States Government se-
+                                  14               curities, and repurchase and reverse repurchase
+                                  15               agreements that have a term of 1 year or less, ex-
+                                  16               cept in unusual and exigent circumstances.
+                                  17      SEC. 602. LIMITATION ON CERTAIN NON-EMERGENCY SECU-
+                                  18                              RITY PURCHASES.
+                                  19               (a) IN GENERAL.—The Federal Reserve Act (12
+                                  20 U.S.C. 221 et seq.) is amended—
+                                  21                         (1) in section 12A, by adding at the end the fol-
+                                  22               lowing:
+                                  23               ‘‘(d) EMERGENCY PURCHASING AUTHORITY.—
+                                  24                         ‘‘(1) IN      GENERAL.—In                   unusual and exigent cir-
+                                  25               cumstances, the Committee, by the affirmative vote
+
+
+                                              •S 238 IS
+
+                                                                                         22
+                                    1              of at least 2⁄3 of the members of the Committee, may
+                                    2              authorize any Federal Reserve bank, during such pe-
+                                    3              riod as the Committee may determine—
+                                    4                                 ‘‘(A) to buy and sell, at home or abroad,
+                                    5                        bills, notes, revenue bonds, and warrants with a
+                                    6                        maturity from date of purchase of not exceed-
+                                    7                        ing six months, issued in anticipation of the col-
+                                    8                        lection of taxes or in anticipation of the receipt
+                                    9                        of assured revenues by any State, county, dis-
+                                  10                         trict, political subdivision, or municipality in the
+                                  11                         continental United States, including irrigation,
+                                  12                         drainage and reclamation districts, and obliga-
+                                  13                         tions of, or fully guaranteed as to principal and
+                                  14                         interest by, a foreign government or agency
+                                  15                         thereof; and
+                                  16                                  ‘‘(B) to buy and sell in the open market,
+                                  17                         under the direction and regulations of the Com-
+                                  18                         mittee, any obligation which is a direct obliga-
+                                  19                         tion of, or fully guaranteed as to principal and
+                                  20                         interest by, any agency of the United States.
+                                  21                         ‘‘(2) MAXIMUM                   HOLDING PERIOD.—Any                   bond,
+                                  22               bill, note, revenue bond, warrant, or other obligation
+                                  23               purchased by a Federal Reserve bank pursuant to
+
+
+
+
+                                  24               paragraph (1) shall be disposed of before the end of
+                                              •S 238 IS
+
+                                                                                         23
+                                    1              the 5-year period beginning on the end of the period
+                                    2              determined by the Committee under paragraph (1).
+                                    3                        ‘‘(3) REPORT.—The Committee shall provide to
+                                    4              the Committee on Banking, Housing, and Urban Af-
+                                    5              fairs of the Senate and the Committee on Financial
+                                    6              Services of the House of Representatives, not later
+                                    7              than 7 days after the Committee makes an author-
+                                    8              ization under this subsection, a report that in-
+                                  109              cludes—          ‘‘(A) the justification for the exercise of
+                                  11                         authority to provide;
+                                  12                                  ‘‘(B) the identity of the person to or from
+                                  13                         which purchases or sales were made;
+                                  14                                  ‘‘(C) the date and amount of the purchases
+                                  15                         or sales; and
+                                  16                                  ‘‘(D) the material terms of the purchases
+                                  17                         or sales.’’; and
+                                  18                         (2) in section 14(b)—
+                                  19                                  (A) in paragraph (1), by striking ‘‘bonds
+                                  20                         issued under the provisions of subsection (c) of
+                                  21                         section 4 of the Home Owners’ Loan Act of
+                                  22                         1933, as amended, and having maturities from
+                                  23                         date of purchase of not exceeding six months,
+
+
+
+
+                                  24                         and bills, notes, revenue bonds, and warrants
+                                  25                         with a maturity from date of purchase of not
+
+
+                                              •S 238 IS
+
+                                                                                         24
+                                    1                        exceeding six months, issued in anticipation of
+                                    2                        the collection of taxes or in anticipation of the
+                                    3                        receipt of assured revenues by any State, coun-
+                                    4                        ty, district, political subdivision, or municipality
+                                    5                        in the continental United States, including irri-
+                                    6                        gation, drainage and reclamation districts, and
+                                    7                        obligations of, or fully guaranteed as to prin-
+                                    8                        cipal and interest by, a foreign government or
+                                    9                        agency thereof,’’; and
+                                  10                                  (B) by amending paragraph (2) to read as
+                                  11                         follows:
+                                  12                         ‘‘(2) To enter into security repurchase agree-
+                                  13               ments and reverse repurchase agreements that have
+                                  14               a term of 1 year or less, in accordance with rules
+                                  15               and regulations prescribed by the Board of Gov-
+                                  16               ernors of the Federal Reserve System.’’.
+                                  17               (b) TRANSITION PROVISION.—Each Federal Reserve
+                                  18 bank that holds bonds, bills, notes, revenue bonds, war-
+                                  19 rants, or other obligations purchased under the authority
+                                  20 granted by a provision struck under subsection (a)(2) shall
+                                  21 dispose of such obligations not later than the end of the
+                                  22 5-year period beginning on the date of the enactment of
+                                  23 this Act.
+
+
+
+
+
+                                              •S 238 IS
+
+                                    1     TITLE VII—BUREAU OF CON-                     25
+                                    2        SUMER FINANCIAL PROTEC-
+                                    3        TION FUNDING ACT
+                                    4     SEC. 701. FINDINGS.
+                                    5              The Congress finds the following:
+                                    6                        (1) As our Nation’s central bank, the Federal
+                                    7              Reserve conducts United States monetary policy and
+                                    8              necessarily exercises broad oversight responsibility to
+                                    9              ensure the safety, soundness, and smooth func-
+                                  10               tioning of the Nation’s banking and payments sys-
+                                  11               tems.
+                                  12                         (2) There exists a broad consensus among pol-
+                                  13               icymakers, academics, and most informed com-
+                                  14               mentators that central bank independence is nec-
+                                  15               essary to the proper and effective conduct of mone-
+                                  16               tary policy and those regulatory activities necessary
+                                  17               for the implementation of such monetary policy.
+                                  18                         (3) In order to preserve the independence of its
+                                  19               activities, the Federal Reserve should remain oper-
+                                  20               ationally and financially autonomous within the
+                                  21               United States Government.
+                                  22                         (4) However, those activities that do not relate
+                                  23               to the functions listed in paragraph (1) should not
+
+
+
+
+                                  24               occur outside of the constitutionally granted author-
+                                              •S 238 IS
+
+                                                                                         26
+                                    1              ity of Congress to authorize and oversee the expendi-
+                                    2              ture of public funds.
+                                    3                        (5) Therefore, the Bureau of Consumer Finan-
+                                    4              cial Protection should be subject to the Federal ap-
+                                    5              propriations process to ensure effective Congres-
+                                    6              sional oversight over its activities and use of public
+                                    7              funds.
+                                    8     SEC. 702. BUREAU OF CONSUMER FINANCIAL PROTECTION
+                                    9                             FUNDING.
+                                  10               (a) IN GENERAL.—Section 1017 of the Consumer Fi-
+                                  11 nancial Protection Act of 2010 (12 U.S.C. 5497) is
+                                  12 amended—
+                                  13                         (1) in subsection (a)—
+                                  14                                  (A) by amending the heading of such sub-
+                                  15                         section to read as follows: ‘‘BUDGET, FINAN-
+                                  16                         CIAL     MANAGEMENT,                  AND       AUDIT.—’’;
+                                  17                                  (B) by striking paragraphs (1), (2), and
+                                  18                         (3);
+                                  19                                  (C) by redesignating paragraphs (4) and
+                                  20                         (5) as paragraphs (1) and (2), respectively; and
+                                  21                                  (D) in paragraph (1), as so redesignated—
+                                  22                                         (i) by striking subparagraph (E); and
+                                  23                                         (ii) by redesignating subparagraph
+
+
+
+
+
+                                  24                                  (F) as subparagraph (E);
+                                  25                         (2) by striking subsections (b) and (c);
+
+
+                                              •S 238 IS
+
+                                                                                         27
+                                    1                        (3) by redesignating subsections (d) and (e) as
+                                    2              subsections (b) and (c), respectively; and
+                                    3                        (4) in subsection (c), as so redesignated—
+                                    4                                 (A) by striking paragraphs (1), (2), and
+                                    5                        (3) and inserting the following:
+                                    6                        ‘‘(1) AUTHORIZATION                         OF APPROPRIATIONS.—
+                                    7              There is authorized to be appropriated such funds as
+                                    8              may be necessary to carry out this title.’’; and
+                                    9                                 (B) by redesignating paragraph (4) as
+                                  10                         paragraph (2).
+                                  11               (b) EFFECTIVE DATE.—The amendments made by
+                                  12 this section shall take effect on October 1, 2013.
+                                              •S 238 IS                                    Æ

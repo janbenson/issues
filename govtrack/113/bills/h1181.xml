@@ -1,0 +1,37 @@
+<bill session="113" type="h" number="1181" updated="2013-03-22T12:45:58-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="short">Sequestration of Pay for Members of Congress Act of 2013</title>
+    <title as="introduced" type="official">To reduce the annual rate of pay of Members of Congress by 8.2 percent.</title>
+  </titles>
+  <sponsor id="412526"/>
+  <cosponsors>
+    <cosponsor id="412438" joined="2013-03-14"/>
+    <cosponsor id="412512" joined="2013-03-14"/>
+    <cosponsor id="412552" joined="2013-03-18"/>
+    <cosponsor id="412551" joined="2013-03-14"/>
+    <cosponsor id="400606" joined="2013-03-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

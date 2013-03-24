@@ -1,32 +1,23 @@
 class IssuesController < ApplicationController
+  layout "frontpage"
+  
+
+  caches_page :pipa
+	
+	
    @logged_in == false	
-   layout "frontpage"
-   require '/home/jan/ruby/issues/app/helpers/url_helper.rb'
 
    caches_page :pipa
   
   def index
     unless read_fragment("frontpage_rightside")
       @index_tabs = [
-              # {:title => 'Bills in the News',
-              # :partial => 'bill',
-              # :collection => Bill.find_by_most_commentary('news', 5, 7.days, Settings.default_congress),
-              # :id => 'bns',
-              # :link => 'bill/most/news?types=all',
-              # :count_type => 'news_articles'},
-              # {:title => 'Bills on Blogs',
-              # :partial => 'bill',
-              # :collection => Bill.find_by_most_commentary('blog', 5, 7.days, Settings.default_congress),
-              # :id => 'bbg',
-              # :link => 'bill/most/blog?types=all',
-              # :style => 'display: none;',
-              # :count_type => 'blog_articles'},              
               {:title => 'Most-Viewed Bills',
               :partial => 'bill',
               :collection => ObjectAggregate.popular('Bill', 30, 5),
               :id => "bv",
               :link => '/bill/most/viewed',
-              :style => 'display: none;',
+             :style => 'display: none;',
               :count_type => 'views'},
               {:title => 'Newest Bills',
               :partial => 'bill',

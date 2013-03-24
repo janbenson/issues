@@ -1,0 +1,27 @@
+<bill session="113" type="h" number="1367" updated="2013-03-22T04:47:11-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To amend chapter 89 of title 5, United States Code, to ensure program integrity, transparency, and cost savings in the pricing and contracting of prescription drug benefits under the Federal Employees Health Benefits Program.</title>
+  </titles>
+  <sponsor id="400249"/>
+  <cosponsors>
+    <cosponsor id="400090" joined="2013-03-21"/>
+    <cosponsor id="400283" joined="2013-03-21"/>
+    <cosponsor id="400295" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

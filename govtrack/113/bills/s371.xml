@@ -1,0 +1,49 @@
+<bill session="113" type="s" number="371" updated="2013-03-16T06:18:22-04:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title as="introduced" type="short">Blackstone River Valley National Historical Park Establishment Act</title>
+    <title as="introduced" type="official">A bill to establish the Blackstone River Valley National Historical Park, to dedicate the Park to John H. Chafee, and for other purposes.</title>
+  </titles>
+  <sponsor id="300081"/>
+  <cosponsors>
+    <cosponsor id="412586" joined="2013-02-14"/>
+    <cosponsor id="412542" joined="2013-02-14"/>
+    <cosponsor id="412247" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S787"/>
+    </action>
+    <action state="REFERRED" datetime="2013-02-14">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="706"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Dams and canals"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Industrial facilities"/>
+    <term name="Lakes and rivers"/>
+    <term name="Massachusetts"/>
+    <term name="Members of Congress"/>
+    <term name="Monuments and memorials"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Rhode Island"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>2/14/2013--Introduced.
+Blackstone River Valley National Historical Park Establishment Act - Establishes the Blackstone River Valley National Historical Park in Massachussets and Rhode Island as a unit of the National Park System. Authorizes the Secretary to acquire up to 10 acres in Woonsocket, Rhode Island, for the development of administrative, curatorial, or visitor facilities for the Park. Requires the Secretary to prepare a general management plan for the Park. Dedicates the Park to former U.S. Senator John H. Chafee from Rhode Island in recognition of: (1) his role in the preservation of the resources of the Blackstone River Valley and the heritage corridor that bears his name, and (2) the decades of his service to the people of Rhode Island and the United States. Requires a memorial to be displayed at a location in the Park that recognizes Senator Chafee's role in the preservation of the resources of the Blackstone River Valley for the people of the United States. Adjusts the boundary of the John H. Chafee Blackstone River Valley National Heritage Corridor. Designates the Blackstone River Valley National Heritage Corridor, Inc., as the local coordinating entity for the Corridor.</summary>
+</bill>

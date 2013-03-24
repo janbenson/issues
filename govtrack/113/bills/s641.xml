@@ -1,0 +1,25 @@
+<bill session="113" type="s" number="641" updated="2013-03-22T04:45:54-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend the Public Health Service Act to increase the number of permanent faculty in palliative care at accredited allopathic and osteopathic medical schools, nursing schools, and other programs, to promote education in palliative care and hospice, and to support the development of faculty careers in academic palliative medicine.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="300081" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

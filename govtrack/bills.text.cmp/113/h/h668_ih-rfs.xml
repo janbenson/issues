@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<body status="rfs" difference-size-chars="510" percent-change="35" total-changes="15" previous-status="ih">
+  <p nid="t0:rfs:1" tracking-nids="t0:ih:1">HR 668 <changed sequence="1"><changed-from>IH</changed-from><changed-to>RFS</changed-to></changed></p>
+  <p/>
+  <center>
+    <p nid="t0:rfs:2">113th CONGRESS</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:rfs:3" tracking-nids="t0:ih:3">1st Session</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:rfs:4">H<removed sequence="2">. R. 668To amend <usc-reference title="31" section="1105" paragraph="a"><usc-reference title="31" section="1105" paragraph="a">section 1105(a) of title 31, United States Code</usc-reference></usc-reference>, to require that annual budget submissions of the President to Congress provide an estimate of the cost per taxpayer of the deficit, and for other purposes</removed>. <inserted sequence="3">R. 668</inserted></p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:rfs:5">IN THE <changed sequence="4"><changed-from>HOUS</changed-from><changed-to>SENAT</changed-to></changed>E OF <removed sequence="5">REPRESENTATIVES<p/><h3 nid="t0:ih:7"><center><p nid="t0:ih:8">February 13, 2013</p></center></h3>Mr. MESSER (for himself, Mr. YOUNG of Indiana,</removed><inserted sequence="6">THE UNITED STATES</inserted></p>
+  </center>
+  <inserted sequence="7">
+    <p/>
+    <h3 nid="t0:rfs:6">
+      <center>
+        <p nid="t0:rfs:7">March 7, 2013</p>
+      </center>
+    </h3>
+  </inserted>
+  <p nid="t0:rfs:8"><inserted sequence="8">Received; read twice</inserted> and <removed sequence="9">Mr. MULVANEY) introduced the following bill; which was </removed>referred to the Committee on the Budget</p>
+  <hr/>
+  <p/>
+  <center>
+    <p nid="t0:rfs:9">A<changed sequence="10"><changed-from> BILL</changed-from><changed-to>N ACT</changed-to></changed></p>
+  </center>
+  <p nid="t0:rfs:10">To amend <usc-reference title="31" section="1105" paragraph="a"><usc-reference title="31" section="1105" paragraph="a">section 1105(a) of title 31, United States Code</usc-reference></usc-reference>, to require that annual budget submissions of the President to Congress provide an estimate of the cost per taxpayer of the deficit, and for other purposes.</p>
+  <ul>
+    <p nid="t0:rfs:11" tracking-nids="t0:ih:12">
+      <em>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</em>
+    </p>
+  </ul>
+  <p/>
+  <h3 nid="t0:rfs:12" tracking-nids="t0:ih:13">SECTION 1. REQUIREMENT IN BUDGET SUBMISSION WITH RESPECT TO THE COST PER TAXPAYER OF THE DEFICIT.</h3>
+  <ul>
+    <p nid="t0:rfs:13"><usc-reference title="31" section="1105" paragraph="a"><usc-reference title="31" section="1105" paragraph="a">Section 1105(a) of title 31, United States Code</usc-reference></usc-reference>, is amended--</p>
+    <ul>
+      <p nid="t0:rfs:14" tracking-nids="t0:ih:15">(1) redesignating paragraph (37) (relating to the list of outdated or duplicative plans and reports) as paragraph (39); and</p>
+      <p nid="t0:rfs:15" tracking-nids="t0:ih:16">(2) by adding at the end the following:</p>
+      <blockquote>
+        <p nid="t0:rfs:16" tracking-nids="t0:ih:17">&#x2018;(40) in the case of a fiscal year in which the budget is projected to result in a deficit, an estimate of the pro rata cost of such deficit for taxpayers who will file individual income tax returns for taxable years ending during such fiscal year.&#x2019;<inserted sequence="11">.</inserted></p>
+      </blockquote>
+    </ul>
+  </ul>
+  <inserted sequence="12">
+    <p nid="t0:rfs:17">Passed the House of Representatives March 5, 2013.</p>
+    <p nid="t0:rfs:18">Attest:</p>
+  </inserted>
+  <p nid="t0:rfs:19"><inserted sequence="13">KAREN L</inserted>. <inserted sequence="14">HAAS,</inserted></p>
+  <inserted sequence="15">
+    <p nid="t0:rfs:20">Clerk.</p>
+  </inserted>
+</body>

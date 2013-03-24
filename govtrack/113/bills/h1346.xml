@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="1346" updated="2013-03-22T04:47:01-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Fair Labor Standards Act of 1938 to provide for an increase in the Federal minimum wage and to index future increases to such wage to increases in the consumer price index.</title>
+  </titles>
+  <sponsor id="412276"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

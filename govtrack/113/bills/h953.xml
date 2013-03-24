@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="953" updated="2013-03-09T06:21:54-05:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title as="introduced" type="short">Local Courthouse Safety Act of 2013</title>
+    <title as="introduced" type="official">To improve security at State and local courthouses.</title>
+  </titles>
+  <sponsor id="412276"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-05">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-05">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-03-05">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="445"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

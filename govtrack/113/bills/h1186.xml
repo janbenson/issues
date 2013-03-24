@@ -1,0 +1,35 @@
+<bill session="113" type="h" number="1186" updated="2013-03-21T15:46:21-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="official">To posthumously award the Congressional Gold Medal to each of Glen Doherty and Tyrone Woods in recognition of their contributions to the Nation.</title>
+  </titles>
+  <sponsor id="412283"/>
+  <cosponsors>
+    <cosponsor id="412252" joined="2013-03-14"/>
+    <cosponsor id="400089" joined="2013-03-18"/>
+    <cosponsor id="400651" joined="2013-03-14"/>
+    <cosponsor id="412460" joined="2013-03-14"/>
+    <cosponsor id="412226" joined="2013-03-14"/>
+    <cosponsor id="400220" joined="2013-03-14"/>
+    <cosponsor id="400348" joined="2013-03-21"/>
+    <cosponsor id="412574" joined="2013-03-14"/>
+    <cosponsor id="400433" joined="2013-03-14"/>
+    <cosponsor id="412255" joined="2013-03-14"/>
+    <cosponsor id="400435" joined="2013-03-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

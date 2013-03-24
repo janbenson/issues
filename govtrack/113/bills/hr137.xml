@@ -1,0 +1,34 @@
+<bill session="113" type="hr" number="137" updated="2013-03-22T04:46:08-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">Recognizing the security challenges of convening government officials in one specific place and directing the House of Representatives to take appropriate steps so that the House of Representatives can meet in a virtual setting.</title>
+  </titles>
+  <sponsor id="400313"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Rules, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Rules</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House House Administration</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

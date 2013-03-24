@@ -1,0 +1,444 @@
+<bill session="113" type="h" number="933" updated="2013-03-22T12:45:55-04:00">
+  <state datetime="2013-03-21T10:54:00-04:00">PASSED:BILL</state>
+  <status>
+    <unknown datetime="2013-03-21T10:54:00-04:00"/>
+  </status>
+  <introduced datetime="2013-03-04"/>
+  <titles>
+    <title as="introduced" type="short">Department of Defense, Military Construction and Veterans Affairs, and Full-Year Continuing Appropriations Act, 2013</title>
+    <title as="introduced" type="short">Department of Defense Appropriations Act, 2013</title>
+    <title as="introduced" type="short">Full-Year Continuing Appropriations Act, 2013</title>
+    <title as="introduced" type="short">Military Construction and Veterans Affairs, and Related Agencies Appropriations Act, 2013</title>
+    <title as="passed house" type="short">Department of Defense, Military Construction and Veterans Affairs, and Full-Year Continuing Appropriations Act, 2013</title>
+    <title as="passed house" type="short">Department of Defense Appropriations Act, 2013</title>
+    <title as="passed house" type="short">Full-Year Continuing Appropriations Act, 2013</title>
+    <title as="passed house" type="short">Military Construction and Veterans Affairs, and Related Agencies Appropriations Act, 2013</title>
+    <title as="passed senate" type="short">Consolidated and Further Continuing Appropriations Act, 2013</title>
+    <title as="passed senate" type="short">Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2013</title>
+    <title as="passed senate" type="short">Commerce, Justice, Science, and Related Agencies Appropriations Act, 2013</title>
+    <title as="passed senate" type="short">Department of Commerce Appropriations Act, 2013</title>
+    <title as="passed senate" type="short">Department of Defense Appropriations Act, 2013</title>
+    <title as="passed senate" type="short">Department of Homeland Security Appropriations Act, 2013</title>
+    <title as="passed senate" type="short">Department of Justice Appropriations Act, 2013</title>
+    <title as="passed senate" type="short">Full-Year Continuing Appropriations Act, 2013</title>
+    <title as="passed senate" type="short">Military Construction and Veterans Affairs, and Related Agencies Appropriations Act, 2013</title>
+    <title as="passed senate" type="short">Science Appropriations Act, 2013</title>
+    <title as="introduced" type="official">Making appropriations for the Department of Defense, the Department of Veterans Affairs, and other departments and agencies for the fiscal year ending September 30, 2013, and for other purposes.</title>
+    <title as="amended by senate" type="official">Amend the title to read: "An Act making consolidated appropriations and further continuing appropriations for the fiscal year ending September 30, 2013."</title>
+  </titles>
+  <sponsor id="400340"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-04">
+      <text>Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-04">
+      <text>Referred to House Appropriations</text>
+    </action>
+    <action datetime="2013-03-04">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2013-03-05T17:51:00-05:00">
+      <text>Rules Committee Resolution H. Res. 99 Reported to House. Rule provides for consideration of H.R. 933 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The resolution waives all points of order against consideration of the bill. The resolution waives all points of order against provisions in the bill, as amended.</text>
+    </action>
+    <action datetime="2013-03-06T11:57:00-05:00">
+      <text>Rule H. Res. 99 passed House.</text>
+    </action>
+    <action datetime="2013-03-06T12:02:00-05:00">
+      <text>Considered under the provisions of rule H. Res. 99.</text>
+      <reference ref="CR H997-1316" label="consideration"/>
+    </action>
+    <action datetime="2013-03-06T12:02:00-05:00">
+      <text>Rule provides for consideration of H.R. 933 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The resolution waives all points of order against consideration of the bill. The resolution waives all points of order against provisions in the bill, as amended.</text>
+    </action>
+    <action datetime="2013-03-06T12:03:00-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 933.</text>
+    </action>
+    <action datetime="2013-03-06T13:24:00-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H1314" label="consideration"/>
+    </action>
+    <action datetime="2013-03-06T13:25:00-05:00">
+      <text>Mr. Peters (CA) moved to recommit with instructions to Appropriations.</text>
+      <reference ref="CR H1314-1315" label="consideration"/>
+      <reference ref="CR H1314" label="text"/>
+    </action>
+    <action datetime="2013-03-06T13:25:00-05:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the Peters(CA) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to strike the section from the bill that affirms sequestration's cuts will apply to all funding in the bill.</text>
+    </action>
+    <action datetime="2013-03-06T13:32:00-05:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H1315" label="consideration"/>
+    </action>
+    <action datetime="2013-03-06T13:54:00-05:00">
+      <text>On motion to recommit with instructions Failed by the Yeas and Nays: 188 - 231 (Roll no. 61).</text>
+    </action>
+    <vote state="PASS_OVER:HOUSE" datetime="2013-03-06T14:04:00-05:00" how="roll" result="pass" roll="62" type="vote" where="h">
+      <text>On passage Passed by the Yeas and Nays: 267 - 151 (Roll no. 62).</text>
+      <reference ref="CR H998-1303" label="text"/>
+    </vote>
+    <action datetime="2013-03-06T14:04:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <calendar datetime="2013-03-07" calendar="Senate Legislative" under="General Orders" number="21">
+      <text>Received in the Senate. Read twice., and ordered Placed on Senate Legislative Calendar under General Orders. Calendar No. 21.</text>
+    </calendar>
+    <action datetime="2013-03-12">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S1683, S1683-1703" label="consideration"/>
+    </action>
+    <action datetime="2013-03-12">
+      <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
+      <reference ref="CR S1703" label="consideration"/>
+      <reference ref="CR S1703" label="text"/>
+    </action>
+    <action datetime="2013-03-13">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S1718-1719" label="consideration"/>
+    </action>
+    <action datetime="2013-03-13">
+      <text>Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent.</text>
+      <reference ref="CR S1719" label="consideration"/>
+    </action>
+    <action datetime="2013-03-13">
+      <text>Cloture motion on the motion to proceed withdrawn by unanimous consent in Senate.</text>
+      <reference ref="CR S1720" label="consideration"/>
+    </action>
+    <action datetime="2013-03-13">
+      <text>Measure laid before Senate by motion.</text>
+      <reference ref="CR S1719-1782" label="consideration"/>
+    </action>
+    <action datetime="2013-03-13">
+      <text>Cloture motion on the bill presented in Senate.</text>
+      <reference ref="CR S1782" label="consideration"/>
+      <reference ref="CR S1782" label="text"/>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S1829-1837, S1837-1849" label="consideration"/>
+    </action>
+    <action datetime="2013-03-18">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S1874-1887" label="consideration"/>
+    </action>
+    <action datetime="2013-03-19">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S1914, S1928-1944" label="consideration"/>
+    </action>
+    <action datetime="2013-03-20">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S1967-1990" label="consideration"/>
+    </action>
+    <action datetime="2013-03-20">
+      <text>Cloture on the bill invoked in Senate by Yea-Nay Vote. 63 - 36. Record Vote Number: 43.</text>
+      <reference ref="CR S1987-1988" label="consideration"/>
+      <reference ref="CR S1987-1988" label="text"/>
+    </action>
+    <vote state="PASS_BACK:SENATE" datetime="2013-03-20" how="roll" result="pass" roll="44" type="vote2" where="s">
+      <text>Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 73 - 26. Record Vote Number: 44.</text>
+    </vote>
+    <action datetime="2013-03-20">
+      <text>Measure amended in Senate by unanimous consent after passage by Unanimous Consent.</text>
+    </action>
+    <action datetime="2013-03-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2013-03-21T09:20:00-04:00">
+      <text>Pursuant to a previous special order the House moved to agree to the Senate amendments.</text>
+      <reference ref="CR H172501794, H1801-1802" label="consideration"/>
+      <reference ref="CR H1725-1790" label="text as House agreed to Senate amendment"/>
+    </action>
+    <action datetime="2013-03-21T09:20:00-04:00">
+      <text>DEBATE - Pursuant to a previous special order, the House proceeded with one hour of debate on the motion to agree to the Senate amendments to H.R. 933.</text>
+    </action>
+    <action datetime="2013-03-21T09:50:00-04:00">
+      <text>The previous question was ordered pursuant to a previous special order.</text>
+      <reference ref="CR H1794" label="consideration"/>
+    </action>
+    <action datetime="2013-03-21T09:51:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Senate amendments to H.R. 933, the Chair put the question on agreeing to the Senate amendments and by voice vote, announced that the ayes had prevailed. Mrs. Lowey requested the yeas and nays and the Chair postponed further proceedings until later in the legislative day.</text>
+    </action>
+    <vote state="PASSED:BILL" datetime="2013-03-21T10:54:00-04:00" how="roll" result="pass" roll="89" type="pingpong" where="h">
+      <text>On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 318 - 109 (Roll no. 89).</text>
+      <reference ref="CR H1801" label="consideration"/>
+    </vote>
+    <action datetime="2013-03-21T10:54:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Referral"/>
+    <committee code="HSBU" name="House Budget" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="113" type="hr" number="99"/>
+    <bill relation="unknown" session="113" type="s" number="444"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Afghanistan"/>
+    <term name="Agricultural insurance"/>
+    <term name="Agricultural prices, subsidies, credit"/>
+    <term name="American Battle Monuments Commission"/>
+    <term name="Appropriations"/>
+    <term name="Architect of the Capitol"/>
+    <term name="Armed Forces Retirement Home"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Army Corps of Engineers"/>
+    <term name="Asia"/>
+    <term name="Aviation and airports"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Buy American requirements"/>
+    <term name="Caribbean area"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Central Intelligence Agency (CIA)"/>
+    <term name="Chemical and biological weapons"/>
+    <term name="Child safety and welfare"/>
+    <term name="Coast guard"/>
+    <term name="Colorado"/>
+    <term name="Commodity Futures Trading Commission"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Computers and information technology"/>
+    <term name="Congressional Budget Office (CBO)"/>
+    <term name="Congressional Research Service (CRS)"/>
+    <term name="Congressional agencies"/>
+    <term name="Congressional oversight"/>
+    <term name="Corporation for National and Community Service"/>
+    <term name="Corporation for Public Broadcasting"/>
+    <term name="Cuba"/>
+    <term name="Defense spending"/>
+    <term name="Department of Agriculture"/>
+    <term name="Department of Commerce"/>
+    <term name="Department of Defense"/>
+    <term name="Department of Education"/>
+    <term name="Department of Energy"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Department of Housing and Urban Development"/>
+    <term name="Department of Justice"/>
+    <term name="Department of Labor"/>
+    <term name="Department of State"/>
+    <term name="Department of Transportation"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Department of the Interior"/>
+    <term name="Department of the Treasury"/>
+    <term name="Detention of persons"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Disability and paralysis"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="District of Columbia"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Education programs funding"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Employment and training programs"/>
+    <term name="Energy assistance for the poor and aged"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Europe"/>
+    <term name="Executive Office of the President"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Communications Commission (FCC)"/>
+    <term name="Federal Emergency Management Agency (FEMA)"/>
+    <term name="Federal appellate courts"/>
+    <term name="Federal officials"/>
+    <term name="Financial services and investments"/>
+    <term name="Food and Drug Administration (FDA)"/>
+    <term name="Food assistance and relief"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="General Services Administration"/>
+    <term name="Germany"/>
+    <term name="Government Accountability Office (GAO)"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Higher education"/>
+    <term name="Homeland security"/>
+    <term name="House of Representatives"/>
+    <term name="Human rights"/>
+    <term name="Idaho"/>
+    <term name="Illinois"/>
+    <term name="Indian social and development programs"/>
+    <term name="Inflation and prices"/>
+    <term name="Infrastructure development"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Internal Revenue Service (IRS)"/>
+    <term name="Iraq"/>
+    <term name="Israel"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Kuwait"/>
+    <term name="Latin America"/>
+    <term name="Library of Congress"/>
+    <term name="Lighting and heating"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Medical research"/>
+    <term name="Middle East"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Military civil functions"/>
+    <term name="Military command and structure"/>
+    <term name="Military education and training"/>
+    <term name="Military facilities and property"/>
+    <term name="Military operations and strategy"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Military procurement, research, weapons development"/>
+    <term name="Minnesota"/>
+    <term name="Montana"/>
+    <term name="Multilateral development programs"/>
+    <term name="National Aeronautics and Space Administration"/>
+    <term name="National Archives and Records Administration"/>
+    <term name="National Guard and reserves"/>
+    <term name="National Science Foundation"/>
+    <term name="Nevada"/>
+    <term name="North Dakota"/>
+    <term name="Nuclear weapons"/>
+    <term name="Office of Personnel Management (OPM)"/>
+    <term name="Oil and gas"/>
+    <term name="Oregon"/>
+    <term name="Pakistan"/>
+    <term name="Protection of officials"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Refugees, asylum, displaced persons"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+    <term name="Roads and highways"/>
+    <term name="Securities"/>
+    <term name="Securities and Exchange Commission (SEC)"/>
+    <term name="Senate"/>
+    <term name="Small Business Administration"/>
+    <term name="Smithsonian Institution"/>
+    <term name="Social Security Administration"/>
+    <term name="South Dakota"/>
+    <term name="State and local finance"/>
+    <term name="Terrorism"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+    <term name="U.S. Agency for International Development (USAID)"/>
+    <term name="U.S. Capitol"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' pensions and compensation"/>
+    <term name="Violent crime"/>
+    <term name="Virginia"/>
+    <term name="War and emergency powers"/>
+    <term name="Washington State"/>
+    <term name="Water resources funding"/>
+  </subjects>
+  <amendments>
+    <amendment number="h24"/>
+    <amendment number="s26"/>
+    <amendment number="s27"/>
+    <amendment number="s28"/>
+    <amendment number="s29"/>
+    <amendment number="s30"/>
+    <amendment number="s31"/>
+    <amendment number="s32"/>
+    <amendment number="s33"/>
+    <amendment number="s34"/>
+    <amendment number="s35"/>
+    <amendment number="s36"/>
+    <amendment number="s37"/>
+    <amendment number="s38"/>
+    <amendment number="s39"/>
+    <amendment number="s40"/>
+    <amendment number="s41"/>
+    <amendment number="s42"/>
+    <amendment number="s43"/>
+    <amendment number="s44"/>
+    <amendment number="s45"/>
+    <amendment number="s46"/>
+    <amendment number="s47"/>
+    <amendment number="s48"/>
+    <amendment number="s49"/>
+    <amendment number="s50"/>
+    <amendment number="s51"/>
+    <amendment number="s52"/>
+    <amendment number="s53"/>
+    <amendment number="s54"/>
+    <amendment number="s55"/>
+    <amendment number="s56"/>
+    <amendment number="s57"/>
+    <amendment number="s58"/>
+    <amendment number="s59"/>
+    <amendment number="s60"/>
+    <amendment number="s61"/>
+    <amendment number="s62"/>
+    <amendment number="s63"/>
+    <amendment number="s64"/>
+    <amendment number="s65"/>
+    <amendment number="s66"/>
+    <amendment number="s67"/>
+    <amendment number="s68"/>
+    <amendment number="s69"/>
+    <amendment number="s70"/>
+    <amendment number="s71"/>
+    <amendment number="s72"/>
+    <amendment number="s73"/>
+    <amendment number="s74"/>
+    <amendment number="s75"/>
+    <amendment number="s76"/>
+    <amendment number="s77"/>
+    <amendment number="s78"/>
+    <amendment number="s79"/>
+    <amendment number="s80"/>
+    <amendment number="s81"/>
+    <amendment number="s82"/>
+    <amendment number="s83"/>
+    <amendment number="s84"/>
+    <amendment number="s85"/>
+    <amendment number="s86"/>
+    <amendment number="s87"/>
+    <amendment number="s88"/>
+    <amendment number="s89"/>
+    <amendment number="s90"/>
+    <amendment number="s91"/>
+    <amendment number="s92"/>
+    <amendment number="s93"/>
+    <amendment number="s94"/>
+    <amendment number="s95"/>
+    <amendment number="s96"/>
+    <amendment number="s97"/>
+    <amendment number="s98"/>
+    <amendment number="s99"/>
+    <amendment number="s100"/>
+    <amendment number="s101"/>
+    <amendment number="s102"/>
+    <amendment number="s103"/>
+    <amendment number="s104"/>
+    <amendment number="s105"/>
+    <amendment number="s106"/>
+    <amendment number="s107"/>
+    <amendment number="s108"/>
+    <amendment number="s109"/>
+    <amendment number="s110"/>
+    <amendment number="s111"/>
+    <amendment number="s112"/>
+    <amendment number="s113"/>
+    <amendment number="s114"/>
+    <amendment number="s115"/>
+    <amendment number="s116"/>
+    <amendment number="s117"/>
+    <amendment number="s118"/>
+    <amendment number="s119"/>
+    <amendment number="s120"/>
+    <amendment number="s121"/>
+    <amendment number="s122"/>
+    <amendment number="s123"/>
+    <amendment number="s124"/>
+    <amendment number="s125"/>
+    <amendment number="s126"/>
+    <amendment number="s127"/>
+    <amendment number="s128"/>
+    <amendment number="s129"/>
+    <amendment number="s130"/>
+    <amendment number="s131"/>
+    <amendment number="s132"/>
+    <amendment number="s133"/>
+    <amendment number="s134"/>
+    <amendment number="s135"/>
+    <amendment number="s176"/>
+  </amendments>
+  <summary>3/4/2013--Introduced.
+Department of Defense, Military Construction and Veterans Affairs, and Full-Year Continuing Appropriations Act, 2013 - Department of Defense Appropriations Act, 2013 - Appropriates funds for FY2013 to the Department of Defense (DOD) for: (1) military personnel; (2) operation and maintenance, including for the United States Court of Appeals for the Armed Forces, environmental restoration, overseas humanitarian, disaster, and civic aid, former Soviet Union cooperative threat reduction, and the Department of Defense Acquisition Workforce Development Fund; (3) procurement, including for aircraft, missiles, weapons, tracked combat vehicles, ammunition, shipbuilding and conversion, and purchases under the Defense Production Act of 1950; (4) research, development, test, and evaluation (RDT&amp;E); (5) Defense Working Capital Funds and the National Defense Sealift Fund; (6) the Defense Health Program; (7) chemical agents and munitions destruction; (8) drug interdiction and counter-drug activities; (9) the Office of the Inspector General; (10) the Central Intelligence Agency Retirement and Disability System Fund; (11) the Intelligence Community Management Account; and (12) overseas contingency operations, including regular, reserve, and National Guard personnel, operation and maintenance, the Overseas Contingency Operations Transfer Fund, the Afghanistan Infrastructure Fund, the Afghanistan Security Forces Fund, procurement, RDT&amp;E, and the Joint Improvised Explosive Device Defeat Fund. Specifies authorized, restricted, and prohibited uses of appropriated funds. Rescinds specified funds from various accounts under prior defense appropriations Acts. Military Construction and Veterans Affairs, and Related Agencies Appropriations Act, 2013 - Appropriates funds for FY2013 for DOD for: (1) military construction for the Army, Navy and Marine Corps, and Air Force (military departments), DOD, the Army and Air National Guard, and the Army, Navy, and Air Force reserves; (2) the North Atlantic Treaty Organization (NATO) Security Investment Program; (3) family housing construction and related operation and maintenance for the military departments and DOD; (4) the Department of Defense Family Housing Improvement Fund; (5) DOD chemical demilitarization construction; and (6) the Department of Defense Base Closure Accounts of 1990 and 2005. Appropriates funds for the Department of Veterans Affairs (VA) for: (1) the Veterans Benefits Administration; (2) readjustment benefits; (3) veterans insurance and indemnities; (4) the Veterans Housing Benefit Program Fund; (5) the Vocational Rehabilitation Loans Program; (6) the Native American Veteran Housing Loan Program; (7) the Veterans Health Administration; (8) the National Cemetery Administration; (9) the Office of Inspector General; (10) construction for major and minor projects; and (11) grants for the construction of extended care facilities and veterans cemeteries. Appropriates funds for: (1) the American Battle Monuments Commission, (2) the U.S. Court of Appeals for Veterans Claims, (3) DOD cemeterial expenses, (4) the Armed Forces Retirement Home, and (5) overseas contingency operations for military construction for the Navy and Marine Corps. Specifies restrictions and authorities regarding the use of funds appropriated in this Act. Full-Year Continuing Appropriations Act, 2013 - Makes continuing appropriations for FY2013. Appropriates amounts for continuing operations, projects, or activities which were conducted in FY2012 and for which appropriations, funds, or other authority were made available in: (1) the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2012; (2) the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012; (3) the Energy and Water Development and Related Agencies Appropriations Act, 2012; (4) the Financial Services and General Government Appropriations Act, 2012; (5) the Department of Homeland Security Appropriations Act, 2012; (6) the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2012; (7) the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2012; (8) the Legislative Branch Appropriations Act, 2012; (9) the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2012; (10) the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2012; and (11) the Disaster Relief Appropriations Act, 2012. Establishes levels of funding for FY2013 for departments and agencies included under such Acts. Specifies authorized, restricted, and prohibited uses of appropriated funds. Rescinds, except as specified, defined applicable percentages of: (1) the budget authority provided (or obligation limit imposed) for FY2013 for any of the preceding discretionary accounts, (2) the budget authority provided in any advance appropriation for FY2013 for any discretionary account in any prior fiscal year appropriation Act, and (3) the contract authority provided in FY2013 for any program subject to limitation incorporated or otherwise contained in the preceding provisions this Act.</summary>
+</bill>

@@ -20,7 +20,7 @@ height: 0 !important;
 overflow: hidden !important;;
 width: 250px;
 line-height: 4em;
-background: url(/images/groups.png) no-repeat;
+background: urgroups.png) no-repeat;
 }
  
 .index #heading p{
@@ -185,7 +185,7 @@ width: 40px;
 right: -40px;
 height: 40px;
 top: -1px;
-background: url(/images/sidebar-active.png) no-repeat;
+background: ursidebar-active.png) no-repeat;
 }
 
 
@@ -257,47 +257,47 @@ height: 40px;
 }
 
 li.photo .icon{
-background: url(/images/group-icons.png) no-repeat;
+background: urgroup-icons.png) no-repeat;
 }
 
 
 
 li.video .icon{
-background: url(/images/group-icons.png) 0 -50px no-repeat;
+background: urgroup-icons.png) 0 -50px no-repeat;
 }
 
 
 
 li.link .icon{
-background: url(/images/group-icons.png) 0 -96px no-repeat;
+background: urgroup-icons.png) 0 -96px no-repeat;
 }
 
 
 li.letter-track .icon{
-background: url(/images/group-icons.png) 0 -143px no-repeat;
+background: urgroup-icons.png) 0 -143px no-repeat;
 }
 
 
 li.letter-oppose .icon{
-background: url(/images/group-icons.png) 0 -243px no-repeat;
+background: urgroup-icons.png) 0 -243px no-repeat;
 }
 
 
 li.letter-support .icon{
-background: url(/images/group-icons.png) 0 -193px no-repeat;
+background: urgroup-icons.png) 0 -193px no-repeat;
 }
 
 
 li.group-comment .icon{
-background: url(/images/group-icons.png) 0 -291px no-repeat;
+background: urgroup-icons.png) 0 -291px no-repeat;
 }
 
 li.comment-post .icon{
-background: url(/images/group-icons.png) 2px -291px no-repeat;
+background: urgroup-icons.png) 2px -291px no-repeat;
 }
 
 li.bill-post .icon{
-background: url(/images/group-icons.png) 2px -343px no-repeat;
+background: urgroup-icons.png) 2px -343px no-repeat;
 }
 
 .activity_stream li.photo div img.thephoto{
@@ -464,44 +464,44 @@ padding-top: 17px;}
 
 
 .post-to.modal li.photo .icon{
-background: url(/images/tiny-group-icons.png) 0 4px no-repeat;
+background: urtiny-group-icons.png) 0 4px no-repeat;
 }
 
 
 
 .post-to.modal li.video .icon{
-background: url(/images/tiny-group-icons.png) 0 -18px no-repeat;
+background: urtiny-group-icons.png) 0 -18px no-repeat;
 }
 
 
 
 .post-to.modal li.link .icon{
-background: url(/images/tiny-group-icons.png) 0 -40px no-repeat;
+background: urtiny-group-icons.png) 0 -40px no-repeat;
 }
 
 
 .post-to.modal li.letter-track .icon{
-background: url(/images/tiny-group-icons.png) 0 -62px no-repeat;
+background: urtiny-group-icons.png) 0 -62px no-repeat;
 }
 
 
 .post-to.modal li.letter-oppose .icon{
-background: url(/images/tiny-group-icons.png) 0 -108px no-repeat;
+background: urtiny-group-icons.png) 0 -108px no-repeat;
 }
 
 
 .post-to.modal li.letter-support .icon{
-background: url(/images/tiny-group-icons.png) 0 -85px no-repeat;
+background: urtiny-group-icons.png) 0 -85px no-repeat;
 }
 
 
 .post-to.modal li.comment-post .icon{
-background: url(/images/tiny-group-icons.png) 0 -128px no-repeat;
+background: urtiny-group-icons.png) 0 -128px no-repeat;
 }
 
 
 .post-to.modal li.bill-post .icon{
-background: url(/images/tiny-group-icons.png) 0 -149px no-repeat;
+background: urtiny-group-icons.png) 0 -149px no-repeat;
 }
 
 .post-to.modal .icon{
@@ -643,7 +643,7 @@ font-size: 18px;
 margin-top: 10px;
 margin-bottom: 30px;
 height: 62px;
-background: url(/images/group-map.gif) 0 0 no-repeat;
+background: urgroup-map.gif) 0 0 no-repeat;
 }
 
 
@@ -655,7 +655,7 @@ margin-bottom: 25px;
 .issue-bg{
 margin-top: 10px;
 height: 62px;
-background: url(/images/issue-bg.png) 0 0 no-repeat;
+background: urissue-bg.png) 0 0 no-repeat;
 }
 
 .dummy_div, .dummy_li {

@@ -1,0 +1,36 @@
+<bill session="113" type="h" number="1176" updated="2013-03-15T04:47:44-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="official">To establish a commission to examine the United States monetary policy, evaluate alternative monetary regimes, and recommend a course for monetary policy going forward.</title>
+  </titles>
+  <sponsor id="400046"/>
+  <cosponsors>
+    <cosponsor id="412250" joined="2013-03-14"/>
+    <cosponsor id="400032" joined="2013-03-14"/>
+    <cosponsor id="412472" joined="2013-03-14"/>
+    <cosponsor id="412480" joined="2013-03-14"/>
+    <cosponsor id="400141" joined="2013-03-14"/>
+    <cosponsor id="400651" joined="2013-03-14"/>
+    <cosponsor id="412434" joined="2013-03-14"/>
+    <cosponsor id="412437" joined="2013-03-14"/>
+    <cosponsor id="412226" joined="2013-03-14"/>
+    <cosponsor id="400221" joined="2013-03-14"/>
+    <cosponsor id="412510" joined="2013-03-14"/>
+    <cosponsor id="412294" joined="2013-03-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

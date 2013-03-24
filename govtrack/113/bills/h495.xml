@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="495" updated="2013-02-26T04:45:52-05:00">
+  <state datetime="2013-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-05"/>
+  </status>
+  <introduced datetime="2013-02-05"/>
+  <titles>
+    <title as="introduced" type="short">Free File Program Act of 2013</title>
+    <title as="introduced" type="official">To make the Internal Revenue Service Free File Program permanent.</title>
+  </titles>
+  <sponsor id="412202"/>
+  <cosponsors>
+    <cosponsor id="400636" joined="2013-02-25"/>
+    <cosponsor id="400086" joined="2013-02-25"/>
+    <cosponsor id="412482" joined="2013-02-25"/>
+    <cosponsor id="400147" joined="2013-02-25"/>
+    <cosponsor id="412401" joined="2013-02-25"/>
+    <cosponsor id="412454" joined="2013-02-25"/>
+    <cosponsor id="400209" joined="2013-02-25"/>
+    <cosponsor id="400218" joined="2013-02-05"/>
+    <cosponsor id="412209" joined="2013-02-25"/>
+    <cosponsor id="400283" joined="2013-02-25"/>
+    <cosponsor id="412303" joined="2013-02-25"/>
+    <cosponsor id="400333" joined="2013-02-25"/>
+    <cosponsor id="400344" joined="2013-02-25"/>
+    <cosponsor id="400355" joined="2013-02-25"/>
+    <cosponsor id="412314" joined="2013-02-25"/>
+    <cosponsor id="400378" joined="2013-02-25"/>
+    <cosponsor id="412213" joined="2013-02-25"/>
+    <cosponsor id="400419" joined="2013-02-25"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-05">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Computers and information technology"/>
+    <term name="Internet and video services"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2013--Introduced.
+Free File Program Act of 2013 - Authorizes and directs the Secretary of the Treasury to continue to implement and operate the Internal Revenue Service (IRS) Free File program (free online individual income tax preparation and electronic filing services provided by the private sector technology industry to lower income taxpayers).</summary>
+</bill>

@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<body status="rds" difference-size-chars="1015" percent-change="55" total-changes="6" previous-status="ih">
+  <p nid="t0:rds:1" tracking-nids="t0:ih:1">HR 41 <changed sequence="1"><changed-from>IH</changed-from><changed-to>RDS</changed-to></changed></p>
+  <p/>
+  <center>
+    <p nid="t0:rds:2">113th CONGRESS</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:rds:3" tracking-nids="t0:ih:3">1st Session</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:rds:4" tracking-nids="t0:ih:4">H. R. 41</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:rds:5">IN THE <changed sequence="2"><changed-from>HOUS</changed-from><changed-to>SENAT</changed-to></changed>E OF <removed sequence="3">REPRESENTATIVES<p/><h3 nid="t0:ih:7"><center><p nid="t0:ih:8">January 3, 2013</p></center></h3><p nid="t0:ih:9">Mr. GARRETT (for himself, Mr. SMITH of New Jersey, Mr. FRELINGHUYSEN, Mr. LANCE, Mr. GRIMM, Mr. HANNA, Mr. KING of New York, Mr. MEEKS, Mrs. CAROLYN B. MALONEY of New York, Mrs. MCCARTHY of New York, Mr. CROWLEY, Mr. NADLER, Mr. ANDREWS, Mr. RUNYAN, Mr. LOBIONDO, Ms. MENG, Mr. SEAN PATRICK MALONEY of New York, Mr. PASCRELL, Mr. TONKO, and Mr. BISHOP of New York) introduced the following bill; which was referred to the Committee on Financial Services, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</p><hr/><p/><center><p nid="t0:ih:10">A BILL</p></center></removed><inserted sequence="4">THE UNITED STATES</inserted></p>
+  </center>
+  <inserted sequence="5">
+    <p/>
+    <h3 nid="t0:rds:6">
+      <center>
+        <p nid="t0:rds:7">January 4 (legislative day, January 3), 2013</p>
+      </center>
+    </h3>
+    <p nid="t0:rds:8">Received</p>
+    <hr/>
+    <p/>
+    <center>
+      <p nid="t0:rds:9">AN ACT</p>
+    </center>
+  </inserted>
+  <p nid="t0:rds:10">To temporarily increase the borrowing authority of the Federal Emergency Management Agency for carrying out the National Flood Insurance Program.</p>
+  <ul>
+    <p nid="t0:rds:11" tracking-nids="t0:ih:12">
+      <em>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</em>
+    </p>
+  </ul>
+  <p/>
+  <h3 nid="t0:rds:12" tracking-nids="t0:ih:13">SECTION 1. TEMPORARY INCREASE IN BORROWING AUTHORITY FOR NATIONAL FLOOD INSURANCE PROGRAM.</h3>
+  <ul>
+    <p nid="t0:rds:13">(a) Section 1309(a) of the National Flood Insurance Act of 1968 (<usc-reference title="42" section="4016" paragraph="a"><usc-reference title="42" section="4016" paragraph="a">42 U.S.C. 4016(a)</usc-reference></usc-reference>) is amended by striking &#x2018;$20,725,000,000&#x2019; and inserting &#x2018;$30,425,000,000&#x2019;.</p>
+    <p nid="t0:rds:14">(b) The amount provided by this section is designated by the Congress as an emergency requirement pursuant to section 403(a) of S. Con. Res. 13 (111th Congress), the concurrent resolution on the budget for fiscal year 2010, and as an emergency pursuant to section 4(g) of the Statutory Pay-As-You-Go Act of 2010 (<usc-reference title="2" section="933" paragraph="g"><usc-reference title="2" section="933" paragraph="g">2 U.S.C. 933(g)</usc-reference></usc-reference>).</p>
+  </ul>
+  <inserted sequence="6">
+    <p nid="t0:rds:15">Passed the House of Representatives January 4, 2013.</p>
+    <p nid="t0:rds:16">Attest:</p>
+    <p nid="t0:rds:17">KAREN L. HAAS,</p>
+    <p nid="t0:rds:18">Clerk.</p>
+  </inserted>
+</body>

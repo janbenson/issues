@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="1070" updated="2013-03-22T04:46:35-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="short">Removing Barriers to Colorectal Cancer Screening Act of 2013</title>
+    <title as="introduced" type="official">To amend title XVIII of the Social Security Act to waive coinsurance under Medicare for colorectal cancer screening tests, regardless of whether therapeutic intervention is required during the screening.</title>
+  </titles>
+  <sponsor id="400648"/>
+  <cosponsors>
+    <cosponsor id="412272" joined="2013-03-21"/>
+    <cosponsor id="412193" joined="2013-03-12"/>
+    <cosponsor id="400646" joined="2013-03-12"/>
+    <cosponsor id="400158" joined="2013-03-21"/>
+    <cosponsor id="400160" joined="2013-03-21"/>
+    <cosponsor id="400263" joined="2013-03-21"/>
+    <cosponsor id="412506" joined="2013-03-12"/>
+    <cosponsor id="400331" joined="2013-03-21"/>
+    <cosponsor id="412449" joined="2013-03-21"/>
+    <cosponsor id="400361" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-12">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-03-12">
+      <text>Referred to House Ways and Means</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>3/12/2013--Introduced.
+Removing Barriers to Colorectal Cancer Screening Act of 2013 - Amends title XVIII (Medicare) of the Social Security Act to waive coinsurance for colorectal cancer screening tests (thus covering 100% of their cost under Medicare part B [Supplementary Medical Insurance Benefits for the Aged and Disabled]).</summary>
+</bill>

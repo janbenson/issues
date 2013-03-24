@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<body status="rds" difference-size-chars="358" percent-change="48" total-changes="9" previous-status="eh">
+  <p nid="t0:rds:1" tracking-nids="t0:eh:1">HCON 11 <changed sequence="1"><changed-from>EH</changed-from><changed-to>RDS</changed-to></changed></p>
+  <p/>
+  <center>
+    <p nid="t0:rds:2">113th CONGRESS</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:rds:3" tracking-nids="t0:eh:3">1st Session</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:rds:4" tracking-nids="t0:eh:4">H. CON. RES. 11</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:rds:5">
+      <removed sequence="2">
+        <p/>
+        <center>
+          <p nid="t0:eh:5">CONCURRENT RESOLUTION</p>
+        </center>
+      </removed>
+      <inserted sequence="3">IN THE SENATE OF THE UNITED STATES</inserted>
+    </p>
+  </center>
+  <inserted sequence="4">
+    <p/>
+    <h3 nid="t0:rds:6">
+      <center>
+        <p nid="t0:rds:7">February 7, 2013</p>
+      </center>
+    </h3>
+    <p nid="t0:rds:8">Received</p>
+    <hr/>
+    <p/>
+    <center>
+      <p nid="t0:rds:9">CONCURRENT RESOLUTION</p>
+    </center>
+    <p nid="t0:rds:10">Providing for a joint session of Congress to receive a message from the President.</p>
+  </inserted>
+  <ul>
+    <p nid="t0:rds:11"><em>Resolved by the House of Representatives (the Senate concurring),</em> That the two Houses of Congress assemble in the Hall of the House of Representatives on Tuesday, February 12, 2013, at 9 p.m., for the purpose of receiving</p>
+    <p nid="t0:rds:12">such communication as the President of the United States shall be pleased to make to them.</p>
+  </ul>
+  <p nid="t0:rds:13" tracking-nids="t0:eh:7">Passed the House of Representatives February 4, 2013.</p>
+  <p nid="t0:rds:14">Attest:</p>
+  <p nid="t0:rds:15"><removed sequence="5"><p nid="t0:eh:9">Clerk.</p><p/><center><p nid="t0:eh:10">113th CONGRESS</p></center><p/><center><p nid="t0:eh:11">1st Session</p></center><p/>H. CON. RES</removed><inserted sequence="6">KAREN L</inserted>. <removed sequence="7">11<p/><center><p nid="t0:eh:13">CONCURRENT RESOLUTION</p></center>Providing for a joint session of Congress to receive a message from the President</removed><inserted sequence="8">HAAS,</inserted></p>
+  <p nid="t0:rds:16"><inserted sequence="9">Clerk</inserted>.</p>
+</body>

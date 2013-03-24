@@ -1,0 +1,567 @@
+                                                                                                                                   II
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                            S. 291
+                                         To establish the Council on Healthy Housing and for other purposes.
+
+
+
+
+                                              IN THE SENATE OF THE UNITED STATES
+                                                               FEBRUARY 13, 2013
+                                  Mr. REED (for himself, Mr. JOHANNS, Mrs. BOXER, and Mr. FRANKEN) intro-
+                                      duced the following bill; which was read twice and referred to the Com-
+                                      mittee on Banking, Housing, and Urban Affairs
+
+
+
+
+                                                                            A BILL
+                                     To establish the Council on Healthy Housing and for other
+                                                              purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Healthy Housing
+                                    5 Council Act of 2013’’.
+                                    6     SEC. 2. FINDINGS.
+                                    7              Congress finds the following:
+                                    8                        (1) In the United States—
+                                    9                                 (A) 5,757,000 households live in homes
+
+
+
+
+                                  10                         with moderate or severe physical hazards;
+                                                                                             2
+                                    1                                 (B) 23,000,000 homes have significant
+                                    2                        lead-based paint hazards;
+                                    3                                 (C) 6,000,000 homes have had signs of
+                                    4                        mice in the last 3 months; and
+                                    5                                 (D) 1 in 15 homes have dangerous levels
+                                    6                        of radon.
+                                    7                        (2) Residents of housing that is poorly de-
+                                    8              signed, constructed, or maintained are at risk for
+                                    9              cancer, carbon monoxide poisoning, burns, falls, ro-
+                                  10               dent bites, childhood lead poisoning, asthma, and
+                                  11               other illnesses and injuries. Vulnerable subpopula-
+                                  12               tions, such as children and the elderly, are at ele-
+                                  13               vated risk for housing-related illnesses and injuries.
+                                  14                         (3) Because substandard housing typically
+                                  15               poses the greatest risks, the disparities in the dis-
+                                  16               tribution of housing-related health hazards are strik-
+                                  17               ing. One million two hundred thousand housing
+                                  18               units with significant lead-based paint hazards house
+                                  19               low-income families with children under 6 years of
+                                  20               age.
+                                  21                         (4) Housing-related illnesses, including asthma
+                                  22               and lead poisoning, disproportionately affect children
+                                  23               from lower-income families and from specific racial
+                                  24               and ethnic groups. The prevalence of being diag-
+
+
+
+
+                                  25               nosed with asthma in a lifetime is 24 percent among
+                                              •S 291 IS
+
+                                                                                             3
+                                    1              Puerto Rican children, 10.1 percent for Mexican-
+                                    2              American children, 12.4 percent for non-Hispanic
+                                    3              White children, and 21.8 percent for non-Hispanic
+                                    4              Black children. Black children are twice as likely to
+                                    5              die from residential injuries as White children, and
+                                    6              3 percent of Black children and 2 percent of Mexi-
+                                    7              can-American children have elevated blood lead lev-
+                                    8              els, as compared to only 1.3 percent of White chil-
+                                  109              dren.     (5) The annual costs for environmentally attrib-
+                                  11               utable childhood diseases in the United States, in-
+                                  12               cluding lead poisoning, asthma, and cancer, total
+                                  13               $76,000,000,000 in 2008 dollars. This amount is
+                                  14               approximately 3.5 percent of total health care costs.
+                                  15                         (6) Appropriate housing design, construction,
+                                  16               and maintenance, timely correction of deficiencies,
+                                  17               planning efforts, and low-cost preventive measures
+                                  18               can reduce the incidence of serious injury or death,
+                                  19               improve the ability of residents to survive in the
+                                  20               event of a major catastrophe, and contribute to over-
+                                  21               all well-being and mental health. Lead hazard con-
+                                  22               trol in homes with lead-based paint hazards can re-
+                                  23               duce children’s blood lead levels by as much as 34
+                                  24               percent. Properly installed and maintained smoke
+
+
+
+
+                                  25               alarms reduce the risk of fire deaths by 50 percent.
+                                              •S 291 IS
+
+                                                                                             4
+                                    1                        (7) Providing healthy housing to families and
+                                    2              individuals in the United States will help prevent an
+                                    3              estimated 250,000 children from having elevated
+                                    4              blood lead levels, 18,000 injury deaths, 12,000,000
+                                    5              nonfatal injuries, 3,000 deaths in house fires, 9,600
+                                    6              emergency department visits for carbon monoxide
+                                    7              exposure, and 21,000 radon-associated lung cancer
+                                    8              deaths that occur in United States housing each
+                                    9              year, as well as 12,300,000 asthma attacks, and
+                                  10               14,000,000 missed school days.
+                                  11                         (8) While there are many programs in place to
+                                  12               address housing-related health hazards, these pro-
+                                  13               grams are fragmented and spread across many agen-
+                                  14               cies, making it difficult for at-risk families and indi-
+                                  15               viduals to access assistance or to receive comprehen-
+                                  16               sive information.
+                                  17                         (9) Better coordination among Federal agencies
+                                  18               is needed, as is better coordination at State and
+                                  19               local levels, to ensure that families and individuals
+                                  20               can access government programs and services in an
+                                  21               effective and efficient manner.
+                                  22      SEC. 3. DEFINITIONS.
+                                  23               In this Act, the following definitions shall apply:
+
+
+
+
+
+                                              •S 291 IS
+
+                                                                                             5
+                                    1                        (1) COUNCIL.—The term ‘‘Council’’ means the
+                                    2              Interagency Council on Healthy Housing established
+                                    3              under section 4.
+                                    4                        (2) HEALTHY                 HOUSING.—The                       term ‘‘healthy
+                                    5              housing’’ means housing that is designed, con-
+                                    6              structed, rehabilitated, and maintained in a manner
+                                    7              that supports the health of the occupants of such
+                                    8              housing.
+                                    9                        (3) HOUSING.—The term ‘‘housing’’ means any
+                                  10               form of residence, including rental housing, home-
+                                  11               ownership, group home, or supportive housing ar-
+                                  12               rangement.
+                                  13                         (4) HOUSING-RELATED                         HEALTH HAZARD.—The
+                                  14               term ‘‘housing-related health hazard’’ means any bi-
+                                  15               ological, physical, or chemical source of exposure or
+                                  16               condition either in, or immediately adjacent to, hous-
+                                  17               ing, that can adversely affect human health.
+                                  18                         (5)       LOW-INCOME                  FAMILIES                 AND    INDIVID-
+                                  19               UALS.—The               term ‘‘low-income families and individ-
+                                  20               uals’’ means any household or individual with an in-
+                                  21               come at or below 200 percent of the Federal poverty
+                                  22               line.
+                                  23                         (6) POVERTY               LINE.—The                term ‘‘poverty line’’
+                                  24               means the official poverty line defined by the Office
+
+
+
+
+
+                                              •S 291 IS
+
+                                                                                             6
+                                    1              of Management and Budget based on the most re-
+                                    2              cent data available from the Bureau of the Census.
+                                    3                        (7) PROGRAM.—The term ‘‘program’’ includes
+                                    4              any Federal, State, or local program providing hous-
+                                    5              ing or financial assistance, health care, mortgages,
+                                    6              bond and tax financing, homebuyer support courses,
+                                    7              financial education, mortgage insurance or loan
+                                    8              guarantees, housing counseling, supportive services,
+                                    9              energy assistance, or other assistance related to
+                                  10               healthy housing.
+                                  11                         (8) SERVICE.—The term ‘‘service’’ includes
+                                  12               public and environmental health services, housing
+                                  13               services, energy efficiency services, human services,
+                                  14               and any other services needed to ensure that fami-
+                                  15               lies and individuals in the United States have access
+                                  16               to healthy housing.
+                                  17      SEC. 4. INTERAGENCY COUNCIL ON HEALTHY HOUSING.
+
+                                  18               (a) ESTABLISHMENT.—There is established in the ex-
+                                  19 ecutive branch an independent council to be known as the
+                                  20 Interagency Council on Healthy Housing.
+                                  21               (b) OBJECTIVES.—The objectives of the Council are
+                                  22 as follows:
+                                  23                         (1) To promote the supply of and demand for
+                                  24               healthy housing in the United States through capac-
+
+
+
+
+
+                                              •S 291 IS
+
+                                                                                             7
+                                    1              ity building, technical assistance, education, and
+                                    2              public policy.
+                                    3                        (2) To promote coordination and collaboration
+                                    4              among the Federal departments and agencies in-
+                                    5              volved with housing, public health, energy efficiency,
+                                    6              emergency preparedness and response, and the envi-
+                                    7              ronment to improve services for families and individ-
+                                    8              uals residing in inadequate or unsafe housing and to
+                                    9              make recommendations about needed changes in
+                                  10               programs and services with an emphasis on—
+                                  11                                  (A) maximizing the impact of existing pro-
+                                  12                         grams and services by transitioning the focus of
+                                  13                         such programs and services from categorical ap-
+                                  14                         proaches to comprehensive approaches that con-
+                                  15                         sider and address multiple housing-related
+                                  16                         health hazards;
+                                  17                                  (B) reducing or eliminating areas of over-
+                                  18                         lap and duplication in the provision and accessi-
+                                  19                         bility of such programs and services;
+                                  20                                  (C) ensuring that resources, including as-
+                                  21                         sistance with capacity building, are targeted to
+                                  22                         and sufficient to meet the needs of high-risk
+                                  23                         communities, families, and individuals; and
+
+
+
+
+
+                                              •S 291 IS
+
+                                                                                             8
+                                    1                                 (D) facilitating access by families and indi-
+                                    2                        viduals to programs and services that help re-
+                                    3                        duce health hazards in housing.
+                                    4                        (3) To identify knowledge gaps, research needs,
+                                    5              and policy and program deficiencies associated with
+                                    6              inadequate housing conditions and housing-related
+                                    7              illnesses and injuries.
+                                    8                        (4) To help identify best practices for achieving
+                                    9              and sustaining healthy housing.
+                                  10                         (5) To help improve the quality of existing and
+                                  11               newly constructed housing and related programs and
+                                  12               services, including those programs and services
+                                  13               which serve low-income families and individuals.
+                                  14                         (6) To establish an ongoing system of coordina-
+                                  15               tion among and within such agencies or organiza-
+                                  16               tions so that the healthy housing needs of families
+                                  17               and individuals are met in a more effective and effi-
+                                  18               cient manner.
+                                  19               (c) MEMBERSHIP.—The Council shall be composed of
+                                  20 the following members:
+                                  21                         (1) The Secretary of Health and Human Serv-
+                                  22               ices.
+                                  23                         (2) The Secretary of Housing and Urban Devel-
+                                  24               opment.
+
+
+
+
+
+                                              •S 291 IS
+
+                                                                                             9
+                                    1                        (3) The Administrator of the Environmental
+                                    2              Protection Agency.
+                                    3                        (4) The Secretary of Energy.
+                                    4                        (5) The Secretary of Labor.
+                                    5                        (6) The Secretary of Veterans Affairs.
+                                    6                        (7) The Secretary of the Treasury.
+                                    7                        (8) The Secretary of Agriculture.
+                                    8                        (9) The Secretary of Education.
+                                    9                        (10) The head of any other Federal agency as
+                                  10               the Council considers appropriate.
+                                  11                         (11) Six additional non-Federal employee mem-
+                                  12               bers, as appointed by the President to serve terms
+                                  13               not to exceed 2 years, of whom—
+                                  14                                  (A) 1 shall be a State or local Government
+                                  15                         Director of Health or the Environment;
+                                  16                                  (B) 1 shall be a State or local Government
+                                  17                         Director of Housing or Community Develop-
+                                  18                         ment;
+                                  19                                  (C) 2 shall represent nonprofit organiza-
+                                  20                         tions involved in housing or health issues; and
+                                  21                                  (D) 2 shall represent for-profit entities in-
+                                  22                         volved in the housing, banking, or health insur-
+                                  23                         ance industries.
+                                  24               (d) CO-CHAIRPERSONS.—The co-Chairpersons of the
+
+
+
+
+                                  25 Council shall be the Secretary of Housing and Urban De-
+                                              •S 291 IS
+
+                                                                                         10
+                                    1 velopment and the Secretary of Health and Human Serv-
+                                    2 ices.
+                                    3              (e) VICE CHAIR.—Every 2 years, the Council shall
+                                    4 elect a Vice Chair from among its members.
+                                    5              (f) MEETINGS.—The Council shall meet at the call
+                                    6 of either co-Chairperson or a majority of its members at
+                                    7 any time, and no less often than annually.
+                                    8     SEC. 5. FUNCTIONS OF THE COUNCIL.
+
+                                    9              (a) RELEVANT ACTIVITIES.—In carrying out the ob-
+                                  10 jectives described in section 4(b), the Council shall—
+                                  11                         (1) review Federal programs and services that
+                                  12               provide housing, health, energy, or environmental
+                                  13               services to families and individuals;
+                                  14                         (2) monitor, evaluate, and recommend improve-
+                                  15               ments in programs and services administered, fund-
+                                  16               ed, or financed by Federal, State, and local agencies
+                                  17               to assist families and individuals in accessing
+                                  18               healthy housing and make recommendations about
+                                  19               how such agencies can better work to meet the
+                                  20               healthy housing and related needs of low-income
+                                  21               families and individuals; and
+                                  22                         (3) recommend ways to—
+                                  23                                  (A) reduce duplication among programs
+                                  24                         and services by Federal agencies that assist
+
+
+
+
+
+                                              •S 291 IS
+
+                                                                                         11
+                                    1                        families and individuals in meeting their
+                                    2                        healthy housing and related service needs;
+                                    3                                 (B) ensure collaboration among and within
+                                    4                        agencies in the provision and availability of pro-
+                                    5                        grams and services so that families and individ-
+                                    6                        uals are able to easily access needed programs
+                                    7                        and services;
+                                    8                                 (C) work with States and local govern-
+                                    9                        ments to better meet the needs of families and
+                                  10                         individuals for healthy housing by—
+                                  11                                          (i) holding meetings with State and
+                                  12                                  local representatives; and
+                                  13                                          (ii) providing ongoing technical assist-
+                                  14                                  ance and training to States and localities
+                                  15                                  in better meeting the housing-related needs
+                                  16                                  of such families and individuals;
+                                  17                                  (D) identify best practices for programs
+                                  18                         and services that assist families and individuals
+                                  19                         in accessing healthy housing, including model—
+                                  20                                          (i) programs linking housing, health,
+                                  21                                  environmental, human, and energy serv-
+                                  22                                  ices;
+                                  23                                          (ii) housing and remodeling financing
+                                  24                                  products offered by government, quasi-gov-
+
+
+
+
+                                  25                                  ernment, and private sector entities;
+                                              •S 291 IS
+
+                                                                                         12
+                                    1                                        (iii) housing and building codes and
+                                    2                                 regulatory practices;
+                                    3                                        (iv) existing and new consensus speci-
+                                    4                                 fications and work practices documents;
+                                    5                                        (v) capacity building and training pro-
+                                    6                                 grams that help increase and diversify the
+                                    7                                 supply of practitioners who perform assess-
+                                    8                                 ments of housing-related health hazards
+                                    9                                 and interventions to address housing-re-
+                                  10                                  lated health hazards; and
+                                  11                                         (vi) programs that increase commu-
+                                  12                                  nity awareness of, and education on, hous-
+                                  13                                  ing-related health hazards and available
+                                  14                                  assessments and interventions;
+                                  15                                  (E) develop a comprehensive healthy hous-
+                                  16                         ing research agenda that considers health, safe-
+                                  17                         ty, environmental, and energy factors, to—
+                                  18                                         (i) identify cost-effective assessments
+                                  19                                  and treatment protocols for housing-re-
+                                  20                                  lated health hazards in existing housing;
+                                  21                                         (ii) establish links between housing
+                                  22                                  hazards and health outcomes;
+                                  23                                         (iii) track housing-related health prob-
+                                  24                                  lems including injuries, illnesses, and
+
+
+
+
+                                  25                                  death;
+                                              •S 291 IS
+
+                                                                                         13
+                                    1                                        (iv) track housing conditions that may
+                                    2                                 be associated with health problems;
+                                    3                                        (v) identify cost-effective protocols for
+                                    4                                 construction of new healthy housing; and
+                                    5                                        (vi) identify replicable and effective
+                                    6                                 programs or strategies for addressing
+                                    7                                 housing-related health hazards;
+                                    8                        (4) hold biannual meetings with stakeholders
+                                    9              and other interested parties in a location convenient
+                                  10               for such stakeholders, or hold open Council meet-
+                                  11               ings, to receive input and ideas about how to best
+                                  12               meet the healthy housing needs of families and indi-
+                                  13               viduals;
+                                  14                         (5) maintain an updated website of policies,
+                                  15               meetings, best practices, programs and services,
+                                  16               making use of existing websites as appropriate, to
+                                  17               keep people informed of the activities of the Council;
+                                  18               and
+                                  19                         (6) work with member agencies to collect and
+                                  20               maintain data on housing-related health hazards, ill-
+                                  21               nesses, and injuries so that all data can be accessed
+                                  22               in 1 place and to identify and address unmet data
+                                  23               needs.
+                                  24               (b) REPORTS.—
+                                              •S 291 IS
+
+                                                                                         14
+                                    1                        (1) BY       MEMBERS.—Each                      year the head of each
+                                    2              agency who is a member of the Council shall prepare
+                                    3              and transmit to the Council a report that briefly
+                                    4              summarizes—
+                                    5                                 (A) each healthy housing-related program
+                                    6                        and service administered by the agency and the
+                                    7                        number of families and individuals served by
+                                    8                        each program or service, the resources available
+                                    9                        in each program or service, and a breakdown of
+                                  10                         where each program and service can be
+                                  11                         accessed;
+                                  12                                  (B) the barriers and impediments, includ-
+                                  13                         ing statutory or regulatory, to the access and
+                                  14                         use of such programs and services by families
+                                  15                         and individuals, with particular attention to the
+                                  16                         barriers and impediments experienced by low-
+                                  17                         income families and individuals;
+                                  18                                  (C) the efforts made by the agency to in-
+                                  19                         crease opportunities for families and individ-
+                                  20                         uals, including low-income families and individ-
+                                  21                         uals, to reside in healthy housing, including how
+                                  22                         the agency is working with other agencies to
+                                  23                         better coordinate programs and services; and
+
+
+
+
+
+                                              •S 291 IS
+
+                                                                                         15
+                                    1                                 (D) any new data collected by the agency
+                                    2                        relating to the healthy housing needs of families
+                                    3                        and individuals.
+                                    4                        (2) BY        THE COUNCIL.—Each                          year, the Council
+                                    5              shall prepare and transmit to the President and the
+                                    6              Congress, a report that—
+                                    7                                 (A) summarizes the reports required in
+                                    8                        paragraph (1);
+                                    9                                 (B) utilizes recent data to assess the na-
+                                  10                         ture of housing-related health hazards, and as-
+                                  11                         sociated illnesses and injuries, in the United
+                                  12                         States;
+                                  13                                  (C) provides a comprehensive and detailed
+                                  14                         description of the programs and services of the
+                                  15                         Federal Government in meeting the needs and
+                                  16                         problems described in subparagraph (B);
+                                  17                                  (D) describes the activities and accomplish-
+                                  18                         ments of the Council in working with Federal,
+                                  19                         State, and local governments, nonprofit organi-
+                                  20                         zations and for-profit entities in coordinating
+                                  21                         programs and services to meet the needs de-
+                                  22                         scribed in subparagraph (B) and the resources
+                                  23                         available to meet those needs;
+
+
+
+
+
+                                              •S 291 IS
+
+                                                                                         16
+                                    1                                 (E) assesses the level of Federal assistance
+                                    2                        required to meet the needs described in sub-
+                                    3                        paragraph (B); and
+                                    4                                 (F) makes recommendations for appro-
+                                    5                        priate legislative and administrative actions to
+                                    6                        meet the needs described in subparagraph (B)
+                                    7                        and for coordinating programs and services de-
+                                    8                        signed to meet those needs.
+                                    9     SEC. 6. POWERS OF THE COUNCIL.
+
+                                  10               (a) HEARINGS.—The Council may hold such hear-
+                                  11 ings, sit and act at such times and places, take such testi-
+                                  12 mony, and receive such evidence as the Council considers
+                                  13 advisable to carry out the purposes of this Act.
+                                  14               (b) INFORMATION FROM AGENCIES.—Agencies which
+                                  15 are represented on the Council shall provide all requested
+                                  16 information and data to the Council as requested.
+                                  17               (c) POSTAL SERVICES.—The Council may use the
+                                  18 United States mails in the same manner and under the
+                                  19 same conditions as other departments and agencies of the
+                                  20 Federal Government.
+                                  21               (d) CONTRACTS                  AND INTERAGENCY                      AGREEMENTS.—
+                                  22 The Council may enter into contracts with State, Tribal,
+                                  23 and local governments, public agencies and private-sector
+                                  24 entities, and into interagency agreements with Federal
+
+
+
+
+
+                                              •S 291 IS
+
+                                                                                         17
+                                    1 agencies. Such contracts and interagency agreements may
+                                    2 be single-year or multi-year in duration.
+                                    3     SEC. 7. COUNCIL PERSONNEL MATTERS.
+
+                                    4              (a) STAFF.—
+                                    5                        (1) EXECUTIVE                   DIRECTOR.—The                    Council shall
+                                    6              appoint an Executive Director at its initial meeting.
+                                    7              The Executive Director shall be compensated at a
+                                    8              rate not to exceed the rate of basic pay payable for
+                                    9              level V of the Executive Schedule under section 5316
+                                  10               of title 5, United States Code.
+                                  11                         (2) COMPENSATION.—With the approval of the
+                                  12               Council, the Executive Director may appoint and fix
+                                  13               the compensation of such additional personnel as the
+                                  14               Executive Director considers necessary to carry out
+                                  15               the duties of the Council, except that the rate of pay
+                                  16               for any such additional personnel may not exceed
+                                  17               the rate of basic pay payable for level V of the Exec-
+                                  18               utive Schedule under section 5316 of such title.
+                                  19               (b) TEMPORARY                  AND INTERMITTENT                          SERVICES.—In
+                                  20 carrying out its objectives, the Executive Director with the
+                                  21 approval of the Council, may procure temporary and inter-
+                                  22 mittent services of consultants and experts under section
+                                  23 3109(b) of title 5, United States Code, at rates for individ-
+                                  24 uals which do not exceed the daily equivalent of the annual
+
+
+
+
+
+                                              •S 291 IS
+
+                                                                                         18
+                                    1 rate of basic pay payable for level V of the Executive
+                                    2 Schedule under section 5316 of such title.
+                                    3              (c) DETAIL              OF      GOVERNMENT EMPLOYEES.—Upon
+                                    4 request of the Council, any Federal Government employee
+                                    5 may be detailed to the Council with reimbursement, and
+                                    6 such detail shall be without interruption or loss of civil
+                                    7 service status or privilege.
+                                    8              (d) ADMINISTRATIVE SUPPORT.—The Secretary of
+                                    9 Housing and Urban Development shall provide the Coun-
+                                  10 cil with such administrative (including office space) and
+                                  11 support services as are necessary to ensure that the Coun-
+                                  12 cil can carry out its functions in an efficient and expedi-
+                                  13 tious manner.
+                                  14      SEC. 8. AUTHORIZATION OF APPROPRIATIONS.
+
+                                  15               (a) IN GENERAL.—There are authorized to be appro-
+                                  16 priated to carry out this Act, $750,000 for each of fiscal
+                                  17 years 2013 through 2017.
+                                  18               (b) AVAILABILITY.—Amounts authorized to be appro-
+                                  19 priated by subsection (a) shall remain available for the 2
+                                  20 fiscal years following such appropriation.
+                                              •S 291 IS                                    Æ

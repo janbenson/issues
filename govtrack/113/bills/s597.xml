@@ -1,0 +1,30 @@
+<bill session="113" type="s" number="597" updated="2013-03-20T04:45:55-04:00">
+  <state datetime="2013-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-18"/>
+  </status>
+  <introduced datetime="2013-03-18"/>
+  <titles>
+    <title as="introduced" type="official">A bill to ensure the effective administration of criminal justice.</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors>
+    <cosponsor id="300051" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-18">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1903-1904"/>
+    </action>
+    <action state="REFERRED" datetime="2013-03-18">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S1904-1907" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

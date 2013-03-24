@@ -32,9 +32,9 @@
 	-ms-border-radius: 5px;
 }
 
-.booster-modal .staff-photo.andy {background: url(/images/staff/andy.jpg);}
-.booster-modal .staff-photo.donny {background: url(/images/staff/donny.jpg);}
-.booster-modal .staff-photo.david {background: url(/images/staff/david.jpg);}
+.booster-modal .staff-photo.andy {background: urstaff/andy.jpg);}
+.booster-modal .staff-photo.donny {background: urstaff/donny.jpg);}
+.booster-modal .staff-photo.david {background: urstaff/david.jpg);}
 
 .booster-modal .staff p {
 	text-align: center;
@@ -47,7 +47,7 @@
 .booster-modal .oc-logo {
 	width: 370px;
 	height: 40px;
-	background: url(/images/donate/booster_logo3.png) no-repeat;
+	background: urdonate/booster_logo3.png) no-repeat;
 	margin: 25px 0 0 5px;
 	clear: both;
 }

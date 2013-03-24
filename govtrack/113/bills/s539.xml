@@ -1,0 +1,30 @@
+<bill session="113" type="s" number="539" updated="2013-03-18T12:47:36-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="short">National Diabetes Clinical Care Commission Act</title>
+    <title as="introduced" type="official">A bill to amend the Public Health Service Act to foster more effective implementation and coordination of clinical care for people with pre-diabetes and diabetes.</title>
+  </titles>
+  <sponsor id="412323"/>
+  <cosponsors>
+    <cosponsor id="300025" joined="2013-03-12"/>
+    <cosponsor id="412324" joined="2013-03-12"/>
+    <cosponsor id="412242" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="1074"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

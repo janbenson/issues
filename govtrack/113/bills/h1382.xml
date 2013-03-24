@@ -1,0 +1,25 @@
+<bill session="113" type="h" number="1382" updated="2013-03-22T04:47:19-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To authorize the Secretary of Commerce, through the National Oceanic and Atmospheric Administration, to establish a constituent-driven program that collects priority coastal geospatial data and supports an information platform capable of efficiently integrating coastal data with decision support tools, training, and best practices to inform and improve local, State, regional, and Federal capacities to manage the coastal region.</title>
+  </titles>
+  <sponsor id="400349"/>
+  <cosponsors>
+    <cosponsor id="400440" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,34 @@
+<bill session="113" type="h" number="1364" updated="2013-03-22T04:47:10-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to encourage alternative energy investments and job creation, and for other purposes.</title>
+  </titles>
+  <sponsor id="400233"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

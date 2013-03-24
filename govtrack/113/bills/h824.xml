@@ -1,0 +1,41 @@
+<bill session="113" type="h" number="824" updated="2013-03-20T04:46:49-04:00">
+  <state datetime="2013-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-26"/>
+  </status>
+  <introduced datetime="2013-02-26"/>
+  <titles>
+    <title as="introduced" type="short">Federal Workforce Reduction Through Attrition Act</title>
+    <title as="introduced" type="official">To reduce the total number of civil service employees in the executive branch of the Government through attrition, and for other purposes.</title>
+  </titles>
+  <sponsor id="412294"/>
+  <cosponsors>
+    <cosponsor id="400018" joined="2013-02-28"/>
+    <cosponsor id="412547" joined="2013-03-14"/>
+    <cosponsor id="400071" joined="2013-02-28"/>
+    <cosponsor id="412472" joined="2013-02-28"/>
+    <cosponsor id="412275" joined="2013-02-28"/>
+    <cosponsor id="400141" joined="2013-02-28"/>
+    <cosponsor id="412429" joined="2013-02-28"/>
+    <cosponsor id="412437" joined="2013-03-05"/>
+    <cosponsor id="400220" joined="2013-02-28"/>
+    <cosponsor id="412419" joined="2013-03-19"/>
+    <cosponsor id="412510" joined="2013-02-28"/>
+    <cosponsor id="412474" joined="2013-02-26"/>
+    <cosponsor id="400626" joined="2013-02-28"/>
+    <cosponsor id="412310" joined="2013-03-05"/>
+    <cosponsor id="412426" joined="2013-03-14"/>
+    <cosponsor id="412430" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-26">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="1140" updated="2013-03-21T12:46:05-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="short">Family Friendly HSA Improvement Act of 2013</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to permit the medical expenses of dependents who have not attained age 27 to be paid from a heath savings account.</title>
+  </titles>
+  <sponsor id="412383"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-13">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

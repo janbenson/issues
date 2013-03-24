@@ -1,0 +1,32 @@
+<bill session="113" type="h" number="1240" updated="2013-03-19T04:46:52-04:00">
+  <state datetime="2013-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-18"/>
+  </status>
+  <introduced datetime="2013-03-18"/>
+  <titles>
+    <title as="introduced" type="official">To extend the low-interest refinancing provisions under the Local Development Business Loan Program of the Small Business Administration.</title>
+  </titles>
+  <sponsor id="412379"/>
+  <cosponsors>
+    <cosponsor id="412512" joined="2013-03-18"/>
+    <cosponsor id="400041" joined="2013-03-18"/>
+    <cosponsor id="412560" joined="2013-03-18"/>
+    <cosponsor id="412518" joined="2013-03-18"/>
+    <cosponsor id="412506" joined="2013-03-18"/>
+    <cosponsor id="400318" joined="2013-03-18"/>
+    <cosponsor id="412315" joined="2013-03-18"/>
+    <cosponsor id="412254" joined="2013-03-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-18">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

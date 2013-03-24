@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="1316" updated="2013-03-22T04:46:46-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to specify the responsibilities of the Directors and Assistant Directors of Veterans' Employment and Training.</title>
+  </titles>
+  <sponsor id="412480"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

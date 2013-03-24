@@ -1,0 +1,59 @@
+<bill session="113" type="h" number="1351" updated="2013-03-22T04:47:03-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Public Lands Corps Act of 1993 to expand the authorization of the Secretaries of Agriculture, Commerce, and the Interior to provide service opportunities for young Americans; help restore the nation's natural, cultural, historic, archaeological, recreational and scenic resources; train a new generation of public land managers and enthusiasts; and promote the value of public service.</title>
+  </titles>
+  <sponsor id="400162"/>
+  <cosponsors>
+    <cosponsor id="400033" joined="2013-03-21"/>
+    <cosponsor id="412571" joined="2013-03-21"/>
+    <cosponsor id="400073" joined="2013-03-21"/>
+    <cosponsor id="400080" joined="2013-03-21"/>
+    <cosponsor id="412215" joined="2013-03-21"/>
+    <cosponsor id="400129" joined="2013-03-21"/>
+    <cosponsor id="400170" joined="2013-03-21"/>
+    <cosponsor id="412511" joined="2013-03-21"/>
+    <cosponsor id="400237" joined="2013-03-21"/>
+    <cosponsor id="412293" joined="2013-03-21"/>
+    <cosponsor id="400253" joined="2013-03-21"/>
+    <cosponsor id="400259" joined="2013-03-21"/>
+    <cosponsor id="400283" joined="2013-03-21"/>
+    <cosponsor id="400290" joined="2013-03-21"/>
+    <cosponsor id="400295" joined="2013-03-21"/>
+    <cosponsor id="412192" joined="2013-03-21"/>
+    <cosponsor id="412306" joined="2013-03-21"/>
+    <cosponsor id="412308" joined="2013-03-21"/>
+    <cosponsor id="400333" joined="2013-03-21"/>
+    <cosponsor id="412212" joined="2013-03-21"/>
+    <cosponsor id="400360" joined="2013-03-21"/>
+    <cosponsor id="412219" joined="2013-03-21"/>
+    <cosponsor id="400378" joined="2013-03-21"/>
+    <cosponsor id="412520" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

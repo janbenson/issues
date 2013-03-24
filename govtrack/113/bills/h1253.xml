@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="1253" updated="2013-03-20T04:47:22-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title as="introduced" type="official">To prohibit foreign assistance to Pakistan until the tuition assistance program of the Department of Defense is fully funded.</title>
+  </titles>
+  <sponsor id="400652"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-19">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="925" updated="2013-03-19T04:46:31-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Diplomatic Security Act to revise the provisions relating to personnel recommendations of the Accountability Review Board under such Act.</title>
+  </titles>
+  <sponsor id="412569"/>
+  <cosponsors>
+    <cosponsor id="412576" joined="2013-02-28"/>
+    <cosponsor id="412531" joined="2013-02-28"/>
+    <cosponsor id="412513" joined="2013-02-28"/>
+    <cosponsor id="412508" joined="2013-03-18"/>
+    <cosponsor id="400122" joined="2013-02-28"/>
+    <cosponsor id="412553" joined="2013-03-18"/>
+    <cosponsor id="412460" joined="2013-03-18"/>
+    <cosponsor id="412521" joined="2013-03-18"/>
+    <cosponsor id="400654" joined="2013-02-28"/>
+    <cosponsor id="412552" joined="2013-03-18"/>
+    <cosponsor id="400271" joined="2013-02-28"/>
+    <cosponsor id="412560" joined="2013-02-28"/>
+    <cosponsor id="412528" joined="2013-02-28"/>
+    <cosponsor id="400348" joined="2013-02-28"/>
+    <cosponsor id="400606" joined="2013-02-28"/>
+    <cosponsor id="412522" joined="2013-02-28"/>
+    <cosponsor id="412574" joined="2013-03-18"/>
+    <cosponsor id="412525" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>2/28/2013--Introduced.
+Amends the Diplomatic Security Act to require a determination by the Accountability Review Board that an individual's misconduct or unsatisfactory performance of duty significantly contributed to serious injury, loss of life, significant property destruction, or serious security breach in order for the Board to recommend that an investigatory or disciplinary action be initiated by the appropriate federal agency or instrumentality.</summary>
+</bill>

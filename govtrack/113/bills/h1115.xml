@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="1115" updated="2013-03-14T04:46:23-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Securities Exchange Act of 1934 to prohibit any national securities exchange from effecting any transaction in a security issued by a corporation unless the corporation's registration with the exchange includes a certification that the corporation currently is in compliance with the provisions of the Federal Election Campaign Act of 1971 governing contributions and expenditures by corporations which were in effect with respect to elections held during 2008.</title>
+  </titles>
+  <sponsor id="412276"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-13">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

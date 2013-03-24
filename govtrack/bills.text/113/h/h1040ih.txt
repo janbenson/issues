@@ -1,0 +1,543 @@
+                                                                                                                                     I
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                        H. R. 1040
+                                      To amend the Internal Revenue Code of 1986 to provide taxpayers a flat
+                                                tax alternative to the current income tax system.
+
+
+
+
+                                                IN THE HOUSE OF REPRESENTATIVES
+                                                                MARCH 11, 2013
+                                  Mr. BURGESS (for himself, Mr. COLE, Mr. ROSS, and Mr. FORBES) introduced
+                                      the following bill; which was referred to the Committee on Ways and
+                                      Means, and in addition to the Committee on Rules, for a period to be
+                                      subsequently determined by the Speaker, in each case for consideration
+                                      of such provisions as fall within the jurisdiction of the committee con-
+                                      cerned
+
+
+
+
+                                                                            A BILL
+                                  To amend the Internal Revenue Code of 1986 to provide
+                                     taxpayers a flat tax alternative to the current income
+                                     tax system.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Flat Tax Act’’.
+                                    5     SEC. 2. THE FLAT TAX.
+
+                                    6              (a) IN GENERAL.—Subchapter A of chapter 1 of the
+
+
+
+
+                                    7 Internal Revenue Code of 1986 is amended by inserting
+                                    8 after part VII the following new part:
+
+                                                                                             2
+                                    1                                 ‘‘PART VIII—THE FLAT TAX
+
+                                          ‘‘Sec.   60. Irrevocable election to be subject to flat tax.
+                                          ‘‘Sec.   60A. Tax imposed on individuals.
+                                          ‘‘Sec.   60B. Tax imposed on business activities.
+                                          ‘‘Sec.   60C. Tax on noncash compensation provided to employees not engaged in
+                                                             business activity.
+
+                                    2     ‘‘SEC. 60. IRREVOCABLE ELECTION TO BE SUBJECT TO
+                                    3                             FLAT TAX.
+                                    4              ‘‘(a) INDIVIDUAL.—
+                                    5                        ‘‘(1) IN      GENERAL.—Except                       as provided in para-
+                                    6              graph (2), in lieu of the tax imposed by sections 1
+                                    7              (relating to tax imposed) and 55 (relating to alter-
+                                    8              native minimum tax imposed), under regulations
+                                    9              prescribed by the Secretary, an individual may make
+                                  10               an irrevocable election to be subject to the tax im-
+                                  11               posed by this part.
+                                  12                         ‘‘(2) INNOCENT                  SPOUSE EXCEPTION.—An                    indi-
+                                  13               vidual who has made an election under paragraph
+                                  14               (1) and who subsequently obtains relief of liability
+                                  15               for tax under section 6015(b) may, not later than 1
+                                  16               year after the date such relief is granted, revoke the
+                                  17               election made under paragraph (1).
+                                  18               ‘‘(b) PERSON ENGAGED                          IN      BUSINESS ACTIVITY.—In
+                                  19 lieu of the tax imposed by sections 11 (relating to tax im-
+                                  20 posed) and 55 (relating to alternative minimum tax im-
+                                  21 posed), under regulations prescribed by the Secretary, a
+
+
+
+
+                                  22 person engaged in business activity may make an irrev-
+                                              •HR 1040 IH
+
+                                                                                             3
+                                    1 ocable election to be subject to the tax imposed by this
+                                    2 part.
+                                    3              ‘‘(c) DISALLOWANCE                        OF    CREDITS.—No credit shall
+                                    4 be allowed under this chapter for any taxable year to any
+                                    5 person with respect to whom an election under subsection
+                                    6 (a) or (b) is in effect.
+                                    7     ‘‘SEC. 60A. TAX IMPOSED ON INDIVIDUALS.
+
+                                    8              ‘‘(a) IN GENERAL.—There is hereby imposed on the
+                                    9 taxable income of every individual who makes an election
+                                  10 to be subject to this part a tax equal to—
+                                  11                         ‘‘(1) 19 percent of the taxable income of such
+                                  12               individual for such taxable year in the case of the
+                                  13               first 2 taxable years of the individual beginning with
+                                  14               the taxable year for which the election is made, and
+                                  15                         ‘‘(2) 17 percent of the taxable income of such
+                                  16               individual for such taxable year in the case of all
+                                  17               taxable years subsequent to the taxable years de-
+                                  18               scribed in paragraph (1).
+                                  19               ‘‘(b) TAXABLE INCOME.—For purposes of this part,
+                                  20 the term ‘taxable income’ means the excess of—
+                                  21                         ‘‘(1) the sum of—
+                                  22                                  ‘‘(A) wages (as defined in section 3121(a)
+                                  23                         without regard to paragraph (1) thereof) which
+                                  24                         are paid in cash and which are received during
+
+
+
+
+
+                                              •HR 1040 IH
+
+                                                                                             4
+                                    1                        the taxable year for services performed in the
+                                    2                        United States,
+                                    3                                 ‘‘(B) retirement distributions which are in-
+                                    4                        cludible in gross income for such taxable year,
+                                    5                        plus
+                                    6                                 ‘‘(C) amounts received under any law of
+                                    7                        the United States or of any State which is in
+                                    8                        the nature of unemployment compensation, over
+                                    9                        ‘‘(2) the standard deduction.
+                                  10               ‘‘(c) STANDARD DEDUCTION.—For purposes of this
+                                  11 part—
+                                  12                         ‘‘(1) IN       GENERAL.—The                    term ‘standard deduc-
+                                  13               tion’ means the sum of—
+                                  14                                  ‘‘(A) the basic standard deduction, plus
+                                  15                                  ‘‘(B) the additional standard deduction.
+                                  16                         ‘‘(2) BASIC           STANDARD DEDUCTION.—For                           pur-
+                                  17               poses of paragraph (1), the basic standard deduction
+                                  18               is—
+                                  19                                  ‘‘(A) $32,496 in the case of—
+                                  20                                         ‘‘(i) a joint return, or
+                                  21                                         ‘‘(ii) a surviving spouse (as defined in
+                                  22                                  section 2(a)),
+                                  23                                  ‘‘(B) $20,739 in the case of a head of
+                                  24                         household (as defined in section 2(b)), and
+
+
+
+
+
+                                              •HR 1040 IH
+
+                                                                                             5
+                                    1                                 ‘‘(C) $16,248 in the case of an indi-
+                                    2                        vidual—
+                                    3                                        ‘‘(i) who is not married and who is
+                                    4                                 not a surviving spouse or head of house-
+                                    5                                 hold, or
+                                    6                                        ‘‘(ii) who is a married individual filing
+                                    7                                 a separate return.
+                                    8                        ‘‘(3) ADDITIONAL                    STANDARD DEDUCTION.—For
+                                    9              purposes of paragraph (1), the additional standard
+                                  10               deduction is $6,998 for each dependent (as defined
+                                  11               in section 152) who is a qualifying child (as defined
+                                  12               in section 152(c)(1)) for the taxable year and who
+                                  13               is not required to file a return for such taxable year.
+                                  14               ‘‘(d) RETIREMENT DISTRIBUTIONS.—For purposes
+                                  15 of this section, the term ‘retirement distribution’ means
+                                  16 any distribution from—
+                                  17                         ‘‘(1) a plan described in section 401(a) which
+                                  18               includes a trust exempt from tax under section
+                                  19               501(a),
+                                  20                         ‘‘(2) an annuity plan described in section
+                                  21               403(a),
+                                  22                         ‘‘(3) an annuity contract described in section
+                                  23               403(b),
+                                  24                         ‘‘(4) an individual retirement account described
+
+
+
+
+                                  25               in section 408(a),
+                                              •HR 1040 IH
+
+                                                                                             6
+                                    1                        ‘‘(5) an individual retirement annuity described
+                                    2              in section 408(b),
+                                    3                        ‘‘(6) an eligible deferred compensation plan (as
+                                    4              defined in section 457),
+                                    5                        ‘‘(7) a governmental plan (as defined in section
+                                    6              414(d)), or
+                                    7                        ‘‘(8) a trust described in section 501(c)(18).
+                                    8 Such term includes any plan, contract, account, annuity,
+                                    9 or trust which, at any time, has been determined by the
+                                  10 Secretary to be such a plan, contract, account, annuity,
+                                  11 or trust.
+                                  12               ‘‘(e) INCOME OF CERTAIN CHILDREN.—For purposes
+                                  13 of this part—
+                                  14                         ‘‘(1) an individual’s taxable income shall include
+                                  15               the taxable income of each dependent child of such
+                                  16               individual who has not attained age 14 as of the
+                                  17               close of such taxable year, and
+                                  18                         ‘‘(2) such dependent child shall have no liability
+                                  19               for tax imposed by this section with respect to such
+                                  20               income and shall not be required to file a return for
+                                  21               such taxable year.
+                                  22               ‘‘(f) INFLATION ADJUSTMENT.—
+                                  23                         ‘‘(1) IN       GENERAL.—In                   the case of any taxable
+                                  24               year beginning in a calendar year after 2013, each
+
+
+
+
+                                  25               dollar amount contained in subsection (c) shall be
+                                              •HR 1040 IH
+
+                                                                                             7
+                                    1              increased by an amount determined by the Secretary
+                                    2              to be equal to—
+                                    3                                 ‘‘(A) such dollar amount, multiplied by
+                                    4                                 ‘‘(B) the cost-of-living adjustment for such
+                                    5                        calendar year.
+                                    6                        ‘‘(2) COST-OF-LIVING                        ADJUSTMENT.—For                 pur-
+                                    7              poses of paragraph (1), the cost-of-living adjustment
+                                    8              for any calendar year is the percentage (if any) by
+                                  109              which—           ‘‘(A) the CPI for the preceding calendar
+                                  11                         year, exceeds
+                                  12                                  ‘‘(B) the CPI for the calendar year 2012.
+                                  13                         ‘‘(3) CPI        FOR ANY CALENDAR YEAR.—For                                 pur-
+                                  14               poses of paragraph (2), the CPI for any calendar
+                                  15               year is the average of the Consumer Price Index as
+                                  16               of the close of the 12-month period ending on Au-
+                                  17               gust 31 of such calendar year.
+                                  18                         ‘‘(4) CONSUMER                      PRICE INDEX.—For                    purposes
+                                  19               of paragraph (3), the term ‘Consumer Price Index’
+                                  20               means the last Consumer Price Index for all-urban
+                                  21               consumers published by the Department of Labor.
+                                  22               For purposes of the preceding sentence, the revision
+                                  23               of the Consumer Price Index which is most con-
+                                  24               sistent with the Consumer Price Index for calendar
+
+
+
+
+                                  25               year 1986 shall be used.
+                                              •HR 1040 IH
+
+                                                                                             8
+                                    1                        ‘‘(5) ROUNDING.—If any increase determined
+                                    2              under paragraph (1) is not a multiple of $10, such
+                                    3              increase shall be rounded to the next highest mul-
+                                    4              tiple of $10.
+                                    5              ‘‘(g) MARITAL STATUS.—For purposes of this sec-
+                                    6 tion, marital status shall be determined under section
+                                    7 7703.
+                                    8     ‘‘SEC. 60B. TAX IMPOSED ON BUSINESS ACTIVITIES.
+
+                                    9              ‘‘(a) TAX IMPOSED.—There is hereby imposed on
+                                  10 every person engaged in a business activity who makes an
+                                  11 election to be taxed under this part a tax equal to—
+                                  12                         ‘‘(1) 19 percent of the business taxable income
+                                  13               of such person for such taxable year in the case of
+                                  14               the first 2 taxable years of the person beginning
+                                  15               with the taxable year for which the election is made,
+                                  16               and
+                                  17                         ‘‘(2) 17 percent of the business taxable income
+                                  18               of such person for such taxable year in the case of
+                                  19               all taxable years subsequent to the taxable years de-
+                                  20               scribed in paragraph (1).
+                                  21               ‘‘(b) LIABILITY                FOR        TAX.—The tax imposed by this
+                                  22 section shall be paid by the person engaged in the business
+                                  23 activity, whether such person is an individual, partnership,
+                                  24 corporation, or otherwise.
+
+
+
+
+
+                                              •HR 1040 IH
+
+                                                                                             9
+                                    1              ‘‘(c) BUSINESS TAXABLE INCOME.—For purposes of
+                                    2 this section—
+                                    3                        ‘‘(1) IN       GENERAL.—The                    term ‘business taxable
+                                    4              income’ means gross active income reduced by the
+                                    5              deductions specified in subsection (d).
+                                    6                        ‘‘(2) GROSS           ACTIVE INCOME.—
+
+                                    7                                 ‘‘(A) IN       GENERAL.—For                    purposes of para-
+                                    8                        graph (1), the term ‘gross active income’ means
+                                    9                        gross receipts from—
+                                  10                                         ‘‘(i) the sale or exchange of property
+                                  11                                  or services in the United States by any
+                                  12                                  person in connection with a business activ-
+                                  13                                  ity, and
+                                  14                                         ‘‘(ii) the export of property or services
+                                  15                                  from the United States in connection with
+                                  16                                  a business activity.
+                                  17                                  ‘‘(B) EXCHANGES.—For purposes of this
+                                  18                         section, the amount treated as gross receipts
+                                  19                         from the exchange of property or services is the
+                                  20                         fair market value of the property or services re-
+                                  21                         ceived, plus any money received.
+                                  22                                  ‘‘(C) COORDINATION                     WITH SPECIAL RULES
+                                  23                         FOR       FINANCIAL                 SERVICES,           ETC.—Except     as
+                                  24                         provided in subsection (e)—
+
+
+
+
+
+                                              •HR 1040 IH
+
+                                                                                         10
+                                    1                                        ‘‘(i) the term ‘property’ does not in-
+                                    2                                 clude money or any financial instrument,
+                                    3                                 and
+                                    4                                        ‘‘(ii) the term ‘services’ does not in-
+                                    5                                 clude financial services.
+                                    6                        ‘‘(3) EXEMPTION                 FROM TAX FOR ACTIVITIES OF
+                                    7              GOVERNMENTAL ENTITIES AND TAX-EXEMPT ORGA-
+                                    8              NIZATIONS.—For                    purposes of this section, the term
+                                    9              ‘business activity’ does not include any activity of a
+                                  10               governmental entity or of any other organization
+                                  11               which is exempt from tax under this chapter.
+                                  12               ‘‘(d) DEDUCTIONS.—
+                                  13                         ‘‘(1) IN      GENERAL.—The                     deductions specified in
+                                  14               this subsection are—
+                                  15                                  ‘‘(A) the cost of business inputs for the
+                                  16                         business activity,
+                                  17                                  ‘‘(B) wages (as defined in section 3121(a)
+                                  18                         without regard to paragraph (1) thereof) which
+                                  19                         are paid in cash for services performed in the
+                                  20                         United States as an employee, and
+                                  21                                  ‘‘(C) retirement contributions to or under
+                                  22                         any plan or arrangement which makes retire-
+                                  23                         ment distributions (as defined in section
+                                  24                         60A(d)) for the benefit of such employees to the
+
+
+
+
+
+                                              •HR 1040 IH
+
+                                                                                         11
+                                    1                        extent such contributions are allowed as a de-
+                                    2                        duction under section 404.
+                                    3                        ‘‘(2) BUSINESS              INPUTS.—
+
+                                    4                                 ‘‘(A) IN       GENERAL.—For                    purposes of para-
+                                    5                        graph (1), the term ‘cost of business inputs’
+                                    6                        means—
+                                    7                                        ‘‘(i) the amount paid for property sold
+                                    8                                 or used in connection with a business ac-
+                                  109                                 tivity,‘‘(ii) the amount paid for services
+                                  11                                  (other than for the services of employees,
+                                  12                                  including fringe benefits paid by reason of
+                                  13                                  such services) in connection with a busi-
+                                  14                                  ness activity, and
+                                  15                                         ‘‘(iii) any excise tax, sales tax, cus-
+                                  16                                  toms duty, or other separately stated levy
+                                  17                                  imposed by a Federal, State, or local gov-
+                                  18                                  ernment on the purchase of property or
+                                  19                                  services which are for use in connection
+                                  20                                  with a business activity.
+                                  21                         Such term shall not include any tax imposed by
+                                  22                         chapter 2 or 21.
+                                  23                                  ‘‘(B) EXCEPTIONS.—Such term shall not
+                                  24                         include—
+
+
+
+
+
+                                              •HR 1040 IH
+
+                                                                                         12
+                                    1                                        ‘‘(i) items described in subparagraphs
+                                    2                                 (B) and (C) of paragraph (1), and
+                                    3                                        ‘‘(ii) items for personal use not in
+                                    4                                 connection with any business activity.
+                                    5                                 ‘‘(C) EXCHANGES.—For purposes of this
+                                    6                        section, the amount treated as paid in connec-
+                                    7                        tion with the exchange of property or services
+                                    8                        is the fair market value of the property or serv-
+                                    9                        ices exchanged, plus any money paid.
+                                  10               ‘‘(e) SPECIAL RULES                        FOR        FINANCIAL INTERMEDI-
+                                  11      ATION        SERVICE ACTIVITIES.—In the case of the business
+                                  12 activity of providing financial intermediation services, the
+                                  13 taxable income from such activity shall be equal to the
+                                  14 value of the intermediation services provided in such activ-
+                                  15 ity.
+                                  16               ‘‘(f) EXCEPTION                 FOR       SERVICES PERFORMED                      AS   EM-
+                                  17      PLOYEE.—For                  purposes of this section, the term ‘business
+                                  18 activity’ does not include the performance of services by
+                                  19 an employee for the employee’s employer.
+                                  20               ‘‘(g) CARRYOVER                   OF      CREDIT-EQUIVALENT                       OF   EX-
+                                  21      CESS       DEDUCTIONS.—
+                                  22                         ‘‘(1) IN      GENERAL.—If                   the aggregate deductions
+                                  23               for any taxable year exceed the gross active income
+                                  24               for such taxable year, the credit-equivalent of such
+
+
+
+
+                                  25               excess shall be allowed as a credit against the tax
+                                              •HR 1040 IH
+
+                                                                                         13
+                                    1              imposed by this section for the following taxable
+                                    2              year.
+                                    3                        ‘‘(2) CREDIT-EQUIVALENT                            OF EXCESS DEDUC-
+                                    4              TIONS.—For               purposes of paragraph (1), the credit-
+                                    5              equivalent of the excess described in paragraph (1)
+                                    6              for any taxable year is an amount equal to—
+                                    7                                 ‘‘(A) the sum of—
+                                    8                                        ‘‘(i) such excess, plus
+                                    9                                        ‘‘(ii) the product of such excess and
+                                  10                                  the 3-month Treasury rate for the last
+                                  11                                  month of such taxable year, multiplied by
+                                  12                                  ‘‘(B) the rate of the tax imposed by sub-
+                                  13                         section (a) for such taxable year.
+                                  14                         ‘‘(3) CARRYOVER                   OF UNUSED CREDIT.—If                  the
+                                  15               credit allowable for any taxable year by reason of
+                                  16               this subsection exceeds the tax imposed by this sec-
+                                  17               tion for such year, then (in lieu of treating such ex-
+                                  18               cess as an overpayment) the sum of—
+                                  19                                  ‘‘(A) such excess, plus
+                                  20                                  ‘‘(B) the product of such excess and the 3-
+                                  21                         month Treasury rate for the last month of such
+                                  22                         taxable year,
+                                  23               shall be allowed as a credit against the tax imposed
+                                  24               by this section for the following taxable year.
+
+
+
+
+
+                                              •HR 1040 IH
+
+                                                                                         14
+                                    1                        ‘‘(4) 3-MONTH              TREASURY RATE.—For                           purposes
+                                    2              of this subsection, the 3-month Treasury rate is the
+                                    3              rate determined by the Secretary based on the aver-
+                                    4              age market yield (during any 1-month period se-
+                                    5              lected by the Secretary and ending in the calendar
+                                    6              month in which the determination is made) on out-
+                                    7              standing marketable obligations of the United States
+                                    8              with remaining periods to maturity of 3 months or
+                                    9              less.
+                                  10      ‘‘SEC. 60C. TAX ON NONCASH COMPENSATION PROVIDED
+                                  11                              TO EMPLOYEES NOT ENGAGED IN BUSINESS
+                                  12                              ACTIVITY.
+
+                                  13               ‘‘(a) IMPOSITION                 OF       TAX.—There is hereby imposed
+                                  14 on every employer of an employee to whom this section
+                                  15 applies and who makes an election to be taxed under this
+                                  16 part a tax equal to—
+                                  17                         ‘‘(1) 19 percent of the value of excludable com-
+                                  18               pensation provided during the calendar year by the
+                                  19               employer for the benefit of employees to whom this
+                                  20               section applies in the case of the first 2 calendar
+                                  21               years beginning with the calendar year for which the
+                                  22               election under section 60 is made, and
+                                  23                         ‘‘(2) 17 percent of such excludable compensa-
+                                  24               tion during the calendar year in the case of all cal-
+
+
+
+
+
+                                              •HR 1040 IH
+
+                                                                                         15
+                                    1              endar years subsequent to the calendar years de-
+                                    2              scribed in paragraph (1).
+                                    3              ‘‘(b) LIABILITY                FOR        TAX.—The tax imposed by this
+                                    4 section shall be paid by the employer.
+                                    5              ‘‘(c) EXCLUDABLE COMPENSATION.—For purposes
+                                    6 of subsection (a), the term ‘excludable compensation’
+                                    7 means any remuneration for services performed as an em-
+                                    8 ployee other than—
+                                    9                        ‘‘(1) wages (as defined in section 3121(a) with-
+                                  10               out regard to paragraph (1) thereof) which are paid
+                                  11               in cash,
+                                  12                         ‘‘(2) remuneration for services performed out-
+                                  13               side the United States, and
+                                  14                         ‘‘(3) retirement contributions to or under any
+                                  15               plan or arrangement which makes retirement dis-
+                                  16               tributions (as defined in section 60A(d)).
+                                  17               ‘‘(d) EMPLOYEES                    TO      WHOM SECTION APPLIES.—
+                                  18 This section shall apply to an employee who is employed
+                                  19 in any activity by—
+                                  20                         ‘‘(1) any organization which is exempt from
+                                  21               taxation under this chapter, or
+                                  22                         ‘‘(2) any agency or instrumentality of the
+                                  23               United States, any State or political subdivision of
+                                  24               a State, or the District of Columbia.’’.
+
+
+
+
+
+                                              •HR 1040 IH
+
+                                                                                         16
+                                    1              (b) CLERICAL AMENDMENT.—The table of parts for
+                                    2 subchapter A of chapter 1 of such Code is amended by
+                                    3 adding at the end the following new item:
+                                                                          ‘‘PART VIII. THE FLAT TAX.’’.
+
+                                    4              (c) EFFECTIVE DATE.—The amendments made by
+                                    5 this section shall apply to taxable years beginning after
+                                    6 December 31, 2013.
+                                    7     SEC. 3. REPEAL OF ESTATE AND GIFT TAXES.
+
+                                    8              (a) IN GENERAL.—Subtitle B of the Internal Rev-
+                                    9 enue Code of 1986 is hereby repealed.
+                                  10               (b) EFFECTIVE DATE.—The repeal made by sub-
+                                  11 section (a) shall apply to the estates of decedents dying,
+                                  12 and gifts and generation-skipping transfers made, after
+                                  13 December 31, 2013.
+                                  14               (c) CROSS REFERENCE.—See section 102 of the In-
+                                  15 ternal Revenue Code of 1986 for exclusion of gifts and
+                                  16 inheritances from gross income.
+                                  17      SEC. 4. SUPERMAJORITY REQUIRED TO CONSIDER REV-
+                                  18                              ENUE MEASURE.
+                                  19               A bill, joint resolution, amendment to a bill or joint
+                                  20 resolution, or conference report that—
+                                  21                         (1) includes an increase in the rates of tax
+                                  22               specified in section 60A(a) or 60B(a) of the Internal
+                                  23               Revenue Code of 1986 (as amended by this Act), or
+
+
+
+
+
+                                  24                         (2) reduces the standard deduction, as defined
+                                  25               in section 60A(c) of such Code (as so amended), or
+                                              •HR 1040 IH
+
+                                                                                         17
+                                    1              the deductions specified in section 60B(d) of such
+                                    2              Code (as so amended),
+                                    3 may not be considered as passed or agreed to by the
+                                    4 House of Representatives or the Senate unless so deter-
+                                    5 mined by a vote of not less than two-thirds of the Members
+                                    6 of the House of Representatives or the Senate (as the case
+                                    7 may be) voting, a quorum being present.
+                                              •HR 1040 IH                                  Æ

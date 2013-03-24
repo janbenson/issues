@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<body status="eh" difference-size-chars="903" percent-change="52" total-changes="3" previous-status="ih">
+  <p nid="t0:eh:1" tracking-nids="t0:ih:1">HR 338 <changed sequence="1"><changed-from>I</changed-from><changed-to>E</changed-to></changed>H</p>
+  <p/>
+  <center>
+    <p nid="t0:eh:2">113th CONGRESS</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:eh:3" tracking-nids="t0:ih:3">1st Session</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:eh:4" tracking-nids="t0:ih:4">H. R. 338</p>
+  </center>
+  <hr/>
+  <inserted sequence="2">
+    <p/>
+    <center>
+      <p nid="t0:eh:5">AN ACT</p>
+    </center>
+  </inserted>
+  <p nid="t0:eh:6">To amend title 18, United States Code, to include certain territories and possessions of the United States in the definition of State for the purposes of chapter 114, relating to trafficking in contraband cigarettes and smokeless tobacco.</p>
+  <ul>
+    <p nid="t0:eh:7" tracking-nids="t0:ih:12">
+      <em>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</em>
+    </p>
+  </ul>
+  <p/>
+  <h3 nid="t0:eh:8" tracking-nids="t0:ih:13">SECTION 1. SHORT TITLE.</h3>
+  <ul>
+    <p nid="t0:eh:9" tracking-nids="t0:ih:14">This Act may be cited as the &#x2018;Stop Tobacco Smuggling in the Territories Act of 2013&#x2019;.</p>
+  </ul>
+  <p/>
+  <h3 nid="t0:eh:10" tracking-nids="t0:ih:15">SEC. 2. TERRITORIES AND POSSESSIONS OF THE UNITED STATES INCLUDED IN THE DEFINITION OF STATE FOR THE PURPOSES OF THE PROHIBITION AGAINST TRAFFICKING IN CONTRABAND CIGARETTES AND SMOKELESS TOBACCO.</h3>
+  <ul>
+    <p nid="t0:eh:11">Paragraph (4) of <usc-reference title="18" section="2341" paragraph=""><usc-reference title="18" section="2341" paragraph="">section 2341 of title 18, United States Code</usc-reference></usc-reference>, is amended by striking &#x2018;or the Virgin Islands&#x2019; and inserting &#x2018;the Virgin Islands, American Samoa, the Commonwealth of the Northern Mariana Islands, or Guam&#x2019;.</p>
+  </ul>
+  <inserted sequence="3">
+    <p nid="t0:eh:12">Passed the House of Representatives March 5, 2013.</p>
+    <p nid="t0:eh:13">Attest:</p>
+    <p nid="t0:eh:14">Clerk.</p>
+    <p/>
+    <center>
+      <p nid="t0:eh:15">113th CONGRESS</p>
+    </center>
+    <p/>
+    <center>
+      <p nid="t0:eh:16">1st Session</p>
+    </center>
+    <p/>
+    <center>
+      <p nid="t0:eh:17">H. R. 338</p>
+    </center>
+    <p/>
+    <center>
+      <p nid="t0:eh:18">AN ACT</p>
+    </center>
+    <p nid="t0:eh:19">To amend title 18, United States Code, to include certain territories and possessions of the United States in the definition of State for the purposes of chapter 114, relating to trafficking in contraband cigarettes and smokeless tobacco.</p>
+  </inserted>
+</body>

@@ -1,0 +1,816 @@
+                                                                                                                                   I
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                          H. R. 472
+                                  To reduce Federal expenditures associated with data center real estate and
+                                      electricity consumption, to implement savings reductions proposed by
+                                      Federal employees, to reduce energy costs across Federal Executive agen-
+                                      cies, and for other purposes.
+
+
+
+
+                                                IN THE HOUSE OF REPRESENTATIVES
+                                                                FEBRUARY 4, 2013
+                                  Mr. CONNOLLY introduced the following bill; which was referred to the Com-
+                                      mittee on Oversight and Government Reform, and in addition to the
+                                      Committees on Armed Services, Transportation and Infrastructure, and
+                                      Energy and Commerce, for a period to be subsequently determined by the
+                                      Speaker, in each case for consideration of such provisions as fall within
+                                      the jurisdiction of the committee concerned
+
+
+
+
+                                                                            A BILL
+                                  To reduce Federal expenditures associated with data center
+                                     real estate and electricity consumption, to implement sav-
+                                     ings reductions proposed by Federal employees, to reduce
+                                     energy costs across Federal Executive agencies, and for
+                                     other purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE AND TABLE OF CONTENTS.
+                                    4              (a) SHORT TITLE.—This Act may be cited as the
+                                    5 ‘‘Federal Cost Reduction Act of 2013’’.
+
+
+                                                                                             2
+                                    1              (b) TABLE            OF    CONTENTS.—The table of contents for
+                                    2 this Act is as follows:
+                                          Sec.   1. Short title and table of contents.
+                                          Sec.   2. Findings.
+                                          Sec.   3. Definitions.
+                                          Sec.   4. Reduction and consolidation of data centers.
+                                          Sec.   5. GSA reports.
+                                          Sec.   6. Reduction of printing.
+                                          Sec.   7. Implementation of Federal employee cost savings proposals.
+                                          Sec.   8. Power purchase agreement program.
+                                          Sec.   9. Federal facility energy efficiency and renewable energy projects fund.
+                                          Sec.   10. Incentives for Executive agencies for utility energy savings contracts.
+                                          Sec.   11. Renewable energy facilities surveys by Executive agencies.
+                                          Sec.   12. Adoption of personal computer power savings techniques by Executive
+                                                              agencies.
+                                          Sec.   13. Federal energy management and data collection standard.
+                                          Sec.   14. Advanced metering best practices for advanced metering.
+                                          Sec.   15. Availability of funds for design updates.
+                                          Sec.   16. Continuous commissioning within the Federal building stock.
+                                          Sec.   17. Elimination of State matching requirement for energy efficiency up-
+                                                              grades at National Guard and reserve armories and readiness
+                                                              centers.
+                                    3     SEC. 2. FINDINGS.
+                                    4              Congress finds the following:
+                                    5                        (1) The number of Federal data centers has
+                                    6              quintupled over the past decade from 400 to more
+                                    7              than 2,000.
+                                    8                        (2) Data center consolidation, including data
+                                    9              centers of the House of Representatives, has reduced
+                                  10               electricity expenses and requisite real estate where it
+                                  11               has been pursued.
+                                  12                         (3) Federal energy expenses exceed $24 billion
+                                  13               annually, while most existing Federal facilities do
+                                  14               not meet efficiency standards that are expected for
+
+
+
+
+                                  15               new Federal construction.
+                                              •HR 472 IH
+
+                                                                                             3
+                                    1                        (4) Contract period limitations of 10 years for
+                                    2              Federal Executive agencies limit deployment of do-
+                                    3              mestic energy sources that could reduce long-term
+                                    4              Federal energy expenses.
+                                    5                        (5) Energy saving performance contracts can
+                                    6              offer low or zero cost options for improving energy
+                                    7              efficiency in Federal facilities.
+                                    8                        (6) The Federal Government spends $1.3 bil-
+                                    9              lion annually on employee printing.
+                                  10                         (7) Federal employees estimate that they imme-
+                                  11               diately recycle 35 percent of all paper printed,
+                                  12               equating to $440.4 million in potential annual sav-
+                                  13               ings.
+                                  14                         (8) Only 9 percent of Federal Executive agen-
+                                  15               cies have automatic duplex printing.
+                                  16                         (9) The Department of Veterans Affairs has de-
+                                  17               veloped an acquisition personnel training center to
+                                  18               improve Federal employee productivity and reduce
+                                  19               employee turnover.
+                                  20                         (10) Federal employees have proposed more
+                                  21               than 18,000 ways to save taxpayer money through
+                                  22               the ‘‘Save Awards’’.
+                                  23      SEC. 3. DEFINITIONS.
+                                  24               In this Act:
+
+
+
+
+                                              •HR 472 IH
+
+                                    1                        (1) APPROPRIATE                 4     CONGRESSIONAL                     COMMIT-
+                                    2              TEES.—The                term ‘‘appropriate congressional com-
+                                    3              mittees’’ means—
+                                    4                                 (A) the Committee on Oversight and Gov-
+                                    5                        ernment Reform of the House of Representa-
+                                    6                        tives; and
+                                    7                                 (B) the Committee on Homeland Security
+                                    8                        and Governmental Affairs of the Senate.
+                                    9                        (2) ENERGY                  SAVINGS             PERFORMANCE                 CON-
+                                  10               TRACT.—The                     term ‘‘energy savings performance
+                                  11               contract’’ means a contract that provides for the
+                                  12               performance of services for the design, acquisition,
+                                  13               installation, testing, operation, and, where appro-
+                                  14               priate, maintenance and repair of an identified en-
+                                  15               ergy conservation measure or series of measures at
+                                  16               one or more locations.
+                                  17                         (3) FEDERAL               DATA CENTER.—The                            term ‘‘Fed-
+                                  18               eral data center’’—
+                                  19                                  (A) means a room within a conventional
+                                  20                         building that is devoted to data processing serv-
+                                  21                         ers, including server closets that are typically
+                                  22                         less than 200 square feet and server rooms that
+                                  23                         are typically less than 500 square feet;
+
+
+
+
+
+                                              •HR 472 IH
+
+                                                                                             5
+                                    1                                 (B) means larger floor spaces or entire
+                                    2                        buildings dedicated to housing servers, storage
+                                    3                        devices, and network equipment; and
+                                    4                                 (C) does not include any facilities that are
+                                    5                        exclusively devoted to communications and net-
+                                    6                        work equipment (such as telephone exchanges
+                                    7                        and telecommunications rooms and closets).
+                                    8                        (4) EXECUTIVE                   AGENCY.—Except                    as provided
+                                    9              in section 8, the term ‘‘Executive agency’’ has the
+                                  10               meaning given that term in section 105 of title 5,
+                                  11               United States Code.
+                                  12      SEC. 4. REDUCTION AND CONSOLIDATION OF DATA CEN-
+                                  13                              TERS.
+                                  14               (a) OMB RECOMMENDATION.—Not later than 6
+                                  15 months after the date of the enactment of this Act, the
+                                  16 Director of the Office of Management and Budget, in con-
+                                  17 sultation with the Administrator of General Services and
+                                  18 the heads of other Executive agencies, shall issue rec-
+                                  19 ommendations for reducing or consolidating the number
+                                  20 of Federal data centers in existence as of the date of the
+                                  21 enactment of this Act—
+                                  22                         (1) by at least 40 percent not later than Sep-
+                                  23               tember 30, 2018; and
+
+
+
+
+
+                                  24                         (2) by at least 80 percent not later than Sep-
+                                  25               tember 30, 2023.
+
+
+                                              •HR 472 IH
+
+                                                                                             6
+                                    1              (b) REDUCTION                  OF   DATA CENTERS.—Not later than
+                                    2 6 months after the issuance of recommendations by the
+                                    3 Director of the Office of Management and Budget under
+                                    4 subsection (a), the head of each Executive agency shall
+                                    5 implement the recommendations by reducing the number
+                                    6 of Federal data centers in accordance with such rec-
+                                    7 ommendations.
+                                    8     SEC. 5. GSA REPORTS.
+
+                                    9              (a) REPORT                ON      REDUCING REAL ESTATE COSTS
+                                  10      AND       ENERGY EXPENDITURES.—Not later than one year
+                                  11 after the date of the enactment of this Act, the Adminis-
+                                  12 trator of General Services shall submit to the appropriate
+                                  13 congressional committees a report on the following:
+                                  14                         (1) Recommendations to reduce long-term real
+                                  15               estate costs through consolidating or eliminating
+                                  16               leased space and any additional authority that might
+                                  17               be necessary to replace leased space with owned
+                                  18               space if the payback period is 15 years or fewer.
+                                  19                         (2) A description of a plan by the General Serv-
+                                  20               ices Administration to use energy saving perform-
+                                  21               ance contracts and other low-capital investments to
+                                  22               reduce energy expenditures.
+                                  23               (b) REPORT AND PLAN TO REDUCE FEDERAL AUTO-
+                                  24      MOBILE           PARKING EXPENSES.—
+
+
+
+
+                                              •HR 472 IH
+
+                                                                                             7
+                                    1                        (1) INITIAL           REPORT.—Not                  later than 6 months
+                                    2              after the date of the enactment of this Act, the Ad-
+                                    3              ministrator of General Services shall submit to the
+                                    4              Congress a report on the annual expense for each of
+                                    5              fiscal years 2002 through 2012 for Federal employee
+                                    6              parking, including—
+                                    7                                 (A) parking spaces and parking facilities
+                                    8                        that are leased or owned by the Federal Gov-
+                                  109                        ernment; (B) maintenance and construction costs for
+                                  11                         such spaces and facilities; and
+                                  12                                  (C) the total construction costs for parking
+                                  13                         facilities that are used by Federal employees for
+                                  14                         fiscal years 2002 through 2012.
+                                  15                         (2) PLAN             TO REDUCE PARKING EXPENSES.—
+                                  16               Not later than one year after the date of the enact-
+                                  17               ment of this Act, the General Services Administra-
+                                  18               tion shall submit a report to Congress that includes
+                                  19               a plan, using existing agency authorities, to reduce
+                                  20               the expense for Federal employee parking by at least
+                                  21               five percent annually for each of the next 5 fiscal
+                                  22               years after date of enactment of this Act.
+                                  23      SEC. 6. REDUCTION OF PRINTING.
+                                  24               Not later than 6 months after the date of the enact-
+                                  25 ment of this Act, each Executive agency shall establish
+
+
+                                              •HR 472 IH
+
+                                                                                             8
+                                    1 a plan to reduce by 35 percent the volume of material
+                                    2 printed during fiscal year 2013 for each of fiscal years
+                                    3 2014 through 2024, including a requirement for duplex
+                                    4 printing as the default setting on all Federal printers and
+                                    5 copiers, where applicable, and shall submit such plan to
+                                    6 the Office of the Environmental Executive.
+                                    7     SEC. 7. IMPLEMENTATION OF FEDERAL EMPLOYEE COST
+                                    8                             SAVINGS PROPOSALS.
+                                    9              Not later than 12 months after the date of the enact-
+                                  10 ment of this Act, the Director of the Office of Personnel
+                                  11 Management shall submit to the appropriate congressional
+                                  12 committees a plan to implement Federal employee cost
+                                  13 savings proposals.
+                                  14      SEC. 8. POWER PURCHASE AGREEMENT PROGRAM.
+
+                                  15               (a) DEFINITIONS.—In this section:
+                                  16                         (1) COST-EFFECTIVE.—The term ‘‘cost-effec-
+                                  17               tive’’ means, with respect to a power purchase agree-
+                                  18               ment entered into by the head of an Executive agen-
+                                  19               cy for a Federal facility that is owned or controlled
+                                  20               by the Executive agency, that the 30-year average
+                                  21               cost for the purchase of electricity under the power
+                                  22               purchase agreement from 1 or more renewable en-
+                                  23               ergy generating systems is not greater than an
+
+
+
+
+                                  24               amount equal to 110 percent of the cost of an equal
+                                  25               quantity of electricity from the current electricity
+
+
+                                              •HR 472 IH
+
+                                                                                             9
+                                    1              supplier of the Federal facility, taking into consider-
+                                    2              ation each—
+                                    3                                 (A) applicable cost, including any cost re-
+                                    4                        sulting from—
+                                    5                                        (i) a demand charge;
+                                    6                                        (ii) an applicable rider;
+                                    7                                        (iii) a fuel adjustment charge; or
+                                    8                                        (iv) any other surcharge; and
+                                    9                                 (B) reasonably anticipated increase in the
+                                  10                         cost of the electricity resulting from—
+                                  11                                         (i) inflation;
+                                  12                                         (ii) increased regulatory requirements;
+                                  13                                         (iii) decreased availability of fossil
+                                  14                                  fuels; and
+                                  15                                         (iv) any other factor that may in-
+                                  16                                  crease the cost of electricity.
+                                  17                         (2) EXECUTIVE                   AGENCY.—The               term ‘‘Executive
+                                  18               agency’’ has the meaning given the term in section
+                                  19               133 of title 41, United States Code.
+                                  20                         (3) FEDERAL                 FACILITY.—The                      term ‘‘Federal
+                                  21               facility’’ has the meaning given the term ‘‘facility’’
+                                  22               in section 543(f)(1)(C) of the National Energy Con-
+                                  23               servation Policy Act (42 U.S.C. 8253(f)(1)(C)).
+
+
+
+
+
+                                  24                         (4) GOVERNMENT                        CORPORATION.—The                  term
+                                  25               ‘‘Government corporation’’ has the meaning given
+
+
+                                              •HR 472 IH
+
+                                                                                         10
+                                    1              the term in section 103 of title 5, United States
+                                    2              Code.
+                                    3                        (5) RENEWABLE                    ENERGY SOURCE.—The                     term
+                                    4              ‘‘renewable energy source’’ has the meaning given
+                                    5              the term in section 551 of the National Energy Con-
+                                    6              servation Policy Act (42 U.S.C. 8259).
+                                    7              (b) POWER PURCHASE AGREEMENT PROJECTS.—
+                                    8                        (1) AUTHORIZATION                      OF HEADS OF EXECUTIVE
+                                    9              AGENCIES.—In                   accordance with paragraphs (2) and
+                                  10               (3), the head of each Executive agency or a designee
+                                  11               may establish 1 or more projects under which the
+                                  12               head of the Executive agency may offer to enter into
+                                  13               power purchase agreements during the 10-year pe-
+                                  14               riod beginning on the date of enactment of this Act
+                                  15               for the purchase of electricity from 1 or more Fed-
+                                  16               eral facilities that are owned or controlled by the
+                                  17               Executive agency from renewable energy sources lo-
+                                  18               cated at the Federal facility.
+                                  19                         (2) COST-EFFECTIVE                          REQUIREMENT.—A              head
+                                  20               of an Executive agency described in paragraph (1)
+                                  21               may offer to enter into a power purchase agreement
+                                  22               described in that paragraph only if the power pur-
+                                  23               chase agreement is cost-effective.
+
+
+
+
+
+                                  24                         (3) TERM                OF        POWER            PURCHASE           AGREE-
+                                  25               MENT.—Notwithstanding                           any other provision of law
+                                              •HR 472 IH
+
+                                                                                         11
+                                    1              (including regulations), the term of a power pur-
+                                    2              chase agreement described in paragraph (1) may not
+                                    3              be longer than a period of 30 years.
+                                    4                        (4) ALLOCATION                    OF INCREMENTAL COSTS.—
+                                    5              Each head of an Executive agency (including the
+                                    6              Administrator of General Services) who enters into
+                                    7              a power purchase agreement under paragraph (1)
+                                    8              for the purchase of electricity at a Federal facility
+                                    9              that is owned or controlled by the Executive agency
+                                  10               for distribution to 1 or more other Executive agen-
+                                  11               cies shall allocate, on an annual basis for the period
+                                  12               covered by the power purchase agreement, the incre-
+                                  13               mental cost or incremental savings of the power pur-
+                                  14               chase agreement for the purchase of electricity at a
+                                  15               Federal facility from renewable energy sources (as
+                                  16               compared to the cost of electricity from the elec-
+                                  17               tricity supplier of the Federal facility) among each
+                                  18               user of the Federal facility based on the proportion
+                                  19               that—
+                                  20                                  (A) the electricity usage of the user of the
+                                  21                         Federal facility; bears to
+                                  22                                  (B) the aggregate electricity usage of all
+                                  23                         users of the Federal facility.
+
+
+
+
+
+                                  24               (c) POWER PURCHASE AGREEMENTS WITH MUL-
+                                  25      TIPLE        FEDERAL FACILITIES.—An Executive agency may
+
+
+                                              •HR 472 IH
+
+                                                                                         12
+                                    1 enter into an interagency agreement as part of a power
+                                    2 purchase agreement that involves more than 1 Federal fa-
+                                    3 cility.
+                                    4              (d) NEGOTIATED RATE                          AS   BASIS        FOR       DETERMINING
+                                    5 COST EFFECTIVENESS                             OF      FUTURE ENERGY EFFICIENCY
+                                    6     OR       RENEWABLE ENERGY PROJECTS.—An Executive
+                                    7 agency that enters into a power purchase agreement may
+                                    8 not use the negotiated rate as a basis for determining the
+                                    9 business case or economic feasibility of future energy effi-
+                                  10 ciency or renewable energy projects.
+                                  11               (e) REGULATIONS.—The Secretary of Energy shall
+                                  12 promulgate such regulations as are necessary to carry out
+                                  13 this section.
+                                  14               (f) AUTHORIZATION                         OF      APPROPRIATIONS.—There
+                                  15 are authorized to be appropriated to carry out this section
+                                  16 such sums as are necessary for each of fiscal years 2014
+                                  17 through 2017, to remain available until expended.
+                                  18      SEC. 9. FEDERAL FACILITY ENERGY EFFICIENCY AND RE-
+                                  19                              NEWABLE ENERGY PROJECTS FUND.
+                                  20               (a) ESTABLISHMENT.—There is established in the
+                                  21 Treasury of the United States a revolving fund, to be
+                                  22 known as the ‘‘Federal Facility Energy Efficiency and Re-
+                                  23 newable Energy Projects Fund’’ (referred to in this sec-
+
+
+
+
+                                  24 tion as the ‘‘Fund’’), consisting of such amounts as are
+                                  25 appropriated to the Fund under subsection (b).
+
+
+                                              •HR 472 IH
+
+                                    1              (b) TRANSFERS TO FUND.—             13
+                                    2                        (1) AUTHORIZATION                           OF      APPROPRIATIONS.—
+                                    3              There are authorized to be appropriated to the Fund
+                                    4              $500,000,000, to remain available until expended.
+                                    5                        (2) LOAN              REPAYMENTS.—There                               are appro-
+                                    6              priated to the Fund, out of funds of the Treasury
+                                    7              not otherwise appropriated, amounts equivalent to
+                                    8              loan amounts repaid and received in the Treasury
+                                    9              under subsection (e).
+                                  10               (c) EXPENDITURES FROM FUND.—
+                                  11                         (1) IN      GENERAL.—Subject                       to paragraph (2), on
+                                  12               request by the Secretary of Energy (referred to in
+                                  13               this section as the ‘‘Secretary’’), the Secretary of the
+                                  14               Treasury shall transfer from the Fund to the Sec-
+                                  15               retary such amounts as the Secretary determines are
+                                  16               necessary to provide assistance for energy efficiency
+                                  17               and renewable energy projects carried out at Federal
+                                  18               facilities in accordance with subsection (e).
+                                  19                         (2) ADMINISTRATIVE                          EXPENSES.—An                 amount
+                                  20               not exceeding 10 percent of the amounts in the
+                                  21               Fund shall be available for each fiscal year to pay
+                                  22               the administrative expenses necessary to carry out
+                                  23               this section.
+
+
+
+
+
+                                  24               (d) TRANSFERS OF AMOUNTS.—
+
+
+
+
+                                              •HR 472 IH
+
+                                                                                         14
+                                    1                        (1) IN       GENERAL.—The                    amounts required to be
+                                    2              transferred to the Fund under this section shall be
+                                    3              transferred at least monthly from the general fund
+                                    4              of the Treasury to the Fund on the basis of esti-
+                                    5              mates made by the Secretary of the Treasury.
+                                    6                        (2) ADJUSTMENTS.—Proper adjustment shall
+                                    7              be made in amounts subsequently transferred to the
+                                    8              extent prior estimates were in excess of or less than
+                                    9              the amounts required to be transferred.
+                                  10               (e) FEDERAL FACILITY ENERGY EFFICIENCY                                          AND
+                                  11 RENEWABLE ENERGY PROJECTS FUND PROGRAM.—
+                                  12                         (1) IN      GENERAL.—The                    Secretary shall establish
+                                  13               a Federal facility energy efficiency and renewable
+                                  14               energy projects fund program under which the Sec-
+                                  15               retary shall make loans to Executive agencies to as-
+                                  16               sist the agencies in reducing energy use and related
+                                  17               purposes, as determined by the Secretary.
+                                  18                         (2) GUIDELINES                  FOR APPLICATIONS.—Not                 later
+                                  19               than 180 days after the date of enactment of this
+                                  20               Act, the Secretary shall issue guidelines for Execu-
+                                  21               tive agencies to submit applications for loans under
+                                  22               this subsection.
+                                  23                         (3) ELIGIBILITY.—Each Executive agency shall
+
+
+
+
+                                  24               be eligible to submit an application for a loan under
+                                  25               this subsection.
+
+
+                                              •HR 472 IH
+
+                                    1                        (4) LOAN         AWARDS.— 15
+                                    2                                 (A) IN          GENERAL.—The                      Secretary shall
+                                    3                        award loans under this subsection on a competi-
+                                    4                        tive basis.
+                                    5                                 (B) ALLOCATION.—The Secretary shall
+                                    6                        convene a committee of Executive agencies to
+                                    7                        determine allocation from the Fund to carry out
+                                    8                        this subsection after a competitive assessment
+                                    9                        of the technical and economic effectiveness of
+                                  10                         each application for a loan under this sub-
+                                  11                         section.
+                                  12                                  (C) SELECTION.—In determining whether
+                                  13                         to provide a loan to an Executive agency for a
+                                  14                         project under this subsection, the Secretary
+                                  15                         shall consider—
+                                  16                                         (i)       the        cost-effectiveness               of   the
+                                  17                                  project;
+                                  18                                         (ii) the amount of energy and cost
+                                  19                                  savings anticipated to the Federal Govern-
+                                  20                                  ment;
+                                  21                                         (iii) the amount of funding committed
+                                  22                                  to the project by the agency;
+                                  23                                         (iv) the extent that a project will le-
+
+
+
+
+                                  24                                  verage financing from other non-Federal
+                                  25                                  sources; and
+
+
+                                              •HR 472 IH
+
+                                                                                         16
+                                    1                                        (v) any other factor that the Secretary
+                                    2                                 determines will result in the greatest
+                                    3                                 amount of energy and cost savings to the
+                                    4                                 Federal Government.
+                                    5     SEC. 10. INCENTIVES FOR EXECUTIVE AGENCIES FOR UTIL-
+                                    6                             ITY ENERGY SAVINGS CONTRACTS.
+                                    7              Not later than 180 days after the date of enactment
+                                    8 of this Act, the Secretary of Energy, in consultation with
+                                    9 the Secretary of Defense and the Administrator of General
+                                  10 Services, shall promulgate regulations that enable Execu-
+                                  11 tive agencies to retain the financial savings that result
+                                  12 from entering into utility energy savings contracts.
+                                  13      SEC. 11. RENEWABLE ENERGY FACILITIES SURVEYS BY EX-
+                                  14                              ECUTIVE AGENCIES.
+                                  15               (a) IN GENERAL.—Not later than 180 days after the
+                                  16 date of enactment of this Act, the Secretary of Energy,
+                                  17 in consultation with the Secretary of Defense and the Ad-
+                                  18 ministrator of General Services, shall promulgate regula-
+                                  19 tions that establish appropriate methods and procedures
+                                  20 for use by Executive agencies to implement, unless incon-
+                                  21 sistent with the mission of the Executive agencies or im-
+                                  22 practicable due to environmental constraints, the identi-
+                                  23 fication of all potential locations at Federal facilities of
+
+
+
+
+                                  24 the agencies for renewable energy projects (including
+                                  25 available land, building roofs, and parking structures).
+
+
+                                              •HR 472 IH
+
+                                    1              (b) IDENTIFICATION                    17  OF    POTENTIAL LOCATIONS.—
+                                    2 Not later than 1 year after the date of the promulgation
+                                    3 of regulations under subsection (a), each Executive agency
+                                    4 shall complete the report of the agency that identifies po-
+                                    5 tential locations described in subsection (a).
+                                    6     SEC. 12. ADOPTION OF PERSONAL COMPUTER POWER SAV-
+                                    7                             INGS TECHNIQUES BY EXECUTIVE AGENCIES.
+                                    8              (a) IN GENERAL.—Not later than 180 days after the
+                                    9 date of enactment of this Act, the Secretary of Energy,
+                                  10 in consultation with the Secretary of Defense, the Sec-
+                                  11 retary of Veterans Affairs, and the Administrator of Gen-
+                                  12 eral Services, shall issue guidance for Executive agencies
+                                  13 to employ advanced tools allowing energy savings through
+                                  14 the use of computer hardware, energy efficiency software,
+                                  15 and power management tools.
+                                  16               (b) REPORTS                ON     PLANS          AND        SAVINGS.—Not later
+                                  17 than 90 days after the date of the issuance of the guidance
+                                  18 under subsection (a), each Executive agency shall submit
+                                  19 to the Secretary of Energy a report that describes—
+                                  20                         (1) the plan of the agency for implementing the
+                                  21               guidance within the agency; and
+                                  22                         (2) estimated energy and financial savings from
+                                  23               employing the tools described in subsection (a).
+
+
+
+
+
+                                              •HR 472 IH
+
+                                                                                         18
+                                    1     SEC. 13. FEDERAL ENERGY MANAGEMENT AND DATA COL-
+                                    2                             LECTION STANDARD.
+                                    3              (a) IN GENERAL.—Not later than 1 year after the
+                                    4 date of enactment of this Act, the Secretary of Energy,
+                                    5 in consultation with the Secretary of Defense, the Admin-
+                                    6 istrator of General Services, the Office of Science and
+                                    7 Technology Policy, and relevant industry and nonprofit
+                                    8 groups, shall develop and issue guidance on a Federal en-
+                                    9 ergy management and data collection standard.
+                                  10               (b) REQUIREMENTS.—Guidance described in sub-
+                                  11 section (a) shall include, at a minimum, a plan for the
+                                  12 General Services Administration to publish energy con-
+                                  13 sumption data for individual Federal facilities on a single,
+                                  14 searchable website, accessible by the public at no cost to
+                                  15 access.
+                                  16      SEC. 14. ADVANCED METERING BEST PRACTICES FOR AD-
+                                  17                              VANCED METERING.
+                                  18               Section 543(e) of the National Energy Conservation
+                                  19 Policy Act (42 U.S.C. 8253(e)) is amended by striking
+                                  20 paragraph (3) and inserting the following:
+                                  21                         ‘‘(3) PLAN.—
+                                  22                                  ‘‘(A) IN         GENERAL.—Not                     later than 180
+                                  23                         days after the date on which guidelines are es-
+                                  24                         tablished under paragraph (2), in a report sub-
+
+
+
+
+                                  25                         mitted by the agency under section 548(a), each
+                                  26                         agency shall submit to the Secretary a plan de-
+                                              •HR 472 IH
+
+                                                                                         19
+                                    1                        scribing the manner in which the agency will
+                                    2                        implement the requirements of paragraph (1),
+                                    3                        including—
+                                    4                                        ‘‘(i) how the agency will designate
+                                    5                                 personnel primarily responsible for achiev-
+                                    6                                 ing the requirements; and
+                                    7                                        ‘‘(ii) a demonstration by the agency,
+                                    8                                 complete with documentation, of any find-
+                                    9                                 ing that advanced meters or advanced me-
+                                  10                                  tering devices (as those terms are used in
+                                  11                                  paragraph (1)), are not practicable.
+                                  12                                  ‘‘(B) UPDATES.—Reports submitted under
+                                  13                         subparagraph (A) shall be updated annually.
+                                  14                         ‘‘(4) BEST           PRACTICES REPORT.—
+
+                                  15                                  ‘‘(A) IN         GENERAL.—Not                     later than 180
+                                  16                         days after the date of enactment of the Federal
+                                  17                         Cost Reduction Act of 2013, the Secretary of
+                                  18                         Energy, in consultation with the Secretary of
+                                  19                         Defense and the Administrator of General Serv-
+                                  20                         ices, shall develop, and issue a report on, best
+                                  21                         practices for the use of advanced metering of
+                                  22                         energy use in Federal facilities, buildings, and
+                                  23                         equipment by Federal agencies.
+
+
+
+
+
+                                              •HR 472 IH
+
+                                                                                         20
+                                    1                                 ‘‘(B) UPDATING.—The report described
+                                    2                        under subparagraph (A) shall be updated annu-
+                                    3                        ally.
+                                    4                                 ‘‘(C) COMPONENTS.—The report shall in-
+                                    5                        clude, at a minimum—
+                                    6                                        ‘‘(i) summaries and analysis of the re-
+                                    7                                 ports by agencies under paragraph (3);
+                                    8                                        ‘‘(ii) recommendations on standard re-
+                                    9                                 quirements or guidelines for automated en-
+                                  10                                  ergy management systems, including—
+                                  11                                                   ‘‘(I) potential common commu-
+                                  12                                         nications standards to allow data
+                                  13                                         sharing and reporting;
+                                  14                                                   ‘‘(II) means of facilitating contin-
+                                  15                                         uous commissioning of buildings and
+                                  16                                         evidence-based maintenance of build-
+                                  17                                         ings and building systems; and
+                                  18                                                   ‘‘(III) standards for sufficient
+                                  19                                         levels          of     security            and        protection
+                                  20                                         against cyber threats to ensure sys-
+                                  21                                         tems cannot be controlled by unau-
+                                  22                                         thorized persons; and
+                                  23                                         ‘‘(iii) an analysis of—
+
+
+
+
+
+                                  24                                                   ‘‘(I) the types of advanced meter-
+                                  25                                         ing and monitoring systems being pi-
+
+
+                                              •HR 472 IH
+
+                                                                                         21
+                                    1                                        loted, tested, or installed in Federal
+                                    2                                        buildings; and
+                                    3                                                  ‘‘(II) existing techniques used
+                                    4                                        within the private sector or other non-
+                                    5                                        Federal government buildings.’’.
+                                    6     SEC. 15. AVAILABILITY OF FUNDS FOR DESIGN UPDATES.
+                                    7              Section 3307 of title 40, United States Code, is
+                                    8 amended—
+                                    9                        (1) by redesignating subsections (d) through (h)
+                                  10               as subsections (e) through (i); and
+                                  11                         (2) by inserting after subsection (c) the fol-
+                                  12               lowing:
+                                  13               ‘‘(d) AVAILABILITY                        OF   FUNDS            FOR       DESIGN UP-
+                                  14      DATES.—
+
+                                  15                         ‘‘(1) IN       GENERAL.—Subject                        to paragraph (2),
+                                  16               for any project for which congressional approval is
+                                  17               received under subsection (a) and for which the de-
+                                  18               sign has been substantially completed but construc-
+                                  19               tion has not begun, the Administrator of General
+                                  20               Services may use appropriated funds to update the
+                                  21               project design to meet applicable Federal building
+                                  22               energy efficiency standards established under section
+                                  23               305 of the Energy Conservation and Production Act
+
+
+
+
+
+                                  24               (42 U.S.C. 6834) and other requirements estab-
+                                  25               lished under section 3312 of this title.
+
+
+                                              •HR 472 IH
+
+                                                                                         22
+                                    1                        ‘‘(2) LIMITATION.—The use of funds under
+                                    2              paragraph (1) shall not exceed 125 percent of the
+                                    3              estimated energy or other cost savings associated
+                                    4              with the updates as determined by a life-cycle cost
+                                    5              analysis under section 544 of the National Energy
+                                    6              Conservation Policy Act (42 U.S.C. 8254).’’.
+                                    7     SEC. 16. CONTINUOUS COMMISSIONING WITHIN THE FED-
+                                    8                             ERAL BUILDING STOCK.
+                                    9              (a) IN GENERAL.—Section 3312 of title 40, United
+                                  10 States Code, is amended—
+                                  11                         (1) by redesignating subsections (c) through (g)
+                                  12               as subsections (d) through (h), respectively; and
+                                  13                         (2) by inserting after subsection (b) the fol-
+                                  14               lowing:
+                                  15               ‘‘(c) CONTINUOUS COMMISSIONING WITHIN                                           THE
+                                  16 FEDERAL BUILDING STOCK.—
+                                  17                         ‘‘(1) IN      GENERAL.—Not                    later than 1 year after
+                                  18               the date of enactment of the Federal Cost Reduction
+                                  19               Act of 2013, the Administrator and the Secretary of
+                                  20               Energy shall incorporate commissioning and re-
+                                  21               commissioning standards (as those terms are defined
+                                  22               in section 543(f) of the National Energy Conserva-
+                                  23               tion Policy Act (42 U.S.C. 8253(f))), for all real
+
+
+
+
+                                  24               property that—
+                                  25                                  ‘‘(A) is more than $10,000,000 in value;
+
+
+                                              •HR 472 IH
+
+                                                                                         23
+                                    1                                 ‘‘(B) has more than 50,000 square feet; or
+                                    2                                 ‘‘(C) has energy intensity of more than $2
+                                    3                        per square foot.
+                                    4                        ‘‘(2) REGULATIONS.—Not later than 180 days
+                                    5              after the date of enactment of the Federal Cost Re-
+                                    6              duction Act of 2013, the Administrator and the Sec-
+                                    7              retary of Energy shall promulgate such regulations
+                                    8              as are necessary to carry out this subsection.’’.
+                                    9              (b) CONFORMING AMENDMENTS.—Section 3312 of
+                                  10 title 40, United States Code, is amended—
+                                  11                         (1) in subsection (e)(1) (as redesignated by
+                                  12               subsection (a)(1)), by striking ‘‘and (c)’’ and insert-
+                                  13               ing ‘‘and (d)’’;
+                                  14                         (2) in the first sentence of subsection (f) (as so
+                                  15               redesignated), by striking ‘‘and (c)’’ and inserting
+                                  16               ‘‘and (d)’’; and
+                                  17                         (3) in subsection (g) (as so redesignated), by
+                                  18               striking ‘‘subsection (b), (c), or (d) or for failure to
+                                  19               carry out any recommendation under subsection (e)’’
+                                  20               and inserting ‘‘subsection (b), (d), or (e) or for fail-
+                                  21               ure to carry out any recommendation under sub-
+                                  22               section (f)’’.
+
+
+
+
+
+                                              •HR 472 IH
+
+                                    1     SEC. 17. ELIMINATION OF STATE MATCHING REQUIRE-24
+                                    2                             MENT FOR ENERGY EFFICIENCY UPGRADES
+                                    3                             AT NATIONAL GUARD AND RESERVE ARMOR-
+                                    4                             IES AND READINESS CENTERS.
+                                    5              Section 18236(b) of title 10, United States Code, is
+                                    6 amended—
+                                    7                        (1) by redesignating paragraphs (1) and (2) as
+                                    8              subparagraphs (A) and (B), respectively;
+                                    9                        (2) by striking ‘‘A contribution’’ and inserting
+                                  10               ‘‘(1) Subject to paragraph (2), a contribution’’;
+                                  11                         (3) by striking ‘‘For the purpose’’ and inserting
+                                  12               ‘‘(3) For the purpose’’; and
+                                  13                         (4) by inserting after subparagraph (B) of
+                                  14               paragraph (1), as so designated, the following new
+                                  15               paragraph:
+                                  16               ‘‘(2) If an armory or readiness center project for
+                                  17 which a contribution is made under paragraph (4) or (5)
+                                  18 of section 18233(a) of this title consists of or includes an
+                                  19 energy efficiency upgrade, the Secretary of Defense shall
+                                  20 cover—
+                                  21                         ‘‘(A) 100 percent of the cost of architectural,
+                                  22               engineering, and design services related to the up-
+                                  23               grade (including advance architectural, engineering,
+                                  24               and design services under section 18233(e) of this
+
+
+
+
+                                  25               title), as provided in subparagraph (A) of paragraph
+                                  26               (1); and
+                                              •HR 472 IH
+
+                                                                                         25
+                                    1                        ‘‘(B) 100 percent of the cost of construction re-
+                                    2              lated to the upgrade, notwithstanding subparagraph
+                                    3              (B) of paragraph (1), and payment of such cost
+                                    4              shall not be considered in applying the limitation in
+                                    5              such subparagraph.’’.
+                                              •HR 472 IH                                   Æ

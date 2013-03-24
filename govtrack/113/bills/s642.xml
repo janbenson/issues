@@ -1,0 +1,23 @@
+<bill session="113" type="s" number="642" updated="2013-03-22T04:45:54-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend the Public Health Service Act and title XVIII of the Social Security Act to make the provision of technical services for medical imaging examinations and radiation therapy treatments safer, more accurate, and less costly.</title>
+  </titles>
+  <sponsor id="300041"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

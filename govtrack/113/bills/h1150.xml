@@ -1,0 +1,28 @@
+<bill session="113" type="h" number="1150" updated="2013-03-21T12:46:06-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="short">Preservation of Antibiotics for Medical Treatment Act of 2013</title>
+    <title as="introduced" type="official">To amend the Federal Food, Drug, and Cosmetic Act to preserve the effectiveness of medically important antimicrobials used in the treatment of human and animal diseases.</title>
+  </titles>
+  <sponsor id="400378"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-03-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E299"/>
+    </action>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

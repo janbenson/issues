@@ -1,0 +1,25 @@
+<bill session="113" type="h" number="1241" updated="2013-03-19T04:46:52-04:00">
+  <state datetime="2013-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-18"/>
+  </status>
+  <introduced datetime="2013-03-18"/>
+  <titles>
+    <title as="introduced" type="official">To facilitate a land exchange involving certain National Forest System lands in the Inyo National Forest, and for other purposes.</title>
+  </titles>
+  <sponsor id="412513"/>
+  <cosponsors>
+    <cosponsor id="400267" joined="2013-03-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-18">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

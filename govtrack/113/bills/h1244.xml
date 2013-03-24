@@ -1,0 +1,27 @@
+<bill session="113" type="h" number="1244" updated="2013-03-20T04:47:18-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Richard B. Russell National School Lunch Act to provide flexibility to school food authorities in meeting certain nutritional requirements for the school lunch and breakfast programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="412400"/>
+  <cosponsors>
+    <cosponsor id="412508" joined="2013-03-19"/>
+    <cosponsor id="412401" joined="2013-03-19"/>
+    <cosponsor id="412402" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-19">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

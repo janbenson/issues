@@ -1,0 +1,31 @@
+<bill session="113" type="h" number="876" updated="2013-03-16T06:28:34-04:00">
+  <state datetime="2013-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-27"/>
+  </status>
+  <introduced datetime="2013-02-27"/>
+  <titles>
+    <title as="introduced" type="short">Idaho Wilderness Water Resources Protection Act</title>
+    <title as="introduced" type="official">To authorize the continued use of certain water diversions located on National Forest System land in the Frank Church-River of No Return Wilderness and the Selway-Bitterroot Wilderness in the State of Idaho, and for other purposes.</title>
+  </titles>
+  <sponsor id="400376"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-27">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-03-04">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Committee on Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>2/27/2013--Introduced.
+Idaho Wilderness Water Resources Protection Act - Directs the Secretary of Agriculture (USDA) to issue a special use authorization to the owners of a water storage, transport, or diversion facility located on National Forest System land in the Frank Church-River of No Return Wilderness and the Selway-Bitterroot Wilderness in Idaho for continued operation and reconstruction of such facility if it is determined that: (1) the facility was in existence on the date on which it was designated as part of the National Wilderness Preservation System; (2) the facility has been in continuous use to deliver water for beneficial use on the owner's non-federal land since the date designation; (3) the owner holds a valid water right for use of the water on such land under Idaho state law, with a priority date that predates such date; and (4) it is not practicable or feasible to relocate the facility to land outside of the wilderness and continue the beneficial use of water on the non-federal land. Sets forth specified terms and conditions regarding the issuance of a special use authorization under this Act.</summary>
+</bill>

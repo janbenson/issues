@@ -1,0 +1,107 @@
+<bill session="113" type="hr" number="90" updated="2013-03-21T06:15:23-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="official">Expressing the sense of the House of Representatives that the Committee on Agriculture should not propose any reduction in the availability or amount of benefits provided under the supplemental nutrition assistance program (SNAP) in effect under the Food and Nutrition Act of 2008, and that the House of Representatives should reject any proposed legislation that includes any provisions that reduce the availability or amount of benefits provided under SNAP.</title>
+  </titles>
+  <sponsor id="400263"/>
+  <cosponsors>
+    <cosponsor id="412565" joined="2013-03-18"/>
+    <cosponsor id="400033" joined="2013-03-20"/>
+    <cosponsor id="412501" joined="2013-03-18"/>
+    <cosponsor id="400047" joined="2013-03-19"/>
+    <cosponsor id="400048" joined="2013-03-13"/>
+    <cosponsor id="400063" joined="2013-03-13"/>
+    <cosponsor id="412517" joined="2013-03-18"/>
+    <cosponsor id="412470" joined="2013-03-13"/>
+    <cosponsor id="400074" joined="2013-03-20"/>
+    <cosponsor id="400080" joined="2013-03-14"/>
+    <cosponsor id="400093" joined="2013-03-20"/>
+    <cosponsor id="400100" joined="2013-03-13"/>
+    <cosponsor id="400103" joined="2013-02-28"/>
+    <cosponsor id="412385" joined="2013-02-28"/>
+    <cosponsor id="412215" joined="2013-03-20"/>
+    <cosponsor id="400129" joined="2013-03-19"/>
+    <cosponsor id="412327" joined="2013-02-28"/>
+    <cosponsor id="400653" joined="2013-03-13"/>
+    <cosponsor id="400160" joined="2013-03-13"/>
+    <cosponsor id="400162" joined="2013-03-14"/>
+    <cosponsor id="412498" joined="2013-03-13"/>
+    <cosponsor id="400170" joined="2013-03-14"/>
+    <cosponsor id="412282" joined="2013-03-13"/>
+    <cosponsor id="400184" joined="2013-03-18"/>
+    <cosponsor id="412511" joined="2013-03-15"/>
+    <cosponsor id="400204" joined="2013-03-13"/>
+    <cosponsor id="400211" joined="2013-03-18"/>
+    <cosponsor id="412435" joined="2013-03-13"/>
+    <cosponsor id="412543" joined="2013-03-14"/>
+    <cosponsor id="400230" joined="2013-03-13"/>
+    <cosponsor id="400233" joined="2013-03-13"/>
+    <cosponsor id="400237" joined="2013-03-18"/>
+    <cosponsor id="400238" joined="2013-03-20"/>
+    <cosponsor id="400240" joined="2013-03-19"/>
+    <cosponsor id="400245" joined="2013-03-13"/>
+    <cosponsor id="412558" joined="2013-03-18"/>
+    <cosponsor id="400249" joined="2013-03-14"/>
+    <cosponsor id="412297" joined="2013-03-18"/>
+    <cosponsor id="400251" joined="2013-03-20"/>
+    <cosponsor id="400253" joined="2013-03-13"/>
+    <cosponsor id="400663" joined="2013-03-19"/>
+    <cosponsor id="400259" joined="2013-03-18"/>
+    <cosponsor id="400262" joined="2013-03-20"/>
+    <cosponsor id="400271" joined="2013-03-18"/>
+    <cosponsor id="400278" joined="2013-02-28"/>
+    <cosponsor id="400661" joined="2013-03-13"/>
+    <cosponsor id="400283" joined="2013-03-18"/>
+    <cosponsor id="400289" joined="2013-03-15"/>
+    <cosponsor id="400290" joined="2013-03-19"/>
+    <cosponsor id="400291" joined="2013-03-13"/>
+    <cosponsor id="400295" joined="2013-03-18"/>
+    <cosponsor id="412575" joined="2013-03-13"/>
+    <cosponsor id="400310" joined="2013-03-13"/>
+    <cosponsor id="412307" joined="2013-03-14"/>
+    <cosponsor id="400333" joined="2013-03-20"/>
+    <cosponsor id="412432" joined="2013-03-20"/>
+    <cosponsor id="400347" joined="2013-03-19"/>
+    <cosponsor id="400350" joined="2013-03-18"/>
+    <cosponsor id="400352" joined="2013-03-18"/>
+    <cosponsor id="400355" joined="2013-03-18"/>
+    <cosponsor id="400360" joined="2013-03-13"/>
+    <cosponsor id="400647" joined="2013-03-18"/>
+    <cosponsor id="400364" joined="2013-03-18"/>
+    <cosponsor id="412396" joined="2013-03-19"/>
+    <cosponsor id="412186" joined="2013-03-14"/>
+    <cosponsor id="400378" joined="2013-03-15"/>
+    <cosponsor id="400379" joined="2013-03-18"/>
+    <cosponsor id="412259" joined="2013-03-13"/>
+    <cosponsor id="400407" joined="2013-03-13"/>
+    <cosponsor id="412254" joined="2013-03-13"/>
+    <cosponsor id="412579" joined="2013-03-14"/>
+    <cosponsor id="412239" joined="2013-03-18"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2013-03-04">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H820-821"/>
+    </action>
+    <action datetime="2013-03-13">
+      <text>Referred to the Subcommittee on Department Operations, Oversight, and Nutrition.</text>
+      <committee name="House Committee on Agriculture"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG22" subcommittee="Department Operations, Oversight, and Nutrition" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>2/28/2013--Introduced.
+Expresses the sense of the House of Representatives that in this Congress the Committee on Agriculture should not propose any reduction in the availability or amount of benefits under the supplemental nutrition assistance program (SNAP) and that the House should reject any proposed legislation that seeks to do so.</summary>
+</bill>

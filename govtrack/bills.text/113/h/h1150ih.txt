@@ -1,0 +1,642 @@
+                                                                                                                                     I
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                        H. R. 1150
+                                  To amend the Federal Food, Drug, and Cosmetic Act to preserve the effective-
+                                      ness of medically important antimicrobials used in the treatment of
+                                      human and animal diseases.
+
+
+
+
+                                                IN THE HOUSE OF REPRESENTATIVES
+                                                                MARCH 14, 2013
+                                        Ms. SLAUGHTER introduced the following bill; which was referred to the
+                                                      Committee on Energy and Commerce
+
+
+
+
+                                                                            A BILL
+                                  To amend the Federal Food, Drug, and Cosmetic Act to
+                                     preserve the effectiveness of medically important
+                                     antimicrobials used in the treatment of human and ani-
+                                     mal diseases.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Preservation of Anti-
+                                    5 biotics for Medical Treatment Act of 2013’’.
+                                    6     SEC. 2. FINDINGS.
+                                    7              The Congress finds the following:
+
+
+
+
+                                                                                             2
+                                    1                        (1)(A) In 1977, the Food and Drug Adminis-
+                                    2              tration concluded that feeding livestock low doses of
+                                    3              antibiotics used in human disease treatment could
+                                    4              promote the development of antibiotic-resistance in
+                                    5              bacteria. However, the Food and Drug Administra-
+                                    6              tion did not act in response to these findings, despite
+                                    7              laws requiring the agency to do so.
+                                    8                        (B) In 2012, the Food and Drug Administra-
+                                    9              tion was ordered by a Federal court to address the
+                                  10               use of antibiotics in livestock, as the result of a law-
+                                  11               suit filed against the agency citing the agency’s fail-
+                                  12               ure to act in response to the 1977 findings.
+                                  13                         (2)(A) In 1998, the National Academy of
+                                  14               Sciences noted that antibiotic-resistant bacteria gen-
+                                  15               erate              a        minimum              of        $4,000,000,000               to
+                                  16               $5,000,000,000 in costs to United States society
+                                  17               and individuals yearly.
+                                  18                         (B) In 2009, Cook County Hospital and the Al-
+                                  19               liance for Prudent Use of Antibiotics estimated that
+                                  20               the total health care cost of antibiotic resistant in-
+                                  21               fections               in    the      United            States            was     between
+                                  22               $16,600,000,000 and $26,000,000,000 annually.
+                                  23                         (3) An April 1999 study by the Government
+
+
+
+
+                                  24               Accountability                 Office          concluded              that        resistant
+                                  25               strains of 3 microorganisms that cause food-borne
+
+
+                                              •HR 1150 IH
+
+                                                                                             3
+                                    1              illness            or      disease            in        humans              (Salmonella,
+                                    2              Campylobacter, and E. coli) are linked to the use of
+                                    3              antibiotics in animals.
+                                    4                        (4)(A) Large-scale, voluntary surveys by the
+                                    5              Department of Agriculture’s Animal and Plant
+                                    6              Health Inspection Service in 1999, 2001, and 2006
+                                    7              revealed that—
+                                    8                                 (i) 84 percent of grower-finisher swine
+                                    9                        farms, 83 percent of cattle feedlots, and 84 per-
+                                  10                         cent of sheep farms administer antimicrobials
+                                  11                         in the feed or water for health or growth pro-
+                                  12                         motion reasons; and
+                                  13                                  (ii) many of the antimicrobials identified
+                                  14                         are identical or closely related to drugs used in
+                                  15                         human            medicine,                  including            tetracyclines,
+                                  16                         macrolides,                Bacitracin,                 penicillins,        and
+                                  17                         sulfonamides; and
+                                  18                         (B) these drugs are used in people to treat seri-
+                                  19               ous diseases such as pneumonia, scarlet fever, rheu-
+                                  20               matic fever, sexually transmitted infections, skin in-
+                                  21               fections, and even pandemics like malaria and
+                                  22               plague, as well as bioterrorism agents like smallpox
+                                  23               and anthrax.
+
+
+
+
+
+                                              •HR 1150 IH
+
+                                                                                             4
+                                    1                        (5)(A) Any overuse or misuse of antibiotics con-
+                                    2              tributes to the spread of antibiotic resistance, wheth-
+                                    3              er in human medicine or in agriculture.
+                                    4                        (B) Recognizing the public health threat caused
+                                    5              by antibiotic resistance, Congress took several steps
+                                    6              to curb antibiotic overuse in human medicine
+                                    7              through amendments to the Public Health Service
+                                    8              Act (42 U.S.C. 201 et seq.) made by section 102 of
+                                    9              the Public Health Threats and Emergencies Act
+                                  10               (Public Law 106–505, title I; 114 Stat. 2315), but
+                                  11               has not yet addressed antibiotic overuse in agri-
+                                  12               culture.
+                                  13                         (6) In January 2001, a Federal interagency
+                                  14               task force—
+                                  15                                  (A) released an action plan to address the
+                                  16                         continuing decline in effectiveness of antibiotics
+                                  17                         against common bacterial infections, referred to
+                                  18                         as antibiotic resistance;
+                                  19                                  (B) determined that antibiotic resistance is
+                                  20                         a growing menace to all people and poses a se-
+                                  21                         rious threat to public health; and
+                                  22                                  (C) cautioned that if current trends con-
+                                  23                         tinue, treatments for common infections will be-
+
+
+
+
+                                  24                         come increasingly limited and expensive, and, in
+                                  25                         some cases, nonexistent.
+
+
+                                              •HR 1150 IH
+
+                                                                                             5
+                                    1                        (7) The United States Geological Survey re-
+                                    2              ported in March 2002 that—
+                                    3                                 (A) antibiotics were present in 48 percent
+                                    4                        of the streams tested nationwide; and
+                                    5                                 (B) almost half of the tested streams were
+                                    6                        downstream from agricultural operations.
+                                    7                        (8) The peer-reviewed journal ‘‘Clinical Infec-
+                                    8              tious Diseases’’ published a report in June 2002
+                                  109              that—            (A) was based on a 2-year review by ex-
+                                  11                         perts in human and veterinary medicine, public
+                                  12                         health, microbiology, biostatistics, and risk
+                                  13                         analysis, of more than 500 scientific studies on
+                                  14                         the human health impacts of antimicrobial use
+                                  15                         in agriculture; and
+                                  16                                  (B)         recommended                   that          antimicrobial
+                                  17                         agents should no longer be used in agriculture
+                                  18                         in the absence of disease, but should be limited
+                                  19                         to therapy for diseased individual animals and
+                                  20                         prophylaxis when disease is documented in a
+                                  21                         herd or flock.
+                                  22                         (9) In a March 2003 report, the National Acad-
+                                  23               emy of Sciences stated that—
+
+
+
+
+
+                                              •HR 1150 IH
+
+                                                                                             6
+                                    1                                 (A) a decrease in antimicrobial use in
+                                    2                        human medicine alone will have little effect on
+                                    3                        the current situation; and
+                                    4                                 (B) substantial efforts must be made to
+                                    5                        decrease inappropriate overuse in animals and
+                                    6                        agriculture.
+                                    7                        (10) The Federal Food, Drug, and Cosmetic
+                                    8              Act (21 U.S.C. 301 et seq.)—
+                                    9                                 (A) requires that all drugs be shown to be
+                                  10                         safe before the drugs are approved; and
+                                  11                                  (B) places the burden on manufacturers to
+                                  12                         account for health consequences and prove safe-
+                                  13                         ty.
+                                  14                         (11)(A) In 2003, the Food and Drug Adminis-
+                                  15               tration modified the drug approval process for anti-
+                                  16               biotics to recognize the development of resistant bac-
+                                  17               teria as an important aspect of safety, but most
+                                  18               antibiotics currently used in animal production sys-
+                                  19               tems for nontherapeutic purposes were approved be-
+                                  20               fore the Food and Drug Administration began con-
+                                  21               sidering resistance during the drug-approval process.
+                                  22                         (B) The Food and Drug Administration has not
+                                  23               established a schedule for reviewing those existing
+
+
+
+
+                                  24               approvals.
+                                              •HR 1150 IH
+
+                                                                                             7
+                                    1                        (12)(A) In an April 2004 report, the Govern-
+                                    2              ment Accountability Office—
+                                    3                                 (i) concluded that Federal agencies do not
+                                    4                        collect the critical data on antibiotic use in ani-
+                                    5                        mals that they need to support research on
+                                    6                        human health risks; and
+                                    7                                 (ii) recommended that the Department of
+                                    8                        Agriculture and the Department of Health and
+                                    9                        Human Services develop and implement a plan
+                                  10                         to collect data on antibiotic use in animals.
+                                  11                         (B) In a September 2011 update to that report,
+                                  12               the Government Accountability Office—
+                                  13                                  (i) concluded that Federal agencies had
+                                  14                         made limited progress in addressing antibiotic
+                                  15                         use in animals;
+                                  16                                  (ii) recommended that Federal agencies
+                                  17                         fund research on alternatives to current anti-
+                                  18                         biotic use practices; and
+                                  19                                  (iii) recommended that Federal agencies
+                                  20                         track the effectiveness of policies that curb anti-
+                                  21                         biotic resistance, including FDA’s voluntary
+                                  22                         guidelines reducing antibiotic use in food ani-
+                                  23                         mals.
+
+
+
+
+
+                                  24                         (13) In 2009, the Congressional Research Serv-
+                                  25               ice concluded that without restrictions on the use of
+
+
+                                              •HR 1150 IH
+
+                                                                                             8
+                                    1              antimicrobial drugs in the production of livestock,
+                                    2              export markets for livestock and poultry could be
+                                    3              negatively impacted due to restrictions on the use of
+                                    4              antibiotics in other nations.
+                                    5                        (14) In 2010, the peer-reviewed journal ‘‘Molec-
+                                    6              ular Cell’’ published a study demonstrating that low-
+                                    7              dosage use of antibiotics causes a dramatic increase
+                                    8              in genetic mutation, raising new concerns about the
+                                    9              agricultural practice of using low-dosage antibiotics
+                                  10               in order to stimulate growth promotion and rou-
+                                  11               tinely prevent disease in unhealthy conditions.
+                                  12                         (15) In 2010, the Danish Veterinary and Food
+                                  13               Administration testified that the Danish ban of the
+                                  14               nontherapeutic use of antibiotics in food animal pro-
+                                  15               duction resulted in a marked reduction in anti-
+                                  16               microbial resistance in multiple bacterial species, in-
+                                  17               cluding Campylobacter and Enterococci.
+                                  18                         (16) In 2011, the Food and Drug Administra-
+                                  19               tion determined that—
+                                  20                                  (A) 13.5 million kilograms of antibacterial
+                                  21                         drugs were sold for use on food animals in the
+                                  22                         United States in 2010;
+                                  23                                  (B) 3.3 million kilograms of antibacterial
+
+
+
+
+                                  24                         drugs were used for human health in 2010; and
+                                              •HR 1150 IH
+
+                                                                                             9
+                                    1                                 (C) therefore, 80 percent of antibacterial
+                                    2                        drugs disseminated in the United States in
+                                    3                        2010 were sold for use on food animals, rather
+                                    4                        than being used for human health.
+                                    5                        (17) In 2011, a review of all scientific studies
+                                    6              on antimicrobial use in farm animals, published in
+                                    7              Clinical Microbiology Reviews, found that—
+                                    8                                 (A) use of antibiotics in food animals leads
+                                    9                        to development of reservoirs of antibiotic resist-
+                                  10                         ance;
+                                  11                                  (B) a ban on antibiotic use in food animals
+                                  12                         would preserve their use for medicine; and
+                                  13                                  (C) a Danish ban on antibiotics in food
+                                  14                         animals resulted in little change in animal mor-
+                                  15                         bidity and mortality, and only a modest in-
+                                  16                         crease in production cost.
+                                  17                         (18) In April 2012, the Food and Drug Admin-
+                                  18               istration issued voluntary guidance to industry on
+                                  19               reducing antibiotic use in livestock and poultry. As
+                                  20               part of that guidance, it summarized over 35 years
+                                  21               of peer-reviewed scientific literature regarding use of
+                                  22               antimicrobial drugs in livestock. As a result, FDA
+                                  23               stated strategies for controlling antibiotic resistance
+
+
+
+
+                                  24               are needed, and are seeking voluntarily limits on an-
+                                  25               tibiotic use.
+
+
+                                              •HR 1150 IH
+
+                                                                                         10
+                                    1                        (19)(A) In January 2013, Consumer Reports
+                                    2              published test results on pork products bought in
+                                    3              grocery stores nationwide showing disturbingly high
+                                    4              levels of Salmonella and Yersinia enterocolitica bac-
+                                    5              teria that were resistant to the antibiotics used to
+                                    6              treat food borne illnesses. A 2003 Consumer Report
+                                    7              study showed similar results in poultry products.
+                                    8                        (B) The Food and Drug Administration’s Na-
+                                    9              tional Antimicrobial Resistance Monitoring System
+                                  10               routinely finds that retail meat products are con-
+                                  11               taminated with bacteria (including the foodborne
+                                  12               pathogens Campylobacter and Salmonella) that are
+                                  13               resistant to antibiotics important in human medi-
+                                  14               cine. The 2011 National Antimicrobial Resistance
+                                  15               Monitoring System report found that the percentage
+                                  16               of meat containing antibiotic resistant bacteria in-
+                                  17               creases each year and that many of these bacteria
+                                  18               exhibit multiple antibiotic resistance.
+                                  19                         (20) Antibiotic resistance, resulting in a re-
+                                  20               duced number of effective antibiotics, may signifi-
+                                  21               cantly impair the ability of the United States to re-
+                                  22               spond to terrorist attacks involving bacterial infec-
+                                  23               tions or a large influx of hospitalized patients.
+
+
+
+
+
+                                  24                         (21) Many scientific studies confirm that the
+                                  25               nontherapeutic use of antibiotics in agricultural ani-
+
+
+                                              •HR 1150 IH
+
+                                                                                         11
+                                    1              mals contribute to the development of antibiotic-re-
+                                    2              sistant bacterial infections in people.
+                                    3                        (22) Epidemiological research has shown that
+                                    4              resistant Salmonella and Campylobacter infections
+                                    5              are associated with increased numbers of ill patients
+                                    6              and bloodstream infections, and increased death.
+                                    7                        (23) The American Medical Association, the
+                                    8              American Public Health Association, the National
+                                    9              Association of County and City Health Officials, and
+                                  10               the National Sustainable Agriculture Coalition are
+                                  11               among the over 400 organizations representing
+                                  12               health, consumer, agricultural, environmental, hu-
+                                  13               mane, and other interests that have supported enact-
+                                  14               ment of legislation to phase out nontherapeutic use
+                                  15               in         farm          animals              of         medically                important
+                                  16               antimicrobials.
+                                  17      SEC. 3. PURPOSE.
+                                  18               The purpose of this Act is to preserve the effective-
+                                  19 ness of medically important antimicrobials used in the
+                                  20 treatment of human and animal diseases.
+                                  21      SEC. 4. PROOF OF SAFETY OF MEDICALLY IMPORTANT
+                                  22                              ANTIMICROBIALS.
+                                  23               (a) APPLICATIONS PENDING                                OR    SUBMITTED AFTER
+                                  24 ENACTMENT.—Section 512(d)(1) of the Federal Food,
+
+
+
+
+                                              •HR 1150 IH
+
+                                                                                         12
+                                    1 Drug, and Cosmetic Act (21 U.S.C. 360b(d)(1)) is amend-
+                                    2 ed—
+                                    3                        (1) in the first sentence—
+                                    4                                 (A) in subparagraph (H), by striking ‘‘or’’
+                                    5                        at the end;
+                                    6                                 (B) in subparagraph (I), by inserting ‘‘or’’
+                                    7                        at the end; and
+                                    8                                 (C) by inserting after subparagraph (I) the
+                                    9                        following:
+                                  10                                  ‘‘(J) with respect to a medically important
+                                  11                         antimicrobial (as defined in subsection (q)), the
+                                  12                         applicant has failed to demonstrate that there
+                                  13                         is a reasonable certainty of no harm to human
+                                  14                         health due to the development of antimicrobial
+                                  15                         resistance that is attributable, in whole or in
+                                  16                         part, to the nontherapeutic use (as defined in
+                                  17                         subsection (q)) of the medically important anti-
+                                  18                         microbial or drug;’’; and
+                                  19                         (2) in the second sentence, by striking ‘‘(A)
+                                  20               through (I)’’ and inserting ‘‘(A) through (J)’’.
+                                  21               (b) PHASED ELIMINATION                                  OF      NONTHERAPEUTIC
+                                  22 USE                   IN     ANIMALS               OF          MEDICALLY                   IMPORTANT
+                                  23 ANTIMICROBIALS.—Section 512 of the Federal Food,
+
+
+
+
+                                  24 Drug, and Cosmetic Act (21 U.S.C. 360b) is amended by
+                                  25 adding at the end the following:
+
+
+                                              •HR 1150 IH
+
+                                    1              ‘‘(q) PHASED ELIMINATION          13                     OF     NONTHERAPEUTIC
+                                    2 USE                  IN     ANIMALS               OF          MEDICALLY                   IMPORTANT
+                                    3 ANTIMICROBIALS.—
+                                    4                        ‘‘(1) APPLICABILITY.—This paragraph applies
+                                    5              to the nontherapeutic use in a food-producing ani-
+                                    6              mal of a drug—
+                                    7                                 ‘‘(A) that is a medically important anti-
+                                    8                        microbial; or
+                                    9                                 ‘‘(B)(i) for which there is in effect an ap-
+                                  10                         proval of an application or an exemption under
+                                  11                         subsection (b), (i), or (j) of section 505; or
+                                  12                                  ‘‘(ii) that is otherwise marketed for human
+                                  13                         use.
+                                  14                         ‘‘(2) WITHDRAWAL.—The Secretary shall with-
+                                  15               draw the approval of a nontherapeutic use in food-
+                                  16               producing animals of a drug described in paragraph
+                                  17               (1) on the date that is 2 years after the date of en-
+                                  18               actment of this subsection unless—
+                                  19                                  ‘‘(A) before the date that is 2 years after
+                                  20                         the date of the enactment of this subsection,
+                                  21                         the Secretary makes a final written determina-
+                                  22                         tion that the holder of the approved application
+                                  23                         has demonstrated that there is a reasonable
+
+
+
+
+                                  24                         certainty of no harm to human health due to
+                                  25                         the development of antimicrobial resistance that
+
+
+                                              •HR 1150 IH
+
+                                                                                         14
+                                    1                        is attributable in whole or in part to the non-
+                                    2                        therapeutic use of the drug; or
+                                    3                                 ‘‘(B) before the date specified in subpara-
+                                    4                        graph (A), the Secretary makes a final written
+                                    5                        determination under this subsection, with re-
+                                    6                        spect to a risk analysis of the drug conducted
+                                    7                        by the Secretary and other relevant informa-
+                                    8                        tion, that there is a reasonable certainty of no
+                                    9                        harm to human health due to the development
+                                  10                         of antimicrobial resistance that is attributable
+                                  11                         in whole or in part to the nontherapeutic use of
+                                  12                         the drug.
+                                  13                         ‘‘(3) EXEMPTIONS.—Except as provided in
+                                  14               paragraph (5), if the Secretary grants an exemption
+                                  15               under section 505(i) for a drug that is a medically
+                                  16               important antimicrobial, the Secretary shall rescind
+                                  17               each approval of a nontherapeutic use in a food-pro-
+                                  18               ducing animal of the medically important anti-
+                                  19               microbial, as of the date that is 2 years after the
+                                  20               date on which the Secretary grants the exemption.
+                                  21                         ‘‘(4) APPROVALS.—Except as provided in para-
+                                  22               graph (5), if an application for a drug that is a
+                                  23               medically important antimicrobial is submitted to
+
+
+
+
+                                  24               the Secretary under section 505(b), the Secretary
+                                  25               shall rescind each approval of a nontherapeutic use
+
+
+                                              •HR 1150 IH
+
+                                                                                         15
+                                    1              in a food-producing animal of the medically impor-
+                                    2              tant antimicrobial, as of the date that is 2 years
+                                    3              after the date on which the application is submitted
+                                    4              to the Secretary.
+                                    5                        ‘‘(5) EXCEPTIONS.—Paragraph (3) or (4), as
+                                    6              the case may be, shall not apply if—
+                                    7                                 ‘‘(A) before the date on which approval
+                                    8                        would be rescinded under that paragraph, the
+                                    9                        Secretary makes a final written determination
+                                  10                         that the holder of the application for the ap-
+                                  11                         proved nontherapeutic use has demonstrated
+                                  12                         that there is a reasonable certainty of no harm
+                                  13                         to human health due to the development of
+                                  14                         antimicrobial resistance that is attributable in
+                                  15                         whole or in part to the nontherapeutic use in
+                                  16                         the food-producing animal of the medically im-
+                                  17                         portant antimicrobial; or
+                                  18                                  ‘‘(B) before the date specified in subpara-
+                                  19                         graph (A), the Secretary makes a final written
+                                  20                         determination, with respect to a risk analysis of
+                                  21                         the medically important antimicrobial conducted
+                                  22                         by the Secretary and any other relevant infor-
+                                  23                         mation, that there is a reasonable certainty of
+
+
+
+
+                                  24                         no harm to human health due to the develop-
+                                  25                         ment of antimicrobial resistance that is attrib-
+
+
+                                              •HR 1150 IH
+
+                                                                                         16
+                                    1                        utable in whole or in part to the nontherapeutic
+                                    2                        use of the medically important antimicrobial.
+                                    3                        ‘‘(6) DEFINITION.—In this subsection:
+                                    4                                 ‘‘(A) The term ‘medically important anti-
+                                    5                        microbial’ means a drug that—
+                                    6                                        ‘‘(i) is intended for use in food-pro-
+                                    7                                 ducing animals; and
+                                    8                                        ‘‘(ii) is composed wholly or partly of—
+                                    9                                                  ‘‘(I) any kind of penicillin, tetra-
+                                  10                                         cycline,               macrolide,                 lincosamide,
+                                  11                                         streptogramin,                   aminoglycoside,          sul-
+                                  12                                         fonamide, or cephalosporin; or
+                                  13                                                   ‘‘(II) a drug from an anti-
+                                  14                                         microbial class that is listed as ‘highly
+                                  15                                         important’, ‘critically important’, or
+                                  16                                         ‘important’ by the World Health Or-
+                                  17                                         ganization in the latest edition of its
+                                  18                                         publication entitled ‘Critically Impor-
+                                  19                                         tant Antimicrobials for Human Medi-
+                                  20                                         cine’ (or a successor publication).
+                                  21                                  ‘‘(B) The term ‘therapeutic use’, with re-
+                                  22                         spect to a medically important antimicrobial,
+                                  23                         means the use of antimicrobials for the specific
+
+
+
+
+                                  24                         purpose of treating an animal with a docu-
+                                  25                         mented disease or infection. Such term does not
+
+
+                                              •HR 1150 IH
+
+                                                                                         17
+                                    1                        include the continued use of such an anti-
+                                    2                        microbial in the animal after the disease or in-
+                                    3                        fection is resolved.
+                                    4                                 ‘‘(C) The term ‘nontherapeutic use’—
+                                    5                                         ‘‘(i) means administration of anti-
+                                    6                                 biotics to an animal through feed and
+                                    7                                 water (or, in poultry hatcheries, through
+                                    8                                 any means) for purposes (such as growth
+                                    9                                 promotion, feed efficiency, weight gain, or
+                                  10                                  disease prevention) other than therapeutic
+                                  11                                  use or nonroutine disease control; and
+                                  12                                          ‘‘(ii) includes any repeated or regular
+                                  13                                  pattern of use of medically important
+                                  14                                  antimicrobials for purposes other than
+                                  15                                  therapeutic use or nonroutine disease con-
+                                  16                                  trol.
+                                  17                                  ‘‘(D) The term ‘noncustomary situation’
+                                  18                         does not include normal or standard practice
+                                  19                         and conditions on the premises that facilitate
+                                  20                         the transmission of disease.
+                                  21                                  ‘‘(E) The term ‘nonroutine disease control’
+                                  22                         means the use of antibiotics on an animal that
+                                  23                         is not sick but where it can be shown that a
+
+
+
+
+                                  24                         particular disease or infection is present, or is
+                                  25                         likely to occur because of a specific, noncus-
+
+
+                                              •HR 1150 IH
+
+                                                                                         18
+                                    1                        tomary situation, on the premises at the barn,
+                                    2                        house, pen, or other level at which the animal
+                                    3                        is kept.’’.
+                                    4     SEC. 5. LIMITATIONS ON USE OF MEDICALLY IMPORTANT
+                                    5                             ANTIMICROBIALS FOR NONROUTINE DISEASE
+                                    6                             CONTROL.
+
+                                    7              (a) PROHIBITED ACTS.—Section 301 of the Federal
+                                    8 Food, Drug, and Cosmetic Act (21 U.S.C. 331) is amend-
+                                    9 ed by adding at the end the following:
+                                  10               ‘‘(ccc) The administration of a medically important
+                                  11 antimicrobial to a food-producing animal for nonroutine
+                                  12 disease control in violation of the requirements of section
+                                  13 512A.’’.
+                                  14               (b) REQUIREMENTS.—Chapter V of the Federal
+                                  15 Food, Drug, and Cosmetic Act is amended by inserting
+                                  16 after section 512 of such Act (21 U.S.C. 360b) the fol-
+                                  17 lowing:
+                                  18      ‘‘SEC. 512A. LIMITATIONS ON USE OF MEDICALLY IMPOR-
+                                  19                              TANT ANTIMICROBIALS FOR NONROUTINE
+                                  20                              DISEASE CONTROL.
+
+                                  21               ‘‘(a) PROHIBITION.—It shall be unlawful to admin-
+                                  22 ister (including by means of animal feed) a medically im-
+                                  23 portant antimicrobial to a food-producing animal for non-
+
+
+
+
+                                  24 routine disease control unless—
+                                              •HR 1150 IH
+
+                                                                                         19
+                                    1                        ‘‘(1) there is a significant risk that a disease or
+                                    2              infection present on the premises will be transmitted
+                                    3              to the food-producing animal;
+                                    4                        ‘‘(2) the administration of the medically impor-
+                                    5              tant antimicrobial to the food-producing animal is
+                                    6              necessary to prevent or reduce the risk of trans-
+                                    7              mission of the disease or infection described in para-
+                                    8              graph (1);
+                                    9                        ‘‘(3) the medically important antimicrobial is
+                                  10               administered to the food-producing animal for non-
+                                  11               routine disease control for the shortest duration pos-
+                                  12               sible to prevent or reduce the risk of transmission of
+                                  13               the disease or infection described in paragraph (1)
+                                  14               to the animal; and
+                                  15                         ‘‘(4) the medically important antimicrobial is
+                                  16               administered—
+                                  17                                  ‘‘(A) at a scale no greater than the barn,
+                                  18                         house, or pen level; and
+                                  19                                  ‘‘(B) to the fewest animals possible to pre-
+                                  20                         vent or reduce the risk of transmission of the
+                                  21                         disease or infection described in paragraph (1).
+                                  22               ‘‘(b) DEFINITIONS.—In this section:
+                                  23                         ‘‘(1) The term ‘food-producing animal’ means a
+
+
+
+
+                                  24               food-producing animal intended for sale in interstate
+                                  25               commerce.
+
+
+                                              •HR 1150 IH
+
+                                                                                         20
+                                    1                        ‘‘(2) The terms ‘medically important anti-
+                                    2              microbial’ and ‘nonroutine disease control’ have the
+                                    3              meanings given to such terms in section 512(q).’’.
+                                    4              (c) APPLICABILITY.—The amendments made by this
+                                    5 section apply beginning on the date that is 6 months after
+                                    6 the date of the enactment of this Act.
+                                              •HR 1150 IH                                  Æ

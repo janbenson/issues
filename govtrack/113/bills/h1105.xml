@@ -1,0 +1,28 @@
+<bill session="113" type="h" number="1105" updated="2013-03-19T15:47:10-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="short">Small Business Capital Access and Job Preservation Act</title>
+    <title as="introduced" type="official">To amend the Investment Advisers Act of 1940 to provide a registration exemption for private equity fund advisers, and for other purposes.</title>
+  </titles>
+  <sponsor id="412484"/>
+  <cosponsors>
+    <cosponsor id="400081" joined="2013-03-13"/>
+    <cosponsor id="400145" joined="2013-03-13"/>
+    <cosponsor id="412282" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-13">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

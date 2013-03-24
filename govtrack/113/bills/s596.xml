@@ -1,0 +1,27 @@
+<bill session="113" type="s" number="596" updated="2013-03-22T04:45:48-04:00">
+  <state datetime="2013-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-18"/>
+  </status>
+  <introduced datetime="2013-03-18"/>
+  <titles>
+    <title as="introduced" type="official">A bill to establish pilot projects under the Medicare program to provide incentives for home health agencies to furnish remote patient monitoring services that reduce expenditures under such program.</title>
+  </titles>
+  <sponsor id="400546"/>
+  <cosponsors>
+    <cosponsor id="300041" joined="2013-03-21"/>
+    <cosponsor id="412378" joined="2013-03-18"/>
+    <cosponsor id="412242" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-18">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

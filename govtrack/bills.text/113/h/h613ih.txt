@@ -1,0 +1,248 @@
+                                                                                                                                         I
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                          H. R. 613
+                                     To establish a market-based trigger to determine the capital adequacy of
+                                    bank holding companies and decrease systemic risk, and for other purposes.
+
+
+
+
+                                                IN THE HOUSE OF REPRESENTATIVES
+                                                                         FEBRUARY 12, 2013
+                                        Mr. CAMPBELL            introduced the following bill; which was referred to the
+                                                                   Committee on Financial Services
+
+
+
+
+                                                                            A BILL
+                                  To establish a market-based trigger to determine the capital
+                                     adequacy of bank holding companies and decrease sys-
+                                     temic risk, and for other purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Systemic Risk Mitiga-
+                                    5 tion Act’’.
+                                    6     SEC. 2. DEFINITIONS.
+                                    7              In this Act:
+                                    8                        (1) AVERAGE              DAILY CLOSING PRICE.—
+                                    9                                 (A) IN           GENERAL.—The                         term ‘‘average
+                                  10                         daily closing price’’ means the average daily
+
+                                                                                             2
+                                    1                        closing price of a credit default swap on long-
+                                    2                        term subordinated debt of a bank holding com-
+                                    3                        pany during a 30-day period.
+                                    4                                 (B) REGULATIONS.—The Board, through
+                                    5                        regulations, shall develop a method to deter-
+                                    6                        mine the daily closing price of a credit default
+                                    7                        swap on long-term subordinated debt of a bank
+                                    8                        holding company and shall calculate the average
+                                    9                        daily closing price accordingly.
+                                  10                         (2) BANK                HOLDING               COMPANY.—The                term
+                                  11               ‘‘bank holding company’’ has the same meaning
+                                  12               given such term in section 2 of the Bank Holding
+                                  13               Company Act of 1956 (12 U.S.C. 1841), but shall
+                                  14               only include such companies with total consolidated
+                                  15               assets greater than or equal to $50,000,000,000.
+                                  16                         (3) BOARD.—The term ‘‘Board’’ means the
+                                  17               Board of Governors of the Federal Reserve System.
+                                  18                         (4) CREDIT            DEFAULT SWAP.—The                           term ‘‘credit
+                                  19               default swap’’ has the same meaning given the term
+                                  20               ‘‘swap agreement’’ in section 206A of the Gramm-
+                                  21               Leach-Bliley Act (15 U.S.C. 78c nt).
+                                  22                         (5) LONG-TERM                       SUBORDINATED DEBT.—The
+                                  23               term ‘‘long-term subordinated debt’’ means unse-
+                                  24               cured bonds or other debt instruments issued by a
+
+
+
+
+                                  25               bank holding company that—
+                                              •HR 613 IH
+
+                                                                                             3
+                                    1                                 (A) is subordinated to the claims of deposi-
+                                    2                        tors or general creditors; and
+                                    3                                 (B) has a maturity date not less than 5
+                                    4                        years.
+                                    5                        (6) STRESS            TEST.—
+
+                                    6                                 (A) IN       GENERAL.—The                    term ‘‘stress test’’
+                                    7                        means an evaluation designed by the Board to
+                                    8                        determine whether a bank holding company—
+                                    9                                        (i) has the capital, on a total consoli-
+                                  10                                  dated basis, necessary to absorb losses as
+                                  11                                  a result of adverse economic conditions;
+                                  12                                  and
+                                  13                                         (ii) is sufficiently capitalized to meet
+                                  14                                  systemically important obligations.
+                                  15                                  (B) REGULATIONS.—The term ‘‘system-
+                                  16                         ically important obligation’’ shall be defined in
+                                  17                         regulations prescribed by the Board.
+                                  18                         (7) TIER        1 CAPITAL.—The                    term ‘‘tier 1 capital’’
+                                  19               has the same meaning given in part 225 of title 12,
+                                  20               Code of Federal Regulations, as in effect on the date
+                                  21               of enactment of this Act, or any successor thereto.
+                                  22      SEC. 3. MARKET-BASED TRIGGER TO DETERMINE ADE-
+                                  23                              QUACY OF CAPITAL.
+                                  24               (a) MARKET-BASED TRIGGER.—
+                                  25                         (1) GREATER              THAN 50 BASIS POINTS.—
+
+
+
+                                              •HR 613 IH
+
+                                                                                             4
+                                    1                                 (A) IN       GENERAL.—In                 the case that the av-
+                                    2                        erage daily closing price exceeds 50 basis
+                                    3                        points—
+                                    4                                        (i) the Board shall notify the bank
+                                    5                                 holding company that it needs to raise ad-
+                                    6                                 ditional tier 1 capital in order to reduce
+                                    7                                 such closing price below 50 basis points;
+                                    8                                        (ii) not later than 14 days (or less if
+                                    9                                 the Board makes a determination that con-
+                                  10                                  ditions warrant a shorter period of time)
+                                  11                                  after such notification under clause (i),
+                                  12                                  such company shall submit to the Board
+                                  13                                  an action plan detailing how the company
+                                  14                                  intends on remediating its capital defi-
+                                  15                                  ciency;
+                                  16                                         (iii) such company has 30 days to im-
+                                  17                                  plement the plan submitted under clause
+                                  18                                  (ii) after such plan is approved by the
+                                  19                                  Board; and
+                                  20                                         (iv) if after the end of the 30-day pe-
+                                  21                                  riod described in clause (iii) the average
+                                  22                                  daily closing price exceeds 50 basis points,
+                                  23                                  the Board and such company shall repeat
+                                  24                                  clause (i) through (iii) until such closing
+
+
+
+
+
+                                              •HR 613 IH
+
+                                                                                             5
+                                    1                                 price is less than or equal to 50 basis
+                                    2                                 points.
+                                    3                                 (B) APPEAL.—
+                                    4                                        (i) IN              GENERAL.—A                 bank holding
+                                    5                                 company may appeal the findings of the
+                                    6                                 Board under subparagraph (A) and re-
+                                    7                                 quest that the Board conduct a stress test.
+                                    8                                        (ii) TOLLING.—An appeal made pur-
+                                    9                                 suant to clause (i) shall toll any deadline
+                                  10                                  specified under subparagraph (A) until the
+                                  11                                  conclusion of the appeals process.
+                                  12                                         (iii) CAPITAL                   DEFICIENCY.—If          the
+                                  13                                  Board determines, after conducting a
+                                  14                                  stress test pursuant to clause (i), that the
+                                  15                                  bank holding company has a capital defi-
+                                  16                                  ciency, the Board and the bank holding
+                                  17                                  company shall repeat clause (i) through
+                                  18                                  (iii) of subparagraph (A) in accordance
+                                  19                                  with clause (iv) of such subparagraph.
+                                  20                         (2) GREATER               THAN 75 BASIS POINTS.—In                      the
+                                  21               case that the average daily closing price exceeds 75
+                                  22               basis points—
+                                  23                                  (A) the Board shall notify the bank hold-
+                                  24                         ing company in accordance with clause (i) of
+
+
+
+
+                                  25                         paragraph (1)(A);
+                                              •HR 613 IH
+
+                                                                                             6
+                                    1                                 (B) such company shall submit and imple-
+                                    2                        ment an action plan in accordance with clause
+                                    3                        (ii) and (iii) of paragraph (1)(A);
+                                    4                                 (C) the Board may suspend or limit divi-
+                                    5                        dends paid by the bank holding company until
+                                    6                        such company’s average daily closing price is
+                                    7                        less than or equal to 50 basis points;
+                                    8                                 (D) the Board shall notify the company
+                                    9                        that it will be placed into receivership in accord-
+                                  10                         ance with paragraph (3) if the average daily
+                                  11                         closing price exceeds 100 basis points;
+                                  12                                  (E) the Board shall conduct a stress test;
+                                  13                         and
+                                  14                                  (F) if the Board determines, after con-
+                                  15                         ducting a stress test pursuant to subparagraph
+                                  16                         (E), that such company has a capital deficiency,
+                                  17                         not later than 14 days (or less if the Board
+                                  18                         makes a determination that conditions warrant
+                                  19                         a shorter period of time) after such stress test
+                                  20                         is completed, such company shall submit and
+                                  21                         implement an action plan in accordance with
+                                  22                         clause (ii) and (iii) of paragraph (1)(A).
+                                  23                         (3) GREATER               THAN 100 BASIS POINTS.—In                   the
+                                  24               case that the average daily closing price exceeds 100
+
+
+
+
+                                  25               basis points, the Board shall place the company into
+                                              •HR 613 IH
+
+                                                                                             7
+                                    1              receivership in accordance with the orderly liquida-
+                                    2              tion authority provided under title II of the Dodd-
+                                    3              Frank Wall Street Reform and Consumer Protection
+                                    4              Act (12 U.S.C. 5381 et seq.).
+                                    5              (b) FAILURE TO SUBMIT ACTION PLAN.—A failure
+                                    6 by a bank holding company to submit an action plan pur-
+                                    7 suant to subsection (a) within the time period required
+                                    8 under such subsection shall result in the Board placing
+                                    9 such company into receivership as described in subsection
+                                  10 (a)(3).
+                                  11               (c) LIMITATION                 ON   CLAIMS            FOR    HOLDERS            OF   LONG-
+                                  12 TERM SUBORDINATED DEBT.—Any entity that is a holder
+                                  13 of long-term subordinated debt of a bank holding company
+                                  14 that has been placed into receivership pursuant to this sec-
+                                  15 tion shall receive the lesser of—
+                                  16                         (1) 80 percent of the face value of such debt;
+                                  17               or
+                                  18                         (2) the residual value of such company after all
+                                  19               other claims of other creditors have been satisfied.
+                                  20               (d) SUBORDINATED DEBT REQUIREMENT.—
+                                  21                         (1) IN         GENERAL.—The                      Board shall require
+                                  22               each bank holding company to issue and maintain
+                                  23               long-term subordinated debt in an amount greater
+                                  24               than or equal to 15 percent of the total consolidated
+
+
+
+
+                                  25               assets of such company.
+                                              •HR 613 IH
+
+                                                                                             8
+                                    1                        (2) DEADLINE.—A bank holding company shall
+                                    2              meet the requirement set forth in paragraph (1) no
+                                    3              later than the effective date of this section.
+                                    4                        (3) FAILURE               TO MEET REQUIREMENT.—If                     a
+                                    5              bank holding company fails to meet the requirement
+                                    6              set forth in paragraph (1), such company shall sub-
+                                    7              mit a plan to the Board describing the steps the
+                                    8              company will take to meet such requirement.
+                                    9              (e) EFFECTIVE DATE.—This section shall take effect
+                                  10 2 years after the date of the enactment of this Act.
+                                  11      SEC. 4. REPEAL.
+
+                                  12               (a) PROHIBITIONS                      ON       PROPRIETARY TRADING.—
+                                  13 Section 13 of the Bank Holding Company Act of 1956
+                                  14 (12 U.S.C. 1851) is repealed.
+                                  15               (b) ENHANCED PRUDENTIAL STANDARDS.—Section
+                                  16 165 of the Dodd-Frank Wall Street Reform and Consumer
+                                  17 Protection Act (12 U.S.C. 5365) is repealed.
+                                              •HR 613 IH                                   Æ

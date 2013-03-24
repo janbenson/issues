@@ -1,0 +1,49 @@
+<bill session="113" type="h" number="1313" updated="2013-03-22T04:46:44-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Food, Conservation, and Energy Act to repeal a duplicative program relating to inspection and grading of catfish.</title>
+  </titles>
+  <sponsor id="412444"/>
+  <cosponsors>
+    <cosponsor id="412436" joined="2013-03-21"/>
+    <cosponsor id="400032" joined="2013-03-21"/>
+    <cosponsor id="400048" joined="2013-03-21"/>
+    <cosponsor id="412563" joined="2013-03-21"/>
+    <cosponsor id="400110" joined="2013-03-21"/>
+    <cosponsor id="412457" joined="2013-03-21"/>
+    <cosponsor id="400129" joined="2013-03-21"/>
+    <cosponsor id="412429" joined="2013-03-21"/>
+    <cosponsor id="412437" joined="2013-03-21"/>
+    <cosponsor id="412435" joined="2013-03-21"/>
+    <cosponsor id="400220" joined="2013-03-21"/>
+    <cosponsor id="400221" joined="2013-03-21"/>
+    <cosponsor id="412557" joined="2013-03-21"/>
+    <cosponsor id="400266" joined="2013-03-21"/>
+    <cosponsor id="412518" joined="2013-03-21"/>
+    <cosponsor id="412307" joined="2013-03-21"/>
+    <cosponsor id="412489" joined="2013-03-21"/>
+    <cosponsor id="412202" joined="2013-03-21"/>
+    <cosponsor id="400347" joined="2013-03-21"/>
+    <cosponsor id="400364" joined="2013-03-21"/>
+    <cosponsor id="412317" joined="2013-03-21"/>
+    <cosponsor id="412254" joined="2013-03-21"/>
+    <cosponsor id="412410" joined="2013-03-21"/>
+    <cosponsor id="400627" joined="2013-03-21"/>
+    <cosponsor id="412255" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

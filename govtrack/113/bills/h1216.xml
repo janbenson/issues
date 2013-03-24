@@ -1,0 +1,32 @@
+<bill session="113" type="h" number="1216" updated="2013-03-16T04:47:01-04:00">
+  <state datetime="2013-03-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-15"/>
+  </status>
+  <introduced datetime="2013-03-15"/>
+  <titles>
+    <title as="introduced" type="official">To designate the Department of Veterans Affairs Vet Center in Prescott, Arizona, as the "Dr. Cameron McKinley Department of Veterans Affairs Veterans Center".</title>
+  </titles>
+  <sponsor id="412397"/>
+  <cosponsors>
+    <cosponsor id="412502" joined="2013-03-15"/>
+    <cosponsor id="400141" joined="2013-03-15"/>
+    <cosponsor id="400162" joined="2013-03-15"/>
+    <cosponsor id="412286" joined="2013-03-15"/>
+    <cosponsor id="400310" joined="2013-03-15"/>
+    <cosponsor id="400606" joined="2013-03-15"/>
+    <cosponsor id="412399" joined="2013-03-15"/>
+    <cosponsor id="412509" joined="2013-03-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-15">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

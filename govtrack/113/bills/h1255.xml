@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="1255" updated="2013-03-21T15:46:24-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title as="introduced" type="official">To enable Federal and State chartered banks and thrifts to meet the credit needs of the Nation's home builders, and to provide liquidity and ensure stable credit for meeting the Nation's need for new homes.</title>
+  </titles>
+  <sponsor id="400277"/>
+  <cosponsors>
+    <cosponsor id="400257" joined="2013-03-19"/>
+    <cosponsor id="400627" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-19">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

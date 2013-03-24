@@ -1,0 +1,25 @@
+<bill session="113" type="h" number="1300" updated="2013-03-21T06:16:44-04:00">
+  <state datetime="2013-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-03-20"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Fish and Wildlife Act of 1956 to reauthorize the volunteer programs and community partnerships for the benefit of national wildlife refuges, and for other purposes.</title>
+  </titles>
+  <sponsor id="412449"/>
+  <cosponsors>
+    <cosponsor id="412312" joined="2013-03-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-20">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="113" type="h" number="1333" updated="2013-03-22T04:46:54-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 38, United States Code, to grant family of members of the uniformed services temporary annual leave during the deployment of such members, and for other purposes.</title>
+  </titles>
+  <sponsor id="412571"/>
+  <cosponsors>
+    <cosponsor id="400047" joined="2013-03-21"/>
+    <cosponsor id="412208" joined="2013-03-21"/>
+    <cosponsor id="400062" joined="2013-03-21"/>
+    <cosponsor id="412576" joined="2013-03-21"/>
+    <cosponsor id="400080" joined="2013-03-21"/>
+    <cosponsor id="412555" joined="2013-03-21"/>
+    <cosponsor id="400103" joined="2013-03-21"/>
+    <cosponsor id="400110" joined="2013-03-21"/>
+    <cosponsor id="400130" joined="2013-03-21"/>
+    <cosponsor id="412529" joined="2013-03-21"/>
+    <cosponsor id="412532" joined="2013-03-21"/>
+    <cosponsor id="400185" joined="2013-03-21"/>
+    <cosponsor id="400209" joined="2013-03-21"/>
+    <cosponsor id="412543" joined="2013-03-21"/>
+    <cosponsor id="400233" joined="2013-03-21"/>
+    <cosponsor id="400237" joined="2013-03-21"/>
+    <cosponsor id="412521" joined="2013-03-21"/>
+    <cosponsor id="400251" joined="2013-03-21"/>
+    <cosponsor id="400257" joined="2013-03-21"/>
+    <cosponsor id="400259" joined="2013-03-21"/>
+    <cosponsor id="400263" joined="2013-03-21"/>
+    <cosponsor id="408211" joined="2013-03-21"/>
+    <cosponsor id="400295" joined="2013-03-21"/>
+    <cosponsor id="412575" joined="2013-03-21"/>
+    <cosponsor id="400360" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

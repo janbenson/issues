@@ -1,0 +1,39 @@
+<bill session="113" type="h" number="1080" updated="2013-03-20T04:47:07-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Sikes Act to promote the use of cooperative agreements under such Act for land management related to Department of Defense readiness activities and to amend title 10, United States Code, to facilitate interagency cooperation in conservation programs to avoid or reduce adverse impacts on military readiness activities.</title>
+  </titles>
+  <sponsor id="400041"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-03-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E277"/>
+    </action>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-12">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2013-03-12">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-03-15">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII22" subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" name="House Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

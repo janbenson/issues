@@ -1,0 +1,30 @@
+<bill session="113" type="h" number="1342" updated="2013-03-22T04:46:59-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To repeal provisions of the Patient Protection and Affordable Care Act relating to health savings accounts, and for other purposes.</title>
+  </titles>
+  <sponsor id="412275"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

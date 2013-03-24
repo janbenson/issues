@@ -1,0 +1,1525 @@
+                                                                                                                                   I
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                          H. R. 502
+                                  To create an electronic employment eligibility verification system to ensure
+                                      that all workers in the United States are legally able to work, and
+                                      for other purposes.
+
+
+
+
+                                                IN THE HOUSE OF REPRESENTATIVES
+                                                                 FEBRUARY 5, 2013
+                                  Mr. DEFAZIO introduced the following bill; which was referred to the Com-
+                                      mittee on the Judiciary, and in addition to the Committees on Ways and
+                                      Means and Education and the Workforce, for a period to be subsequently
+                                      determined by the Speaker, in each case for consideration of such provi-
+                                      sions as fall within the jurisdiction of the committee concerned
+
+
+
+
+                                                                            A BILL
+                                  To create an electronic employment eligibility verification
+                                     system to ensure that all workers in the United States
+                                     are legally able to work, and for other purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Electronic Employ-
+                                    5 ment Eligibility Verification and Illegal Immigration Con-
+                                    6 trol Act’’.
+
+
+
+
+
+                                    1     SEC. 2. EMPLOYMENT ELIGIBILITY VERIFICATION SYSTEM.2
+                                    2              (a) IN GENERAL.—Section 274A(b) of the Immigra-
+                                    3 tion and Nationality Act (8 U.S.C. 1324a(b)) is amended
+                                    4 by adding at the end the following:
+                                    5                        ‘‘(7) EMPLOYMENT                      ELIGIBILITY VERIFICATION
+                                    6              SYSTEM.—
+                                    7                                 ‘‘(A) IN               GENERAL.—The                    Secretary of
+                                    8                        Homeland Security shall establish and admin-
+                                    9                        ister a verification system through which the
+                                  10                         Secretary (or a designee of the Secretary)—
+                                  11                                         ‘‘(i) responds to inquiries made by
+                                  12                                  persons at any time through a toll-free
+                                  13                                  telephone line and other toll-free electronic
+                                  14                                  media concerning an individual’s identity
+                                  15                                  and whether the individual is authorized to
+                                  16                                  be employed; and
+                                  17                                         ‘‘(ii) maintains records of the inquir-
+                                  18                                  ies that were made, of verifications pro-
+                                  19                                  vided (or not provided), and of the codes
+                                  20                                  provided to inquirers as evidence of their
+                                  21                                  compliance with their obligations under
+                                  22                                  this section.
+                                  23                                  ‘‘(B) DESIGN                AND OPERATION OF SYS-
+                                  24                         TEM.—The             verification system shall be designed
+
+
+
+
+                                  25                         and operated—
+                                              •HR 502 IH
+
+                                                                                             3
+                                    1                                        ‘‘(i) to maximize its reliability and
+                                    2                                 ease of use by persons and other entities
+                                    3                                 consistent with insulating and protecting
+                                    4                                 the privacy and security of the underlying
+                                    5                                 information;
+                                    6                                        ‘‘(ii) to respond to all inquiries made
+                                    7                                 by such persons and entities on whether
+                                    8                                 individuals are authorized to be employed
+                                    9                                 and to register all times when such inquir-
+                                  10                                  ies are not received;
+                                  11                                         ‘‘(iii) with appropriate administrative,
+                                  12                                  technical, and physical safeguards to pre-
+                                  13                                  vent unauthorized disclosure of personal
+                                  14                                  information; and
+                                  15                                         ‘‘(iv) to have reasonable safeguards
+                                  16                                  against the system’s resulting in unlawful
+                                  17                                  discriminatory practices based on national
+                                  18                                  origin or citizenship status, including—
+                                  19                                                   ‘‘(I) the selective or unauthorized
+                                  20                                         use of the system to verify eligibility;
+                                  21                                                   ‘‘(II) the use of the system prior
+                                  22                                         to an offer of employment; or
+                                  23                                                   ‘‘(III) the exclusion of certain in-
+
+
+
+
+                                  24                                         dividuals from consideration for em-
+                                  25                                         ployment as a result of a perceived
+
+
+                                              •HR 502 IH
+
+                                                                                             4
+                                    1                                        likelihood that additional verification
+                                    2                                        will be required, beyond what is re-
+                                    3                                        quired for most job applicants.
+                                    4                                 ‘‘(C) RESPONSIBILITIES                         OF THE COMMIS-
+                                    5                        SIONER OF SOCIAL SECURITY.—As                                         part of the
+                                    6                        verification system, the Commissioner of Social
+                                    7                        Security, in consultation with the Secretary of
+                                    8                        Homeland Security (and any designee of the
+                                    9                        Secretary selected to establish and administer
+                                  10                         the verification system), shall establish a reli-
+                                  11                         able, secure method, which, within the time pe-
+                                  12                         riods specified under subparagraphs (B) and
+                                  13                         (C) of paragraph (3), compares the name and
+                                  14                         Social Security account number provided in an
+                                  15                         inquiry against such information maintained by
+                                  16                         the Commissioner in order to validate (or not
+                                  17                         validate) the information provided regarding an
+                                  18                         individual whose identity and employment eligi-
+                                  19                         bility must be confirmed, the correspondence of
+                                  20                         the name and number, and whether the indi-
+                                  21                         vidual has presented a Social Security account
+                                  22                         number that is not valid for employment. The
+                                  23                         Commissioner shall not disclose or release So-
+
+
+
+
+                                  24                         cial Security information (other than such
+                                  25                         verification or nonverification) except as pro-
+
+
+                                              •HR 502 IH
+
+                                                                                             5
+                                    1                        vided for in this section or section 205(c)(2)(I)
+                                    2                        of the Social Security Act.
+                                    3                                 ‘‘(D) RESPONSIBILITIES                                OF     THE   SEC-
+                                    4                        RETARY OF HOMELAND SECURITY.—
+                                    5                                        ‘‘(i) As part of the verification system,
+                                    6                                 the Secretary of Homeland Security (in
+                                    7                                 consultation with any designee of the Sec-
+                                    8                                 retary selected to establish and administer
+                                    9                                 the verification system), shall establish a
+                                  10                                  reliable, secure method, which, within the
+                                  11                                  time periods specified under subparagraphs
+                                  12                                  (B) and (C) of paragraph (3), compares
+                                  13                                  the name and alien identification or au-
+                                  14                                  thorization number which are provided in
+                                  15                                  an inquiry against such information main-
+                                  16                                  tained by the Secretary in order to validate
+                                  17                                  (or not validate) the information provided,
+                                  18                                  the correspondence of the name and num-
+                                  19                                  ber, and whether the alien is authorized to
+                                  20                                  be employed in the United States.
+                                  21                                         ‘‘(ii) When a single employer has sub-
+                                  22                                  mitted to the verification system pursuant
+                                  23                                  to subparagraphs (B) and (C) of para-
+
+
+
+
+                                  24                                  graph (3) the identical Social Security ac-
+                                  25                                  count number in more than one instance,
+
+
+                                              •HR 502 IH
+
+                                                                                             6
+                                    1                                 or when multiple employers have submitted
+                                    2                                 to the verification system pursuant to such
+                                    3                                 paragraph the identical Social Security ac-
+                                    4                                 count number, in a manner which indicates
+                                    5                                 the possible fraudulent use of that number,
+                                    6                                 the Secretary of Homeland Security shall
+                                    7                                 conduct an investigation, within the time
+                                    8                                 periods specified in such subparagraphs, in
+                                    9                                 order to ensure that no fraudulent use of
+                                  10                                  a Social Security account number has
+                                  11                                  taken place. If the Secretary has selected
+                                  12                                  a designee to establish and administer the
+                                  13                                  verification system, the designee shall no-
+                                  14                                  tify the Secretary when a single employer
+                                  15                                  has submitted to the verification system
+                                  16                                  pursuant to such subparagraphs the iden-
+                                  17                                  tical Social Security account number in
+                                  18                                  more than one instance, or when multiple
+                                  19                                  employers                  have        submitted             to   the
+                                  20                                  verification system pursuant to such para-
+                                  21                                  graph the identical Social Security account
+                                  22                                  number, in a manner which indicates the
+                                  23                                  possible fraudulent use of that number.
+
+
+
+
+                                  24                                  The designee shall also provide the Sec-
+                                  25                                  retary with all pertinent information, in-
+
+
+                                              •HR 502 IH
+
+                                                                                             7
+                                    1                                 cluding the name and address of the em-
+                                    2                                 ployer or employers who submitted the rel-
+                                    3                                 evant Social Security account number, the
+                                    4                                 relevant Social Security account number
+                                    5                                 submitted by the employer or employers,
+                                    6                                 and the relevant name and date of birth of
+                                    7                                 the employee submitted by the employer or
+                                    8                                 employers.
+                                    9                                         ‘‘(iii) The Secretary in consultation
+                                  10                                  with the Commissioner of Social Security,
+                                  11                                  shall establish procedures to permit an in-
+                                  12                                  dividual who contests a tentative or final
+                                  13                                  nonverification notice, or seeks to verify
+                                  14                                  the individual’s own employment, to con-
+                                  15                                  tact the appropriate agency and, in a time-
+                                  16                                  ly manner, correct or update the informa-
+                                  17                                  tion used by the system.
+                                  18                                          ‘‘(iv) The Secretary shall prescribe a
+                                  19                                  system to register employer participation
+                                  20                                  prior to the date the employer is required
+                                  21                                  or permitted to submit information with
+                                  22                                  respect to an employee.
+                                  23                                  ‘‘(E)         UPDATING                   INFORMATION.—The
+
+
+
+
+                                  24                         Commissioner of Social Security and the Sec-
+                                  25                         retary of Homeland Security shall update their
+
+
+                                              •HR 502 IH
+
+                                                                                             8
+                                    1                        information in a manner that promotes the
+                                    2                        maximum accuracy and shall provide a process
+                                    3                        for the prompt correction of erroneous informa-
+                                    4                        tion, including instances in which it is brought
+                                    5                        to their attention in the secondary verification
+                                    6                        process described in paragraph (3)(C).
+                                    7                                 ‘‘(F) FEDERAL                TORT CLAIMS ACT.—If                  an
+                                    8                        individual alleges that the individual would not
+                                    9                        have been dismissed from a job but for an error
+                                  10                         of the verification mechanism, the individual
+                                  11                         may seek compensation only through the mech-
+                                  12                         anism of the Federal Tort Claims Act, and in-
+                                  13                         junctive relief to correct such error. No class
+                                  14                         action may be brought under this subpara-
+                                  15                         graph.
+                                  16                                  ‘‘(G) PROTECTION                      FROM LIABILITY FOR
+                                  17                         ACTIONS TAKEN ON THE BASIS OF INFORMA-
+                                  18                         TION.—No             person or entity shall be civilly or
+                                  19                         criminally liable for any action taken in good
+                                  20                         faith reliance on information provided through
+                                  21                         the employment eligibility verification mecha-
+                                  22                         nism established under this paragraph.’’.
+                                  23               (b) REPEAL              OF      PROVISION RELATING                         TO   EVALUA-
+                                  24      TIONS AND             CHANGES             IN   EMPLOYMENT VERIFICATION.—
+
+
+
+
+                                              •HR 502 IH
+
+                                                                                             9
+                                    1 Section 274A(d) of such Act (8 U.S.C. 1324a(d)) is re-
+                                    2 pealed.
+                                    3     SEC. 3. EMPLOYMENT ELIGIBILITY VERIFICATION PROC-
+                                    4                             ESS.
+                                    5              Section 274A of the Immigration and Nationality Act
+                                    6 (8 U.S.C. 1324a) is amended—
+                                    7                        (1) in subsection (a)(3), by inserting ‘‘(A)’’
+                                    8              after ‘‘DEFENSE.—’’, and by adding at the end the
+                                    9              following:
+                                  10                                  ‘‘(B) FAILURE                      TO    SEEK          AND      OBTAIN
+                                  11                         VERIFICATION.—In                     the case of a person or enti-
+                                  12                         ty in the United States that hires, or continues
+                                  13                         to employ, an individual, or recruits or refers
+                                  14                         an individual for employment, the following re-
+                                  15                         quirements apply:
+                                  16                                         ‘‘(i)                FAILURE                   TO          SEEK
+                                  17                                  VERIFICATION.—
+                                  18                                                   ‘‘(I) IN          GENERAL.—If               the person
+                                  19                                         or entity has not made an inquiry,
+                                  20                                         under               the     mechanism                 established
+                                  21                                         under               subsection           (b)(7),         seeking
+                                  22                                         verification of the identity and work
+                                  23                                         eligibility of the individual, by not
+
+
+
+
+                                  24                                         later than the end of 3 working days
+                                  25                                         (as specified by the Secretary of
+
+
+                                              •HR 502 IH
+
+                                                                                         10
+                                    1                                        Homeland Security) after the date of
+                                    2                                        the hiring, the date specified in sub-
+                                    3                                        section (b)(8)(B) for previously hired
+                                    4                                        individuals, or before the recruiting or
+                                    5                                        referring             commences,                 the   defense
+                                    6                                        under subparagraph (A) shall not be
+                                    7                                        considered to apply with respect to
+                                    8                                        any employment, except as provided in
+                                    9                                        subclause (II).
+                                  10                                                   ‘‘(II) SPECIAL                RULE FOR FAIL-
+                                  11                                         URE OF VERIFICATION MECHANISM.—
+                                  12                                         If such a person or entity in good
+                                  13                                         faith attempts to make an inquiry in
+                                  14                                         order to qualify for the defense under
+                                  15                                         subparagraph (A) and the verification
+                                  16                                         mechanism has registered that not all
+                                  17                                         inquiries were responded to during the
+                                  18                                         relevant time, the person or entity can
+                                  19                                         make an inquiry until the end of the
+                                  20                                         first subsequent working day in which
+                                  21                                         the verification mechanism registers
+                                  22                                         no nonresponses and qualify for such
+                                  23                                         defense.
+
+
+
+
+
+                                  24                                         ‘‘(ii)            FAILURE                      TO      OBTAIN
+                                  25                                  VERIFICATION.—If                      the person or entity
+                                              •HR 502 IH
+
+                                                                                         11
+                                    1                                 has made the inquiry described in clause
+                                    2                                 (i)(I) but has not received an appropriate
+                                    3                                 verification of such identity and work eligi-
+                                    4                                 bility under such mechanism within the
+                                    5                                 time period specified under subsection
+                                    6                                 (b)(7)(B) after the time the verification in-
+                                    7                                 quiry was received, the defense under sub-
+                                    8                                 paragraph (A) shall not be considered to
+                                    9                                 apply with respect to any employment after
+                                  10                                  the end of such time period.’’;
+                                  11                         (2) by amending subparagraph (A) of sub-
+                                  12               section (b)(1) to read as follows:
+                                  13                                  ‘‘(A) IN        GENERAL.—The                     person or entity
+                                  14                         must attest, under penalty of perjury and on a
+                                  15                         form designated or established by the Secretary
+                                  16                         by regulation, that it has verified that the indi-
+                                  17                         vidual is not an unauthorized alien by—
+                                  18                                         ‘‘(i) obtaining from the individual the
+                                  19                                  individual’s Social Security account num-
+                                  20                                  ber and recording the number on the form
+                                  21                                  (if the individual claims to have been
+                                  22                                  issued such a number), and, if the indi-
+                                  23                                  vidual does not attest to United States citi-
+
+
+
+
+                                  24                                  zenship under paragraph (2), obtaining
+                                  25                                  such identification or authorization number
+
+
+                                              •HR 502 IH
+
+                                                                                         12
+                                    1                                 established by the Department of Home-
+                                    2                                 land Security for the alien as the Secretary
+                                    3                                 of Homeland Security may specify, and re-
+                                    4                                 cording such number on the form; and
+                                    5                                        ‘‘(ii)(I) examining a document de-
+                                    6                                 scribed in subparagraph (B); or
+                                    7                                        ‘‘(II) examining a document described
+                                    8                                 in subparagraph (C) and a document de-
+                                    9                                 scribed in subparagraph (D).
+                                  10                         A person or entity has complied with the re-
+                                  11                         quirement of this paragraph with respect to ex-
+                                  12                         amination of a document if the document rea-
+                                  13                         sonably appears on its face to be genuine, rea-
+                                  14                         sonably appears to pertain to the individual
+                                  15                         whose identity and work eligibility is being
+                                  16                         verified, and, if the document bears an expira-
+                                  17                         tion date, that expiration date has not elapsed.
+                                  18                         If an individual provides a document (or com-
+                                  19                         bination of documents) that reasonably appears
+                                  20                         on its face to be genuine, reasonably appears to
+                                  21                         pertain to the individual whose identity and
+                                  22                         work eligibility is being verified, and is suffi-
+                                  23                         cient to meet the first sentence of this para-
+
+
+
+
+                                  24                         graph, nothing in this paragraph shall be con-
+                                  25                         strued as requiring the person or entity to so-
+
+
+                                              •HR 502 IH
+
+                                                                                         13
+                                    1                        licit the production of any other document or as
+                                    2                        requiring the individual to produce another doc-
+                                    3                        ument.’’;
+                                    4                        (3) in subsection (b)(1)(D)—
+                                    5                                 (A) in clause (i), by striking ‘‘or such other
+                                    6                        personal identification information relating to
+                                    7                        the individual as the Attorney General finds, by
+                                    8                        regulation, sufficient for purposes of this sec-
+                                    9                        tion’’; and
+                                  10                                  (B) in clause (ii), by inserting before the
+                                  11                         period ‘‘and that contains a photograph of the
+                                  12                         individual’’;
+                                  13                         (4) in subsection (b)(2), by adding at the end
+                                  14               the following: ‘‘The individual must also provide that
+                                  15               individual’s Social Security account number (if the
+                                  16               individual claims to have been issued such a num-
+                                  17               ber), and, if the individual does not attest to United
+                                  18               States citizenship under this paragraph, such identi-
+                                  19               fication or authorization number established by the
+                                  20               Department of Homeland Security for the alien as
+                                  21               the Secretary may specify.’’; and
+                                  22                         (5) by amending paragraph (3) of subsection
+                                  23               (b) to read as follows:
+
+
+
+
+
+                                  24                         ‘‘(3) RETENTION                  OF VERIFICATION FORM AND
+                                  25               VERIFICATION.—
+                                              •HR 502 IH
+
+                                                                                         14
+                                    1                                 ‘‘(A) IN         GENERAL.—After                       completion of
+                                    2                        such form in accordance with paragraphs (1)
+                                    3                        and (2), the person or entity must—
+                                    4                                        ‘‘(i) retain a paper, microfiche, micro-
+                                    5                                 film, or electronic version of the form and
+                                    6                                 make it available for inspection by officers
+                                    7                                 of the Department of Homeland Security,
+                                    8                                 the Special Counsel for Immigration-Re-
+                                    9                                 lated Unfair Employment Practices, or the
+                                  10                                  Department of Labor during a period be-
+                                  11                                  ginning on the date of the hiring, recruit-
+                                  12                                  ing, or referral of the individual or the
+                                  13                                  date of the completion of verification of a
+                                  14                                  previously hired individual and ending—
+                                  15                                                   ‘‘(I) in the case of the recruiting
+                                  16                                         or referral of an individual, 3 years
+                                  17                                         after the date of the recruiting or re-
+                                  18                                         ferral;
+                                  19                                                   ‘‘(II) in the case of the hiring of
+                                  20                                         an individual, the later of—
+                                  21                                                            ‘‘(aa) 3 years after the date
+                                  22                                                   of such hiring; or
+                                  23                                                            ‘‘(bb) 1 year after the date
+
+
+
+
+                                  24                                                   the individual’s employment is
+                                  25                                                   terminated; and
+
+
+                                              •HR 502 IH
+
+                                                                                         15
+                                    1                                                  ‘‘(III)           in     the         case   of   the
+                                    2                                        verification of a previously hired indi-
+                                    3                                        vidual, the later of—
+                                    4                                                           ‘‘(aa) 3 years after the date
+                                    5                                                  of the completion of verification;
+                                    6                                                  or
+                                    7                                                           ‘‘(bb) 1 year after the date
+                                    8                                                  the individual’s employment is
+                                    9                                                  terminated;
+                                  10                                         ‘‘(ii) make an inquiry, as provided in
+                                  11                                  paragraph (7), using the verification sys-
+                                  12                                  tem to seek verification of the identity and
+                                  13                                  employment eligibility of an individual, by
+                                  14                                  not later than the end of 3 working days
+                                  15                                  (as specified by the Secretary of Homeland
+                                  16                                  Security) after the date of the hiring or in
+                                  17                                  the case of previously hired individuals, the
+                                  18                                  date specified in paragraph (8)(B), or be-
+                                  19                                  fore the recruiting or referring commences;
+                                  20                                  and
+                                  21                                         ‘‘(iii) not commence recruitment or re-
+                                  22                                  ferral of the individual until the person or
+                                  23                                  entity receives verification under clause (i)
+
+
+
+
+                                  24                                  or (ii) of subparagraph (D).
+                                              •HR 502 IH
+
+                                                                                         16
+                                    1                                 ‘‘(B) INITIAL            RESPONSE.—The                        verification
+                                    2                        system shall provide verification or a tentative
+                                    3                        nonverification of an individual’s identity and
+                                    4                        employment eligibility within 3 working days of
+                                    5                        the initial inquiry. If providing verification or
+                                    6                        tentative nonverification, the verification system
+                                    7                        shall provide an appropriate code indicating
+                                    8                        such verification or such nonverification.
+                                    9                                 ‘‘(C) SECONDARY                    VERIFICATION PROCESS
+                                  10                         IN CASE OF TENTATIVE NONVERIFICATION.—In
+                                  11                         cases of tentative nonverification, the Secretary
+                                  12                         shall specify, in consultation with the Commis-
+                                  13                         sioner of Social Security, an available secondary
+                                  14                         verification process to confirm the validity of in-
+                                  15                         formation provided and to provide a final
+                                  16                         verification or nonverification within 10 working
+                                  17                         days         after         the         date         of         the       tentative
+                                  18                         nonverification.                When           final           verification     or
+                                  19                         nonverification is provided, the verification sys-
+                                  20                         tem shall provide an appropriate code indicating
+                                  21                         such verification or nonverification.
+                                  22                                  ‘‘(D)                       VERIFICATION                               OR
+                                  23                         NONVERIFICATION.—
+                                  24                                          ‘‘(i) VERIFICATION                    UPON INITIAL IN-
+                                  25                                  QUIRY.—If                an         employer              receives      a
+                                              •HR 502 IH
+
+                                                                                         17
+                                    1                                 verification notice under subparagraph (B)
+                                    2                                 for an individual, the employer shall
+                                    3                                 record,         as       described            in       subparagraph
+                                    4                                 (A)(i), the appropriate code provided in
+                                    5                                 such notice.
+                                    6                                        ‘‘(ii)                                                TENTATIVE
+                                    7                                 NONVERIFICATION.—If                           an employer re-
+                                    8                                 ceives a tentative nonverification notice
+                                    9                                 under subparagraph (B) for an individual,
+                                  10                                  the employer shall inform such individual
+                                  11                                  of the issuance of such notice in writing,
+                                  12                                  on a form prescribed by the Secretary not
+                                  13                                  later than 3 days after receiving such no-
+                                  14                                  tice. Such individual shall acknowledge re-
+                                  15                                  ceipt of such notice in writing as described
+                                  16                                  in paragraph (1)(A). If the individual re-
+                                  17                                  fuses to acknowledge receipt of notice, the
+                                  18                                  individual’s employment must be termi-
+                                  19                                  nated immediately.
+                                  20                                         ‘‘(iii) NO         CONTEST.—If                  the individual
+                                  21                                  does           not           contest               the         tentative
+                                  22                                  nonverification notice within 10 days of re-
+                                  23                                  ceiving notice from the individual’s em-
+
+
+
+
+                                  24                                  ployer, the notice shall become final and
+                                  25                                  the employer shall record, as described in
+
+
+                                              •HR 502 IH
+
+                                                                                         18
+                                    1                                 subparagraph (A)(i), the appropriate code
+                                    2                                 provided through the system to indicate
+                                    3                                 the individual did not contest the tentative
+                                    4                                 nonverification. An individual’s failure to
+                                    5                                 contest a tentative nonverification shall not
+                                    6                                 be considered an admission of guilt with
+                                    7                                 respect to any violation of this Act or any
+                                    8                                 other provision of law.
+                                    9                                        ‘‘(iv) CONTEST.—If the individual
+                                  10                                  contests the tentative nonverification no-
+                                  11                                  tice, the individual shall submit appro-
+                                  12                                  priate information to contest such notice
+                                  13                                  under the procedures established in sub-
+                                  14                                  paragraph (E) not later than 10 days after
+                                  15                                  receiving the notice from the individual’s
+                                  16                                  employer.
+                                  17                                         ‘‘(v) EFFECTIVE                      PERIOD           OF   TEN-
+                                  18                                  TATIVE           NONVERIFICATION                         NOTICE.—A
+                                  19                                  tentative nonverification notice shall re-
+                                  20                                  main in effect until such notice becomes
+                                  21                                  final under clause (iii), or the earlier of—
+                                  22                                                   ‘‘(I) a final verification notice or
+                                  23                                         final nonverification notice is issued
+
+
+
+
+                                  24                                         through the system; or
+                                              •HR 502 IH
+
+                                                                                         19
+                                    1                                                  ‘‘(II) 10 working days after the
+                                    2                                        individual                  contests            a     tentative
+                                    3                                        nonverification under clause (iv).
+                                    4                                        ‘‘(vi) ADDITIONAL                      AUTHORITY.—The
+                                    5                                 Secretary shall have the authority to issue
+                                    6                                 a final verification notice for an individual.
+                                    7                                 In such a case, the Secretary shall deter-
+                                    8                                 mine the individual’s eligibility for employ-
+                                    9                                 ment in the United States and record the
+                                  10                                  results of such determination in the system
+                                  11                                  within 12 months.
+                                  12                                         ‘‘(vii) EFFECTIVE                    PERIOD OF FINAL
+                                  13                                  NOTICE.—A              final verification notice issued
+                                  14                                  under this paragraph for an individual
+                                  15                                  shall remain in effect—
+                                  16                                                   ‘‘(I) during any continuous pe-
+                                  17                                         riod of employment of such individual
+                                  18                                         by such employer, unless the Sec-
+                                  19                                         retary determines the final verification
+                                  20                                         was the result of identity fraud; or
+                                  21                                                   ‘‘(II) in the case of an alien au-
+                                  22                                         thorized to be employed in the United
+                                  23                                         States for a temporary period, during
+
+
+
+
+                                  24                                         such period.
+                                              •HR 502 IH
+
+                                                                                         20
+                                    1                                        ‘‘(viii)          PROHIBITION                    ON   TERMI-
+                                    2                                 NATION.—An                employer may not terminate
+                                    3                                 the employment of an individual based on
+                                    4                                 a tentative nonverification notice until such
+                                    5                                 notice becomes final under clause (iii), an
+                                    6                                 individual refuses to acknowledge receipt of
+                                    7                                 tentative nonverification under clause (ii),
+                                    8                                 or a final nonverification notice is issued
+                                    9                                 for the individual by the System. Nothing
+                                  10                                  in this clause shall prohibit the termination
+                                  11                                  of employment for any other reason other
+                                  12                                  than such tentative nonverification.
+                                  13                                         ‘‘(ix) RECORDING                    OF CONTEST RESO-
+                                  14                                  LUTION.—The                 employer shall record the
+                                  15                                  appropriate code that is provided through
+                                  16                                  the system to indicate a final verification
+                                  17                                  notice or final nonverification notice as de-
+                                  18                                  scribed in paragraph (1)(A).
+                                  19                                         ‘‘(x)                  CONSEQUENCES                      OF
+                                  20                                  NONVERIFICATION.—If                          the employer has
+                                  21                                  received a final nonverification regarding
+                                  22                                  an individual, the employer shall terminate
+                                  23                                  the employment, recruitment, or referral of
+
+
+
+
+                                  24                                  the individual. Such employer shall provide
+                                  25                                  to the Secretary any information relating
+
+
+                                              •HR 502 IH
+
+                                                                                         21
+                                    1                                 to the individual that the Secretary deter-
+                                    2                                 mines would assist the Secretary in enforc-
+                                    3                                 ing or administering the immigration laws.
+                                    4                                 If the employer continues to employ, re-
+                                    5                                 cruit or refer the individual after receiving
+                                    6                                 final nonverification, a rebuttable presump-
+                                    7                                 tion is created that the employer has vio-
+                                    8                                 lated subsections (a)(1)(A) and (a)(2).
+                                    9                                 Such presumption may not apply to a
+                                  10                                  prosecution under subsection (f)(1).
+                                  11                                  ‘‘(E) ADMINISTRATIVE                       REVIEW.—
+
+                                  12                                         ‘‘(i) IN        GENERAL.—An                    individual who
+                                  13                                  is terminated from employment as a result
+                                  14                                  of a final nonverification notice may, not
+                                  15                                  later than 60 days after the date of such
+                                  16                                  termination, file an appeal of such notice.
+                                  17                                         ‘‘(ii) PROCEDURES.—The Secretary
+                                  18                                  and Commissioner of Social Security shall
+                                  19                                  develop procedures to review appeals filed
+                                  20                                  under clause (i) and to make final deter-
+                                  21                                  minations on such appeals.
+                                  22                                         ‘‘(iii) REVIEW                   FOR       ERRORS.—If      a
+                                  23                                  final determination on an appeal filed
+
+
+
+
+                                  24                                  under clause (i) results in verification of
+                                  25                                  an individual’s eligibility to work in the
+
+
+                                              •HR 502 IH
+
+                                                                                         22
+                                    1                                 United States, the administrative review
+                                    2                                 process shall require the Secretary to de-
+                                    3                                 termine if the final nonverification notice
+                                    4                                 issued for the individual was the result
+                                    5                                 of—
+                                    6                                                  ‘‘(I) an error or negligence on the
+                                    7                                        part of an employee or official oper-
+                                    8                                        ating or responsible for the System;
+                                    9                                                  ‘‘(II) the decision rules, proc-
+                                  10                                         esses, or procedures utilized by the
+                                  11                                         system; or
+                                  12                                                   ‘‘(III) erroneous system informa-
+                                  13                                         tion that was not the result of acts or
+                                  14                                         omissions of the individual.
+                                  15                                         ‘‘(iv) COMPENSATION                       FOR ERROR.—
+
+                                  16                                                   ‘‘(I) IN          GENERAL.—If                 the Sec-
+                                  17                                         retary makes a determination under
+                                  18                                         clause              (iii)          that           the      final
+                                  19                                         nonverification notice issued for an in-
+                                  20                                         dividual was not caused by an act or
+                                  21                                         omission of the individual, the Sec-
+                                  22                                         retary shall compensate the individual
+                                  23                                         for lost wages.
+
+
+
+
+
+                                  24                                                   ‘‘(II) CALCULATION                          OF   LOST
+                                  25                                         WAGES.—Lost                     wages shall be cal-
+                                              •HR 502 IH
+
+                                                                                         23
+                                    1                                        culated based on the wage rate and
+                                    2                                        work schedule that prevailed prior to
+                                    3                                        termination. The individual shall be
+                                    4                                        compensated for wages lost beginning
+                                    5                                        on the first scheduled work day after
+                                    6                                        employment was terminated and end-
+                                    7                                        ing 180 days after completion of the
+                                    8                                        administrative                  review           process    de-
+                                    9                                        scribed in this paragraph or the day
+                                  10                                         after the individual is reinstated or
+                                  11                                         obtains employment elsewhere, which-
+                                  12                                         ever occurs first.
+                                  13                                         ‘‘(v)           LIMITATION               ON           COMPENSA-
+                                  14                                  TION.—For              purposes of determining an in-
+                                  15                                  dividual’s compensation for the loss of em-
+                                  16                                  ployment, such compensation shall not in-
+                                  17                                  clude any period in which the individual
+                                  18                                  was ineligible for employment in the
+                                  19                                  United States.
+                                  20                                         ‘‘(vi) SOURCE               OF FUNDS.—Compensa-
+                                  21                                  tion or reimbursement provided under this
+                                  22                                  paragraph shall be provided from the Em-
+                                  23                                  ployment Verification Compensation Fund
+
+
+
+
+                                  24                                  established under section 8 and shall not
+                                  25                                  be provided from appropriated funds.
+
+
+                                              •HR 502 IH
+
+                                    1                                 ‘‘(F) JUDICIAL 24           REVIEW.—
+                                    2                                        ‘‘(i) IN           GENERAL.—After                     the Sec-
+                                    3                                 retary makes a final determination on an
+                                    4                                 appeal filed by an individual under the ad-
+                                    5                                 ministrative review process described in
+                                    6                                 subparagraph (E), the individual may ob-
+                                    7                                 tain judicial review of such determination
+                                    8                                 by a civil action commenced not later than
+                                    9                                 60 days after the date of such decision, or
+                                  10                                  such further time as the Secretary may
+                                  11                                  allow.
+                                  12                                         ‘‘(ii) JURISDICTION.—A civil action
+                                  13                                  for such judicial review shall be brought in
+                                  14                                  the district court of the United States for
+                                  15                                  the judicial district in which the plaintiff
+                                  16                                  resides, or has a principal place of busi-
+                                  17                                  ness, or, if the plaintiff does not reside or
+                                  18                                  have a principal place of business within
+                                  19                                  any such judicial district, in the District
+                                  20                                  Court of the United States for the District
+                                  21                                  of Columbia.
+                                  22                                         ‘‘(iii) ANSWER.—As part of the Sec-
+                                  23                                  retary’s answer to a complaint for such ju-
+
+
+
+
+                                  24                                  dicial review, the Secretary shall file a cer-
+                                  25                                  tified copy of the administrative record
+
+
+                                              •HR 502 IH
+
+                                                                                         25
+                                    1                                 compiled during the administrative review
+                                    2                                 under subparagraph (E), including the evi-
+                                    3                                 dence upon which the findings and decision
+                                    4                                 complained of are based. The court shall
+                                    5                                 have power to enter, upon the pleadings
+                                    6                                 and transcript of the record, a judgment
+                                    7                                 affirming or reversing the result of that
+                                    8                                 administrative review, with or without re-
+                                    9                                 manding the cause for a rehearing.
+                                  10                                         ‘‘(iv) COMPENSATION                       FOR ERROR.—
+
+                                  11                                                   ‘‘(I) IN          GENERAL.—In                cases in
+                                  12                                         which such judicial review reverses the
+                                  13                                         final determination of the Secretary
+                                  14                                         made under subparagraph (E), the
+                                  15                                         court shall compensate the individual
+                                  16                                         for lost wages.
+                                  17                                                   ‘‘(II) CALCULATION                          OF   LOST
+                                  18                                         WAGES.—Lost                     wages shall be cal-
+                                  19                                         culated based on the wage rate and
+                                  20                                         work scheduled that prevailed prior to
+                                  21                                         termination. The individual shall be
+                                  22                                         compensated for wages lost beginning
+                                  23                                         on the first scheduled work day after
+
+
+
+
+                                  24                                         employment was terminated and end-
+                                  25                                         ing 180 days after completion of the
+
+
+                                              •HR 502 IH
+
+                                                                                         26
+                                    1                                         judicial review described in this para-
+                                    2                                         graph or the day after the individual
+                                    3                                         is reinstated or obtains employment
+                                    4                                         elsewhere, whichever occurs first.
+                                    5                                 ‘‘(G)        LIMITATION                 ON        USE        OF   THE
+                                    6                        VERIFICATION SYSTEM AND ANY RELATED SYS-
+                                    7                        TEMS.—Notwithstanding                          any other provision of
+                                    8                        law, nothing in this paragraph shall be con-
+                                    9                        strued to permit or allow any department, bu-
+                                  10                         reau, or other agency of the United States Gov-
+                                  11                         ernment to utilize any information, database, or
+                                  12                         other records assembled under this paragraph
+                                  13                         for any other purpose other than as provided
+                                  14                         for.
+                                  15                                  ‘‘(H) LIMITATION                     ON COLLECTION AND
+                                  16                         USE OF DATA.—
+                                  17                                          ‘‘(i) LIMITATION                  ON COLLECTION OF
+                                  18                                  DATA.—
+                                  19                                                   ‘‘(I) IN          GENERAL.—The               System
+                                  20                                          shall collect and maintain only the
+                                  21                                          minimum data necessary to facilitate
+                                  22                                          the successful operation of the Sys-
+                                  23                                          tem, and in no case shall the data be
+
+
+
+
+                                  24                                          other than—
+                                              •HR 502 IH
+
+                                                                                         27
+                                    1                                                           ‘‘(aa) information necessary
+                                    2                                                  to register employers under para-
+                                    3                                                  graph (7)(D)(iv);
+                                    4                                                           ‘‘(bb) information necessary
+                                    5                                                  to initiate and respond to inquir-
+                                    6                                                  ies or contests under subpara-
+                                    7                                                  graph (E);
+                                    8                                                           ‘‘(cc) information necessary
+                                    9                                                  to establish and enforce compli-
+                                  10                                                   ance with paragraph (7)(D)(iv)
+                                  11                                                   and subparagraph (E);
+                                  12                                                            ‘‘(dd) information necessary
+                                  13                                                   to detect and prevent employ-
+                                  14                                                   ment related identity fraud; and
+                                  15                                                            ‘‘(ee) such other information
+                                  16                                                   the Secretary determines is nec-
+                                  17                                                   essary, subject to a 180 day no-
+                                  18                                                   tice and comment period in the
+                                  19                                                   Federal Register.
+                                  20                                                   ‘‘(II) PENALTIES.—Any officer,
+                                  21                                         employee, or contractor who willfully
+                                  22                                         and knowingly collects and maintains
+                                  23                                         data in the system other than data
+
+
+
+
+                                  24                                         described in clause (i) shall be guilty
+                                              •HR 502 IH
+
+                                                                                         28
+                                    1                                        of a misdemeanor and fined not more
+                                    2                                        than $1,000 for each violation.
+                                    3                                        ‘‘(ii) LIMITATION                  ON USE OF DATA.—
+                                    4                                 Whoever willfully and knowingly accesses,
+                                    5                                 discloses, or uses any information obtained
+                                    6                                 or maintained by the system—
+                                    7                                                  ‘‘(I) for the purpose of commit-
+                                    8                                        ting identity fraud, or assisting an-
+                                    9                                        other person in committing identity
+                                  10                                         fraud, as defined in section 1028 of
+                                  11                                         title 18, United States Code;
+                                  12                                                   ‘‘(II) for the purpose of unlaw-
+                                  13                                         fully obtaining employment in the
+                                  14                                         United States or unlawfully obtaining
+                                  15                                         employment in the United States for
+                                  16                                         any other person; or
+                                  17                                                   ‘‘(III) for any purpose other than
+                                  18                                         as provided for under any provision of
+                                  19                                         law;
+                                  20                                  shall be guilty of a felony and upon convic-
+                                  21                                  tion shall be fined under title 18, United
+                                  22                                  States Code, or imprisoned for not less
+                                  23                                  than 5 years, or both.
+
+
+
+
+
+                                  24                                         ‘‘(iii)          EXCEPTIONS.—Nothing                  in
+                                  25                                  clauses (i) or (ii) may be construed to limit
+
+
+                                              •HR 502 IH
+
+                                                                                          29
+                                    1                                  the collection, maintenance, or use of data
+                                    2                                  by the Commissioner of Internal Revenue
+                                    3                                  or the Commissioner of Social Security as
+                                    4                                  provided by law.’’.
+                                    5     SEC.         4.      EXPANSION                OF        EMPLOYMENT                    ELIGIBILITY
+                                    6                              VERIFICATION                   SYSTEM              TO       PREVIOUSLY
+                                    7                              HIRED INDIVIDUALS AND RECRUITING AND
+                                    8                              REFERRING.
+                                    9              (a) APPLICATION                       TO       RECRUITING                 AND    REFER-
+                                  10      RING.—Section                  274A of the Immigration and Nationality
+                                  11 Act (8 U.S.C. 1324a) is amended—
+                                  12                          (1) in subsection (a)(1)(A), by striking ‘‘for a
+                                  13               fee’’;
+                                  14                          (2) in subsection (a)(1), by amending subpara-
+                                  15               graph (B) to read as follows:
+                                  16                                   ‘‘(B) to hire, continue to employ, or to re-
+                                  17                          cruit or refer for employment in the United
+                                  18                          States an individual without complying with the
+                                  19                          requirements of subsection (b).’’;
+                                  20                          (3) in subsection (a)(2), by striking ‘‘after hir-
+                                  21               ing an alien for employment in accordance with
+                                  22               paragraph (1),’’ and inserting ‘‘after complying with
+                                  23               paragraph (1),’’; and
+
+
+
+
+
+                                              •HR 502 IH
+
+                                                                                         30
+                                    1                        (4) in subsection (a)(3), as amended by section
+                                    2              3, is further amended by striking ‘‘hiring,’’ and in-
+                                    3              serting ‘‘hiring, employing,’’ each place it appears.
+                                    4              (b) EMPLOYMENT ELIGIBILITY VERIFICATION                                                 FOR
+                                    5 PREVIOUSLY HIRED INDIVIDUALS.—Section 274A(b) of
+                                    6 such Act (8 U.S.C. 1324a(b)), as amended by section 2(a),
+                                    7 is further amended by adding at the end the following:
+                                    8                        ‘‘(8)       USE          OF        EMPLOYMENT                     ELIGIBILITY
+                                    9              VERIFICATION SYSTEM FOR PREVIOUSLY HIRED IN-
+                                  10               DIVIDUALS.—
+
+                                  11                                  ‘‘(A) ON        A VOLUNTARY BASIS.—Beginning
+                                  12                         on the date that is 2 years after the date of the
+                                  13                         enactment of the Electronic Employment Eligi-
+                                  14                         bility Verification and Illegal Immigration Con-
+                                  15                         trol Act and until the date specified in subpara-
+                                  16                         graph (B)(iii), a person or entity may make an
+                                  17                         inquiry, as provided in paragraph (7), using the
+                                  18                         verification system to seek verification of the
+                                  19                         identity and employment eligibility of any indi-
+                                  20                         vidual employed by the person or entity, as long
+                                  21                         as it is done on a nondiscriminatory basis.
+                                  22                                  ‘‘(B) ON        A MANDATORY BASIS.—
+
+                                  23                                         ‘‘(i) A person or entity described in
+
+
+
+
+                                  24                                  clause (ii) must make an inquiry as pro-
+                                  25                                  vided         in       paragraph               (7),          using   the
+
+
+                                              •HR 502 IH
+
+                                                                                         31
+                                    1                                 verification system to seek verification of
+                                    2                                 the identity and employment eligibility of
+                                    3                                 all individuals employed by the person or
+                                    4                                 entity who have not been previously subject
+                                    5                                 to an inquiry by the person or entity by
+                                    6                                 the date 3 years after the date of enact-
+                                    7                                 ment of the Electronic Employment Eligi-
+                                    8                                 bility Verification and Illegal Immigration
+                                    9                                 Control Act.
+                                  10                                         ‘‘(ii) A person or entity is described in
+                                  11                                  this clause if it is a Federal, State, or local
+                                  12                                  governmental body (including the Armed
+                                  13                                  Forces of the United States), or if it em-
+                                  14                                  ploys individuals working in a location that
+                                  15                                  is a Federal, State, or local government
+                                  16                                  building, a military base, a nuclear energy
+                                  17                                  site, a weapon site, an airport, or that con-
+                                  18                                  tains critical infrastructure (as defined in
+                                  19                                  section 1016(e) of the Critical Infrastruc-
+                                  20                                  ture Protection Act of 2001 (42 U.S.C.
+                                  21                                  5195c(e))), but only to the extent of such
+                                  22                                  individuals.
+                                  23                                         ‘‘(iii) All persons and entities other
+
+
+
+
+                                  24                                  than those described in clause (ii) must
+                                  25                                  make an inquiry, as provided in paragraph
+
+
+                                              •HR 502 IH
+
+                                                                                         32
+                                    1                                 (7), using the verification system to seek
+                                    2                                 verification of the identity and employment
+                                    3                                 eligibility of all individuals employed by the
+                                    4                                 person or entity who have not been pre-
+                                    5                                 viously subject to an inquiry by the person
+                                    6                                 or entity by the date 6 years after the date
+                                    7                                 of enactment of the Electronic Employ-
+                                    8                                 ment Eligibility Verification and Illegal
+                                    9                                 Immigration Control Act.’’.
+                                  10      SEC. 5. BASIC PILOT PROGRAM.
+                                  11               Section 401(b) of the Illegal Immigration Reform and
+                                  12 Immigrant Responsibility Act of 1996 (8 U.S.C. 1324a
+                                  13 note) is amended by striking ‘‘on September 30, 2012’’
+                                  14 and inserting ‘‘2 years after the enactment of the Elec-
+                                  15 tronic Employment Eligibility Verification and Illegal Im-
+                                  16 migration Control Act’’.
+                                  17      SEC. 6. HIRING HALLS.
+                                  18               Section 274A(h) of the Immigration and Nationality
+                                  19 Act (8 U.S.C. 1324a(h)) is amended by adding at the end
+                                  20 the following:
+                                  21                         ‘‘(4) RECRUITMENT                     AND REFERRAL.—As                used
+                                  22               in this section, the term ‘refer’ means the act of
+                                  23               sending or directing a person or transmitting docu-
+
+
+
+
+                                  24               mentation or information to another, directly or in-
+                                  25               directly, with the intent of obtaining employment in
+
+
+                                              •HR 502 IH
+
+                                                                                         33
+                                    1              the United States for such person. Generally, only
+                                    2              persons or entities referring for remuneration
+                                    3              (whether on a retainer or contingency basis) are in-
+                                    4              cluded in the definition. However, labor service agen-
+                                    5              cies, whether public, private, for-profit, or nonprofit,
+                                    6              that refer, dispatch, or otherwise facilitate the hiring
+                                    7              of workers for any period of time by a third party
+                                    8              are included in the definition whether or not they re-
+                                    9              ceive remuneration. As used in this section the term
+                                  10               ‘recruit’ means the act of soliciting a person, directly
+                                  11               or indirectly, and referring the person to another
+                                  12               with the intent of obtaining employment for that
+                                  13               person. Generally, only persons or entities recruiting
+                                  14               for remunerations (whether on a retainer or contin-
+                                  15               gency basis) are included in the definition. However,
+                                  16               labor service agencies, whether public, private, for-
+                                  17               profit, or nonprofit that refer, dispatch, or otherwise
+                                  18               facilitate the hiring of workers for any period of
+                                  19               time by a third party are included in the definition
+                                  20               whether or not they receive remuneration.’’.
+                                  21      SEC. 7. PENALTIES.
+                                  22               Section 274A of the Immigration and Nationality Act
+                                  23 (8 U.S.C. 1324a) is amended—
+
+
+
+
+
+                                  24                         (1) in subsection (e)(4)—
+
+
+
+
+                                              •HR 502 IH
+
+                                                                                         34
+                                    1                                 (A) in subparagraph (A), in the matter be-
+                                    2                        fore clause (i), by inserting ‘‘, subject to para-
+                                    3                        graphs (10) through (12),’’ after ‘‘in an
+                                    4                        amount’’;
+                                    5                                 (B) in subparagraph (A)(i), by striking
+                                    6                        ‘‘not less than $250 and not more than
+                                    7                        $2,000’’ and inserting ‘‘not less than $5,000
+                                    8                        and not more than $15,000’’;
+                                    9                                 (C) in subparagraph (A)(ii), by striking
+                                  10                         ‘‘not less than $2,000 and not more than
+                                  11                         $5,000’’ and inserting ‘‘not less than $10,000
+                                  12                         and not more than $15,000’’;
+                                  13                                  (D) in subparagraph (A)(iii), by striking
+                                  14                         ‘‘not less than $3,000 and not more than
+                                  15                         $10,000’’ and inserting ‘‘not less than $25,000
+                                  16                         and not more than $40,000’’; and
+                                  17                                  (E) by amending subparagraph (B) to read
+                                  18                         as follows:
+                                  19                                  ‘‘(B) may require the person or entity to
+                                  20                         take such other remedial action as is appro-
+                                  21                         priate.’’;
+                                  22                         (2) in subsection (e)(5)—
+                                  23                                  (A) by inserting ‘‘, subject to paragraphs
+
+
+
+
+
+                                  24                         (10) through (12),’’ after ‘‘in an amount’’;
+
+
+
+
+                                              •HR 502 IH
+
+                                                                                         35
+                                    1                                 (B) by striking ‘‘$100’’ and inserting
+                                    2                        ‘‘$1,000’’;
+                                    3                                 (C) by striking ‘‘$1,000’’ and inserting
+                                    4                        ‘‘$25,000’’;
+                                    5                                 (D) by striking ‘‘the size of the business of
+                                    6                        the employer being charged, the good faith of
+                                    7                        the employer’’ and inserting ‘‘the good faith of
+                                    8                        the employer being charged’’; and
+                                    9                                 (E) by adding at the end the following sen-
+                                  10                         tence: ‘‘Failure by a person or entity to utilize
+                                  11                         the employment eligibility verification system as
+                                  12                         required by law, or providing information to the
+                                  13                         system that the person or entity knows or rea-
+                                  14                         sonably believes to be false, shall be treated as
+                                  15                         a violation of subsection (a)(1)(A).’’;
+                                  16                         (3) by adding at the end of subsection (e) the
+                                  17               following new paragraphs:
+                                  18                         ‘‘(10) MITIGATION                  OF CIVIL MONEY PENALTIES
+                                  19               FOR SMALLER EMPLOYERS.—In                                     the case of imposi-
+                                  20               tion of a civil penalty under paragraph (4)(A) with
+                                  21               respect to a violation of subsection (a)(1)(A) or
+                                  22               (a)(2) for hiring or continuation of employment by
+                                  23               an employer and in the case of imposition of a civil
+
+
+
+
+                                  24               penalty under paragraph (5) for a violation of sub-
+                                  25               section (a)(1)(B) for hiring by an employer, the dol-
+
+
+                                              •HR 502 IH
+
+                                                                                         36
+                                    1              lar amounts otherwise specified in the respective
+                                    2              paragraph shall be reduced as follows:
+                                    3                                 ‘‘(A) In the case of an employer with an
+                                    4                        average of fewer than 26 full-time equivalent
+                                    5                        employees (as defined by the Secretary of
+                                    6                        Homeland Security), the amounts shall be re-
+                                    7                        duced by 60 percent.
+                                    8                                 ‘‘(B) In the case of an employer with an
+                                    9                        average of at least 26, but fewer than 101, full-
+                                  10                         time equivalent employees (as so defined), the
+                                  11                         amounts shall be reduced by 40 percent.
+                                  12                                  ‘‘(C) In the case of an employer with an
+                                  13                         average of at least 101, but fewer than 251,
+                                  14                         full-time equivalent employees (as so defined),
+                                  15                         the amounts shall be reduced by 20 percent.
+                                  16               The last sentence of paragraph (4) shall apply under
+                                  17               this paragraph in the same manner as it applies
+                                  18               under such paragraph.
+                                  19                         ‘‘(11) EXEMPTION                   FROM PENALTY FOR INITIAL
+                                  20               GOOD FAITH VIOLATION.—In                                 the case of imposition
+                                  21               of a civil penalty under paragraph (4)(A) with re-
+                                  22               spect to a violation of subsection (a)(1)(A) or (a)(2)
+                                  23               for hiring or continuation of employment or recruit-
+
+
+
+
+                                  24               ment or referral by person or entity and in the case
+                                  25               of imposition of a civil penalty under paragraph (5)
+
+
+                                              •HR 502 IH
+
+                                                                                         37
+                                    1              for a violation of subsection (a)(1)(B) for hiring or
+                                    2              recruitment or referral by a person or entity, the
+                                    3              penalty otherwise imposed shall be waived if the vio-
+                                    4              lator establishes that it was the first such violation
+                                    5              of such provision by the violator and the violator
+                                    6              acted in good faith.
+                                    7                        ‘‘(12) SAFE              HARBOR FOR CONTRACTORS.—A
+                                    8              person or other entity shall be liable for a penalty
+                                    9              under paragraph (4)(A) with respect to the violation
+                                  10               of subsection (a)(1)(A), (a)(1)(B), or (a)(2) with re-
+                                  11               spect to the hiring or continuation of employment of
+                                  12               an unauthorized alien by a subcontractor of that
+                                  13               person or entity unless the person or entity verifies
+                                  14               through the employment eligibility verification sys-
+                                  15               tem that all subcontractor employees and entities
+                                  16               participating in the subcontracted employment are
+                                  17               eligible for employment prior to beginning employ-
+                                  18               ment for the contracting person or entity. A con-
+                                  19               tracting person or entity shall not be required to
+                                  20               verify a subcontractor if the contracting person or
+                                  21               entity has previously verified the employment eligi-
+                                  22               bility of that subcontractor. A contracting person or
+                                  23               entity shall not be required to verify the employment
+
+
+
+
+                                  24               eligibility of a subcontractor employee if the person
+                                  25               or entity has previously verified the subcontractor
+
+
+                                              •HR 502 IH
+
+                                                                                         38
+                                    1              employee as a result of the subcontractor employee’s
+                                    2              previous employment on behalf of the person or enti-
+                                    3              ty as an employee of the subcontractor.’’;
+                                    4                        (4) by amending paragraph (1) of subsection (f)
+                                    5              to read as follows:
+                                    6                        ‘‘(1) CRIMINAL              PENALTY.—Any                       person or enti-
+                                    7              ty which engages in a pattern or practice of viola-
+                                    8              tions of subsection (a) (1) or (2) shall be fined not
+                                    9              more than $50,000 for each unauthorized alien with
+                                  10               respect to which such a violation occurs, imprisoned
+                                  11               for not less than 1 year, or both, notwithstanding
+                                  12               the provisions of any other Federal law relating to
+                                  13               fine levels.’’;
+                                  14                         (5) in subsection (f)(2), by striking ‘‘Attorney
+                                  15               General’’ each place it appears and inserting ‘‘Sec-
+                                  16               retary of Homeland Security’’;
+                                  17                         (6) by redesignating subsection (h) as sub-
+                                  18               section (j);
+                                  19                         (7) by inserting after subsection (g) the fol-
+                                  20               lowing:
+                                  21               ‘‘(h) PROHIBITION                         ON   AWARD            OF       GOVERNMENT
+                                  22 CONTRACTS, GRANTS AND AGREEMENTS.—
+                                  23                         ‘‘(1)       EMPLOYERS                   WITH            NO        CONTRACTS,
+                                  24               GRANTS, OR AGREEMENTS.—
+
+
+
+
+                                              •HR 502 IH
+
+                                                                                         39
+                                    1                                 ‘‘(A) IN         GENERAL.—If                  an employer who
+                                    2                        does not hold a Federal contract, grant, or co-
+                                    3                        operative agreement is determined by the Sec-
+                                    4                        retary to be a repeat violator of this section or
+                                    5                        is convicted of a crime under this section, the
+                                    6                        employer shall be debarred from the receipt of
+                                    7                        a Federal contract, grant, or cooperative agree-
+                                    8                        ment for a period of 5 years. The Secretary or
+                                    9                        the Attorney General shall advise the Adminis-
+                                  10                         trator of General Services of such a debarment,
+                                  11                         and the Administrator of General Services shall
+                                  12                         list the employer on the List of Parties Ex-
+                                  13                         cluded from Federal Procurement and Non-
+                                  14                         procurement Programs for a period of 5 years.
+                                  15                                  ‘‘(B) WAIVER.—The Administrator of Gen-
+                                  16                         eral Services, in consultation with the Secretary
+                                  17                         and the Attorney General, may waive operation
+                                  18                         of this subsection or may limit the duration or
+                                  19                         scope of the debarment.
+                                  20                         ‘‘(2) EMPLOYERS                    WITH CONTRACTS, GRANTS,
+                                  21               OR AGREEMENTS.—An                            employer who holds a Fed-
+                                  22               eral contract, grant, or cooperative agreement and is
+                                  23               determined by the Secretary to be a repeat violator
+
+
+
+
+                                  24               of this section or is convicted of a crime under this
+                                  25               section, shall be debarred from the receipt of new
+
+
+                                              •HR 502 IH
+
+                                                                                         40
+                                    1              Federal contracts, grants, or cooperative agreements
+                                    2              for a period of 5 years.
+                                    3              ‘‘(i) PENALTY                  FOR        FALSE ATTESTATION                       BY   EM-
+                                    4     PLOYEE.—An                  individual who falsely represents that the
+                                    5 individual is eligible for employment in the United States
+                                    6 in an attestation required by this shall, for each such viola-
+                                    7 tion, be subject to a fine of not less than $5,000, a term
+                                    8 of imprisonment not to exceed 3 years, or both.’’; and
+                                    9                        (8) by inserting after subsection (j) (as so re-
+                                  10               designated) the following:
+                                  11               ‘‘(k) SPECIAL CRIMINAL PENALTIES                                                FOR    SUB-
+                                  12      CONTRACTORS AND                         LABOR BROKERS.—Any person or
+                                  13 subcontracting entity which engages in a pattern or prac-
+                                  14 tice of violations of subsection (a)(1)(A) or (a)(2) shall
+                                  15 be fined not less than $100,000 for each unauthorized
+                                  16 alien with respect to whom such a violation occurs, impris-
+                                  17 oned for not less than 5 years for the entire pattern or
+                                  18 practice, or both, notwithstanding the provisions of any
+                                  19 other law relating to fine levels.’’.
+                                  20      SEC. 8. COMPENSATION FUND.
+
+                                  21               (a) ESTABLISHMENT.—There is established in the
+                                  22 Treasury a separate account to be known as the ‘‘Employ-
+                                  23 ment Verification Compensation Fund’’ (in this section re-
+
+
+
+
+                                  24 ferred to as the ‘‘Fund’’).
+                                              •HR 502 IH
+
+                                                                                         41
+                                    1              (b) TRANSFERS                  TO THE          FUND.—There shall be de-
+                                    2 posited in the Fund all fines and penalties collected under
+                                    3 section 274A of the Immigration and Nationality Act (8
+                                    4 U.S.C. 1324a).
+                                    5              (c) EXPENDITURES.—Subject to appropriations Acts,
+                                    6 amounts in the Fund shall be available for compensation
+                                    7 pursuant to subparagraphs (E) and (F) of section
+                                    8 274A(b)(3) of the Immigration and Nationality Act (8
+                                    9 U.S.C. 1324a(b)(3)), as amended by section 3 of this Act.
+                                  10      SEC. 9. CONTRACTOR DATABASE AND AUDITS.
+
+                                  11               (a) DATABASE.—The Secretary of Homeland Secu-
+                                  12 rity shall create and maintain a publicly available and ac-
+                                  13 cessible online database of contracting and subcontracting
+                                  14 individuals or entities which discloses the number of em-
+                                  15 ployment eligibility violations and employment eligibility
+                                  16 verification rejections each contracting or subcontracting
+                                  17 individual or entity has received. The database shall also
+                                  18 disclose the total number of verification attempts each
+                                  19 contracting or subcontracting individual or entity has
+                                  20 made.
+                                  21               (b) AUDIT.—The Secretary of Homeland Security
+                                  22 shall audit and investigate any contracting or subcon-
+                                  23 tracting individual or entity which has a 10% or greater
+
+
+
+
+                                  24 employment verification rejection rate.
+                                              •HR 502 IH
+
+                                                                                         42
+                                    1     SEC. 10. REPORT ON SOCIAL SECURITY CARD-BASED EM-
+                                    2                             PLOYMENT ELIGIBILITY VERIFICATION.
+                                    3              (a) REPORT.—
+                                    4                        (1) IN        GENERAL.—Not                      later than 9 months
+                                    5              after the date of the enactment of this Act, the
+                                    6              Commissioner of Social Security, in consultation
+                                    7              with the Secretary of Treasury, the Secretary of
+                                    8              Homeland Security, and the Attorney General, shall
+                                    9              submit a report to the Congress that includes an
+                                  10               evaluation             of       the       following            requirements     and
+                                  11               changes:
+                                  12                                  (A) A requirement that Social Security
+                                  13                         cards that are made of a durable plastic or
+                                  14                         similar material and that include an encrypted,
+                                  15                         machine-readable electronic identification strip
+                                  16                         and a digital photograph of the individual to
+                                  17                         whom the card is issued, be issued to each indi-
+                                  18                         vidual (whether or not a United States citizen)
+                                  19                         who—
+                                  20                                         (i) is authorized to be employed in the
+                                  21                                  United States;
+                                  22                                         (ii) is seeking employment in the
+                                  23                                  United States; and
+                                  24                                         (iii) files an application for such card,
+
+
+
+
+                                  25                                  whether as a replacement of an existing
+                                  26                                  Social Security card or as a card issued in
+                                              •HR 502 IH
+
+                                                                                         43
+                                    1                                 connection with the issuance of a new So-
+                                    2                                 cial Security account number.
+                                    3                                 (B) The creation of a unified database to
+                                    4                        be maintained by the Department of Homeland
+                                    5                        Security and comprised of data from the Social
+                                    6                        Security Administration and the Department of
+                                    7                        Homeland Security specifying the work author-
+                                    8                        ization of individuals (including both United
+                                    9                        States citizens and noncitizens) for the purpose
+                                  10                         of          conducting                  employment                    eligibility
+                                  11                         verification.
+                                  12                                  (C) A requirement that all employers verify
+                                  13                         the employment eligibility of all new hires using
+                                  14                         the Social Security cards described in subpara-
+                                  15                         graph (A) and a phone, electronic card-reading,
+                                  16                         or other mechanism to seek verification of em-
+                                  17                         ployment eligibility through the use of the uni-
+                                  18                         fied database described in subparagraph (B).
+                                  19                         (2) ITEMS            INCLUDED IN REPORT.—The                             report
+                                  20               under paragraph (1) shall include an evaluation of
+                                  21               each of the following:
+                                  22                                  (A) Projected cost, including the cost to
+                                  23                         the Federal Government, State and local gov-
+
+
+
+
+                                  24                         ernments, and the private sector.
+                                  25                                  (B) Administrability.
+
+
+                                              •HR 502 IH
+
+                                                                                         44
+                                    1                                 (C) Potential effects on—
+                                    2                                        (i) employers;
+                                    3                                        (ii) employees, including employees
+                                    4                                 who are United States citizens as well as
+                                    5                                 those that are not citizens;
+                                    6                                        (iii) tax revenue; and
+                                    7                                        (iv) privacy.
+                                    8                                 (D) The extent to which employer and em-
+                                    9                        ployee compliance with immigration laws would
+                                  10                         be expected to improve.
+                                  11                                  (E) Any other relevant information.
+                                  12                         (3) ALTERNATIVES.—The report under para-
+                                  13               graph (1) also shall examine any alternatives to
+                                  14               achieve the same goals as the requirements and
+                                  15               changes described in paragraph (1) but that involve
+                                  16               lesser cost, lesser burden on those affected, or great-
+                                  17               er ease of administration.
+                                  18               (b) INSPECTOR GENERAL REVIEW.—Not later than
+                                  19 3 months after the report is submitted under subsection
+                                  20 (a), the Inspector General of the Social Security Adminis-
+                                  21 tration, in consultation with the Inspectors General of the
+                                  22 Department of Treasury, the Department of Homeland
+                                  23 Security, and the Department of Justice, shall send to the
+
+
+
+
+                                  24 Congress an evaluation of such report.
+                                              •HR 502 IH
+
+                                                                                         45
+                                    1              (c) CONGRESSIONAL CONSIDERATION.—Upon receipt
+                                    2 of the Inspector General’s evaluation of the Commissioner
+                                    3 of Social Security’s report, the Congress shall consider leg-
+                                    4 islation enacting a plan that best meets both the objectives
+                                    5 outlined in this section as well as ease and feasibility of
+                                    6 implementation based on the reports presented by the
+                                    7 Commissioner of Social Security and the Inspector Gen-
+                                    8 eral.
+                                    9     SEC. 11. EFFECTIVE DATE.
+                                  10               This Act and the amendments made by this Act shall
+                                  11 take effect on the date of enactment of this Act, except
+                                  12 that the requirements of persons and entities to comply
+                                  13 with the employment eligibility verification process shall
+                                  14 take effect on the date that is 2 years after such date.
+                                  15      SEC. 12. LIMITATION ON VERIFICATION RESPONSIBILITIES
+                                  16                              OF COMMISSIONER OF SOCIAL SECURITY.
+                                  17               The Commissioner of Social Security is authorized to
+                                  18 perform activities with respect to carrying out the Com-
+                                  19 missioner’s responsibilities in this Act or the amendments
+                                  20 made by this Act, but only to the extent (except for the
+                                  21 purpose of carrying out section 8) the Secretary of Home-
+                                  22 land Security has provided, in advance, funds to cover the
+                                  23 Commissioner’s full costs in carrying out such responsibil-
+
+
+
+
+                                  24 ities. In no case shall funds from the Federal Old-Age and
+                                  25 Survivors Insurance Trust Fund or the Federal Disability
+
+
+                                              •HR 502 IH
+
+                                                                                          46
+                                    1 Insurance Trust Fund be used to carry out such respon-
+                                    2 sibilities.
+                                    3     SEC. 13. REPORT ON IMPACT ON CONTRACTING AND SUB-
+                                    4                              CONTRACTING INDIVIDUALS AND ENTITIES.
+                                    5              Not later than 12 months after the date of the enact-
+                                    6 ment of this Act, the Secretary of Homeland Security shall
+                                    7 submit a report to the Congress that determines whether
+                                    8 the described employment eligibility verification system
+                                    9 permits contracting individuals and entities to determine
+                                  10 the eligibility of subcontracting individuals or entities
+                                  11 without unduly burdening contractors and without freeing
+                                  12 subcontracting individuals or entities to break employment
+                                  13 laws.
+                                  14      SEC.             14.    REPORT              ON          EMPLOYMENT                    ELIGIBILITY
+                                  15                               VERIFICATION SYSTEM.
+                                  16               Not later than 1 year after the implementation of the
+                                  17 employment eligibility verification system established
+                                  18 under this Act, and 1 year thereafter, the Secretary of
+                                  19 Homeland Security shall submit to the Congress a report
+                                  20 on the progress and problems associated with implementa-
+                                  21 tion of the system, including information relating to the
+                                  22 most efficient use of the system by small businesses.
+                                              •HR 502 IH                                    Æ

@@ -1,0 +1,26 @@
+<bill session="113" type="s" number="528" updated="2013-03-18T12:47:35-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="short">Protecting Financial Aid for Students and Taxpayers Act</title>
+    <title as="introduced" type="official">A bill to amend the Higher Education Opportunity Act to restrict institutions of higher education from using revenues derived from Federal educational assistance funds for advertising, marketing, or recruiting purposes.</title>
+  </titles>
+  <sponsor id="412324"/>
+  <cosponsors>
+    <cosponsor id="300051" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

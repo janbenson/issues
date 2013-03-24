@@ -1,0 +1,48 @@
+<bill session="113" type="s" number="330" updated="2013-03-21T09:49:12-04:00">
+  <state datetime="2013-03-20">REPORTED</state>
+  <status>
+    <unknown datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title as="introduced" type="short">HIV Organ Policy Equity Act</title>
+    <title as="introduced" type="official">A bill to amend the Public Health Service Act to establish safeguards and standards of quality for research and transplantation of organs infected with human immunodeficiency virus (HIV).</title>
+  </titles>
+  <sponsor id="300011"/>
+  <cosponsors>
+    <cosponsor id="400013" joined="2013-02-14"/>
+    <cosponsor id="400054" joined="2013-03-19"/>
+    <cosponsor id="400576" joined="2013-02-14"/>
+    <cosponsor id="300041" joined="2013-03-07"/>
+    <cosponsor id="300043" joined="2013-03-20"/>
+    <cosponsor id="400222" joined="2013-03-20"/>
+    <cosponsor id="412492" joined="2013-02-14"/>
+    <cosponsor id="412542" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-14">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2013-03-20">
+      <text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <committee name="Committee on Health, Education, Labor, and Pensions"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Markup, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="698"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="HIV/AIDS"/>
+    <term name="Health care quality"/>
+    <term name="Medical ethics"/>
+    <term name="Medical research"/>
+    <term name="Organ and tissue donation and transplantation"/>
+  </subjects>
+  <amendments/>
+</bill>

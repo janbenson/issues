@@ -1,0 +1,41 @@
+<bill session="113" type="h" number="740" updated="2013-03-18T15:45:42-04:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title as="introduced" type="short">Southeast Alaska Native Land Entitlement Finalization and Jobs Protection Act</title>
+    <title as="introduced" type="official">To provide for the settlement of certain claims under the Alaska Native Claims Settlement Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2013-02-14"/>
+    <cosponsor id="400128" joined="2013-03-12"/>
+    <cosponsor id="412418" joined="2013-02-14"/>
+    <cosponsor id="412306" joined="2013-02-14"/>
+    <cosponsor id="412312" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-14">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Alaska"/>
+    <term name="Alaska Natives and Hawaiians"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Indian claims"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+  </subjects>
+  <amendments/>
+</bill>

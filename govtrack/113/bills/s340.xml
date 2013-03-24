@@ -1,0 +1,43 @@
+<bill session="113" type="s" number="340" updated="2013-03-16T06:18:07-04:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title as="introduced" type="short">Southeast Alaska Native Land Entitlement Finalization and Jobs Protection Act</title>
+    <title as="introduced" type="official">A bill to provide for the settlement of certain claims under the Alaska Native Claims Settlement Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="300075"/>
+  <cosponsors>
+    <cosponsor id="412326" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S775-776"/>
+    </action>
+    <action state="REFERRED" datetime="2013-02-14">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Alaska"/>
+    <term name="Alaska Natives and Hawaiians"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Indian claims"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/14/2013--Introduced.
+Southeast Alaska Native Land Entitlement Finalization and Jobs Protection Act - Gives Sealaska, the regional Alaska Native Corporation for southeast Alaska, 90 days following this Act's enactment to agree to accept the conveyance of specified federal land, subject to certain conditions and restrictions, as full and final satisfaction of its remaining land entitlement under the Alaska Native Claims Settlement Act (ANCSA). Identifies the lands to be conveyed as: (1) the 18 parcels of federal land comprising approximately 69,585 acres that are generally depicted as "Sealaska Selections" on certain Sealaska Land Entitlement Finalization maps, and (2) up to 76 cemetery sites and historical places that Sealaska must apply for and that comprise up to 490 acres of federal land located outside conservation system units. Includes with those conveyances: (1) public easements under the ANCSA, (2) conservation easements to protect the aquatic and riparian habitat of certain anadromous water bodies, (3) a ten-year easement for Forest System research activities on study plots, and (4) an easement providing Sealaska access to and the use of the log transfer facility at Shipley Bay on Kosciusko Island. Keeps those 18 parcels of conveyed lands that are outside ANCSA withdrawal areas open for subsistence uses and noncommercial recreational uses by the public. Allows Sealaska to impose reasonable restrictions on public access to and across the conveyed lands. Requires Sealaska to allow existing guiding or outfitting special use permit holders to continue to operate on the conveyed lands for the remainder of the permit term and a subsequent ten-year renewal period. Renames certain culturally and historically significant trade and migration routes and keeps them open for travel by Sealaska and the public. Amends the Alaska National Interest Lands Conservation Act to designate as conservation areas certain lands identified as the Bay of Pillars, Kushneahin Creek, Northern Prince of Wales, Western Kosciusko, Eastern Kosciusko, Sarkar Lakes, Honker Divide, and Eek Lake and Sukkwan Island LUD II Management Areas--Proposed. Conditions those designations on Sealaska's acceptance of this Act's conveyances.</summary>
+</bill>

@@ -1,0 +1,26 @@
+<bill session="113" type="s" number="559" updated="2013-03-22T09:46:52-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="short">Justice for Former American Hostages in Iran Act of 2013</title>
+    <title as="introduced" type="official">A bill to establish a fund to make payments to the Americans held hostage in Iran, and to members of their families, who are identified as members of the proposed class in case number 1:08-CV-00487 (EGS) of the United States District Court for the District of Columbia, and for other purposes.</title>
+  </titles>
+  <sponsor id="400194"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-13">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="113" type="sr" number="77" updated="2013-03-22T04:47:32-04:00">
+  <state datetime="2013-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-18"/>
+  </status>
+  <introduced datetime="2013-03-18"/>
+  <titles>
+    <title as="introduced" type="official">A resolution expressing the sense of Congress relating to the commemoration of the 180th anniversary of diplomatic relations between the United States and the Kingdom of Thailand.</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors>
+    <cosponsor id="400064" joined="2013-03-21"/>
+    <cosponsor id="300055" joined="2013-03-20"/>
+    <cosponsor id="412491" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-18">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S1908-1909" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Asia"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+    <term name="Thailand"/>
+  </subjects>
+  <amendments/>
+</bill>

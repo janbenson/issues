@@ -1,0 +1,51 @@
+<bill session="113" type="hc" number="26" updated="2013-03-20T04:47:35-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title as="introduced" type="official">Recommending the posthumous award of the Medal of Honor to Sergeant Rafael Peralta.</title>
+  </titles>
+  <sponsor id="412283"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2013-03-19"/>
+    <cosponsor id="400021" joined="2013-03-19"/>
+    <cosponsor id="400057" joined="2013-03-19"/>
+    <cosponsor id="412517" joined="2013-03-19"/>
+    <cosponsor id="412513" joined="2013-03-19"/>
+    <cosponsor id="400097" joined="2013-03-19"/>
+    <cosponsor id="412403" joined="2013-03-19"/>
+    <cosponsor id="400108" joined="2013-03-19"/>
+    <cosponsor id="412577" joined="2013-03-19"/>
+    <cosponsor id="400162" joined="2013-03-19"/>
+    <cosponsor id="412451" joined="2013-03-19"/>
+    <cosponsor id="412278" joined="2013-03-19"/>
+    <cosponsor id="400196" joined="2013-03-19"/>
+    <cosponsor id="400209" joined="2013-03-19"/>
+    <cosponsor id="412421" joined="2013-03-19"/>
+    <cosponsor id="412510" joined="2013-03-19"/>
+    <cosponsor id="400279" joined="2013-03-19"/>
+    <cosponsor id="400285" joined="2013-03-19"/>
+    <cosponsor id="400290" joined="2013-03-19"/>
+    <cosponsor id="412523" joined="2013-03-19"/>
+    <cosponsor id="412394" joined="2013-03-19"/>
+    <cosponsor id="412449" joined="2013-03-19"/>
+    <cosponsor id="412408" joined="2013-03-19"/>
+    <cosponsor id="400411" joined="2013-03-19"/>
+    <cosponsor id="412515" joined="2013-03-19"/>
+    <cosponsor id="412522" joined="2013-03-19"/>
+    <cosponsor id="400433" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-19">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

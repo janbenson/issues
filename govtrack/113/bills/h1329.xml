@@ -1,0 +1,35 @@
+<bill session="113" type="h" number="1329" updated="2013-03-22T04:46:52-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To reauthorize the Marine Turtle Conservation Act of 2004, and for other purposes.</title>
+  </titles>
+  <sponsor id="412306"/>
+  <cosponsors>
+    <cosponsor id="400041" joined="2013-03-21"/>
+    <cosponsor id="400073" joined="2013-03-21"/>
+    <cosponsor id="400128" joined="2013-03-21"/>
+    <cosponsor id="400129" joined="2013-03-21"/>
+    <cosponsor id="400162" joined="2013-03-21"/>
+    <cosponsor id="412451" joined="2013-03-21"/>
+    <cosponsor id="400245" joined="2013-03-21"/>
+    <cosponsor id="400278" joined="2013-03-21"/>
+    <cosponsor id="400283" joined="2013-03-21"/>
+    <cosponsor id="400333" joined="2013-03-21"/>
+    <cosponsor id="400440" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

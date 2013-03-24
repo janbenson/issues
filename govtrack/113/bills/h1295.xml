@@ -1,0 +1,25 @@
+<bill session="113" type="h" number="1295" updated="2013-03-21T06:16:41-04:00">
+  <state datetime="2013-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-03-20"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to repeal the excise tax on medical devices, and for other purposes.</title>
+  </titles>
+  <sponsor id="412297"/>
+  <cosponsors>
+    <cosponsor id="412308" joined="2013-03-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-20">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

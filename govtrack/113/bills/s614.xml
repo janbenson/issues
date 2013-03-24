@@ -1,0 +1,35 @@
+<bill session="113" type="s" number="614" updated="2013-03-21T09:49:16-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title as="introduced" type="official">A bill to require the continuation of tuition assistance programs for members of the Armed Forces for the remainder of fiscal year 2013.</title>
+  </titles>
+  <sponsor id="300055"/>
+  <cosponsors>
+    <cosponsor id="300025" joined="2013-03-19"/>
+    <cosponsor id="412390" joined="2013-03-19"/>
+    <cosponsor id="412324" joined="2013-03-19"/>
+    <cosponsor id="412200" joined="2013-03-19"/>
+    <cosponsor id="300058" joined="2013-03-20"/>
+    <cosponsor id="400284" joined="2013-03-19"/>
+    <cosponsor id="300075" joined="2013-03-19"/>
+    <cosponsor id="412194" joined="2013-03-19"/>
+    <cosponsor id="300083" joined="2013-03-19"/>
+    <cosponsor id="400412" joined="2013-03-20"/>
+    <cosponsor id="300100" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-19">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

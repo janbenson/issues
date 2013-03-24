@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<body status="rfs" difference-size-chars="2036" percent-change="52" total-changes="12" previous-status="ih">
+  <p nid="t0:rfs:1" tracking-nids="t0:ih:1">HR 890 <changed sequence="1"><changed-from>IH</changed-from><changed-to>RFS</changed-to></changed></p>
+  <p/>
+  <center>
+    <p nid="t0:rfs:2">113th CONGRESS</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:rfs:3" tracking-nids="t0:ih:3">1st Session</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:rfs:4" tracking-nids="t0:ih:4">H. R. 890</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:rfs:5">IN THE <changed sequence="2"><changed-from>HOUS</changed-from><changed-to>SENAT</changed-to></changed>E OF <removed sequence="3">REPRESENTATIVES<p/><h3 nid="t0:ih:7"><center><p nid="t0:ih:8">February 28, 2013</p></center></h3>Mr. CAMP (for himself, Mr. KLINE, Mr. SCALISE, and Mr. SOUTHERLAND) introduced the following bill; which was</removed><inserted sequence="4">THE UNITED STATES</inserted></p>
+  </center>
+  <inserted sequence="5">
+    <p/>
+    <h3 nid="t0:rfs:6">
+      <center>
+        <p nid="t0:rfs:7">March 14, 2013</p>
+      </center>
+    </h3>
+  </inserted>
+  <p nid="t0:rfs:8"><inserted sequence="6">Received; read twice and</inserted> referred to the Committee on <removed sequence="7">Ways and Means, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned<hr/><p/><center><p nid="t0:ih:10">A BILL</p></center></removed><inserted sequence="8">Finance</inserted></p>
+  <inserted sequence="9">
+    <hr/>
+    <p/>
+    <center>
+      <p nid="t0:rfs:9">AN ACT</p>
+    </center>
+  </inserted>
+  <p nid="t0:rfs:10">To prohibit waivers relating to compliance with the work requirements for the program of block grants to States for temporary assistance for needy families, and for other purposes.</p>
+  <ul>
+    <p nid="t0:rfs:11" tracking-nids="t0:ih:12">
+      <em>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</em>
+    </p>
+  </ul>
+  <p/>
+  <h3 nid="t0:rfs:12" tracking-nids="t0:ih:13">SECTION 1. SHORT TITLE.</h3>
+  <ul>
+    <p nid="t0:rfs:13" tracking-nids="t0:ih:14">This Act may be cited as the &#x2018;Preserving <changed sequence="10"><changed-from>Work Requirements for</changed-from><changed-to>the</changed-to></changed> Welfare <changed sequence="11"><changed-from>Programs</changed-from><changed-to>Work Requirement and TANF Extension</changed-to></changed> Act of 2013&#x2019;.</p>
+  </ul>
+  <p/>
+  <h3 nid="t0:rfs:14" tracking-nids="t0:ih:15">SEC. 2. PROHIBITION ON TANF WAIVERS RELATING TO COMPLIANCE WITH THE TANF WORK REQUIREMENTS.</h3>
+  <ul>
+    <p nid="t0:rfs:15" tracking-nids="t0:ih:16">(a) In General- Notwithstanding any other provision of law, the Secretary of Health and Human Services may not do the following:</p>
+    <ul>
+      <p nid="t0:rfs:16" tracking-nids="t0:ih:17">(1) Finalize, implement, enforce, or otherwise take any action to give effect to the Information Memorandum dated July 12, 2012 (Transmittal No. TANF-ACF-IM-2012-03), or to any administrative action relating to the same subject matter set forth in the Information Memorandum or that reflects the same or similar policies as those set forth in the Information Memorandum.</p>
+      <p nid="t0:rfs:17">(2) Authorize, approve, renew, modify, or extend any experimental, pilot, or demonstration project under section 1115 of the Social Security Act (<usc-reference title="42" section="1315" paragraph=""><usc-reference title="42" section="1315" paragraph="">42 U.S.C. 1315</usc-reference></usc-reference>) that waives compliance with a requirement of section 407 of such Act (<usc-reference title="42" section="607" paragraph=""><usc-reference title="42" section="607" paragraph="">42 U.S.C. 607</usc-reference></usc-reference>) through a waiver of section 402 of such Act (<usc-reference title="42" section="602" paragraph=""><usc-reference title="42" section="602" paragraph="">42 U.S.C. 602</usc-reference></usc-reference>) or that provides authority for an expenditure which would not otherwise be an allowable use of funds under a State program funded under part A of title IV of such Act (<usc-reference title="42" section="601" paragraph=""><usc-reference title="42" section="601" paragraph="">42 U.S.C. 601</usc-reference></usc-reference> et seq.) with respect to compliance with the work requirements in section 407 of such Act to be regarded as an allowable use of funds under that program for any period.</p>
+    </ul>
+    <p nid="t0:rfs:18" tracking-nids="t0:ih:19">(b) Rescission of Waivers- Any waiver relating to the subject matter set forth in the Information Memorandum or described in subsection (a)(2) that is granted before the date of the enactment of this Act is hereby rescinded and shall be null and void.</p>
+  </ul>
+  <inserted sequence="12">
+    <p/>
+    <h3 nid="t0:rfs:19">SEC. 3. EXTENSION OF THE TEMPORARY ASSISTANCE FOR NEEDY FAMILIES PROGRAM AND RELATED PROGRAMS THROUGH DECEMBER 31, 2013.</h3>
+    <ul>
+      <p nid="t0:rfs:20">Activities authorized by part A of title IV and section 1108(b) of the Social Security Act (other than under section 403(b) of such Act) shall continue through December 31, 2013, in the manner authorized for fiscal year 2012, and out of any money in the Treasury of the United States not otherwise appropriated, there are hereby appropriated such sums as may be necessary for such purpose. Grants and payments may be made pursuant to this authority on a quarterly basis through the first quarter of fiscal year 2014 at the level provided for such activities for the corresponding quarter of fiscal year 2012.</p>
+    </ul>
+    <p/>
+    <h3 nid="t0:rfs:21">SEC. 4. BUDGETARY EFFECTS.</h3>
+    <ul>
+      <p nid="t0:rfs:22">The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled &#x2018;Budgetary Effects of PAYGO Legislation&#x2019; for this Act, submitted for printing in the Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage.</p>
+    </ul>
+    <p nid="t0:rfs:23">Passed the House of Representatives March 13, 2013.</p>
+    <p nid="t0:rfs:24">Attest:</p>
+    <p nid="t0:rfs:25">KAREN L. HAAS,</p>
+    <p nid="t0:rfs:26">Clerk.</p>
+  </inserted>
+</body>

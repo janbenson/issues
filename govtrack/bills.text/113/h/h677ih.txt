@@ -1,0 +1,353 @@
+                                                                                                                                   I
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                          H. R. 677
+                                  To exempt inter-affiliate swaps from certain regulatory requirements put
+                                      in place by the Dodd-Frank Wall Street Reform and Consumer Protec-
+                                      tion Act.
+
+
+
+
+                                                IN THE HOUSE OF REPRESENTATIVES
+                                                              FEBRUARY 13, 2013
+                                  Mr. STIVERS (for himself, Ms. FUDGE, Ms. MOORE, Mr. GIBSON, and Mr.
+                                      SCHWEIKERT) introduced the following bill; which was referred to the
+                                      Committee on Financial Services, and in addition to the Committee on
+                                      Agriculture, for a period to be subsequently determined by the Speaker,
+                                      in each case for consideration of such provisions as fall within the juris-
+                                      diction of the committee concerned
+
+
+
+
+                                                                            A BILL
+                                  To exempt inter-affiliate swaps from certain regulatory re-
+                                     quirements put in place by the Dodd-Frank Wall Street
+                                     Reform and Consumer Protection Act.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Inter-Affiliate Swap
+                                    5 Clarification Act’’.
+
+
+
+
+                                    6     SEC. 2. TREATMENT OF AFFILIATE TRANSACTIONS.
+                                    7              (a) COMMODITY EXCHANGE ACT AMENDMENTS.—
+
+
+                                    1                        (1)       TREATMENT             2      OF         AFFILIATE           TRANS-
+                                    2              ACTIONS.—Section                     1a(47) of the Commodity Ex-
+                                    3              change Act (7 U.S.C. 1a(47)), as added by section
+                                    4              721(a)(21) of the Dodd-Frank Wall Street Reform
+                                    5              and Consumer Protection Act, is amended by adding
+                                    6              at the end the following:
+                                    7                                 ‘‘(G) TREATMENT                      OF AFFILIATE TRANS-
+                                    8                        ACTIONS.—
+                                    9                                        ‘‘(i) IN            GENERAL.—For                 the purposes
+                                  10                                  of any clearing and execution requirements
+                                  11                                  under section 2(h) and any applicable mar-
+                                  12                                  gin and capital requirements of section
+                                  13                                  4s(e) and for purposes of defining ‘swap
+                                  14                                  dealer’ or ‘major swap participant’, and re-
+                                  15                                  porting requirements other than those set
+                                  16                                  forth in clause (ii), the term ‘swap’ does
+                                  17                                  not include any agreement, contract, or
+                                  18                                  transaction that—
+                                  19                                                   ‘‘(I) would otherwise be included
+                                  20                                         as a ‘swap’ under subparagraph (A);
+                                  21                                         and
+                                  22                                                   ‘‘(II) is entered into by parties,
+                                  23                                         neither of which is a ‘swap dealer’
+
+
+
+
+                                  24                                         that is an insured depository institu-
+                                  25                                         tion or a ‘major swap participant’
+
+
+                                              •HR 677 IH
+
+                                                                                             3
+                                    1                                        that is an insured depository institu-
+                                    2                                        tion, that report information or pre-
+                                    3                                        pare financial statements on a consoli-
+                                    4                                        dated basis, or for which a company
+                                    5                                        affiliated with both parties reports in-
+                                    6                                        formation or prepares financial state-
+                                    7                                        ments on a consolidated basis.
+                                    8                                        ‘‘(ii)          REPORTING.—All                    agreements,
+                                    9                                 contracts, or transactions described in
+                                  10                                  clause (i) shall be reported to either a
+                                  11                                  swap data repository, or, if there is no
+                                  12                                  swap data repository that would accept
+                                  13                                  such agreements, contracts, or trans-
+                                  14                                  actions, to the Commission pursuant to
+                                  15                                  section 4r, or to a swap data repository or
+                                  16                                  to the Commission pursuant to section
+                                  17                                  2(h)(5), within such time period as the
+                                  18                                  Commission may by rule or regulation pre-
+                                  19                                  scribe. Nothing in this subparagraph shall
+                                  20                                  prohibit the Commission from establishing
+                                  21                                  public reporting requirements for covered
+                                  22                                  transactions between affiliates as described
+                                  23                                  in sections 23A and 23B of the Federal
+
+
+
+
+                                  24                                  Reserve Act in a manner consistent with
+                                  25                                  rules governing the treatment of such cov-
+
+
+                                              •HR 677 IH
+
+                                                                                             4
+                                    1                                 ered transactions pursuant to section
+                                    2                                 2(a)(13) of this Act.
+                                    3                                        ‘‘(iii) PROTECTION                        OF          INSURANCE
+                                    4                                 FUNDS.—Nothing                      in this subparagraph
+                                    5                                 shall be construed to prevent the regulator
+                                    6                                 of a Federal or State insurance fund or
+                                    7                                 guaranty fund from exercising its other ex-
+                                    8                                 isting authority to protect the integrity of
+                                    9                                 such a fund, except that such regulator
+                                  10                                  shall not subject agreements, contracts, or
+                                  11                                  transactions described in clause (i) to
+                                  12                                  clearing and execution requirements under
+                                  13                                  section 2 of this Act, to any applicable
+                                  14                                  margin and capital requirements of section
+                                  15                                  4s(e) of this Act, or to reporting require-
+                                  16                                  ments of title VII of Public Law 111–203
+                                  17                                  other than those set forth in clause (ii) of
+                                  18                                  this subparagraph.
+                                  19                                         ‘‘(iv) PRESERVATION                      OF FEDERAL RE-
+                                  20                                  SERVE ACT AUTHORITY.—Nothing                                    in this
+                                  21                                  subparagraph shall exempt a transaction
+                                  22                                  described in this subparagraph from sec-
+                                  23                                  tions 23A or 23B of the Federal Reserve
+
+
+
+
+                                  24                                  Act or implementing regulations there-
+                                  25                                  under.
+
+
+                                              •HR 677 IH
+
+                                                                                             5
+                                    1                                        ‘‘(v)       PRESERVATION                       OF     FEDERAL
+                                    2                                 AND STATE REGULATORY AUTHORITIES.—
+                                    3                                 Nothing in this subparagraph shall affect
+                                    4                                 the Federal banking agencies’ safety-and-
+                                    5                                 soundness authorities over banks estab-
+                                    6                                 lished in law other than title VII of Public
+                                    7                                 Law 111–203 or the authorities of State
+                                    8                                 insurance regulators over insurers, includ-
+                                    9                                 ing the authority to impose capital require-
+                                  10                                  ments with regard to swaps. For purposes
+                                  11                                  of this clause, the term ‘bank’ shall be de-
+                                  12                                  fined pursuant to section 3(a)(6) of the Se-
+                                  13                                  curities Exchange Act of 1934, ‘insurer’
+                                  14                                  shall be defined pursuant to title V of Pub-
+                                  15                                  lic Law 111–203, and ‘swap’ shall be de-
+                                  16                                  fined pursuant to title VII of Public Law
+                                  17                                  111–203.
+                                  18                                         ‘‘(vi) PREVENTION                    OF EVASION.—The
+                                  19                                  Commission may prescribe rules under this
+                                  20                                  subparagraph (and issue interpretations of
+                                  21                                  such rules) as determined by the Commis-
+                                  22                                  sion to be necessary to include in the defi-
+                                  23                                  nition of swaps under this paragraph any
+
+
+
+
+                                  24                                  agreement, contract, or transaction that
+                                              •HR 677 IH
+
+                                                                                             6
+                                    1                                 has been structured to evade the require-
+                                    2                                 ments of this Act applicable to swaps.’’.
+                                    3                        (2)       TREATMENT                   OF        AFFILIATES.—Section
+                                    4              2(h)(7)(D)(i) of the Commodity Exchange Act (7
+                                    5              U.S.C. 2(h)(7)(D)(i)), as added by section 723(a) of
+                                    6              the Dodd-Frank Wall Street Reform and Consumer
+                                    7              Protection Act, is amended to read as follows:
+                                    8                                        ‘‘(i) IN            GENERAL.—An                 affiliate of a
+                                    9                                 person that qualifies for an exception
+                                  10                                  under subparagraph (A) (including affiliate
+                                  11                                  entities predominantly engaged in pro-
+                                  12                                  viding financing for the purchase of the
+                                  13                                  merchandise or manufactured goods of the
+                                  14                                  person) may qualify for the exception only
+                                  15                                  if the affiliate enters into the swap to
+                                  16                                  hedge or mitigate the commercial risk of
+                                  17                                  the person or other affiliate of the person
+                                  18                                  that is not a financial entity.’’.
+                                  19               (b) SECURITIES EXCHANGE ACT                                      OF      1934 AMEND-
+                                  20      MENTS.—
+
+                                  21                         (1)       TREATMENT                    OF         AFFILIATE           TRANS-
+                                  22               ACTIONS.—Section                     3(a)(68) of the Securities Ex-
+                                  23               change Act of 1934 (15 U.S.C. 78c(a)(68)), as
+
+
+
+
+                                  24               added by section 761(a)(6) of the Dodd-Frank Wall
+                                              •HR 677 IH
+
+                                                                                             7
+                                    1              Street Reform and Consumer Protection Act, is
+                                    2              amended by adding at the end the following:
+                                    3                                 ‘‘(F) TREATMENT                      OF AFFILIATE TRANS-
+                                    4                        ACTIONS.—
+                                    5                                        ‘‘(i) IN            GENERAL.—For                 the purposes
+                                    6                                 of any clearing and execution requirements
+                                    7                                 under section 3C and any applicable mar-
+                                    8                                 gin and capital requirements of section
+                                    9                                 15F(e), and for purposes of defining ‘secu-
+                                  10                                  rity-based swap dealer’ or a ‘major secu-
+                                  11                                  rity-based swap participant’, and reporting
+                                  12                                  requirements other than those set forth in
+                                  13                                  clause (ii), the term ‘security-based swap’
+                                  14                                  does not include any agreement, contract,
+                                  15                                  or transaction that—
+                                  16                                                   ‘‘(I) would otherwise be included
+                                  17                                         as a ‘security-based swap’ under sub-
+                                  18                                         paragraph (A); and
+                                  19                                                   ‘‘(II) is entered into by parties,
+                                  20                                         neither of which is a ‘security-based
+                                  21                                         swap dealer’ that is an insured deposi-
+                                  22                                         tory institution or a ‘major security-
+                                  23                                         based swap participant’ that is an in-
+
+
+
+
+                                  24                                         sured depository institution, that re-
+                                  25                                         port information or prepare financial
+
+
+                                              •HR 677 IH
+
+                                                                                             8
+                                    1                                        statements on a consolidated basis, or
+                                    2                                        for which a company affiliated with
+                                    3                                        both parties reports information or
+                                    4                                        prepares financial statements on a
+                                    5                                        consolidated basis.
+                                    6                                        ‘‘(ii)          REPORTING.—All                    agreements,
+                                    7                                 contracts, or transactions described in
+                                    8                                 clause (i) shall be reported to either a se-
+                                    9                                 curity-based swap data repository, or, if
+                                  10                                  there is no security-based swap data repos-
+                                  11                                  itory that would accept such agreements,
+                                  12                                  contracts, or transactions, to the Commis-
+                                  13                                  sion pursuant to section 13A, within such
+                                  14                                  time period as the Commission may by rule
+                                  15                                  or regulation prescribe.
+                                  16                                         ‘‘(iii) PRESERVATION                           OF      FEDERAL
+                                  17                                  RESERVE            ACT        AUTHORITY.—Nothing                    in
+                                  18                                  this subparagraph shall exempt a trans-
+                                  19                                  action described in this subparagraph from
+                                  20                                  sections 23A or 23B of the Federal Re-
+                                  21                                  serve Act or implementing regulations
+                                  22                                  thereunder.
+                                  23                                         ‘‘(iv) PROTECTION                         OF          INSURANCE
+
+
+
+
+                                  24                                  FUNDS.—Nothing                      in this subparagraph
+                                  25                                  shall be construed to prevent the regulator
+
+
+                                              •HR 677 IH
+
+                                                                                             9
+                                    1                                 of a Federal or State insurance fund or
+                                    2                                 guaranty fund from exercising its other ex-
+                                    3                                 isting authority to protect the integrity of
+                                    4                                 such a fund, except that such regulator
+                                    5                                 shall       not        subject          security-based          swap
+                                    6                                 transactions between affiliated companies
+                                    7                                 to clearing and execution requirements
+                                    8                                 under section 3C, to any applicable margin
+                                    9                                 and capital requirements of section 15F(e),
+                                  10                                  or to reporting requirements of title VII of
+                                  11                                  Public Law 111–203 other than those set
+                                  12                                  forth in clause (ii).
+                                  13                                          ‘‘(v)      PRESERVATION                       OF     FEDERAL
+                                  14                                  AND STATE REGULATORY AUTHORITIES.—
+                                  15                                  Nothing in this subparagraph shall affect
+                                  16                                  the Federal banking agencies’ safety-and-
+                                  17                                  soundness authorities over banks estab-
+                                  18                                  lished in law other than title VII of Public
+                                  19                                  Law 111–203 or the authorities of State
+                                  20                                  insurance regulators over insurers, includ-
+                                  21                                  ing the authority to impose capital require-
+                                  22                                  ments with regard to security-based swaps.
+                                  23                                  For purposes of this clause, the term
+
+
+
+
+
+                                  24                                  ‘bank’ shall be defined pursuant to section
+                                  25                                  3(a)(6) of the Securities Exchange Act of
+
+
+                                              •HR 677 IH
+
+                                                                                         10
+                                    1                                 1934, ‘insurer’ shall be defined pursuant
+                                    2                                 to title V of Public Law 111–203, and ‘se-
+                                    3                                 curity-based swap’ shall be defined pursu-
+                                    4                                 ant to title VII of Public Law 111–203.
+                                    5                                        ‘‘(vi) PREVENTION                    OF EVASION.—The
+                                    6                                 Commission may prescribe rules under this
+                                    7                                 subparagraph (and issue interpretations of
+                                    8                                 such rules) as determined by the Commis-
+                                    9                                 sion to be necessary to include in the defi-
+                                  10                                  nition of security-based swap under this
+                                  11                                  paragraph any agreement, contract, or
+                                  12                                  transaction that has been structured to
+                                  13                                  evade the requirements of this Act applica-
+                                  14                                  ble to security-based swaps.’’.
+                                  15                         (2)       TREATMENT                   OF        AFFILIATES.—Section
+                                  16               3C(g)(4)(A) of the Securities Exchange Act of 1934
+                                  17               (15 U.S.C. 78c-3(g)(4)(A)), as added by section
+                                  18               763(a) of the Dodd-Frank Wall Street Reform and
+                                  19               Consumer Protection Act, is amended to read as fol-
+                                  20               lows:
+                                  21                                         ‘‘(i) IN         GENERAL.—An                    affiliate of a
+                                  22                                  person that qualifies for an exception
+                                  23                                  under this subsection (including affiliate
+
+
+
+
+                                  24                                  entities predominantly engaged in pro-
+                                  25                                  viding financing for the purchase of the
+
+
+                                              •HR 677 IH
+
+                                                                                         11
+                                    1                                 merchandise or manufactured goods of the
+                                    2                                 person) may qualify for the exception only
+                                    3                                 if the affiliate enters into the security-
+                                    4                                 based swap to hedge or mitigate the com-
+                                    5                                 mercial risk of the person or other affiliate
+                                    6                                 of the person that is not a financial enti-
+                                    7                                 ty.’’.
+                                              •HR 677 IH                                   Æ

@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="1221" updated="2013-03-16T04:47:03-04:00">
+  <state datetime="2013-03-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-15"/>
+  </status>
+  <introduced datetime="2013-03-15"/>
+  <titles>
+    <title as="introduced" type="official">To require the Federal banking agencies to conduct an impact study on the cumulative effect of certain provisions of the Dodd-Frank Wall Street Reform and Consumer Protection Act before issuing final rules amending the agencies' general risk-based capital requirements for determining risk-weighted assets as proposed in the Standardized Approach for Risk Weighted Assets Notice of Proposed Rulemaking and the Advanced Approaches Risk-based Capital Rule; Market Risk Capital Rule Notice of Proposed Rulemaking, and the Implementation of Basel III, Minimum Regulatory Capital Ratios Notice of Proposed Rulemaking issued in June 2012, and for other purposes.</title>
+  </titles>
+  <sponsor id="412479"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-15">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

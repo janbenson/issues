@@ -1,0 +1,23 @@
+<bill session="113" type="sr" number="79" updated="2013-03-19T04:46:59-04:00">
+  <state datetime="2013-03-18">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2013-03-18"/>
+  </status>
+  <introduced datetime="2013-03-18"/>
+  <titles>
+    <title as="introduced" type="official">A resolution supporting the goals and ideals of Take Our Daughters and Sons To Work Day.</title>
+  </titles>
+  <sponsor id="400054"/>
+  <cosponsors>
+    <cosponsor id="300063" joined="2013-03-18"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASSED:SIMPLERES" datetime="2013-03-18" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

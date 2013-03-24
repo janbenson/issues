@@ -1,0 +1,30 @@
+<bill session="113" type="h" number="1287" updated="2013-03-21T06:16:37-04:00">
+  <state datetime="2013-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-03-20"/>
+  <titles>
+    <title as="introduced" type="official">To ensure high standards for Federal agency use of scientific information.</title>
+  </titles>
+  <sponsor id="412479"/>
+  <cosponsors>
+    <cosponsor id="400030" joined="2013-03-20"/>
+    <cosponsor id="412427" joined="2013-03-20"/>
+    <cosponsor id="400077" joined="2013-03-20"/>
+    <cosponsor id="412400" joined="2013-03-20"/>
+    <cosponsor id="400266" joined="2013-03-20"/>
+    <cosponsor id="400316" joined="2013-03-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-20">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

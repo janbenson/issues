@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<body status="eh" difference-size-chars="804" percent-change="37" total-changes="3" previous-status="ih">
+  <p nid="t0:eh:1" tracking-nids="t0:ih:1">HR 667 <changed sequence="1"><changed-from>I</changed-from><changed-to>E</changed-to></changed>H</p>
+  <p/>
+  <center>
+    <p nid="t0:eh:2">113th CONGRESS</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:eh:3" tracking-nids="t0:ih:3">1st Session</p>
+  </center>
+  <p/>
+  <center>
+    <p nid="t0:eh:4" tracking-nids="t0:ih:4">H. R. 667</p>
+  </center>
+  <hr/>
+  <inserted sequence="2">
+    <p/>
+    <center>
+      <p nid="t0:eh:5">AN ACT</p>
+    </center>
+  </inserted>
+  <p nid="t0:eh:6">To redesignate the Dryden Flight Research Center as the Neil A. Armstrong Flight Research Center and the Western Aeronautical Test Range as the Hugh L. Dryden Aeronautical Test Range.</p>
+  <ul>
+    <p nid="t0:eh:7" tracking-nids="t0:ih:12">
+      <em>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</em>
+    </p>
+  </ul>
+  <p tracking-nids="t0:ih:13"/>
+  <h3 nid="t0:eh:8">SECTION 1. REDESIGNATION OF DRYDEN FLIGHT RESEARCH CENTER.</h3>
+  <ul>
+    <p nid="t0:eh:9" tracking-nids="t0:ih:14">(a) Redesignation- The National Aeronautics and Space Administration (NASA) Hugh L. Dryden Flight Research Center in Edwards, California, is redesignated as the &#x2018;NASA Neil A. Armstrong Flight Research Center&#x2019;.</p>
+    <p nid="t0:eh:10" tracking-nids="t0:ih:15">(b) References- Any reference in a law, map, regulation, document, paper, or other record of the United States to the flight research center referred to in subsection (a) shall be deemed to be a reference to the &#x2018;NASA Neil A. Armstrong Flight Research Center&#x2019;.</p>
+  </ul>
+  <p tracking-nids="t0:ih:16"/>
+  <h3 nid="t0:eh:11">SEC. 2. REDESIGNATION OF WESTERN AERONAUTICAL TEST RANGE.</h3>
+  <ul>
+    <p nid="t0:eh:12" tracking-nids="t0:ih:17">(a) Redesignation- The National Aeronautics and Space Administration (NASA) Western Aeronautical Test Range in California is redesignated as the &#x2018;NASA Hugh L. Dryden Aeronautical Test Range&#x2019;.</p>
+    <p nid="t0:eh:13" tracking-nids="t0:ih:18">(b) References- Any reference in a law, map, regulation, document, paper, or other record of the United States to the test range referred to in subsection (a) shall be deemed to be a reference to the &#x2018;NASA Hugh L. Dryden Aeronautical Test Range&#x2019;.</p>
+  </ul>
+  <inserted sequence="3">
+    <p nid="t0:eh:14">Passed the House of Representatives February 25, 2013.</p>
+    <p nid="t0:eh:15">Attest:</p>
+    <p nid="t0:eh:16">Clerk.</p>
+    <p/>
+    <center>
+      <p nid="t0:eh:17">113th CONGRESS</p>
+    </center>
+    <p/>
+    <center>
+      <p nid="t0:eh:18">1st Session</p>
+    </center>
+    <p/>
+    <center>
+      <p nid="t0:eh:19">H. R. 667</p>
+    </center>
+    <p/>
+    <center>
+      <p nid="t0:eh:20">AN ACT</p>
+    </center>
+    <p nid="t0:eh:21">To redesignate the Dryden Flight Research Center as the Neil A. Armstrong Flight Research Center and the Western Aeronautical Test Range as the Hugh L. Dryden Aeronautical Test Range.</p>
+  </inserted>
+</body>

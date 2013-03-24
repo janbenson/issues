@@ -1,0 +1,942 @@
+                                                                                                                                   I
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                          H. R. 491
+                                  To prevent United States businesses from cooperating with repressive govern-
+                                      ments in transforming the Internet into a tool of censorship and surveil-
+                                      lance, to fulfill the responsibility of the United States Government to
+                                      promote freedom of expression on the Internet, to restore public con-
+                                      fidence in the integrity of United States businesses, and for other pur-
+                                      poses.
+
+
+
+
+                                                IN THE HOUSE OF REPRESENTATIVES
+                                                                 FEBRUARY 4, 2013
+                                  Mr. SMITH of New Jersey introduced the following bill; which was referred
+                                      to the Committee on Foreign Affairs, and in addition to the Committees
+                                      on Ways and Means and Financial Services, for a period to be subse-
+                                      quently determined by the Speaker, in each case for consideration of such
+                                      provisions as fall within the jurisdiction of the committee concerned
+
+
+
+
+                                                                            A BILL
+                                  To prevent United States businesses from cooperating with
+                                     repressive governments in transforming the Internet into
+                                     a tool of censorship and surveillance, to fulfill the respon-
+                                     sibility of the United States Government to promote free-
+                                     dom of expression on the Internet, to restore public
+                                     confidence in the integrity of United States businesses,
+                                     and for other purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+
+
+
+
+                                    2 tives of the United States of America in Congress assembled,
+                                    1     SECTION 1. SHORT TITLE; TABLE OF CONTENTS.         2
+                                    2              (a) SHORT TITLE.—This Act may be cited as the
+                                    3 ‘‘Global Online Freedom Act of 2013’’.
+                                    4              (b) TABLE            OF    CONTENTS.—The table of contents for
+                                    5 this Act is as follows:
+                                          Sec.   1.   Short title; table of contents.
+                                          Sec.   2.   Findings.
+                                          Sec.   3.   Definitions.
+                                          Sec.   4.   Severability.
+
+                                                   TITLE I—PROMOTION OF GLOBAL INTERNET FREEDOM
+
+                                          Sec.   101.      Statement of policy.
+                                          Sec.   102.      Sense of Congress.
+                                          Sec.   103.      Annual Country Reports on Human Rights Practices.
+                                          Sec.   104.      Annual designation of Internet-restricting countries; report.
+                                          Sec.   105.      Report on trade-related issues or disputes due to government censor-
+                                                                 ship or disruption of the Internet.
+
+                                          TITLE II—CORPORATE TRANSPARENCY AND ACCOUNTABILITY TO
+                                                         PROTECT ONLINE FREEDOM
+
+                                          Sec. 201. Disclosure of human rights due diligence.
+
+                                                             TITLE III—EXPORT CONTROLS ON CERTAIN
+                                                                TELECOMMUNICATIONS EQUIPMENT
+
+                                          Sec. 301. Export controls on certain telecommunications equipment.
+                                    6     SEC. 2. FINDINGS.
+                                    7              Congress makes the following findings:
+                                    8                        (1) The political and economic benefits of the
+                                    9              Internet are important to advancing democracy and
+                                  10               freedom throughout the world, but the potential ben-
+                                  11               efits of this transformative technology are under at-
+                                  12               tack by authoritarian governments.
+                                  13                         (2) A number of repressive foreign governments
+
+
+
+
+                                  14               block, restrict, otherwise control, and monitor the
+                                              •HR 491 IH
+
+                                                                                             3
+                                    1              Internet, effectively transforming the Internet into a
+                                    2              tool of censorship and surveillance.
+                                    3                        (3) A number of United States businesses have
+                                    4              enabled repressive regimes to compromise the secu-
+                                    5              rity of Internet users engaged in peaceful discussion
+                                    6              of political, social, and religious issues and severely
+                                    7              limit their access to information and communication
+                                    8              channels by selling these governments or their
+                                    9              agents technology or training.
+                                  10                         (4) A number of United States businesses have
+                                  11               provided repressive governments with information
+                                  12               about Internet users who were the company’s clients
+                                  13               or were using the companies’ products, that has led
+                                  14               to the arrest and imprisonment of the Internet
+                                  15               users.
+                                  16                         (5) The actions of a number of United States
+                                  17               businesses in cooperating with the efforts of repres-
+                                  18               sive governments to transform the Internet into a
+                                  19               tool of censorship and surveillance have caused
+                                  20               Internet users in the United States and in foreign
+                                  21               countries to lose confidence in the integrity of
+                                  22               United States businesses.
+                                  23                         (6) Information and communication technology
+
+
+
+
+                                  24               companies are to be commended for cooperating with
+                                  25               civil society organizations, academics, and investors
+
+
+                                              •HR 491 IH
+
+                                                                                             4
+                                    1              in founding the Global Network Initiative, in order
+                                    2              to provide direction and guidance to the information
+                                    3              and communication technology companies and others
+                                    4              in protecting the free expression and privacy of
+                                    5              Internet users. Human rights due diligence by com-
+                                    6              panies makes a difference.
+                                    7                        (7) The United States Government has a re-
+                                    8              sponsibility to protect freedom of expression on the
+                                    9              Internet, to prevent United States businesses from
+                                  10               directly and materially cooperating in human rights
+                                  11               abuses perpetrated by repressive foreign govern-
+                                  12               ments, and to restore public confidence in the integ-
+                                  13               rity of United States business.
+                                  14      SEC. 3. DEFINITIONS.
+                                  15               In this Act:
+                                  16                         (1) APPROPRIATE                       CONGRESSIONAL                   COMMIT-
+                                  17               TEES.—The                term ‘‘appropriate congressional com-
+                                  18               mittees’’ means—
+                                  19                                  (A) the Committee on Foreign Affairs and
+                                  20                         the Committee on Financial Services of the
+                                  21                         House of Representatives; and
+                                  22                                  (B) the Committee on Foreign Relations
+                                  23                         and the Committee on Finance of the Senate.
+
+
+
+
+
+                                  24                         (2) FOREIGN              OFFICIAL.—The                   term ‘‘foreign of-
+                                  25               ficial’’ means—
+
+
+                                              •HR 491 IH
+
+                                                                                             5
+                                    1                                 (A) any officer or employee of a foreign
+                                    2                        government or of any department; and
+                                    3                                 (B) any person acting in an official capac-
+                                    4                        ity for or on behalf of, or acting under color of
+                                    5                        law with the knowledge of, any such govern-
+                                    6                        ment or such department, agency, state-owned
+                                    7                        enterprise, or instrumentality.
+                                    8                        (3) INTERNET.—The term ‘‘Internet’’ has the
+                                    9              meaning given the term in section 231(e)(3) of the
+                                  10               Communications Act of 1934 (47 U.S.C. 231(e)(3)).
+                                  11                         (4) INTERNET-RESTRICTING                                  COUNTRY.—The
+                                  12               term ‘‘Internet-restricting country’’ means a country
+                                  13               designated by the Secretary of State pursuant to
+                                  14               section 104(a) of this Act.
+                                  15                         (5) LEGITIMATE                  FOREIGN LAW ENFORCEMENT
+                                  16               PURPOSE.—
+                                  17                                  (A) IN         GENERAL.—The                     term ‘‘legitimate
+                                  18                         foreign law enforcement purpose’’ means for the
+                                  19                         purpose of enforcement, investigation, or pros-
+                                  20                         ecution by a foreign official based on a publicly
+                                  21                         promulgated law of reasonable specificity that
+                                  22                         proximately relates to the protection or pro-
+                                  23                         motion of the health, safety, or morals of the
+
+
+
+
+                                  24                         citizens of the jurisdiction of such official.
+                                              •HR 491 IH
+
+                                                                                             6
+                                    1                                 (B) RULE               OF CONSTRUCTION.—For                   pur-
+                                    2                        poses of this Act, the control, suppression, or
+                                    3                        punishment of peaceful expression of political,
+                                    4                        religious, or ideological opinion or belief shall
+                                    5                        not be construed to constitute a legitimate for-
+                                    6                        eign law enforcement purpose. Among expres-
+                                    7                        sion that should be construed to be protected
+                                    8                        against control, suppression, or punishment
+                                    9                        when evaluating a foreign government’s claim
+                                  10                         of a legitimate foreign law enforcement purpose
+                                  11                         is expression protected by article 19 of the
+                                  12                         International Covenant on Civil and Political
+                                  13                         Rights.
+                                  14                                  (C) RULE               OF CONSTRUCTION.—No                   provi-
+                                  15                         sion under this Act shall be construed to affect
+                                  16                         a country’s ability to adopt measures designed
+                                  17                         to combat infringement of intellectual property.
+                                  18                         (6) SUBSTANTIAL                     RESTRICTIONS ON INTERNET
+                                  19               FREEDOM.—The                      term ‘‘substantial restrictions on
+                                  20               Internet freedom’’ means actions that restrict or
+                                  21               punish the free availability of information via the
+                                  22               Internet for reasons other than legitimate foreign
+                                  23               law enforcement purposes, including—
+
+
+
+
+
+                                  24                                  (A) deliberately blocking, filtering, or cen-
+                                  25                         soring information available via the Internet
+
+
+                                              •HR 491 IH
+
+                                                                                             7
+                                    1                        based on the expression of political, religious, or
+                                    2                        ideological opinion or belief, including by elec-
+                                    3                        tronic mail; or
+                                    4                                 (B) persecuting, prosecuting, or otherwise
+                                    5                        punishing an individual or group for posting or
+                                    6                        transmitting peaceful political, religious, or ide-
+                                    7                        ological opinion or belief via the Internet, in-
+                                    8                        cluding by electronic mail.
+                                    9                        (7) UNITED                 STATES             BUSINESS.—The           term
+                                  10               ‘‘United States business’’ means—
+                                  11                                  (A) any corporation, partnership, associa-
+                                  12                         tion, joint-stock company, business trust, unin-
+                                  13                         corporated organization, or sole proprietorship
+                                  14                         that—
+                                  15                                         (i) has its principal place of business
+                                  16                                  in the United States; or
+                                  17                                         (ii) is organized under the laws of a
+                                  18                                  State of the United States or a territory,
+                                  19                                  possession, or commonwealth of the United
+                                  20                                  States; and
+                                  21                                  (B) any issuer of a security registered pur-
+                                  22                         suant to section 12 of the Securities Exchange
+                                  23                         Act of 1934 (15 U.S.C. 78l).
+
+
+
+
+
+                                              •HR 491 IH
+
+                                    1     SEC. 4. SEVERABILITY.                              8
+                                    2              If any provision of this Act, or the application of such
+                                    3 provision to any person or circumstance, is held invalid,
+                                    4 the remainder of this Act, and the application of such pro-
+                                    5 vision to other persons not similarly situated or to other
+                                    6 circumstances, shall not be affected by such invalidation.
+                                    7             TITLE I—PROMOTION OF
+                                    8           GLOBAL INTERNET FREEDOM
+                                    9     SEC. 101. STATEMENT OF POLICY.
+                                  10               It shall be the policy of the United States—
+                                  11                         (1) to promote as a fundamental component of
+                                  12               United States foreign policy the right of every indi-
+                                  13               vidual to freedom of opinion and expression, includ-
+                                  14               ing the right to hold opinions, and to seek, receive,
+                                  15               and impart information and ideas through any
+                                  16               media and regardless of frontiers, without inter-
+                                  17               ference;
+                                  18                         (2) to use all appropriate instruments of United
+                                  19               States influence, including diplomacy, trade policy,
+                                  20               and export controls, to support, promote, and
+                                  21               strengthen principles, practices, and values that pro-
+                                  22               mote the free flow of information without inter-
+                                  23               ference or discrimination, including through the
+                                  24               Internet and other electronic media; and
+
+
+
+
+
+                                  25                         (3) to deter any United States business from
+                                  26               cooperating with officials of Internet-restricting
+                                              •HR 491 IH
+
+                                                                                             9
+                                    1              countries in effecting the political censorship of on-
+                                    2              line content.
+                                    3     SEC. 102. SENSE OF CONGRESS.
+                                    4              It is the sense of the Congress that—
+                                    5                        (1) the President should, through bilateral, and
+                                    6              where appropriate, multilateral activities, seek to ob-
+                                    7              tain the agreement of other countries to promote the
+                                    8              goals and objectives of this Act and to protect Inter-
+                                    9              net freedom; and
+                                  10                         (2) to the extent possible in every country in
+                                  11               which they operate, United States businesses should
+                                  12               work to—
+                                  13                                  (A) ensure access to the Web sites of the
+                                  14                         Voice of America, Radio Free Europe/Radio
+                                  15                         Liberty, Radio Free Asia, Al-Hurra, Radio
+                                  16                         Sawa, Radio Farda, Radio Marti, TV Marti, or
+                                  17                         other United States-supported Web sites and
+                                  18                         online access to United States Government re-
+                                  19                         ports such as the annual Country Reports on
+                                  20                         Human Rights Practices, the annual Reports
+                                  21                         on International Religious Freedom, and the
+                                  22                         annual Trafficking in Human Persons Reports;
+                                  23                         and
+
+
+
+
+
+                                  24                                  (B) promote the security of Internet users
+                                  25                         and expand their access to information and
+
+
+                                              •HR 491 IH
+
+                                                                                         10
+                                    1                        communication channels by limiting censorship
+                                    2                        of protected political and religious speech and
+                                    3                        information.
+                                    4     SEC. 103. ANNUAL COUNTRY REPORTS ON HUMAN RIGHTS
+                                    5                             PRACTICES.
+                                    6              (a) REPORT RELATING                                   TO     ECONOMIC ASSIST-
+                                    7     ANCE.—Section                   116 of the Foreign Assistance Act of
+                                    8 1961 (22 U.S.C. 2151n) is amended by adding at the end
+                                    9 the following new subsection:
+                                  10               ‘‘(g)(1) The report required by subsection (d) shall
+                                  11 include an assessment of freedom of expression with re-
+                                  12 spect to electronic information in each foreign country.
+                                  13 Such assessment shall consist of the following:
+                                  14                         ‘‘(A) An assessment of the general extent to
+                                  15               which Internet access is available to and used by
+                                  16               citizens in that country.
+                                  17                         ‘‘(B) An assessment of the extent to which gov-
+                                  18               ernment authorities in that country attempt to filter,
+                                  19               censor, or otherwise block or remove nonviolent ex-
+                                  20               pression of political or religious opinion or belief via
+                                  21               the Internet, including electronic mail, as well as a
+                                  22               description of the means by which such authorities
+                                  23               attempt to block or remove protected speech.
+
+
+
+
+
+                                  24                         ‘‘(C) An assessment of the extent to which gov-
+                                  25               ernment authorities in that country have persecuted,
+
+
+                                              •HR 491 IH
+
+                                                                                         11
+                                    1              prosecuted, or otherwise punished an individual or
+                                    2              group for the nonviolent expression of political, reli-
+                                    3              gious, or ideological opinion or belief via the Inter-
+                                    4              net, including electronic mail.
+                                    5                        ‘‘(D) An assessment of the extent to which gov-
+                                    6              ernment authorities in that country have sought to
+                                    7              collect, request, obtain, or disclose the personally
+                                    8              identifiable information of a person in connection
+                                    9              with that person’s nonviolent expression of political,
+                                  10               religious, or ideological opinion or belief, including
+                                  11               without limitation communication that would be pro-
+                                  12               tected by the International Covenant on Civil and
+                                  13               Political Rights.
+                                  14                         ‘‘(E) An assessment of the extent to which wire
+                                  15               communications and electronic communications are
+                                  16               illicitly monitored in that country.
+                                  17               ‘‘(2) In compiling data and making assessments for
+                                  18 the purposes of paragraph (1), United States diplomatic
+                                  19 mission personnel shall consult with human rights organi-
+                                  20 zations, technology and Internet companies, and other ap-
+                                  21 propriate nongovernmental organizations.
+                                  22               ‘‘(3) In this subsection—
+                                  23                         ‘‘(A) the term ‘electronic communication’ has
+
+
+
+
+                                  24               the meaning given the term in section 2510 of title
+                                  25               18, United States Code;
+
+
+                                              •HR 491 IH
+
+                                                                                         12
+                                    1                        ‘‘(B) the term ‘Internet’ has the meaning given
+                                    2              the term in section 231(e)(3) of the Communications
+                                    3              Act of 1934 (47 U.S.C. 231(e)(3));
+                                    4                        ‘‘(C) the term ‘personally identifiable informa-
+                                    5              tion’ means data in a form that identifies a par-
+                                    6              ticular person; and
+                                    7                        ‘‘(D) the term ‘wire communication’ has the
+                                    8              meaning given the term in section 2510 of title 18,
+                                    9              United States Code.’’.
+                                  10               (b) REPORT RELATING                         TO    SECURITY ASSISTANCE.—
+                                  11 Section 502B of the Foreign Assistance Act of 1961 (22
+                                  12 15 U.S.C. 2304) is amended by adding at the end the fol-
+                                  13 lowing new subsection:
+                                  14               ‘‘(j)(1) The report required by subsection (b) shall
+                                  15 include an assessment of freedom of expression with re-
+                                  16 spect to electronic information in each foreign country.
+                                  17 Such assessment shall consist of the following:
+                                  18                         ‘‘(A) An assessment of the general extent to
+                                  19               which Internet access is available to and used by
+                                  20               citizens in that country.
+                                  21                         ‘‘(B) An assessment of the extent to which gov-
+                                  22               ernment authorities in that country attempt to filter,
+                                  23               censor, or otherwise block or remove nonviolent ex-
+
+
+
+
+                                  24               pression of political or religious opinion or belief via
+                                  25               the Internet, including electronic mail, as well as a
+
+
+                                              •HR 491 IH
+
+                                                                                         13
+                                    1              description of the means by which such authorities
+                                    2              attempt to block or remove protected speech.
+                                    3                        ‘‘(C) An assessment of the extent to which gov-
+                                    4              ernment authorities in that country have persecuted,
+                                    5              prosecuted, or otherwise punished an individual or
+                                    6              group for the peaceful expression of political, reli-
+                                    7              gious, or ideological opinion or belief via the Inter-
+                                    8              net, including electronic mail.
+                                    9                        ‘‘(D) An assessment of the extent to which gov-
+                                  10               ernment authorities in that country have sought to
+                                  11               collect, request, obtain, or disclose the personally
+                                  12               identifiable information of a person in connection
+                                  13               with that person’s communication of ideas, facts, or
+                                  14               views where such communication would be protected
+                                  15               by the International Covenant on Civil and Political
+                                  16               Rights.
+                                  17                         ‘‘(E) An assessment of the extent to which wire
+                                  18               communications and electronic communications are
+                                  19               illicitly monitored in that country.
+                                  20               ‘‘(2) In compiling data and making assessments for
+                                  21 the purposes of paragraph (1), United States diplomatic
+                                  22 mission personnel shall consult with human rights organi-
+                                  23 zations, technology and Internet companies, and other ap-
+
+
+
+
+                                  24 propriate nongovernmental organizations.
+                                  25               ‘‘(3) In this subsection—
+
+
+                                              •HR 491 IH
+
+                                                                                         14
+                                    1                        ‘‘(A) the term ‘electronic communication’ has
+                                    2              the meaning given the term in section 2510 of title
+                                    3              18, United States Code;
+                                    4                        ‘‘(B) the term ‘Internet’ has the meaning given
+                                    5              the term in section 231(e)(3) of the Communications
+                                    6              Act of 1934 (47 U.S.C. 231(e)(3));
+                                    7                        ‘‘(C) the term ‘personally identifiable informa-
+                                    8              tion’ means data in a form that identifies a par-
+                                    9              ticular person; and
+                                  10                         ‘‘(D) the term ‘wire communication’ has the
+                                  11               meaning given the term in section 2510 of title 18,
+                                  12               United States Code.’’.
+                                  13      SEC. 104. ANNUAL DESIGNATION OF INTERNET-RESTRICT-
+                                  14                              ING COUNTRIES; REPORT.
+                                  15               (a) DESIGNATION.—
+                                  16                         (1) IN         GENERAL.—Not                     later than 180 days
+                                  17               after the date of the enactment of this Act, and an-
+                                  18               nually thereafter, the Secretary of State shall des-
+                                  19               ignate Internet-restricting countries for purposes of
+                                  20               this Act.
+                                  21                         (2) STANDARD.—A foreign country shall be
+                                  22               designated as an Internet-restricting country if the
+                                  23               Secretary of State, after consultation with the Sec-
+
+
+
+
+                                  24               retary of Commerce, determines, based on the review
+                                  25               of the evidence that the government of the country
+
+
+                                              •HR 491 IH
+
+                                                                                         15
+                                    1              is directly or indirectly responsible for a systematic
+                                    2              pattern of substantial restrictions on Internet free-
+                                    3              dom during any part of the preceding 1-year period.
+                                    4              (b) REPORT.—
+                                    5                        (1) IN         GENERAL.—Not                     later than 180 days
+                                    6              after the date of the enactment of this Act, and an-
+                                    7              nually thereafter, the Secretary of State shall trans-
+                                    8              mit to the appropriate congressional committees a
+                                    9              report that contains the following:
+                                  10                                  (A) The name of each foreign country that
+                                  11                         at the time of the transmission of the report is
+                                  12                         designated as an Internet-restricting country
+                                  13                         under subsection (a).
+                                  14                                  (B) An identification of each government
+                                  15                         agency and quasi-government organization re-
+                                  16                         sponsible for the substantial restrictions on
+                                  17                         Internet freedom in each foreign country des-
+                                  18                         ignated as an Internet-restricting country under
+                                  19                         subsection (a).
+                                  20                                  (C) A description of efforts by the United
+                                  21                         States to counter the substantial restrictions on
+                                  22                         Internet freedom referred to in subparagraph
+                                  23                         (B), including a description and details of pro-
+
+
+
+
+                                  24                         grams funded under any other provision of law
+                                              •HR 491 IH
+
+                                                                                         16
+                                    1                        with the purpose of promoting Internet free-
+                                    2                        dom.
+                                    3                                 (D) A description of the evidence used by
+                                    4                        the Secretary of State to make the determina-
+                                    5                        tions under subsection (a)(2).
+                                    6                        (2) FORM.—The information required by para-
+                                    7              graph (1)(C) may be provided in a classified form if
+                                    8              necessary.
+                                    9                        (3) PUBLIC                AVAILABILITY.—All                           unclassified
+                                  10               portions of the report shall be made publicly avail-
+                                  11               able on the Internet Web site of the Department of
+                                  12               State.
+                                  13      SEC. 105. REPORT ON TRADE-RELATED ISSUES OR DIS-
+                                  14                              PUTES DUE TO GOVERNMENT CENSORSHIP
+                                  15                              OR DISRUPTION OF THE INTERNET.
+
+                                  16               (a) REPORT.—Not later than 90 days after the date
+                                  17 of the enactment of this Act, the United States Trade
+                                  18 Representative, in consultation with the Secretary of State
+                                  19 and the Secretary of Commerce, shall transmit to the ap-
+                                  20 propriate congressional committees a report on—
+                                  21                         (1) any trade-related issues or disputes that
+                                  22               arise due to government censorship or disruption of
+                                  23               the Internet among United States trade partners;
+
+
+
+
+                                  24               and
+                                              •HR 491 IH
+
+                                                                                         17
+                                    1                        (2) efforts by the United States Government to
+                                    2              address the issues or disputes described in para-
+                                    3              graph (1) either bilaterally or multilaterally.
+                                    4              (b) SENSE             OF       CONGRESS.—It is the sense of Con-
+                                    5 gress that the United States should pursue trade policies
+                                    6 that expand the information economy by—
+                                    7                        (1) ensuring the free flow of information across
+                                    8              the entire global network;
+                                    9                        (2) promoting stronger international trans-
+                                  10               parency rules; and
+                                  11                         (3) ensuring fair and equal treatment of online
+                                  12               services regardless of country of origin.
+                                  13      TITLE II—CORPORATE TRANS-
+                                  14         PARENCY    AND   ACCOUNT-
+                                  15         ABILITY TO PROTECT ONLINE
+                                  16         FREEDOM
+                                  17      SEC. 201. DISCLOSURE OF HUMAN RIGHTS DUE DILIGENCE.
+
+                                  18               (a) IN GENERAL.—Section 13 of the Securities Ex-
+                                  19 change Act of 1934 (15 U.S.C. 78m) is amended by add-
+                                  20 ing at the end the following:
+                                  21               ‘‘(s) DISCLOSURE                    OF      HUMAN RIGHTS DUE DILI-
+                                  22      GENCE.—
+
+                                  23                         ‘‘(1) DISCLOSURE.—Except as provided in
+
+
+
+
+                                  24               paragraph (3), each Internet communications service
+                                  25               company that operates in an Internet-restricting
+
+
+                                              •HR 491 IH
+
+                                                                                         18
+                                    1              country shall include in the annual report of the
+                                    2              company information relating to the company, any
+                                    3              subsidiary of the company, and any entity under the
+                                    4              control of either of such companies, relating to the
+                                    5              following:
+                                    6                                 ‘‘(A) HUMAN                RIGHTS DUE DILIGENCE.—
+                                    7                        Company policies applicable to the company’s
+                                    8                        internal operations that address human rights
+                                    9                        due diligence through a statement of policy that
+                                  10                         is consistent with applicable provisions of the
+                                  11                         Guidelines for Multinational Enterprises issued
+                                  12                         by the Organization for Economic Co-operation
+                                  13                         and Development, and whether such policy—
+                                  14                                         ‘‘(i) is approved at the most senior
+                                  15                                  level of the company;
+                                  16                                         ‘‘(ii) explicitly states the company’s
+                                  17                                  expectations of personnel, business part-
+                                  18                                  ners, and other parties under the control
+                                  19                                  of the company, products, or services;
+                                  20                                         ‘‘(iii) is publicly available and commu-
+                                  21                                  nicated internally and externally to all per-
+                                  22                                  sonnel, business partners, other relevant
+                                  23                                  partners, customers, and users;
+
+
+
+
+
+                                              •HR 491 IH
+
+                                                                                         19
+                                    1                                        ‘‘(iv) is reflected in operational poli-
+                                    2                                 cies and procedures necessary to embed it
+                                    3                                 throughout the company; and
+                                    4                                        ‘‘(v) is independently assessed by a
+                                    5                                 third party to demonstrate compliance in
+                                    6                                 practice, which should include—
+                                    7                                                  ‘‘(I) whether the assessment was
+                                    8                                        conducted under the supervision of
+                                    9                                        any third party organization or multi-
+                                  10                                         stakeholder initiative;
+                                  11                                                   ‘‘(II) a description of the assess-
+                                  12                                         ment process;
+                                  13                                                   ‘‘(III) a description of measures
+                                  14                                         taken to ensure the assessor’s inde-
+                                  15                                         pendence; and
+                                  16                                                   ‘‘(IV) inclusion of the assessor’s
+                                  17                                         public report.
+                                  18                                  ‘‘(B) NON-COMPLIANCE.—If the company’s
+                                  19                         policy does not comply with any of the require-
+                                  20                         ments of clauses (i) through (iv) of subpara-
+                                  21                         graph (A), an explanation of why the company’s
+                                  22                         policy does not meet each such requirement.
+                                  23                                  ‘‘(C) POLICIES                 PERTAINING TO DISCLO-
+                                  24                         SURE OF PERSONALLY IDENTIFIABLE INFORMA-
+                                  25                         TION.—If             the company collects or obtains per-
+                                              •HR 491 IH
+
+                                                                                         20
+                                    1                        sonally identifiable information, the contents of
+                                    2                        wire communications or electronic communica-
+                                    3                        tions in electronic storage, or the contents of
+                                    4                        wire communications or electronic communica-
+                                    5                        tions in a remote computing service on the
+                                    6                        Internet, a summary of any internal policies or
+                                    7                        procedures of the company that set out how the
+                                    8                        company will assess and respond to requests by
+                                    9                        the governments of Internet-restricting coun-
+                                  10                         tries for disclosure of such personally identifi-
+                                  11                         able information or communications.
+                                  12                                  ‘‘(D) RESTRICTIONS                      ON INTERNET SEARCH
+                                  13                         ENGINES AND INTERNET CONTENT HOSTING
+                                  14                         SERVICES.—If                the company creates, provides,
+                                  15                         or hosts an Internet search engine or an Inter-
+                                  16                         net content hosting service, all steps taken to
+                                  17                         provide users and customers with clear, promi-
+                                  18                         nent, and timely notice when access to specific
+                                  19                         content has been removed or blocked at the re-
+                                  20                         quest of an Internet-restricting country.
+                                  21                         ‘‘(2) AVAILABILITY                          OF    INFORMATION.—The
+                                  22               Commission shall make all information reported by
+                                  23               an issuer pursuant to this subsection available online
+
+
+
+
+                                  24               to the public.
+                                  25                         ‘‘(3) SAFE           HARBOR.—
+
+
+
+                                              •HR 491 IH
+
+                                                                                         21
+                                    1                                 ‘‘(A) IN        GENERAL.—An                     Internet commu-
+                                    2                        nications service company that operates in an
+                                    3                        Internet-restricting country shall not be re-
+                                    4                        quired to include in the annual report of the
+                                    5                        company information described in paragraph
+                                    6                        (1) if the company includes in the annual re-
+                                    7                        port of the company a certification of the Glob-
+                                    8                        al Network Initiative or a multi-stakeholder ini-
+                                    9                        tiative described in subparagraph (B) that the
+                                  10                         company participates in good standing in the
+                                  11                         Global Network Initiative or the multi-stake-
+                                  12                         holder initiative (as the case may be).
+                                  13                                  ‘‘(B) MULTI-STAKEHOLDER                               INITIATIVE.—
+                                  14                         A multi-stakeholder initiative referred to in sub-
+                                  15                         paragraph (A) is an initiative that—
+                                  16                                         ‘‘(i) is composed of civil society orga-
+                                  17                                  nizations, including human rights organi-
+                                  18                                  zations and Internet communications serv-
+                                  19                                  ice companies;
+                                  20                                         ‘‘(ii) promotes the rule of law and the
+                                  21                                  adoption of laws, policies, and practices
+                                  22                                  that protect, respect, and fulfill freedom of
+                                  23                                  expression and privacy; and
+
+
+
+
+
+                                  24                                         ‘‘(iii) requires each company partici-
+                                  25                                  pating in the initiative to undergo assess-
+
+
+                                              •HR 491 IH
+
+                                                                                         22
+                                    1                                 ments by an independent third party de-
+                                    2                                 scribed in subparagraph (C) of the com-
+                                    3                                 pany’s compliance with the standards de-
+                                    4                                 scribed in clause (ii).
+                                    5                                 ‘‘(C) INDEPENDENT                         THIRD          PARTY.—An
+                                    6                        independent third party referred to in subpara-
+                                    7                        graph (B)(iii) is an entity accredited by the
+                                    8                        multi-stakeholder initiative to conduct assess-
+                                    9                        ments based on criteria that include—
+                                  10                                         ‘‘(i) general expertise in legal and
+                                  11                                  human rights standards; and
+                                  12                                         ‘‘(ii) specific expertise in global busi-
+                                  13                                  ness processes relating to information and
+                                  14                                  communication technology, including oper-
+                                  15                                  ations, product development cycles, market
+                                  16                                  segments and industry relationships, infor-
+                                  17                                  mation technology privacy, safety, and se-
+                                  18                                  curity standards, data retention systems,
+                                  19                                  and database forensics.
+                                  20                         ‘‘(4) DEFINITIONS.—In this subsection:
+                                  21                                  ‘‘(A) ELECTRONIC                      COMMUNICATION AND
+                                  22                         OTHER          TITLE            18   DEFINITIONS.—The                 terms
+                                  23                         ‘electronic communication’, ‘electronic commu-
+
+
+
+
+                                  24                         nication service’, ‘electronic storage’, ‘wire com-
+                                  25                         munication’, and ‘contents’ have the meanings
+
+
+                                              •HR 491 IH
+
+                                                                                         23
+                                    1                        given such terms in section 2510 of title 18,
+                                    2                        United States Code.
+                                    3                                 ‘‘(B) INTERNET.—The term ‘Internet’ has
+                                    4                        the meaning given the term in section 231(e)(3)
+                                    5                        of the Communications Act of 1934 (47 U.S.C.
+                                    6                        231(e)(3)).
+                                    7                                 ‘‘(C) INTERNET                     COMMUNICATIONS SERV-
+                                    8                        ICE COMPANY.—The                      term ‘Internet communica-
+                                    9                        tions service company’ means an issuer that—
+                                  10                                         ‘‘(i) is required to file an annual re-
+                                  11                                  port with the Commission; and
+                                  12                                         ‘‘(ii)(I) provides electronic commu-
+                                  13                                  nication services or remote computing serv-
+                                  14                                  ices, but does not include—
+                                  15                                                   ‘‘(aa) businesses that provide
+                                  16                                         such services as an ancillary service to
+                                  17                                         the provision of lodging, transpor-
+                                  18                                         tation, or food services; or
+                                  19                                                   ‘‘(bb) activities conducted by a fi-
+                                  20                                         nancial institution (as such term is
+                                  21                                         defined in section 5312 of title 31,
+                                  22                                         United States Code) that are financial
+                                  23                                         in nature, even if such activities are
+
+
+
+
+                                  24                                         conducted using the Internet; or
+                                              •HR 491 IH
+
+                                                                                         24
+                                    1                                        ‘‘(II) is a domain name registrar, do-
+                                    2                                 main name registry, or other domain name
+                                    3                                 registration authority.
+                                    4                                 ‘‘(D) INTERNET                 CONTENT HOSTING SERV-
+                                    5                        ICE.—The             term ‘Internet content hosting serv-
+                                    6                        ice’ means a service that—
+                                    7                                        ‘‘(i) stores, through electromagnetic or
+                                    8                                 other means, electronic data, such as the
+                                    9                                 content of Web pages, electronic mail, doc-
+                                  10                                  uments, images, audio and video files, on-
+                                  11                                  line discussion boards, or Web logs; and
+                                  12                                         ‘‘(ii) makes such data available via the
+                                  13                                  Internet.
+                                  14                                  ‘‘(E) INTERNET-RESTRICTING                               COUNTRY.—
+                                  15                         The term ‘Internet-restricting country’ has the
+                                  16                         meaning given such term under section 3 of the
+                                  17                         Global Online Freedom Act of 2013.
+                                  18                                  ‘‘(F) INTERNET                     SEARCH             ENGINE.—The
+                                  19                         term ‘Internet search engine’ means a service
+                                  20                         made available via the Internet that, on the
+                                  21                         basis of a query consisting of terms, concepts,
+                                  22                         questions, or other data input by a user,
+                                  23                         searches information available on the Internet
+
+
+
+
+                                  24                         and returns to the user a link to or other
+                                  25                         means of locating, viewing, or downloading in-
+
+
+                                              •HR 491 IH
+
+                                                                                         25
+                                    1                        formation or data available on the Internet re-
+                                    2                        lating to such query.
+                                    3                                 ‘‘(G) PERSONALLY                      IDENTIFIABLE INFOR-
+                                    4                        MATION.—The                 term ‘personally identifiable in-
+                                    5                        formation’ means data in a form that identifies
+                                    6                        a particular person.
+                                    7                                 ‘‘(H) REMOTE                COMPUTING SERVICE.—The
+                                    8                        term ‘remote computing service’ has the mean-
+                                    9                        ing given such term under section 2711(2) of
+                                  10                         title 18, United States Code.’’.
+                                  11               (b) RULEMAKING.—Not later than the end of the
+                                  12 270-day period beginning on the date of the enactment
+                                  13 of this Act, the Securities and Exchange Commission shall
+                                  14 issue final rules to carry out section 13(s) of the Securities
+                                  15 and Exchange Act of 1934, as added by subsection (a).
+                                  16      TITLE III—EXPORT CONTROLS
+                                  17         ON CERTAIN TELECOMMUNI-
+                                  18         CATIONS EQUIPMENT
+                                  19      SEC. 301. EXPORT CONTROLS ON CERTAIN TELECOMMUNI-
+                                  20                              CATIONS EQUIPMENT.
+                                  21               (a) IN GENERAL.—Section 6 of the Export Adminis-
+                                  22 tration Act of 1979 (50 U.S.C. App. 2405), as continued
+                                  23 in effect under the International Emergency Economic
+
+
+
+
+                                  24 Powers Act, is amended by adding at the end the fol-
+                                  25 lowing:
+
+
+                                              •HR 491 IH
+
+                                                                                         26
+                                    1              ‘‘(t)        CERTAIN               TELECOMMUNICATIONS                           EQUIP-
+                                    2     MENT.—
+
+                                    3                        ‘‘(1) IN      GENERAL.—The                     Secretary, in consulta-
+                                    4              tion with the Secretary of State, the Secretary of
+                                    5              Defense, and the heads of other appropriate Federal
+                                    6              departments and agencies, shall establish and main-
+                                    7              tain, as part of the list maintained under this sec-
+                                    8              tion, a list of goods and technology that would serve
+                                    9              the primary purpose of assisting, or be specifically
+                                  10               configured to assist, a foreign government in acquir-
+                                  11               ing the capability to carry out censorship, surveil-
+                                  12               lance, or any other similar or related activity
+                                  13               through means of telecommunications, including the
+                                  14               Internet, the prohibition or licensing of which would
+                                  15               be effective in barring acquisition or enhancement of
+                                  16               such capability.
+                                  17                         ‘‘(2)       INTERNET-RESTRICTING                               COUNTRIES.—
+                                  18               Notwithstanding any other provision of law, the Sec-
+                                  19               retary shall prohibit the export of goods or tech-
+                                  20               nology on the list established under paragraph (1) to
+                                  21               a government end user in any Internet-restricting
+                                  22               country.
+                                  23                         ‘‘(3) WAIVER.—The President may waive the
+
+
+
+
+                                  24               application of paragraph (2) with respect to export
+                                  25               of goods or technology on the list established under
+
+
+                                              •HR 491 IH
+
+                                                                                         27
+                                    1              paragraph (1) on a case-by-case basis if the Presi-
+                                    2              dent determines and certifies to Congress that it is
+                                    3              in the national interests of the United States to do
+                                    4              so.
+                                    5                        ‘‘(4) DEFINITIONS.—In this subsection—
+                                    6                                 ‘‘(A) the term ‘Internet’ has the meaning
+                                    7                        given the term in section 231(e)(3) of the Com-
+                                    8                        munications Act of 1934 (47 U.S.C. 231(e)(3));
+                                    9                                 ‘‘(B) the term ‘Internet-restricting coun-
+                                  10                         try’ means a country designated by the Sec-
+                                  11                         retary of State pursuant to section 104(a) of
+                                  12                         the Global Online Freedom Act of 2013;
+                                  13                                  ‘‘(C) a ‘government end user’ in a coun-
+                                  14                         try—
+                                  15                                         ‘‘(i) is an end user that is a govern-
+                                  16                                  ment of that country, or of a political sub-
+                                  17                                  division of that country, or is an agency or
+                                  18                                  instrumentality of such a government; and
+                                  19                                         ‘‘(ii) includes a telecommunications or
+                                  20                                  Internet service provider that is wholly or
+                                  21                                  partially owned by a government of that
+                                  22                                  country; and
+                                  23                                  ‘‘(D) an ‘agency or instrumentality’ of a
+
+
+
+
+                                  24                         government is an ‘agency or instrumentality of
+                                              •HR 491 IH
+
+                                                                                         28
+                                    1                        a foreign state’, as defined in section 1603 of
+                                    2                        title 28, United States Code.’’.
+                                    3              (b) REGULATIONS.—
+                                    4                        (1) IN       GENERAL.—Not                    later than 1 year after
+                                    5              the date of the enactment of this Act, the President
+                                    6              shall revise the Export Administration Regulations
+                                    7              and any other regulations necessary to carry out the
+                                    8              amendment made by subsection (a).
+                                    9                        (2) EXPORT             ADMINISTRATION REGULATIONS.—
+                                  10               In this subsection, the term ‘‘Export Administration
+                                  11               Regulations’’ means the Export Administration Reg-
+                                  12               ulations as maintained and amended under the au-
+                                  13               thority of the International Emergency Economic
+                                  14               Powers Act and codified, as of the date of the enact-
+                                  15               ment of this Act, in subchapter C of chapter VII of
+                                  16               title 15, Code of Federal Regulations.
+                                  17               (c) EFFECTIVE DATE.—Section 6(t) of the Export
+                                  18 Administration Act of 1979, as added by subsection (a),
+                                  19 shall take effect on the date of the enactment of this Act
+                                  20 and shall apply with respect to the export of goods or tech-
+                                  21 nology on the list established under paragraph (1) of such
+                                  22 section on or after 1 year after the date of the enactment
+                                  23 of this Act.
+                                              •HR 491 IH                                   Æ

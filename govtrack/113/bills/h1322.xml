@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="1322" updated="2013-03-22T04:46:49-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To establish educational seminars at United States ports of entry to improve the ability of U.S. Customs and Border Protection personnel to classify and appraise articles that are imported into the United States in accordance with the customs laws of the United States.</title>
+  </titles>
+  <sponsor id="400630"/>
+  <cosponsors>
+    <cosponsor id="400209" joined="2013-03-21"/>
+    <cosponsor id="400263" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

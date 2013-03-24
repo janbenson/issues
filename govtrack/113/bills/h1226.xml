@@ -1,0 +1,29 @@
+<bill session="113" type="h" number="1226" updated="2013-03-16T04:47:06-04:00">
+  <state datetime="2013-03-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-15"/>
+  </status>
+  <introduced datetime="2013-03-15"/>
+  <titles>
+    <title as="introduced" type="official">To clarify the rights of Indians and Indian tribes on Indian lands under the National Labor Relations Act.</title>
+  </titles>
+  <sponsor id="412475"/>
+  <cosponsors>
+    <cosponsor id="400057" joined="2013-03-15"/>
+    <cosponsor id="400077" joined="2013-03-15"/>
+    <cosponsor id="412555" joined="2013-03-15"/>
+    <cosponsor id="412397" joined="2013-03-15"/>
+    <cosponsor id="400224" joined="2013-03-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-15">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

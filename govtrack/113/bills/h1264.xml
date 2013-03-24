@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="1264" updated="2013-03-20T04:47:28-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title as="introduced" type="official">To amend title XIX of the Social Security Act to increase the Federal medical assistance percentage for the District of Columbia under the Medicaid Program to 75 percent.</title>
+  </titles>
+  <sponsor id="400295"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-19">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

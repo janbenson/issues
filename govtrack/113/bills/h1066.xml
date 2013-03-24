@@ -1,0 +1,35 @@
+<bill session="113" type="h" number="1066" updated="2013-03-20T04:47:06-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Indian Arts and Crafts Act to clarify the definition of Indian and Indian organization for the purposes of that Act.</title>
+  </titles>
+  <sponsor id="400331"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-12">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-03-12">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-03-15">
+      <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII24" subcommittee="Indian and Alaska Native Affairs" name="House Natural Resources"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

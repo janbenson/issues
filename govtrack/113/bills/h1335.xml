@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="1335" updated="2013-03-22T04:46:55-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To require Fannie Mae and Freddie Mac to disclose the minimum purchase price that such an enterprise will accept on the short sale of a residence financed by a mortgage purchased by such an enterprise in order to make short sales a viable alternative to foreclosure.</title>
+  </titles>
+  <sponsor id="400097"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="1245" updated="2013-03-20T04:47:18-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 49, United States Code, to require that individuals seeking training in the operation of certain aircraft be checked against the terrorist watchlist to ensure that such individuals are non-threats to aviation.</title>
+  </titles>
+  <sponsor id="400402"/>
+  <cosponsors>
+    <cosponsor id="412466" joined="2013-03-19"/>
+    <cosponsor id="412432" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-19">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHM" name="House Homeland Security" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

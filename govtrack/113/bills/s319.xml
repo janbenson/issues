@@ -1,0 +1,35 @@
+<bill session="113" type="s" number="319" updated="2013-03-02T06:16:31-05:00">
+  <state datetime="2013-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-13"/>
+  </status>
+  <introduced datetime="2013-02-13"/>
+  <titles>
+    <title as="introduced" type="official">A bill to require the Administrator of the Environmental Protection Agency to provide adequate data, modeling, and support in the development of a State implementation plan under the Clean Air Act.</title>
+  </titles>
+  <sponsor id="412320"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-02-13">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S713-714"/>
+    </action>
+    <action state="REFERRED" datetime="2013-02-13">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Air quality"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Intergovernmental relations"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+</bill>

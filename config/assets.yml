@@ -1,0 +1,75 @@
+package_assets: on
+gzip_assets: off
+
+
+javascripts:
+    defaults:
+        - app/assets/javascripts/prototype.js
+        - app/assets/javascripts/rails.js
+        - app/assets/javascripts/effects.js
+        - app/assets/javascripts/dragdrop.js
+        - app/assets/javascripts/controls.js
+        - app/assets/javascripts/application.js
+    widget:
+        - app/assets/javascripts/underscore-1.1.6.js
+        - app/assets/javascripts/widget.js
+        - app/views/widgets/*.jst
+    # Widget configuration tools
+    widget_config:
+        - app/assets/javascripts/underscore-1.1.6.js
+        - app/views/widgets/*.jst
+        - app/assets/javascripts/widget.js
+        - app/assets/javascripts/jscolor.js
+        - app/assets/javascripts/json2.js
+        - app/assets/javascripts/widget.config.js
+    common:
+        - app/assets/javascripts/jquery-1.5.2.min.js
+        - app/assets/javascripts/jquery.qtip-1.0.0-rc3.min.js
+        - app/assets/javascripts/jquery.simplyCountable.js
+        - app/assets/javascripts/jqmodal.js
+        - app/assets/javascripts/star-rating/jquery.MetaData.js
+        - app/assets/javascripts/star-rating/jquery.rating.js
+        - app/assets/javascripts/slider.js
+        - app/assets/javascripts/sorttable.js
+        - app/assets/javascripts/builder.js
+        - app/assets/javascripts/m.js
+        - app/assets/javascripts/styles.js
+    frontpage:
+        - app/assets/javascripts/jquery.jcarousel.js
+        - app/assets/javascripts/frontpage.js
+    distmap:
+        - app/assets/javascripts/gmap-wms.js
+        - app/assets/javascripts/distmap.js
+
+stylesheets:
+    widgets:
+        - app/assets/stylesheets/960.css
+        - app/assets/stylesheets/reset.css
+        - app/assets/stylesheets/classes.css
+        - app/assets/stylesheets/reset.css
+        - app/assets/stylesheets/typo.css
+        - app/assets/stylesheets/master.css
+        - app/assets/stylesheets/widget.css
+    application:
+        - app/assets/stylesheets/960.css
+        - app/assets/stylesheets/classes.css
+        - app/assets/stylesheets/modal.css
+        - app/assets/stylesheets/reset.css
+        - app/assets/stylesheets/typo.css
+        - app/assets/stylesheets/master.css
+        - app/assets/stylesheets/jqModal.css
+        - app/assets/stylesheets/jquery.rating.css
+    frontpage:
+        - app/assets/stylesheets/960.css
+        - app/assets/stylesheets/classes.css
+        - app/assets/stylesheets/modal.css
+        - app/assets/stylesheets/reset.css
+        - app/assets/stylesheets/typo.css
+        - app/assets/stylesheets/master.css
+        - app/assets/stylesheets/home.css
+        - app/assets/stylesheets/jqModal.css
+        - app/assets/stylesheets/jquery.jcarousel.css
+        - app/assets/stylesheets/search.css
+    districts:
+        - app/assets/stylesheets/states.css
+        - app/assets/stylesheets/districts.css

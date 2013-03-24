@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="1275" updated="2013-03-21T06:16:31-04:00">
+  <state datetime="2013-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-03-20"/>
+  <titles>
+    <title as="introduced" type="official">To guarantee the right of individuals to receive Social Security benefits under title II of the Social Security Act in full with an accurate annual cost-of-living adjustment.</title>
+  </titles>
+  <sponsor id="400209"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-20">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

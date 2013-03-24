@@ -1,0 +1,995 @@
+                                                                                                                                                                I
+
+
+
+
+                                                              113TH CONGRESS
+                                                                 1ST SESSION                           H. R. 100
+                                                                To amend title 11, United States Code, to improve protections for employees
+                                                                                   and retirees in business bankruptcies.
+
+
+
+
+                                                                            IN THE HOUSE OF REPRESENTATIVES
+                                                                                          JANUARY 3, 2013
+                                                              Mr. CONYERS (for himself, Mr. COHEN, Mr. DEUTCH, Mr. NADLER, Mr.
+                                                                  JOHNSON of Georgia, Mr. WATT, Mr. GEORGE MILLER of California, and
+                                                                  Ms. JACKSON LEE) introduced the following bill; which was referred to
+                                                                  the Committee on the Judiciary
+
+
+
+
+                                                                                                        A BILL
+                                                              To amend title 11, United States Code, to improve protec-
+                                                                tions for employees and retirees in business bankruptcies.
+                                                                1               Be it enacted by the Senate and House of Representa-
+                                                                2 tives of the United States of America in Congress assembled,
+                                                                3     SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+                                                                4               (a) SHORT TITLE.—This Act may be cited as the
+                                                                5 ‘‘Protecting Employees and Retirees in Business Bank-
+                                                                6 ruptcies Act of 2013’’.
+                                                                7               (b) TABLE            OF       CONTENTS.—The table of contents of
+jbell on DSK7SPTVN1PROD with                                    8 this Act is as follows:
+                                                                      Sec. 1. Short title; table of contents.
+                                                                      Sec. 2. Findings.
+
+
+
+
+                                                                                                                          2
+                                                                               TITLE I—IMPROVING RECOVERIES FOR EMPLOYEES AND
+                                                                                                  RETIREES
+
+                                                                      Sec.     101.     Increased wage priority.
+                                                                      Sec.     102.     Claim for stock value losses in defined contribution plans.
+                                                                      Sec.     103.     Priority for severance pay.
+                                                                      Sec.     104.     Financial returns for employees and retirees.
+                                                                      Sec.     105.     Priority for WARN Act damages.
+
+                                                                             TITLE II—REDUCING EMPLOYEES’ AND RETIREES’ LOSSES
+
+                                                                      Sec.     201.     Rejection of collective bargaining agreements.
+                                                                      Sec.     202.     Payment of insurance benefits to retired employees.
+                                                                      Sec.     203.     Protection of employee benefits in a sale of assets.
+                                                                      Sec.     204.     Claim for pension losses.
+                                                                      Sec.     205.     Payments by secured lender.
+                                                                      Sec.     206.     Preservation of jobs and benefits.
+                                                                      Sec.     207.     Termination of exclusivity.
+
+                                                                          TITLE III—RESTRICTING EXECUTIVE COMPENSATION PROGRAMS
+
+                                                                      Sec.     301.     Executive compensation upon exit from bankruptcy.
+                                                                      Sec.     302.     Limitations on executive compensation enhancements.
+                                                                      Sec.     303.     Assumption of executive benefit plans.
+                                                                      Sec.     304.     Recovery of executive compensation.
+                                                                      Sec.     305.     Preferential compensation transfer.
+
+                                                                                                    TITLE IV—OTHER PROVISIONS
+
+                                                                      Sec. 401. Union proof of claim.
+                                                                      Sec. 402. Exception from automatic stay.
+                                                                1     SEC. 2. FINDINGS.
+                                                                2                The Congress finds the following:
+                                                                3                         (1)       Business              bankruptcies               have       increased
+                                                                4                sharply in recent years and remain at high levels.
+                                                                5                These bankruptcies include several of the largest
+                                                                6                business bankruptcy filings in history. As the use of
+                                                                7                bankruptcy has expanded, job preservation and re-
+                                                                8                tirement security are placed at greater risk.
+                                                                9                         (2) Laws enacted to improve recoveries for em-
+                                                              10                 ployees and retirees and limit their losses in bank-
+jbell on DSK7SPTVN1PROD with                                  11                 ruptcy cases have not kept pace with the increasing
+                                                              12                 and broader use of bankruptcy by businesses in all
+                                                                            •HR 100 IH
+
+                                                                                                                         3
+                                                                1               sectors of the economy. However, while protections
+                                                                2               for employees and retirees in bankruptcy cases have
+                                                                3               eroded, management compensation plans devised for
+                                                                4               those in charge of troubled businesses have become
+                                                                5               more prevalent and are escaping adequate scrutiny.
+                                                                6                        (3) Changes in the law regarding these matters
+                                                                7               are urgently needed as bankruptcy is used to ad-
+                                                                8               dress increasingly more complex and diverse condi-
+                                                                9               tions affecting troubled businesses and industries.
+                                                              10      TITLE I—IMPROVING RECOV-
+                                                              11         ERIES FOR EMPLOYEES AND
+                                                              12         RETIREES
+                                                              13      SEC. 101. INCREASED WAGE PRIORITY.
+                                                              14                Section 507(a) of title 11, United States Code, is
+                                                              15 amended—
+                                                              16                         (1) in paragraph (4)—
+                                                              17                                  (A) by striking ‘‘$10,000’’ and inserting
+                                                              18                         ‘‘$20,000’’;
+                                                              19                                  (B) by striking ‘‘within 180 days’’; and
+                                                              20                                  (C) by striking ‘‘or the date of the ces-
+                                                              21                         sation of the debtor’s business, whichever oc-
+                                                              22                         curs first,’’;
+                                                              23                         (2) in paragraph (5)(A), by striking—
+jbell on DSK7SPTVN1PROD with                                  24                                  (A) ‘‘within 180 days’’; and
+                                                                           •HR 100 IH
+
+                                                                                                                         4
+                                                                1                                 (B) ‘‘or the date of the cessation of the
+                                                                2                        debtor’s business, whichever occurs first’’; and
+                                                                3                        (3) in paragraph (5), by striking subparagraph
+                                                                4               (B) and inserting the following:
+                                                                5                                 ‘‘(B) for each such plan, to the extent of
+                                                                6                        the number of employees covered by each such
+                                                                7                        plan, multiplied by $20,000.’’.
+                                                                8     SEC. 102. CLAIM FOR STOCK VALUE LOSSES IN DEFINED
+                                                                9                             CONTRIBUTION PLANS.
+                                                              10                Section 101(5) of title 11, United States Code, is
+                                                              11 amended—
+                                                              12                         (1) in subparagraph (A), by striking ‘‘or’’ at
+                                                              13                the end;
+                                                              14                         (2) in subparagraph (B), by inserting ‘‘or’’
+                                                              15                after the semicolon; and
+                                                              16                         (3) by adding at the end the following:
+                                                              17                                  ‘‘(C) right or interest in equity securities
+                                                              18                         of the debtor, or an affiliate of the debtor, held
+                                                              19                         in a defined contribution plan (within the mean-
+                                                              20                         ing of section 3(34) of the Employee Retire-
+                                                              21                         ment Income Security Act of 1974 (29 U.S.C.
+                                                              22                         1002(34))) for the benefit of an individual who
+                                                              23                         is not an insider, a senior executive officer, or
+                                                              24                         any of the 20 next most highly compensated
+                                                              25
+jbell on DSK7SPTVN1PROD with
+
+
+
+
+                                                                                         employees of the debtor (if one or more are not
+
+
+                                                                           •HR 100 IH
+
+                                                                                                                         5
+                                                                1                        insiders), if such securities were attributable to
+                                                                2                        either employer contributions by the debtor or
+                                                                3                        an affiliate of the debtor, or elective deferrals
+                                                                4                        (within the meaning of section 402(g) of the In-
+                                                                5                        ternal Revenue Code of 1986), and any earn-
+                                                                6                        ings thereon, if an employer or plan sponsor
+                                                                7                        who has commenced a case under this title has
+                                                                8                        committed fraud with respect to such plan or
+                                                                9                        has otherwise breached a duty to the partici-
+                                                              10                         pant that has proximately caused the loss of
+                                                              11                         value.’’.
+                                                              12      SEC. 103. PRIORITY FOR SEVERANCE PAY.
+                                                              13                Section 503(b) of title 11, United States Code, is
+                                                              14 amended—
+                                                              15                         (1) in paragraph (8), by striking ‘‘and’’ at the
+                                                              16                end;
+                                                              17                         (2) in paragraph (9), by striking the period and
+                                                              18                inserting ‘‘; and’’; and
+                                                              19                         (3) by adding at the end the following:
+                                                              20                         ‘‘(10) severance pay owed to employees of the
+                                                              21                debtor (other than to an insider, other senior man-
+                                                              22                agement, or a consultant retained to provide services
+                                                              23                to the debtor), under a plan, program, or policy gen-
+                                                              24                erally applicable to employees of the debtor (but not
+                                                              25
+jbell on DSK7SPTVN1PROD with
+
+
+
+
+                                                                                under an individual contract of employment), or
+
+
+                                                                           •HR 100 IH
+
+                                                                                                                         6
+                                                                1               owed pursuant to a collective bargaining agreement,
+                                                                2               for layoff or termination on or after the date of the
+                                                                3               filing of the petition, which pay shall be deemed
+                                                                4               earned in full upon such layoff or termination of em-
+                                                                5               ployment.’’.
+                                                                6     SEC. 104. FINANCIAL RETURNS FOR EMPLOYEES AND RE-
+                                                                7                             TIREES.
+                                                                8               Section 1129(a) of title 11, United States Code is
+                                                              109 amended—             (1) by adding at the end the following:
+                                                              11                         ‘‘(17) The plan provides for recovery of dam-
+                                                              12                ages payable for the rejection of a collective bar-
+                                                              13                gaining agreement, or for other financial returns as
+                                                              14                negotiated by the debtor and the authorized rep-
+                                                              15                resentative under section 1113 (to the extent that
+                                                              16                such returns are paid under, rather than outside of,
+                                                              17                a plan).’’; and
+                                                              18                         (2) by striking paragraph (13) and inserting
+                                                              19                the following:
+                                                              20                         ‘‘(13) With respect to retiree benefits, as that
+                                                              21                term is defined in section 1114(a), the plan—
+                                                              22                                  ‘‘(A) provides for the continuation after its
+                                                              23                         effective date of payment of all retiree benefits
+                                                              24                         at the level established pursuant to subsection
+                                                              25
+jbell on DSK7SPTVN1PROD with
+
+
+
+
+                                                                                         (e)(1)(B) or (g) of section 1114 at any time be-
+
+
+                                                                           •HR 100 IH
+
+                                                                                                                         7
+                                                                1                        fore the date of confirmation of the plan, for
+                                                                2                        the duration of the period for which the debtor
+                                                                3                        has obligated itself to provide such benefits, or
+                                                                4                        if no modifications are made before confirma-
+                                                                5                        tion of the plan, the continuation of all such re-
+                                                                6                        tiree benefits maintained or established in whole
+                                                                7                        or in part by the debtor before the date of the
+                                                                8                        filing of the petition; and
+                                                                9                                 ‘‘(B) provides for recovery of claims arising
+                                                              10                         from the modification of retiree benefits or for
+                                                              11                         other financial returns, as negotiated by the
+                                                              12                         debtor and the authorized representative (to the
+                                                              13                         extent that such returns are paid under, rather
+                                                              14                         than outside of, a plan).’’.
+                                                              15      SEC. 105. PRIORITY FOR WARN ACT DAMAGES.
+                                                              16                Section 503(b)(1)(A)(ii) of title 11, United States
+                                                              17 Code is amended to read as follows:
+                                                              18                                          ‘‘(ii) wages and benefits awarded pur-
+                                                              19                                  suant to a judicial proceeding or a pro-
+                                                              20                                  ceeding of the National Labor Relations
+                                                              21                                  Board as back pay or damages attributable
+                                                              22                                  to any period of time occurring after the
+                                                              23                                  date of commencement of the case under
+                                                              24                                  this title, as a result of a violation of Fed-
+                                                              25
+jbell on DSK7SPTVN1PROD with
+
+
+
+
+                                                                                                  eral or State law by the debtor, without re-
+
+
+                                                                           •HR 100 IH
+
+                                                                                                                         8
+                                                                1                                 gard to the time of the occurrence of un-
+                                                                2                                 lawful conduct on which the award is
+                                                                3                                 based or to whether any services were ren-
+                                                                4                                 dered on or after the commencement of the
+                                                                5                                 case, including an award by a court under
+                                                                6                                 section 2901 of title 29, United States
+                                                                7                                 Code, of up to 60 days’ pay and benefits
+                                                                8                                 following a layoff that occurred or com-
+                                                                9                                 menced at a time when such award period
+                                                              10                                  includes a period on or after the com-
+                                                              11                                  mencement of the case, if the court deter-
+                                                              12                                  mines that payment of wages and benefits
+                                                              13                                  by reason of the operation of this clause
+                                                              14                                  will not substantially increase the prob-
+                                                              15                                  ability of layoff or termination of current
+                                                              16                                  employees or of nonpayment of domestic
+                                                              17                                  support obligations during the case under
+                                                              18                                  this title.’’.
+                                                              19      TITLE II—REDUCING EMPLOY-
+                                                              20         EES’ AND RETIREES’ LOSSES
+                                                              21      SEC. 201. REJECTION OF COLLECTIVE BARGAINING AGREE-
+                                                              22                              MENTS.
+                                                              23                Section 1113 of title 11, United States Code, is
+                                                              24 amended by striking subsections (a) through (f) and in-
+jbell on DSK7SPTVN1PROD with                                  25 serting the following:
+                                                                           •HR 100 IH
+
+                                                                                                                         9
+                                                                1               ‘‘(a) The debtor in possession, or the trustee if one
+                                                                2 has been appointed under this chapter, other than a trust-
+                                                                3 ee in a case covered by subchapter IV of this chapter and
+                                                                4 by title I of the Railway Labor Act, may reject a collective
+                                                                5 bargaining agreement only in accordance with this section.
+                                                                6 Hereinafter in this section, a reference to the trustee in-
+                                                                7 cludes a reference to the debtor in possession.
+                                                                8               ‘‘(b) No provision of this title shall be construed to
+                                                                9 permit the trustee to unilaterally terminate or alter any
+                                                              10 provision of a collective bargaining agreement before com-
+                                                              11 plying with this section. The trustee shall timely pay all
+                                                              12 monetary obligations arising under the terms of the collec-
+                                                              13 tive bargaining agreement. Any such payment required to
+                                                              14 be made before a plan confirmed under section 1129 is
+                                                              15 effective has the status of an allowed administrative ex-
+                                                              16 pense under section 503.
+                                                              17                ‘‘(c)(1) If the trustee seeks modification of a collec-
+                                                              18 tive bargaining agreement, then the trustee shall provide
+                                                              19 notice to the labor organization representing the employ-
+                                                              20 ees covered by the agreement that modifications are being
+                                                              21 proposed under this section, and shall promptly provide
+                                                              22 an initial proposal for modifications to the agreement.
+                                                              23 Thereafter, the trustee shall confer in good faith with the
+                                                              24 labor organization, at reasonable times and for a reason-
+jbell on DSK7SPTVN1PROD with                                  25 able period in light of the complexity of the case, in at-
+                                                                           •HR 100 IH
+
+                                                                                                                     10
+                                                                1 tempting to reach mutually acceptable modifications of
+                                                                2 such agreement.
+                                                                3               ‘‘(2) The initial proposal and subsequent proposals
+                                                                4 by the trustee for modification of a collective bargaining
+                                                                5 agreement shall be based upon a business plan for the re-
+                                                                6 organization of the debtor, and shall reflect the most com-
+                                                                7 plete and reliable information available. The trustee shall
+                                                                8 provide to the labor organization all information that is
+                                                                9 relevant for negotiations. The court may enter a protective
+                                                              10 order to prevent the disclosure of information if disclosure
+                                                              11 could compromise the debtor’s position with respect to its
+                                                              12 competitors in the industry, subject to the needs of the
+                                                              13 labor organization to evaluate the trustee’s proposals and
+                                                              14 any application for rejection of the agreement or for in-
+                                                              15 terim relief pursuant to this section.
+                                                              16                ‘‘(3) In consideration of Federal policy encouraging
+                                                              17 the practice and process of collective bargaining and in
+                                                              18 recognition of the bargained-for expectations of the em-
+                                                              19 ployees covered by the agreement, modifications proposed
+                                                              20 by the trustee—
+                                                              21                         ‘‘(A) shall be proposed only as part of a pro-
+                                                              22                gram of workforce and nonworkforce cost savings
+                                                              23                devised for the reorganization of the debtor, includ-
+jbell on DSK7SPTVN1PROD with                                  24                ing savings in management personnel costs;
+                                                                           •HR 100 IH
+
+                                                                                                                     11
+                                                                1                        ‘‘(B) shall be limited to modifications designed
+                                                                2               to achieve a specified aggregate financial contribu-
+                                                                3               tion for the employees covered by the agreement
+                                                                4               (taking into consideration any labor cost savings ne-
+                                                                5               gotiated within the 12-month period before the filing
+                                                                6               of the petition), and shall be not more than the min-
+                                                                7               imum savings essential to permit the debtor to exit
+                                                                8               bankruptcy, such that confirmation of a plan of re-
+                                                                9               organization is not likely to be followed by the liq-
+                                                              10                uidation, or the need for further financial reorga-
+                                                              11                nization, of the debtor (or any successor to the debt-
+                                                              12                or) in the short-term; and
+                                                              13                         ‘‘(C) shall not be disproportionate or overly bur-
+                                                              14                den the employees covered by the agreement, either
+                                                              15                in the amount of the cost savings sought from such
+                                                              16                employees or the nature of the modifications.
+                                                              17                ‘‘(d)(1) If, after a period of negotiations, the trustee
+                                                              18 and the labor organization have not reached an agreement
+                                                              19 over mutually satisfactory modifications, and further ne-
+                                                              20 gotiations are not likely to produce mutually satisfactory
+                                                              21 modifications, the trustee may file a motion seeking rejec-
+                                                              22 tion of the collective bargaining agreement after notice
+                                                              23 and a hearing. Absent agreement of the parties, no such
+                                                              24 hearing shall be held before the expiration of the 21-day
+jbell on DSK7SPTVN1PROD with                                  25 period beginning on the date on which notice of the hear-
+                                                                           •HR 100 IH
+
+                                                                                                                     12
+                                                                1 ing is provided to the labor organization representing the
+                                                                2 employees covered by the agreement. Only the debtor and
+                                                                3 the labor organization may appear and be heard at such
+                                                                4 hearing. An application for rejection shall seek rejection
+                                                                5 effective upon the entry of an order granting the relief.
+                                                                6               ‘‘(2) In consideration of Federal policy encouraging
+                                                                7 the practice and process of collective bargaining and in
+                                                                8 recognition of the bargained-for expectations of the em-
+                                                                9 ployees covered by the agreement, the court may grant a
+                                                              10 motion seeking rejection of a collective bargaining agree-
+                                                              11 ment only if, based on clear and convincing evidence—
+                                                              12                         ‘‘(A) the court finds that the trustee has com-
+                                                              13                plied with the requirements of subsection (c);
+                                                              14                         ‘‘(B) the court has considered alternative pro-
+                                                              15                posals by the labor organization and has concluded
+                                                              16                that such proposals do not meet the requirements of
+                                                              17                paragraph (3)(B) of subsection (c);
+                                                              18                         ‘‘(C) the court finds that further negotiations
+                                                              19                regarding the trustee’s proposal or an alternative
+                                                              20                proposal by the labor organization are not likely to
+                                                              21                produce an agreement;
+                                                              22                         ‘‘(D) the court finds that implementation of the
+jbell on DSK7SPTVN1PROD with                                  23                trustee’s proposal shall not—
+                                                                           •HR 100 IH
+
+                                                                                                                     13
+                                                                1                                 ‘‘(i) cause a material diminution in the
+                                                                2                        purchasing power of the employees covered by
+                                                                3                        the agreement;
+                                                                4                                 ‘‘(ii) adversely affect the ability of the
+                                                                5                        debtor to retain an experienced and qualified
+                                                                6                        workforce; or
+                                                                7                                 ‘‘(iii) impair the debtor’s labor relations
+                                                                8                        such that the ability to achieve a feasible reor-
+                                                                9                        ganization would be compromised; and
+                                                              10                         ‘‘(E) the court concludes that rejection of the
+                                                              11                agreement and immediate implementation of the
+                                                              12                trustee’s proposal is essential to permit the debtor to
+                                                              13                exit bankruptcy, such that confirmation of a plan of
+                                                              14                reorganization is not likely to be followed by liquida-
+                                                              15                tion, or the need for further financial reorganization,
+                                                              16                of the debtor (or any successor to the debtor) in the
+                                                              17                short term.
+                                                              18                ‘‘(3) If the trustee has implemented a program of in-
+                                                              19 centive pay, bonuses, or other financial returns for insid-
+                                                              20 ers, senior executive officers, or the 20 next most highly
+                                                              21 compensated employees or consultants providing services
+                                                              22 to the debtor during the bankruptcy, or such a program
+                                                              23 was implemented within 180 days before the date of the
+jbell on DSK7SPTVN1PROD with                                  24 filing of the petition, the court shall presume that the
+                                                                           •HR 100 IH
+
+                                                                                                                     14
+                                                                1 trustee has failed to satisfy the requirements of subsection
+                                                                2 (c)(3)(C).
+                                                                3               ‘‘(4) In no case shall the court enter an order reject-
+                                                                4 ing a collective bargaining agreement that would result in
+                                                                5 modifications to a level lower than the level proposed by
+                                                                6 the trustee in the proposal found by the court to have com-
+                                                                7 plied with the requirements of this section.
+                                                                8               ‘‘(5) At any time after the date on which an order
+                                                                9 rejecting a collective bargaining agreement is entered, or
+                                                              10 in the case of an agreement entered into between the
+                                                              11 trustee and the labor organization providing mutually sat-
+                                                              12 isfactory modifications, at any time after such agreement
+                                                              13 has been entered into, the labor organization may apply
+                                                              14 to the court for an order seeking an increase in the level
+                                                              15 of wages or benefits, or relief from working conditions,
+                                                              16 based upon changed circumstances. The court shall grant
+                                                              17 the request only if the increase or other relief is not incon-
+                                                              18 sistent with the standard set forth in paragraph (2)(E).
+                                                              19                ‘‘(e) During a period in which a collective bargaining
+                                                              20 agreement at issue under this section continues in effect,
+                                                              21 and if essential to the continuation of the debtor’s busi-
+                                                              22 ness or in order to avoid irreparable damage to the estate,
+                                                              23 the court, after notice and a hearing, may authorize the
+                                                              24 trustee to implement interim changes in the terms, condi-
+jbell on DSK7SPTVN1PROD with                                  25 tions, wages, benefits, or work rules provided by the collec-
+                                                                           •HR 100 IH
+
+                                                                                                                     15
+                                                                1 tive bargaining agreement. Any hearing under this sub-
+                                                                2 section shall be scheduled in accordance with the needs
+                                                                3 of the trustee. The implementation of such interim
+                                                                4 changes shall not render the application for rejection
+                                                                5 moot.
+                                                                6               ‘‘(f) Rejection of a collective bargaining agreement
+                                                                7 constitutes a breach of the agreement, and shall be effec-
+                                                                8 tive no earlier than the entry of an order granting such
+                                                                9 relief. Notwithstanding the foregoing, solely for purposes
+                                                              10 of determining and allowing a claim arising from the rejec-
+                                                              11 tion of a collective bargaining agreement, rejection shall
+                                                              12 be treated as rejection of an executory contract under sec-
+                                                              13 tion 365(g) and shall be allowed or disallowed in accord-
+                                                              14 ance with section 502(g)(1). No claim for rejection dam-
+                                                              15 ages shall be limited by section 502(b)(7). Economic self-
+                                                              16 help by a labor organization shall be permitted upon a
+                                                              17 court order granting a motion to reject a collective bar-
+                                                              18 gaining agreement under subsection (d) or pursuant to
+                                                              19 subsection (e), and no provision of this title or of any other
+                                                              20 provision of Federal or State law may be construed to the
+                                                              21 contrary.
+                                                              22                ‘‘(g) The trustee shall provide for the reasonable fees
+                                                              23 and costs incurred by a labor organization under this sec-
+jbell on DSK7SPTVN1PROD with                                  24 tion, upon request and after notice and a hearing.
+                                                                           •HR 100 IH
+
+                                                                                                                     16
+                                                                1               ‘‘(h) A collective bargaining agreement that is as-
+                                                                2 sumed shall be assumed in accordance with section 365.’’.
+                                                                3     SEC. 202. PAYMENT OF INSURANCE BENEFITS TO RETIRED
+                                                                4                             EMPLOYEES.
+                                                                5               Section 1114 of title 11, United States Code, is
+                                                                6 amended—
+                                                                7                        (1) in subsection (a), by inserting ‘‘, whether or
+                                                                8               not the debtor asserts a right to unilaterally modify
+                                                                9               such payments under such plan, fund, or program’’
+                                                              10                before the period at the end;
+                                                              11                         (2) in subsection (b)(2), by inserting after ‘‘sec-
+                                                              12                tion’’ the following: ‘‘, and a labor organization serv-
+                                                              13                ing as the authorized representative under sub-
+                                                              14                section (c)(1),’’;
+                                                              15                         (3) in subsection (f), by striking ‘‘(f)’’ and all
+                                                              16                that follows through paragraph (2) and inserting the
+                                                              17                following:
+                                                              18                ‘‘(f)(1) If a trustee seeks modification of retiree bene-
+                                                              19 fits, then the trustee shall provide a notice to the author-
+                                                              20 ized representative that modifications are being proposed
+                                                              21 pursuant to this section, and shall promptly provide an
+                                                              22 initial proposal. Thereafter, the trustee shall confer in
+                                                              23 good faith with the authorized representative at reason-
+jbell on DSK7SPTVN1PROD with                                  24 able times and for a reasonable period in light of the com-
+                                                                           •HR 100 IH
+
+                                                                                                                     17
+                                                                1 plexity of the case in attempting to reach mutually satis-
+                                                                2 factory modifications.
+                                                                3               ‘‘(2) The initial proposal and subsequent proposals
+                                                                4 by the trustee shall be based upon a business plan for the
+                                                                5 reorganization of the debtor and shall reflect the most
+                                                                6 complete and reliable information available. The trustee
+                                                                7 shall provide to the authorized representative all informa-
+                                                                8 tion that is relevant for the negotiations. The court may
+                                                                9 enter a protective order to prevent the disclosure of infor-
+                                                              10 mation if disclosure could compromise the debtor’s posi-
+                                                              11 tion with respect to its competitors in the industry, subject
+                                                              12 to the needs of the authorized representative to evaluate
+                                                              13 the trustee’s proposals and an application pursuant to
+                                                              14 subsection (g) or (h).
+                                                              15                ‘‘(3) Modifications proposed by the trustee—
+                                                              16                         ‘‘(A) shall be proposed only as part of a pro-
+                                                              17                gram of workforce and nonworkforce cost savings
+                                                              18                devised for the reorganization of the debtor, includ-
+                                                              19                ing savings in management personnel costs;
+                                                              20                         ‘‘(B) shall be limited to modifications that are
+                                                              21                designed to achieve a specified aggregate financial
+                                                              22                contribution for the retiree group represented by the
+                                                              23                authorized representative (taking into consideration
+                                                              24                any cost savings implemented within the 12-month
+                                                              25
+jbell on DSK7SPTVN1PROD with
+
+
+
+
+                                                                                period before the date of filing of the petition with
+
+
+                                                                           •HR 100 IH
+
+                                                                                                                     18
+                                                                1               respect to the retiree group), and shall be no more
+                                                                2               than the minimum savings essential to permit the
+                                                                3               debtor to exit bankruptcy, such that confirmation of
+                                                                4               a plan of reorganization is not likely to be followed
+                                                                5               by the liquidation, or the need for further financial
+                                                                6               reorganization, of the debtor (or any successor to
+                                                                7               the debtor) in the short term; and
+                                                                8                        ‘‘(C) shall not be disproportionate or overly bur-
+                                                                9               den the retiree group, either in the amount of the
+                                                              10                cost savings sought from such group or the nature
+                                                              11                of the modifications.’’;
+                                                              12                         (4) in subsection (g)—
+                                                              13                                  (A) by striking ‘‘(g)’’ and all that follows
+                                                              14                         through the semicolon at the end of paragraph
+                                                              15                         (3) and inserting the following:
+                                                              16                ‘‘(g)(1) If, after a period of negotiations, the trustee
+                                                              17 and the authorized representative have not reached agree-
+                                                              18 ment over mutually satisfactory modifications and further
+                                                              19 negotiations are not likely to produce mutually satisfac-
+                                                              20 tory modifications, then the trustee may file a motion
+                                                              21 seeking modifications in the payment of retiree benefits
+                                                              22 after notice and a hearing. Absent agreement of the par-
+                                                              23 ties, no such hearing shall be held before the expiration
+                                                              24 of the 21-day period beginning on the date on which notice
+jbell on DSK7SPTVN1PROD with                                  25 of the hearing is provided to the authorized representative.
+                                                                           •HR 100 IH
+
+                                                                                                                     19
+                                                                1 Only the debtor and the authorized representative may ap-
+                                                                2 pear and be heard at such hearing.
+                                                                3               ‘‘(2) The court may grant a motion to modify the
+                                                                4 payment of retiree benefits only if, based on clear and con-
+                                                                5 vincing evidence—
+                                                                6                        ‘‘(A) the court finds that the trustee has com-
+                                                                7               plied with the requirements of subsection (f);
+                                                                8                        ‘‘(B) the court has considered alternative pro-
+                                                                9               posals by the authorized representative and has de-
+                                                              10                termined that such proposals do not meet the re-
+                                                              11                quirements of subsection (f)(3)(B);
+                                                              12                         ‘‘(C) the court finds that further negotiations
+                                                              13                regarding the trustee’s proposal or an alternative
+                                                              14                proposal by the authorized representative are not
+                                                              15                likely to produce a mutually satisfactory agreement;
+                                                              16                         ‘‘(D) the court finds that implementation of the
+                                                              17                proposal shall not cause irreparable harm to the af-
+                                                              18                fected retirees; and
+                                                              19                         ‘‘(E) the court concludes that an order granting
+                                                              20                the motion and immediate implementation of the
+                                                              21                trustee’s proposal is essential to permit the debtor to
+                                                              22                exit bankruptcy, such that confirmation of a plan of
+                                                              23                reorganization is not likely to be followed by liquida-
+jbell on DSK7SPTVN1PROD with                                  24                tion, or the need for further financial reorganization,
+                                                                           •HR 100 IH
+
+                                                                                                                     20
+                                                                1               of the debtor (or a successor to the debtor) in the
+                                                                2               short term.
+                                                                3               ‘‘(3) If a trustee has implemented a program of in-
+                                                                4 centive pay, bonuses, or other financial returns for insid-
+                                                                5 ers, senior executive officers, or the 20 next most highly
+                                                                6 compensated employees or consultants providing services
+                                                                7 to the debtor during the bankruptcy, or such a program
+                                                                8 was implemented within 180 days before the date of the
+                                                                9 filing of the petition, the court shall presume that the
+                                                              10 trustee has failed to satisfy the requirements of subpara-
+                                                              11 graph (f)(3)(C).’’; and
+                                                              12                                  (B) by striking ‘‘except that in no case’’
+                                                              13                         and inserting the following:
+                                                              14                ‘‘(4) In no case’’; and
+                                                              15                         (5) by striking subsection (k) and redesignating
+                                                              16                subsections (l) and (m) as subsections (k) and (l),
+                                                              17                respectively.
+                                                              18      SEC. 203. PROTECTION OF EMPLOYEE BENEFITS IN A SALE
+                                                              19                              OF ASSETS.
+                                                              20                Section 363(b) of title 11, United States Code, is
+                                                              21 amended by adding at the end the following:
+                                                              22                ‘‘(3) In approving a sale under this subsection, the
+                                                              23 court shall consider the extent to which a bidder has of-
+                                                              24 fered to maintain existing jobs, preserve terms and condi-
+jbell on DSK7SPTVN1PROD with                                  25 tions of employment, and assume or match pension and
+                                                                           •HR 100 IH
+
+                                                                                                                     21
+                                                                1 retiree health benefit obligations in determining whether
+                                                                2 an offer constitutes the highest or best offer for such prop-
+                                                                3 erty.’’.
+                                                                4     SEC. 204. CLAIM FOR PENSION LOSSES.
+                                                                5               Section 502 of title 11, United States Code, is
+                                                                6 amended by adding at the end the following:
+                                                                7               ‘‘(l) The court shall allow a claim asserted by an ac-
+                                                                8 tive or retired participant, or by a labor organization rep-
+                                                                9 resenting such participants, in a defined benefit plan ter-
+                                                              10 minated under section 4041 or 4042 of the Employee Re-
+                                                              11 tirement Income Security Act of 1974, for any shortfall
+                                                              12 in pension benefits accrued as of the effective date of the
+                                                              13 termination of such pension plan as a result of the termi-
+                                                              14 nation of the plan and limitations upon the payment of
+                                                              15 benefits imposed pursuant to section 4022 of such Act,
+                                                              16 notwithstanding any claim asserted and collected by the
+                                                              17 Pension Benefit Guaranty Corporation with respect to
+                                                              18 such termination.
+                                                              19                ‘‘(m) The court shall allow a claim of a kind described
+                                                              20 in section 101(5)(C) by an active or retired participant
+                                                              21 in a defined contribution plan (within the meaning of sec-
+                                                              22 tion 3(34) of the Employee Retirement Income Security
+                                                              23 Act of 1974 (29 U.S.C. 1002(34))), or by a labor organi-
+                                                              24 zation representing such participants. The amount of such
+jbell on DSK7SPTVN1PROD with                                  25 claim shall be measured by the market value of the stock
+                                                                           •HR 100 IH
+
+                                                                                                                     22
+                                                                1 at the time of contribution to, or purchase by, the plan
+                                                                2 and the value as of the commencement of the case.’’.
+                                                                3     SEC. 205. PAYMENTS BY SECURED LENDER.
+                                                                4               Section 506(c) of title 11, United States Code, is
+                                                                5 amended by adding at the end the following: ‘‘If employees
+                                                                6 have not received wages, accrued vacation, severance, or
+                                                                7 other benefits owed under the policies and practices of the
+                                                                8 debtor, or pursuant to the terms of a collective bargaining
+                                                                9 agreement, for services rendered on and after the date of
+                                                              10 the commencement of the case, then such unpaid obliga-
+                                                              11 tions shall be deemed necessary costs and expenses of pre-
+                                                              12 serving, or disposing of, property securing an allowed se-
+                                                              13 cured claim and shall be recovered even if the trustee has
+                                                              14 otherwise waived the provisions of this subsection under
+                                                              15 an agreement with the holder of the allowed secured claim
+                                                              16 or a successor or predecessor in interest.’’.
+                                                              17      SEC. 206. PRESERVATION OF JOBS AND BENEFITS.
+                                                              18                Title 11, United States Code, is amended—
+                                                              19                         (1) by inserting before section 1101 the fol-
+                                                              20                lowing:
+                                                              21      ‘‘SEC. 1100. STATEMENT OF PURPOSE.
+
+                                                              22                ‘‘A debtor commencing a case under this chapter
+                                                              23 shall have as its principal purpose the reorganization of
+                                                              24 its business to preserve going concern value to the max-
+jbell on DSK7SPTVN1PROD with                                  25 imum extent possible through the productive use of its as-
+                                                                           •HR 100 IH
+
+                                                                                                                     23
+                                                                1 sets and the preservation of jobs that will sustain produc-
+                                                                2 tive economic activity.’’;
+                                                                3                        (2) in section 1129(a), as amended by section
+                                                                4               104, by adding at the end the following:
+                                                                5                        ‘‘(18) The debtor has demonstrated that the re-
+                                                                6               organization preserves going concern value to the
+                                                                7               maximum extent possible through the productive use
+                                                                8               of the debtor’s assets and preserves jobs that sustain
+                                                                9               productive economic activity.’’;
+                                                              10                         (3) in section 1129(c), by striking the last sen-
+                                                              11                tence and inserting the following: ‘‘If the require-
+                                                              12                ments of subsections (a) and (b) are met with re-
+                                                              13                spect to more than 1 plan, the court shall, in deter-
+                                                              14                mining which plan to confirm—
+                                                              15                         ‘‘(1) consider the extent to which each plan
+                                                              16                would preserve going concern value through the pro-
+                                                              17                ductive use of the debtor’s assets and the preserva-
+                                                              18                tion of jobs that sustain productive economic activ-
+                                                              19                ity; and
+                                                              20                         ‘‘(2) confirm the plan that better serves such
+                                                              21                interests.
+                                                              22 A plan that incorporates the terms of a settlement with
+                                                              23 a labor organization representing employees of the debtor
+                                                              24 shall presumptively constitute the plan that satisfies this
+jbell on DSK7SPTVN1PROD with                                  25 subsection.’’; and
+                                                                           •HR 100 IH
+
+                                                                                                                     24
+                                                                1                        (4) in the table of sections for chapter 11, by
+                                                                2               inserting the following before the item relating to
+                                                                3               section 1101:
+                                                                      ‘‘1100. Statement of purpose.’’.
+                                                                4     SEC. 207. TERMINATION OF EXCLUSIVITY.
+                                                                5               Section 1121(d) of title 11, United States Code, is
+                                                                6 amended by adding at the end the following:
+                                                                7               ‘‘(3) For purposes of this subsection, cause for reduc-
+                                                                8 ing the 120-day period or the 180-day period includes the
+                                                              109 following:             ‘‘(A) The filing of a motion pursuant to section
+                                                              11                1113 seeking rejection of a collective bargaining
+                                                              12                agreement if a plan based upon an alternative pro-
+                                                              13                posal by the labor organization is reasonably likely
+                                                              14                to be confirmed within a reasonable time.
+                                                              15                         ‘‘(B) The proposed filing of a plan by a pro-
+                                                              16                ponent other than the debtor, which incorporates the
+                                                              17                terms of a settlement with a labor organization if
+                                                              18                such plan is reasonably likely to be confirmed within
+jbell on DSK7SPTVN1PROD with                                  19                a reasonable time.’’.
+                                                                           •HR 100 IH
+
+                                                                1     TITLE III—RESTRICTING EXECU-                 25
+                                                                2        TIVE COMPENSATION PRO-
+                                                                3        GRAMS
+                                                                4     SEC. 301. EXECUTIVE COMPENSATION UPON EXIT FROM
+                                                                5                             BANKRUPTCY.
+                                                                6               Section 1129(a) of title 11, United States Code, is
+                                                                7 amended—
+                                                                8                        (1) in paragraph (4), by adding at the end the
+                                                                9               following: ‘‘Except for compensation subject to re-
+                                                              10                view under paragraph (5), payments or other dis-
+                                                              11                tributions under the plan to or for the benefit of in-
+                                                              12                siders, senior executive officers, and any of the 20
+                                                              13                next most highly compensated employees or consult-
+                                                              14                ants providing services to the debtor, shall not be
+                                                              15                approved except as part of a program of payments
+                                                              16                or distributions generally applicable to employees of
+                                                              17                the debtor, and only to the extent that the court de-
+                                                              18                termines that such payments are not excessive or
+                                                              19                disproportionate compared to distributions to the
+                                                              20                debtor’s nonmanagement workforce.’’; and
+                                                              21                         (2) in paragraph (5)—
+                                                              22                                  (A) in subparagraph (A)(ii), by striking
+jbell on DSK7SPTVN1PROD with                                  23                         ‘‘and’’ at the end; and
+                                                                           •HR 100 IH
+
+                                                                                                                     26
+                                                                1                                 (B) in subparagraph (B), by striking the
+                                                                2                        period at the end and inserting the following: ‘‘;
+                                                                3                        and
+                                                                4                                 ‘‘(C) the compensation disclosed pursuant
+                                                                5                        to subparagraph (B) has been approved by, or
+                                                                6                        is subject to the approval of, the court as rea-
+                                                                7                        sonable when compared to individuals holding
+                                                                8                        comparable positions at comparable companies
+                                                                9                        in the same industry and not disproportionate
+                                                              10                         in light of economic concessions by the debtor’s
+                                                              11                         nonmanagement workforce during the case.’’.
+                                                              12      SEC. 302. LIMITATIONS ON EXECUTIVE COMPENSATION EN-
+                                                              13                              HANCEMENTS.
+                                                              14                Section 503(c) of title 11, United States Code, is
+                                                              15 amended—
+                                                              16                         (1) in paragraph (1)—
+                                                              17                                  (A) by inserting ‘‘, a senior executive offi-
+                                                              18                         cer, or any of the 20 next most highly com-
+                                                              19                         pensated employees or consultants’’ after ‘‘an
+                                                              20                         insider’’;
+                                                              21                                  (B) by inserting ‘‘or for the payment of
+                                                              22                         performance or incentive compensation, or a
+                                                              23                         bonus of any kind, or other financial returns
+                                                              24                         designed to replace or enhance incentive, stock,
+                                                              25
+jbell on DSK7SPTVN1PROD with
+
+
+
+
+                                                                                         or other compensation in effect before the date
+
+
+                                                                           •HR 100 IH
+
+                                                                                                                     27
+                                                                1                        of the commencement of the case,’’ after ‘‘re-
+                                                                2                        main with the debtor’s business,’’; and
+                                                                3                                 (C) by inserting ‘‘clear and convincing’’ be-
+                                                                4                        fore ‘‘evidence in the record’’; and
+                                                                5                        (2) by amending paragraph (3) to read as fol-
+                                                                6               lows:
+                                                                7                        ‘‘(3) other transfers or obligations, to or for the
+                                                                8               benefit of insiders, senior executive officers, man-
+                                                                9               agers, or consultants providing services to the debt-
+                                                              10                or, in the absence of a finding by the court, based
+                                                              11                upon clear and convincing evidence, and without def-
+                                                              12                erence to the debtor’s request for such payments,
+                                                              13                that such transfers or obligations are essential to the
+                                                              14                survival of the debtor’s business or (in the case of
+                                                              15                a liquidation of some or all of the debtor’s assets)
+                                                              16                essential to the orderly liquidation and maximization
+                                                              17                of value of the assets of the debtor, in either case,
+                                                              18                because of the essential nature of the services pro-
+                                                              19                vided, and then only to the extent that the court
+                                                              20                finds such transfers or obligations are reasonable
+                                                              21                compared to individuals holding comparable posi-
+                                                              22                tions at comparable companies in the same industry
+                                                              23                and not disproportionate in light of economic conces-
+                                                              24                sions by the debtor’s nonmanagement workforce dur-
+                                                              25
+jbell on DSK7SPTVN1PROD with
+
+
+
+
+                                                                                ing the case.’’.
+
+
+                                                                           •HR 100 IH
+
+                                                                                                                     28
+                                                                1     SEC. 303. ASSUMPTION OF EXECUTIVE BENEFIT PLANS.
+                                                                2               Section 365 of title 11, United States Code, is
+                                                                3 amended—
+                                                                4                        (1) in subsection (a), by striking ‘‘and (d)’’ and
+                                                                5               inserting ‘‘(d), (q), and (r)’’; and
+                                                                6                        (2) by adding at the end the following:
+                                                                7               ‘‘(q) No deferred compensation arrangement for the
+                                                                8 benefit of insiders, senior executive officers, or any of the
+                                                                9 20 next most highly compensated employees of the debtor
+                                                              10 shall be assumed if a defined benefit plan for employees
+                                                              11 of the debtor has been terminated pursuant to section
+                                                              12 4041 or 4042 of the Employee Retirement Income Secu-
+                                                              13 rity Act of 1974, on or after the date of the commence-
+                                                              14 ment of the case or within 180 days before the date of
+                                                              15 the commencement of the case.
+                                                              16                ‘‘(r) No plan, fund, program, or contract to provide
+                                                              17 retiree benefits for insiders, senior executive officers, or
+                                                              18 any of the 20 next most highly compensated employees
+                                                              19 of the debtor shall be assumed if the debtor has obtained
+                                                              20 relief under subsection (g) or (h) of section 1114 to impose
+                                                              21 reductions in retiree benefits or under subsection (d) or
+                                                              22 (e) of section 1113 to impose reductions in the health ben-
+                                                              23 efits of active employees of the debtor, or reduced or elimi-
+                                                              24 nated health benefits for active or retired employees within
+jbell on DSK7SPTVN1PROD with                                  25 180 days before the date of the commencement of the
+                                                              26 case.’’.
+                                                                           •HR 100 IH
+
+                                                                1     SEC. 304. RECOVERY OF EXECUTIVE COMPENSATION.  29
+                                                                2               Title 11, United States Code, is amended by inserting
+                                                                3 after section 562 the following:
+                                                                4     ‘‘SEC. 563. RECOVERY OF EXECUTIVE COMPENSATION.
+
+                                                                5               ‘‘(a) If a debtor has obtained relief under subsection
+                                                                6 (d) of section 1113, or subsection (g) of section 1114, by
+                                                                7 which the debtor reduces the cost of its obligations under
+                                                                8 a collective bargaining agreement or a plan, fund, or pro-
+                                                                9 gram for retiree benefits as defined in section 1114(a),
+                                                              10 the court, in granting relief, shall determine the percent-
+                                                              11 age diminution in the value of the obligations when com-
+                                                              12 pared to the debtor’s obligations under the collective bar-
+                                                              13 gaining agreement, or with respect to retiree benefits, as
+                                                              14 of the date of the commencement of the case under this
+                                                              15 title before granting such relief. In making its determina-
+                                                              16 tion, the court shall include reductions in benefits, if any,
+                                                              17 as a result of the termination pursuant to section 4041
+                                                              18 or 4042 of the Employee Retirement Income Security Act
+                                                              19 of 1974, of a defined benefit plan administered by the
+                                                              20 debtor, or for which the debtor is a contributing employer,
+                                                              21 effective at any time on or after 180 days before the date
+                                                              22 of the commencement of a case under this title. The court
+                                                              23 shall not take into account pension benefits paid or pay-
+                                                              24 able under such Act as a result of any such termination.
+jbell on DSK7SPTVN1PROD with                                  25                ‘‘(b) If a defined benefit pension plan administered
+                                                              26 by the debtor, or for which the debtor is a contributing
+                                                                           •HR 100 IH
+
+                                                                                                                     30
+                                                                1 employer, has been terminated pursuant to section 4041
+                                                                2 or 4042 of the Employee Retirement Income Security Act
+                                                                3 of 1974, effective at any time on or after 180 days before
+                                                                4 the date of the commencement of a case under this title,
+                                                                5 but a debtor has not obtained relief under subsection (d)
+                                                                6 of section 1113, or subsection (g) of section 1114, then
+                                                                7 the court, upon motion of a party in interest, shall deter-
+                                                                8 mine the percentage diminution in the value of benefit ob-
+                                                                9 ligations when compared to the total benefit liabilities be-
+                                                              10 fore such termination. The court shall not take into ac-
+                                                              11 count pension benefits paid or payable under title IV of
+                                                              12 the Employee Retirement Income Security Act of 1974 as
+                                                              13 a result of any such termination.
+                                                              14                ‘‘(c) Upon the determination of the percentage dimi-
+                                                              15 nution in value under subsection (a) or (b), the estate shall
+                                                              16 have a claim for the return of the same percentage of the
+                                                              17 compensation paid, directly or indirectly (including any
+                                                              18 transfer to a self-settled trust or similar device, or to a
+                                                              19 nonqualified deferred compensation plan under section
+                                                              20 409A(d)(1) of the Internal Revenue Code of 1986) to any
+                                                              21 officer of the debtor serving as member of the board of
+                                                              22 directors of the debtor within the year before the date of
+                                                              23 the commencement of the case, and any individual serving
+                                                              24 as chairman or lead director of the board of directors at
+jbell on DSK7SPTVN1PROD with                                  25 the time of the granting of relief under section 1113 or
+                                                                           •HR 100 IH
+
+                                                                                                                     31
+                                                                1 1114 or, if no such relief has been granted, the termi-
+                                                                2 nation of the defined benefit plan.
+                                                                3               ‘‘(d) The trustee or a committee appointed pursuant
+                                                                4 to section 1102 may commence an action to recover such
+                                                                5 claims, except that if neither the trustee nor such com-
+                                                                6 mittee commences an action to recover such claim by the
+                                                                7 first date set for the hearing on the confirmation of plan
+                                                                8 under section 1129, any party in interest may apply to
+                                                                9 the court for authority to recover such claim for the ben-
+                                                              10 efit of the estate. The costs of recovery shall be borne by
+                                                              11 the estate.
+                                                              12                ‘‘(e) The court shall not award postpetition com-
+                                                              13 pensation under section 503(c) or otherwise to any person
+                                                              14 subject to subsection (c) if there is a reasonable likelihood
+                                                              15 that such compensation is intended to reimburse or re-
+                                                              16 place compensation recovered by the estate under this sec-
+                                                              17 tion.’’.
+                                                              18      SEC. 305. PREFERENTIAL COMPENSATION TRANSFER.
+                                                              19                Section 547 of title 11, United States Code, is
+                                                              20 amended by adding at the end the following:
+                                                              21                ‘‘(j) The trustee may avoid a transfer to or for the
+                                                              22 benefit of an insider (including an obligation incurred for
+                                                              23 the benefit of an insider under an employment contract)
+                                                              24 made in anticipation of bankruptcy, or a transfer made
+jbell on DSK7SPTVN1PROD with                                  25 in anticipation of bankruptcy to a consultant who is for-
+                                                                           •HR 100 IH
+
+                                                                                                                     32
+                                                                1 merly an insider and who is retained to provide services
+                                                                2 to an entity that becomes a debtor (including an obligation
+                                                                3 under a contract to provide services to such entity or to
+                                                                4 a debtor) made or incurred on or within 1 year before the
+                                                                5 filing of the petition. No provision of subsection (c) shall
+                                                                6 constitute a defense against the recovery of such transfer.
+                                                                7 The trustee or a committee appointed pursuant to section
+                                                                8 1102 may commence an action to recover such transfer,
+                                                                9 except that, if neither the trustee nor such committee com-
+                                                              10 mences an action to recover such transfer by the time of
+                                                              11 the commencement of a hearing on the confirmation of
+                                                              12 a plan under section 1129, any party in interest may apply
+                                                              13 to the court for authority to recover the claims for the
+                                                              14 benefit of the estate. The costs of recovery shall be borne
+                                                              15 by the estate.’’.
+                                                              16           TITLE IV—OTHER PROVISIONS
+                                                              17      SEC. 401. UNION PROOF OF CLAIM.
+                                                              18                Section 501(a) of title 11, United States Code, is
+                                                              19 amended by inserting ‘‘, including a labor organization,’’
+                                                              20 after ‘‘A creditor’’.
+                                                              21      SEC. 402. EXCEPTION FROM AUTOMATIC STAY.
+                                                              22                Section 362(b) of title 11, United States Code, is
+                                                              23 amended—
+                                                              24                         (1) in paragraph (27), by striking ‘‘and’’ at the
+                                                              25
+jbell on DSK7SPTVN1PROD with
+
+
+
+
+                                                                                end;
+
+
+                                                                           •HR 100 IH
+
+                                                                                                                     33
+                                                                1                        (2) in paragraph (28), by striking the period at
+                                                                2               the end and inserting ‘‘; and’’; and
+                                                                3                        (3) by adding at the end the following:
+                                                                4                        ‘‘(29) of the commencement or continuation of
+                                                                5               a grievance, arbitration, or similar dispute resolution
+                                                                6               proceeding established by a collective bargaining
+                                                                7               agreement that was or could have been commenced
+                                                                8               against the debtor before the filing of a case under
+                                                                9               this title, or the payment or enforcement of an
+                                                              10                award or settlement under such proceeding.’’.
+                                                                                                                         Æ
+jbell on DSK7SPTVN1PROD with
+
+
+
+
+                                                                           •HR 100 IH
+

@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 gem 'rails', '3.2.12'
-gem 'rake', '10.0.3'
+gem 'rake'
+
 gem 'thin'
 gem 'multi_json', '1.7.0'
 gem "settingslogic"
@@ -8,7 +9,9 @@ gem 'sunspot_solr'
 gem 'ruby-openid'
 gem 'rack-contrib'
 gem 'rack-openid'
-gem "facebooker2"
+
+# memcache
+gem 'memcache-client'
 
 # RMagick
 gem 'rmagick', '2.13.1'
@@ -24,10 +27,7 @@ gem 'mysql'
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
   gem 'coffee-rails', '~> 3.2.1'
-
-  # See https://github.com/sstephenson/execjs#readme for more supported runtimes
-  # gem 'therubyracer', :platforms => :ruby
-
+  gem 'compass'
   gem 'uglifier', '>= 1.0.3'
 end
 
@@ -47,7 +47,8 @@ gem "nokogiri"
 gem "acts_as_solr", "~> 1.3.3"
 # spam protection
 gem "defender"
-
+# RABL for API / JSON
+gem 'rabl'
 group :deployment do
   gem 'capistrano'
   gem 'capistrano-ext'
@@ -69,13 +70,58 @@ gem 'will_paginate', '~> 3.0.pre2'
 gem "validates_captcha" 
 gem "acts-as-taggable-on"
 
+# Background tasks
+gem 'delayed_job', '~> 2.1'
+
+# HAML support
+gem "haml"
+gem "haml-rails"
+
+# Image uploads
+gem 'carrierwave'
+gem 'fog'
+
+gem "closure-compiler"
+
+# paperclip -- for attaching files to requests
+gem 'paperclip'
+
+
+# notifier for production errors
+gem "airbrake"
+gem "xray", :require => "xray/thread_dump_signal_handler"
+
+# new relic RPM
+gem 'newrelic_rpm'
+
+# oauth
+gem 'oauth'
+gem 'facebooker2'
+
+gem 'will_paginate', '~> 3.0.pre2'
+
+gem "validates_captcha"
+gem "okkez-open_id_authentication"
+
+gem "acts-as-taggable-on"
+
+gem 'mechanize'
+#gem 'formageddon', '0.0.0', :require => 'formageddon', :path => '/Users/aross/Sites/formageddon'
+gem 'formageddon', :git => 'git://github.com/opencongress/formageddon.git'
+
 
 group :test, :development do
+  gem 'autotest'
   gem 'silent-postgres'	# Quieter postgres log messages
 
   gem 'rspec-rails', '~> 2.4'
+  gem 'cucumber'
   gem 'webrat'
   gem 'selenium-client'
-  gem 'capybara'
-end
 
+  gem 'capybara'
+
+  
+  gem 'guard'
+  gem 'guard-livereload'
+end

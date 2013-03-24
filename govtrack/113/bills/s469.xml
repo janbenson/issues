@@ -1,0 +1,25 @@
+<bill session="113" type="s" number="469" updated="2013-03-12T04:45:35-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="official">A bill to assist the Secretary of Housing and Urban Development in stabilizing the Home Equity Conversion Mortgage program.</title>
+  </titles>
+  <sponsor id="400272"/>
+  <cosponsors>
+    <cosponsor id="412223" joined="2013-03-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

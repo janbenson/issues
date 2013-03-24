@@ -1,0 +1,111 @@
+<bill session="113" type="s" number="17" updated="2013-03-21T09:49:05-04:00">
+  <state datetime="2013-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-27"/>
+  </status>
+  <introduced datetime="2013-02-27"/>
+  <titles>
+    <title as="introduced" type="short">Energy Production and Project Delivery Act of 2013</title>
+    <title as="introduced" type="official">A bill to stimulate the economy, produce domestic energy, and create jobs at no cost to the taxpayers, and without borrowing money from foreign governments for which our children and grandchildren will be responsible, and for other purposes.</title>
+  </titles>
+  <sponsor id="400418"/>
+  <cosponsors>
+    <cosponsor id="412251" joined="2013-02-27"/>
+    <cosponsor id="400034" joined="2013-02-27"/>
+    <cosponsor id="400040" joined="2013-03-05"/>
+    <cosponsor id="300021" joined="2013-02-27"/>
+    <cosponsor id="402675" joined="2013-02-27"/>
+    <cosponsor id="300023" joined="2013-02-27"/>
+    <cosponsor id="300027" joined="2013-02-27"/>
+    <cosponsor id="300030" joined="2013-02-27"/>
+    <cosponsor id="412573" joined="2013-02-27"/>
+    <cosponsor id="300041" joined="2013-02-27"/>
+    <cosponsor id="300052" joined="2013-03-20"/>
+    <cosponsor id="412218" joined="2013-02-27"/>
+    <cosponsor id="412494" joined="2013-02-27"/>
+    <cosponsor id="300055" joined="2013-02-27"/>
+    <cosponsor id="400194" joined="2013-02-27"/>
+    <cosponsor id="412320" joined="2013-02-27"/>
+    <cosponsor id="412496" joined="2013-02-27"/>
+    <cosponsor id="412495" joined="2013-02-27"/>
+    <cosponsor id="412322" joined="2013-02-27"/>
+    <cosponsor id="300088" joined="2013-02-27"/>
+    <cosponsor id="300089" joined="2013-02-27"/>
+    <cosponsor id="400408" joined="2013-02-27"/>
+    <cosponsor id="400432" joined="2013-02-27"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-27">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="163"/>
+    <bill relation="unknown" session="113" type="s" number="176"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Air quality"/>
+    <term name="Alaska"/>
+    <term name="Arctic Ocean"/>
+    <term name="Asia"/>
+    <term name="Atlantic Ocean"/>
+    <term name="Buy American requirements"/>
+    <term name="California"/>
+    <term name="Canada"/>
+    <term name="China"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of the Interior"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Energy prices"/>
+    <term name="Energy revenues and royalties"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Federal appellate courts"/>
+    <term name="Federal district courts"/>
+    <term name="Fires"/>
+    <term name="Floods and storm protection"/>
+    <term name="Gulf of Mexico"/>
+    <term name="India"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Jurisdiction and venue"/>
+    <term name="Labor-management relations"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Licensing and registrations"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Montana"/>
+    <term name="Monuments and memorials"/>
+    <term name="Nebraska"/>
+    <term name="Oil and gas"/>
+    <term name="Pacific Ocean"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Pipelines"/>
+    <term name="Pollution liability"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="Public utilities and utility rates"/>
+    <term name="Roads and highways"/>
+    <term name="Russia"/>
+    <term name="Seafood"/>
+    <term name="Seashores and lakeshores"/>
+    <term name="South Dakota"/>
+    <term name="State and local government operations"/>
+    <term name="Trade restrictions"/>
+    <term name="Water use and supply"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

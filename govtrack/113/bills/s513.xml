@@ -1,0 +1,23 @@
+<bill session="113" type="s" number="513" updated="2013-03-12T04:45:38-04:00">
+  <state datetime="2013-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-11"/>
+  </status>
+  <introduced datetime="2013-03-11"/>
+  <titles>
+    <title as="introduced" type="official">A bill to clarify the role of the Cherokee Nation of Oklahoma regarding the maintenance of the W.D. Mayo Lock and Dam in the State of Oklahoma.</title>
+  </titles>
+  <sponsor id="300055"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-11">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

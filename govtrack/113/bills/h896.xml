@@ -1,0 +1,51 @@
+<bill session="113" type="h" number="896" updated="2013-03-22T04:46:30-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">Quality Care for Moms and Babies Act</title>
+    <title as="introduced" type="official">To amend title XI of the Social Security Act to improve the quality, health outcomes, and value of maternity care under the Medicaid and CHIP programs by developing maternity care quality measures and supporting maternity care quality collaboratives.</title>
+  </titles>
+  <sponsor id="400122"/>
+  <cosponsors>
+    <cosponsor id="400008" joined="2013-03-13"/>
+    <cosponsor id="400033" joined="2013-03-21"/>
+    <cosponsor id="400048" joined="2013-03-06"/>
+    <cosponsor id="400074" joined="2013-03-13"/>
+    <cosponsor id="412215" joined="2013-03-13"/>
+    <cosponsor id="412209" joined="2013-03-20"/>
+    <cosponsor id="412297" joined="2013-03-13"/>
+    <cosponsor id="400253" joined="2013-03-13"/>
+    <cosponsor id="400661" joined="2013-03-06"/>
+    <cosponsor id="412506" joined="2013-03-19"/>
+    <cosponsor id="400350" joined="2013-03-13"/>
+    <cosponsor id="412259" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="425"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Government information and archives"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care quality"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medicaid"/>
+    <term name="State and local government operations"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+</bill>

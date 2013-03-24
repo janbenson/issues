@@ -1,0 +1,42 @@
+<bill session="113" type="s" number="410" updated="2013-03-16T06:18:42-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">Wall Street Trading and Speculators Tax Act</title>
+    <title as="introduced" type="official">A bill to amend the Internal Revenue Code of 1986 to impose a tax on certain trading transactions.</title>
+  </titles>
+  <sponsor id="300051"/>
+  <cosponsors>
+    <cosponsor id="400357" joined="2013-02-28"/>
+    <cosponsor id="412247" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="880"/>
+    <bill relation="unknown" session="113" type="s" number="277"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Commodities markets"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Foreign and international corporations"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Income tax credits"/>
+    <term name="Income tax deferral"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Securities"/>
+    <term name="Student aid and college costs"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+</bill>

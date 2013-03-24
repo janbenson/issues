@@ -1,0 +1,40 @@
+<bill session="113" type="h" number="1040" updated="2013-03-21T15:46:11-04:00">
+  <state datetime="2013-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-11"/>
+  </status>
+  <introduced datetime="2013-03-11"/>
+  <titles>
+    <title as="introduced" type="short">Flat Tax Act</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to provide taxpayers a flat tax alternative to the current income tax system.</title>
+  </titles>
+  <sponsor id="400052"/>
+  <cosponsors>
+    <cosponsor id="400077" joined="2013-03-11"/>
+    <cosponsor id="400137" joined="2013-03-11"/>
+    <cosponsor id="412434" joined="2013-03-21"/>
+    <cosponsor id="400209" joined="2013-03-12"/>
+    <cosponsor id="412510" joined="2013-03-21"/>
+    <cosponsor id="400279" joined="2013-03-19"/>
+    <cosponsor id="412310" joined="2013-03-21"/>
+    <cosponsor id="412411" joined="2013-03-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-11">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-11">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-03-11">
+      <text>Referred to House Rules</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

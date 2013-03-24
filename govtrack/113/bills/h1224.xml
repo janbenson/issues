@@ -1,0 +1,34 @@
+<bill session="113" type="h" number="1224" updated="2013-03-16T04:47:05-04:00">
+  <state datetime="2013-03-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-15"/>
+  </status>
+  <introduced datetime="2013-03-15"/>
+  <titles>
+    <title as="introduced" type="official">To provide for the award of a gold medal on behalf of Congress posthumously to Father Mychal Judge, O.F.M., beloved Chaplain of the Fire Department of New York who passed away as the first recorded victim of the September 11, 2001, attacks in recognition of his example to the Nation of selfless dedication to duty and compassion for one's fellow citizens.</title>
+  </titles>
+  <sponsor id="400219"/>
+  <cosponsors>
+    <cosponsor id="400087" joined="2013-03-15"/>
+    <cosponsor id="412453" joined="2013-03-15"/>
+    <cosponsor id="412451" joined="2013-03-15"/>
+    <cosponsor id="400641" joined="2013-03-15"/>
+    <cosponsor id="400195" joined="2013-03-15"/>
+    <cosponsor id="412468" joined="2013-03-15"/>
+    <cosponsor id="400333" joined="2013-03-15"/>
+    <cosponsor id="412449" joined="2013-03-15"/>
+    <cosponsor id="400378" joined="2013-03-15"/>
+    <cosponsor id="400435" joined="2013-03-15"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-15">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

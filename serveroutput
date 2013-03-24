@@ -1,0 +1,1033 @@
+Requiring REXML
+=> Booting Thin
+=> Rails 3.2.12 application starting in development on http://0.0.0.0:3000
+=> Call with -d to detach
+=> Ctrl-C to shutdown server
+>> Thin web server (v1.5.1 codename Straight Razor)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:3000, CTRL+C to stop
+
+
+Started GET "/issues" for 127.0.0.1 at 2013-03-24 15:04:10 -0700
+Processing by IssuesController#index as HTML
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from column_definitions_with_silencer at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from column_definitions_with_silencer at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from table_exists_with_silencer? at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from table_exists_with_silencer? at (eval):2)
+  [1m[36mSiteTextPage Load (1.8ms)[0m  [1mSELECT "site_text_pages".* FROM "site_text_pages" WHERE "site_text_pages"."page_params" = 'action=index&controller=issues&id=&person_type=&commentary_type=' LIMIT 1[0m
+WARNING: oc_wiki configuration is not specified in database.yml
+DEPRECATION WARNING: Calling set_table_name is deprecated. Please use `self.table_name = 'the_name'` instead. (called from <class:Wiki> at /home/jan/ruby/issues/lib/wiki_connection.rb:14)
+  [1m[35mBill Load (4.6ms)[0m  SELECT bills.*, 
+ most_viewed.view_count AS view_count 
+ FROM bills 
+ INNER JOIN
+ (SELECT object_aggregates.aggregatable_id,
+ sum(object_aggregates.page_views_count) AS view_count
+ FROM object_aggregates 
+ WHERE object_aggregates.date >= '2013-03-17 22:04:12.053288' AND
+ object_aggregates.aggregatable_type = 'Bill'
+ GROUP BY object_aggregates.aggregatable_id
+ ORDER BY view_count DESC) most_viewed
+ ON bills.id=most_viewed.aggregatable_id
+ WHERE bills.session=113
+ ORDER BY view_count DESC LIMIT 5
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from table_exists_with_silencer? at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from table_exists_with_silencer? at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from column_definitions_with_silencer at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from column_definitions_with_silencer at (eval):2)
+  [1m[36mBill Load (1.1ms)[0m  [1mSELECT "bills".* FROM "bills" ORDER BY introduced DESC LIMIT 5[0m
+  [1m[35mPerson Load (30.5ms)[0m  SELECT people.*, 
+ COALESCE(person_approvals.person_approval_avg, 0) as person_approval_average,
+ COALESCE(bills_sponsored.sponsored_bills_count, 0) as sponsored_bills_count,
+ COALESCE(people.total_session_votes, 0) as total_roll_call_votes,
+ CASE WHEN people.party = 'Democrat' THEN COALESCE(people.votes_democratic_position, 0)
+ WHEN people.party = 'Republican' THEN COALESCE(people.votes_republican_position, 0)
+ ELSE 0
+ END as party_roll_call_votes,
+ COALESCE(aggregates.view_count, 0) as view_count,
+ COALESCE(aggregates.blog_count, 0) as blog_count,
+ COALESCE(aggregates.news_count, 0) as news_count
+ FROM people
+ LEFT OUTER JOIN roles on roles.person_id=people.id 
+ LEFT OUTER JOIN (select person_approvals.person_id as person_approval_id, 
+ count(person_approvals.id) as person_approval_count, 
+ avg(person_approvals.rating) as person_approval_avg 
+ FROM person_approvals
+ GROUP BY person_approval_id) person_approvals
+ ON person_approval_id = people.id
+ 
+ LEFT OUTER JOIN (select sponsor_id, count(id) as sponsored_bills_count
+ FROM bills
+ WHERE bills.session = 113
+ GROUP BY sponsor_id) bills_sponsored
+ ON bills_sponsored.sponsor_id = people.id
+ LEFT OUTER JOIN (SELECT object_aggregates.aggregatable_id,
+ sum(object_aggregates.page_views_count) as view_count, 
+ sum(object_aggregates.blog_articles_count) as blog_count,
+ sum(object_aggregates.news_articles_count) as news_count
+ FROM object_aggregates 
+ WHERE object_aggregates.date >= current_timestamp - interval '1 days' AND
+ object_aggregates.aggregatable_type = 'Person'
+ GROUP BY object_aggregates.aggregatable_id
+ ORDER BY view_count DESC) aggregates
+ ON people.id=aggregates.aggregatable_id 			 
+ WHERE roles.role_type = 'sen' AND ((roles.startdate <= '2013-03-24' AND roles.enddate >= '2013-03-24') OR roles.startdate = '2013-01-03') ORDER BY view_count desc LIMIT 5;
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from table_exists_with_silencer? at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from table_exists_with_silencer? at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from column_definitions_with_silencer at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from column_definitions_with_silencer at (eval):2)
+  [1m[36mPerson Load (59.6ms)[0m  [1mSELECT people.*, 
+ COALESCE(person_approvals.person_approval_avg, 0) as person_approval_average,
+ COALESCE(bills_sponsored.sponsored_bills_count, 0) as sponsored_bills_count,
+ COALESCE(people.total_session_votes, 0) as total_roll_call_votes,
+ CASE WHEN people.party = 'Democrat' THEN COALESCE(people.votes_democratic_position, 0)
+ WHEN people.party = 'Republican' THEN COALESCE(people.votes_republican_position, 0)
+ ELSE 0
+ END as party_roll_call_votes,
+ COALESCE(aggregates.view_count, 0) as view_count,
+ COALESCE(aggregates.blog_count, 0) as blog_count,
+ COALESCE(aggregates.news_count, 0) as news_count
+ FROM people
+ LEFT OUTER JOIN roles on roles.person_id=people.id 
+ LEFT OUTER JOIN (select person_approvals.person_id as person_approval_id, 
+ count(person_approvals.id) as person_approval_count, 
+ avg(person_approvals.rating) as person_approval_avg 
+ FROM person_approvals
+ GROUP BY person_approval_id) person_approvals
+ ON person_approval_id = people.id
+ 
+ LEFT OUTER JOIN (select sponsor_id, count(id) as sponsored_bills_count
+ FROM bills
+ WHERE bills.session = 113
+ GROUP BY sponsor_id) bills_sponsored
+ ON bills_sponsored.sponsor_id = people.id
+ LEFT OUTER JOIN (SELECT object_aggregates.aggregatable_id,
+ sum(object_aggregates.page_views_count) as view_count, 
+ sum(object_aggregates.blog_articles_count) as blog_count,
+ sum(object_aggregates.news_articles_count) as news_count
+ FROM object_aggregates 
+ WHERE object_aggregates.date >= current_timestamp - interval '1 days' AND
+ object_aggregates.aggregatable_type = 'Person'
+ GROUP BY object_aggregates.aggregatable_id
+ ORDER BY view_count DESC) aggregates
+ ON people.id=aggregates.aggregatable_id 			 
+ WHERE roles.role_type = 'rep' AND ((roles.startdate <= '2013-03-24' AND roles.enddate >= '2013-03-24') OR roles.startdate = '2013-01-03') ORDER BY view_count desc LIMIT 5;[0m
+  [1m[35mSubject Load (8.0ms)[0m  SELECT subjects.*, 
+ most_viewed.view_count AS view_count 
+ FROM subjects 
+ INNER JOIN
+ (SELECT object_aggregates.aggregatable_id,
+ sum(object_aggregates.page_views_count) AS view_count
+ FROM object_aggregates 
+ WHERE object_aggregates.date >= '2013-03-17 22:04:12.732197' AND
+ object_aggregates.aggregatable_type = 'Subject'
+ GROUP BY object_aggregates.aggregatable_id
+ ORDER BY view_count DESC) most_viewed
+ ON subjects.id=most_viewed.aggregatable_id
+ 
+ ORDER BY view_count DESC LIMIT 5
+DEPRECATION WARNING: Calling set_table_name is deprecated. Please use `self.table_name = 'the_name'` instead. (called from <class:FeaturedPerson> at /home/jan/ruby/issues/app/models/featured_person.rb:2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from column_definitions_with_silencer at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from column_definitions_with_silencer at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from table_exists_with_silencer? at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from table_exists_with_silencer? at (eval):2)
+  [1m[36mSQL (2.9ms)[0m  [1mSELECT "featured_people"."id" AS t0_r0, "featured_people"."person_id" AS t0_r1, "featured_people"."text" AS t0_r2, "featured_people"."updated_at" AS t0_r3, "featured_people"."created_at" AS t0_r4, "people"."id" AS t1_r0, "people"."firstname" AS t1_r1, "people"."middlename" AS t1_r2, "people"."lastname" AS t1_r3, "people"."nickname" AS t1_r4, "people"."birthday" AS t1_r5, "people"."gender" AS t1_r6, "people"."religion" AS t1_r7, "people"."url" AS t1_r8, "people"."party" AS t1_r9, "people"."osid" AS t1_r10, "people"."bioguideid" AS t1_r11, "people"."title" AS t1_r12, "people"."state" AS t1_r13, "people"."district" AS t1_r14, "people"."name" AS t1_r15, "people"."email" AS t1_r16, "people"."fti_names" AS t1_r17, "people"."user_approval" AS t1_r18, "people"."biography" AS t1_r19, "people"."unaccented_name" AS t1_r20, "people"."metavid_id" AS t1_r21, "people"."youtube_id" AS t1_r22, "people"."website" AS t1_r23, "people"."congress_office" AS t1_r24, "people"."phone" AS t1_r25, "people"."fax" AS t1_r26, "people"."contact_webform" AS t1_r27, "people"."sunlight_nickname" AS t1_r28, "people"."watchdog_id" AS t1_r29, "people"."page_views_count" AS t1_r30, "people"."news_article_count" AS t1_r31, "people"."blog_article_count" AS t1_r32, "people"."total_session_votes" AS t1_r33, "people"."votes_democratic_position" AS t1_r34, "people"."votes_republican_position" AS t1_r35 FROM "featured_people" LEFT OUTER JOIN "people" ON "people"."id" = "featured_people"."person_id" WHERE (people.title='Sen.') ORDER BY featured_people.created_at DESC LIMIT 1[0m
+  [1m[35mSQL (1.5ms)[0m  SELECT "featured_people"."id" AS t0_r0, "featured_people"."person_id" AS t0_r1, "featured_people"."text" AS t0_r2, "featured_people"."updated_at" AS t0_r3, "featured_people"."created_at" AS t0_r4, "people"."id" AS t1_r0, "people"."firstname" AS t1_r1, "people"."middlename" AS t1_r2, "people"."lastname" AS t1_r3, "people"."nickname" AS t1_r4, "people"."birthday" AS t1_r5, "people"."gender" AS t1_r6, "people"."religion" AS t1_r7, "people"."url" AS t1_r8, "people"."party" AS t1_r9, "people"."osid" AS t1_r10, "people"."bioguideid" AS t1_r11, "people"."title" AS t1_r12, "people"."state" AS t1_r13, "people"."district" AS t1_r14, "people"."name" AS t1_r15, "people"."email" AS t1_r16, "people"."fti_names" AS t1_r17, "people"."user_approval" AS t1_r18, "people"."biography" AS t1_r19, "people"."unaccented_name" AS t1_r20, "people"."metavid_id" AS t1_r21, "people"."youtube_id" AS t1_r22, "people"."website" AS t1_r23, "people"."congress_office" AS t1_r24, "people"."phone" AS t1_r25, "people"."fax" AS t1_r26, "people"."contact_webform" AS t1_r27, "people"."sunlight_nickname" AS t1_r28, "people"."watchdog_id" AS t1_r29, "people"."page_views_count" AS t1_r30, "people"."news_article_count" AS t1_r31, "people"."blog_article_count" AS t1_r32, "people"."total_session_votes" AS t1_r33, "people"."votes_democratic_position" AS t1_r34, "people"."votes_republican_position" AS t1_r35 FROM "featured_people" LEFT OUTER JOIN "people" ON "people"."id" = "featured_people"."person_id" WHERE (people.title='Rep.') ORDER BY featured_people.created_at DESC LIMIT 1
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from column_definitions_with_silencer at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from column_definitions_with_silencer at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from table_exists_with_silencer? at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from table_exists_with_silencer? at (eval):2)
+  [1m[36mCongressSession Load (1.4ms)[0m  [1mSELECT "congress_sessions".* FROM "congress_sessions" WHERE (date >='2013-03-24' AND chamber='house' AND is_in_session='t') LIMIT 1[0m
+  [1m[35mCongressSession Load (0.8ms)[0m  SELECT "congress_sessions".* FROM "congress_sessions" WHERE (date >='2013-03-24' AND chamber='senate' AND is_in_session='t') LIMIT 1
+  [1m[36mCongressSession Load (0.7ms)[0m  [1mSELECT "congress_sessions".* FROM "congress_sessions" WHERE (chamber='recess') LIMIT 1[0m
+  Rendered shared/_notices.html.erb (1.2ms)
+  Rendered layouts/_user_nav.html.erb (0.9ms)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from column_definitions_with_silencer at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from column_definitions_with_silencer at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from table_exists_with_silencer? at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from table_exists_with_silencer? at (eval):2)
+  [1m[35mBillTitle Load (2.0ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 63
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from column_definitions_with_silencer at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from column_definitions_with_silencer at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from table_exists_with_silencer? at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from table_exists_with_silencer? at (eval):2)
+  [1m[36mAction Load (1.6ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 63 ORDER BY actions.datetime ASC[0m
+  [1m[35mAction Load (1.1ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 63 ORDER BY actions.date DESC LIMIT 1
+  [1m[36mBillTitle Load (0.9ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 187[0m
+  [1m[35mAction Load (1.5ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 187 ORDER BY actions.datetime ASC
+  [1m[36mAction Load (0.9ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 187 ORDER BY actions.date DESC LIMIT 1[0m
+  [1m[35mBillTitle Load (1.0ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 593
+  [1m[36mAction Load (1.0ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 593 ORDER BY actions.datetime ASC[0m
+  [1m[35mAction Load (1.0ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 593 ORDER BY actions.date DESC LIMIT 1
+  [1m[36mBillTitle Load (1.0ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 100[0m
+  [1m[35mAction Load (1.0ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 100 ORDER BY actions.datetime ASC
+  [1m[36mAction Load (0.9ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 100 ORDER BY actions.date DESC LIMIT 1[0m
+  [1m[35mBillTitle Load (1.0ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 123
+  [1m[36mAction Load (0.9ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 123 ORDER BY actions.datetime ASC[0m
+  [1m[35mAction Load (0.9ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 123 ORDER BY actions.date DESC LIMIT 1
+  Rendered issues/_bill.html.erb (638.4ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 63[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 63 ORDER BY actions.datetime ASC
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 63 ORDER BY actions.date DESC LIMIT 1[0m
+  [1m[35mBillTitle Load (0.9ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 67
+  [1m[36mAction Load (1.2ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 67 ORDER BY actions.datetime ASC[0m
+  [1m[35mAction Load (1.0ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 67 ORDER BY actions.date DESC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 100[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 100 ORDER BY actions.datetime ASC
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 100 ORDER BY actions.date DESC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 123
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 123 ORDER BY actions.datetime ASC[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 123 ORDER BY actions.date DESC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 187[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 187 ORDER BY actions.datetime ASC
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 187 ORDER BY actions.date DESC LIMIT 1[0m
+  Rendered issues/_bill.html.erb (30.7ms)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from column_definitions_with_silencer at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from column_definitions_with_silencer at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from table_exists_with_silencer? at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from table_exists_with_silencer? at (eval):2)
+  [1m[35mRole Load (1.8ms)[0m  SELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400034 ORDER BY roles.startdate DESC
+  [1m[36mRole Load (1.1ms)[0m  [1mSELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400040 ORDER BY roles.startdate DESC[0m
+  [1m[35mRole Load (1.1ms)[0m  SELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400050 ORDER BY roles.startdate DESC
+  [1m[36mRole Load (1.0ms)[0m  [1mSELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400054 ORDER BY roles.startdate DESC[0m
+  [1m[35mRole Load (1.0ms)[0m  SELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400013 ORDER BY roles.startdate DESC
+  Rendered issues/_person.html.erb (98.3ms)
+  [1m[36mRole Load (0.9ms)[0m  [1mSELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 412585 ORDER BY roles.startdate DESC[0m
+  [1m[35mRole Load (1.0ms)[0m  SELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400158 ORDER BY roles.startdate DESC
+  [1m[36mRole Load (1.1ms)[0m  [1mSELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400310 ORDER BY roles.startdate DESC[0m
+  [1m[35mRole Load (1.0ms)[0m  SELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 412302 ORDER BY roles.startdate DESC
+  [1m[36mRole Load (0.9ms)[0m  [1mSELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 412584 ORDER BY roles.startdate DESC[0m
+  Rendered issues/_person.html.erb (17.9ms)
+  Rendered issues/_issue.html.erb (0.0ms)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from table_exists_with_silencer? at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from table_exists_with_silencer? at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from column_definitions_with_silencer at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from column_definitions_with_silencer at (eval):2)
+  [1m[35mArticle Load (3.0ms)[0m  SELECT "articles".* FROM "articles" WHERE (frontpage = true) ORDER BY created_at DESC LIMIT 7
+  Rendered articles/_frontpage.html.erb (9.5ms)
+  [1m[36mRollCall Load (3.1ms)[0m  [1mSELECT * FROM roll_calls WHERE id IN 
+ (SELECT max(id) AS roll_id FROM roll_calls
+ WHERE bill_id IS NOT NULL
+ GROUP BY bill_id ORDER BY roll_id DESC LIMIT 5)
+ AND bill_id IS NOT NULL
+ ORDER BY date DESC;[0m
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from table_exists_with_silencer? at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from table_exists_with_silencer? at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from column_definitions_with_silencer at (eval):2)
+DEPRECATION WARNING: silence is deprecated and will be removed from Rails 4.0. (called from column_definitions_with_silencer at (eval):2)
+  [1m[35mBill Load (1.4ms)[0m  SELECT "bills".* FROM "bills" WHERE "bills"."id" = 1099 LIMIT 1
+  [1m[36mBillTitle Load (1.4ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 1099[0m
+  [1m[35mBill Load (1.0ms)[0m  SELECT "bills".* FROM "bills" WHERE "bills"."id" = 567 LIMIT 1
+  [1m[36mBillTitle Load (0.8ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 567[0m
+  [1m[35mBill Load (1.0ms)[0m  SELECT "bills".* FROM "bills" WHERE "bills"."id" = 1002 LIMIT 1
+  [1m[36mBillTitle Load (0.8ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 1002[0m
+  [1m[35mBill Load (1.0ms)[0m  SELECT "bills".* FROM "bills" WHERE "bills"."id" = 1299 LIMIT 1
+  [1m[36mBillTitle Load (1.0ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 1299[0m
+  [1m[35mBill Load (1.0ms)[0m  SELECT "bills".* FROM "bills" WHERE "bills"."id" = 398 LIMIT 1
+  [1m[36mBillTitle Load (0.9ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 398[0m
+  Rendered issues/index.html.erb within layouts/frontpage (1348.1ms)
+  Rendered shared/_analytics_head.html.erb (0.6ms)
+  Rendered layouts/_header.html.erb (7.7ms)
+  Rendered layouts/_footer.html.erb (12.5ms)
+  Rendered shared/_analytics_foot.html.erb (0.8ms)
+Completed 200 OK in 3172ms (Views: 1516.2ms | ActiveRecord: 243.8ms)
+
+
+Started GET "/assets/master.css?body=1" for 127.0.0.1 at 2013-03-24 15:04:14 -0700
+Served asset /master.css - 304 Not Modified (14ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-03-24 15:04:14 -0700
+Served asset /articles.css - 304 Not Modified (11ms)
+
+
+Started GET "/assets/api.css?body=1" for 127.0.0.1 at 2013-03-24 15:04:14 -0700
+Served asset /api.css - 304 Not Modified (11ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-03-24 15:04:14 -0700
+Served asset /home.css - 304 Not Modified (11ms)
+
+
+Started GET "/assets/classes.css?body=1" for 127.0.0.1 at 2013-03-24 15:04:14 -0700
+Served asset /classes.css - 304 Not Modified (12ms)
+
+
+Started GET "/assets/resources.css?body=1" for 127.0.0.1 at 2013-03-24 15:04:15 -0700
+Served asset /resources.css - 304 Not Modified (18ms)
+
+
+Started GET "/assets/ie7.css?body=1" for 127.0.0.1 at 2013-03-24 15:04:15 -0700
+Served asset /ie7.css - 304 Not Modified (12ms)
+
+
+Started GET "/assets/jquery-1.3.2.min.js?body=1" for 127.0.0.1 at 2013-03-24 15:04:15 -0700
+Served asset /jquery-1.3.2.min.js - 304 Not Modified (12ms)
+
+
+Started GET "/assets/prototype.js?body=1" for 127.0.0.1 at 2013-03-24 15:04:15 -0700
+Served asset /prototype.js - 304 Not Modified (12ms)
+
+
+Started GET "/assets/frontpage.js?body=1" for 127.0.0.1 at 2013-03-24 15:04:15 -0700
+Served asset /frontpage.js - 304 Not Modified (129ms)
+
+
+Started GET "/assets/throbber.gif" for 127.0.0.1 at 2013-03-24 15:04:15 -0700
+Served asset /throbber.gif - 304 Not Modified (12ms)
+
+
+Started GET "/assets/banner_issues.png" for 127.0.0.1 at 2013-03-24 15:04:15 -0700
+Served asset /banner_issues.png - 304 Not Modified (15ms)
+
+
+Started GET "/assets/tool_arrow-trans.png" for 127.0.0.1 at 2013-03-24 15:04:15 -0700
+Served asset /tool_arrow-trans.png - 304 Not Modified (11ms)
+
+
+Started GET "/assets/show_me-trans.png" for 127.0.0.1 at 2013-03-24 15:04:15 -0700
+Served asset /show_me-trans.png - 304 Not Modified (11ms)
+
+
+Started GET "/assets/passed_big.png" for 127.0.0.1 at 2013-03-24 15:04:15 -0700
+Served asset /passed_big.png - 304 Not Modified (12ms)
+
+
+Started GET "/issues" for 127.0.0.1 at 2013-03-24 15:08:25 -0700
+Processing by IssuesController#index as HTML
+  [1m[35mSiteTextPage Load (1.0ms)[0m  SELECT "site_text_pages".* FROM "site_text_pages" WHERE "site_text_pages"."page_params" = 'action=index&controller=issues&id=&person_type=&commentary_type=' LIMIT 1
+  [1m[36mBill Load (2.1ms)[0m  [1mSELECT bills.*, 
+ most_viewed.view_count AS view_count 
+ FROM bills 
+ INNER JOIN
+ (SELECT object_aggregates.aggregatable_id,
+ sum(object_aggregates.page_views_count) AS view_count
+ FROM object_aggregates 
+ WHERE object_aggregates.date >= '2013-03-17 22:08:25.398208' AND
+ object_aggregates.aggregatable_type = 'Bill'
+ GROUP BY object_aggregates.aggregatable_id
+ ORDER BY view_count DESC) most_viewed
+ ON bills.id=most_viewed.aggregatable_id
+ WHERE bills.session=113
+ ORDER BY view_count DESC LIMIT 5[0m
+  [1m[35mBill Load (1.1ms)[0m  SELECT "bills".* FROM "bills" ORDER BY introduced DESC LIMIT 5
+  [1m[36mPerson Load (27.8ms)[0m  [1mSELECT people.*, 
+ COALESCE(person_approvals.person_approval_avg, 0) as person_approval_average,
+ COALESCE(bills_sponsored.sponsored_bills_count, 0) as sponsored_bills_count,
+ COALESCE(people.total_session_votes, 0) as total_roll_call_votes,
+ CASE WHEN people.party = 'Democrat' THEN COALESCE(people.votes_democratic_position, 0)
+ WHEN people.party = 'Republican' THEN COALESCE(people.votes_republican_position, 0)
+ ELSE 0
+ END as party_roll_call_votes,
+ COALESCE(aggregates.view_count, 0) as view_count,
+ COALESCE(aggregates.blog_count, 0) as blog_count,
+ COALESCE(aggregates.news_count, 0) as news_count
+ FROM people
+ LEFT OUTER JOIN roles on roles.person_id=people.id 
+ LEFT OUTER JOIN (select person_approvals.person_id as person_approval_id, 
+ count(person_approvals.id) as person_approval_count, 
+ avg(person_approvals.rating) as person_approval_avg 
+ FROM person_approvals
+ GROUP BY person_approval_id) person_approvals
+ ON person_approval_id = people.id
+ 
+ LEFT OUTER JOIN (select sponsor_id, count(id) as sponsored_bills_count
+ FROM bills
+ WHERE bills.session = 113
+ GROUP BY sponsor_id) bills_sponsored
+ ON bills_sponsored.sponsor_id = people.id
+ LEFT OUTER JOIN (SELECT object_aggregates.aggregatable_id,
+ sum(object_aggregates.page_views_count) as view_count, 
+ sum(object_aggregates.blog_articles_count) as blog_count,
+ sum(object_aggregates.news_articles_count) as news_count
+ FROM object_aggregates 
+ WHERE object_aggregates.date >= current_timestamp - interval '1 days' AND
+ object_aggregates.aggregatable_type = 'Person'
+ GROUP BY object_aggregates.aggregatable_id
+ ORDER BY view_count DESC) aggregates
+ ON people.id=aggregates.aggregatable_id 			 
+ WHERE roles.role_type = 'sen' AND ((roles.startdate <= '2013-03-24' AND roles.enddate >= '2013-03-24') OR roles.startdate = '2013-01-03') ORDER BY view_count desc LIMIT 5;[0m
+  [1m[35mPerson Load (49.9ms)[0m  SELECT people.*, 
+ COALESCE(person_approvals.person_approval_avg, 0) as person_approval_average,
+ COALESCE(bills_sponsored.sponsored_bills_count, 0) as sponsored_bills_count,
+ COALESCE(people.total_session_votes, 0) as total_roll_call_votes,
+ CASE WHEN people.party = 'Democrat' THEN COALESCE(people.votes_democratic_position, 0)
+ WHEN people.party = 'Republican' THEN COALESCE(people.votes_republican_position, 0)
+ ELSE 0
+ END as party_roll_call_votes,
+ COALESCE(aggregates.view_count, 0) as view_count,
+ COALESCE(aggregates.blog_count, 0) as blog_count,
+ COALESCE(aggregates.news_count, 0) as news_count
+ FROM people
+ LEFT OUTER JOIN roles on roles.person_id=people.id 
+ LEFT OUTER JOIN (select person_approvals.person_id as person_approval_id, 
+ count(person_approvals.id) as person_approval_count, 
+ avg(person_approvals.rating) as person_approval_avg 
+ FROM person_approvals
+ GROUP BY person_approval_id) person_approvals
+ ON person_approval_id = people.id
+ 
+ LEFT OUTER JOIN (select sponsor_id, count(id) as sponsored_bills_count
+ FROM bills
+ WHERE bills.session = 113
+ GROUP BY sponsor_id) bills_sponsored
+ ON bills_sponsored.sponsor_id = people.id
+ LEFT OUTER JOIN (SELECT object_aggregates.aggregatable_id,
+ sum(object_aggregates.page_views_count) as view_count, 
+ sum(object_aggregates.blog_articles_count) as blog_count,
+ sum(object_aggregates.news_articles_count) as news_count
+ FROM object_aggregates 
+ WHERE object_aggregates.date >= current_timestamp - interval '1 days' AND
+ object_aggregates.aggregatable_type = 'Person'
+ GROUP BY object_aggregates.aggregatable_id
+ ORDER BY view_count DESC) aggregates
+ ON people.id=aggregates.aggregatable_id 			 
+ WHERE roles.role_type = 'rep' AND ((roles.startdate <= '2013-03-24' AND roles.enddate >= '2013-03-24') OR roles.startdate = '2013-01-03') ORDER BY view_count desc LIMIT 5;
+  [1m[36mSubject Load (1.2ms)[0m  [1mSELECT subjects.*, 
+ most_viewed.view_count AS view_count 
+ FROM subjects 
+ INNER JOIN
+ (SELECT object_aggregates.aggregatable_id,
+ sum(object_aggregates.page_views_count) AS view_count
+ FROM object_aggregates 
+ WHERE object_aggregates.date >= '2013-03-17 22:08:25.487142' AND
+ object_aggregates.aggregatable_type = 'Subject'
+ GROUP BY object_aggregates.aggregatable_id
+ ORDER BY view_count DESC) most_viewed
+ ON subjects.id=most_viewed.aggregatable_id
+ 
+ ORDER BY view_count DESC LIMIT 5[0m
+  [1m[35mSQL (1.6ms)[0m  SELECT "featured_people"."id" AS t0_r0, "featured_people"."person_id" AS t0_r1, "featured_people"."text" AS t0_r2, "featured_people"."updated_at" AS t0_r3, "featured_people"."created_at" AS t0_r4, "people"."id" AS t1_r0, "people"."firstname" AS t1_r1, "people"."middlename" AS t1_r2, "people"."lastname" AS t1_r3, "people"."nickname" AS t1_r4, "people"."birthday" AS t1_r5, "people"."gender" AS t1_r6, "people"."religion" AS t1_r7, "people"."url" AS t1_r8, "people"."party" AS t1_r9, "people"."osid" AS t1_r10, "people"."bioguideid" AS t1_r11, "people"."title" AS t1_r12, "people"."state" AS t1_r13, "people"."district" AS t1_r14, "people"."name" AS t1_r15, "people"."email" AS t1_r16, "people"."fti_names" AS t1_r17, "people"."user_approval" AS t1_r18, "people"."biography" AS t1_r19, "people"."unaccented_name" AS t1_r20, "people"."metavid_id" AS t1_r21, "people"."youtube_id" AS t1_r22, "people"."website" AS t1_r23, "people"."congress_office" AS t1_r24, "people"."phone" AS t1_r25, "people"."fax" AS t1_r26, "people"."contact_webform" AS t1_r27, "people"."sunlight_nickname" AS t1_r28, "people"."watchdog_id" AS t1_r29, "people"."page_views_count" AS t1_r30, "people"."news_article_count" AS t1_r31, "people"."blog_article_count" AS t1_r32, "people"."total_session_votes" AS t1_r33, "people"."votes_democratic_position" AS t1_r34, "people"."votes_republican_position" AS t1_r35 FROM "featured_people" LEFT OUTER JOIN "people" ON "people"."id" = "featured_people"."person_id" WHERE (people.title='Sen.') ORDER BY featured_people.created_at DESC LIMIT 1
+  [1m[36mSQL (1.4ms)[0m  [1mSELECT "featured_people"."id" AS t0_r0, "featured_people"."person_id" AS t0_r1, "featured_people"."text" AS t0_r2, "featured_people"."updated_at" AS t0_r3, "featured_people"."created_at" AS t0_r4, "people"."id" AS t1_r0, "people"."firstname" AS t1_r1, "people"."middlename" AS t1_r2, "people"."lastname" AS t1_r3, "people"."nickname" AS t1_r4, "people"."birthday" AS t1_r5, "people"."gender" AS t1_r6, "people"."religion" AS t1_r7, "people"."url" AS t1_r8, "people"."party" AS t1_r9, "people"."osid" AS t1_r10, "people"."bioguideid" AS t1_r11, "people"."title" AS t1_r12, "people"."state" AS t1_r13, "people"."district" AS t1_r14, "people"."name" AS t1_r15, "people"."email" AS t1_r16, "people"."fti_names" AS t1_r17, "people"."user_approval" AS t1_r18, "people"."biography" AS t1_r19, "people"."unaccented_name" AS t1_r20, "people"."metavid_id" AS t1_r21, "people"."youtube_id" AS t1_r22, "people"."website" AS t1_r23, "people"."congress_office" AS t1_r24, "people"."phone" AS t1_r25, "people"."fax" AS t1_r26, "people"."contact_webform" AS t1_r27, "people"."sunlight_nickname" AS t1_r28, "people"."watchdog_id" AS t1_r29, "people"."page_views_count" AS t1_r30, "people"."news_article_count" AS t1_r31, "people"."blog_article_count" AS t1_r32, "people"."total_session_votes" AS t1_r33, "people"."votes_democratic_position" AS t1_r34, "people"."votes_republican_position" AS t1_r35 FROM "featured_people" LEFT OUTER JOIN "people" ON "people"."id" = "featured_people"."person_id" WHERE (people.title='Rep.') ORDER BY featured_people.created_at DESC LIMIT 1[0m
+  [1m[35mCongressSession Load (0.9ms)[0m  SELECT "congress_sessions".* FROM "congress_sessions" WHERE (date >='2013-03-24' AND chamber='house' AND is_in_session='t') LIMIT 1
+  [1m[36mCongressSession Load (0.7ms)[0m  [1mSELECT "congress_sessions".* FROM "congress_sessions" WHERE (date >='2013-03-24' AND chamber='senate' AND is_in_session='t') LIMIT 1[0m
+  [1m[35mCongressSession Load (0.6ms)[0m  SELECT "congress_sessions".* FROM "congress_sessions" WHERE (chamber='recess') LIMIT 1
+  Rendered shared/_notices.html.erb (0.2ms)
+  Rendered layouts/_user_nav.html.erb (0.1ms)
+  [1m[36mBillTitle Load (0.9ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 63[0m
+  [1m[35mAction Load (1.1ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 63 ORDER BY actions.datetime ASC
+  [1m[36mAction Load (0.9ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 63 ORDER BY actions.date DESC LIMIT 1[0m
+  [1m[35mBillTitle Load (1.0ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 187
+  [1m[36mAction Load (1.0ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 187 ORDER BY actions.datetime ASC[0m
+  [1m[35mAction Load (1.0ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 187 ORDER BY actions.date DESC LIMIT 1
+  [1m[36mBillTitle Load (1.2ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 593[0m
+  [1m[35mAction Load (1.1ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 593 ORDER BY actions.datetime ASC
+  [1m[36mAction Load (0.9ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 593 ORDER BY actions.date DESC LIMIT 1[0m
+  [1m[35mBillTitle Load (1.0ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 100
+  [1m[36mAction Load (0.9ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 100 ORDER BY actions.datetime ASC[0m
+  [1m[35mAction Load (0.9ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 100 ORDER BY actions.date DESC LIMIT 1
+  [1m[36mBillTitle Load (1.0ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 123[0m
+  [1m[35mAction Load (0.9ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 123 ORDER BY actions.datetime ASC
+  [1m[36mAction Load (1.0ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 123 ORDER BY actions.date DESC LIMIT 1[0m
+  Rendered issues/_bill.html.erb (49.6ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 63
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 63 ORDER BY actions.datetime ASC[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 63 ORDER BY actions.date DESC LIMIT 1
+  [1m[36mBillTitle Load (0.9ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 67[0m
+  [1m[35mAction Load (1.2ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 67 ORDER BY actions.datetime ASC
+  [1m[36mAction Load (0.8ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 67 ORDER BY actions.date DESC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 100
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 100 ORDER BY actions.datetime ASC[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 100 ORDER BY actions.date DESC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 123[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 123 ORDER BY actions.datetime ASC
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 123 ORDER BY actions.date DESC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 187
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 187 ORDER BY actions.datetime ASC[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 187 ORDER BY actions.date DESC LIMIT 1
+  Rendered issues/_bill.html.erb (28.9ms)
+  [1m[36mRole Load (1.3ms)[0m  [1mSELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400034 ORDER BY roles.startdate DESC[0m
+  [1m[35mRole Load (1.1ms)[0m  SELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400040 ORDER BY roles.startdate DESC
+  [1m[36mRole Load (1.1ms)[0m  [1mSELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400050 ORDER BY roles.startdate DESC[0m
+  [1m[35mRole Load (1.0ms)[0m  SELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400054 ORDER BY roles.startdate DESC
+  [1m[36mRole Load (1.6ms)[0m  [1mSELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400013 ORDER BY roles.startdate DESC[0m
+  Rendered issues/_person.html.erb (23.2ms)
+  [1m[35mRole Load (1.0ms)[0m  SELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 412585 ORDER BY roles.startdate DESC
+  [1m[36mRole Load (1.7ms)[0m  [1mSELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400158 ORDER BY roles.startdate DESC[0m
+  [1m[35mRole Load (1.1ms)[0m  SELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400310 ORDER BY roles.startdate DESC
+  [1m[36mRole Load (1.0ms)[0m  [1mSELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 412302 ORDER BY roles.startdate DESC[0m
+  [1m[35mRole Load (0.9ms)[0m  SELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 412584 ORDER BY roles.startdate DESC
+  Rendered issues/_person.html.erb (19.9ms)
+  Rendered issues/_issue.html.erb (0.0ms)
+  [1m[36mArticle Load (2.4ms)[0m  [1mSELECT "articles".* FROM "articles" WHERE (frontpage = true) ORDER BY created_at DESC LIMIT 7[0m
+  Rendered articles/_frontpage.html.erb (1.8ms)
+  [1m[35mRollCall Load (2.3ms)[0m  SELECT * FROM roll_calls WHERE id IN 
+ (SELECT max(id) AS roll_id FROM roll_calls
+ WHERE bill_id IS NOT NULL
+ GROUP BY bill_id ORDER BY roll_id DESC LIMIT 5)
+ AND bill_id IS NOT NULL
+ ORDER BY date DESC;
+  [1m[36mBill Load (1.4ms)[0m  [1mSELECT "bills".* FROM "bills" WHERE "bills"."id" = 1099 LIMIT 1[0m
+  [1m[35mBillTitle Load (1.3ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 1099
+  [1m[36mBill Load (1.0ms)[0m  [1mSELECT "bills".* FROM "bills" WHERE "bills"."id" = 567 LIMIT 1[0m
+  [1m[35mBillTitle Load (0.8ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 567
+  [1m[36mBill Load (0.9ms)[0m  [1mSELECT "bills".* FROM "bills" WHERE "bills"."id" = 1002 LIMIT 1[0m
+  [1m[35mBillTitle Load (0.9ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 1002
+  [1m[36mBill Load (0.9ms)[0m  [1mSELECT "bills".* FROM "bills" WHERE "bills"."id" = 1299 LIMIT 1[0m
+  [1m[35mBillTitle Load (0.9ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 1299
+  [1m[36mBill Load (1.0ms)[0m  [1mSELECT "bills".* FROM "bills" WHERE "bills"."id" = 398 LIMIT 1[0m
+  [1m[35mBillTitle Load (0.9ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 398
+  Rendered issues/index.html.erb within layouts/frontpage (188.3ms)
+  Rendered shared/_analytics_head.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (5.8ms)
+  Rendered layouts/_footer.html.erb (9.4ms)
+  Rendered shared/_analytics_foot.html.erb (0.1ms)
+Completed 200 OK in 337ms (Views: 182.5ms | ActiveRecord: 132.7ms)
+
+
+Started GET "/assets/master.css?body=1" for 127.0.0.1 at 2013-03-24 15:08:25 -0700
+Served asset /master.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-03-24 15:08:25 -0700
+Served asset /articles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/api.css?body=1" for 127.0.0.1 at 2013-03-24 15:08:25 -0700
+Served asset /api.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-03-24 15:08:25 -0700
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/classes.css?body=1" for 127.0.0.1 at 2013-03-24 15:08:25 -0700
+Served asset /classes.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/resources.css?body=1" for 127.0.0.1 at 2013-03-24 15:08:25 -0700
+Served asset /resources.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ie7.css?body=1" for 127.0.0.1 at 2013-03-24 15:08:25 -0700
+Served asset /ie7.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-1.3.2.min.js?body=1" for 127.0.0.1 at 2013-03-24 15:08:25 -0700
+Served asset /jquery-1.3.2.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/prototype.js?body=1" for 127.0.0.1 at 2013-03-24 15:08:26 -0700
+Served asset /prototype.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/frontpage.js?body=1" for 127.0.0.1 at 2013-03-24 15:08:26 -0700
+Served asset /frontpage.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/throbber.gif" for 127.0.0.1 at 2013-03-24 15:08:26 -0700
+Served asset /throbber.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/banner_issues.png" for 127.0.0.1 at 2013-03-24 15:08:26 -0700
+Served asset /banner_issues.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tool_arrow-trans.png" for 127.0.0.1 at 2013-03-24 15:08:26 -0700
+Served asset /tool_arrow-trans.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/show_me-trans.png" for 127.0.0.1 at 2013-03-24 15:08:26 -0700
+Served asset /show_me-trans.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/passed_big.png" for 127.0.0.1 at 2013-03-24 15:08:26 -0700
+Served asset /passed_big.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/small_bill.png" for 127.0.0.1 at 2013-03-24 15:38:01 -0700
+Served asset /small_bill.png - 304 Not Modified (11ms)
+
+
+Started GET "/issues" for 127.0.0.1 at 2013-03-24 15:38:09 -0700
+Processing by IssuesController#index as HTML
+  [1m[36mSiteTextPage Load (0.9ms)[0m  [1mSELECT "site_text_pages".* FROM "site_text_pages" WHERE "site_text_pages"."page_params" = 'action=index&controller=issues&id=&person_type=&commentary_type=' LIMIT 1[0m
+  [1m[35mBill Load (1.8ms)[0m  SELECT bills.*, 
+ most_viewed.view_count AS view_count 
+ FROM bills 
+ INNER JOIN
+ (SELECT object_aggregates.aggregatable_id,
+ sum(object_aggregates.page_views_count) AS view_count
+ FROM object_aggregates 
+ WHERE object_aggregates.date >= '2013-03-17 22:38:09.758688' AND
+ object_aggregates.aggregatable_type = 'Bill'
+ GROUP BY object_aggregates.aggregatable_id
+ ORDER BY view_count DESC) most_viewed
+ ON bills.id=most_viewed.aggregatable_id
+ WHERE bills.session=113
+ ORDER BY view_count DESC LIMIT 5
+  [1m[36mBill Load (1.1ms)[0m  [1mSELECT "bills".* FROM "bills" ORDER BY introduced DESC LIMIT 5[0m
+  [1m[35mPerson Load (28.3ms)[0m  SELECT people.*, 
+ COALESCE(person_approvals.person_approval_avg, 0) as person_approval_average,
+ COALESCE(bills_sponsored.sponsored_bills_count, 0) as sponsored_bills_count,
+ COALESCE(people.total_session_votes, 0) as total_roll_call_votes,
+ CASE WHEN people.party = 'Democrat' THEN COALESCE(people.votes_democratic_position, 0)
+ WHEN people.party = 'Republican' THEN COALESCE(people.votes_republican_position, 0)
+ ELSE 0
+ END as party_roll_call_votes,
+ COALESCE(aggregates.view_count, 0) as view_count,
+ COALESCE(aggregates.blog_count, 0) as blog_count,
+ COALESCE(aggregates.news_count, 0) as news_count
+ FROM people
+ LEFT OUTER JOIN roles on roles.person_id=people.id 
+ LEFT OUTER JOIN (select person_approvals.person_id as person_approval_id, 
+ count(person_approvals.id) as person_approval_count, 
+ avg(person_approvals.rating) as person_approval_avg 
+ FROM person_approvals
+ GROUP BY person_approval_id) person_approvals
+ ON person_approval_id = people.id
+ 
+ LEFT OUTER JOIN (select sponsor_id, count(id) as sponsored_bills_count
+ FROM bills
+ WHERE bills.session = 113
+ GROUP BY sponsor_id) bills_sponsored
+ ON bills_sponsored.sponsor_id = people.id
+ LEFT OUTER JOIN (SELECT object_aggregates.aggregatable_id,
+ sum(object_aggregates.page_views_count) as view_count, 
+ sum(object_aggregates.blog_articles_count) as blog_count,
+ sum(object_aggregates.news_articles_count) as news_count
+ FROM object_aggregates 
+ WHERE object_aggregates.date >= current_timestamp - interval '1 days' AND
+ object_aggregates.aggregatable_type = 'Person'
+ GROUP BY object_aggregates.aggregatable_id
+ ORDER BY view_count DESC) aggregates
+ ON people.id=aggregates.aggregatable_id 			 
+ WHERE roles.role_type = 'sen' AND ((roles.startdate <= '2013-03-24' AND roles.enddate >= '2013-03-24') OR roles.startdate = '2013-01-03') ORDER BY view_count desc LIMIT 5;
+  [1m[36mPerson Load (49.1ms)[0m  [1mSELECT people.*, 
+ COALESCE(person_approvals.person_approval_avg, 0) as person_approval_average,
+ COALESCE(bills_sponsored.sponsored_bills_count, 0) as sponsored_bills_count,
+ COALESCE(people.total_session_votes, 0) as total_roll_call_votes,
+ CASE WHEN people.party = 'Democrat' THEN COALESCE(people.votes_democratic_position, 0)
+ WHEN people.party = 'Republican' THEN COALESCE(people.votes_republican_position, 0)
+ ELSE 0
+ END as party_roll_call_votes,
+ COALESCE(aggregates.view_count, 0) as view_count,
+ COALESCE(aggregates.blog_count, 0) as blog_count,
+ COALESCE(aggregates.news_count, 0) as news_count
+ FROM people
+ LEFT OUTER JOIN roles on roles.person_id=people.id 
+ LEFT OUTER JOIN (select person_approvals.person_id as person_approval_id, 
+ count(person_approvals.id) as person_approval_count, 
+ avg(person_approvals.rating) as person_approval_avg 
+ FROM person_approvals
+ GROUP BY person_approval_id) person_approvals
+ ON person_approval_id = people.id
+ 
+ LEFT OUTER JOIN (select sponsor_id, count(id) as sponsored_bills_count
+ FROM bills
+ WHERE bills.session = 113
+ GROUP BY sponsor_id) bills_sponsored
+ ON bills_sponsored.sponsor_id = people.id
+ LEFT OUTER JOIN (SELECT object_aggregates.aggregatable_id,
+ sum(object_aggregates.page_views_count) as view_count, 
+ sum(object_aggregates.blog_articles_count) as blog_count,
+ sum(object_aggregates.news_articles_count) as news_count
+ FROM object_aggregates 
+ WHERE object_aggregates.date >= current_timestamp - interval '1 days' AND
+ object_aggregates.aggregatable_type = 'Person'
+ GROUP BY object_aggregates.aggregatable_id
+ ORDER BY view_count DESC) aggregates
+ ON people.id=aggregates.aggregatable_id 			 
+ WHERE roles.role_type = 'rep' AND ((roles.startdate <= '2013-03-24' AND roles.enddate >= '2013-03-24') OR roles.startdate = '2013-01-03') ORDER BY view_count desc LIMIT 5;[0m
+  [1m[35mSubject Load (1.4ms)[0m  SELECT subjects.*, 
+ most_viewed.view_count AS view_count 
+ FROM subjects 
+ INNER JOIN
+ (SELECT object_aggregates.aggregatable_id,
+ sum(object_aggregates.page_views_count) AS view_count
+ FROM object_aggregates 
+ WHERE object_aggregates.date >= '2013-03-17 22:38:09.845786' AND
+ object_aggregates.aggregatable_type = 'Subject'
+ GROUP BY object_aggregates.aggregatable_id
+ ORDER BY view_count DESC) most_viewed
+ ON subjects.id=most_viewed.aggregatable_id
+ 
+ ORDER BY view_count DESC LIMIT 5
+  [1m[36mSQL (1.6ms)[0m  [1mSELECT "featured_people"."id" AS t0_r0, "featured_people"."person_id" AS t0_r1, "featured_people"."text" AS t0_r2, "featured_people"."updated_at" AS t0_r3, "featured_people"."created_at" AS t0_r4, "people"."id" AS t1_r0, "people"."firstname" AS t1_r1, "people"."middlename" AS t1_r2, "people"."lastname" AS t1_r3, "people"."nickname" AS t1_r4, "people"."birthday" AS t1_r5, "people"."gender" AS t1_r6, "people"."religion" AS t1_r7, "people"."url" AS t1_r8, "people"."party" AS t1_r9, "people"."osid" AS t1_r10, "people"."bioguideid" AS t1_r11, "people"."title" AS t1_r12, "people"."state" AS t1_r13, "people"."district" AS t1_r14, "people"."name" AS t1_r15, "people"."email" AS t1_r16, "people"."fti_names" AS t1_r17, "people"."user_approval" AS t1_r18, "people"."biography" AS t1_r19, "people"."unaccented_name" AS t1_r20, "people"."metavid_id" AS t1_r21, "people"."youtube_id" AS t1_r22, "people"."website" AS t1_r23, "people"."congress_office" AS t1_r24, "people"."phone" AS t1_r25, "people"."fax" AS t1_r26, "people"."contact_webform" AS t1_r27, "people"."sunlight_nickname" AS t1_r28, "people"."watchdog_id" AS t1_r29, "people"."page_views_count" AS t1_r30, "people"."news_article_count" AS t1_r31, "people"."blog_article_count" AS t1_r32, "people"."total_session_votes" AS t1_r33, "people"."votes_democratic_position" AS t1_r34, "people"."votes_republican_position" AS t1_r35 FROM "featured_people" LEFT OUTER JOIN "people" ON "people"."id" = "featured_people"."person_id" WHERE (people.title='Sen.') ORDER BY featured_people.created_at DESC LIMIT 1[0m
+  [1m[35mSQL (1.4ms)[0m  SELECT "featured_people"."id" AS t0_r0, "featured_people"."person_id" AS t0_r1, "featured_people"."text" AS t0_r2, "featured_people"."updated_at" AS t0_r3, "featured_people"."created_at" AS t0_r4, "people"."id" AS t1_r0, "people"."firstname" AS t1_r1, "people"."middlename" AS t1_r2, "people"."lastname" AS t1_r3, "people"."nickname" AS t1_r4, "people"."birthday" AS t1_r5, "people"."gender" AS t1_r6, "people"."religion" AS t1_r7, "people"."url" AS t1_r8, "people"."party" AS t1_r9, "people"."osid" AS t1_r10, "people"."bioguideid" AS t1_r11, "people"."title" AS t1_r12, "people"."state" AS t1_r13, "people"."district" AS t1_r14, "people"."name" AS t1_r15, "people"."email" AS t1_r16, "people"."fti_names" AS t1_r17, "people"."user_approval" AS t1_r18, "people"."biography" AS t1_r19, "people"."unaccented_name" AS t1_r20, "people"."metavid_id" AS t1_r21, "people"."youtube_id" AS t1_r22, "people"."website" AS t1_r23, "people"."congress_office" AS t1_r24, "people"."phone" AS t1_r25, "people"."fax" AS t1_r26, "people"."contact_webform" AS t1_r27, "people"."sunlight_nickname" AS t1_r28, "people"."watchdog_id" AS t1_r29, "people"."page_views_count" AS t1_r30, "people"."news_article_count" AS t1_r31, "people"."blog_article_count" AS t1_r32, "people"."total_session_votes" AS t1_r33, "people"."votes_democratic_position" AS t1_r34, "people"."votes_republican_position" AS t1_r35 FROM "featured_people" LEFT OUTER JOIN "people" ON "people"."id" = "featured_people"."person_id" WHERE (people.title='Rep.') ORDER BY featured_people.created_at DESC LIMIT 1
+  [1m[36mCongressSession Load (0.8ms)[0m  [1mSELECT "congress_sessions".* FROM "congress_sessions" WHERE (date >='2013-03-24' AND chamber='house' AND is_in_session='t') LIMIT 1[0m
+  [1m[35mCongressSession Load (0.6ms)[0m  SELECT "congress_sessions".* FROM "congress_sessions" WHERE (date >='2013-03-24' AND chamber='senate' AND is_in_session='t') LIMIT 1
+  [1m[36mCongressSession Load (0.6ms)[0m  [1mSELECT "congress_sessions".* FROM "congress_sessions" WHERE (chamber='recess') LIMIT 1[0m
+  Rendered shared/_notices.html.erb (0.1ms)
+  Rendered layouts/_user_nav.html.erb (0.1ms)
+  [1m[35mBillTitle Load (1.0ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 63
+  [1m[36mAction Load (1.1ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 63 ORDER BY actions.datetime ASC[0m
+  [1m[35mAction Load (0.9ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 63 ORDER BY actions.date DESC LIMIT 1
+  [1m[36mBillTitle Load (0.9ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 187[0m
+  [1m[35mAction Load (0.9ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 187 ORDER BY actions.datetime ASC
+  [1m[36mAction Load (0.9ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 187 ORDER BY actions.date DESC LIMIT 1[0m
+  [1m[35mBillTitle Load (1.0ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 593
+  [1m[36mAction Load (1.0ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 593 ORDER BY actions.datetime ASC[0m
+  [1m[35mAction Load (0.9ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 593 ORDER BY actions.date DESC LIMIT 1
+  [1m[36mBillTitle Load (0.9ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 100[0m
+  [1m[35mAction Load (0.9ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 100 ORDER BY actions.datetime ASC
+  [1m[36mAction Load (1.0ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 100 ORDER BY actions.date DESC LIMIT 1[0m
+  [1m[35mBillTitle Load (1.0ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 123
+  [1m[36mAction Load (1.0ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 123 ORDER BY actions.datetime ASC[0m
+  [1m[35mAction Load (1.0ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 123 ORDER BY actions.date DESC LIMIT 1
+  Rendered issues/_bill.html.erb (47.3ms)
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 63[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 63 ORDER BY actions.datetime ASC
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 63 ORDER BY actions.date DESC LIMIT 1[0m
+  [1m[35mBillTitle Load (0.9ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 67
+  [1m[36mAction Load (1.1ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 67 ORDER BY actions.datetime ASC[0m
+  [1m[35mAction Load (0.9ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 67 ORDER BY actions.date DESC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 100[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 100 ORDER BY actions.datetime ASC
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 100 ORDER BY actions.date DESC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 123
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 123 ORDER BY actions.datetime ASC[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 123 ORDER BY actions.date DESC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 187[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 187 ORDER BY actions.datetime ASC
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 187 ORDER BY actions.date DESC LIMIT 1[0m
+  Rendered issues/_bill.html.erb (29.8ms)
+  [1m[35mRole Load (9.7ms)[0m  SELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400034 ORDER BY roles.startdate DESC
+  [1m[36mRole Load (1.3ms)[0m  [1mSELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400040 ORDER BY roles.startdate DESC[0m
+  [1m[35mRole Load (1.1ms)[0m  SELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400050 ORDER BY roles.startdate DESC
+  [1m[36mRole Load (1.0ms)[0m  [1mSELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400054 ORDER BY roles.startdate DESC[0m
+  [1m[35mRole Load (1.0ms)[0m  SELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400013 ORDER BY roles.startdate DESC
+  Rendered issues/_person.html.erb (149.6ms)
+  [1m[36mRole Load (1.0ms)[0m  [1mSELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 412585 ORDER BY roles.startdate DESC[0m
+  [1m[35mRole Load (1.3ms)[0m  SELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400158 ORDER BY roles.startdate DESC
+  [1m[36mRole Load (1.3ms)[0m  [1mSELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400310 ORDER BY roles.startdate DESC[0m
+  [1m[35mRole Load (0.9ms)[0m  SELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 412302 ORDER BY roles.startdate DESC
+  [1m[36mRole Load (0.9ms)[0m  [1mSELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 412584 ORDER BY roles.startdate DESC[0m
+  Rendered issues/_person.html.erb (20.4ms)
+  Rendered issues/_issue.html.erb (0.0ms)
+  [1m[35mArticle Load (2.6ms)[0m  SELECT "articles".* FROM "articles" WHERE (frontpage = true) ORDER BY created_at DESC LIMIT 7
+  Rendered articles/_frontpage.html.erb (2.2ms)
+  [1m[36mRollCall Load (2.4ms)[0m  [1mSELECT * FROM roll_calls WHERE id IN 
+ (SELECT max(id) AS roll_id FROM roll_calls
+ WHERE bill_id IS NOT NULL
+ GROUP BY bill_id ORDER BY roll_id DESC LIMIT 5)
+ AND bill_id IS NOT NULL
+ ORDER BY date DESC;[0m
+  [1m[35mBill Load (1.2ms)[0m  SELECT "bills".* FROM "bills" WHERE "bills"."id" = 1099 LIMIT 1
+  [1m[36mBillTitle Load (1.4ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 1099[0m
+  [1m[35mBill Load (1.0ms)[0m  SELECT "bills".* FROM "bills" WHERE "bills"."id" = 567 LIMIT 1
+  [1m[36mBillTitle Load (0.8ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 567[0m
+  [1m[35mBill Load (1.0ms)[0m  SELECT "bills".* FROM "bills" WHERE "bills"."id" = 1002 LIMIT 1
+  [1m[36mBillTitle Load (0.8ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 1002[0m
+  [1m[35mBill Load (1.0ms)[0m  SELECT "bills".* FROM "bills" WHERE "bills"."id" = 1299 LIMIT 1
+  [1m[36mBillTitle Load (1.1ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 1299[0m
+  [1m[35mBill Load (1.0ms)[0m  SELECT "bills".* FROM "bills" WHERE "bills"."id" = 398 LIMIT 1
+  [1m[36mBillTitle Load (0.9ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 398[0m
+  Rendered issues/index.html.erb within layouts/frontpage (318.5ms)
+  Rendered shared/_analytics_head.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (6.3ms)
+  Rendered layouts/_footer.html.erb (10.2ms)
+  Rendered shared/_analytics_foot.html.erb (0.1ms)
+Completed 200 OK in 465ms (Views: 306.0ms | ActiveRecord: 139.7ms)
+
+
+Started GET "/assets/master.css?body=1" for 127.0.0.1 at 2013-03-24 15:38:10 -0700
+Served asset /master.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-03-24 15:38:10 -0700
+Served asset /articles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/api.css?body=1" for 127.0.0.1 at 2013-03-24 15:38:10 -0700
+Served asset /api.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-03-24 15:38:10 -0700
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/classes.css?body=1" for 127.0.0.1 at 2013-03-24 15:38:10 -0700
+Served asset /classes.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/resources.css?body=1" for 127.0.0.1 at 2013-03-24 15:38:10 -0700
+Served asset /resources.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ie7.css?body=1" for 127.0.0.1 at 2013-03-24 15:38:10 -0700
+Served asset /ie7.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-1.3.2.min.js?body=1" for 127.0.0.1 at 2013-03-24 15:38:10 -0700
+Served asset /jquery-1.3.2.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/prototype.js?body=1" for 127.0.0.1 at 2013-03-24 15:38:10 -0700
+Served asset /prototype.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/frontpage.js?body=1" for 127.0.0.1 at 2013-03-24 15:38:10 -0700
+Served asset /frontpage.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/throbber.gif" for 127.0.0.1 at 2013-03-24 15:38:10 -0700
+Served asset /throbber.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/banner_issues.png" for 127.0.0.1 at 2013-03-24 15:38:10 -0700
+Served asset /banner_issues.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tool_arrow-trans.png" for 127.0.0.1 at 2013-03-24 15:38:10 -0700
+Served asset /tool_arrow-trans.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/show_me-trans.png" for 127.0.0.1 at 2013-03-24 15:38:10 -0700
+Served asset /show_me-trans.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/passed_big.png" for 127.0.0.1 at 2013-03-24 15:38:10 -0700
+Served asset /passed_big.png - 304 Not Modified (0ms)
+
+
+Started GET "/issues" for 127.0.0.1 at 2013-03-24 15:44:17 -0700
+Processing by IssuesController#index as HTML
+  [1m[35mSiteTextPage Load (1.0ms)[0m  SELECT "site_text_pages".* FROM "site_text_pages" WHERE "site_text_pages"."page_params" = 'action=index&controller=issues&id=&person_type=&commentary_type=' LIMIT 1
+  [1m[36mBill Load (2.1ms)[0m  [1mSELECT bills.*, 
+ most_viewed.view_count AS view_count 
+ FROM bills 
+ INNER JOIN
+ (SELECT object_aggregates.aggregatable_id,
+ sum(object_aggregates.page_views_count) AS view_count
+ FROM object_aggregates 
+ WHERE object_aggregates.date >= '2013-03-17 22:44:17.649722' AND
+ object_aggregates.aggregatable_type = 'Bill'
+ GROUP BY object_aggregates.aggregatable_id
+ ORDER BY view_count DESC) most_viewed
+ ON bills.id=most_viewed.aggregatable_id
+ WHERE bills.session=113
+ ORDER BY view_count DESC LIMIT 5[0m
+  [1m[35mBill Load (1.1ms)[0m  SELECT "bills".* FROM "bills" ORDER BY introduced DESC LIMIT 5
+  [1m[36mPerson Load (26.1ms)[0m  [1mSELECT people.*, 
+ COALESCE(person_approvals.person_approval_avg, 0) as person_approval_average,
+ COALESCE(bills_sponsored.sponsored_bills_count, 0) as sponsored_bills_count,
+ COALESCE(people.total_session_votes, 0) as total_roll_call_votes,
+ CASE WHEN people.party = 'Democrat' THEN COALESCE(people.votes_democratic_position, 0)
+ WHEN people.party = 'Republican' THEN COALESCE(people.votes_republican_position, 0)
+ ELSE 0
+ END as party_roll_call_votes,
+ COALESCE(aggregates.view_count, 0) as view_count,
+ COALESCE(aggregates.blog_count, 0) as blog_count,
+ COALESCE(aggregates.news_count, 0) as news_count
+ FROM people
+ LEFT OUTER JOIN roles on roles.person_id=people.id 
+ LEFT OUTER JOIN (select person_approvals.person_id as person_approval_id, 
+ count(person_approvals.id) as person_approval_count, 
+ avg(person_approvals.rating) as person_approval_avg 
+ FROM person_approvals
+ GROUP BY person_approval_id) person_approvals
+ ON person_approval_id = people.id
+ 
+ LEFT OUTER JOIN (select sponsor_id, count(id) as sponsored_bills_count
+ FROM bills
+ WHERE bills.session = 113
+ GROUP BY sponsor_id) bills_sponsored
+ ON bills_sponsored.sponsor_id = people.id
+ LEFT OUTER JOIN (SELECT object_aggregates.aggregatable_id,
+ sum(object_aggregates.page_views_count) as view_count, 
+ sum(object_aggregates.blog_articles_count) as blog_count,
+ sum(object_aggregates.news_articles_count) as news_count
+ FROM object_aggregates 
+ WHERE object_aggregates.date >= current_timestamp - interval '1 days' AND
+ object_aggregates.aggregatable_type = 'Person'
+ GROUP BY object_aggregates.aggregatable_id
+ ORDER BY view_count DESC) aggregates
+ ON people.id=aggregates.aggregatable_id 			 
+ WHERE roles.role_type = 'sen' AND ((roles.startdate <= '2013-03-24' AND roles.enddate >= '2013-03-24') OR roles.startdate = '2013-01-03') ORDER BY view_count desc LIMIT 5;[0m
+  [1m[35mPerson Load (48.8ms)[0m  SELECT people.*, 
+ COALESCE(person_approvals.person_approval_avg, 0) as person_approval_average,
+ COALESCE(bills_sponsored.sponsored_bills_count, 0) as sponsored_bills_count,
+ COALESCE(people.total_session_votes, 0) as total_roll_call_votes,
+ CASE WHEN people.party = 'Democrat' THEN COALESCE(people.votes_democratic_position, 0)
+ WHEN people.party = 'Republican' THEN COALESCE(people.votes_republican_position, 0)
+ ELSE 0
+ END as party_roll_call_votes,
+ COALESCE(aggregates.view_count, 0) as view_count,
+ COALESCE(aggregates.blog_count, 0) as blog_count,
+ COALESCE(aggregates.news_count, 0) as news_count
+ FROM people
+ LEFT OUTER JOIN roles on roles.person_id=people.id 
+ LEFT OUTER JOIN (select person_approvals.person_id as person_approval_id, 
+ count(person_approvals.id) as person_approval_count, 
+ avg(person_approvals.rating) as person_approval_avg 
+ FROM person_approvals
+ GROUP BY person_approval_id) person_approvals
+ ON person_approval_id = people.id
+ 
+ LEFT OUTER JOIN (select sponsor_id, count(id) as sponsored_bills_count
+ FROM bills
+ WHERE bills.session = 113
+ GROUP BY sponsor_id) bills_sponsored
+ ON bills_sponsored.sponsor_id = people.id
+ LEFT OUTER JOIN (SELECT object_aggregates.aggregatable_id,
+ sum(object_aggregates.page_views_count) as view_count, 
+ sum(object_aggregates.blog_articles_count) as blog_count,
+ sum(object_aggregates.news_articles_count) as news_count
+ FROM object_aggregates 
+ WHERE object_aggregates.date >= current_timestamp - interval '1 days' AND
+ object_aggregates.aggregatable_type = 'Person'
+ GROUP BY object_aggregates.aggregatable_id
+ ORDER BY view_count DESC) aggregates
+ ON people.id=aggregates.aggregatable_id 			 
+ WHERE roles.role_type = 'rep' AND ((roles.startdate <= '2013-03-24' AND roles.enddate >= '2013-03-24') OR roles.startdate = '2013-01-03') ORDER BY view_count desc LIMIT 5;
+  [1m[36mSubject Load (1.3ms)[0m  [1mSELECT subjects.*, 
+ most_viewed.view_count AS view_count 
+ FROM subjects 
+ INNER JOIN
+ (SELECT object_aggregates.aggregatable_id,
+ sum(object_aggregates.page_views_count) AS view_count
+ FROM object_aggregates 
+ WHERE object_aggregates.date >= '2013-03-17 22:44:17.735442' AND
+ object_aggregates.aggregatable_type = 'Subject'
+ GROUP BY object_aggregates.aggregatable_id
+ ORDER BY view_count DESC) most_viewed
+ ON subjects.id=most_viewed.aggregatable_id
+ 
+ ORDER BY view_count DESC LIMIT 5[0m
+  [1m[35mSQL (1.7ms)[0m  SELECT "featured_people"."id" AS t0_r0, "featured_people"."person_id" AS t0_r1, "featured_people"."text" AS t0_r2, "featured_people"."updated_at" AS t0_r3, "featured_people"."created_at" AS t0_r4, "people"."id" AS t1_r0, "people"."firstname" AS t1_r1, "people"."middlename" AS t1_r2, "people"."lastname" AS t1_r3, "people"."nickname" AS t1_r4, "people"."birthday" AS t1_r5, "people"."gender" AS t1_r6, "people"."religion" AS t1_r7, "people"."url" AS t1_r8, "people"."party" AS t1_r9, "people"."osid" AS t1_r10, "people"."bioguideid" AS t1_r11, "people"."title" AS t1_r12, "people"."state" AS t1_r13, "people"."district" AS t1_r14, "people"."name" AS t1_r15, "people"."email" AS t1_r16, "people"."fti_names" AS t1_r17, "people"."user_approval" AS t1_r18, "people"."biography" AS t1_r19, "people"."unaccented_name" AS t1_r20, "people"."metavid_id" AS t1_r21, "people"."youtube_id" AS t1_r22, "people"."website" AS t1_r23, "people"."congress_office" AS t1_r24, "people"."phone" AS t1_r25, "people"."fax" AS t1_r26, "people"."contact_webform" AS t1_r27, "people"."sunlight_nickname" AS t1_r28, "people"."watchdog_id" AS t1_r29, "people"."page_views_count" AS t1_r30, "people"."news_article_count" AS t1_r31, "people"."blog_article_count" AS t1_r32, "people"."total_session_votes" AS t1_r33, "people"."votes_democratic_position" AS t1_r34, "people"."votes_republican_position" AS t1_r35 FROM "featured_people" LEFT OUTER JOIN "people" ON "people"."id" = "featured_people"."person_id" WHERE (people.title='Sen.') ORDER BY featured_people.created_at DESC LIMIT 1
+  [1m[36mSQL (1.6ms)[0m  [1mSELECT "featured_people"."id" AS t0_r0, "featured_people"."person_id" AS t0_r1, "featured_people"."text" AS t0_r2, "featured_people"."updated_at" AS t0_r3, "featured_people"."created_at" AS t0_r4, "people"."id" AS t1_r0, "people"."firstname" AS t1_r1, "people"."middlename" AS t1_r2, "people"."lastname" AS t1_r3, "people"."nickname" AS t1_r4, "people"."birthday" AS t1_r5, "people"."gender" AS t1_r6, "people"."religion" AS t1_r7, "people"."url" AS t1_r8, "people"."party" AS t1_r9, "people"."osid" AS t1_r10, "people"."bioguideid" AS t1_r11, "people"."title" AS t1_r12, "people"."state" AS t1_r13, "people"."district" AS t1_r14, "people"."name" AS t1_r15, "people"."email" AS t1_r16, "people"."fti_names" AS t1_r17, "people"."user_approval" AS t1_r18, "people"."biography" AS t1_r19, "people"."unaccented_name" AS t1_r20, "people"."metavid_id" AS t1_r21, "people"."youtube_id" AS t1_r22, "people"."website" AS t1_r23, "people"."congress_office" AS t1_r24, "people"."phone" AS t1_r25, "people"."fax" AS t1_r26, "people"."contact_webform" AS t1_r27, "people"."sunlight_nickname" AS t1_r28, "people"."watchdog_id" AS t1_r29, "people"."page_views_count" AS t1_r30, "people"."news_article_count" AS t1_r31, "people"."blog_article_count" AS t1_r32, "people"."total_session_votes" AS t1_r33, "people"."votes_democratic_position" AS t1_r34, "people"."votes_republican_position" AS t1_r35 FROM "featured_people" LEFT OUTER JOIN "people" ON "people"."id" = "featured_people"."person_id" WHERE (people.title='Rep.') ORDER BY featured_people.created_at DESC LIMIT 1[0m
+  [1m[35mCongressSession Load (0.7ms)[0m  SELECT "congress_sessions".* FROM "congress_sessions" WHERE (date >='2013-03-24' AND chamber='house' AND is_in_session='t') LIMIT 1
+  [1m[36mCongressSession Load (0.7ms)[0m  [1mSELECT "congress_sessions".* FROM "congress_sessions" WHERE (date >='2013-03-24' AND chamber='senate' AND is_in_session='t') LIMIT 1[0m
+  [1m[35mCongressSession Load (0.6ms)[0m  SELECT "congress_sessions".* FROM "congress_sessions" WHERE (chamber='recess') LIMIT 1
+  Rendered shared/_notices.html.erb (0.2ms)
+  Rendered layouts/_user_nav.html.erb (0.1ms)
+  [1m[36mBillTitle Load (0.9ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 63[0m
+  [1m[35mAction Load (1.1ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 63 ORDER BY actions.datetime ASC
+  [1m[36mAction Load (0.9ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 63 ORDER BY actions.date DESC LIMIT 1[0m
+  [1m[35mBillTitle Load (0.9ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 187
+  [1m[36mAction Load (0.9ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 187 ORDER BY actions.datetime ASC[0m
+  [1m[35mAction Load (0.9ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 187 ORDER BY actions.date DESC LIMIT 1
+  [1m[36mBillTitle Load (1.2ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 593[0m
+  [1m[35mAction Load (1.2ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 593 ORDER BY actions.datetime ASC
+  [1m[36mAction Load (1.0ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 593 ORDER BY actions.date DESC LIMIT 1[0m
+  [1m[35mBillTitle Load (1.0ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 100
+  [1m[36mAction Load (1.1ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 100 ORDER BY actions.datetime ASC[0m
+  [1m[35mAction Load (0.9ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 100 ORDER BY actions.date DESC LIMIT 1
+  [1m[36mBillTitle Load (0.9ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 123[0m
+  [1m[35mAction Load (0.9ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 123 ORDER BY actions.datetime ASC
+  [1m[36mAction Load (0.8ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 123 ORDER BY actions.date DESC LIMIT 1[0m
+  Rendered issues/_bill.html.erb (49.7ms)
+  [1m[35mCACHE (0.0ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 63
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 63 ORDER BY actions.datetime ASC[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 63 ORDER BY actions.date DESC LIMIT 1
+  [1m[36mBillTitle Load (0.9ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 67[0m
+  [1m[35mAction Load (1.0ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 67 ORDER BY actions.datetime ASC
+  [1m[36mAction Load (0.8ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 67 ORDER BY actions.date DESC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 100
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 100 ORDER BY actions.datetime ASC[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 100 ORDER BY actions.date DESC LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 123[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 123 ORDER BY actions.datetime ASC
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 123 ORDER BY actions.date DESC LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 187
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 187 ORDER BY actions.datetime ASC[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "actions".* FROM "actions" WHERE "actions"."bill_id" = 187 ORDER BY actions.date DESC LIMIT 1
+  Rendered issues/_bill.html.erb (29.2ms)
+  [1m[36mRole Load (1.2ms)[0m  [1mSELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400034 ORDER BY roles.startdate DESC[0m
+  [1m[35mRole Load (1.0ms)[0m  SELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400040 ORDER BY roles.startdate DESC
+  [1m[36mRole Load (1.0ms)[0m  [1mSELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400050 ORDER BY roles.startdate DESC[0m
+  [1m[35mRole Load (1.0ms)[0m  SELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400054 ORDER BY roles.startdate DESC
+  [1m[36mRole Load (1.3ms)[0m  [1mSELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400013 ORDER BY roles.startdate DESC[0m
+  Rendered issues/_person.html.erb (21.0ms)
+  [1m[35mRole Load (0.9ms)[0m  SELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 412585 ORDER BY roles.startdate DESC
+  [1m[36mRole Load (1.1ms)[0m  [1mSELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400158 ORDER BY roles.startdate DESC[0m
+  [1m[35mRole Load (1.2ms)[0m  SELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 400310 ORDER BY roles.startdate DESC
+  [1m[36mRole Load (1.1ms)[0m  [1mSELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 412302 ORDER BY roles.startdate DESC[0m
+  [1m[35mRole Load (1.0ms)[0m  SELECT "roles".* FROM "roles" WHERE "roles"."person_id" = 412584 ORDER BY roles.startdate DESC
+  Rendered issues/_person.html.erb (20.4ms)
+  Rendered issues/_issue.html.erb (0.0ms)
+  [1m[36mArticle Load (4.6ms)[0m  [1mSELECT "articles".* FROM "articles" WHERE (frontpage = true) ORDER BY created_at DESC LIMIT 7[0m
+  Rendered articles/_frontpage.html.erb (1.6ms)
+  [1m[35mRollCall Load (2.3ms)[0m  SELECT * FROM roll_calls WHERE id IN 
+ (SELECT max(id) AS roll_id FROM roll_calls
+ WHERE bill_id IS NOT NULL
+ GROUP BY bill_id ORDER BY roll_id DESC LIMIT 5)
+ AND bill_id IS NOT NULL
+ ORDER BY date DESC;
+  [1m[36mBill Load (1.2ms)[0m  [1mSELECT "bills".* FROM "bills" WHERE "bills"."id" = 1099 LIMIT 1[0m
+  [1m[35mBillTitle Load (1.1ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 1099
+  [1m[36mBill Load (1.0ms)[0m  [1mSELECT "bills".* FROM "bills" WHERE "bills"."id" = 567 LIMIT 1[0m
+  [1m[35mBillTitle Load (0.8ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 567
+  [1m[36mBill Load (1.0ms)[0m  [1mSELECT "bills".* FROM "bills" WHERE "bills"."id" = 1002 LIMIT 1[0m
+  [1m[35mBillTitle Load (0.7ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 1002
+  [1m[36mBill Load (1.0ms)[0m  [1mSELECT "bills".* FROM "bills" WHERE "bills"."id" = 1299 LIMIT 1[0m
+  [1m[35mBillTitle Load (0.9ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 1299
+  [1m[36mBill Load (1.0ms)[0m  [1mSELECT "bills".* FROM "bills" WHERE "bills"."id" = 398 LIMIT 1[0m
+  [1m[35mBillTitle Load (0.9ms)[0m  SELECT "bill_titles".* FROM "bill_titles" WHERE "bill_titles"."bill_id" = 398
+  Rendered issues/index.html.erb within layouts/frontpage (196.1ms)
+  Rendered shared/_analytics_head.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (5.8ms)
+  Rendered layouts/_footer.html.erb (10.0ms)
+  Rendered shared/_analytics_foot.html.erb (0.1ms)
+Completed 200 OK in 340ms (Views: 189.1ms | ActiveRecord: 130.3ms)
+
+
+Started GET "/assets/master.css?body=1" for 127.0.0.1 at 2013-03-24 15:44:18 -0700
+Served asset /master.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/articles.css?body=1" for 127.0.0.1 at 2013-03-24 15:44:18 -0700
+Served asset /articles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/api.css?body=1" for 127.0.0.1 at 2013-03-24 15:44:18 -0700
+Served asset /api.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2013-03-24 15:44:18 -0700
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/classes.css?body=1" for 127.0.0.1 at 2013-03-24 15:44:18 -0700
+Served asset /classes.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/resources.css?body=1" for 127.0.0.1 at 2013-03-24 15:44:18 -0700
+Served asset /resources.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ie7.css?body=1" for 127.0.0.1 at 2013-03-24 15:44:18 -0700
+Served asset /ie7.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-1.3.2.min.js?body=1" for 127.0.0.1 at 2013-03-24 15:44:18 -0700
+Served asset /jquery-1.3.2.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/prototype.js?body=1" for 127.0.0.1 at 2013-03-24 15:44:18 -0700
+Served asset /prototype.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/frontpage.js?body=1" for 127.0.0.1 at 2013-03-24 15:44:18 -0700
+Served asset /frontpage.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/throbber.gif" for 127.0.0.1 at 2013-03-24 15:44:18 -0700
+Served asset /throbber.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/banner_issues.png" for 127.0.0.1 at 2013-03-24 15:44:18 -0700
+Served asset /banner_issues.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/tool_arrow-trans.png" for 127.0.0.1 at 2013-03-24 15:44:18 -0700
+Served asset /tool_arrow-trans.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/show_me-trans.png" for 127.0.0.1 at 2013-03-24 15:44:18 -0700
+Served asset /show_me-trans.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/passed_big.png" for 127.0.0.1 at 2013-03-24 15:44:18 -0700
+Served asset /passed_big.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/big_people_icon.png" for 127.0.0.1 at 2013-03-24 15:44:27 -0700
+Served asset /big_people_icon.png - 200 OK (26ms)
+
+
+Started GET "/assets/tiny_icons.png" for 127.0.0.1 at 2013-03-24 15:44:27 -0700
+Served asset /tiny_icons.png - 304 Not Modified (10ms)
+>> Stopping ...
+Exiting

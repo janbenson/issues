@@ -1,0 +1,28 @@
+<bill session="113" type="s" number="633" updated="2013-03-22T04:45:50-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend title 38, United States Code, to provide for coverage under the beneficiary travel program of the Department of Veterans Affairs of certain disabled veterans for travel in connection with certain special disabilities rehabilitation, and for other purposes.</title>
+  </titles>
+  <sponsor id="412244"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="2013-03-21"/>
+    <cosponsor id="412326" joined="2013-03-21"/>
+    <cosponsor id="412490" joined="2013-03-21"/>
+    <cosponsor id="300065" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

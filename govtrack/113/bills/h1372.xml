@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="1372" updated="2013-03-22T04:47:14-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To direct the Secretary of Veterans Affairs to establish a registry of certain veterans who were stationed at or underwent training at Canadian Forces Base Gagetown, New Brunswick, Canada, and for other purposes.</title>
+  </titles>
+  <sponsor id="400274"/>
+  <cosponsors>
+    <cosponsor id="412307" joined="2013-03-21"/>
+    <cosponsor id="412239" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Armed Services</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

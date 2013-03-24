@@ -1,0 +1,25 @@
+<bill session="113" type="s" number="606" updated="2013-03-20T04:45:57-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend the Internal Revenue Code of 1986 to modify the rules relating to loans made from a qualified employer plan, and for other purposes.</title>
+  </titles>
+  <sponsor id="300078"/>
+  <cosponsors>
+    <cosponsor id="300041" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-19">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

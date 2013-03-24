@@ -1,0 +1,25 @@
+<bill session="113" type="sc" number="9" updated="2013-03-20T04:47:39-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title as="introduced" type="official">A concurrent resolution recommending the posthumous award of the Medal of Honor to Sergeant Rafael Peralta.</title>
+  </titles>
+  <sponsor id="300043"/>
+  <cosponsors>
+    <cosponsor id="412491" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-19">
+      <text>Referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

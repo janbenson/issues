@@ -1,0 +1,376 @@
+                                                                                                                                   II
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                            S. 396
+                                  To amend the Federal Water Pollution Control Act to ensure that sewage
+                                      treatment plants monitor for and report discharges of raw sewage, and
+                                      for other purposes.
+
+
+
+
+                                              IN THE SENATE OF THE UNITED STATES
+                                                               FEBRUARY 27, 2013
+                                  Mr. LAUTENBERG (for himself and Mr. WHITEHOUSE) introduced the fol-
+                                      lowing bill; which was read twice and referred to the Committee on Envi-
+                                      ronment and Public Works
+
+
+
+
+                                                                            A BILL
+                                  To amend the Federal Water Pollution Control Act to ensure
+                                      that sewage treatment plants monitor for and report
+                                      discharges of raw sewage, and for other purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Sewage Overflow Com-
+                                    5 munity Right-to-Know Act’’.
+                                    6     SEC. 2. DEFINITIONS.
+                                    7              Section 502 of the Federal Water Pollution Control
+
+
+
+
+                                    8 Act (33 U.S.C. 1362) is amended by adding at the end
+                                    9 the following:
+
+                                                                                             2
+                                    1                        ‘‘(26) TREATMENT                     WORKS.—The                   term ‘treat-
+                                    2              ment works’ has the meaning given the term in sec-
+                                    3              tion 212.’’.
+                                    4     SEC. 3. MONITORING, REPORTING, AND PUBLIC NOTIFICA-
+                                    5                             TION OF SEWER OVERFLOWS.
+                                    6              Section 402 of the Federal Water Pollution Control
+                                    7 Act (33 U.S.C. 1342) is amended by adding at the end
+                                    8 the following:
+                                    9              ‘‘(s) SEWER OVERFLOW MONITORING, REPORTING,
+                                  10      AND      NOTIFICATIONS.—
+                                  11                         ‘‘(1) DEFINITIONS.—In this subsection:
+                                  12                                  ‘‘(A) SANITARY               SEWER OVERFLOW.—
+
+                                  13                                         ‘‘(i) IN            GENERAL.—The                      term ‘sani-
+                                  14                                  tary sewer overflow’ means an overflow,
+                                  15                                  spill, release, or diversion of wastewater
+                                  16                                  from a sanitary sewer system.
+                                  17                                         ‘‘(ii) INCLUSIONS.—The term ‘sani-
+                                  18                                  tary sewer overflow’ includes—
+                                  19                                                   ‘‘(I) overflows or releases of
+                                  20                                         wastewater that reach waters of the
+                                  21                                         United States;
+                                  22                                                   ‘‘(II) overflows or releases of
+                                  23                                         wastewater in the United States that
+                                  24                                         do not reach waters of the United
+
+
+
+
+                                  25                                         States; and
+                                              •S 396 IS
+
+                                                                                             3
+                                    1                                                  ‘‘(III) wastewater backups into
+                                    2                                         buildings that are caused by blockages
+                                    3                                         or flow conditions in a sanitary sewer
+                                    4                                         other than a building lateral.
+                                    5                                         ‘‘(iii) EXCLUSIONS.—The term ‘sani-
+                                    6                                 tary sewer overflow’ does not include—
+                                    7                                                  ‘‘(I) municipal combined sewer
+                                    8                                         overflows or other discharges from the
+                                    9                                         combined portion of a municipal com-
+                                  10                                          bined storm and sanitary sewer sys-
+                                  11                                          tem; or
+                                  12                                                   ‘‘(II) wastewater backups into
+                                  13                                          buildings caused by a blockage or
+                                  14                                          other malfunction of a building lateral
+                                  15                                          that is privately owned.
+                                  16                                  ‘‘(B)        SEWER                 OVERFLOW.—The                term
+                                  17                         ‘sewer overflow’ means a sanitary sewer over-
+                                  18                         flow or a municipal combined sewer overflow.
+                                  19                                  ‘‘(C) SINGLE-FAMILY                     RESIDENCE.—
+
+                                  20                                          ‘‘(i) IN           GENERAL.—The                 term ‘single-
+                                  21                                  family residence’ means an individual
+                                  22                                  dwelling unit.
+                                  23                                          ‘‘(ii) INCLUSIONS.—The term ‘single-
+                                  24                                  family residence’ includes—
+
+
+
+
+
+                                  25                                                   ‘‘(I) an apartment;
+
+
+                                              •S 396 IS
+
+                                                                                             4
+                                    1                                                  ‘‘(II) a condominium;
+                                    2                                                  ‘‘(III) a house; and
+                                    3                                                  ‘‘(IV) a dormitory.
+                                    4                                        ‘‘(iii) EXCLUSIONS.—The term ‘single-
+                                    5                                 family residence’ does not include the com-
+                                    6                                 mon areas of a multidwelling structure.
+                                    7                        ‘‘(2) GENERAL               REQUIREMENTS.—After                       the last
+                                    8              day of the 180-day period beginning on the date on
+                                    9              which regulations are promulgated under paragraph
+                                  10               (5), a permit issued, renewed, or modified under this
+                                  11               section by the Administrator or the State, as appli-
+                                  12               cable, for a publicly owned treatment works shall re-
+                                  13               quire, at a minimum, beginning on the date of the
+                                  14               issuance, modification, or renewal, that the owner or
+                                  15               operator of the treatment works—
+                                  16                                  ‘‘(A) institute and use a feasible method-
+                                  17                         ology, technology, or management program for
+                                  18                         monitoring sewer overflows to alert the owner
+                                  19                         or operator to the occurrence of a sewer over-
+                                  20                         flow in a timely manner;
+                                  21                                  ‘‘(B) in the case of a sewer overflow that
+                                  22                         has the potential to affect human health, notify
+                                  23                         the public of the overflow as soon as practicable
+                                  24                         but not later than 24 hours after the time the
+
+
+
+
+                                  25                         owner or operator knows of the overflow;
+                                              •S 396 IS
+
+                                                                                             5
+                                    1                                 ‘‘(C) in the case of a sewer overflow that
+                                    2                        may imminently and substantially endanger
+                                    3                        human health, notify public health authorities
+                                    4                        and other affected entities, such as public water
+                                    5                        systems, of the overflow immediately after the
+                                    6                        owner or operator knows of the overflow;
+                                    7                                 ‘‘(D) report each sewer overflow on the
+                                    8                        discharge monitoring report of the owner or op-
+                                    9                        erator to the Administrator or the State, as ap-
+                                  10                         plicable, by describing—
+                                  11                                          ‘‘(i) the magnitude, duration, and sus-
+                                  12                                  pected cause of the overflow;
+                                  13                                          ‘‘(ii) the steps taken or planned to re-
+                                  14                                  duce, eliminate, or prevent recurrence of
+                                  15                                  the overflow; and
+                                  16                                          ‘‘(iii) the steps taken or planned to
+                                  17                                  mitigate the impact of the overflow; and
+                                  18                                  ‘‘(E) annually report to the Administrator
+                                  19                         or the State, as applicable, the total number of
+                                  20                         sewer overflows in a calendar year, including—
+                                  21                                          ‘‘(i) the details of how much waste-
+                                  22                                  water was released per incident;
+                                  23                                          ‘‘(ii) the duration of each sewer over-
+                                  24                                  flow;
+
+
+
+
+
+                                              •S 396 IS
+
+                                                                                             6
+                                    1                                        ‘‘(iii) the location of the overflow and
+                                    2                                 any potentially affected receiving waters;
+                                    3                                        ‘‘(iv) the responses taken to clean up
+                                    4                                 the overflow; and
+                                    5                                        ‘‘(v) the actions taken to mitigate im-
+                                    6                                 pacts and avoid further sewer overflows at
+                                    7                                 the site.
+                                    8                        ‘‘(3) EXCEPTIONS.—
+                                    9                                 ‘‘(A) NOTIFICATION                    REQUIREMENTS.—The
+                                  10                         notification requirements of subparagraphs (B)
+                                  11                         and (C) of paragraph (2) shall not apply to a
+                                  12                         sewer overflow that is a wastewater backup into
+                                  13                         a single-family residence.
+                                  14                                  ‘‘(B) REPORTING                       REQUIREMENTS.—The
+                                  15                         reporting requirements of subparagraphs (D)
+                                  16                         and (E) of paragraph (2) shall not apply to a
+                                  17                         sewer overflow that is a release of wastewater
+                                  18                         that—
+                                  19                                         ‘‘(i) occurs in the course of mainte-
+                                  20                                  nance of the treatment works;
+                                  21                                         ‘‘(ii) is managed consistently with the
+                                  22                                  best management practices of the treat-
+                                  23                                  ment works; and
+                                  24                                         ‘‘(iii) is intended to prevent sewer
+
+
+
+
+                                  25                                  overflows.
+                                              •S 396 IS
+
+                                                                                             7
+                                    1                        ‘‘(4) REPORT              TO EPA.—Each                     State shall pro-
+                                    2              vide to the Administrator annually a summary of
+                                    3              sewer overflows that occur in the State.
+                                    4                        ‘‘(5) RULEMAKING                    BY EPA.—Not                  later than 1
+                                    5              year after the date of enactment of this subsection,
+                                    6              the Administrator, after providing notice and an op-
+                                    7              portunity for public comment, shall promulgate reg-
+                                    8              ulations to implement this subsection, including reg-
+                                  109              ulations—        ‘‘(A) to establish a set of criteria to guide
+                                  11                         the owner or operator of a publicly owned treat-
+                                  12                         ment works in—
+                                  13                                         ‘‘(i) assessing whether a sewer over-
+                                  14                                  flow may imminently and substantially en-
+                                  15                                  danger human health; and
+                                  16                                         ‘‘(ii) developing communication meas-
+                                  17                                  ures that are sufficient to give notice
+                                  18                                  under subparagraphs (B) and (C) of para-
+                                  19                                  graph (2); and
+                                  20                                  ‘‘(B) to define the terms ‘feasible’ and
+                                  21                         ‘timely’ as those terms apply to paragraph
+                                  22                         (2)(A), including site specific conditions.
+                                  23                         ‘‘(6) APPROVAL                  OF STATE NOTIFICATION PRO-
+                                  24               GRAMS.—
+                                  25                                  ‘‘(A) REQUESTS                FOR APPROVAL.—
+
+
+
+                                              •S 396 IS
+
+                                                                                             8
+                                    1                                        ‘‘(i) IN        GENERAL.—After                        the date on
+                                    2                                 which regulations are promulgated under
+                                    3                                 paragraph (5), a State may submit to the
+                                    4                                 Administrator evidence that the State has
+                                    5                                 in place a legally enforceable notification
+                                    6                                 program that is substantially equivalent to
+                                    7                                 the requirements of subparagraphs (B)
+                                    8                                 and (C) of paragraph (2).
+                                    9                                        ‘‘(ii) PROGRAM                 REVIEW AND AUTHOR-
+                                  10                                  IZATION.—If                the evidence submitted by a
+                                  11                                  State under clause (i) shows the notifica-
+                                  12                                  tion program of the State to be substan-
+                                  13                                  tially equivalent to the requirements of
+                                  14                                  subparagraphs (B) and (C) of paragraph
+                                  15                                  (2), the Administrator shall authorize the
+                                  16                                  State to carry out that program instead of
+                                  17                                  those requirements.
+                                  18                                         ‘‘(iii) FACTORS                    FOR         DETERMINING
+                                  19                                  SUBSTANTIAL EQUIVALENCY.—In                                     carrying
+                                  20                                  out a review of a State notification pro-
+                                  21                                  gram under clause (ii), the Administrator
+                                  22                                  shall take into account—
+                                  23                                                   ‘‘(I) the scope of sewer overflows
+                                  24                                         for which notification is required;
+
+
+
+
+
+                                              •S 396 IS
+
+                                                                                             9
+                                    1                                                  ‘‘(II) the length of time during
+                                    2                                        which notification must be made;
+                                    3                                                  ‘‘(III) the number of persons
+                                    4                                        that must be notified of sewer over-
+                                    5                                        flows;
+                                    6                                                  ‘‘(IV) the scope of enforcement
+                                    7                                        activities ensuring that notifications of
+                                    8                                        sewer overflows are made; and
+                                    9                                                  ‘‘(V) such other factors as the
+                                  10                                         Administrator considers to be appro-
+                                  11                                         priate.
+                                  12                                  ‘‘(B) REVIEW               PERIOD.—If             a State submits
+                                  13                         evidence with respect to a notification program
+                                  14                         under subparagraph (A)(i) in the 30-day period
+                                  15                         beginning on the date of promulgation of regu-
+                                  16                         lations under paragraph (5), the requirements
+                                  17                         of subparagraphs (B) and (C) of paragraph (2)
+                                  18                         shall not apply to a publicly owned treatment
+                                  19                         works located in the State until the date on
+                                  20                         which the Administrator completes a review of
+                                  21                         the notification program under subparagraph
+                                  22                         (A)(ii).
+                                  23                                  ‘‘(C) WITHDRAWAL                     OF AUTHORIZATION.—
+                                  24                         If the Administrator, after conducting a public
+
+
+
+
+                                  25                         hearing, determines that a State is not admin-
+                                              •S 396 IS
+
+                                                                                         10
+                                    1                        istering and enforcing a State notification pro-
+                                    2                        gram authorized under subparagraph (A)(ii) in
+                                    3                        accordance with the requirements of this para-
+                                    4                        graph, the Administrator shall so notify the
+                                    5                        State and, if appropriate corrective action is not
+                                    6                        taken within a reasonable time, not to exceed
+                                    7                        90 days, the Administrator shall withdraw au-
+                                    8                        thorization of the program and enforce the re-
+                                    9                        quirements of subparagraphs (B) and (C) of
+                                  10                         paragraph (2) with respect to the State.
+                                  11                         ‘‘(7) SPECIAL                   RULES CONCERNING APPLICA-
+                                  12               TION OF NOTIFICATION REQUIREMENTS.—Beginning
+                                  13               on the day after the 30-day period that begins on
+                                  14               the date of promulgation of regulations under para-
+                                  15               graph (5), the requirements of subparagraphs (B)
+                                  16               and (C) of paragraph (2) shall—
+                                  17                                  ‘‘(A) apply to the owner or operator of a
+                                  18                         publicly owned treatment works and be subject
+                                  19                         to enforcement under section 309; and
+                                  20                                  ‘‘(B) supersede any notification require-
+                                  21                         ments contained in a permit issued under this
+                                  22                         section for the treatment works to the extent
+                                  23                         that the notification requirements are less strin-
+                                  24                         gent than the notification requirements of sub-
+
+
+
+
+                                  25                         paragraphs (B) and (C) of paragraph (2), until
+                                              •S 396 IS
+
+                                                                                         11
+                                    1                        such date as a permit is issued, renewed, or
+                                    2                        modified under this section for the treatment
+                                    3                        works in accordance with paragraph (2).’’.
+                                    4     SEC. 4. ELIGIBILITY FOR ASSISTANCE.
+
+                                    5              (a) PURPOSE              OF     STATE REVOLVING FUND.—Section
+                                    6 601(a) of the Federal Water Pollution Control Act (33
+                                    7 U.S.C. 1381(a)) is amended—
+                                    8                        (1) by striking ‘‘and’’ the first place it appears;
+                                  109              and       (2) by inserting after ‘‘section 320’’ the fol-
+                                  11               lowing: ‘‘, and (4) for the implementation of require-
+                                  12               ments to monitor for sewer overflows under section
+                                  13               402’’.
+                                  14               (b) WATER POLLUTION CONTROL REVOLVING LOAN
+                                  15 FUNDS.—Section 603(c) of the Federal Water Pollution
+                                  16 Control Act (33 U.S.C. 1383(c)) is amended—
+                                  17                         (1) by striking ‘‘and’’ the first place it appears;
+                                  18               and
+                                  19                         (2) by inserting after ‘‘section 320 of this Act’’
+                                  20               the following: ‘‘, and (4) for the implementation of
+                                  21               requirements to monitor for sewer overflows under
+                                  22               section 402’’.
+                                  23      SEC. 5. EFFECT OF ACT.
+                                  24               Nothing in this Act or an amendment made by this
+
+
+
+
+                                  25 Act—
+                                              •S 396 IS
+
+                                                                                         12
+                                    1                        (1) limits the ability of any State to implement
+                                    2              or enforce a more stringent monitoring or notifica-
+                                    3              tion standard than the applicable standard under
+                                    4              the Federal Water Pollution Control Act (33 U.S.C.
+                                    5              1251 et seq.);
+                                    6                        (2) authorizes any sewer overflow; or
+                                    7                        (3) supplants or diminishes any obligation to
+                                    8              comply with any requirement of the Federal Water
+                                    9              Pollution Control Act (33 U.S.C. 1251 et seq.) or
+                                  10               any other Federal or State law.
+                                              •S 396 IS                                    Æ

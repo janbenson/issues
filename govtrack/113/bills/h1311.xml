@@ -1,0 +1,30 @@
+<bill session="113" type="h" number="1311" updated="2013-03-22T04:46:43-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To prohibit certain grants under the Child Abuse Prevention and Treatment Act to States that do not provide for certain minimal terms of imprisonment for certain child abusers, and for other purposes.</title>
+  </titles>
+  <sponsor id="412551"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Judiciary</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

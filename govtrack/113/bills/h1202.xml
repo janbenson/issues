@@ -1,0 +1,36 @@
+<bill session="113" type="h" number="1202" updated="2013-03-21T06:16:28-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="official">To prevent a fiscal crisis by enacting legislation to balance the Federal budget through reductions of discretionary and mandatory spending.</title>
+  </titles>
+  <sponsor id="412417"/>
+  <cosponsors>
+    <cosponsor id="412472" joined="2013-03-14"/>
+    <cosponsor id="412474" joined="2013-03-20"/>
+    <cosponsor id="412408" joined="2013-03-20"/>
+    <cosponsor id="400627" joined="2013-03-14"/>
+    <cosponsor id="400433" joined="2013-03-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Referred to House Rules</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBU" name="House Budget" activity="Referral, In Committee"/>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

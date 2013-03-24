@@ -1,0 +1,23 @@
+<bill session="113" type="sr" number="89" updated="2013-03-22T04:47:34-04:00">
+  <state datetime="2013-03-21">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">A resolution designating March 25, 2013, as "National Cerebral Palsy Awareness Day".</title>
+  </titles>
+  <sponsor id="400194"/>
+  <cosponsors>
+    <cosponsor id="412246" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASSED:SIMPLERES" datetime="2013-03-21" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

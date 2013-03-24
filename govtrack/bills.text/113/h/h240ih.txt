@@ -1,0 +1,1336 @@
+                                                                                                                                                                    I
+
+
+
+
+                                                                   113TH CONGRESS
+                                                                      1ST SESSION                           H. R. 240
+                                                                   To establish a program to provide reinsurance for State natural catastrophe
+                                                                       insurance programs to help the United States better prepare for and
+                                                                       protect its citizens against the ravages of natural catastrophes, to encour-
+                                                                       age and promote mitigation and prevention for, and recovery and rebuild-
+                                                                       ing from such catastrophes, and to better assist in the financial recovery
+                                                                       from such catastrophes.
+
+
+
+
+                                                                                 IN THE HOUSE OF REPRESENTATIVES
+                                                                                                        JANUARY 14, 2013
+                                                                     Mr. ROSS        introduced the following bill; which was referred to the Committee
+                                                                                                      on Financial Services
+
+
+
+
+                                                                                                             A BILL
+                                                                   To establish a program to provide reinsurance for State
+                                                                      natural catastrophe insurance programs to help the
+                                                                      United States better prepare for and protect its citizens
+                                                                      against the ravages of natural catastrophes, to encourage
+                                                                      and promote mitigation and prevention for, and recovery
+                                                                      and rebuilding from such catastrophes, and to better
+                                                                      assist in the financial recovery from such catastrophes.
+                                                                     1               Be it enacted by the Senate and House of Representa-
+rfrederick on DSK6VPTVN1PROD with                                    2 tives of the United States of America in Congress assembled,
+                                                                     1     SECTION 1. SHORT TITLE; TABLE OF CONTENTS.         2
+                                                                     2               (a) SHORT TITLE.—This Act may be cited as the
+                                                                     3 ‘‘Homeowners Insurance Protection Act of 2013’’.
+                                                                     4               (b) TABLE           OF    CONTENTS.—The table of contents for
+                                                                     5 this Act is as follows:
+                                                                           Sec.    1. Short title; table of contents.
+                                                                           Sec.    2. Congressional findings.
+                                                                           Sec.    3. National Commission on Catastrophe Preparation and Protection.
+                                                                           Sec.    4. Program authority.
+                                                                           Sec.    5. Qualified lines of coverage.
+                                                                           Sec.    6. Covered perils.
+                                                                           Sec.    7. Contracts for reinsurance coverage for eligible State programs.
+                                                                           Sec.    8. Treatment of insured losses and maximum Federal liability.
+                                                                           Sec.    9. Catastrophe capital reserve funds.
+                                                                           Sec.    10. Consumer Hurricane, Earthquake, Loss Protection (HELP) Fund.
+                                                                           Sec.    11. Annual study concerning benefits of reinsurance program.
+                                                                           Sec.    12. Definitions.
+                                                                           Sec.    13. Regulations.
+                                                                           Sec.    14. Termination.
+                                                                     6     SEC. 2. CONGRESSIONAL FINDINGS.
+                                                                     7               The Congress finds that—
+                                                                     8                        (1) the United States needs to take actions to
+                                                                     9               be better prepared for and better protected from ca-
+                                                                   10                tastrophes;
+                                                                   11                         (2) the hurricane seasons of 2004 and 2005 are
+                                                                   12                startling reminders of both the human and economic
+                                                                   13                devastation that hurricanes, flooding, and other nat-
+                                                                   14                ural disasters can cause;
+                                                                   15                         (3) if a hurricane similar to the deadly 1900
+                                                                   16                Galveston hurricane occurred again it could cause
+rfrederick on DSK6VPTVN1PROD with                                  17                over $36,000,000,000 in loss;
+                                                                                •HR 240 IH
+
+                                                                                                                               3
+                                                                     1                        (4) if the 1904 San Francisco earthquake oc-
+                                                                     2               curred again it could cause over $400,000,000,000
+                                                                     3               in loss;
+                                                                     4                        (5) if a Category 5 hurricane were to hit Miami
+                                                                     5               it could cause over $50,000,000,000 in loss and dev-
+                                                                     6               astate the insurance industry in the United States;
+                                                                     7                        (6) if the 1938 ‘‘Long Island Express’’ were to
+                                                                     8               occur again it could cause over $30,000,000,000 in
+                                                                     9               damage and if a hurricane that strong were to di-
+                                                                   10                rectly            hit     Manhattan                   it     could          cause   over
+                                                                   11                $150,000,000,000 in damage and cause irreparable
+                                                                   12                harm to our Nation’s economy;
+                                                                   13                         (7) a more comprehensive and integrated ap-
+                                                                   14                proach to dealing with catastrophes is needed;
+                                                                   15                         (8) using history as a guide, natural catas-
+                                                                   16                trophes will inevitably place a tremendous strain on
+                                                                   17                homeowners’ insurance markets in many areas, will
+                                                                   18                raise costs for consumers, and will jeopardize the
+                                                                   19                ability of many consumers to adequately insure their
+                                                                   20                homes and possessions;
+                                                                   21                         (9) the lack of sufficient insurance capacity and
+                                                                   22                the inability of private insurers to build enough cap-
+                                                                   23                ital, in a short amount of time, threatens to increase
+rfrederick on DSK6VPTVN1PROD with                                  24                the number of uninsured homeowners, which, in
+                                                                                •HR 240 IH
+
+                                                                                                                              4
+                                                                     1               turn, increases the risk of mortgage defaults and the
+                                                                     2               strain on the Nation’s banking system;
+                                                                     3                        (10) some States have intervened to ensure the
+                                                                     4               continued availability and affordability of home-
+                                                                     5               owners’ insurance for all residents;
+                                                                     6                        (11) it is appropriate that efforts to improve in-
+                                                                     7               surance availability be designed and implemented at
+                                                                     8               the State level;
+                                                                     9                        (12) while State insurance programs may be
+                                                                   10                adequate to cover losses from most natural disasters,
+                                                                   11                a small percentage of events are likely to exceed the
+                                                                   12                financial capacity of these programs and the local
+                                                                   13                insurance markets;
+                                                                   14                         (13) making available limited Federal reinsur-
+                                                                   15                ance would improve the effectiveness of State insur-
+                                                                   16                ance programs and private insurance markets and
+                                                                   17                would increase the likelihood that homeowners’ in-
+                                                                   18                surance claims will be fully paid in the event of a
+                                                                   19                large natural catastrophe and that routine claims
+                                                                   20                that occur after a mega-catastrophe will also con-
+                                                                   21                tinue to be paid;
+                                                                   22                         (14) it is necessary to provide a Federal rein-
+                                                                   23                surance program on a temporary basis that will pro-
+rfrederick on DSK6VPTVN1PROD with                                  24                vide more protection at an overall lower cost and
+                                                                   25                that will promote stability in the homeowners’ insur-
+
+
+                                                                                •HR 240 IH
+
+                                                                                                                              5
+                                                                     1               ance market in the short term and encourage growth
+                                                                     2               of reinsurance capacity by the private and capital
+                                                                     3               markets as soon as practical;
+                                                                     4                        (15) it is the proper role of the Federal Govern-
+                                                                     5               ment to prepare for and protect its citizens from ca-
+                                                                     6               tastrophes and to facilitate consumer protection, vic-
+                                                                     7               tim assistance, and recovery, including financial re-
+                                                                     8               covery;
+                                                                     9                        (16) any Federal reinsurance program must be
+                                                                   10                founded upon sound actuarial principles and priced
+                                                                   11                in a manner that minimizes the potential impact on
+                                                                   12                the Treasury of the United States, encourages the
+                                                                   13                creation of State funds and maximizes the buying
+                                                                   14                potential of these State funds, encourages and pro-
+                                                                   15                motes prevention and mitigation, recovery and re-
+                                                                   16                building, and consumer education, and emphasizes
+                                                                   17                continuous analysis and improvement; and
+                                                                   18                         (17) such a Federal reinsurance program
+                                                                   19                should not remain in existence longer than necessary
+                                                                   20                for the private entities or the capital markets, or
+                                                                   21                both, to provide adequate reinsurance capacity to
+rfrederick on DSK6VPTVN1PROD with                                  22                address the homeowners’ insurance market.
+                                                                                •HR 240 IH
+
+                                                                     1     SEC. 3. NATIONAL COMMISSION ON CATASTROPHE PREPA-  6
+                                                                     2                             RATION AND PROTECTION.
+
+                                                                     3               (a) ESTABLISHMENT.—The Secretary of the Treas-
+                                                                     4 ury shall establish a commission to be known as the Na-
+                                                                     5 tional Commission on Catastrophe Preparation and Pro-
+                                                                     6 tection.
+                                                                     7               (b) DUTIES.—The Commission shall meet for the
+                                                                     8 purpose of advising the Secretary regarding the estimated
+                                                                     9 loss costs associated with the contracts for reinsurance
+                                                                   10 coverage available under this Act and carrying out the
+                                                                   11 functions specified in this Act, including—
+                                                                   12                         (1) the development and implementation of
+                                                                   13                public education concerning the risks posed by nat-
+                                                                   14                ural catastrophes;
+                                                                   15                         (2) the development and implementation of pre-
+                                                                   16                vention, mitigation, recovery, and rebuilding stand-
+                                                                   17                ards that better prepare and protect the United
+                                                                   18                States from catastrophes;
+                                                                   19                         (3) the establishment of requirements under
+                                                                   20                section 7(e) to ensure that cost savings resulting
+                                                                   21                from this Act inure to the benefit of consumers; and
+                                                                   22                         (4) conducting continuous analysis of the effec-
+                                                                   23                tiveness of this Act and recommending improve-
+rfrederick on DSK6VPTVN1PROD with                                  24                ments to the Congress so that the costs of providing
+                                                                   25                catastrophe protection are decreased and so that the
+                                                                   26                United States is better prepared.
+                                                                                •HR 240 IH
+
+                                                                     1               (c) MEMBERS.—                          7
+                                                                     2                        (1) APPOINTMENT                      AND QUALIFICATION.—The
+                                                                     3               Commission shall consist of 9 members, as follows:
+                                                                     4                                 (A) HOMELAND                   SECURITY MEMBER.—The
+                                                                     5                        Secretary of Homeland Security or the Sec-
+                                                                     6                        retary’s designee.
+                                                                     7                                 (B) APPOINTED                      MEMBERS.—Eight            mem-
+                                                                     8                        bers appointed by the Secretary, who shall con-
+                                                                   109                        sist of—       (i) one individual who is an actuary;
+                                                                   11                                          (ii) one individual who is employed in
+                                                                   12                                  engineering;
+                                                                   13                                          (iii) one individual representing the
+                                                                   14                                  scientific community;
+                                                                   15                                          (iv) one individual representing prop-
+                                                                   16                                  erty and casualty insurers;
+                                                                   17                                          (v) one individual representing rein-
+                                                                   18                                  surers;
+                                                                   19                                          (vi) one individual who is a member or
+                                                                   20                                  former member of the National Association
+                                                                   21                                  of Insurance Commissioners; and
+                                                                   22                                          (vii) two individuals who are con-
+                                                                   23                                  sumers.
+                                                                   24                         (2) PREVENTION                      OF CONFLICTS OF INTER-
+rfrederick on DSK6VPTVN1PROD with
+
+
+
+                                                                   25                EST.—Members                   shall have no personal or financial
+                                                                                •HR 240 IH
+
+                                                                                                                              8
+                                                                     1               interest at stake in the deliberations of the Commis-
+                                                                     2               sion.
+                                                                     3               (d) TREATMENT                     OF         NON-FEDERAL MEMBERS.—
+                                                                     4 Each member of the Commission who is not otherwise em-
+                                                                     5 ployed by the Federal Government shall be considered a
+                                                                     6 special Government employee for purposes of sections 202
+                                                                     7 and 208 of title 18, United States Code.
+                                                                     8               (e) EXPERTS              AND      CONSULTANTS.—The Commission
+                                                                     9 may procure temporary and intermittent services from in-
+                                                                   10 dividuals or groups recognized as experts in the fields of
+                                                                   11 meteorology, seismology, vulcanology, geology, structural
+                                                                   12 engineering, wind engineering, and hydrology, and other
+                                                                   13 fields, under section 3109(b) of title 5, United States
+                                                                   14 Code, but at a rate not in excess of the daily equivalent
+                                                                   15 of the annual rate of basic pay payable for level V of the
+                                                                   16 Executive Schedule, for each day during which the indi-
+                                                                   17 vidual procured is performing such services for the Com-
+                                                                   18 mission. The Commission may also procure, and the Con-
+                                                                   19 gress encourages the Commission to procure, experts from
+                                                                   20 universities, research centers, foundations, and other ap-
+                                                                   21 propriate organizations who could study, research, and de-
+                                                                   22 velop methods and mechanisms that could be utilized to
+                                                                   23 strengthen structures to better withstand the perils cov-
+rfrederick on DSK6VPTVN1PROD with                                  24 ered by this Act.
+                                                                                •HR 240 IH
+
+                                                                                                                              9
+                                                                     1               (f) COMPENSATION.—Each member of the Commis-
+                                                                     2 sion who is not an officer or employee of the Federal Gov-
+                                                                     3 ernment shall be compensated at a rate of basic pay pay-
+                                                                     4 able for level V of the Executive Schedule, for each day
+                                                                     5 (including travel time) during which such member is en-
+                                                                     6 gaged in the performance of the duties of the Commission.
+                                                                     7 All members of the Commission who are officers or em-
+                                                                     8 ployees of the United States shall serve without compensa-
+                                                                     9 tion in addition to that received for their services as offi-
+                                                                   10 cers or employees of the United States.
+                                                                   11                (g) OBTAINING DATA.—The Commission and the
+                                                                   12 Secretary may solicit loss exposure data and such other
+                                                                   13 information either deems necessary to carry out its re-
+                                                                   14 sponsibilities from governmental agencies and bodies and
+                                                                   15 organizations that act as statistical agents for the insur-
+                                                                   16 ance industry. The Commission and the Secretary shall
+                                                                   17 take such actions as are necessary to ensure that informa-
+                                                                   18 tion that either deems is confidential or proprietary is dis-
+                                                                   19 closed only to authorized individuals working for the Com-
+                                                                   20 mission or the Secretary. No company which refuses to
+                                                                   21 provide information requested by the Commission or the
+                                                                   22 Secretary may participate in the program for reinsurance
+                                                                   23 coverage authorized under this Act, nor may any State
+rfrederick on DSK6VPTVN1PROD with                                  24 insurance or reinsurance program participate if any gov-
+                                                                   25 ernmental agency within that State has refused to provide
+
+
+                                                                                •HR 240 IH
+
+                                                                                                                          10
+                                                                     1 information requested by the Commission or the Sec-
+                                                                     2 retary.
+                                                                     3               (h) FUNDING.—
+                                                                     4                        (1) AUTHORIZATION                           OF      APPROPRIATIONS.—
+                                                                     5               There is authorized to be appropriated—
+                                                                     6                                 (A) $10,000,000 for fiscal year 2014 for
+                                                                     7                        the initial expenses in establishing the Commis-
+                                                                     8                        sion and the initial activities of the Commission
+                                                                     9                        that cannot timely be covered by amounts ob-
+                                                                   10                         tained pursuant to section 7(b)(6)(B)(iii), as
+                                                                   11                         determined by the Secretary;
+                                                                   12                                  (B) such additional sums as may be nec-
+                                                                   13                         essary to carry out subsequent activities of the
+                                                                   14                         Commission;
+                                                                   15                                  (C) $10,000,000 for fiscal year 2014 for
+                                                                   16                         the initial expenses of the Secretary in carrying
+                                                                   17                         out the program authorized under section 4;
+                                                                   18                         and
+                                                                   19                                  (D) such additional sums as may be nec-
+                                                                   20                         essary to carry out subsequent activities of the
+                                                                   21                         Secretary under this Act.
+                                                                   22                         (2) OFFSET.—The Secretary shall provide, to
+                                                                   23                the maximum extent practicable, that an amount
+rfrederick on DSK6VPTVN1PROD with                                  24                equal to any amount appropriated under paragraph
+                                                                   25                (1) is obtained from purchasers of reinsurance cov-
+
+
+                                                                                •HR 240 IH
+
+                                                                                                                          11
+                                                                     1               erage under this Act and deposited in the Fund es-
+                                                                     2               tablished under section 10. Such amounts shall be
+                                                                     3               obtained by inclusion of a provision for the Sec-
+                                                                     4               retary’s and the Commission’s expenses incorporated
+                                                                     5               into the pricing of the contracts for such reinsurance
+                                                                     6               coverage, pursuant to section 7(b)(6)(B)(iii).
+                                                                     7               (i) TERMINATION.—The Commission shall terminate
+                                                                     8 upon the effective date of the repeal under section 14(c).
+                                                                     9     SEC. 4. PROGRAM AUTHORITY.
+
+                                                                   10                (a) IN GENERAL.—The Secretary of the Treasury, in
+                                                                   11 consultation with the Secretary of Homeland Security,
+                                                                   12 shall carry out a program under this Act to improve the
+                                                                   13 availability and affordability of homeowners protection
+                                                                   14 coverage by making available for purchase, only by eligible
+                                                                   15 State programs, contracts for reinsurance coverage under
+                                                                   16 section 7.
+                                                                   17                (b) PURPOSE.—The program shall be designed to
+                                                                   18 make reinsurance coverage under this Act available—
+                                                                   19                         (1) to improve the availability and affordability
+                                                                   20                of homeowners’ insurance for the purpose of facili-
+                                                                   21                tating the pooling, and spreading the risk, of cata-
+                                                                   22                strophic financial losses from natural catastrophes;
+                                                                   23                         (2) to improve the solvency and capacity of
+rfrederick on DSK6VPTVN1PROD with                                  24                homeowners’ insurance markets;
+                                                                                •HR 240 IH
+
+                                                                                                                          12
+                                                                     1                        (3) to encourage the development and imple-
+                                                                     2               mentation of mitigation, prevention, recovery, and
+                                                                     3               rebuilding standards; and
+                                                                     4                        (4) to recommend methods to continuously im-
+                                                                     5               prove the way the United States reacts and responds
+                                                                     6               to catastrophes, including improvements to the
+                                                                     7               HELP Fund established under section 10.
+                                                                     8               (c) CONTRACT PRINCIPLES.—Under the program
+                                                                     9 under this Act, the Secretary shall offer reinsurance cov-
+                                                                   10 erage through contracts with covered purchasers, which
+                                                                   11 contracts—
+                                                                   12                         (1) shall not displace or compete with the pri-
+                                                                   13                vate insurance or reinsurance markets or the capital
+                                                                   14                market;
+                                                                   15                         (2) shall minimize the administrative costs of
+                                                                   16                the Federal Government; and
+                                                                   17                         (3) shall provide coverage based solely on in-
+                                                                   18                sured losses within the State for the eligible State
+                                                                   19                program purchasing the contract.
+                                                                   20      SEC. 5. QUALIFIED LINES OF COVERAGE.
+                                                                   21                Each contract for reinsurance coverage made avail-
+                                                                   22 able under this Act shall provide insurance coverage
+                                                                   23 against residential property losses to homes (including
+rfrederick on DSK6VPTVN1PROD with                                  24 dwellings owned under condominium and cooperative own-
+                                                                                •HR 240 IH
+
+                                                                                                                          13
+                                                                     1 ership arrangements) and the contents of apartment
+                                                                     2 buildings.
+                                                                     3     SEC. 6. COVERED PERILS.
+                                                                     4               Each contract for reinsurance coverage made avail-
+                                                                     5 able under this Act shall cover losses insured or reinsured
+                                                                     6 by the eligible State program purchasing the contract that
+                                                                     7 are proximately caused by—
+                                                                     8                        (1) earthquakes;
+                                                                     9                        (2) perils ensuing from earthquakes, including
+                                                                   10                fire and tsunamis;
+                                                                   11                         (3) tropical cyclones having maximum sustained
+                                                                   12                winds of at least 74 miles per hour, including hurri-
+                                                                   13                canes and typhoons;
+                                                                   14                         (4) tornadoes;
+                                                                   15                         (5) volcanic eruptions;
+                                                                   16                         (6) catastrophic winter storms; and
+                                                                   17                         (7) any other natural catastrophe (not including
+                                                                   18                any flood) insured or reinsured under the eligible
+                                                                   19                State program for which reinsurance coverage under
+                                                                   20                section 7 is provided.
+                                                                   21 The Secretary shall, by regulation, define the natural ca-
+rfrederick on DSK6VPTVN1PROD with                                  22 tastrophe perils under this section.
+                                                                                •HR 240 IH
+
+                                                                     1     SEC. 7. CONTRACTS FOR REINSURANCE COVERAGE FOR 14
+                                                                     2                             ELIGIBLE STATE PROGRAMS.
+
+                                                                     3               (a) ELIGIBLE STATE PROGRAMS.—A program shall
+                                                                     4 be eligible to purchase a contract under this section for
+                                                                     5 reinsurance coverage under this Act only if the State enti-
+                                                                     6 ty authorized to make such determinations certifies to the
+                                                                     7 Secretary that the program complies with the following re-
+                                                                     8 quirements:
+                                                                     9                        (1) PROGRAM               DESIGN.—The                 program shall be a
+                                                                   10                State-operated—
+                                                                   11                                  (A) insurance program that—
+                                                                   12                                          (i) offers coverage for homes (which
+                                                                   13                                  may include dwellings owned under condo-
+                                                                   14                                  minium and cooperative ownership ar-
+                                                                   15                                  rangements) and the contents of apart-
+                                                                   16                                  ments to State residents; and
+                                                                   17                                          (ii) is authorized by State law; or
+                                                                   18                                  (B) reinsurance program that is designed
+                                                                   19                         to improve private insurance markets that offer
+                                                                   20                         coverage for homes (which may include dwell-
+                                                                   21                         ings owned under condominium and cooperative
+                                                                   22                         ownership arrangements) and the contents of
+                                                                   23                         apartments because of a finding by the State
+rfrederick on DSK6VPTVN1PROD with                                  24                         insurance commissioner or other State entity
+                                                                   25                         authorized to make such a determination that
+                                                                   26                         such program is necessary in order to provide
+                                                                                •HR 240 IH
+
+                                                                                                                          15
+                                                                     1                        for the continued availability of such residential
+                                                                     2                        coverage for all residents.
+                                                                     3                        (2) OPERATION.—The program shall meet the
+                                                                     4               following requirements:
+                                                                     5                                 (A) A majority of the members of the gov-
+                                                                     6                        erning body of the program shall be public offi-
+                                                                     7                        cials.
+                                                                     8                                 (B) The State shall have a financial inter-
+                                                                     9                        est in the program, which shall not include a
+                                                                   10                         program authorized by State law or regulation
+                                                                   11                         that requires insurers to pool resources to pro-
+                                                                   12                         vide property insurance coverage for covered
+                                                                   13                         perils.
+                                                                   14                                  (C) If the State has at any time appro-
+                                                                   15                         priated amounts from the State fund for the
+                                                                   16                         State program for any purpose other than pay-
+                                                                   17                         ments under the program, the State shall have
+                                                                   18                         repaid such amounts to the State fund, together
+                                                                   19                         with interest on such amounts.
+                                                                   20                         (3) TAX         STATUS.—The                  program shall be struc-
+                                                                   21                tured and carried out in a manner so that the pro-
+                                                                   22                gram is exempt from all Federal taxation.
+                                                                   23                         (4) COVERAGE.—The program shall cover all
+rfrederick on DSK6VPTVN1PROD with                                  24                perils specified in section 6.
+                                                                                •HR 240 IH
+
+                                                                                                                          16
+                                                                     1                        (5) EARNINGS.—The program may not provide
+                                                                     2               for, nor shall have ever made, any redistribution of
+                                                                     3               any part of any net profits of the program to any
+                                                                     4               insurer that participates in the program.
+                                                                     5                        (6) PREVENTION                    AND MITIGATION.—The                 pro-
+                                                                     6               gram shall include prevention and mitigation provi-
+                                                                     7               sions that require that not less than $10,000,000
+                                                                     8               and not more than 35 percent of the net investment
+                                                                     9               income of the State insurance or reinsurance pro-
+                                                                   10                gram be used for programs to mitigate losses from
+                                                                   11                natural catastrophes for which the State insurance
+                                                                   12                or reinsurance program was established. For pur-
+                                                                   13                poses of this paragraph, prevention and mitigation
+                                                                   14                shall include methods to reduce losses of life and
+                                                                   15                property, including appropriate measures to ade-
+                                                                   16                quately reflect—
+                                                                   17                                  (A) encouragement of awareness about the
+                                                                   18                         risk factors and what can be done to eliminate
+                                                                   19                         or reduce them;
+                                                                   20                                  (B) location of the risk, by giving careful
+                                                                   21                         consideration of the natural risks for the loca-
+                                                                   22                         tion of the property before allowing building
+                                                                   23                         and considerations if structures are allowed;
+rfrederick on DSK6VPTVN1PROD with                                  24                         and
+                                                                                •HR 240 IH
+
+                                                                                                                          17
+                                                                     1                                 (C) construction relative to the risk and
+                                                                     2                        hazards, which act upon—
+                                                                     3                                         (i) State mandated building codes ap-
+                                                                     4                                 propriate for the risk;
+                                                                     5                                         (ii) adequate enforcement of the risk-
+                                                                     6                                 appropriate building codes;
+                                                                     7                                         (iii) building materials that prevent or
+                                                                     8                                 significantly lessen potential damage from
+                                                                     9                                 the natural catastrophes;
+                                                                   10                                          (iv) building methods that prevent or
+                                                                   11                                  significantly lessen potential damage from
+                                                                   12                                  the natural catastrophes; and
+                                                                   13                                          (v) a focus on prevention and mitiga-
+                                                                   14                                  tion for any substantially damaged struc-
+                                                                   15                                  ture, with an emphasis on how structures
+                                                                   16                                  can be retrofitted so as to make them
+                                                                   17                                  building code compliant.
+                                                                   18                         (7) REQUIREMENTS                     REGARDING COVERAGE.—
+
+                                                                   19                                  (A) IN       GENERAL.—The                   program—
+                                                                   20                                          (i) may not, except for charges or as-
+                                                                   21                                  sessments related to post-event financing
+                                                                   22                                  or bonding, involve cross-subsidization be-
+                                                                   23                                  tween any separate property and casualty
+rfrederick on DSK6VPTVN1PROD with                                  24                                  lines covered under the program unless the
+                                                                   25                                  elimination of such activity in an existing
+
+
+                                                                                •HR 240 IH
+
+                                                                                                                          18
+                                                                     1                                 program would negatively impact the eligi-
+                                                                     2                                 bility of the program to purchase a con-
+                                                                     3                                 tract for reinsurance coverage under this
+                                                                     4                                 Act pursuant to paragraph (3);
+                                                                     5                                         (ii) shall include provisions that au-
+                                                                     6                                 thorize the State insurance commissioner
+                                                                     7                                 or other State entity authorized to make
+                                                                     8                                 such a determination to terminate the pro-
+                                                                     9                                 gram if the insurance commissioner or
+                                                                   10                                  other such entity determines that the pro-
+                                                                   11                                  gram is no longer necessary to ensure the
+                                                                   12                                  availability of homeowners’ insurance for
+                                                                   13                                  all residents of the State; and
+                                                                   14                                          (iii) shall provide that, for any insur-
+                                                                   15                                  ance coverage for homes (which may in-
+                                                                   16                                  clude dwellings owned under condominium
+                                                                   17                                  and cooperative ownership arrangements)
+                                                                   18                                  and the contents of apartments that is
+                                                                   19                                  made available under the State insurance
+                                                                   20                                  program and for any reinsurance coverage
+                                                                   21                                  for such insurance coverage made available
+                                                                   22                                  under the State reinsurance program, the
+                                                                   23                                  premium rates charged shall be amounts
+rfrederick on DSK6VPTVN1PROD with                                  24                                  that, at a minimum, are sufficient to cover
+                                                                   25                                  the full actuarial costs of such coverage,
+
+
+                                                                                •HR 240 IH
+
+                                                                                                                          19
+                                                                     1                                 based on consideration of the risks involved
+                                                                     2                                 and accepted actuarial and rate making
+                                                                     3                                 principles, anticipated administrative ex-
+                                                                     4                                 penses, and loss and loss-adjustment ex-
+                                                                     5                                 penses.
+                                                                     6                                 (B) APPLICABILITY.—This paragraph shall
+                                                                     7                        apply after the expiration of the 2-year period
+                                                                     8                        beginning on the date of the enactment of this
+                                                                     9                        Act.
+                                                                   10                         (8) PROHIBITION                   OF COMPETITION WITH PRI-
+                                                                   11                VATE MARKET.—Any                         insurance or reinsurance cov-
+                                                                   12                erage, as applicable, made available through the
+                                                                   13                State program shall not supplant coverage that is
+                                                                   14                otherwise reasonably available and affordable in the
+                                                                   15                private market.
+                                                                   16                         (9) OTHER            QUALIFICATIONS.—
+
+                                                                   17                                  (A) IN           GENERAL.—The                         State program
+                                                                   18                         shall (for the year for which the coverage is in
+                                                                   19                         effect) comply with regulations that shall be
+                                                                   20                         issued under this paragraph by the Secretary,
+                                                                   21                         in consultation with the Commission. The regu-
+                                                                   22                         lations shall establish criteria for State pro-
+                                                                   23                         grams to qualify to purchase reinsurance under
+rfrederick on DSK6VPTVN1PROD with                                  24                         this section, which are in addition to the re-
+                                                                                •HR 240 IH
+
+                                                                                                                          20
+                                                                     1                        quirements under the other paragraphs of this
+                                                                     2                        subsection.
+                                                                     3                                 (B) CONTENTS.—The regulations issued
+                                                                     4                        under this paragraph shall include requirements
+                                                                     5                        that—
+                                                                     6                                         (i) the State program shall have pub-
+                                                                     7                                 lic members on its board of directors or
+                                                                     8                                 have an advisory board with public mem-
+                                                                   109                                 bers;   (ii) the State program provide ade-
+                                                                   11                                  quate insurance or reinsurance protection,
+                                                                   12                                  as applicable, for the perils covered, which
+                                                                   13                                  shall include a range of deductibles and
+                                                                   14                                  premium costs that reflect the applicable
+                                                                   15                                  risks to eligible properties;
+                                                                   16                                          (iii) insurance or reinsurance cov-
+                                                                   17                                  erage, as applicable, provided by the State
+                                                                   18                                  program is made available on a non-
+                                                                   19                                  discriminatory basis to all qualifying resi-
+                                                                   20                                  dents;
+                                                                   21                                          (iv) any new construction, substantial
+                                                                   22                                  rehabilitation, and renovation insured or
+                                                                   23                                  reinsured by the program complies with
+rfrederick on DSK6VPTVN1PROD with                                  24                                  applicable State or local government build-
+                                                                   25                                  ing, fire, and safety codes;
+
+
+                                                                                •HR 240 IH
+
+                                                                                                                          21
+                                                                     1                                         (v) the State, or appropriate local gov-
+                                                                     2                                 ernments within the State, have in effect
+                                                                     3                                 and enforce nationally recognized model
+                                                                     4                                 building, fire, and safety codes and con-
+                                                                     5                                 sensus-based standards that offer risk re-
+                                                                     6                                 sponsive resistance that is substantially
+                                                                     7                                 equivalent or greater than the resistance to
+                                                                     8                                 earthquakes or high winds;
+                                                                     9                                         (vi) the State has taken actions to es-
+                                                                   10                                  tablish an insurance rate structure that
+                                                                   11                                  takes into account measures to mitigate in-
+                                                                   12                                  surance losses;
+                                                                   13                                          (vii) there are in effect, in such State,
+                                                                   14                                  laws or regulations sufficient to prohibit
+                                                                   15                                  price gouging, during the term of reinsur-
+                                                                   16                                  ance coverage under this Act for the State
+                                                                   17                                  program in any disaster area located with-
+                                                                   18                                  in the State; and
+                                                                   19                                          (viii) the State program complies with
+                                                                   20                                  such other requirements that the Secretary
+                                                                   21                                  considers necessary to carry out the pur-
+                                                                   22                                  poses of this Act.
+                                                                   23                (b) TERMS              OF     CONTRACTS.—Each contract under
+rfrederick on DSK6VPTVN1PROD with                                  24 this section for reinsurance coverage under this Act shall
+                                                                   25 be subject to the following terms and conditions:
+
+
+                                                                                •HR 240 IH
+
+                                                                                                                          22
+                                                                     1                        (1) MATURITY.—The term of the contract shall
+                                                                     2               not exceed 1 year or such other term as the Sec-
+                                                                     3               retary may determine.
+                                                                     4                        (2) PAYMENT                CONDITION.—The                      contract shall
+                                                                     5               authorize claims payments only for eligible losses to
+                                                                     6               the eligible State program purchasing the coverage.
+                                                                     7                        (3) RETAINED                    LOSSES            REQUIREMENT.—For
+                                                                     8               each event of a covered peril, the contract shall
+                                                                     9               make a payment for the event only if the total
+                                                                   10                amount of insurance claims for losses, which are
+                                                                   11                covered by qualified lines, occur to properties located
+                                                                   12                within the State covered by the contract, and that
+                                                                   13                result from insured losses (as defined in section 12)
+                                                                   14                for the State program, exceeds the amount of re-
+                                                                   15                tained losses provided under the contract (pursuant
+                                                                   16                to section 8(a)) purchased by the eligible State pro-
+                                                                   17                gram.
+                                                                   18                         (4) MULTIPLE                    EVENTS.—The                    contract shall
+                                                                   19                cover any eligible losses from one or more covered
+                                                                   20                events that may occur during the term of the con-
+                                                                   21                tract and shall provide that if multiple events occur,
+                                                                   22                the retained losses requirement under paragraph (3)
+                                                                   23                shall apply on a calendar year basis, in the aggre-
+rfrederick on DSK6VPTVN1PROD with                                  24                gate and not separately to each individual event.
+                                                                                •HR 240 IH
+
+                                                                                                                          23
+                                                                     1                        (5) TIMING                OF      ELIGIBLE              LOSSES.—Eligible
+                                                                     2               losses under the contract shall include only insur-
+                                                                     3               ance claims for property covered by qualified lines
+                                                                     4               that are reported to the eligible State program with-
+                                                                     5               in the 3-year period beginning upon the event or
+                                                                     6               events for which payment under the contract is pro-
+                                                                     7               vided.
+                                                                     8                        (6) PRICING.—
+                                                                     9                                 (A) DETERMINATION.—The price of rein-
+                                                                   10                         surance coverage under the contract shall be an
+                                                                   11                         amount established by the Secretary as follows:
+                                                                   12                                          (i)      RECOMMENDATIONS.—The                        Sec-
+                                                                   13                                  retary shall take into consideration the rec-
+                                                                   14                                  ommendations of the Commission in estab-
+                                                                   15                                  lishing the price, but the price may not be
+                                                                   16                                  less than the amount recommended by the
+                                                                   17                                  Commission.
+                                                                   18                                          (ii) FAIRNESS                 TO TAXPAYERS.—The
+                                                                   19                                  price shall be established at a level that is
+                                                                   20                                  designed to reflect the risks and costs
+                                                                   21                                  being borne under each reinsurance con-
+                                                                   22                                  tract issued under this Act and that takes
+                                                                   23                                  into consideration empirical models of nat-
+rfrederick on DSK6VPTVN1PROD with                                  24                                  ural disasters and the capacity of private
+                                                                                •HR 240 IH
+
+                                                                                                                          24
+                                                                     1                                 markets to absorb insured losses from nat-
+                                                                     2                                 ural disasters.
+                                                                     3                                         (iii) SELF-SUFFICIENCY.—The rates
+                                                                     4                                 for reinsurance coverage shall be estab-
+                                                                     5                                 lished at a level that annually produces ex-
+                                                                     6                                 pected premiums that shall be sufficient to
+                                                                     7                                 pay the expected annualized cost of all
+                                                                     8                                 claims, loss adjustment expenses, and all
+                                                                     9                                 administrative costs of reinsurance cov-
+                                                                   10                                  erage offered under this section.
+                                                                   11                                  (B) COMPONENTS.—The price shall consist
+                                                                   12                         of the following components:
+                                                                   13                                          (i) RISK-BASED                  PRICE.—A             risk-based
+                                                                   14                                  price, which shall reflect the anticipated
+                                                                   15                                  annualized payout of the contract accord-
+                                                                   16                                  ing to the actuarial analysis and rec-
+                                                                   17                                  ommendations of the Commission.
+                                                                   18                                          (ii) RISK           LOAD.—A              risk load in an
+                                                                   19                                  amount that is not less than the risk-based
+                                                                   20                                  price under clause (i). In establishing risk
+                                                                   21                                  loads under this clause, the Secretary shall
+                                                                   22                                  take into consideration comparable private
+                                                                   23                                  risk loads.
+rfrederick on DSK6VPTVN1PROD with                                  24                                          (iii) ADMINISTRATIVE                      COSTS.—A        sum
+                                                                   25                                  sufficient to provide for the operation of
+
+
+                                                                                •HR 240 IH
+
+                                                                                                                          25
+                                                                     1                                 the Commission and the administrative ex-
+                                                                     2                                 penses incurred by the Secretary in car-
+                                                                     3                                 rying out this Act.
+                                                                     4                        (7) INFORMATION.—The contract shall contain
+                                                                     5               a condition providing that the Commission may re-
+                                                                     6               quire the State program that is covered under the
+                                                                     7               contract to submit to the Commission all informa-
+                                                                     8               tion on the State program relevant to the duties of
+                                                                     9               the Commission, as determined by the Secretary.
+                                                                   10                         (8) ADDITIONAL                  CONTRACT OPTION.—The                  con-
+                                                                   11                tract shall provide that the purchaser of the contract
+                                                                   12                may, during the term of such original contract, pur-
+                                                                   13                chase additional contracts from among those offered
+                                                                   14                by the Secretary at the beginning of the term, sub-
+                                                                   15                ject to the limitations under section 8, at the prices
+                                                                   16                at which such contracts were offered at the begin-
+                                                                   17                ning of the term, prorated based upon the remaining
+                                                                   18                term as determined by the Secretary. Such addi-
+                                                                   19                tional contracts shall provide coverage beginning on
+                                                                   20                a date 15 days after the date of purchase but shall
+                                                                   21                not provide coverage for losses for an event that has
+                                                                   22                already occurred.
+                                                                   23                         (9) OTHERS.—The contract shall contain such
+rfrederick on DSK6VPTVN1PROD with                                  24                other terms as the Secretary considers necessary to
+                                                                                •HR 240 IH
+
+                                                                                                                          26
+                                                                     1               carry out this Act and to ensure the long-term fi-
+                                                                     2               nancial integrity of the program under this Act.
+                                                                     3               (c) PRIVATE SECTOR RIGHT TO PARTICIPATE.—
+                                                                     4                        (1) ESTABLISHMENT                           OF COMPETITIVE PROCE-
+                                                                     5               DURE.—The               Secretary shall establish, by regulation,
+                                                                     6               a competitive procedure under this subsection that
+                                                                     7               provides qualified entities an opportunity, on a basis
+                                                                     8               consistent with the contract cycle established under
+                                                                     9               this Act by the Secretary, to offer to provide, in lieu
+                                                                   10                of reinsurance coverage under this section, reinsur-
+                                                                   11                ance coverage that is substantially similar to cov-
+                                                                   12                erage otherwise made available under this section.
+                                                                   13                         (2) COMPETITIVE                        PROCEDURE.—Under               the
+                                                                   14                procedure established under this subsection—
+                                                                   15                                  (A) the Secretary shall establish criteria
+                                                                   16                         for private insurers, reinsurers, and capital
+                                                                   17                         market companies, and consortia of such enti-
+                                                                   18                         ties to be treated as qualified entities for pur-
+                                                                   19                         poses of this subsection, which criteria shall re-
+                                                                   20                         quire such an entity to have at all times capital
+                                                                   21                         sufficient to satisfy the terms of the reinsurance
+                                                                   22                         contracts and shall include such other industry
+                                                                   23                         and credit rating standards as the Secretary
+rfrederick on DSK6VPTVN1PROD with                                  24                         considers appropriate;
+                                                                                •HR 240 IH
+
+                                                                                                                          27
+                                                                     1                                 (B) not less than 30 days before the begin-
+                                                                     2                        ning of each contract cycle during which any re-
+                                                                     3                        insurance coverage under this section is to be
+                                                                     4                        made available, the Secretary may request pro-
+                                                                     5                        posals and shall publish in the Federal Register
+                                                                     6                        the rates and terms for contracts for reinsur-
+                                                                     7                        ance coverage under this section that are to be
+                                                                     8                        made available during such contract cycle;
+                                                                     9                                 (C) the Secretary shall provide qualified
+                                                                   10                         entities a period of not less than 10 days (which
+                                                                   11                         shall terminate not less than 20 days before the
+                                                                   12                         beginning of the contract cycle) to submit to
+                                                                   13                         the Secretary a written expression of interest in
+                                                                   14                         providing reinsurance coverage in lieu of the
+                                                                   15                         coverage otherwise to be made available under
+                                                                   16                         this section;
+                                                                   17                                  (D) the Secretary shall provide any quali-
+                                                                   18                         fied entity submitting an expression of interest
+                                                                   19                         during the period referred to in subparagraph
+                                                                   20                         (C) a period of not less than 20 days (which
+                                                                   21                         shall terminate before the beginning of the con-
+                                                                   22                         tract cycle) to submit to the Secretary an offer
+                                                                   23                         to provide, in lieu of the reinsurance coverage
+rfrederick on DSK6VPTVN1PROD with                                  24                         otherwise to be made available under this sec-
+                                                                                •HR 240 IH
+
+                                                                                                                          28
+                                                                     1                        tion, coverage that is substantially similar to
+                                                                     2                        such coverage;
+                                                                     3                                 (E) if the Secretary determines that an
+                                                                     4                        offer submitted during the period referred to in
+                                                                     5                        subparagraph (D) is a bona fide offer to pro-
+                                                                     6                        vide reinsurance coverage during the contract
+                                                                     7                        cycle at rates and terms that are substantially
+                                                                     8                        similar to the rates and terms for reinsurance
+                                                                     9                        coverage otherwise to be provided under this
+                                                                   10                         section by the Secretary, the Secretary shall ac-
+                                                                   11                         cept the offer (if still outstanding) and, not-
+                                                                   12                         withstanding any other provision of this Act,
+                                                                   13                         provide for such entity to make reinsurance cov-
+                                                                   14                         erage available in accordance with the offer;
+                                                                   15                         and
+                                                                   16                                  (F) if the Secretary accepts an offer pur-
+                                                                   17                         suant to subparagraph (E) to make reinsurance
+                                                                   18                         coverage available, notwithstanding any other
+                                                                   19                         provision of this Act, the Secretary shall reduce,
+                                                                   20                         to an equivalent extent, the amount of reinsur-
+                                                                   21                         ance coverage available under this section dur-
+                                                                   22                         ing the contract cycle to which the offer relates,
+                                                                   23                         unless and until the Secretary determines that
+rfrederick on DSK6VPTVN1PROD with                                  24                         the entity is not complying with the terms of
+                                                                   25                         the accepted offer.
+
+
+                                                                                •HR 240 IH
+
+                                                                                                                          29
+                                                                     1               (d) PARTICIPATION                   BY     MULTI-STATE CATASTROPHE
+                                                                     2 FUND PROGRAMS.—Nothing in this Act shall prohibit the
+                                                                     3 creation of multi-State catastrophe insurance or reinsur-
+                                                                     4 ance programs, or the participation by such programs in
+                                                                     5 the program established pursuant to section 4. The Sec-
+                                                                     6 retary shall, by regulation, apply the provisions of this Act
+                                                                     7 to multi-State catastrophe insurance and reinsurance pro-
+                                                                     8 grams.
+                                                                     9               (e)       REQUIREMENT                     FOR          INSURERS                TO   PASS
+                                                                   10 THROUGH SAVINGS                               TO        CONSUMERS.—Notwithstanding
+                                                                   11 any other provision of this Act, a State program shall not
+                                                                   12 be eligible to purchase a contract for reinsurance coverage
+                                                                   13 made available under this Act unless such State has in
+                                                                   14 effect such laws, regulations, or other requirements, as the
+                                                                   15 Secretary shall by regulation require, that—
+                                                                   16                         (1) to the extent that reinsurance coverage
+                                                                   17                made available under the program under this Act re-
+                                                                   18                sults in any cost savings in providing insurance cov-
+                                                                   19                erage for risks in such State, such cost savings be
+                                                                   20                reflected in premium rates charged to consumers for
+                                                                   21                such coverage; and
+                                                                   22                         (2) the State take such actions as the Secretary
+                                                                   23                considers appropriate to ensure that the requirement
+rfrederick on DSK6VPTVN1PROD with                                  24                under paragraph (1) is carried out and enforced.
+                                                                                •HR 240 IH
+
+                                                                     1     SEC. 8. TREATMENT OF INSURED LOSSES AND MAXIMUM30
+                                                                     2                             FEDERAL LIABILITY.
+
+                                                                     3               (a) AVAILABLE LEVELS                          OF     RETAINED LOSSES.—In
+                                                                     4 making reinsurance coverage available under this Act, the
+                                                                     5 Secretary shall make available for purchase contracts for
+                                                                     6 such coverage that require the sustainment of retained
+                                                                     7 losses from covered perils (as required under section
+                                                                     8 7(b)(3) for payment of eligible losses) in various amounts,
+                                                                     9 as the Secretary, in consultation with the Commission, de-
+                                                                   10 termines appropriate and subject to the requirements
+                                                                   11 under subsection (b).
+                                                                   12                (b) MINIMUM LEVEL OF RETAINED LOSSES.—
+                                                                   13                         (1) AMOUNT.—Subject to paragraph (2) and
+                                                                   14                notwithstanding any other provision of this Act, a
+                                                                   15                contract for reinsurance coverage under section 7 for
+                                                                   16                an eligible State program that offers insurance or
+                                                                   17                reinsurance coverage described in subparagraph (A)
+                                                                   18                or (B), respectively, of section 7(a)(1) may not be
+                                                                   19                made available or sold unless the contract requires
+                                                                   20                that the State program sustain an amount of re-
+                                                                   21                tained losses from covered perils in the following
+                                                                   22                amount:
+                                                                   23                                  (A) IN           GENERAL.—The                         State program
+rfrederick on DSK6VPTVN1PROD with                                  24                         shall sustain an amount of retained losses of
+                                                                   25                         not less than the greater of—
+
+
+                                                                                •HR 240 IH
+
+                                                                                                                          31
+                                                                     1                                         (i) the claims-paying capacity of the
+                                                                     2                                 eligible State program, as determined by
+                                                                     3                                 the Secretary; and
+                                                                     4                                         (ii) an amount, determined by the
+                                                                     5                                 Secretary in consultation with the Commis-
+                                                                     6                                 sion, that is the amount equal to the eligi-
+                                                                     7                                 ble losses projected to be incurred once
+                                                                     8                                 every 200 years on an annual basis from
+                                                                     9                                 covered perils.
+                                                                   10                                  (B) TRANSITION                      RULE         FOR         NEW   PRO-
+                                                                   11                         GRAMS.—
+                                                                   12                                          (i) 200-YEAR               EVENT.—The                 Secretary
+                                                                   13                                  may provide that, in the case of an eligible
+                                                                   14                                  State program that, after the date of the
+                                                                   15                                  enactment of this Act, commences offering
+                                                                   16                                  insurance or reinsurance coverage, during
+                                                                   17                                  the 7-year period beginning on the date
+                                                                   18                                  that reinsurance coverage under section 7
+                                                                   19                                  is first made available, the minimum level
+                                                                   20                                  of retained losses applicable under this
+                                                                   21                                  paragraph shall be the amount determined
+                                                                   22                                  for the State under subparagraph (A)(i),
+                                                                   23                                  except that such minimum level shall be
+rfrederick on DSK6VPTVN1PROD with                                  24                                  adjusted annually as provided in clause (ii)
+                                                                   25                                  of this subparagraph.
+
+
+                                                                                •HR 240 IH
+
+                                                                                                                          32
+                                                                     1                                         (ii) ANNUAL                ADJUSTMENT.—Each          an-
+                                                                     2                                 nual adjustment under this clause shall in-
+                                                                     3                                 crease the minimum level of retained losses
+                                                                     4                                 applicable under this subparagraph to an
+                                                                     5                                 eligible State program described in clause
+                                                                     6                                 (i) in a manner such that—
+                                                                     7                                                  (I) during the course of such 7-
+                                                                     8                                         year period, the applicable minimum
+                                                                     9                                         level of retained losses approaches the
+                                                                   10                                          minimum level that, under subpara-
+                                                                   11                                          graph (A)(ii), will apply to the eligible
+                                                                   12                                          State program upon the expiration of
+                                                                   13                                          such period; and
+                                                                   14                                                   (II) each such annual increase is
+                                                                   15                                          a substantially similar amount, to the
+                                                                   16                                          extent practicable.
+                                                                   17                                  (C) REDUCTION                      BECAUSE OF REDUCED
+                                                                   18                         CLAIMS-PAYING CAPACITY.—
+                                                                   19                                          (i)            AUTHORITY.—Notwithstanding
+                                                                   20                                  subparagraphs (A), (B), and (C) or the
+                                                                   21                                  terms contained in a contract for reinsur-
+                                                                   22                                  ance pursuant to such subparagraphs, if
+                                                                   23                                  the Secretary determines that the claims-
+rfrederick on DSK6VPTVN1PROD with                                  24                                  paying capacity of an eligible State pro-
+                                                                   25                                  gram has been reduced because of payment
+
+
+                                                                                •HR 240 IH
+
+                                                                                                                          33
+                                                                     1                                 for losses due to an event, the Secretary
+                                                                     2                                 may reduce the minimum level of retained
+                                                                     3                                 losses.
+                                                                     4                                         (ii) TERM            OF REDUCTION.—The               Sec-
+                                                                     5                                 retary may extend the 5-year period for
+                                                                     6                                 not more than 5 additional 1-year periods
+                                                                     7                                 if the Secretary determines that losses in-
+                                                                     8                                 curred by the State program as a result of
+                                                                     9                                 covered perils create excessive hardship on
+                                                                   10                                  the State program. The Secretary shall
+                                                                   11                                  consult with the appropriate officials of the
+                                                                   12                                  State program regarding the required
+                                                                   13                                  schedule and any potential 1-year exten-
+                                                                   14                                  sions.
+                                                                   15                                  (D) CLAIMS-PAYING                       CAPACITY.—For        pur-
+                                                                   16                         poses of this paragraph, the claims-paying ca-
+                                                                   17                         pacity of a State-operated insurance or reinsur-
+                                                                   18                         ance program under section 7(a)(1) shall be de-
+                                                                   19                         termined by the Secretary, in consultation with
+                                                                   20                         the Commission, taking into consideration the
+                                                                   21                         claims-paying capacity as determined by the
+                                                                   22                         State program, retained losses to private insur-
+                                                                   23                         ers in the State in an amount assigned by the
+rfrederick on DSK6VPTVN1PROD with                                  24                         State insurance commissioner, the cash surplus
+                                                                   25                         of the program, and the lines of credit, reinsur-
+
+
+                                                                                •HR 240 IH
+
+                                                                                                                          34
+                                                                     1                        ance, and other financing mechanisms of the
+                                                                     2                        program established by law.
+                                                                     3                        (2) INITIAL             ADJUSTMENT BASED ON PRIVATE
+                                                                     4               MARKET.—The                   Secretary may, before making con-
+                                                                     5               tracts for reinsurance coverage under this Act ini-
+                                                                     6               tially available under section 7, raise the minimum
+                                                                     7               level of retained losses from the amount required
+                                                                     8               under paragraph (1) for an eligible State program to
+                                                                     9               ensure, as determined by the Secretary, that such
+                                                                   10                contracts comply with the principle under section
+                                                                   11                4(c)(1).
+                                                                   12                (c) 90 PERCENT COVERAGE                              OF INSURED                LOSSES   IN
+                                                                   13 EXCESS                OF    RETAINED LOSSES.—Each contract for rein-
+                                                                   14 surance coverage under this Act for a covered purchaser
+                                                                   15 shall provide that the amount paid out under the contract
+                                                                   16 shall, subject to subsection (d), be equal to 90 percent of
+                                                                   17 the amount of insured losses of the eligible State program
+                                                                   18 of the purchaser in excess of the amount of retained losses
+                                                                   19 that the contract requires, pursuant to subsection (b), to
+                                                                   20 be incurred by such program.
+                                                                   21                (d) MAXIMUM FEDERAL LIABILITY.—
+                                                                   22                         (1) IN        GENERAL.—Notwithstanding                                any other
+                                                                   23                provision of law, the Secretary may sell only con-
+rfrederick on DSK6VPTVN1PROD with                                  24                tracts for reinsurance coverage under this Act in
+                                                                                •HR 240 IH
+
+                                                                                                                          35
+                                                                     1               various amounts that comply with the following re-
+                                                                     2               quirements:
+                                                                     3                                 (A) ESTIMATE                   OF        AGGREGATE            LIABIL-
+                                                                     4                        ITY.—The             aggregate liability for payment of
+                                                                     5                        claims under all such contracts in any single
+                                                                     6                        year is unlikely to exceed $200,000,000,000 (as
+                                                                     7                        such amount is adjusted under paragraph (2)).
+                                                                     8                                 (B) ELIGIBLE               LOSS COVERAGE SOLD.—El-
+                                                                     9                        igible losses covered by all contracts sold within
+                                                                   10                         a State during a 12-month period do not exceed
+                                                                   11                         the difference between the following amounts
+                                                                   12                         (each of which shall be determined by the Sec-
+                                                                   13                         retary in consultation with the Commission):
+                                                                   14                                          (i) The amount equal to the eligible
+                                                                   15                                  loss projected to be incurred once every
+                                                                   16                                  500 years from a single event in the State.
+                                                                   17                                          (ii) The amount equal to the eligible
+                                                                   18                                  loss projected to be incurred once every
+                                                                   19                                  200 years from a single event in the State.
+                                                                   20                         (2) ANNUAL                 ADJUSTMENTS.—The                           Secretary
+                                                                   21                shall annually adjust the amount under paragraph
+                                                                   22                (1)(A) (as it may have been previously adjusted) to
+                                                                   23                provide for inflation in accordance with an inflation
+rfrederick on DSK6VPTVN1PROD with                                  24                index that the Secretary determines to be appro-
+                                                                   25                priate.
+
+
+                                                                                •HR 240 IH
+
+                                                                     1     SEC. 9. CATASTROPHE CAPITAL RESERVE FUNDS.     36
+                                                                     2               (a) ESTABLISHMENT.—Any insurer who participates
+                                                                     3 in an eligible State program under section 7(a) may estab-
+                                                                     4 lish a Catastrophe Capital Reserve Fund (in this section
+                                                                     5 referred to as a ‘‘reserve fund’’) in which it may hold
+                                                                     6 funds in a fiduciary capacity on behalf of the Secretary.
+                                                                     7               (b) FUNDING.—An insurer may fund a reserve fund
+                                                                     8 by making an election, in advance, to treat some or all
+                                                                     9 of the premiums received for such coverage as charges im-
+                                                                   10 posed by the Secretary for participation in, and operation
+                                                                   11 of, the program for reinsurance coverage under this Act.
+                                                                   12 Any such premiums for which such an election has been
+                                                                   13 made shall be maintained in a segregated account in a
+                                                                   14 fiduciary capacity on behalf of the Secretary. Such funds
+                                                                   15 may be invested in any otherwise legally permissible man-
+                                                                   16 ner but all interest, dividends, and capital accumulations
+                                                                   17 also shall be retained in such segregated account on behalf
+                                                                   18 of the Secretary.
+                                                                   19                (c) USE.—Amounts in a reserve fund established pur-
+                                                                   20 suant to this section shall be collected and used by the
+                                                                   21 Secretary to offset, in whole or in part, the cost to the
+                                                                   22 Secretary of claims paid under reinsurance coverage pro-
+                                                                   23 vided under the program, except that, in the case only of
+rfrederick on DSK6VPTVN1PROD with                                  24 a single event that results in an amount of eligible losses
+                                                                   25 to insurers that is equal to or greater than the amount
+                                                                   26 of such losses projected to be incurred from a single event
+                                                                                •HR 240 IH
+
+                                                                                                                          37
+                                                                     1 having an extent of such losses such that the event has
+                                                                     2 a 1.0 percent chance of occurring in any year, an insurer
+                                                                     3 may first use the funds in a reserve fund of the insurer
+                                                                     4 to satisfy any one or more of the following:
+                                                                     5                        (1) The retained losses for the insurer required
+                                                                     6               under section 8(b).
+                                                                     7                        (2) The portion of the insurer’s losses that ex-
+                                                                     8               ceed the required retained losses but are not com-
+                                                                     9               pensated under a reinsurance contract made avail-
+                                                                   10                able under the Program pursuant to section 8(c).
+                                                                   11                         (3) The insurer’s obligations to pay for insured
+                                                                   12                losses if any conditions precedent to payment under
+                                                                   13                a contract for reinsurance made available under the
+                                                                   14                Program are not met.
+                                                                   15                         (4) Any risk-sharing obligations that the in-
+                                                                   16                surer may have entered into.
+                                                                   17                (d) TERMINATION.—
+                                                                   18                         (1) TERMINATION                    OF PROGRAM.—Upon                   termi-
+                                                                   19                nation under section 14 of the program under this
+                                                                   20                Act, and subject to the continuing authority of the
+                                                                   21                Secretary to adjust claims in satisfaction of con-
+                                                                   22                tracts for reinsurance in force under the Program,
+                                                                   23                10 percent of each insurer’s reserve funds shall be
+rfrederick on DSK6VPTVN1PROD with                                  24                remitted to the Secretary and the remainder shall be
+                                                                   25                remitted to the insurer. The Secretary shall deter-
+
+
+                                                                                •HR 240 IH
+
+                                                                                                                          38
+                                                                     1               mine the manner in which the remittance of such in-
+                                                                     2               come to the insurer shall be made.
+                                                                     3                        (2) ELIMINATION                    OF COVERAGE OF INSURED
+                                                                     4               LOSSES IN EXCESS OF RETAINED LOSSES.—If                                        at any
+                                                                     5               time the Program remains in effect but contracts for
+                                                                     6               reinsurance under the Program do not provide any
+                                                                     7               payment for insured losses in excess of retained
+                                                                     8               losses, the reserve funds shall be retained and used
+                                                                     9               for the purposes set forth in subsection (c) of this
+                                                                   10                section. At such time as an insurer’s liability for in-
+                                                                   11                sured losses under the Program terminates, as a
+                                                                   12                consequence of the insurer’s termination of its busi-
+                                                                   13                ness or otherwise, the insurer shall remit any
+                                                                   14                amounts remaining in its reserve funds to the Sec-
+                                                                   15                retary.
+                                                                   16      SEC. 10. CONSUMER HURRICANE, EARTHQUAKE, LOSS PRO-
+                                                                   17                              TECTION (HELP) FUND.
+                                                                   18                (a) ESTABLISHMENT.—There is established within
+                                                                   19 the Treasury of the United States a fund to be known
+                                                                   20 as the Consumer HELP Fund (in this section referred
+                                                                   21 to as the ‘‘Fund’’).
+                                                                   22                (b) CREDITS.—The Fund shall be credited with—
+                                                                   23                         (1) amounts received annually from the sale of
+rfrederick on DSK6VPTVN1PROD with                                  24                contracts for reinsurance coverage under this Act;
+                                                                                •HR 240 IH
+
+                                                                                                                          39
+                                                                     1                        (2) any amounts borrowed under subsection
+                                                                     2               (d);
+                                                                     3                        (3) any amounts earned on investments of the
+                                                                     4               Fund pursuant to subsection (e); and
+                                                                     5                        (4) such other amounts as may be credited to
+                                                                     6               the Fund.
+                                                                     7               (c) USES.—Amounts in the Fund shall be available
+                                                                     8 to the Secretary only for the following purposes:
+                                                                     9                        (1) CONTRACT                    PAYMENTS.—For                    payments to
+                                                                   10                covered purchasers under contracts for reinsurance
+                                                                   11                coverage for eligible losses under such contracts.
+                                                                   12                         (2) COMMISSION                  COSTS.—To               pay for the oper-
+                                                                   13                ating costs of the Commission.
+                                                                   14                         (3) ADMINISTRATIVE                          EXPENSES.—To              pay for
+                                                                   15                the administrative expenses incurred by the Sec-
+                                                                   16                retary in carrying out the reinsurance program
+                                                                   17                under this Act.
+                                                                   18                         (4) TERMINATION.—Upon termination under
+                                                                   19                section 14, as provided in such section.
+                                                                   20                (d) BORROWING.—
+                                                                   21                         (1) AUTHORITY.—To the extent that the
+                                                                   22                amounts in the Fund are insufficient to pay claims
+                                                                   23                and expenses under subsection (c), the Secretary
+rfrederick on DSK6VPTVN1PROD with                                  24                may issue such obligations of the Fund as may be
+                                                                                •HR 240 IH
+
+                                                                                                                          40
+                                                                     1               necessary to cover the insufficiency and shall pur-
+                                                                     2               chase any such obligations issued.
+                                                                     3                        (2) PUBLIC            DEBT TRANSACTION.—For                           the pur-
+                                                                     4               pose of purchasing any such obligations, the Sec-
+                                                                     5               retary may use as a public debt transaction the pro-
+                                                                     6               ceeds from the sale of any securities issued under
+                                                                     7               chapter 31 of title 31, United States Code, and the
+                                                                     8               purposes for which securities are issued under such
+                                                                     9               chapter are hereby extended to include any purchase
+                                                                   10                by the Secretary of such obligations under this sub-
+                                                                   11                section.
+                                                                   12                         (3) CHARACTERISTICS                         OF OBLIGATIONS.—Obli-
+                                                                   13                gations issued under this subsection shall be in such
+                                                                   14                forms and denominations, bear such maturities, bear
+                                                                   15                interest at such rate, and be subject to such other
+                                                                   16                terms and conditions, as the Secretary shall deter-
+                                                                   17                mine.
+                                                                   18                         (4) TREATMENT.—All redemptions, purchases,
+                                                                   19                and sales by the Secretary of obligations under this
+                                                                   20                subsection shall be treated as public debt trans-
+                                                                   21                actions of the United States.
+                                                                   22                         (5) REPAYMENT.—Any obligations issued under
+                                                                   23                this subsection shall be repaid including interest,
+rfrederick on DSK6VPTVN1PROD with                                  24                from the Fund and shall be recouped from pre-
+                                                                                •HR 240 IH
+
+                                                                                                                          41
+                                                                     1               miums charged for reinsurance coverage provided
+                                                                     2               under this Act.
+                                                                     3               (e) INVESTMENT.—If the Secretary determines that
+                                                                     4 the amounts in the Fund are in excess of current needs,
+                                                                     5 the Secretary may invest such amounts as the Secretary
+                                                                     6 considers advisable in obligations issued or guaranteed by
+                                                                     7 the United States.
+                                                                     8               (f) PROHIBITION                 OF       FEDERAL FUNDS.—Except for
+                                                                     9 amounts made available pursuant to subsection (d) and
+                                                                   10 section 3(h), no further Federal funds shall be authorized
+                                                                   11 or appropriated for the Fund or for carrying out the rein-
+                                                                   12 surance program under this Act.
+                                                                   13      SEC. 11. ANNUAL STUDY CONCERNING BENEFITS OF REIN-
+                                                                   14                              SURANCE PROGRAM.
+                                                                   15                (a) IN GENERAL.—The Secretary shall, on an annual
+                                                                   16 basis, conduct a study and submit to the Congress a report
+                                                                   17 that—
+                                                                   18                         (1) analyzes the cost and availability of home-
+                                                                   19                owners’ insurance for losses resulting from cata-
+                                                                   20                strophic natural disasters covered by the reinsurance
+                                                                   21                program under this Act;
+                                                                   22                         (2) describes the efforts of the participating
+rfrederick on DSK6VPTVN1PROD with                                  23                States in—
+                                                                                •HR 240 IH
+
+                                                                                                                          42
+                                                                     1                                 (A)         enacting          preparedness,                  prevention,
+                                                                     2                        mitigation, recovery, and rebuilding standards;
+                                                                     3                        and
+                                                                     4                                 (B) educating the public on the risks asso-
+                                                                     5                        ciated with natural catastrophe; and
+                                                                     6                        (3) makes recommendations regarding ways to
+                                                                     7               improve the program under this Act and its adminis-
+                                                                     8               tration.
+                                                                     9               (b) CONTENTS.—Each annual study under this sec-
+                                                                   10 tion shall also determine and identify, on an aggregate
+                                                                   11 basis—
+                                                                   12                         (1) for each State or region, the capacity of the
+                                                                   13                private homeowners’ insurance market with respect
+                                                                   14                to coverage for losses from catastrophic natural dis-
+                                                                   15                asters;
+                                                                   16                         (2) for each State or region, the percentage of
+                                                                   17                homeowners who have such coverage, the catas-
+                                                                   18                trophes covered, and the average cost of such cov-
+                                                                   19                erage; and
+                                                                   20                         (3) for each State or region, the effects this Act
+                                                                   21                is having on the availability and affordability of such
+                                                                   22                insurance.
+                                                                   23                (c) TIMING.—Each annual report under this section
+rfrederick on DSK6VPTVN1PROD with                                  24 shall be submitted not later than March 30 of the year
+                                                                   25 after the year for which the study was conducted.
+
+
+                                                                                •HR 240 IH
+
+                                                                     1               (d) COMMENCEMENT                      43      OF       REPORTING REQUIRE-
+                                                                     2     MENT.—The                   Secretary shall first submit an annual report
+                                                                     3 under this section not later than two years after the date
+                                                                     4 of the enactment of this Act.
+                                                                     5     SEC. 12. DEFINITIONS.
+                                                                     6               For purposes of this Act, the following definitions
+                                                                     7 shall apply:
+                                                                     8                        (1) COMMISSION.—The term ‘‘Commission’’
+                                                                     9               means the National Commission on Catastrophe
+                                                                   10                Risks and Insurance Loss Costs established under
+                                                                   11                section 3.
+                                                                   12                         (2) COVERED                PERILS.—The                 term ‘‘covered per-
+                                                                   13                ils’’ means the natural disaster perils under section
+                                                                   14                6.
+                                                                   15                         (3) COVERED                PURCHASER.—The                       term ‘‘covered
+                                                                   16                purchaser’’ means an eligible State-operated insur-
+                                                                   17                ance or reinsurance program that purchases reinsur-
+                                                                   18                ance coverage made available under a contract under
+                                                                   19                section 7.
+                                                                   20                         (4) DISASTER               AREA.—The               term ‘‘disaster area’’
+                                                                   21                means a geographical area, with respect to which—
+                                                                   22                                   (A) a covered peril specified in section 6
+rfrederick on DSK6VPTVN1PROD with                                  23                         has occurred; and
+                                                                                •HR 240 IH
+
+                                                                                                                          44
+                                                                     1                                 (B) a declaration that a major disaster ex-
+                                                                     2                        ists, as a result of the occurrence of such
+                                                                     3                        peril—
+                                                                     4                                         (i) has been made by the President of
+                                                                     5                                 the United States; and
+                                                                     6                                         (ii) is in effect.
+                                                                     7                        (5) ELIGIBLE                    LOSSES.—The                    term ‘‘eligible
+                                                                     8               losses’’ means, with respect to a contract for rein-
+                                                                     9               surance coverage made available under this Act for
+                                                                   10                a covered purchaser, the insured losses of the cov-
+                                                                   11                ered purchaser that exceed the amount of retained
+                                                                   12                losses that the contract requires, pursuant to section
+                                                                   13                8(b), to be incurred by the eligible State program of
+                                                                   14                such purchaser, as defined by the Secretary after
+                                                                   15                consultation with the Commission.
+                                                                   16                         (6) ELIGIBLE             STATE PROGRAM.—The                           term ‘‘eli-
+                                                                   17                gible State program’’ means a State program that,
+                                                                   18                pursuant to section 7(a), is eligible to purchase rein-
+                                                                   19                surance coverage made available through contracts
+                                                                   20                under section 7, or a multi-State program that is eli-
+                                                                   21                gible to purchase such coverage pursuant to section
+                                                                   22                7(c).
+                                                                   23                         (7) INSURED               LOSS.—The                term ‘‘insured loss’’
+rfrederick on DSK6VPTVN1PROD with                                  24                means, with respect to contract for reinsurance cov-
+                                                                   25                erage made available under this Act for a covered
+
+
+                                                                                •HR 240 IH
+
+                                                                                                                          45
+                                                                     1               purchaser, any loss resulting from a covered peril
+                                                                     2               that is covered by insurance or reinsurance made
+                                                                     3               available under the eligible State program of the
+                                                                     4               covered purchaser.
+                                                                     5                        (8)        PRICE           GOUGING.—The                         term     ‘‘price
+                                                                     6               gouging’’ means the providing of any consumer good
+                                                                     7               or service by a supplier related to repair or restora-
+                                                                     8               tion of property damaged from a catastrophe for a
+                                                                     9               price that the supplier knows or has reason to know
+                                                                   10                is greater, by at least the percentage set forth in a
+                                                                   11                State law or regulation prohibiting such act (not-
+                                                                   12                withstanding any real cost increase due to any at-
+                                                                   13                tendant business risk and other reasonable expenses
+                                                                   14                that result from the major catastrophe involved),
+                                                                   15                than the price charged by the supplier for such con-
+                                                                   16                sumer good or service immediately before the dis-
+                                                                   17                aster.
+                                                                   18                         (9) QUALIFIED                   LINES.—The                 term ‘‘qualified
+                                                                   19                lines’’ means lines of insurance coverage for which
+                                                                   20                losses are covered under section 5 by reinsurance
+                                                                   21                coverage under this Act.
+                                                                   22                         (10) REINSURANCE                     COVERAGE.—The                    term ‘‘re-
+                                                                   23                insurance coverage under this Act’’ means coverage
+rfrederick on DSK6VPTVN1PROD with                                  24                under contracts made available under section 7.
+                                                                                •HR 240 IH
+
+                                                                                                                          46
+                                                                     1                        (11)        SECRETARY.—The                           term         ‘‘Secretary’’
+                                                                     2               means the Secretary of the Treasury.
+                                                                     3                        (12) STATE.—The term ‘‘State’’ means the
+                                                                     4               States of the United States, the District of Colum-
+                                                                     5               bia, the Commonwealth of Puerto Rico, the Com-
+                                                                     6               monwealth of the Northern Mariana Islands, Guam,
+                                                                     7               the Virgin Islands, American Samoa, and any other
+                                                                     8               territory or possession of the United States.
+                                                                     9     SEC. 13. REGULATIONS.
+                                                                   10                The Secretary, in consultation with the Secretary of
+                                                                   11 the Department of Homeland Security, shall issue any
+                                                                   12 regulations necessary to carry out the program for rein-
+                                                                   13 surance coverage under this Act.
+                                                                   14      SEC. 14. TERMINATION.
+
+                                                                   15                (a) IN GENERAL.—Except as provided in subsection
+                                                                   16 (b), the Secretary may not provide any reinsurance cov-
+                                                                   17 erage under this Act covering any period after the expira-
+                                                                   18 tion of the 20-year period beginning on the date of the
+                                                                   19 enactment of this Act.
+                                                                   20                (b) EXTENSION.—If upon the expiration of the period
+                                                                   21 under subsection (a) the Secretary, in consultation with
+                                                                   22 the Commission, determines that continuation of the pro-
+                                                                   23 gram for reinsurance coverage under this Act is necessary
+rfrederick on DSK6VPTVN1PROD with                                  24 or appropriate to carry out the purpose of the program
+                                                                   25 under section 4(b) because of insufficient growth of capac-
+
+
+                                                                                •HR 240 IH
+
+                                                                                                                          47
+                                                                     1 ity in the private homeowners’ insurance market, the Sec-
+                                                                     2 retary shall continue to provide reinsurance coverage
+                                                                     3 under this Act until the expiration of the 5-year period
+                                                                     4 beginning upon the expiration of the period under sub-
+                                                                     5 section (a).
+                                                                     6               (c) REPEAL.—Effective upon the date that reinsur-
+                                                                     7 ance coverage under this Act is no longer available or in
+                                                                     8 force pursuant to subsection (a) or (b), this Act (except
+                                                                     9 for this section) is repealed.
+                                                                   10                (d) DEFICIT REDUCTION.—The Secretary shall cover
+                                                                   11 into the General Fund of the Treasury any amounts re-
+                                                                   12 maining in the Fund under section 9 upon the repeal of
+                                                                   13 this Act under subsection (c).
+                                                                                                                              Æ
+rfrederick on DSK6VPTVN1PROD with
+
+
+
+
+                                                                                •HR 240 IH
+

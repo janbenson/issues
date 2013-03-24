@@ -1,0 +1,508 @@
+                                                                                                                                   I
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                          H. R. 889
+                                  To combat trade barriers that threaten the maintenance of an open Internet,
+                                      that mandate unique technology standards as a condition of market
+                                      access and related measures, and to promote online free expression and
+                                      the free flow of information.
+
+
+
+
+                                                IN THE HOUSE OF REPRESENTATIVES
+                                                                FEBRUARY 28, 2013
+                                  Ms. LOFGREN (for herself, Ms. ESHOO, Ms. MATSUI, and Mr. HONDA) intro-
+                                      duced the following bill; which was referred to the Committee on Ways
+                                      and Means, and in addition to the Committees on Foreign Affairs, the
+                                      Judiciary, and Energy and Commerce, for a period to be subsequently
+                                      determined by the Speaker, in each case for consideration of such provi-
+                                      sions as fall within the jurisdiction of the committee concerned
+
+
+
+
+                                                                            A BILL
+                                  To combat trade barriers that threaten the maintenance of
+                                     an open Internet, that mandate unique technology stand-
+                                     ards as a condition of market access and related meas-
+                                     ures, and to promote online free expression and the
+                                     free flow of information.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Global Free Internet
+                                    5 Act of 2013’’.
+
+
+                                    1     SEC. 2. FINDINGS.                                  2
+                                    2              Congress finds the following:
+                                    3                        (1) A single, open, global Internet is a vital tool
+                                    4              for facilitating the free and secure flow of informa-
+                                    5              tion and products without regard to distances or na-
+                                    6              tional boundaries.
+                                    7                        (2) The goal of a single, open, global Internet
+                                    8              is best supported by policies that—
+                                    9                                 (A) encourage utilization on a global basis
+                                  10                         of technology standards set by international
+                                  11                         standards-setting organizations, including in-
+                                  12                         dustry-led and other voluntary bodies, and se-
+                                  13                         lected by the market;
+                                  14                                  (B) respect the security of information,
+                                  15                         privacy, and speech of Internet users;
+                                  16                                  (C) promote investment in Internet-related
+                                  17                         innovation;
+                                  18                                  (D) refrain from compelling Internet serv-
+                                  19                         ice providers and other intermediaries to re-
+                                  20                         strict the free flow of information on the Inter-
+                                  21                         net; and
+                                  22                                  (E) allow trade in Internet-related goods,
+                                  23                         services, information, and content.
+                                  24                         (3) Certain governments and international bod-
+
+
+
+
+                                  25               ies are adopting or considering policies contrary to
+                                  26               the goal of a free, open Internet, including—
+                                              •HR 889 IH
+
+                                                                                             3
+                                    1                                 (A) mandating unique technology stand-
+                                    2                        ards favoring domestic producers as a condition
+                                    3                        of market access or pursuing related policies re-
+                                    4                        garding standard-setting that are discrimina-
+                                    5                        tory and subvert the open, global nature of the
+                                    6                        Internet;
+                                    7                                 (B) sponsoring or tolerating the use of
+                                    8                        Internet-related tools to gain unauthorized ac-
+                                    9                        cess to public-sector and private-sector net-
+                                  10                         works in the United States to disrupt their op-
+                                  11                         eration;
+                                  12                                  (C) blocking, filtering, or otherwise re-
+                                  13                         stricting Internet communications in a manner
+                                  14                         that discriminates against Internet-based serv-
+                                  15                         ices and content originating in other countries;
+                                  16                                  (D) monitoring Internet use and commu-
+                                  17                         nications in a manner that restricts individual
+                                  18                         privacy and freedom; and
+                                  19                                  (E) imposing market access requirements
+                                  20                         or liabilities that discriminate against or other-
+                                  21                         wise impede Internet-related goods, services and
+                                  22                         content from other countries.
+                                  23                         (4) Such actions threaten the interests of the
+                                  24               United States by—
+
+
+
+
+
+                                              •HR 889 IH
+
+                                                                                             4
+                                    1                                 (A) facilitating attempts by foreign govern-
+                                    2                        ments to restrict or disrupt the free flow of in-
+                                    3                        formation on the Internet;
+                                    4                                 (B) promoting ‘‘national Internets’’ in con-
+                                    5                        flict with the underlying rationale and architec-
+                                    6                        ture of the Internet as originally envisioned and
+                                    7                        constructed, thereby compromising the Inter-
+                                    8                        net’s full functionality and promise;
+                                    9                                 (C) harming United States workers and
+                                  10                         businesses, undermining a strong United States
+                                  11                         industrial base, and putting foreign competitors
+                                  12                         at an advantage; and
+                                  13                                  (D) putting at risk the utility of the Inter-
+                                  14                         net as a tool of open communication, assembly,
+                                  15                         and commerce, and the individuals who seek to
+                                  16                         use it for such purposes.
+                                  17      SEC. 3. TASK FORCE ON THE GLOBAL INTERNET.
+
+                                  18               (a) ESTABLISHMENT.—
+                                  19                         (1) IN       GENERAL.—There                       is established within
+                                  20               the executive branch a Task Force on the Global
+                                  21               Internet (in this Act referred to as the ‘‘Task
+                                  22               Force’’), hosted by the Department of Commerce.
+                                  23                         (2) CHAIRPERSON.—The President shall select
+                                  24               from among the members of the Task Force under
+
+
+
+
+                                  25               subsection (b)(1) to serve as Chairperson.
+                                              •HR 889 IH
+
+                                                                                             5
+                                    1              (b) COMPOSITION.—The Task Force shall consist of
+                                    2 the following:
+                                    3                        (1) Four United States persons with substantial
+                                    4              expertise in Internet policy who are not employees or
+                                    5              officers of Federal, State, local, or tribal govern-
+                                    6              ments and who—
+                                    7                                 (A) are nominated by the public through a
+                                    8                        process managed by the Department of Com-
+                                    9                        merce that solicits public recommendations
+                                  10                         through the Internet and are appointed by the
+                                  11                         President, acting through the President’s Coun-
+                                  12                         cil of Advisors on Science and Technology; and
+                                  13                                  (B) shall serve on the Task Force for re-
+                                  14                         newable terms not to exceed 3 years.
+                                  15                         (2) The leader of the majority party in the Sen-
+                                  16               ate and the leader of the minority party in the Sen-
+                                  17               ate shall each appoint one United States person with
+                                  18               substantial expertise in Internet policy to serve on
+                                  19               the Task Force for renewable terms not to exceed 3
+                                  20               years.
+                                  21                         (3) The Speaker of the House of Representa-
+                                  22               tives and the leader of the minority party in the
+                                  23               House of Representatives shall each appoint one
+                                  24               United States person with substantial expertise in
+
+
+
+
+
+                                              •HR 889 IH
+
+                                                                                             6
+                                    1              Internet policy to serve on the Task Force for re-
+                                    2              newable terms not to exceed 3 years.
+                                    3                        (4) The United States Trade Representative,
+                                    4              the Secretary of Homeland Security, the Assistant
+                                    5              Secretary for Communications and Information of
+                                    6              the National Telecommunications and Information
+                                    7              Administration, the Chair of the Privacy and Civil
+                                    8              Liberties Oversight Board, the head of the Internet
+                                    9              Corporation for Assigned Names and Numbers, and
+                                  10               the heads of other Federal departments and agencies
+                                  11               as determined to be appropriate by the President,
+                                  12               acting through their respective designees.
+                                  13               (c) STAFF             OF       FEDERAL AGENCIES.—Upon request
+                                  14 of the Task Force, the head of any Federal department
+                                  15 or agency or other Federal official described in subsection
+                                  16 (b)(4) may detail, with or without reimbursement, any of
+                                  17 the personnel or services of the relevant Federal depart-
+                                  18 ment or agency to the Task Force to assist it in carrying
+                                  19 out its functions.
+                                  20               (d) FUNCTIONS.—In addition to such other respon-
+                                  21 sibilities the President may assign, the Task Force shall—
+                                  22                         (1) develop and implement strategies in re-
+                                  23               sponse to foreign and domestic government policies
+                                  24               that—
+
+
+
+
+
+                                              •HR 889 IH
+
+                                                                                             7
+                                    1                                 (A) unjustifiably or unreasonably burden
+                                    2                        or restrict international trade in Internet-re-
+                                    3                        lated goods, services, and content;
+                                    4                                 (B) mandate or otherwise preference Inter-
+                                    5                        net-related technology standards and related
+                                    6                        measures;
+                                    7                                 (C) impede the free flow of information on
+                                    8                        the Internet; or
+                                    9                                 (D) otherwise threaten the open, global na-
+                                  10                         ture of the Internet, the interests of Internet
+                                  11                         users and the United States in Internet-related
+                                  12                         international trade and discourse;
+                                  13                         (2) consult and share timely information with
+                                  14               civil society groups with expertise in Internet policy;
+                                  15                         (3) coordinate the activity of all Federal depart-
+                                  16               ments and agencies as necessary to implement the
+                                  17               strategies developed in accordance with paragraph
+                                  18               (1);
+                                  19                         (4) prepare a report and action plan in accord-
+                                  20               ance with section 4;
+                                  21                         (5) hold public hearings and solicit public com-
+                                  22               ment through the Federal Register and the website
+                                  23               for the Task Force as appropriate; and
+                                  24                         (6) appoint a Task Force member, responsible
+
+
+
+
+                                  25               for serving as a point of contact for correspondence
+                                              •HR 889 IH
+
+                                                                                             8
+                                    1              and inquiries related to the activities of the Task
+                                    2              Force.
+                                    3     SEC. 4. REPORT AND ACTION PLAN TO THE PRESIDENT
+                                    4                             AND CONGRESS.
+                                    5              (a) IN GENERAL.—Not later than 15 months after
+                                    6 the date of the enactment of this Act, and annually there-
+                                    7 after, the Task Force shall transmit to the President and
+                                    8 the appropriate congressional committees a report and ac-
+                                  109 tion plan that—      (1) identifies acts, policies, or practices of the
+                                  11               United States, foreign governments, or international
+                                  12               bodies, and related measures that—
+                                  13                                  (A) deny fair and equitable market access
+                                  14                         to or otherwise unjustifiably or unreasonably
+                                  15                         burden or restrict discourse or trade in Inter-
+                                  16                         net-related goods, services, and content;
+                                  17                                  (B) mandate, give preference to, or pro-
+                                  18                         mote Internet-related technology standards that
+                                  19                         diverge         from            widely        adopted            international
+                                  20                         standards, or otherwise lead to the adoption of
+                                  21                         discriminatory or trade-restrictive technology
+                                  22                         standards or conformity assessment procedures;
+                                  23                         or
+                                  24                                  (C) otherwise threaten the interests of the
+
+
+
+
+                                  25                         United States in the technical operation, secu-
+                                              •HR 889 IH
+
+                                                                                             9
+                                    1                        rity, and free flow of global Internet commu-
+                                    2                        nications;
+                                    3                        (2) estimates the trade-distorting impact or ex-
+                                    4              tent of suppression of free expression of measures
+                                    5              identified under paragraph (1) on United States
+                                    6              commerce, the interests of Internet users, and the
+                                    7              functioning of the Internet;
+                                    8                        (3) designates which measures identified under
+                                    9              paragraph (1) are priority concerns;
+                                  10                         (4) sets forth a strategy and actions to be taken
+                                  11               by Federal departments and agencies in response to
+                                  12               measures identified under paragraph (1); and
+                                  13                         (5) provides information with respect to any ac-
+                                  14               tion taken (or the reasons if no action is taken) in
+                                  15               response to any such measures identified in prior
+                                  16               years’ reports, including such actions as are required
+                                  17               under section 5.
+                                  18               (b) FORM              OF       REPORTS.—The reports and action
+                                  19 plans required under subsection (a) may contain a classi-
+                                  20 fied annex if the Task Force determines that such is ap-
+                                  21 propriate.
+                                  22               (c) COORDINATION                    AND       NOTICE.—In preparing each
+                                  23 annual report and action plan required under subsection
+                                  24 (a), the Task Force shall—
+
+
+
+
+
+                                  25                         (1) seek public participation by—
+
+
+                                              •HR 889 IH
+
+                                                                                         10
+                                    1                                 (A) publishing a notice in the Federal Reg-
+                                    2                        ister that includes instructions on how the pub-
+                                    3                        lic may submit comments on the report and
+                                    4                        plan;
+                                    5                                 (B) holding at least one public hearing;
+                                    6                        and
+                                    7                                 (C) establishing a website for the Task
+                                    8                        Force that publishes timely information regard-
+                                    9                        ing the Task Force’s activities and provides an
+                                  10                         opportunity for the public to submit comments
+                                  11                         to the Task Force;
+                                  12                         (2) consult and coordinate with all relevant ex-
+                                  13               ecutive branch departments and agencies;
+                                  14                         (3) consult and share timely information with
+                                  15               civil society groups with expertise in Internet policy;
+                                  16               and
+                                  17                         (4) take into account information from such
+                                  18               sources as may be available to the United States
+                                  19               Trade Representative and such information as may
+                                  20               be submitted to the Trade Representative by inter-
+                                  21               ested persons, including information contained in re-
+                                  22               ports submitted under section 181(b) of the Trade
+                                  23               Act of 1974 (19 U.S.C. 2241(b)) and petitions sub-
+                                  24               mitted under section 302 of such Act (19 U.S.C.
+
+
+
+
+                                  25               2412).
+                                              •HR 889 IH
+
+                                                                                         11
+                                    1              (d) PUBLICATION.—The Task Force shall publish in
+                                    2 the Federal Register the report and action plan trans-
+                                    3 mitted to Congress under subsection (a), but shall omit
+                                    4 information transmitted to Congress under subsection (b).
+                                    5              (e) DEFINITION.—In this section, the term ‘‘appro-
+                                    6 priate congressional committees’’ means—
+                                    7                        (1) the Committee on Ways and Means, the
+                                    8              Committee on the Judiciary, and the Committee on
+                                    9              Energy and Commerce of the House of Representa-
+                                  10               tives; and
+                                  11                         (2) the Committee on Finance, the Committee
+                                  12               on the Judiciary, and the Committee on Commerce,
+                                  13               Science, and Transportation of the Senate.
+                                  14      SEC. 5. SECTION 301 INVESTIGATION AND POTENTIAL
+                                  15                              SANCTIONS.
+                                  16               Not later than 30 days after the transmission of each
+                                  17 annual report and action plan required under section 4,
+                                  18 the United States Trade Representative shall, in accord-
+                                  19 ance with the requirements of sections 301 through 304
+                                  20 of the Trade Act of 1974 (19 U.S.C. 2411 through 2414),
+                                  21 initiate an investigation, make any determinations re-
+                                  22 quired, and take any actions specified under such sections
+                                  23 with respect to any acts, policies, or practices of a foreign
+                                  24 government or international body that are identified in
+
+
+
+
+                                  25 each such annual report and action plan as priority con-
+                                              •HR 889 IH
+
+                                                                                         12
+                                    1 cerns, including restrictions on sale in the United States
+                                    2 of products developed and manufactured in countries im-
+                                    3 plementing such acts, policies, or practices.
+                                    4     SEC. 6. REVIEW AND INVESTIGATION BY FEDERAL TRADE
+                                    5                             COMMISSION AND DEPARTMENT OF JUSTICE.
+                                    6              (a) REVIEW                 AND            INVESTIGATION.—The Federal
+                                    7 Trade Commission and the Attorney General shall—
+                                    8                        (1) review each act, policy, or practice described
+                                    9              in paragraph (1) of section 4(a) that is contained in
+                                  10               a report or an action plan transmitted under such
+                                  11               section to Congress; and
+                                  12                         (2) investigate whether such act, policy, or
+                                  13               practice (or any related action by a nongovernmental
+                                  14               entity) violates the antitrust laws of the United
+                                  15               States.
+                                  16               (b) DEFINITION.—For purposes of this section, the
+                                  17 term ‘‘antitrust laws’’ has the meaning given it in sub-
+                                  18 section (a) of the first section of the Clayton Act (15
+                                  19 U.S.C. 12(a)), except that such term includes section 5
+                                  20 of the Federal Trade Commission Act (15 U.S.C. 45) to
+                                  21 the extent such section 5 applies to unfair methods of com-
+                                  22 petition.
+
+
+
+
+
+                                              •HR 889 IH
+
+                                                                                         13
+                                    1     SEC. 7. REPORT TO PRESIDENT AND CONGRESS ON INTER-
+                                    2                             NATIONAL TRADE AGREEMENTS.
+                                    3              (a) REPORT.—Not later than 2 years after the date
+                                    4 of the enactment of this Act, the Task Force shall submit
+                                    5 to the President and the appropriate congressional com-
+                                    6 mittees a report that—
+                                    7                        (1) assesses the sufficiency of existing multilat-
+                                    8              eral and bilateral trade agreements in—
+                                    9                                 (A) promoting international trade in Inter-
+                                  10                         net-related goods, services, and content;
+                                  11                                  (B) encouraging the utilization on a global
+                                  12                         basis of technology standards set by inter-
+                                  13                         national standard-setting organizations;
+                                  14                                  (C) protecting the security and functioning
+                                  15                         of the Internet;
+                                  16                                  (D) facilitating the free flow of information
+                                  17                         on the Internet; and
+                                  18                                  (E) protecting the interests of Internet
+                                  19                         users; and
+                                  20                         (2) recommends, as appropriate, modifications
+                                  21               of existing agreements or the negotiation of new
+                                  22               agreements to advance the objectives identified in
+                                  23               paragraph (1).
+                                  24               (b) SENSE             OF       CONGRESS.—It is the sense of Con-
+
+
+
+
+                                  25 gress that the negotiating objectives of the United States
+                                              •HR 889 IH
+
+                                                                                         14
+                                    1 for future bilateral and multilateral trade agreements
+                                    2 should include the goals specified in subsection (a)(1).
+                                    3              (c) FORM            OF    REPORTS.—The report required under
+                                    4 subsection (a) may contain a classified annex if the Task
+                                    5 Force determines that such is appropriate.
+                                    6              (d) COORDINATION                    AND       NOTICE.—In preparing each
+                                    7 report required under subsection (a), the Task Force
+                                    8 shall—
+                                    9                        (1) seek public participation by—
+                                  10                                  (A) publishing a notice in the Federal Reg-
+                                  11                         ister that includes instructions on how the pub-
+                                  12                         lic may submit comments on the report and
+                                  13                         plan;
+                                  14                                  (B) holding at least one public hearing;
+                                  15                         and
+                                  16                                  (C) establishing a website for the Task
+                                  17                         Force that publishes timely information regard-
+                                  18                         ing the Task Force’s activities and provides an
+                                  19                         opportunity for the public to submit comments
+                                  20                         to the Task Force;
+                                  21                         (2) consult and coordinate with all relevant
+                                  22               Federal departments and agencies;
+                                  23                         (3) consult and share timely information with
+                                  24               civil society groups with expertise in Internet policy;
+
+
+
+
+                                  25               and
+                                              •HR 889 IH
+
+                                                                                         15
+                                    1                        (4) take into account information from such
+                                    2              sources as may be available to the United States
+                                    3              Trade Representative and such information as may
+                                    4              be submitted to the Trade Representative by inter-
+                                    5              ested persons, including information contained in re-
+                                    6              ports submitted under section 181(b) of the Trade
+                                    7              Act of 1974 (19 U.S.C. 2241(b)) and petitions sub-
+                                    8              mitted under section 302 of such Act (19 U.S.C.
+                                    9              2412).
+                                  10               (e) PUBLICATION.—The Task Force shall publish in
+                                  11 the Federal Register the report transmitted to Congress
+                                  12 under subsection (a), but shall omit information trans-
+                                  13 mitted to Congress under subsection (c).
+                                  14               (f) DEFINITION.—In this section, the term ‘‘appro-
+                                  15 priate congressional committees’’ means—
+                                  16                         (1) the Committee on Ways and Means, the
+                                  17               Committee on Energy and Commerce, and the Com-
+                                  18               mittee on the Judiciary of the House of Representa-
+                                  19               tives; and
+                                  20                         (2) the Committee on Finance, the Committee
+                                  21               on the Judiciary, and the Committee on Commerce,
+                                  22               Science, and Transportation of the Senate.
+                                  23      SEC. 8. STANDARDS-RELATED TRAINING.
+                                  24               The Task Force shall coordinate with intergovern-
+
+
+
+
+                                  25 mental, national government, and private sector entities,
+                                              •HR 889 IH
+
+                                                                                         16
+                                    1 including the National Institute of Standards and Tech-
+                                    2 nology, the Patent and Trademark Office, the Trade and
+                                    3 Development Agency, the United States Telecommuni-
+                                    4 cations Training Institute, the United States Agency for
+                                    5 International Development, the Federal Trade Commis-
+                                    6 sion, and any other appropriate entities, for the purpose
+                                    7 of organizing training of foreign and domestic government
+                                    8 officials and national standard-setting and conformity as-
+                                    9 sessment bodies with respect to best practices, including
+                                  10 coordination with nongovernmental international and do-
+                                  11 mestic standards bodies, in accordance with the annual re-
+                                  12 port and action plan required under section 4.
+                                  13      SEC. 9. OUTSIDE CONSULTATION.
+                                  14               The Task Force shall establish a regularized process
+                                  15 to receive and respond to timely input from businesses,
+                                  16 organizations, experts, and other interested parties re-
+                                  17 garding the fulfillment of its functions.
+                                              •HR 889 IH                                   Æ

@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="1212" updated="2013-03-16T04:46:59-04:00">
+  <state datetime="2013-03-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-15"/>
+  </status>
+  <introduced datetime="2013-03-15"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to provide that reimbursements for costs of using passenger automobiles for charitable and other organizations are excluded from gross income.</title>
+  </titles>
+  <sponsor id="400318"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-15">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

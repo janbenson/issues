@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="963" updated="2013-03-20T04:46:57-04:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title as="introduced" type="short">Coordination of Pro Bono Medically Recommended Dental Care Act</title>
+    <title as="introduced" type="official">To assist low-income individuals in obtaining medically recommended dental care.</title>
+  </titles>
+  <sponsor id="400101"/>
+  <cosponsors>
+    <cosponsor id="412195" joined="2013-03-15"/>
+    <cosponsor id="400074" joined="2013-03-12"/>
+    <cosponsor id="412272" joined="2013-03-12"/>
+    <cosponsor id="400237" joined="2013-03-19"/>
+    <cosponsor id="400238" joined="2013-03-15"/>
+    <cosponsor id="400274" joined="2013-03-12"/>
+    <cosponsor id="412461" joined="2013-03-05"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-05">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="466"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Dental care"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+</bill>

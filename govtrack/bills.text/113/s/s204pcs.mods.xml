@@ -1,0 +1,237 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee183eb9624">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To preserve and protect the free choice of individual employees to form, join, or assist labor organizations, or to refrain from such activities.;
+   		National Right-to-Work Act;S. 204 (PCS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-03-19</dateIngested>
+</extension>
+<titleInfo>
+ <title>To preserve and protect the free choice of individual employees to form, join, or assist labor organizations, or to refrain from such activities.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>National Right-to-Work Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 204 (PCS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-01-31</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>4 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee183eb9624</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s204pcs</identifier>
+<identifier type="preferred citation">S. 204</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s204_pcs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s204pcs/html/BILLS-113s204pcs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s204pcs/pdf/BILLS-113s204pcs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s204pcs/xml/BILLS-113s204pcs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-03-19</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2013-03-19</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s204pcs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mr. Paul</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Lee</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Coburn</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Burr</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Heller</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Vitter</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Barrasso</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Inhofe</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Chambliss</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Grassley</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 29 Section 157</partNumber>
+  <partNumber>Title 29 Section 158</partNumber>
+</titleInfo>
+ <identifier type="USC citation">29 U.S.C. 157</identifier>
+ <identifier type="USC citation">29 U.S.C. 158</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 45 Section 152</partNumber>
+</titleInfo>
+ <identifier type="USC citation">45 U.S.C. 152</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 11</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s204pcs</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>204</billNumber>
+ <billVersion reprint="false">pcs</billVersion>
+ <fileSuffix>pcs</fileSuffix>
+ <shortTitle>National Right-to-Work Act</shortTitle>
+ <action date="2013-02-04">Read the second time and placed on the calendar</action>
+ <action date="2013-01-31">Mr. Paul (for himself, Mr. Lee, Mr. Coburn, Mr. Burr, Mr. Rubio, Mr. Heller, Mr. Vitter, Mr. Barrasso, Mr. Inhofe, Mr. Chambliss, Mr. Risch, and Mr. Grassley) introduced the following bill; which was read the first time</action>
+ <congMember chamber="S" congress="113" role="SPONSOR">
+                      <name type="parsed">Mr. Paul</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Lee</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Coburn</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Burr</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Heller</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Vitter</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Barrasso</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Inhofe</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Chambliss</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Grassley</name>
+                </congMember>
+ <congCalendar congress="113" number="11" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="29">
+                      <section number="157"></section>
+                      <section number="158"></section>
+                </USCode>
+ <USCode title="45">
+                      <section number="152"></section>
+                </USCode>
+</extension>
+</mods>

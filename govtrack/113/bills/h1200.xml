@@ -1,0 +1,42 @@
+<bill session="113" type="h" number="1200" updated="2013-03-15T04:47:56-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="official">To provide for health care for every American and to control the cost and enhance the quality of the health care system.</title>
+  </titles>
+  <sponsor id="400262"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Oversight and Government Reform, Armed Services, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

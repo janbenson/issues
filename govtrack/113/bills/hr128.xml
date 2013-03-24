@@ -1,0 +1,39 @@
+<bill session="113" type="hr" number="128" updated="2013-03-20T04:46:11-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title as="introduced" type="official">Honoring the service and sacrifice of members of the United States Armed Forces on the occasion of the 10th anniversary of the start of Operation Iraqi Freedom and Operation New Dawn.</title>
+  </titles>
+  <sponsor id="412283"/>
+  <cosponsors>
+    <cosponsor id="412271" joined="2013-03-19"/>
+    <cosponsor id="400655" joined="2013-03-19"/>
+    <cosponsor id="412533" joined="2013-03-19"/>
+    <cosponsor id="400141" joined="2013-03-19"/>
+    <cosponsor id="412577" joined="2013-03-19"/>
+    <cosponsor id="412453" joined="2013-03-19"/>
+    <cosponsor id="412451" joined="2013-03-19"/>
+    <cosponsor id="412444" joined="2013-03-19"/>
+    <cosponsor id="412421" joined="2013-03-19"/>
+    <cosponsor id="400285" joined="2013-03-19"/>
+    <cosponsor id="412523" joined="2013-03-19"/>
+    <cosponsor id="412417" joined="2013-03-19"/>
+    <cosponsor id="412461" joined="2013-03-19"/>
+    <cosponsor id="400411" joined="2013-03-19"/>
+    <cosponsor id="412255" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-19">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

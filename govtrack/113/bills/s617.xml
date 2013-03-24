@@ -1,0 +1,25 @@
+<bill session="113" type="s" number="617" updated="2013-03-20T04:46:03-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title as="introduced" type="official">A bill to provide humanitarian assistance and support a democratic transition in Syria, and for other purposes.</title>
+  </titles>
+  <sponsor id="412246"/>
+  <cosponsors>
+    <cosponsor id="412491" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-19">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

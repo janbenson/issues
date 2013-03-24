@@ -1,0 +1,25 @@
+<bill session="113" type="h" number="1254" updated="2013-03-20T04:47:23-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title as="introduced" type="official">To repeal a requirement that new employees of certain employers be automatically enrolled in the employer's health benefits plan.</title>
+  </titles>
+  <sponsor id="412550"/>
+  <cosponsors>
+    <cosponsor id="412551" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-19">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

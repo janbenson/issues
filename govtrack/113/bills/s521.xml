@@ -1,0 +1,32 @@
+<bill session="113" type="s" number="521" updated="2013-03-16T06:19:37-04:00">
+  <state datetime="2013-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-11"/>
+  </status>
+  <introduced datetime="2013-03-11"/>
+  <titles>
+    <title as="introduced" type="short">Wounded Warrior Research Enhancement Act</title>
+    <title as="introduced" type="official">A bill to require the Secretary of Defense to award grants to fund research on orthotics and prosthetics.</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2013-03-11"/>
+    <cosponsor id="300051" joined="2013-03-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-11">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1596"/>
+    </action>
+    <action state="REFERRED" datetime="2013-03-11">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+      <reference ref="CR S1596-1597" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

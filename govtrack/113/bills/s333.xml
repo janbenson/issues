@@ -1,0 +1,43 @@
+<bill session="113" type="s" number="333" updated="2013-03-06T04:45:50-05:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title as="introduced" type="short">Access to Birth Control Act</title>
+    <title as="introduced" type="official">A bill to establish certain duties for pharmacies to ensure provision of Food and Drug Administration-approved contraception, and for other purposes.</title>
+  </titles>
+  <sponsor id="300064"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2013-02-14"/>
+    <cosponsor id="300011" joined="2013-02-14"/>
+    <cosponsor id="400050" joined="2013-02-14"/>
+    <cosponsor id="412378" joined="2013-02-14"/>
+    <cosponsor id="412223" joined="2013-02-14"/>
+    <cosponsor id="400272" joined="2013-02-14"/>
+    <cosponsor id="400357" joined="2013-02-14"/>
+    <cosponsor id="412244" joined="2013-03-05"/>
+    <cosponsor id="412247" joined="2013-02-14"/>
+    <cosponsor id="300100" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-14">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="h" number="728"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Civil actions and liability"/>
+    <term name="Family planning and birth control"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health technology, devices, supplies"/>
+  </subjects>
+  <amendments/>
+</bill>

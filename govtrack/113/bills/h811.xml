@@ -1,0 +1,58 @@
+<bill session="113" type="h" number="811" updated="2013-03-22T04:46:28-04:00">
+  <state datetime="2013-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-25"/>
+  </status>
+  <introduced datetime="2013-02-25"/>
+  <titles>
+    <title as="introduced" type="short">Never Forget 9/11 Heroes Act</title>
+    <title as="introduced" type="official">To add the 9/11 Health and Compensation Programs to the list of exempt programs under PAYGO.</title>
+  </titles>
+  <sponsor id="400219"/>
+  <cosponsors>
+    <cosponsor id="400031" joined="2013-03-15"/>
+    <cosponsor id="412221" joined="2013-03-12"/>
+    <cosponsor id="400087" joined="2013-02-27"/>
+    <cosponsor id="412297" joined="2013-02-27"/>
+    <cosponsor id="400251" joined="2013-02-25"/>
+    <cosponsor id="400271" joined="2013-02-26"/>
+    <cosponsor id="412560" joined="2013-02-28"/>
+    <cosponsor id="400289" joined="2013-02-25"/>
+    <cosponsor id="412506" joined="2013-03-21"/>
+    <cosponsor id="400333" joined="2013-02-26"/>
+    <cosponsor id="412393" joined="2013-03-13"/>
+    <cosponsor id="400366" joined="2013-02-26"/>
+    <cosponsor id="412186" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-25">
+      <text>Referred to the House Committee on the Budget.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBU" name="House Budget" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="377"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Civil actions and liability"/>
+    <term name="Crime victims"/>
+    <term name="Disability assistance"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government trust funds"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Law enforcement officers"/>
+    <term name="New York City"/>
+    <term name="Pennsylvania"/>
+    <term name="Terrorism"/>
+    <term name="Virginia"/>
+    <term name="Worker safety and health"/>
+  </subjects>
+  <amendments/>
+</bill>

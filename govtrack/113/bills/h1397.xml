@@ -1,0 +1,43 @@
+<bill session="113" type="h" number="1397" updated="2013-03-22T04:47:26-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To create jobs and reinvest in communities through the rehabilitation of abandoned and foreclosed residential and commercial properties, and for other purposes.</title>
+  </titles>
+  <sponsor id="400422"/>
+  <cosponsors>
+    <cosponsor id="412404" joined="2013-03-21"/>
+    <cosponsor id="412565" joined="2013-03-21"/>
+    <cosponsor id="400073" joined="2013-03-21"/>
+    <cosponsor id="412470" joined="2013-03-21"/>
+    <cosponsor id="400639" joined="2013-03-21"/>
+    <cosponsor id="400075" joined="2013-03-21"/>
+    <cosponsor id="412263" joined="2013-03-21"/>
+    <cosponsor id="412215" joined="2013-03-21"/>
+    <cosponsor id="400170" joined="2013-03-21"/>
+    <cosponsor id="400204" joined="2013-03-21"/>
+    <cosponsor id="412199" joined="2013-03-21"/>
+    <cosponsor id="412506" joined="2013-03-21"/>
+    <cosponsor id="412432" joined="2013-03-21"/>
+    <cosponsor id="400363" joined="2013-03-21"/>
+    <cosponsor id="412396" joined="2013-03-21"/>
+    <cosponsor id="400402" joined="2013-03-21"/>
+    <cosponsor id="412579" joined="2013-03-21"/>
+    <cosponsor id="400424" joined="2013-03-21"/>
+    <cosponsor id="412412" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

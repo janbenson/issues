@@ -1,0 +1,25 @@
+<bill session="113" type="s" number="613" updated="2013-03-20T04:46:01-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title as="introduced" type="official">A bill to increase the mileage reimbursement rate for members of the armed services during permanent change of station and to authorize the transportation of additional motor vehicles of members on change of permanent station to or from nonforeign areas outside the continental United States.</title>
+  </titles>
+  <sponsor id="412326"/>
+  <cosponsors>
+    <cosponsor id="412200" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-19">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

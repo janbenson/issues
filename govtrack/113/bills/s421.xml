@@ -1,0 +1,42 @@
+<bill session="113" type="s" number="421" updated="2013-03-16T06:18:47-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">Freedom to Fish Act</title>
+    <title as="introduced" type="official">A bill to prohibit the Corps of Engineers from taking any action to establish a restricted area prohibiting public access to waters downstream of a dam, and for other purposes.</title>
+  </titles>
+  <sponsor id="300002"/>
+  <cosponsors>
+    <cosponsor id="412248" joined="2013-02-28"/>
+    <cosponsor id="300072" joined="2013-02-28"/>
+    <cosponsor id="412492" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1028"/>
+    </action>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <reference ref="CR S1028-1029" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="h" number="826"/>
+    <bill relation="unknown" session="113" type="h" number="826"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Dams and canals"/>
+    <term name="Hunting and fishing"/>
+    <term name="Lakes and rivers"/>
+    <term name="Outdoor recreation"/>
+  </subjects>
+  <amendments/>
+</bill>

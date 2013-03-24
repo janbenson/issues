@@ -55,8 +55,8 @@ border-bottom: 1px solid #eee;
 
 .commented{
 padding-left: 20px;
-background: url('/images/commented.png') 2px top no-repeat;
-   _background: url('/images/commented.gif') 2px top no-repeat;
+background: urlcommented.png') 2px top no-repeat;
+   _background: urlcommented.gif') 2px top no-repeat;
 }
 
 .commented span{
@@ -67,8 +67,8 @@ color: #3895bd;
 
 .befriended{
 padding-left: 20px;
-background: url('/images/befriended.png') 2px 1px no-repeat;
-   _background: url('/images/befriended.gif') 2px 1px no-repeat;
+background: urlbefriended.png') 2px 1px no-repeat;
+   _background: urlbefriended.gif') 2px 1px no-repeat;
 }
 
 
@@ -82,14 +82,14 @@ clear: both;
 
 .for{
 padding-left: 20px;
-background: url('/images/passed_big.png') 2px 1px no-repeat;
-   _background: url('/images/passed_big.gif') 2px 1px no-repeat;
+background: urlpassed_big.png') 2px 1px no-repeat;
+   _background: urlpassed_big.gif') 2px 1px no-repeat;
 }
 
 .failed{
 padding-left: 20px;
-background: url('/images/Failed_big.png') 2px top no-repeat;
-   _background: url('/images/Failed_big.gif') 2px top no-repeat;
+background: urlFailed_big.png') 2px top no-repeat;
+   _background: urlFailed_big.gif') 2px top no-repeat;
 }
 
 

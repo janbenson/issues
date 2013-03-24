@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="944" updated="2013-03-05T09:46:07-05:00">
+  <state datetime="2013-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-04"/>
+  </status>
+  <introduced datetime="2013-03-04"/>
+  <titles>
+    <title as="introduced" type="short">Venezuelan Liberty Act</title>
+    <title as="introduced" type="official">To provide for eligibility for relief from removal for certain Venezuelans.</title>
+  </titles>
+  <sponsor id="412530"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-04">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,30 @@
+<bill session="113" type="h" number="1266" updated="2013-03-20T04:47:29-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 40, United States Code, concerning the calculation of transactions for the lease of land ports of entry and international bridges, and for other purposes.</title>
+  </titles>
+  <sponsor id="412383"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-19">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-19">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2013-03-19">
+      <text>Referred to House Budget</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee code="HSBU" name="House Budget" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

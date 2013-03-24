@@ -1,0 +1,722 @@
+                                                                                                                                     I
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                        H. R. 1121
+                                                           To protect cyber privacy, and for other purposes.
+
+
+
+
+                                                IN THE HOUSE OF REPRESENTATIVES
+                                                                MARCH 13, 2013
+                                  Mr. CONYERS (for himself, Mr. SCOTT of Virginia, and Mr. JOHNSON of Geor-
+                                      gia) introduced the following bill; which was referred to the Committee
+                                      on the Judiciary
+
+
+
+
+                                                                            A BILL
+                                               To protect cyber privacy, and for other purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Cyber Privacy For-
+                                    5 tification Act of 2013’’.
+
+
+
+
+
+                                    1                      TITLE I—DATA BREACH             2
+                                    2                          NOTIFICATION
+                                    3     SEC. 101. FAILURE TO PROVIDE NOTICE OF SECURITY
+                                    4                             BREACHES INVOLVING SENSITIVE PERSON-
+                                    5                             ALLY IDENTIFIABLE INFORMATION.
+
+                                    6              (a) IN GENERAL.—Chapter 47 of title 18, United
+                                    7 States Code, is amended by adding at the end the fol-
+                                    8 lowing:
+                                    9 ‘‘§ 1040. Failure to provide notice of security
+                                  10                             breaches involving sensitive personally
+                                  11                             identifiable information
+                                  12               ‘‘(a) Whoever, having a covered obligation to provide
+                                  13 notice of a security breach involving sensitive personally
+                                  14 identifiable information, knowingly fails to do so, shall be
+                                  15 fined under this title or imprisoned not more than 5 years,
+                                  16 or both.
+                                  17               ‘‘(b) As used in this section—
+                                  18                         ‘‘(1) the term ‘covered obligation’, with respect
+                                  19               to providing notice of a security breach, means an
+                                  20               obligation under Federal law or, if the breach is in
+                                  21               or affects interstate or foreign commerce, under
+                                  22               State law;
+                                  23                         ‘‘(2) the term ‘sensitive personally identifiable
+
+
+
+
+                                  24               information’ means any electronic or digital informa-
+                                  25               tion that includes—
+
+
+                                              •HR 1121 IH
+
+                                                                                             3
+                                    1                                 ‘‘(A) an individual’s first and last name, or
+                                    2                        first initial and last name, or address or phone
+                                    3                        number in combination with any one of the fol-
+                                    4                        lowing data elements where the data elements
+                                    5                        are not protected by a technology protection
+                                    6                        measure that renders the data element indeci-
+                                    7                        pherable—
+                                    8                                        ‘‘(i) a nontruncated social security
+                                    9                                 number, driver’s license number, state resi-
+                                  10                                  dent identification number, passport num-
+                                  11                                  ber, or alien registration number;
+                                  12                                         ‘‘(ii) both—
+                                  13                                                   ‘‘(I) mother’s maiden name, if
+                                  14                                         identified as such; and
+                                  15                                                   ‘‘(II) month, day, and year of
+                                  16                                         birth; and
+                                  17                                         ‘‘(iii) unique biometric data such as a
+                                  18                                  fingerprint, voice print, a retina or iris
+                                  19                                  image; or
+                                  20                                  ‘‘(B) a financial account number or credit
+                                  21                         or debit card number in combination with any
+                                  22                         security code, access code or password that is
+                                  23                         required for an individual to obtain credit, with-
+
+
+
+
+                                  24                         draw funds, or engage in a financial transaction
+                                  25                         by means of such number;
+
+
+                                              •HR 1121 IH
+
+                                                                                             4
+                                    1                        ‘‘(3) the term ‘security breach’ means a com-
+                                    2              promise of the security, confidentiality, or integrity
+                                    3              of computerized data that there is reason to believe
+                                    4              has resulted in improper access to sensitive person-
+                                    5              ally identifiable information; and
+                                    6                        ‘‘(4) the term ‘improper access’ means access
+                                    7              without authorization or in excess of authorization.’’.
+                                    8              (b) CLERICAL AMENDMENT.—The table of sections
+                                    9 at the beginning of chapter 47 of title 18, United States
+                                  10 Code, is amended by adding at the end the following:
+                                          ‘‘1040. Concealment of security breaches involving personally identifiable infor-
+                                                          mation.’’.
+
+                                  11               (c) OBLIGATION TO REPORT.—
+                                  12                         (1) IN       GENERAL.—A                     person who owns or pos-
+                                  13               sesses data in electronic form containing a means of
+                                  14               identification and has knowledge of a major security
+                                  15               breach of the system containing such data main-
+                                  16               tained by such person, must provide prompt notice
+                                  17               of such breach to the United States Secret Service
+                                  18               or Federal Bureau of Investigation.
+                                  19                         (2) PUBLICATION                       OF         LIST        OF          NOTIFICA-
+                                  20               TIONS.—The               Secret Service and the Federal Bureau
+                                  21               of Investigation shall annually publish in the Federal
+                                  22               Register a list of all notifications submitted the pre-
+
+
+
+
+                                  23               vious calendar year and the identity of each entity
+                                              •HR 1121 IH
+
+                                                                                             5
+                                    1              with respect to which the major security breach oc-
+                                    2              curred.
+                                    3                        (3) DEFINITION.—In this subsection—
+                                    4                                 (A) the term ‘‘major security breach’’
+                                    5                        means any security breach involving—
+                                    6                                        (i) means of identification pertaining
+                                    7                                 to 10,000 or more individuals is, or is rea-
+                                    8                                 sonably believed to have been acquired;
+                                    9                                        (ii) databases owned by the Federal
+                                  10                                  Government; or
+                                  11                                         (iii) means of identification of Federal
+                                  12                                  Government employees or contractors in-
+                                  13                                  volved in national security matters or law
+                                  14                                  enforcement; and
+                                  15                                  (B) the term ‘‘means of identification’’ has
+                                  16                         the meaning given that term in section 1028 of
+                                  17                         title 18, United States Code.
+                                  18      TITLE II—NON-CRIMINAL PRI-
+                                  19         VACY ENFORCEMENT AND
+                                  20         PRIVACY IMPACT   STATE-
+                                  21         MENTS
+                                  22      SEC. 201. ENFORCEMENT BY ATTORNEY GENERAL AND
+                                  23                              STATE AUTHORITIES.
+                                  24               (a) DEFINITION                    OF      ‘‘AUTHORIZED ENTITY’’.—As
+                                  25 used in this section, the term ‘‘authorized entity’’ means
+
+
+                                              •HR 1121 IH
+
+                                                                                             6
+                                    1 the Attorney General, with respect to any conduct consti-
+                                    2 tuting a violation of a Federal law enacted after the date
+                                    3 of the enactment of this Act relating to data security and
+                                    4 engaged in by a business entity, and a State Attorney
+                                    5 General with respect to that conduct to the extent the con-
+                                    6 duct adversely affects an interest of the residents of a
+                                    7 State.
+                                    8              (b) CIVIL PENALTY.—
+                                    9                        (1) GENERALLY.—An authorized entity may in
+                                  10               a civil action obtain a civil penalty of not more than
+                                  11               $500,000 from any business entity that engages in
+                                  12               conduct constituting a violation of a Federal law en-
+                                  13               acted after the date of the enactment of this Act re-
+                                  14               lating to data security.
+                                  15                         (2) SPECIAL              RULE FOR INTENTIONAL VIOLA-
+                                  16               TION.—If            the violation described in subsection (a) is
+                                  17               intentional,              the         maximum                  civil        penalty   is
+                                  18               $1,000,000.
+                                  19               (c) INJUNCTIVE RELIEF.—An authorized entity may,
+                                  20 in a civil action against a business entity that has engaged,
+                                  21 or is engaged, in any conduct constituting a violation of
+                                  22 a Federal law enacted after the date of the enactment of
+                                  23 this Act relating to data security, obtain an order—
+
+
+
+
+
+                                  24                         (1) enjoining such act or practice; or
+                                  25                         (2) enforcing compliance with that law.
+
+
+                                              •HR 1121 IH
+
+                                                                                             7
+                                    1              (d) OTHER RIGHTS AND REMEDIES.—The rights and
+                                    2 remedies available under this section do not affect any
+                                    3 other rights and remedies available under Federal or State
+                                    4 law.
+                                    5     SEC. 202. COORDINATION OF STATE AND FEDERAL EF-
+                                    6                             FORTS.
+                                    7              (a) NOTICE.—
+                                    8                        (1) IN      GENERAL.—A                 State consumer protection
+                                    9              attorney may not bring an action under section 201,
+                                  10               until the attorney general of the State involved pro-
+                                  11               vides to the Attorney General of the United States—
+                                  12                                  (A) written notice of the action; and
+                                  13                                  (B) a copy of the complaint for the action.
+                                  14                         (2) EXCEPTION.—Paragraph (1) does not apply
+                                  15               with respect to the filing of an action by an attorney
+                                  16               general of a State under this section if the State at-
+                                  17               torney general determines that it is not feasible to
+                                  18               provide the notice described in such subparagraph
+                                  19               before the filing of the action, in such a case the
+                                  20               State attorney general shall provide notice and a
+                                  21               copy of the complaint to the Attorney General at the
+                                  22               time the State attorney general files the action.
+                                  23               (b) FEDERAL PROCEEDINGS.—The Attorney General
+
+
+
+
+                                  24 may—
+                                              •HR 1121 IH
+
+                                                                                             8
+                                    1                        (1) move to stay any non-Federal action under
+                                    2              section 201, pending the final disposition of a pend-
+                                    3              ing Federal action under that section;
+                                    4                        (2) initiate an action in an appropriate United
+                                    5              States district court and move to consolidate all
+                                    6              pending actions under section 201, including State
+                                    7              actions, in that court; and
+                                    8                        (3) intervene in a State action under section
+                                    9              201.
+                                  10               (c) PENDING PROCEEDINGS.—If the Attorney Gen-
+                                  11 eral institutes a proceeding or action for a violation of a
+                                  12 Federal law enacted after the date of the enactment of
+                                  13 this Act relating to data security, no authority of a State
+                                  14 may, during the pendency of such proceeding or action,
+                                  15 bring an action under this section against any defendant
+                                  16 named in such criminal proceeding or a civil action against
+                                  17 any defendant for any violation that is alleged in that pro-
+                                  18 ceeding or action.
+                                  19               (d) DEFINITION.—As used in this section, the term
+                                  20 ‘‘State consumer protection attorney’’ means the attorney
+                                  21 general of a State or any State or local law enforcement
+                                  22 agency authorized by the State attorney general or by
+                                  23 State statute to prosecute violations of consumer protec-
+
+
+
+
+                                  24 tion law.
+                                              •HR 1121 IH
+
+                                    1     SEC.        203.     REQUIREMENT                   9   THAT      AGENCY            RULEMAKING
+                                    2                             TAKE INTO CONSIDERATION IMPACTS ON IN-
+                                    3                             DIVIDUAL PRIVACY.
+                                    4              (a) IN GENERAL.—Title 5, United States Code, is
+                                    5 amended by adding after section 553 the following new
+                                    6 section:
+                                    7 ‘‘§ 553a. Privacy impact assessment in rulemaking
+                                    8              ‘‘(a) INITIAL PRIVACY IMPACT ASSESSMENT.—
+                                    9                        ‘‘(1) IN       GENERAL.—Whenever                          an agency is re-
+                                  10               quired by section 553 of this title, or any other law,
+                                  11               to publish a general notice of proposed rulemaking
+                                  12               for a proposed rule, or publishes a notice of pro-
+                                  13               posed rulemaking for an interpretative rule involving
+                                  14               the internal revenue laws of the United States, and
+                                  15               such rule or proposed rulemaking pertains to the
+                                  16               collection, maintenance, use, or disclosure of person-
+                                  17               ally identifiable information from 10 or more indi-
+                                  18               viduals, other than agencies, instrumentalities, or
+                                  19               employees of the Federal Government, the agency
+                                  20               shall prepare and make available for public comment
+                                  21               an initial privacy impact assessment that describes
+                                  22               the impact of the proposed rule on the privacy of in-
+                                  23               dividuals. Such assessment or a summary thereof
+                                  24               shall be signed by the senior agency official with pri-
+
+
+
+
+                                  25               mary responsibility for privacy policy and be pub-
+                                  26               lished in the Federal Register at the time of the
+                                              •HR 1121 IH
+
+                                                                                         10
+                                    1              publication of a general notice of proposed rule-
+                                    2              making for the rule.
+                                    3                        ‘‘(2) CONTENTS.—Each initial privacy impact
+                                    4              assessment required under this subsection shall con-
+                                    5              tain the following:
+                                    6                                 ‘‘(A) A description and analysis of the ex-
+                                    7                        tent to which the proposed rule will impact the
+                                    8                        privacy interests of individuals, including the
+                                    9                        extent to which the proposed rule—
+                                  10                                         ‘‘(i) provides notice of the collection of
+                                  11                                  personally identifiable information, and
+                                  12                                  specifies what personally identifiable infor-
+                                  13                                  mation is to be collected and how it is to
+                                  14                                  be collected, maintained, used, and dis-
+                                  15                                  closed;
+                                  16                                         ‘‘(ii) allows access to such information
+                                  17                                  by the person to whom the personally iden-
+                                  18                                  tifiable information pertains and provides
+                                  19                                  an opportunity to correct inaccuracies;
+                                  20                                         ‘‘(iii)         prevents            such          information,
+                                  21                                  which is collected for one purpose, from
+                                  22                                  being used for another purpose; and
+                                  23                                         ‘‘(iv) provides security for such infor-
+
+
+
+
+                                  24                                  mation, including the provision of written
+                                  25                                  notice to any individual, within 14 days of
+
+
+                                              •HR 1121 IH
+
+                                                                                         11
+                                    1                                 the date of compromise, whose privacy in-
+                                    2                                 terests are compromised by the unauthor-
+                                    3                                 ized release of personally identifiable infor-
+                                    4                                 mation as a result of a breach of security
+                                    5                                 at or by the agency.
+                                    6                                 ‘‘(B) A description of any significant alter-
+                                    7                        natives to the proposed rule which accomplish
+                                    8                        the stated objectives of applicable statutes and
+                                    9                        which minimize any significant privacy impact
+                                  10                         of the proposed rule on individuals.
+                                  11               ‘‘(b) FINAL PRIVACY IMPACT ASSESSMENT.—
+                                  12                         ‘‘(1) IN        GENERAL.—Whenever                          an agency pro-
+                                  13               mulgates a final rule under section 553 of this title,
+                                  14               after being required by that section or any other law
+                                  15               to publish a general notice of proposed rulemaking,
+                                  16               or promulgates a final interpretative rule involving
+                                  17               the internal revenue laws of the United States, and
+                                  18               such rule or proposed rulemaking pertains to the
+                                  19               collection, maintenance, use, or disclosure of person-
+                                  20               ally identifiable information from 10 or more indi-
+                                  21               viduals, other than agencies, instrumentalities, or
+                                  22               employees of the Federal Government, the agency
+                                  23               shall prepare a final privacy impact assessment,
+
+
+
+
+                                  24               signed by the senior agency official with primary re-
+                                  25               sponsibility for privacy policy.
+
+
+                                              •HR 1121 IH
+
+                                                                                         12
+                                    1                        ‘‘(2) CONTENTS.—Each final privacy impact as-
+                                    2              sessment required under this subsection shall con-
+                                    3              tain the following:
+                                    4                                 ‘‘(A) A description and analysis of the ex-
+                                    5                        tent to which the final rule will impact the pri-
+                                    6                        vacy interests of individuals, including the ex-
+                                    7                        tent to which such rule—
+                                    8                                        ‘‘(i) provides notice of the collection of
+                                    9                                 personally identifiable information, and
+                                  10                                  specifies what personally identifiable infor-
+                                  11                                  mation is to be collected and how it is to
+                                  12                                  be collected, maintained, used, and dis-
+                                  13                                  closed;
+                                  14                                         ‘‘(ii) allows access to such information
+                                  15                                  by the person to whom the personally iden-
+                                  16                                  tifiable information pertains and provides
+                                  17                                  an opportunity to correct inaccuracies;
+                                  18                                         ‘‘(iii)         prevents            such          information,
+                                  19                                  which is collected for one purpose, from
+                                  20                                  being used for another purpose; and
+                                  21                                         ‘‘(iv) provides security for such infor-
+                                  22                                  mation, including the provision of written
+                                  23                                  notice to any individual, within 14 days of
+
+
+
+
+                                  24                                  the date of compromise, whose privacy in-
+                                  25                                  terests are compromised by the unauthor-
+
+
+                                              •HR 1121 IH
+
+                                                                                         13
+                                    1                                 ized release of personally identifiable infor-
+                                    2                                 mation as a result of a breach of security
+                                    3                                 at or by the agency.
+                                    4                                 ‘‘(B) A summary of any significant issues
+                                    5                        raised by the public comments in response to
+                                    6                        the initial privacy impact assessment, a sum-
+                                    7                        mary of the analysis of the agency of such
+                                    8                        issues, and a statement of any changes made in
+                                    9                        such rule as a result of such issues.
+                                  10                                  ‘‘(C) A description of the steps the agency
+                                  11                         has taken to minimize the significant privacy
+                                  12                         impact on individuals consistent with the stated
+                                  13                         objectives of applicable statutes, including a
+                                  14                         statement of the factual, policy, and legal rea-
+                                  15                         sons for selecting the alternative adopted in the
+                                  16                         final rule and why each one of the other signifi-
+                                  17                         cant alternatives to the rule considered by the
+                                  18                         agency which affect the privacy interests of in-
+                                  19                         dividuals was rejected.
+                                  20                         ‘‘(3) AVAILABILITY                     TO PUBLIC.—The                   agency
+                                  21               shall make copies of the final privacy impact assess-
+                                  22               ment available to members of the public and shall
+                                  23               publish in the Federal Register such assessment or
+
+
+
+
+                                  24               a summary thereof.
+                                  25               ‘‘(c) WAIVERS.—
+
+
+                                              •HR 1121 IH
+
+                                                                                         14
+                                    1                        ‘‘(1) EMERGENCIES.—An agency head may
+                                    2              waive or delay the completion of some or all of the
+                                    3              requirements of subsections (a) and (b) to the same
+                                    4              extent as the agency head may, under section 608,
+                                    5              waive or delay the completion of some or all of the
+                                    6              requirements of sections 603 and 604, respectively.
+                                    7                        ‘‘(2) NATIONAL                  SECURITY.—An                     agency head
+                                    8              may, for national security reasons, or to protect
+                                    9              from disclosure classified information, confidential
+                                  10               commercial information, or information the disclo-
+                                  11               sure of which may adversely affect a law enforce-
+                                  12               ment effort, waive or delay the completion of some
+                                  13               or all of the following requirements:
+                                  14                                  ‘‘(A) The requirement of subsection (a)(1)
+                                  15                         to make an assessment available for public com-
+                                  16                         ment, provided that such assessment is made
+                                  17                         available, in classified form, to the Committees
+                                  18                         on the Judiciary of the House of Representa-
+                                  19                         tives and the Senate, in lieu of making such as-
+                                  20                         sessment available to the public.
+                                  21                                  ‘‘(B) The requirement of subsection (a)(1)
+                                  22                         to have an assessment or summary thereof pub-
+                                  23                         lished in the Federal Register, provided that
+
+
+
+
+                                  24                         such assessment or summary is made available,
+                                  25                         in classified form, to the Committees on the Ju-
+
+
+                                              •HR 1121 IH
+
+                                                                                         15
+                                    1                        diciary of the House of Representatives and the
+                                    2                        Senate, in lieu of publishing such assessment or
+                                    3                        summary in the Federal Register.
+                                    4                                 ‘‘(C)       The         requirements                   of      subsection
+                                    5                        (b)(3), provided that the final privacy impact
+                                    6                        assessment is made available, in classified form,
+                                    7                        to the Committees on the Judiciary of the
+                                    8                        House of Representatives and the Senate, in
+                                    9                        lieu of making such assessment available to the
+                                  10                         public and publishing such assessment in the
+                                  11                         Federal Register.
+                                  12               ‘‘(d) PROCEDURES                     FOR       GATHERING COMMENTS.—
+                                  13 When any rule is promulgated which may have a signifi-
+                                  14 cant privacy impact on individuals, or a privacy impact
+                                  15 on a substantial number of individuals, the head of the
+                                  16 agency promulgating the rule or the official of the agency
+                                  17 with statutory responsibility for the promulgation of the
+                                  18 rule shall assure that individuals have been given an op-
+                                  19 portunity to participate in the rulemaking for the rule
+                                  20 through techniques such as—
+                                  21                         ‘‘(1) the inclusion in an advance notice of pro-
+                                  22               posed rulemaking, if issued, of a statement that the
+                                  23               proposed rule may have a significant privacy impact
+
+
+
+
+                                  24               on individuals, or a privacy impact on a substantial
+                                  25               number of individuals;
+
+
+                                              •HR 1121 IH
+
+                                                                                         16
+                                    1                        ‘‘(2) the publication of a general notice of pro-
+                                    2              posed rulemaking in publications of national circula-
+                                    3              tion likely to be obtained by individuals;
+                                    4                        ‘‘(3) the direct notification of interested individ-
+                                    5              uals;
+                                    6                        ‘‘(4) the conduct of open conferences or public
+                                    7              hearings concerning the rule for individuals, includ-
+                                    8              ing soliciting and receiving comments over computer
+                                    9              networks; and
+                                  10                         ‘‘(5) the adoption or modification of agency
+                                  11               procedural rules to reduce the cost or complexity of
+                                  12               participation in the rulemaking by individuals.
+                                  13               ‘‘(e) PERIODIC REVIEW OF RULES.—
+                                  14                         ‘‘(1) IN         GENERAL.—Each                      agency shall carry
+                                  15               out a periodic review of the rules promulgated by the
+                                  16               agency that have a significant privacy impact on in-
+                                  17               dividuals, or a privacy impact on a substantial num-
+                                  18               ber of individuals. Under such periodic review, the
+                                  19               agency shall determine, for each such rule, whether
+                                  20               the rule can be amended or rescinded in a manner
+                                  21               that minimizes any such impact while remaining in
+                                  22               accordance with applicable statutes. For each such
+                                  23               determination, the agency shall consider the fol-
+
+
+
+
+                                  24               lowing factors:
+                                  25                                  ‘‘(A) The continued need for the rule.
+
+
+                                              •HR 1121 IH
+
+                                                                                         17
+                                    1                                 ‘‘(B) The nature of complaints or com-
+                                    2                        ments received from the public concerning the
+                                    3                        rule.
+                                    4                                 ‘‘(C) The complexity of the rule.
+                                    5                                 ‘‘(D) The extent to which the rule over-
+                                    6                        laps, duplicates, or conflicts with other Federal
+                                    7                        rules, and, to the extent feasible, with State and
+                                    8                        local governmental rules.
+                                    9                                 ‘‘(E) The length of time since the rule was
+                                  10                         last reviewed under this subsection.
+                                  11                                  ‘‘(F) The degree to which technology, eco-
+                                  12                         nomic conditions, or other factors have changed
+                                  13                         in the area affected by the rule since the rule
+                                  14                         was last reviewed under this subsection.
+                                  15                         ‘‘(2) PLAN               REQUIRED.—Each                         agency shall
+                                  16               carry out the periodic review required by paragraph
+                                  17               (1) in accordance with a plan published by such
+                                  18               agency in the Federal Register. Each such plan shall
+                                  19               provide for the review under this subsection of each
+                                  20               rule promulgated by the agency not later than 10
+                                  21               years after the date on which such rule was pub-
+                                  22               lished as the final rule and, thereafter, not later
+                                  23               than 10 years after the date on which such rule was
+
+
+
+
+                                  24               last reviewed under this subsection. The agency may
+                                              •HR 1121 IH
+
+                                                                                         18
+                                    1              amend such plan at any time by publishing the revi-
+                                    2              sion in the Federal Register.
+                                    3                        ‘‘(3) ANNUAL               PUBLICATION.—Each                            year, each
+                                    4              agency shall publish in the Federal Register a list of
+                                    5              the rules to be reviewed by such agency under this
+                                    6              subsection during the following year. The list shall
+                                    7              include a brief description of each such rule and the
+                                    8              need for and legal basis of such rule and shall invite
+                                    9              public comment upon the determination to be made
+                                  10               under this subsection with respect to such rule.
+                                  11               ‘‘(f) JUDICIAL REVIEW.—
+                                  12                         ‘‘(1) IN      GENERAL.—For                    any rule subject to this
+                                  13               section, an individual who is adversely affected or
+                                  14               aggrieved by final agency action is entitled to judi-
+                                  15               cial review of agency compliance with the require-
+                                  16               ments of subsections (b) and (c) in accordance with
+                                  17               chapter 7. Agency compliance with subsection (d)
+                                  18               shall be judicially reviewable in connection with judi-
+                                  19               cial review of subsection (b).
+                                  20                         ‘‘(2) JURISDICTION.—Each court having juris-
+                                  21               diction to review such rule for compliance with sec-
+                                  22               tion 553, or under any other provision of law, shall
+                                  23               have jurisdiction to review any claims of noncompli-
+
+
+
+
+                                  24               ance with subsections (b) and (c) in accordance with
+                                  25               chapter 7. Agency compliance with subsection (d)
+
+
+                                              •HR 1121 IH
+
+                                                                                         19
+                                    1              shall be judicially reviewable in connection with judi-
+                                    2              cial review of subsection (b).
+                                    3                        ‘‘(3) LIMITATIONS.—
+                                    4                                 ‘‘(A) An individual may seek such review
+                                    5                        during the period beginning on the date of final
+                                    6                        agency action and ending 1 year later, except
+                                    7                        that where a provision of law requires that an
+                                    8                        action challenging a final agency action be com-
+                                    9                        menced before the expiration of 1 year, such
+                                  10                         lesser period shall apply to an action for judicial
+                                  11                         review under this subsection.
+                                  12                                  ‘‘(B) In the case where an agency delays
+                                  13                         the issuance of a final privacy impact assess-
+                                  14                         ment pursuant to subsection (c), an action for
+                                  15                         judicial review under this section shall be filed
+                                  16                         not later than—
+                                  17                                         ‘‘(i) 1 year after the date the assess-
+                                  18                                  ment is made available to the public; or
+                                  19                                         ‘‘(ii) where a provision of law requires
+                                  20                                  that an action challenging a final agency
+                                  21                                  regulation be commenced before the expi-
+                                  22                                  ration of the 1-year period, the number of
+                                  23                                  days specified in such provision of law that
+
+
+
+
+                                  24                                  is after the date the assessment is made
+                                  25                                  available to the public.
+
+
+                                              •HR 1121 IH
+
+                                                                                         20
+                                    1                        ‘‘(4) RELIEF.—In granting any relief in an ac-
+                                    2              tion under this subsection, the court shall order the
+                                    3              agency to take corrective action consistent with this
+                                    4              section and chapter 7, and may—
+                                    5                                 ‘‘(A) remand the rule to the agency; and
+                                    6                                 ‘‘(B) defer the enforcement of the rule
+                                    7                        against individuals, unless the court finds that
+                                    8                        continued enforcement of the rule is in the pub-
+                                    9                        lic interest.
+                                  10                         ‘‘(5) RULE              OF       CONSTRUCTION.—Nothing                      in
+                                  11               this subsection limits the authority of any court to
+                                  12               stay the effective date of any rule or provision there-
+                                  13               of under any other provision of law or to grant any
+                                  14               other relief in addition to the requirements of this
+                                  15               subsection.
+                                  16                         ‘‘(6) RECORD              OF AGENCY ACTION.—In                          an ac-
+                                  17               tion for the judicial review of a rule, the privacy im-
+                                  18               pact assessment for such rule, including an assess-
+                                  19               ment prepared or corrected pursuant to paragraph
+                                  20               (4), shall constitute part of the entire record of
+                                  21               agency action in connection with such review.
+                                  22                         ‘‘(7) EXCLUSIVITY.—Compliance or noncompli-
+                                  23               ance by an agency with the provisions of this section
+
+
+
+
+                                  24               shall be subject to judicial review only in accordance
+                                  25               with this subsection.
+
+
+                                              •HR 1121 IH
+
+                                                                                         21
+                                    1                        ‘‘(8) SAVINGS              CLAUSE.—Nothing                       in this sub-
+                                    2              section bars judicial review of any other impact
+                                    3              statement or similar assessment required by any
+                                    4              other law if judicial review of such statement or as-
+                                    5              sessment is otherwise permitted by law.
+                                    6              ‘‘(g) DEFINITION.—For purposes of this section, the
+                                    7 term ‘personally identifiable information’ means informa-
+                                    8 tion that can be used to identify an individual, including
+                                    9 such individual’s name, address, telephone number, photo-
+                                  10 graph, social security number or other identifying infor-
+                                  11 mation. It includes information about such individual’s
+                                  12 medical or financial condition.’’.
+                                  13               (b) PERIODIC REVIEW TRANSITION PROVISIONS.—
+                                  14                         (1) INITIAL            PLAN.—For               each agency, the plan
+                                  15               required by subsection (e) of section 553a of title 5,
+                                  16               United States Code (as added by subsection (a)),
+                                  17               shall be published not later than 180 days after the
+                                  18               date of the enactment of this Act.
+                                  19                         (2) REVIEW            PERIOD.—In                the case of a rule pro-
+                                  20               mulgated by an agency before the date of the enact-
+                                  21               ment of this Act, such plan shall provide for the
+                                  22               periodic review of such rule before the expiration of
+                                  23               the 10-year period beginning on the date of the en-
+
+
+
+
+                                  24               actment of this Act. For any such rule, the head of
+                                  25               the agency may provide for a 1-year extension of
+
+
+                                              •HR 1121 IH
+
+                                                                                         22
+                                    1              such period if the head of the agency, before the ex-
+                                    2              piration of the period, certifies in a statement pub-
+                                    3              lished in the Federal Register that reviewing such
+                                    4              rule before the expiration of the period is not fea-
+                                    5              sible. The head of the agency may provide for addi-
+                                    6              tional 1-year extensions of the period pursuant to
+                                    7              the preceding sentence, but in no event may the pe-
+                                    8              riod exceed 15 years.
+                                    9              (c) CONGRESSIONAL REVIEW.—Section 801(a)(1)(B)
+                                  10 of title 5, United States Code, is amended—
+                                  11                         (1) by redesignating clauses (iii) and (iv) as
+                                  12               clauses (iv) and (v), respectively; and
+                                  13                         (2) by inserting after clause (ii) the following
+                                  14               new clause:
+                                  15                         ‘‘(iii) the agency’s actions relevant to section
+                                  16               553a;’’.
+                                  17               (d) CLERICAL AMENDMENT.—The table of sections
+                                  18 at the beginning of chapter 5 of title 5, United States
+                                  19 Code, is amended by adding after the item relating to sec-
+                                  20 tion 553 the following new item:
+                                          ‘‘553a. Privacy impact assessment in rulemaking.’’.
+
+                                              •HR 1121 IH                                  Æ

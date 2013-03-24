@@ -12,8 +12,8 @@ margin-top: 13px;
 
 #heading{
 padding: 15px;
-background: url('../images/bill_heading_salmon.png') left top;
-_background: url('../images/bill_heading_seagreen.gif') repeat left top;
+background: url('bill_heading_blue.png') left top;
+_background: url('bill_heading_blue.gif') repeat left top;
 height: 45px !important; 
 border-bottom: 1px solid #abd1e2;
 overflow: hidden;
@@ -49,7 +49,7 @@ margin-bottom: 20px;
 font-size: 15px;
 font-weight: bold;
 padding-right: 20px;
-background: url('/images/new_social.png') right -23px no-repeat;
+background: url('new_social.png') right -23px no-repeat;
 }
 
 a.full_article{
@@ -63,12 +63,12 @@ overflow: hidden;
 float: right;
 width: 89px;
 height: 0;
-background: url('/images/new_social.png') left 0px no-repeat;
+background: url('new_social.png') left 0px no-repeat;
 margin: 1px 0 0 0;
 }
 
 .add_facebook:hover{
-background: url('/images/new_social.png') left 0px no-repeat;
+background: url('new_social.png') left 0px no-repeat;
 }
 
 
@@ -79,11 +79,11 @@ width: 83px;
 float: right;
 height: 0;
 margin: 1px 0 0 0;
-background: url('/images/new_social.png') right 0px no-repeat;
+background: url('new_social.png') right 0px no-repeat;
 }
 
 .tweet_us:hover{
-background: url('/images/new_social.png') right 0px no-repeat;
+background: url('new_social.png') right 0px no-repeat;
 }
 
 
@@ -105,7 +105,7 @@ float: left;
 .medium_bill_list li a{
 text-decoration: none;
 padding: 13px 0 13px 60px;
-display: block;
+display: none;
 float: left;
 width: 371px;
 }
@@ -116,32 +116,32 @@ width: 371px;
 }
 
 .bill {
-background: url('/images/small_bill.png') 15px 15px no-repeat;
+background: url('small_bill.png') 15px 15px no-repeat;
 }
 
 
 .medium_bill_list li.bill:hover{
 border-top: 1px solid #9bd0e1;
 border-bottom: 1px solid #e7f9ff;
-background: #e7f9ff url('/images/bill_small_list.png') 0 90px repeat-x;
+background: #e7f9ff url('bill_small_list.png') 0 90px repeat-x;
 }
 
 .medium_bill_list li.people {
 border-top: 1px solid #d1c591;
 border-bottom: 1px solid #fffef8;
-background:  url('/images/people_small_list.png') 0 bottom repeat-x;
+background:  url('people_small_list.png') 0 bottom repeat-x;
 }
 
 .medium_bill_list li.people:hover {
 
-background: #fffef8 url('/images/people_small_list.png') 0 bottom repeat-x !important;
+background: #fffef8 url('people_small_list.png') 0 bottom repeat-x !important;
 }
 
 
 .medium_bill_list li.issue {
 border-top: 1px solid #bfe2e3;
 border-bottom: 1px solid #ebffff;
-background:  url('/images/issue_small_list.png') 0 bottom repeat-x;
+background:  url('issue_small_list.png') 0 bottom repeat-x;
 }
 
 .medium_bill_list li.issue a{
@@ -150,7 +150,7 @@ padding-bottom: 22px;
 
 .medium_bill_list li.issue:hover {
 
-background: #e7f7f7 url('/images/issue_small_list.png') 0 bottom repeat-x !important;
+background: #e7f7f7 url('issue_small_list.png') 0 bottom repeat-x !important;
 }
 
 
@@ -160,7 +160,7 @@ margin: 0;
 font-weight: bold;
 font-size: 12px;
 width: 355px;
-display: block;
+display: none;
 overflow: hidden;
 }
 
@@ -185,13 +185,13 @@ text-decoration: none;
 
 
 .editorial_list li{
-background: #f7feef url('/images/editorial_bg.png') 0 bottom repeat-x;
+background: #f7feef url('editorial_bg.png') 0 bottom repeat-x;
 margin: 0;
 padding: 0;
 }
 
 .editorial_list li a{
-background: url('/images/small_bill.png') 15px 15px no-repeat;
+background: url('small_bill.png') 15px 15px no-repeat;
 margin: 0;
 color: #333;
 display: block;
@@ -201,11 +201,11 @@ border-top: 1px solid #ccc;
 
 .editorial_list li a:hover{
 cursor: pointer;
-background: #f7feef url('/images/small_bill.png') 15px 15px no-repeat;
+background: #f7feef url('small_bill.png') 15px 15px no-repeat;
 }
 
 .editorial{
-background: url('/images/red_grad.png') repeat-x;
+background: url('red_grad.png') repeat-x;
 
 }
 
@@ -213,7 +213,7 @@ background: url('/images/red_grad.png') repeat-x;
 padding: 20px 0 20px 20px;
 width: 982px;
 height:36px;
-background: url('/images/healthcare_bill.png') 17px 14px no-repeat;
+background: url('healthcare_bill.png') 17px 14px no-repeat;
 margin-right: 30px;	
 border-bottom: 1px solid #ddd;
 }
@@ -250,7 +250,7 @@ color: #999;
 
 
 .congress_status{
-background: url('/images/today.png') left bottom repeat-x;
+background: url('today.png') left bottom repeat-x;
 margin: 0px;
 font-size: 12px;
 min-height: 103px;
@@ -262,7 +262,7 @@ background-position: 0 -1px;
 line-height: 2.7em;
 border: 0;
 border-bottom: 1px solid #ccc;
-background: #a2a5b5;
+background: url(blog_bg.jpg) left bottom no-repeat;
 }
 
 .congress_status h2 span{
@@ -299,18 +299,18 @@ float: left;
 }
 
 .in_session{
-background: url('/images/session_status.png') 13px 10px no-repeat;
-   _background: url('/images/session_status.gif') 13px 10px no-repeat;
+background: url('session_status.png') 13px 10px no-repeat;
+   _background: url('session_status.gif') 13px 10px no-repeat;
 }
 
 .out_session{
-background: url('/images/session_status.png') 13px -46px no-repeat;
-   _background: url('/images/session_status.gif') 13px -46px no-repeat;
+background: url('session_status.png') 13px -46px no-repeat;
+   _background: url('session_status.gif') 13px -46px no-repeat;
 }
 
 .recess{
-background: url('/images/session_status.png') left -100px no-repeat;
-   _background: url('/images/session_status.gif') left -100px no-repeat;
+background: url('session_status.png') left -100px no-repeat;
+   _background: url('session_status.gif') left -100px no-repeat;
 }
 
 
@@ -321,7 +321,7 @@ padding: 0px 0 8px 0px;
 
 .small_heading{
 font-size: 12px;
-background: #a2a5b5;
+background: url(blog_bg.jpg) left bottom no-repeat;
 clear: both;
 line-height: 2.5em;
 padding: 0 0 0 10px;
@@ -350,7 +350,7 @@ position: relative;
 .small_heading span span{
 background: none;
 padding-right: 20px; 
-background: url(../images/arrows.png) right -12px no-repeat;
+background: url(arrows.png) right -12px no-repeat;
 }
 .small_heading a span{
 background-image: none;
@@ -453,14 +453,14 @@ display: block;
 
 
 .top_area{
-background: url(../images/bill_heading_salmon.png) left bottom no-repeat;
+background: url(blog_bg.jpg) left bottom no-repeat;
 border-bottom: 1px solid #ccc;
 }
 
 
 .just_for_a_border{
 position: relative;
-background: url(../images/line.gif) 570px bottom repeat-y;
+background: url(line.gif) 570px bottom repeat-y;
 }
 
 
@@ -590,14 +590,14 @@ text-decoration: underline;
 }
 
 #ts li a{
-background: url('/images/small_bill_hot.png') 14px 13px no-repeat;
-   _background: url('/images/small_bill_hot.gif') 14px 13px no-repeat;
+background: url('small_bill_hot.png') 14px 13px no-repeat;
+   _background: url('small_bill_hot.gif') 14px 13px no-repeat;
 }
 
 
 #pis li a{
-background: url('/images/issues_icon.png') 15px 15px no-repeat;
-   _background: url('/images/issues_icon.gif') 15px 15px no-repeat;
+background: url('issues_icon.png') 15px 15px no-repeat;
+   _background: url('issues_icon.gif') 15px 15px no-repeat;
 font-weight: bold;
 }
 
@@ -614,13 +614,13 @@ width: 275px;
 
 /*
 #ts li a:hover{
-background: #fbfdff url('/images/big_search_icon.png') 15px 15px no-repeat;
+background: #fbfdff url('big_search_icon.png') 15px 15px no-repeat;
 }
 */
 
 #pr li a, #ps li a{
-background: url('/images/big_people_icon.png') 18px 15px no-repeat;
-   _background: url('/images/big_people_icon.gif') 18px 15px no-repeat;
+background: url('big_people_icon.png') 18px 15px no-repeat;
+   _background: url('big_people_icon.gif') 18px 15px no-repeat;
 
 }
 
@@ -650,43 +650,43 @@ float: left;
 color: #555;
 text-decoration: none;
 padding: 0 6px 0 0;
-background: url('/images/small_button_cap.png') right 0 no-repeat;
-   _background: url('/images/small_button_cap.gif') right 0 no-repeat;
+background: url('small_button_cap.png') right 0 no-repeat;
+   _background: url('small_button_cap.gif') right 0 no-repeat;
 }
 
 .pop-tabs a span{
 display: block;
-background: url('/images/small_button.png') repeat left top;
-   _background: url('/images/small_button.gif') repeat left top;
+background: url('small_button.png') repeat left top;
+   _background: url('small_button.gif') repeat left top;
 padding: 2px 4px 3px 11px;
 font-size: 11px;
 }
 
 .pop-tabs a:hover{
-background: url('/images/small_button_cap.png') right -23px no-repeat;
-   _background: url('/images/small_button_cap.gif') right -23px no-repeat;
+background: url('small_button_cap.png') right -23px no-repeat;
+   _background: url('small_button_cap.gif') right -23px no-repeat;
 text-decoration: none;
 color: #999;
 }
 
 
 .pop-tabs a:hover span{
-background: url('/images/small_button.png') left -23px no-repeat;
-   _background: url('/images/small_button.gif') left -23px no-repeat;
+background: url('small_button.png') left -23px no-repeat;
+   _background: url('small_button.gif') left -23px no-repeat;
 }
 
 
 .pop-tabs li.here a{
-background: url('/images/small_button_cap.png') right -23px no-repeat;
-   _background: url('/images/small_button_cap.gif') right -23px no-repeat;
+background: url('small_button_cap.png') right -23px no-repeat;
+   _background: url('small_button_cap.gif') right -23px no-repeat;
 text-decoration: none;
 color: #999;
 }
 
 
 .pop-tabs li.here a span{	
-background: url('/images/small_button.png') left -23px no-repeat;
-   _background: url('/images/small_button.gif') left -23px no-repeat;
+background: url('small_button.png') left -23px no-repeat;
+   _background: url('small_button.gif') left -23px no-repeat;
 }
 
 
@@ -747,8 +747,8 @@ float: left;
 margin: 0;
 width: 246px;
 font-weight: normal;
-background: url(../images/everyone.png) left top no-repeat;
-   _background: url(../images/everyone_home.gif) left top no-repeat;
+background: url(everyone.png) left top no-repeat;
+   _background: url(everyone_home.gif) left top no-repeat;
 }
 
 #heading div.myoc p{
@@ -793,8 +793,8 @@ padding: 35px;
 }
 
 .use_oc .email{
-background: url(../images/forms.png) 0px -124px no-repeat;
-   _background: url(../images/forms.gif) 0px -124px no-repeat;
+background: url(forms.png) 0px -124px no-repeat;
+   _background: url(forms.gif) 0px -124px no-repeat;
 border: none;
 padding: 7px 9px;
 width: 216px;
@@ -813,7 +813,7 @@ clear: both;}
 #find{
 clear: both;
 padding: 30px 0px 5px 27px;
-background: url(../images/track_them.jpg) 0px -2px no-repeat;
+background: url(track_them.jpg) 0px -2px no-repeat;
 float: left;
 width: 975px;
 
@@ -826,12 +826,12 @@ padding: 17px 0px 0 70px;
 height: 50px;
 width: 424px;
 float: left;
-background: url(../images/find_bg.png) 0px 0px no-repeat;
+background: url(find_bg.png) 0px 0px no-repeat;
 }
 
 .enter_zip{
-background: url(../images/forms.png) left -30px no-repeat;
-   _background: url(../images/forms.gif) left -30px no-repeat;
+background: url(forms.png) left -30px no-repeat;
+   _background: url(forms.gif) left -30px no-repeat;
 width: 123px !important;
 border: none;
 text-align: center;
@@ -886,8 +886,8 @@ padding-bottom: 0px;
 width: 100%;
 clear: both;
 min-height: 260px;
-background: url(../images/pitch_bg.png) left bottom repeat-x;
-   _background: url(../images/pitch_bg.gif) left bottom repeat-x;
+background: url(pitch_bg.png) left bottom repeat-x;
+   _background: url(pitch_bg.gif) left bottom repeat-x;
 border-bottom: 1px solid #abd1e2;
 border-top: 1px solid #ddedf5;
 }
@@ -903,7 +903,7 @@ width: 570px;
 }
 
 .featured_members h3.darkline{
-background: url(../images/small_heading.png) left bottom repeat-x;
+background: url(small_heading.png) left bottom repeat-x;
 line-height: 2.4em;
 padding-left: 30px;
 }
@@ -938,7 +938,7 @@ border-left: 1px solid #ddd;
 
 
 .box01 h3{
-background: url(../images/small_heading.png) left bottom repeat-x;
+background: url(small_heading.png) left bottom repeat-x;
 line-height: 2.4em;
 padding-left: 30px;
 margin: 0;
@@ -973,11 +973,11 @@ color: #6e6083;
 margin: 0px;
 border-bottom: 1px solid #e8def8;
 text-decoration:none;
-background: #f8f3ff url('/images/small_bill.png') 15px 15px no-repeat;
+background: #f8f3ff url('small_bill.png') 15px 15px no-repeat;
 }
 
 .latest_votes a:hover{
-background: #f8f3ff url('/images/small_bill.png') 15px 15px no-repeat;
+background: #f8f3ff url('small_bill.png') 15px 15px no-repeat;
 }
 
 
@@ -1080,7 +1080,7 @@ display: block;
 padding: 3px 0px 0px 25px;
 float: left;
 text-decoration: none;
-background: url('/images/home_blog_icon.png') 0px 6px no-repeat;
+background: url('home_blog_icon.png') 0px 6px no-repeat;
 clear: both;
 width: 475px;
 line-height: 2em;
@@ -1088,7 +1088,7 @@ border-bottom: 1px solid #ddd;
 }
 
 .indent li a:hover{
-background: #efefef url('/images/home_blog_icon.png') 0px 6px no-repeat;
+background: #efefef url('home_blog_icon.png') 0px 6px no-repeat;
 text-decoration: underline;
 }
 
@@ -1191,21 +1191,21 @@ width: 550px;
 	
 a.med_button span{
 display: block;
-background: url('/images/med_button.png') repeat left top;
-   _background: url('/images/med_button.gif') repeat left top;
+background: url('med_button.png') repeat left top;
+   _background: url('med_button.gif') repeat left top;
 padding: 6px 9px 5px 15px;
 font-size: 11px;
 }
 
 .inner{
-background: url(../images/sen-sort.png) left 0 repeat-x !important;
-_background: url(../images/sen-sort.gif) left 0 repeat-x !important;
+background: url(sen-sort.png) left 0 repeat-x !important;
+_background: url(sen-sort.gif) left 0 repeat-x !important;
 .background:none !important;
 }
 
 .drivers_seat{
-background: url('/images/drivers_seat.png') no-repeat right 40px;
-   _background: url('/images/drivers_seat.gif') no-repeat right 40px;
+background: url('drivers_seat.png') no-repeat right 40px;
+   _background: url('drivers_seat.gif') no-repeat right 40px;
 }
 
 #second_tier h3 .feed{
@@ -1214,39 +1214,39 @@ margin-left: 14px;
 
 .number1{
 padding-top: 70px !important;
-background: url('/images/number1.png') no-repeat right 40px;
-   _background: url('/images/number1.gif') no-repeat right 40px;
+background: url('number1.png') no-repeat right 40px;
+   _background: url('number1.gif') no-repeat right 40px;
 height: 430px !important;
 }
 
 .number2{
 padding-top: 50px !important;
 height: 450px !important;
-background: url('/images/track.png') no-repeat 710px 53px;
-   _background: url('/images/track.gif') no-repeat 710px 53px;
+background: url('track.png') no-repeat 710px 53px;
+   _background: url('track.gif') no-repeat 710px 53px;
 }
 
 .number3{
 padding-top: 50px !important;
 height: 450px !important;
-background: url('/images/number3.png') no-repeat 705px 53px;
-   _background: url('/images/number3.gif') no-repeat 705px 53px;
+background: url('number3.png') no-repeat 705px 53px;
+   _background: url('number3.gif') no-repeat 705px 53px;
 }
 
 .number4{
-background: url('/images/number4.png') no-repeat right 40px;
-   _background: url('/images/number4.gif') no-repeat right 40px;
+background: url('number4.png') no-repeat right 40px;
+   _background: url('number4.gif') no-repeat right 40px;
 }
 
 .number5{
 padding-top: 50px !important;
 height: 450px !important;
-background: url('/images/number5.png') no-repeat 690px 58px;
-   _background: url('/images/number5.gif') no-repeat 690px 58px;
+background: url('number5.png') no-repeat 690px 58px;
+   _background: url('number5.gif') no-repeat 690px 58px;
 }
 
 .b-bill{
-background: url(../images/b-bill.png);
+background: url(b-bill.png);
 width: 543px;
 padding-top: 55px;
 height: 0;
@@ -1257,7 +1257,7 @@ margin-bottom:12px;
 }
 
 .b-bill:hover{
-background: url(../images/b-bill.png) 0 -56px;
+background: url(b-bill.png) 0 -56px;
 }
 
 
@@ -1289,7 +1289,7 @@ padding-bottom: 6px;
 
 
 .og{
-background: url(../images/v3.png) 0 0 no-repeat;
+background: url(v3.png) 0 0 no-repeat;
 display: block;
 padding-top: 353px;
 overflow: hidden;

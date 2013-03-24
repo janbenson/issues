@@ -1,0 +1,39 @@
+<bill session="113" type="h" number="980" updated="2013-03-16T06:29:28-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="short">CARE Act</title>
+    <title as="introduced" type="short">Coal Accountability and Retired Employee Act of 2013</title>
+    <title as="introduced" type="official">To protect the health care and pension benefits of our nation's miners.</title>
+  </titles>
+  <sponsor id="400331"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-03-07">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="113" type="s" number="468"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

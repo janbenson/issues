@@ -1,0 +1,41 @@
+<bill session="113" type="h" number="1270" updated="2013-03-20T04:47:31-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title as="introduced" type="official">To provide for greater transparency and honesty in the Federal budget process.</title>
+  </titles>
+  <sponsor id="412394"/>
+  <cosponsors>
+    <cosponsor id="412395" joined="2013-03-19"/>
+    <cosponsor id="412457" joined="2013-03-19"/>
+    <cosponsor id="412406" joined="2013-03-19"/>
+    <cosponsor id="412463" joined="2013-03-19"/>
+    <cosponsor id="412401" joined="2013-03-19"/>
+    <cosponsor id="412421" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-19">
+      <text>Referred to the Committee on the Budget, and in addition to the Committees on Rules, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-19">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2013-03-19">
+      <text>Referred to House Rules</text>
+    </action>
+    <action datetime="2013-03-19">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBU" name="House Budget" activity="Referral, In Committee"/>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+    <committee code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

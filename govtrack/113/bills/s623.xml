@@ -1,0 +1,25 @@
+<bill session="113" type="s" number="623" updated="2013-03-21T09:49:20-04:00">
+  <state datetime="2013-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-03-20"/>
+  <titles>
+    <title as="introduced" type="official">A bill to amend title XVIII of the Social Security Act to ensure the continued access of Medicare beneficiaries to diagnostic imaging services.</title>
+  </titles>
+  <sponsor id="400064"/>
+  <cosponsors>
+    <cosponsor id="400418" joined="2013-03-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-20">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

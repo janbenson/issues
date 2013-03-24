@@ -1,0 +1,18 @@
+<amendment session="113" chamber="s" number="66" updated="2013-03-16T04:49:38-04:00">
+  <amends type="h" number="933" sequence=""/>
+  <status datetime="2013-03-13">offered</status>
+  <sponsor id="400576"/>
+  <offered datetime="2013-03-13"/>
+  <description>To temporarily freeze the hiring of nonessential Federal employees.</description>
+  <purpose>To temporarily freeze the hiring of nonessential Federal employees.</purpose>
+  <actions>
+    <action datetime="2013-03-14">
+      <text>Amendment SA 66 proposed by Senator Coburn to Amendment SA 26.</text>
+      <reference ref="CR S1829-1831, S1832" label="consideration"/>
+      <reference ref="CR S1829" label="text"/>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Amendment SA 66, under the order of 3/14/2013, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 45 - 54. Record Vote Number: 37.</text>
+    </action>
+  </actions>
+</amendment>

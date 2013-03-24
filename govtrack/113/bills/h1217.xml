@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="1217" updated="2013-03-21T15:46:22-04:00">
+  <state datetime="2013-03-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-15"/>
+  </status>
+  <introduced datetime="2013-03-15"/>
+  <titles>
+    <title as="introduced" type="official">To establish within the Smithsonian Institution the Smithsonian American Latino Museum, and for other purposes.</title>
+  </titles>
+  <sponsor id="400021"/>
+  <cosponsors>
+    <cosponsor id="400344" joined="2013-03-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E316-317"/>
+    </action>
+    <action state="REFERRED" datetime="2013-03-15">
+      <text>Referred to the Committee on House Administration, and in addition to the Committees on Transportation and Infrastructure, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-15">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2013-03-15">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2013-03-15">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-03-18">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

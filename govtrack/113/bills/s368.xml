@@ -1,0 +1,38 @@
+<bill session="113" type="s" number="368" updated="2013-03-16T06:18:21-04:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title as="introduced" type="short">Federal Land Transaction Facilitation Act Reauthorization of 2013</title>
+    <title as="introduced" type="official">A bill to reauthorize the Federal Land Transaction Facilitation Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="412281"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="2013-02-14"/>
+    <cosponsor id="412330" joined="2013-02-14"/>
+    <cosponsor id="412218" joined="2013-02-14"/>
+    <cosponsor id="412244" joined="2013-02-14"/>
+    <cosponsor id="400412" joined="2013-02-14"/>
+    <cosponsor id="400413" joined="2013-02-14"/>
+    <cosponsor id="300100" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-14">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/14/2013--Introduced.
+Federal Land Transaction Facilitation Act Reauthorization of 2013 - Amends the Federal Land Transaction Facilitation Act (FLTFA) to reauthorize, until July 25, 2021, the program for the completion of appraisals and satisfaction of other legal requirements for the sale or exchange of public land identified for disposal under approved land use plans under the Federal Land Policy and Management Act of 1976. Makes the FLTFA inapplicable to land eligible for sale under specified public land laws.</summary>
+</bill>

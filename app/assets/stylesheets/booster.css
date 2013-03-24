@@ -7,7 +7,7 @@ body {
 	margin: 0;
 	padding: 0 0 0px;
 	font-family: Helvetica, Arial, sans-serif;
-	background: url(/images/donate/bg.png) repeat-x;
+	background: urdonate/bg.png) repeat-x;
         background-color: #F7F7EE;
 	padding: 50px 0 40px;
 	width: 700px;
@@ -45,7 +45,7 @@ body {
 	}
 
 		.chris-headshot {
-			background: url(../images/donate/chris_headshot.jpg) no-repeat;
+			background: url(donate/chris_headshot.jpg) no-repeat;
 			width: 80px;
 			height: 82px;
 			float: left;

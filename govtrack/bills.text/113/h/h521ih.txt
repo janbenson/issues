@@ -1,0 +1,1725 @@
+                                                                                                                                   I
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                          H. R. 521
+                                  To award grants to encourage State educational agencies, local educational
+                                      agencies, and schools to utilize technology to improve student achieve-
+                                      ment and college-and-career readiness, the skills of teachers and school
+                                      leaders, and the efficiency and productivity of education systems at
+                                      all levels.
+
+
+
+
+                                                IN THE HOUSE OF REPRESENTATIVES
+                                                              FEBRUARY 6, 2013
+                                     Mr. GEORGE MILLER of California introduced the following bill; which was
+                                           referred to the Committee on Education and the Workforce
+
+
+
+
+                                                                            A BILL
+                                  To award grants to encourage State educational agencies,
+                                     local educational agencies, and schools to utilize tech-
+                                     nology to improve student achievement and college-and-
+                                     career readiness, the skills of teachers and school leaders,
+                                     and the efficiency and productivity of education systems
+                                     at all levels.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Transforming Edu-
+
+
+
+
+                                    5 cation through Technology Act’’.
+                                    1     SEC. 2. TABLE OF CONTENTS.                         2
+                                    2              The table of contents for this Act is as follows:
+                                          Sec.   1.   Short title.
+                                          Sec.   2.   Table of contents.
+                                          Sec.   3.   Findings.
+                                          Sec.   4.   Purposes.
+                                          Sec.   5.   E-rate restriction.
+                                          Sec.   6.   Rule of construction regarding purchasing.
+                                          Sec.   7.   Definitions.
+
+                                                           TITLE I—TECHNOLOGY READINESS AND ACCESS
+
+                                          Sec.   101.      Technology grants program authorized.
+                                          Sec.   102.      State applications.
+                                          Sec.   103.      State use of grant funds.
+                                          Sec.   104.      Local subgrants.
+                                          Sec.   105.      Reporting.
+                                          Sec.   106.      Authorization.
+
+                                                           TITLE II—TECHNOLOGY FOR TOMORROW FUND
+
+                                          Sec.   201.      Short title.
+                                          Sec.   202.      Technology for tomorrow fund.
+                                          Sec.   203.      Application.
+                                          Sec.   204.      Use of funds.
+                                          Sec.   205.      Data collection and reporting.
+                                          Sec.   206.      Performance measurement and evaluation and dissemination.
+                                          Sec.   207.      Authorization of appropriations.
+                                    3     SEC. 3. FINDINGS.
+                                    4              Congress finds the following:
+                                    5                        (1) There is growing opportunity provided by
+                                    6              technology in classrooms, for every grade, in every
+                                    7              subject, and for all types of learners, to—
+                                    8                                 (A) ensure that students are college-and-
+                                    9                        career ready; and
+                                  10                                  (B) access the accelerating roll-out of on-
+                                  11                         line assessments.
+                                  12                         (2) Comprehensive education technology pro-
+
+
+
+
+                                  13               grams have shown great success in improving stu-
+                                  14               dent achievement, reducing secondary school dropout
+                                              •HR 521 IH
+
+                                                                                             3
+                                    1              rates, and improving graduation and college enroll-
+                                    2              ment rates.
+                                    3                        (3) Mooresville Graded School District in the
+                                    4              State of North Carolina has implemented an inte-
+                                    5              grated education technology initiative, which has led
+                                    6              to its ranking as the third highest achieving district
+                                    7              in the State, with 21 percent composite achievement
+                                    8              rate increases and 25 percent graduation rate in-
+                                    9              creases over 5 years.
+                                  10                         (4) At Manor New Tech High School in the
+                                  11               State of Texas, where 65 percent of students receive
+                                  12               free or reduced price lunch under the Richard B.
+                                  13               Russell National School Lunch Act (42 U.S.C. 1751
+                                  14               et seq.) and 75 percent are students of color, a
+                                  15               project-based learning focus on science, technology,
+                                  16               engineering and mathematics, has led to 62 percent
+                                  17               of students being the first generation in their fami-
+                                  18               lies to enroll in an institution of higher education
+                                  19               and a near zero secondary school dropout rate.
+                                  20                         (5) At the City Arts and Technology High
+                                  21               School Envisions in San Francisco, California, which
+                                  22               emphasizes personalized learning environments, inte-
+                                  23               gration of arts and technology in project-based
+
+
+
+
+                                  24               learning, and development of deeper learning skills,
+                                  25               98 percent of the graduates enrolled at an institu-
+
+
+                                              •HR 521 IH
+
+                                                                                             4
+                                    1              tion of higher education, 91 percent remained en-
+                                    2              rolled at such an institution, and 100 percent met
+                                    3              the course requirements for entrance to the Univer-
+                                    4              sity of California.
+                                    5                        (6) The Federal Government placed a strong
+                                    6              emphasis on technology professional development in
+                                    7              the past decade, but no longer provides any funding
+                                    8              support for such activities. Annual appropriations
+                                    9              for grants awarded under the Enhancing Education
+                                  10               through Technology Act of 2001 under subpart D of
+                                  11               title II of the Elementary and Secondary Education
+                                  12               Act of 1965 (20 U.S.C. 6751 et seq.) ended in 2010
+                                  13               and all funds appropriated by the American Recov-
+                                  14               ery and Reinvestment Act of 2009 (Public Law
+                                  15               111–5) for such grants were to have been spent by
+                                  16               September 2011.
+                                  17                         (7) Online professional development courses
+                                  18               offer excellent opportunities for educators to receive
+                                  19               the training that they need 24 hours each day, 7
+                                  20               days each week. However, a recent survey indicates
+                                  21               that only 25 percent of teachers make use of online
+                                  22               professional development courses.
+                                  23                         (8) For technology to be fully integrated into
+
+
+
+
+                                  24               classrooms and to ensure that students are college-
+                                  25               and-career ready, it is critical that school adminis-
+
+
+                                              •HR 521 IH
+
+                                                                                             5
+                                    1              trators are confident in their abilities to use tech-
+                                    2              nology and thereby lead change in their schools and
+                                    3              local educational agencies. The Federal Government
+                                    4              must invest in building leadership skills and capacity
+                                    5              for technology to truly take hold in our Nation’s
+                                    6              schools.
+                                    7     SEC. 4. PURPOSES.
+                                    8              The purposes of this Act are to—
+                                    9                        (1) improve the achievement, academic growth,
+                                  10               and college-and-career readiness of students who
+                                  11               have developed the ability to think critically, apply
+                                  12               knowledge to solve complex problems, work collabo-
+                                  13               ratively, communicate effectively, be self-directed,
+                                  14               and be responsible digital citizens;
+                                  15                         (2) ensure all students have access to individ-
+                                  16               ualized, rigorous, and engaging digital learning expe-
+                                  17               riences;
+                                  18                         (3) ensure that educators have the knowledge
+                                  19               and skills to develop and implement digital learning
+                                  20               curriculum, use technology effectively in order to
+                                  21               personalize and strengthen instruction, and effec-
+                                  22               tively deliver and utilize assessments to measure stu-
+                                  23               dent outcomes and support student success;
+
+
+
+
+
+                                  24                         (4) ensure that administrators have the leader-
+                                  25               ship, management, knowledge, and skills to design,
+
+
+                                              •HR 521 IH
+
+                                                                                             6
+                                    1              develop, and implement a school or local educational
+                                    2              agency-wide digital age learning environment;
+                                    3                        (5) improve the efficiency and productivity of
+                                    4              education through technology;
+                                    5                        (6) address the connectivity needs of local edu-
+                                    6              cational agencies and educational service agencies
+                                    7              that are eligible for support under the E-rate pro-
+                                    8              gram without duplicating the support available
+                                    9              under such program; and
+                                  10                         (7) ensure that State educational agencies, local
+                                  11               educational agencies, and elementary schools and
+                                  12               secondary schools have the technological capacity
+                                  13               and infrastructure to meet purposes described in
+                                  14               paragraphs (1) through (6).
+                                  15      SEC. 5. E-RATE RESTRICTION.
+                                  16               Funds awarded under this Act may be used to ad-
+                                  17 dress the networking needs of a recipient of such funds
+                                  18 for which the recipient is eligible to receive support under
+                                  19 the E-rate program, except that such funds may not be
+                                  20 duplicative of support received by the recipient under the
+                                  21 E-rate program.
+                                  22      SEC.        6.     RULE         OF      CONSTRUCTION                     REGARDING       PUR-
+                                  23                              CHASING.
+                                  24               Nothing in this Act shall be construed to permit a
+                                  25 recipient of funds under this Act to purchase goods or
+
+
+                                              •HR 521 IH
+
+                                                                                             7
+                                    1 services using such funds without ensuring that the pur-
+                                    2 chase is free of any conflict of interest between such recipi-
+                                    3 ent, or any partner of such recipient, and the person or
+                                    4 entity receiving such funds.
+                                    5     SEC. 7. DEFINITIONS.
+                                    6              In this Act:
+                                    7                        (1) IN         GENERAL.—Except                        as otherwise pro-
+                                    8              vided in this Act, any term that is defined in section
+                                    9              9101 of the Elementary and Secondary Education
+                                  10               Act of 1965 (20 U.S.C. 7801) has the meaning
+                                  11               given the term in such section.
+                                  12                         (2) DIGITAL                LEARNING.—The                       term ‘‘digital
+                                  13               learning’’ means any instructional practice that ef-
+                                  14               fectively uses technology to strengthen a student’s
+                                  15               learning experience and encompasses a wide spec-
+                                  16               trum of tools and practices, including—
+                                  17                                  (A) interactive learning resources that en-
+                                  18                         gage students in academic content;
+                                  19                                  (B) access to online databases and other
+                                  20                         primary source documents;
+                                  21                                  (C) the use of data to personalize learning
+                                  22                         and provide targeted supplementary instruction;
+                                  23                                  (D) student collaboration with content ex-
+
+
+
+
+                                  24                         perts and peers;
+                                              •HR 521 IH
+
+                                                                                             8
+                                    1                                 (E) online and computer-based assess-
+                                    2                        ments;
+                                    3                                 (F) digital content, adaptive, and simula-
+                                    4                        tion software or courseware,
+                                    5                                 (G) online courses, online instruction, or
+                                    6                        digital learning platforms;
+                                    7                                 (H) mobile and wireless technologies for
+                                    8                        learning in school and at home;
+                                    9                                 (I) learning environments that allow for
+                                  10                         rich collaboration and communication;
+                                  11                                  (J) authentic audiences for learning in a
+                                  12                         relevant, real world experience;
+                                  13                                  (K) teacher participation in virtual profes-
+                                  14                         sional communities of practice; and
+                                  15                                  (L) hybrid or blended learning, which oc-
+                                  16                         curs under direct instructor supervision at a
+                                  17                         school or other location away from home and,
+                                  18                         at least in part, through online delivery of in-
+                                  19                         struction with some element of student control
+                                  20                         over time, place, path, or pace.
+                                  21                         (3) ELIGIBLE              PARTNERSHIP.—The                            term ‘‘eligi-
+                                  22               ble partnership’’ means a partnership that in-
+                                  23               cludes—
+
+
+
+
+
+                                  24                                  (A) not less than 1—
+                                  25                                         (i) State educational agency; or
+
+
+                                              •HR 521 IH
+
+                                                                                             9
+                                    1                                         (ii) local educational agency or consor-
+                                    2                                 tium of local educational agencies; and
+                                    3                                 (B) not less than 1—
+                                    4                                         (i) local educational agency, edu-
+                                    5                                 cational service agency, consortium of local
+                                    6                                 educational agencies, or consortium of edu-
+                                    7                                 cational service agencies;
+                                    8                                         (ii) institution of higher education;
+                                    9                                         (iii) nonprofit or community-based or-
+                                  10                                  ganization; or
+                                  11                                          (iv) business or for-profit organiza-
+                                  12                                  tion.
+                                  13                         (4) ELIGIBLE              TECHNOLOGY.—The                         term ‘‘eligi-
+                                  14               ble technology’’ means modern information, com-
+                                  15               puter, and communication technology hardware,
+                                  16               software, services, or tools, including computer or
+                                  17               mobile hardware devices and other computer and
+                                  18               communications hardware, software applications,
+                                  19               systems and platforms, and digital and online con-
+                                  20               tent, courseware, and online instruction and other
+                                  21               online services and supports.
+                                  22                         (5) E-RATE            PROGRAM.—The                     term ‘‘E-rate pro-
+                                  23               gram’’ means the Schools and Libraries Universal
+
+
+
+
+                                  24               Service Support Mechanism.
+                                              •HR 521 IH
+
+                                                                                         10
+                                    1                        (6) PROFESSIONAL                     DEVELOPMENT.—The                 term
+                                    2              ‘‘professional development’’ is a process of contin-
+                                    3              uous improvement for teachers and school leaders
+                                    4              that improves educator knowledge, skills, and prac-
+                                    5              tice toward the goal of increased student achieve-
+                                    6              ment and—
+                                    7                                 (A) is intensive, ongoing, connected to
+                                    8                        practice, and on-site where allowable;
+                                    9                                 (B) is focused on student learning and ad-
+                                  10                         dresses the teaching of specific curriculum con-
+                                  11                         tent;
+                                  12                                  (C) is aligned with school improvement pri-
+                                  13                         orities and goals of the school and local edu-
+                                  14                         cational agency; and
+                                  15                                  (D) builds strong working relationships
+                                  16                         among teachers and school leaders that—
+                                  17                                         (i) may be built around active profes-
+                                  18                                  sional learning communities; and
+                                  19                                         (ii) may contain on-demand compo-
+                                  20                                  nents, such as instructional videos, train-
+                                  21                                  ing documents, or learning modules.
+                                  22                         (7) SECRETARY.—The term ‘‘Secretary’’ means
+                                  23               the Secretary of Education.
+
+
+
+
+
+                                  24                         (8) STUDENT                     TECHNOLOGY                LITERACY.—The
+                                  25               term ‘‘student technology literacy’’ means student
+                                              •HR 521 IH
+
+                                                                                         11
+                                    1              knowledge and skills in using contemporary informa-
+                                    2              tion, communication, and learning technologies in a
+                                    3              manner necessary for successful employment, life-
+                                    4              long learning, and citizenship in the knowledge-
+                                    5              based, digital, and global 21st century, including, at
+                                    6              a minimum, the ability to—
+                                    7                                 (A) effectively communicate and collabo-
+                                    8                        rate;
+                                    9                                 (B) analyze and solve problems;
+                                  10                                  (C) access, evaluate, manage, and create
+                                  11                         information and otherwise gain information lit-
+                                  12                         eracy;
+                                  13                                  (D) demonstrate creative thinking, con-
+                                  14                         struct knowledge, and develop innovative prod-
+                                  15                         ucts and processes; and
+                                  16                                  (E) carry out the activities described in
+                                  17                         subparagraphs (A) through (D) in a safe and
+                                  18                         ethical manner.
+                                  19                         (9) TECHNOLOGY                       READINESS                 SURVEY.—The
+                                  20               term ‘‘technology readiness survey’’ means a survey
+                                  21               completed by a local educational agency that pro-
+                                  22               vides standardized information comparable to the in-
+                                  23               formation collected through the technology readiness
+
+
+
+
+                                  24               survey administered under the Race to the Top As-
+                                  25               sessment program under section 14006 of division A
+
+
+                                              •HR 521 IH
+
+                                                                                         12
+                                    1              of the American Recovery and Reinvestment Act of
+                                    2              2009 (Public Law 111–5) on the quantity and types
+                                    3              of technology infrastructure and access available to
+                                    4              the students served by the local educational agency,
+                                    5              including computer devices, Internet connectivity,
+                                    6              operating systems, related network infrastructure,
+                                    7              data systems, and—
+                                    8                                 (A) requiring—
+                                    9                                        (i) an internal review of the degree to
+                                  10                                  which instruction, additional student sup-
+                                  11                                  port, and professional development is deliv-
+                                  12                                  ered in digital formats, media, and plat-
+                                  13                                  forms and is available to students and edu-
+                                  14                                  cators at any time;
+                                  15                                         (ii) an internal review of the ability of
+                                  16                                  educators to use assessments and other
+                                  17                                  student data to personalize and strengthen
+                                  18                                  instruction and identify professional devel-
+                                  19                                  opment needs and priorities; and
+                                  20                                         (iii) any other information required by
+                                  21                                  the State educational agency serving the
+                                  22                                  local educational agency; and
+                                  23                                  (B) may include an assessment of local
+
+
+
+
+                                  24                         community needs to ensure students have ade-
+                                              •HR 521 IH
+
+                                                                                         13
+                                    1                        quate on-line access and access to devices for
+                                    2                        school-related work during out-of-school time.
+                                    3                        (10) UNIVERSAL                  DESIGN FOR LEARNING.—The
+                                    4              term ‘‘universal design for learning’’ has the mean-
+                                    5              ing given the term in section 103 of the Higher
+                                    6              Education Act of 1965 (20 U.S.C. 1003).
+                                    7                       TITLE I—TECHNOLOGY
+                                    8                      READINESS AND ACCESS
+                                    9     SEC. 101. TECHNOLOGY GRANTS PROGRAM AUTHORIZED.
+
+                                  10               (a) IN GENERAL.—From the amounts appropriated
+                                  11 under section 106, the Secretary shall award State Grants
+                                  12 for Technology Readiness and Access (in this title referred
+                                  13 to as ‘‘grants’’) to State educational agencies to strength-
+                                  14 en State and local technological infrastructure and profes-
+                                  15 sional development that supports digital learning through
+                                  16 State activities under section 103(c) and local activities
+                                  17 under section 104(c).
+                                  18               (b) GRANTS              TO     STATE EDUCATIONAL AGENCIES.—
+                                  19                         (1) RESERVATIONS.—From the amounts appro-
+                                  20               priated under section 106 for any fiscal year, the
+                                  21               Secretary shall reserve—
+                                  22                                  (A) three-fourths of 1 percent for the Sec-
+                                  23                         retary of Interior to provide assistance under
+
+
+
+
+                                  24                         this title for schools operated or funded by the
+                                  25                         Bureau of Indian Education; and
+
+
+                                              •HR 521 IH
+
+                                                                                         14
+                                    1                                 (B) 1 percent to provide assistance under
+                                    2                        this title to the outlying areas; and
+                                    3                        (2) GRANTS.—From the amounts appropriated
+                                    4              under section 106 for any fiscal year and remaining
+                                    5              after the Secretary makes reservations under para-
+                                    6              graph (1), the Secretary shall make a grant for the
+                                    7              fiscal year to each State educational agency with an
+                                    8              approved application under section 102 in an
+                                    9              amount that bears the same relationship to such re-
+                                  10               mainder as the amount the State educational agency
+                                  11               received under part A of title I of the Elementary
+                                  12               and Secondary Education Act of 1965 (20 U.S.C.
+                                  13               6311 et seq.) for such year bears to the amount all
+                                  14               State educational agencies with an approved applica-
+                                  15               tion under section 102 received under such part (20
+                                  16               U.S.C. 6311 et seq.) for such year.
+                                  17               (c) MINIMUM.—The amount of a grant to a State
+                                  18 educational agency under subsection (b)(2) for a fiscal
+                                  19 year may not be less than one-half of 1 percent of the
+                                  20 total amount made available for grants to all State edu-
+                                  21 cational agencies under such subsection for such year.
+                                  22               (d) REALLOTMENT                           OF    UNUSED FUNDS.—If any
+                                  23 State educational agency does not apply for a grant under
+
+
+
+
+                                  24 subsection (b)(2) for a fiscal year, or does not use its en-
+                                  25 tire grant under subsection (b)(2) for such year, the Sec-
+
+
+                                              •HR 521 IH
+
+                                                                                         15
+                                    1 retary shall reallot the amount of the State educational
+                                    2 agency’s grant, or the unused portion of the grant, to the
+                                    3 remaining State educational agencies that use their entire
+                                    4 grant amounts under subsection (b)(2) for such year.
+                                    5              (e) MATCHING FUNDS.—
+                                    6                        (1) IN       GENERAL.—A                     State educational agency
+                                    7              that receives a grant under subsection (b)(2) shall
+                                    8              provide matching funds, from non-Federal sources,
+                                    9              in an amount equal to 20 percent of the amount of
+                                  10               grant funds provided to the State educational agency
+                                  11               to carry out the activities supported by the grant.
+                                  12               Such matching funds may be provided in cash or in-
+                                  13               kind, except that any such in-kind contributions
+                                  14               shall be provided for the purpose of supporting the
+                                  15               State educational agency’s activities under section
+                                  16               104(c).
+                                  17                         (2) WAIVER.—The Secretary may waive the
+                                  18               matching requirement under paragraph (1) for a
+                                  19               State educational agency that demonstrates that
+                                  20               such requirement imposes an undue financial hard-
+                                  21               ship on the State educational agency.
+                                  22      SEC. 102. STATE APPLICATIONS.
+
+                                  23               (a) APPLICATION.—To receive a grant under section
+
+
+
+
+                                  24 101(b)(2), a State educational agency shall submit to the
+                                  25 Secretary an application at such time and in such manner
+
+
+                                              •HR 521 IH
+
+                                                                                         16
+                                    1 as the Secretary may require and containing the informa-
+                                    2 tion described in subsection (b).
+                                    3              (b) CONTENTS.—Each application submitted under
+                                    4 subsection (a) shall include the following:
+                                    5                        (1) A description of how the State educational
+                                    6              agency will meet the following goals:
+                                    7                                 (A) Use technology to ensure all students
+                                    8                        achieve college-and-career readiness and tech-
+                                    9                        nology literacy, including by providing high-
+                                  10                         quality education opportunities to economically
+                                  11                         or geographically isolated student populations.
+                                  12                                  (B) Provide educators with the tools, de-
+                                  13                         vices, content, and resources to—
+                                  14                                         (i) significantly improve teaching and
+                                  15                                  learning, including support to increase per-
+                                  16                                  sonalization for and engagement of stu-
+                                  17                                  dents in pursuit of college-and-career read-
+                                  18                                  iness and technology literacy; and
+                                  19                                         (ii) develop and use assessments to
+                                  20                                  improve instruction consistent with the
+                                  21                                  principles of universal design for learning,
+                                  22                                  including for students with disabilities and
+                                  23                                  English-language learners.
+
+
+
+
+
+                                  24                                  (C) Ensure administrators and school lead-
+                                  25                         ers have the flexibility and capacity to develop
+
+
+                                              •HR 521 IH
+
+                                                                                         17
+                                    1                        and manage systems to carry out activities de-
+                                    2                        scribed in subparagraphs (A) and (B), and sup-
+                                    3                        port administrators and school leaders in uti-
+                                    4                        lizing technology to promote equity and increase
+                                    5                        efficiency and productivity.
+                                    6                                 (D) Enable local educational agencies to
+                                    7                        build the technological capacity and infrastruc-
+                                    8                        ture (including through local purchasing of eli-
+                                    9                        gible technology), necessary for the full imple-
+                                  10                         mentation of on-line assessments for all stu-
+                                  11                         dents, (including students with disabilities and
+                                  12                         English-language learners) and to—
+                                  13                                         (i) ensure the interoperability of data
+                                  14                                  systems and eligible technology; and
+                                  15                                         (ii) carry out subparagraphs (A)
+                                  16                                  through (C).
+                                  17                         (2) A description of the results of the tech-
+                                  18               nology readiness in the State as determined by local
+                                  19               educational agency responses to the technology read-
+                                  20               iness survey, including—
+                                  21                                  (A) the status of the ability of each local
+                                  22                         educational agency served by the State edu-
+                                  23                         cational agency to meet the goals described in
+
+
+
+
+                                  24                         section 104(b)(1);
+                                              •HR 521 IH
+
+                                                                                         18
+                                    1                                 (B) an assurance that not less 90 percent
+                                    2                        of the local educational agencies served by the
+                                    3                        State educational agency have completed and
+                                    4                        submitted the technology readiness survey to
+                                    5                        the State educational agency; and
+                                    6                                 (C) an assurance that the results of the
+                                    7                        technology readiness survey for each such local
+                                    8                        educational agency are made available to the
+                                    9                        Secretary and the public through the Website of
+                                  10                         the local educational agency.
+                                  11                         (3) A description of the plan for the State edu-
+                                  12               cational agency to support each local educational
+                                  13               agency served by the State educational agency in
+                                  14               meeting the goals described in section 104(b)(1) not
+                                  15               later than 3 years after the local educational agency
+                                  16               completes the technology readiness survey by ad-
+                                  17               dressing the readiness gaps identified in such sur-
+                                  18               vey.
+                                  19                         (4) A description of the State’s process for the
+                                  20               adoption, acquisition, distribution, and use of con-
+                                  21               tent, how the State will ensure integrity of such
+                                  22               processes, and how such processes support the goals
+                                  23               under paragraph (1) or how a State will change
+
+
+
+
+                                  24               such processes to support such goals, and how the
+                                  25               State will ensure content quality.
+
+
+                                              •HR 521 IH
+
+                                                                                         19
+                                    1                        (5) A description of how the State educational
+                                    2              agency will ensure its data systems and eligible tech-
+                                    3              nology are interoperable.
+                                    4                        (6) An assurance that the State educational will
+                                    5              consider making content widely available through
+                                    6              open educational resources when making purchasing
+                                    7              decisions with funds received under this title.
+                                    8                        (7) A description of the State’s student tech-
+                                    9              nology literacy standards and the technology stand-
+                                  10               ards for teachers and administrators, and an assur-
+                                  11               ance that the State’s student technology literacy
+                                  12               standards meet the requirements of section 7(8).
+                                  13                         (8) An assurance that subgrant awards under
+                                  14               section 104 will be carried out by the State edu-
+                                  15               cational agency staff with responsibility for leader-
+                                  16               ship, coordination, and implementation of instruc-
+                                  17               tional and other classroom technologies.
+                                  18                         (9) A description of how the State educational
+                                  19               agency will award subgrants to local educational
+                                  20               agencies under section 104.
+                                  21                         (10) A description of the process, activities, and
+                                  22               performance measures, that the State educational
+                                  23               agency will use to evaluate the impact and effective-
+
+
+
+
+                                  24               ness of the grant and subgrants funds awarded
+                                              •HR 521 IH
+
+                                                                                         20
+                                    1              under this title across the State and in each local
+                                    2              educational agency.
+                                    3                        (11) A description of how the State educational
+                                    4              agency will, in providing technical and other assist-
+                                    5              ance to local educational agencies, give priority to
+                                    6              the local educational agencies proposing to target
+                                    7              services to—
+                                    8                                 (A) students in schools in need of improve-
+                                    9                        ment and persistently low-achieving schools;
+                                  10                         and
+                                  11                                  (B) schools with a high percentage of stu-
+                                  12                         dents that are eligible for free or reduced price
+                                  13                         lunch under the Richard B. Russell National
+                                  14                         School Lunch Act (42 U.S.C. 1751 et seq.).
+                                  15                         (12) A description of how the State educational
+                                  16               agency consulted with local educational agencies in
+                                  17               the development of the State educational agency’s
+                                  18               application under this subsection.
+                                  19                         (13) An assurance that the State educational
+                                  20               agency will provide matching funds as required
+                                  21               under section 101(e).
+                                  22                         (14) A description of how the State educational
+                                  23               agency will ensure that funds received under this
+
+
+
+
+                                  24               title is not duplicative of support received under the
+                                  25               E-rate program.
+
+
+                                              •HR 521 IH
+
+                                                                                         21
+                                    1                        (15) An assurance that the State educational
+                                    2              agency will protect the privacy and safety of stu-
+                                    3              dents and teachers, consistent with requirements of
+                                    4              section 444 of the General Education Provisions Act
+                                    5              (20 U.S.C. 1232g) (commonly known as the ‘‘Fam-
+                                    6              ily Educational Rights and Privacy Act of 1974’’)
+                                    7              and section 2441(a) of the Elementary and Sec-
+                                    8              ondary Education Act of 1965 (20 U.S.C. 6777(a)).
+                                    9     SEC. 103. STATE USE OF GRANT FUNDS.
+
+                                  10               (a) RESERVATION                      FOR        SUBGRANTS TO SUPPORT
+                                  11 TECHNOLOGY                          INFRASTRUCTURE.—Each                                  State   edu-
+                                  12 cational agency that receives a grant under section
+                                  13 101(b)(2) shall expend not less 90 percent of the grant
+                                  14 amount for each fiscal year to award subgrants to local
+                                  15 educational agencies in accordance with section 104.
+                                  16               (b) RESERVATION FOR STATE ACTIVITIES.—
+                                  17                         (1) IN       GENERAL.—A                     State educational agency
+                                  18               shall reserve not more than 10 percent of the grant
+                                  19               received under section 101(b)(2) for the State activi-
+                                  20               ties described in subsection (c).
+                                  21                         (2) GRANT             ADMINISTRATION.—Of                          the amount
+                                  22               reserved by a State educational agency under para-
+                                  23               graph (1), the State educational agency may reserve
+
+
+
+
+                                  24               not more than 1 percent or 3 percent, in the case
+                                  25               of a State educational agency awarding subgrants
+
+
+                                              •HR 521 IH
+
+                                                                                         22
+                                    1              under section 104(a)(2), for the administration of
+                                    2              the grant under this title, except that a State edu-
+                                    3              cational agency that forms a State purchasing con-
+                                    4              sortium under subsection (d)—
+                                    5                                 (A) may reserve an additional 1 percent to
+                                    6                        carry out the activities described in subsection
+                                    7                        (d)(1); and
+                                    8                                 (B) shall receive direct approval from the
+                                    9                        local educational agencies receiving subgrants
+                                  10                         under section 104(a) from the State educational
+                                  11                         agency prior to reserving more than the addi-
+                                  12                         tional percentage authorized under subpara-
+                                  13                         graph (A) to carry out the activities described
+                                  14                         in subsection (d)(1).
+                                  15               (c) STATE ACTIVITIES.—A State educational agency
+                                  16 shall use funds described in subsection (b) to carry out
+                                  17 each of the following:
+                                  18                         (1) Except for the awarding of subgrants in ac-
+                                  19               cordance with section 104, activities described in the
+                                  20               State educational agency’s application under section
+                                  21               102(b).
+                                  22                         (2) Providing technical assistance to local edu-
+                                  23               cational agencies to—
+
+
+
+
+
+                                  24                                  (A) identify and address technology readi-
+                                  25                         ness needs;
+
+
+                                              •HR 521 IH
+
+                                                                                         23
+                                    1                                 (B) redesign curriculum and instruction,
+                                    2                        improve educational productivity, and deliver
+                                    3                        computer-based and online assessment;
+                                    4                                 (C) use technology, consistent with the
+                                    5                        principles of universal design for learning, to
+                                    6                        support the learning needs of all students in-
+                                    7                        cluding students with disabilities and English-
+                                    8                        language learners;
+                                    9                                 (D) support principals to have the exper-
+                                  10                         tise to evaluate teachers’ proficiency in imple-
+                                  11                         menting digital tools for teaching and learning;
+                                  12                         and
+                                  13                                  (E) build capacity for individual school and
+                                  14                         local educational agency leaders.
+                                  15                         (3) Developing or utilizing research-based or in-
+                                  16               novative strategies for the delivery of specialized or
+                                  17               rigorous academic courses and curricula through the
+                                  18               use of technology, including digital learning tech-
+                                  19               nologies and assistive technology.
+                                  20                         (4) Integrating and coordinating activities
+                                  21               under this title with other educational resources and
+                                  22               programs across the State.
+                                  23                         (5) Disseminating information, including mak-
+
+
+
+
+                                  24               ing publicly available on the Websites of the State
+                                  25               educational agency promising practices to improve
+
+
+                                              •HR 521 IH
+
+                                                                                         24
+                                    1              technology instruction, and acquiring and imple-
+                                    2              menting technology tools and applications.
+                                    3                        (6) Ensuring that teachers, paraprofessionals,
+                                    4              library and media personnel, specialized instructional
+                                    5              support personnel, and administrators possess the
+                                    6              knowledge and skills to use technology—
+                                    7                                 (A) for curriculum redesign to change
+                                    8                        teaching and learning and improve student
+                                    9                        achievement;
+                                  10                                  (B) for formative and summative assess-
+                                  11                         ment administration, data analysis, and to per-
+                                  12                         sonalize learning;
+                                  13                                  (C) to improve student technology literacy;
+                                  14                                  (D) to expand the range of supports and
+                                  15                         accommodations available to English-language
+                                  16                         learners and students with disabilities; and
+                                  17                                  (E) for their own ongoing professional de-
+                                  18                         velopment and for access to teaching resources
+                                  19                         and tools.
+                                  20                         (7) Coordinating with teacher and school leader
+                                  21               preparation programs to—
+                                  22                                  (A) align digital learning teaching stand-
+                                  23                         ards; and
+
+
+
+
+
+                                  24                                  (B) provide ongoing professional develop-
+                                  25                         ment for teachers and school leaders that is
+
+
+                                              •HR 521 IH
+
+                                                                                         25
+                                    1                        aligned to State student technology standards
+                                    2                        and        activities           promoting               college-and-career
+                                    3                        readiness.
+                                    4              (d) PURCHASING CONSORTIA.—
+                                    5                        (1) IN       GENERAL.—A                     State educational agency
+                                    6              receiving a grant under section 101(b)(2) may—
+                                    7                                 (A) form a State purchasing consortium
+                                    8                        with 1 or more State educational agencies re-
+                                    9                        ceiving such a grant to carry out the State ac-
+                                  10                         tivities described in subsection (c), including
+                                  11                         purchasing eligible technology;
+                                  12                                  (B) encourage local educational agencies to
+                                  13                         form local purchasing consortia under section
+                                  14                         104(c)(4); and
+                                  15                                  (C) promote pricing opportunities to local
+                                  16                         educational agencies for the purchase of eligible
+                                  17                         technology that are—
+                                  18                                         (i) negotiated by the State educational
+                                  19                                  agency or the State purchasing consortium
+                                  20                                  of the State educational agency; and
+                                  21                                         (ii) available to such local educational
+                                  22                                  agencies.
+                                  23                         (2) RESTRICTIONS.—A State educational agen-
+
+
+
+
+                                  24               cy receiving a grant under section 101(b)(2) may
+                                  25               not—
+
+
+                                              •HR 521 IH
+
+                                                                                         26
+                                    1                                 (A) except for promoting the pricing op-
+                                    2                        portunities described in paragraph (1)(C), make
+                                    3                        recommendations to local educational agencies
+                                    4                        for or require use of any specific commercial
+                                    5                        products and services by local educational agen-
+                                    6                        cies;
+                                    7                                 (B) require local educational agencies to
+                                    8                        participate in a State purchasing consortia or
+                                    9                        local purchasing consortia; or
+                                  10                                  (C) use more than the reservation amount
+                                  11                         authorized for the administration of the grant
+                                  12                         under subsection (b) to carry out the activities
+                                  13                         described in paragraph (1), unless the State
+                                  14                         educational agency receives approval in accord-
+                                  15                         ance with subsection (b)(2)(B).
+                                  16      SEC. 104. LOCAL SUBGRANTS.
+
+                                  17               (a) SUBGRANTS.—
+                                  18                         (1) GRANTS               TO LOCAL EDUCATIONAL AGEN-
+                                  19               CIES.—From               the grant funds provided under section
+                                  20               101(b)(2) to a State educational agency that are re-
+                                  21               maining after the State educational agency makes
+                                  22               reservations under section 104(b) for any fiscal year
+                                  23               and subject to paragraph (2), the State educational
+
+
+
+
+                                  24               agency shall award subgrants for the fiscal year to
+                                  25               local educational agencies served by the State edu-
+
+
+                                              •HR 521 IH
+
+                                                                                         27
+                                    1              cational agency and with an approved application
+                                    2              under subsection (b) by allotting to each such local
+                                    3              educational agency an amount that bears the same
+                                    4              relationship to the remainder as the amount received
+                                    5              by the local educational agency under part A of title
+                                    6              I of the Elementary and Secondary Education Act
+                                    7              of 1965 (20 U.S.C. 6301 et seq.) for such year
+                                    8              bears to the amount received by all such local edu-
+                                    9              cational agencies under such part for such year, ex-
+                                  10               cept that no local educational agency may receive
+                                  11               less than $5,000.
+                                  12                         (2) COMPETITIVE                      GRANTS            TO           LOCAL     EDU-
+                                  13               CATIONAL AGENCIES.—If                             the amount of funds ap-
+                                  14               propriated              under             section         106            is      less   than
+                                  15               $500,000,000 for any fiscal year, a State edu-
+                                  16               cational agency—
+                                  17                                  (A) shall not award subgrants under para-
+                                  18                         graph (1); and
+                                  19                                  (B) shall—
+                                  20                                         (i) award subgrants, on a competitive
+                                  21                                  basis, to local educational agencies based
+                                  22                                  on the quality of applications submitted
+                                  23                                  under (b), including—
+
+
+
+
+
+                                  24                                                   (I) the level of technology readi-
+                                  25                                         ness as determined by the technology
+
+
+                                              •HR 521 IH
+
+                                                                                         28
+                                    1                                        readiness surveys completed by local
+                                    2                                        educational agencies submitting such
+                                    3                                        applications; and
+                                    4                                                  (II) the technology plans de-
+                                    5                                        scribed in subsection (b)(3) and how
+                                    6                                        the local educational agencies with
+                                    7                                        such plans will carry out the align-
+                                    8                                        ment and coordination described in
+                                    9                                        such subsection; and
+                                  10                                         (ii) ensure that such subgrants are of
+                                  11                                  sufficient size and scope to carry out the
+                                  12                                  local activities described in subsection (c).
+                                  13                         (3)      DEFINITION                 OF        LOCAL            EDUCATIONAL
+                                  14               AGENCY FOR CERTAIN FISCAL YEARS.—For                                            pur-
+                                  15               poses of awarding subgrants under paragraph (2),
+                                  16               the term ‘‘local educational agency’’ means—
+                                  17                                  (A) a local educational agency;
+                                  18                                  (B) an educational service agency; or
+                                  19                                  (C) a local educational agency and an edu-
+                                  20                         cational service agency.
+                                  21               (b) APPLICATION.—A local educational agency that
+                                  22 desires to receive a subgrant under subsection (a) shall
+                                  23 submit an application to the State at such time, in such
+
+
+
+
+                                  24 manner, and accompanied by such information as the
+                                  25 State educational agency may require, including—
+
+
+                                              •HR 521 IH
+
+                                                                                         29
+                                    1                        (1) a description of how the local educational
+                                    2              agency will—
+                                    3                                 (A) carry out the goals described in sub-
+                                    4                        paragraphs               (A)        through             (C)           of   section
+                                    5                        101(b)(1); and
+                                    6                                 (B) enable schools served by the agency to
+                                    7                        build the technological capacity and infrastruc-
+                                    8                        ture (including through local purchasing of eli-
+                                    9                        gible technology), necessary for the full imple-
+                                  10                         mentation of on-line assessments for all stu-
+                                  11                         dents (including students with disabilities and
+                                  12                         English-language learners) and to—
+                                  13                                         (i) ensure the interoperability of data
+                                  14                                  systems and eligible technology; and
+                                  15                                         (ii) carry out the goals described in
+                                  16                                  subparagraphs (A) through (C) of section
+                                  17                                  101(b)(1);
+                                  18                         (2) a description of the results of the tech-
+                                  19               nology readiness survey completed by the local edu-
+                                  20               cational agency and a description of the plan for the
+                                  21               local educational agency to meet the goals described
+                                  22               in paragraph (1) within 3 years of completing the
+                                  23               survey;
+
+
+
+
+
+                                  24                         (3) a description of the local educational agen-
+                                  25               cy’s student technology literacy standards, and its
+
+
+                                              •HR 521 IH
+
+                                                                                         30
+                                    1              goals for the technology skills for teachers and ad-
+                                    2              ministrators, and an assurance that the student
+                                    3              technology literacy standards meet the requirements
+                                    4              of section 7(8);
+                                    5                        (4) a description of the local educational agen-
+                                    6              cy’s technology plan to carry out paragraphs (1) and
+                                    7              (3) and how the agency will align and coordinate the
+                                    8              activities under this section with other activities
+                                    9              across the local educational agency;
+                                  10                         (5) a description of the team of educators that
+                                  11               will coordinate and carry out the activities under
+                                  12               this section, including individuals with responsibility
+                                  13               and expertise in instructional technology, teachers
+                                  14               that specialize in supporting students with disabil-
+                                  15               ities and English-language learners, school leaders,
+                                  16               technology officers, and staff responsible for assess-
+                                  17               ments and data analysis;
+                                  18                         (6) a description of how the local educational
+                                  19               agency will evaluate teachers’ proficiency and
+                                  20               progress in implementing technology for teaching
+                                  21               and learning;
+                                  22                         (7) a description of how the local educational
+                                  23               agency will ensure that principals have the expertise
+
+
+
+
+                                  24               to evaluate teachers’ proficiency and progress in im-
+                                  25               plementing technology for teaching and learning and
+
+
+                                              •HR 521 IH
+
+                                                                                         31
+                                    1              the interoperability of data systems and eligible tech-
+                                    2              nology;
+                                    3                        (8) a description of the local educational agen-
+                                    4              cy’s procurement process and process for the cre-
+                                    5              ation, acquisition, distribution, and use of content,
+                                    6              how the local educational agency will ensure integ-
+                                    7              rity of such processes, and how such processes sup-
+                                    8              port the goals described in paragraph (1) or how a
+                                    9              local educational agency will change such processes
+                                  10               to support such goals, and how the local educational
+                                  11               agency will ensure content quality;
+                                  12                         (9) a description of how the local educational
+                                  13               agency will carry out activities under subsection (c);
+                                  14                         (10) a description of how the subgrant funds
+                                  15               received under subsection (a) will be coordinated
+                                  16               with and supported by other Federal, State, and
+                                  17               local funds to support activities under this title;
+                                  18                         (11) a description of how the local educational
+                                  19               agency will ensure that the subgrant received under
+                                  20               subsection (a) is not duplicative of support received
+                                  21               under the E-rate program; and
+                                  22                         (12) an assurance that the local educational
+                                  23               agency will protect the privacy and safety of stu-
+
+
+
+
+                                  24               dents and teachers, consistent with requirements
+                                  25               section 444 of the General Education Provisions Act
+
+
+                                              •HR 521 IH
+
+                                                                                         32
+                                    1              (20 U.S.C. 1232g) (commonly known as the ‘‘Fam-
+                                    2              ily Educational Rights and Privacy Act of 1974’’)
+                                    3              and section 2441(a) of the Elementary and Sec-
+                                    4              ondary Education Act of 1965 (20 U.S.C. 6777(a)).
+                                    5              (c) USE OF FUNDS.—
+                                    6                        (1) TECHNOLOGY                      INFRASTRUCTURE.—Subject
+                                    7              to paragraph (3), a local educational agency receiv-
+                                    8              ing a subgrant under subsection (a) shall use not
+                                    9              less than 40 percent of such funds to support activi-
+                                  10               ties for the acquisition of eligible technology needed
+                                  11               to—
+                                  12                                  (A) except for the activities described in
+                                  13                         paragraph (2), carry out activities described in
+                                  14                         the application submitted under subsection (b),
+                                  15                         including purchasing devices, equipment, and
+                                  16                         software               applications,                   and            improving
+                                  17                         connectivity to and within schools; and
+                                  18                                  (B) address readiness shortfalls identified
+                                  19                         under the technology readiness survey com-
+                                  20                         pleted by the local educational agency.
+                                  21                         (2) PROFESSIONAL                       DEVELOPMENT FOR DIG-
+                                  22               ITAL LEARNING.—Subject                            to paragraph (3), a local
+                                  23               educational agency receiving a subgrant under sub-
+
+
+
+
+                                  24               section (a)—
+                                              •HR 521 IH
+
+                                                                                         33
+                                    1                                 (A) shall use not less than 35 percent of
+                                    2                        such funds to carry out—
+                                    3                                        (i) digital age professional develop-
+                                    4                                 ment opportunities for teachers, para-
+                                    5                                 professionals, library and media personnel,
+                                    6                                 specialized instructional support personnel,
+                                    7                                 technology coordinators, and administra-
+                                    8                                 tors in the effective use of modern infor-
+                                    9                                 mation          and         communication                    technology
+                                  10                                  tools and digital resources to deliver in-
+                                  11                                  struction, curriculum and school classroom
+                                  12                                  management,                  including                for    classroom
+                                  13                                  teachers to assess, support, and provide
+                                  14                                  engaging student learning opportunities,
+                                  15                                  including professional development that—
+                                  16                                                   (I) is ongoing, sustainable, and
+                                  17                                         scalable;
+                                  18                                                   (II) is participatory;
+                                  19                                                   (III) includes communication and
+                                  20                                         regular interactions with instructors,
+                                  21                                         facilitators, and peers and is directly
+                                  22                                         related to up-to-date teaching methods
+                                  23                                         in content areas;
+
+
+
+
+
+                                              •HR 521 IH
+
+                                                                                         34
+                                    1                                                  (IV) includes strategies and tools
+                                    2                                        for improving communication with
+                                    3                                        parents and family engagement;
+                                    4                                                  (V) may be built around active
+                                    5                                        professional learning communities or
+                                    6                                        online communities of practice or
+                                    7                                        other tools that increase collaboration
+                                    8                                        among teachers across schools, local
+                                    9                                        educational agencies, or States; and
+                                  10                                                   (VI)        may          contain            on-demand
+                                  11                                         components, such as instructional vid-
+                                  12                                         eos, training documents, or learning
+                                  13                                         modules;
+                                  14                                         (ii) ongoing professional development
+                                  15                                  in strategies and pedagogy in the core aca-
+                                  16                                  demic subjects that involve the use of tech-
+                                  17                                  nology and curriculum redesign as key
+                                  18                                  components of supporting effective, innova-
+                                  19                                  tive teaching and learning, and improving
+                                  20                                  student achievement;
+                                  21                                         (iii) ongoing professional development
+                                  22                                  in the use of educational technologies to
+                                  23                                  ensure every educator achieves and main-
+
+
+
+
+                                  24                                  tains technology literacy, including pos-
+                                              •HR 521 IH
+
+                                                                                         35
+                                    1                                 sessing and maintaining the knowledge and
+                                    2                                 skills to use technology—
+                                    3                                                  (I) across the curriculum for stu-
+                                    4                                        dent learning;
+                                    5                                                  (II) for real-time data analysis
+                                    6                                        and online or digital assessment to en-
+                                    7                                        able individualized instruction; and
+                                    8                                                  (III) to develop and maintain
+                                    9                                        student technology literacy;
+                                  10                                         (iv) ongoing professional development
+                                  11                                  for school leaders to provide and promote
+                                  12                                  leadership in the use of—
+                                  13                                                   (I) educational technology to en-
+                                  14                                         sure a digital-age learning environ-
+                                  15                                         ment, including the capacity to lead
+                                  16                                         the reform or redesign of curriculum,
+                                  17                                         instruction, assessment; and
+                                  18                                                   (II) data through the use of tech-
+                                  19                                         nology in order to increase student
+                                  20                                         learning opportunity, student tech-
+                                  21                                         nology literacy, student access to tech-
+                                  22                                         nology, and student engagement in
+                                  23                                         learning; and
+
+
+
+
+
+                                              •HR 521 IH
+
+                                                                                         36
+                                    1                                         (v) a review of the effectiveness of the
+                                    2                                 professional development and regular inter-
+                                    3                                 vals of learner feedback and data; and
+                                    4                                 (B) may use such funds for—
+                                    5                                         (i) the use of technology coaches to
+                                    6                                 work directly with teachers, including
+                                    7                                 through the preparation of teachers as
+                                    8                                 technology leaders or master teachers—
+                                    9                                                  (I) who are provided with the
+                                  10                                          means to serve as experts and to cre-
+                                  11                                          ate professional development opportu-
+                                  12                                          nities for other teachers in the effec-
+                                  13                                          tive use of technology; and
+                                  14                                                   (II) who may leverage tech-
+                                  15                                          nologies, such as distance learning
+                                  16                                          and online virtual educator-to-educa-
+                                  17                                          tor peer communities, as a means to
+                                  18                                          support ongoing, participatory profes-
+                                  19                                          sional growth around the integration
+                                  20                                          of effective educational technologies;
+                                  21                                          (ii) innovative approaches to ongoing
+                                  22                                  professional development such as non-
+                                  23                                  standard achievement recognition strate-
+
+
+
+
+                                  24                                  gies,           including                  digital           badging,
+                                  25                                  gamification elements, use of learner-cre-
+
+
+                                              •HR 521 IH
+
+                                                                                         37
+                                    1                                 ated learning objects, integration of social
+                                    2                                 and professional networking tools, rating
+                                    3                                 and commenting on learning artifacts, and
+                                    4                                 personalization of professional develop-
+                                    5                                 ment; and
+                                    6                                        (iii) any other activities required to
+                                    7                                 carry out the local educational agency’s
+                                    8                                 technology plan described in subsection
+                                    9                                 (b)(4).
+                                  10                         (3)       MODIFICATION                      OF     FUNDING            ALLOCA-
+                                  11               TIONS.—A             State educational agency may authorize a
+                                  12               local educational agency to modify the percentage of
+                                  13               the local educational agency’s subgrant funds re-
+                                  14               quired to carry out the activities described in para-
+                                  15               graphs (1) or (2) if the local educational agency
+                                  16               demonstrates that such modification will assist the
+                                  17               local educational agency in more effectively carrying
+                                  18               out such activities.
+                                  19                         (4)       PURCHASING                   CONSORTIA.—Local                  edu-
+                                  20               cational agencies receiving subgrants under sub-
+                                  21               section (a) may—
+                                  22                                  (A) form a local purchasing consortia with
+                                  23                         other such local educational agencies to carry
+
+
+
+
+                                  24                         out the activities described in this subsection,
+                                  25                         including purchasing eligible technology; and
+
+
+                                              •HR 521 IH
+
+                                                                                         38
+                                    1                                 (B) use such funds for purchasing eligible
+                                    2                        technology through a State purchasing con-
+                                    3                        sortia under section 103(d).
+                                    4     SEC. 105. REPORTING.
+
+                                    5              (a) LOCAL EDUCATIONAL AGENCIES.—Each local
+                                    6 educational agency receiving a subgrant under section 104
+                                    7 shall submit to the State educational agency that awarded
+                                    8 such subgrant an annual report the meets the require-
+                                    9 ments of subsection (c).
+                                  10               (b) STATE EDUCATIONAL AGENCIES.—Each State
+                                  11 educational agency receiving a grant under section
+                                  12 101(b)(2) shall submit to the Secretary an annual report
+                                  13 that meets the requirements of subsection (c).
+                                  14               (c) REPORT REQUIREMENTS.—A report submitted
+                                  15 under subsection (a) or (b) shall include, at a minimum,
+                                  16 a description of—
+                                  17                         (1) the status of the State education agency’s
+                                  18               plan described in section 102(b)(3) or local edu-
+                                  19               cation agency’s technology plan under section
+                                  20               104(b)(4), as applicable;
+                                  21                         (2) the categories eligible technology acquired
+                                  22               with funds under this title and how such technology
+                                  23               is being used;
+
+
+
+
+
+                                  24                         (3) the professional development activities fund-
+                                  25               ed under this title, including types of activities and
+
+
+                                              •HR 521 IH
+
+                                                                                         39
+                                    1              entities involved in providing such professional devel-
+                                    2              opment to classroom teachers and other staff, such
+                                    3              as school librarians;
+                                    4                        (4) the instruction, strategies, activities, and
+                                    5              curricula used in the programs funded under this
+                                    6              title; and
+                                    7                        (5) the types of programs funded under this
+                                    8              title.
+                                    9     SEC. 106. AUTHORIZATION.
+                                  10               There are authorized to be appropriated to carry out
+                                  11 this Act $500,000,000 for fiscal year 2014 and such sums
+                                  12 as may be necessary for each of the 4 succeeding fiscal
+                                  13 years.
+                                  14              TITLE II—TECHNOLOGY FOR
+                                  15                  TOMORROW FUND
+                                  16      SEC. 201. SHORT TITLE.
+                                  17               This title may be cited as the ‘‘Technology for To-
+                                  18 morrow Fund’’.
+                                  19      SEC. 202. TECHNOLOGY FOR TOMORROW FUND.
+
+                                  20               (a) GRANTS               TO      ELIGIBLE PARTNERSHIPS.—From
+                                  21 the amounts appropriated under section 207 and not re-
+                                  22 served under subsection (b), the Secretary shall award
+                                  23 grants, on a competitive basis, to eligible partnerships to
+
+
+
+
+                                  24 enable the eligible partnerships to carry out activities de-
+                                  25 scribed in section 204 to improve student achievement,
+
+
+                                              •HR 521 IH
+
+                                                                                         40
+                                    1 academic                  growth,            and         college-and-career                  readiness
+                                    2 through the use of technology and digital learning.
+                                    3              (b) RESERVATION                     OF     FUNDS.—The Secretary may
+                                    4 reserve up to 5 percent of the amounts appropriated under
+                                    5 section 207 for a fiscal year for—
+                                    6                        (1) the administration of this title; and
+                                    7                        (2) the evaluation and dissemination activities
+                                    8              described in section 204(b).
+                                    9              (c) DURATION                   OF   GRANT PERIOD.—A grant under
+                                  10 subsection (a) shall be awarded to an eligible partnership
+                                  11 for at least a 2-year period and not longer than a 3-year
+                                  12 period, except that the Secretary may award the eligible
+                                  13 partnership an additional 2-year grant if the eligible part-
+                                  14 nership demonstrates satisfactory progress on the per-
+                                  15 formance measures described in section 206(a).
+                                  16      SEC. 203. APPLICATION.
+
+                                  17               (a) IN GENERAL.—To receive a grant under section
+                                  18 202, an eligible partnership shall submit an application
+                                  19 at such time and in such manner as the Secretary may
+                                  20 require, and containing the information described in sub-
+                                  21 section (b).
+                                  22               (b) CONTENTS.—An application submitted under
+                                  23 subsection (a) shall include—
+
+
+
+
+
+                                              •HR 521 IH
+
+                                                                                         41
+                                    1                        (1) a description of the eligible partnership, the
+                                    2              partners forming the eligible partnership, and the
+                                    3              roles and responsibilities of each partner;
+                                    4                        (2) a demonstration of each partner’s capacity
+                                    5              and commitment to fulfill its role and responsibilities
+                                    6              to ensure the successful completion of activities de-
+                                    7              scribed in section 204;
+                                    8                        (3) a description of how the grant funds will be
+                                    9              used to improve the achievement, academic growth,
+                                  10               and college-and-career readiness of students, par-
+                                  11               ticularly at-risk, low-income, and low-performing
+                                  12               students;
+                                  13                         (4) a description of how the activities funded by
+                                  14               the grant will be innovative, systemic, or evidence-
+                                  15               based by ensuring such activities—
+                                  16                                  (A) are based on strong or promising evi-
+                                  17                         dence or a review of the best available research
+                                  18                         evidence; and
+                                  19                                  (B) may contribute to the development and
+                                  20                         use of new models;
+                                  21                         (5) a description of how such activities will uti-
+                                  22               lize technology and digital learning to—
+                                  23                                  (A) promote personalized, individualized
+
+
+
+
+                                  24                         instruction that improves student achievement,
+                                              •HR 521 IH
+
+                                                                                         42
+                                    1                        academic growth, and college-and-career readi-
+                                    2                        ness;
+                                    3                                 (B) improve teacher and school leader
+                                    4                        preparation, training, knowledge, skills, prac-
+                                    5                        tice, and professional capacity;
+                                    6                                 (C) ensure all students, particularly at-risk
+                                    7                        and historically disadvantaged students, includ-
+                                    8                        ing students with disabilities and English-lan-
+                                    9                        guage learners, have equitable access to high-
+                                  10                         quality curriculum, instruction, assessments,
+                                  11                         technology, and digital learning; or
+                                  12                                  (D) improve the efficiency and productivity
+                                  13                         of education;
+                                  14                         (6) a description of how the eligible partnership
+                                  15               will measure and report data on the effectiveness of
+                                  16               such activities under section 205(a);
+                                  17                         (7) an assurance that the grant funds will not
+                                  18               solely be used—
+                                  19                                  (A) to purchase materials, hardware, or
+                                  20                         technology-based tools; or
+                                  21                                  (B) to implement online learning to the ex-
+                                  22                         clusion of other activities;
+                                  23                         (8) a description of how the eligible partnership
+
+
+
+
+                                  24               will ensure that a grant received under this title is
+                                              •HR 521 IH
+
+                                                                                         43
+                                    1              not duplicative of support received under the E-rate
+                                    2              program; and
+                                    3                        (9) such other information as the Secretary
+                                    4              may require.
+                                    5              (c) APPLICATION REVIEW AND AWARD.—
+                                    6                        (1) APPLICATION                     REVIEW AND APPROVAL.—
+                                    7              The Secretary shall—
+                                    8                                 (A) establish a peer review process to as-
+                                    9                        sist in the review of the grant applications and
+                                  10                         approval of the grants under this section;
+                                  11                                  (B) appoint to the peer review process in-
+                                  12                         dividuals who are educators and experts in—
+                                  13                                         (i) technology and digital learning;
+                                  14                                         (ii) classroom instruction and teaching
+                                  15                                  practice;
+                                  16                                         (iii) school improvement, redesign, or
+                                  17                                  turnaround;
+                                  18                                         (iv) teacher and school leader training
+                                  19                                  or professional development; and
+                                  20                                         (v) education efficiency and produc-
+                                  21                                  tivity; and
+                                  22                                  (C) ensure that each grant is of sufficient
+                                  23                         size and scope to carry out the activities de-
+
+
+
+
+                                  24                         scribed in the grant application under sub-
+                                  25                         section (b), including the activities described in
+
+
+                                              •HR 521 IH
+
+                                                                                         44
+                                    1                        section 204 and measuring and reporting data
+                                    2                        under section 205(a).
+                                    3                        (2) GRANT            AWARD.—In                awarding grants under
+                                    4              this title, the Secretary shall, to the extent prac-
+                                    5              ticable, ensure—
+                                    6                                 (A) diversity in the type of activities fund-
+                                    7                        ed under the grants, including statewide and
+                                    8                        local initiatives;
+                                    9                                 (B) equitable geographic distribution of the
+                                  10                         grants, including urban and rural areas and
+                                  11                         small and large local educational agencies; and
+                                  12                                  (C) that eligible partnerships receiving
+                                  13                         such grants—
+                                  14                                         (i) demonstrate that activities funded
+                                  15                                  by the grant will be carried out based on
+                                  16                                  strong or promising evidence; and
+                                  17                                         (ii) are committed to and capable of
+                                  18                                  successfully carrying out the activities de-
+                                  19                                  scribed in the grant application submitted
+                                  20                                  under subsection (b), including the activi-
+                                  21                                  ties described in section 204 and meas-
+                                  22                                  uring and reporting data under section
+                                  23          •HR 521 IH            205(a).            45
+                                    1     SEC. 204. USE OF FUNDS.
+
+                                    2              (a) REQUIREMENTS.—An eligible partnership receiv-
+                                    3 ing a grant under this title shall use grant funds to carry
+                                    4 out 1 or more of the following activities that utilize tech-
+                                    5 nology and digital learning to promote:
+                                    6                        (1) Personalized, individualized instruction that
+                                    7              improves student achievement, academic growth, and
+                                    8              college-and-career readiness, such as—
+                                    9                                 (A) hybrid, blended, or other digital-learn-
+                                  10                         ing opportunities that combine online and
+                                  11                         teacher-based instruction to improve student
+                                  12                         outcomes;
+                                  13                                  (B) gaming or other personalized digital or
+                                  14                         technology-based tools that individualize in-
+                                  15                         struction and promote self-directed learning and
+                                  16                         higher order thinking skills, including giving
+                                  17                         students control over the place, pace, or time of
+                                  18                         learning;
+                                  19                                  (C) online platforms or opportunities that
+                                  20                         provide students opportunities for credit recov-
+                                  21                         ery or advanced credit accumulation; and
+                                  22                                  (D) expanding the accommodations avail-
+                                  23                         able to students with disabilities and English-
+                                  24                         language learners.
+
+
+
+
+
+                                              •HR 521 IH
+
+                                                                                         46
+                                    1                        (2) Improving teacher and school leader prepa-
+                                    2              ration, professional development, knowledge, skills,
+                                    3              practice, and professional capacity, such as—
+                                    4                                 (A) tools or programs that equip teachers
+                                    5                        to differentiate instruction, conduct ongoing
+                                    6                        formative assessments, and use real-time data
+                                    7                        or data systems to identify individual student
+                                    8                        learning needs and guide personalized instruc-
+                                    9                        tion, learning, and appropriate interventions
+                                  10                         that address those individualized student learn-
+                                  11                         ing needs;
+                                  12                                  (B) on-demand professional development,
+                                  13                         online communities of practice, or other tech-
+                                  14                         nology-based tools that improve teaching and
+                                  15                         leadership;
+                                  16                                  (C) pre-service training in the use of tech-
+                                  17                         nology and digital learning to improve student
+                                  18                         outcomes; and
+                                  19                                  (D) technology-based tools to improve the
+                                  20                         administration and implementation of teacher
+                                  21                         evaluation systems or other human capital sys-
+                                  22                         tems.
+                                  23                         (3) Ensuring all students, particularly at-risk
+
+
+
+
+                                  24               and low-performing students, have equitable access
+                                  25               to high-quality curriculum, instruction, assessments,
+
+
+                                              •HR 521 IH
+
+                                                                                          47
+                                    1              technology, and digital learning by effectively imple-
+                                    2              menting technology tools consistent with principals
+                                    3              of universal design for learning, such as—
+                                    4                                 (A) using tools or programs to teach stu-
+                                    5                        dents higher order thinking skills;
+                                    6                                 (B) improving the education of students
+                                    7                        with disabilities through assessment accom-
+                                    8                        modations, including assistive technology;
+                                    9                                 (C) improving the education of English-
+                                  10                         language learners, including language pro-
+                                  11                         ficiency and academic content, through intuitive
+                                  12                         games and interfaces, web-based interventions,
+                                  13                         or technology-based assessments and assess-
+                                  14                         ment accommodations;
+                                  15                                  (D) technology-based tools or digital learn-
+                                  16                         ing opportunities that enhance high-quality
+                                  17                         early learning or early childhood education pro-
+                                  18                         grams;
+                                  19                                  (E) expanding learning opportunities, par-
+                                  20                         ticularly for students who are low-performing or
+                                  21                         live in rural areas, that increase access to high-
+                                  22                         quality curriculum and instruction, advanced
+                                  23                         placement               or        international                 baccalaureate
+
+
+
+
+                                  24                         courses, science, technology, engineering, and
+                                              •HR 521 IH
+
+                                                                                         48
+                                    1                        mathematics education, or enrichment activi-
+                                    2                        ties; and
+                                    3                                 (F) enhancing the quality, depth, or ad-
+                                    4                        ministration of student assessments, including
+                                    5                        summative, formative, and classroom-based as-
+                                    6                        sessments.
+                                    7                        (4) Improving the efficiency and productivity of
+                                    8              education, such as—
+                                    9                                 (A) extending the reach of high-quality
+                                  10                         materials, tools, curriculum, instruction, or
+                                  11                         teachers through such means as open edu-
+                                  12                         cational resources or blended learning;
+                                  13                                  (B) making student learning or school im-
+                                  14                         provement more effective and cost-efficient
+                                  15                         through online or digital platforms; and
+                                  16                                  (C) use of laptops, personal devices, or
+                                  17                         technology-infused instruction to reduce cost
+                                  18                         and improve delivery of instruction.
+                                  19               (b) LIMITATIONS                   ON      USES        OF    FUNDS.—An eligible
+                                  20 partnership may not use the total amount of a grant re-
+                                  21 ceived under this title for a fiscal year—
+                                  22                         (1) on materials, hardware, or technology-based
+                                  23               tools; or
+
+
+
+
+
+                                  24                         (2) to implement online learning to the exclu-
+                                  25               sion of other activities.
+
+
+                                              •HR 521 IH
+
+                                    1     SEC. 205. DATA COLLECTION AND REPORTING.       49
+                                    2              (a) REPORTING.—Each eligible partnership receiving
+                                    3 a grant under this title shall collect and report to the Sec-
+                                    4 retary, on at least an annual basis, such information on
+                                    5 the progress, outcomes, and best practices learned from
+                                    6 activities under the grant as the Secretary may require,
+                                    7 which—
+                                    8                        (1) shall include information on the impact of
+                                    9              the grant on student outcomes, such as—
+                                  10                                  (A) the number of and demographic infor-
+                                  11                         mation about students who are served by the el-
+                                  12                         igible partnership under this title;
+                                  13                                  (B) student achievement, student growth,
+                                  14                         and graduation rates of such students;
+                                  15                                  (C) college-and-career readiness data about
+                                  16                         students of such students, such as rates of
+                                  17                         credit accumulation, course taking and comple-
+                                  18                         tion, and college enrollment and persistence;
+                                  19                                  (D) student attendance and participation
+                                  20                         rates; and
+                                  21                                  (E) such other information the Secretary
+                                  22                         may require or other information the eligible
+                                  23                         partnership proposes to include and approved
+                                  24                         by the Secretary; and
+
+
+
+
+
+                                  25                         (2) may include data on—
+                                  26                                  (A) student engagement and discipline;
+                                              •HR 521 IH
+
+                                                                                         50
+                                    1                                 (B) school climate and teacher working
+                                    2                        conditions; and
+                                    3                                 (C) increases in inclusion of students with
+                                    4                        disabilities and English-language learners.
+                                    5              (b) DISAGGREGATION.—Each eligible partnership re-
+                                    6 ceiving a grant under this title shall disaggregate the in-
+                                    7 formation required under subsection (a) in the same man-
+                                    8 ner as information is disaggregated under section
+                                    9 1111(h)(1)(C)(i) of the Elementary and Secondary Edu-
+                                  10 cation Act of 1965 (20 U.S.C. 6311(h)(1)(C)(i)).
+                                  11      SEC. 206. PERFORMANCE MEASUREMENT AND EVALUA-
+                                  12                              TION AND DISSEMINATION.
+                                  13               (a) PERFORMANCE MEASURES.—Prior to the review-
+                                  14 ing and awarding of grants under this title, the Secretary
+                                  15 shall establish performance measures used to evaluate the
+                                  16 progress and performance of each eligible partnership
+                                  17 that—
+                                  18                         (1) shall include, at a minimum, information on
+                                  19               the impact of the grants on student outcomes as re-
+                                  20               ported under section 205(a); and
+                                  21                         (2) may include such other information as the
+                                  22               Secretary may reasonably require.
+                                  23               (b)        EVALUATION                     AND         DISSEMINATION.—From
+
+
+
+
+                                  24 amounts reserved under section 202(b), the Secretary
+                                  25 shall—
+
+
+                                              •HR 521 IH
+
+                                                                                         51
+                                    1                        (1) conduct or enter into a contract with an
+                                    2              outside evaluator to conduct—
+                                    3                                 (A) a comprehensive evaluation after the
+                                    4                        third year that the grant program is carried
+                                    5                        under this title on the effectiveness of all grants
+                                    6                        awarded under this title; and
+                                    7                                 (B) a final evaluation following the final
+                                    8                        year of the grant program under this title—
+                                    9                                        (i) that focuses on the improvement in
+                                  10                                  student outcomes reported under para-
+                                  11                                  graphs (1) through (3) of section 205(a);
+                                  12                                         (ii) that compares the relative effec-
+                                  13                                  tiveness of different types of programs car-
+                                  14                                  ried under this title and compares the rel-
+                                  15                                  ative effectiveness of variations in imple-
+                                  16                                  mentation within such programs; and
+                                  17                                         (iii) identifies the conditions and prac-
+                                  18                                  tices needed for the effective use of tech-
+                                  19                                  nology and digital learning, including
+                                  20                                  issues related to teacher professional devel-
+                                  21                                  opment, educational leadership, classroom
+                                  22                                  and school practices and implementation
+                                  23                                  and support;
+
+
+
+
+
+                                  24                         (2) disseminate and provide technical assistance
+                                  25               to local educational agencies and State educational
+
+
+                                              •HR 521 IH
+
+                                                                                         52
+                                    1              agencies on best practices in utilizing technology and
+                                    2              digital learning to improve student achievement, aca-
+                                    3              demic growth, and college-and-career readiness; and
+                                    4                        (3) ensure that the Department of Education
+                                    5              applies the best practices described in paragraph (2)
+                                    6              in carrying out other innovation funds.
+                                    7     SEC. 207. AUTHORIZATION OF APPROPRIATIONS.
+                                    8              There are authorized to be appropriated to carry out
+                                    9 this title $250,000,000 for fiscal year 2014 and such sums
+                                  10 as may be necessary for each of the 4 succeeding fiscal
+                                  11 years.
+                                              •HR 521 IH                                   Æ

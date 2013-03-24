@@ -1,0 +1,47 @@
+<bill session="113" type="s" number="631" updated="2013-03-21T18:46:07-04:00">
+  <state datetime="2013-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-03-20"/>
+  <titles>
+    <title as="introduced" type="short">Healthy Families Act</title>
+    <title as="introduced" type="official">A bill to allow Americans to earn paid sick time so that they can address their own health needs and the health needs of their families.</title>
+  </titles>
+  <sponsor id="300051"/>
+  <cosponsors>
+    <cosponsor id="412490" joined="2013-03-20"/>
+    <cosponsor id="400050" joined="2013-03-20"/>
+    <cosponsor id="412246" joined="2013-03-20"/>
+    <cosponsor id="412586" joined="2013-03-20"/>
+    <cosponsor id="300038" joined="2013-03-20"/>
+    <cosponsor id="412378" joined="2013-03-20"/>
+    <cosponsor id="412223" joined="2013-03-20"/>
+    <cosponsor id="412200" joined="2013-03-20"/>
+    <cosponsor id="300064" joined="2013-03-20"/>
+    <cosponsor id="300066" joined="2013-03-20"/>
+    <cosponsor id="412325" joined="2013-03-20"/>
+    <cosponsor id="300073" joined="2013-03-20"/>
+    <cosponsor id="412194" joined="2013-03-20"/>
+    <cosponsor id="300076" joined="2013-03-20"/>
+    <cosponsor id="300087" joined="2013-03-20"/>
+    <cosponsor id="412542" joined="2013-03-20"/>
+    <cosponsor id="412247" joined="2013-03-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-20">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2029-2030"/>
+    </action>
+    <action state="REFERRED" datetime="2013-03-20">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S2030-2035" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

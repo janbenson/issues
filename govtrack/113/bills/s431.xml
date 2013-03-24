@@ -1,0 +1,30 @@
+<bill session="113" type="s" number="431" updated="2013-03-07T12:45:29-05:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title as="introduced" type="short">Nepal Trade Preferences Act</title>
+    <title as="introduced" type="official">A bill to authorize preferential treatment for certain imports from Nepal, and for other purposes.</title>
+  </titles>
+  <sponsor id="300043"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-02-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1029"/>
+    </action>
+    <action state="REFERRED" datetime="2013-02-28">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="432"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

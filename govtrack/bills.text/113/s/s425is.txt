@@ -1,0 +1,646 @@
+                                                                                                                                   II
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                            S. 425
+                                  To amend title XI of the Social Security Act to improve the quality, health
+                                      outcomes, and value of maternity care under the Medicaid and CHIP
+                                      programs by developing maternity care quality measures and supporting
+                                      maternity care quality collaboratives.
+
+
+
+
+                                              IN THE SENATE OF THE UNITED STATES
+                                                             FEBRUARY 28, 2013
+                                  Ms. STABENOW (for herself, Mr. GRASSLEY, Ms. CANTWELL, and Mr.
+                                      MENENDEZ) introduced the following bill; which was read twice and re-
+                                      ferred to the Committee on Finance
+
+
+
+
+                                                                            A BILL
+                                  To amend title XI of the Social Security Act to improve
+                                     the quality, health outcomes, and value of maternity
+                                     care under the Medicaid and CHIP programs by devel-
+                                     oping maternity care quality measures and supporting
+                                     maternity care quality collaboratives.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+                                    4              (a) SHORT TITLE.—This Act may be cited as the
+                                    5 ‘‘Quality Care for Moms and Babies Act’’.
+
+
+
+
+
+                                    6              (b) TABLE            OF    CONTENTS.—The table of contents of
+                                    7 this Act is as follows:
+
+                                                                                             2
+                                          Sec. 1. Short title; table of contents.
+                                          Sec. 2. Quality measures for maternity care under Medicaid and CHIP.
+                                          Sec. 3. Quality collaboratives.
+                                    1     SEC. 2. QUALITY MEASURES FOR MATERNITY CARE UNDER
+                                    2                             MEDICAID AND CHIP.
+
+                                    3              (a) IN GENERAL.—Section 1139A of the Social Secu-
+                                    4 rity Act (42 U.S.C. 1320b–9a) is amended by adding at
+                                    5 the end the following new subsection:
+                                    6              ‘‘(j) MOTHER                   AND    INFANT CARE (MIC) QUALITY
+                                    7 MEASURES.—
+                                    8                        ‘‘(1) IN        GENERAL.—As                     part of the pediatric
+                                    9              quality measures program established under sub-
+                                  10               section (b) and the Medicaid Quality Measurement
+                                  11               Program established under section 1139B(b)(5)(A),
+                                  12               the Secretary shall—
+                                  13                                  ‘‘(A) review quality measures endorsed
+                                  14                         under section 1890(b)(2) that relate to the care
+                                  15                         of childbearing women and newborns, particu-
+                                  16                         larly with respect to the application of such
+                                  17                         measures to the Medicaid and CHIP programs
+                                  18                         under titles XIX and XXI, and identify omis-
+                                  19                         sions and deficiencies in the application of those
+                                  20                         measures to such programs;
+                                  21                                  ‘‘(B) develop and publish a set of mater-
+                                  22                         nity care quality measures for the Medicaid and
+
+
+
+
+                                  23                         CHIP programs under titles XIX and XXI (in
+                                  24                         this subsection referred to as the ‘Mother and
+                                              •S 425 IS
+
+                                                                                             3
+                                    1                        Infant Care (MIC) quality measures’) in ac-
+                                    2                        cordance with the requirements of paragraphs
+                                    3                        (2) and (3); and
+                                    4                                 ‘‘(C) on an ongoing basis, review the MIC
+                                    5                        quality measures and develop and publish any
+                                    6                        modifications of, or additions or deletions to,
+                                    7                        such measures that reflect the development,
+                                    8                        testing, validation, and consensus process de-
+                                    9                        scribed in paragraph (4).
+                                  10                         ‘‘(2) PROCESS             FOR INITIAL REVIEW AND PUBLI-
+                                  11               CATION.—
+                                  12                                  ‘‘(A) CONSULTATION                         AND PUBLIC COM-
+                                  13                         MENT.—Not               later than January 1, 2016, the
+                                  14                         Secretary shall—
+                                  15                                         ‘‘(i) solicit public comment on the pro-
+                                  16                                  posed MIC quality measures; and
+                                  17                                         ‘‘(ii) consult with the stakeholders
+                                  18                                  identified in paragraph (6)(A) regarding
+                                  19                                  such measures.
+                                  20                                  ‘‘(B) PUBLICATION                       OF INITIAL SET OF
+                                  21                         MEASURES.—Not                       later than January 1, 2017,
+                                  22                         the Secretary shall identify and publish the ini-
+                                  23                         tial MIC quality measures.
+                                  24          •S 425 IS    ‘‘(3) REQUIREMENTS.—      4
+                                    1                                 ‘‘(A) IN               GENERAL.—The                    MIC quality
+                                    2                        measures shall—
+                                    3                                        ‘‘(i) be evidence-based;
+                                    4                                        ‘‘(ii) utilize risk adjustment or risk
+                                    5                                 stratification methodologies, if appropriate;
+                                    6                                        ‘‘(iii) utilize attribution methods to
+                                    7                                 specify the clinicians, facilities, and other
+                                    8                                 entities that the measures are applicable
+                                  109                                 to;    ‘‘(iv) be pilot-tested with regards to
+                                  11                                  scientific validity, feasibility, and attribu-
+                                  12                                  tion method; and
+                                  13                                         ‘‘(v) include a balance of each of the
+                                  14                                  types of measures listed in subparagraph
+                                  15                                  (B).
+                                  16                                  ‘‘(B) LIST             OF TYPES OF MEASURES.—The
+                                  17                         measures listed in this subparagraph are the
+                                  18                         following:
+                                  19                                         ‘‘(i) Measures of the process, experi-
+                                  20                                  ence, efficiency, and outcomes of maternity
+                                  21                                  care, including postpartum outcomes.
+                                  22                                         ‘‘(ii) Measures that apply to—
+                                  23                                                   ‘‘(I) women and newborns who
+                                  24                                         are healthy and at low risk, including
+
+
+
+
+                                  25                                         measures of appropriately low-inter-
+                                              •S 425 IS
+
+                                                                                             5
+                                    1                                        vention, physiologic birth in low-risk
+                                    2                                        women; and
+                                    3                                                  ‘‘(II) women and newborns at
+                                    4                                        higher risk.
+                                    5                                        ‘‘(iii) Measures that apply to—
+                                    6                                                  ‘‘(I) childbearing women; and
+                                    7                                                  ‘‘(II) newborns.
+                                    8                                        ‘‘(iv) Measures that apply to care dur-
+                                  109                                 ing—           ‘‘(I) pregnancy;
+                                  11                                                   ‘‘(II) the intrapartum period; and
+                                  12                                                   ‘‘(III) the postpartum period.
+                                  13                                         ‘‘(v) Measures that apply to—
+                                  14                                                   ‘‘(I)       clinicians               and    clinician
+                                  15                                         groups;
+                                  16                                                   ‘‘(II) facilities;
+                                  17                                                   ‘‘(III) health plans; and
+                                  18                                                   ‘‘(IV) accountable care organiza-
+                                  19                                         tions.
+                                  20                                         ‘‘(vi) Measurement of—
+                                  21                                                   ‘‘(I) disparities;
+                                  22                                                   ‘‘(II) care coordination; and
+                                  23                                                   ‘‘(III) shared decisionmaking.
+                                  24                                  ‘‘(C) PHYSIOLOGIC                      DEFINED.—For              pur-
+
+
+
+
+                                  25                         poses of this paragraph, the term ‘physiologic’
+                                              •S 425 IS
+
+                                                                                             6
+                                    1                        means characteristic of or conforming to the
+                                    2                        normal functioning or state of the body or a tis-
+                                    3                        sue or organ, normal, and not pathologic.
+                                    4                                 ‘‘(D) CONSTRUCTION.—Nothing in this
+                                    5                        paragraph shall be construed as supporting the
+                                    6                        restriction of coverage, under title XIX or XXI
+                                    7                        or otherwise, to only those services that are evi-
+                                    8                        dence-based, or in any way limiting available
+                                    9                        services.
+                                  10                         ‘‘(4) ONGOING              REVIEW OF THE MIC MEASURES;
+                                  11               eMEASURES.—
+                                  12                                  ‘‘(A) CONTRACTS                    WITH QUALIFIED ENTI-
+                                  13                         TIES.—Not             later than June 30, 2017, the Sec-
+                                  14                         retary,         acting              through           the        Agency    for
+                                  15                         Healthcare Research and Quality, in consulta-
+                                  16                         tion with the Centers for Medicare & Medicaid
+                                  17                         Services, shall enter into grants, contracts, or
+                                  18                         intergovernmental agreements with qualified
+                                  19                         measure development entities for the purpose of
+                                  20                         identifying quality of care issues that are not
+                                  21                         adequately addressed by the MIC quality meas-
+                                  22                         ures and developing, testing, and validating
+                                  23                         modifications of, or additions or deletions to,
+                                  24                         the       MIC         quality          measures,               and    creating
+
+
+
+
+
+                                              •S 425 IS
+
+                                                                                             7
+                                    1                        eMeasures for data collection related to the
+                                    2                        MIC quality measures.
+                                    3                                 ‘‘(B) QUALIFIED                    MEASURE DEVELOPMENT
+                                    4                        ENTITY DEFINED.—For                           purposes of this para-
+                                    5                        graph, the term ‘qualified measure development
+                                    6                        entity’ means an entity that—
+                                    7                                        ‘‘(i) has demonstrated expertise and
+                                    8                                 capacity in the development and testing of
+                                    9                                 quality measures;
+                                  10                                         ‘‘(ii) has adopted procedures for qual-
+                                  11                                  ity measure development that ensure the
+                                  12                                  inclusion of—
+                                  13                                                   ‘‘(I) the views of the individuals
+                                  14                                         and entities referred to in paragraph
+                                  15                                         (3)(B)(v) and whose performance will
+                                  16                                         be assessed by the measures; and
+                                  17                                                   ‘‘(II) the views of other individ-
+                                  18                                         uals and entities (including patients,
+                                  19                                         consumers, and health care pur-
+                                  20                                         chasers) who will use the data gen-
+                                  21                                         erated as a result of the use of the
+                                  22                                         quality measures;
+                                  23                                         ‘‘(iii) for the purpose of ensuring that
+                                  24                                  the MIC quality measures meet the re-
+
+
+
+
+                                  25                                  quirements to be considered for endorse-
+                                              •S 425 IS
+
+                                                                                             8
+                                    1                                 ment under section 1890(b)(2), has pro-
+                                    2                                 vided assurances to the Secretary that the
+                                    3                                 measure development entity will collaborate
+                                    4                                 with—
+                                    5                                                  ‘‘(I) the Secretary;
+                                    6                                                  ‘‘(II) the consensus-based entity
+                                    7                                        with            a     contract                 under      section
+                                    8                                        1890(a)(1); and
+                                    9                                                  ‘‘(III)           stakeholders               (including
+                                  10                                         those stakeholders identified in para-
+                                  11                                         graph (6)(A)), as practicable;
+                                  12                                         ‘‘(iv) has transparent policies regard-
+                                  13                                  ing governance and conflicts of interest;
+                                  14                                  and
+                                  15                                         ‘‘(v) submits an application to the
+                                  16                                  Secretary at such time, and in such form
+                                  17                                  and manner, as the Secretary may require.
+                                  18                                  ‘‘(C) eMEASURES.—
+                                  19                                         ‘‘(i) IN        GENERAL.—A                     qualified meas-
+                                  20                                  ure development entity with a grant, con-
+                                  21                                  tract,        or       intergovernmental                     agreement
+                                  22                                  under subparagraph (A) shall consult with
+                                  23                                  the voluntary consensus standards setting
+                                  24                                  organizations and other organizations in-
+
+
+
+
+                                  25                                  volved in the advancement of evidence-
+                                              •S 425 IS
+
+                                                                                             9
+                                    1                                 based measures of health care that the
+                                    2                                 Secretary consults with under subsection
+                                    3                                 (b)(3)(H) and section 1139B(b)(5)(A) to
+                                    4                                 create, as part of the MIC quality meas-
+                                    5                                 ures, eMeasures that are aligned with the
+                                    6                                 measures developed under the pediatric
+                                    7                                 quality         measures               program               established
+                                    8                                 under subsection (b) and the Medicaid
+                                    9                                 Quality Measurement Program established
+                                  10                                  under section 1139B(b)(5)(A).
+                                  11                                         ‘‘(ii) eMEASURE                   DEFINED.—For              pur-
+                                  12                                  poses of this subparagraph, the term
+                                  13                                  ‘eMeasure’ means a measure for which
+                                  14                                  measurement data (including clinical data)
+                                  15                                  will be collected electronically, including
+                                  16                                  through the use of electronic health
+                                  17                                  records and other electronic data sources.
+                                  18                                  ‘‘(D) ENDORSEMENT.—Any modifications
+                                  19                         of, or additions or deletions to, the MIC quality
+                                  20                         measures shall be submitted by the qualified
+                                  21                         measure development entity to the consensus-
+                                  22                         based entity with a contract under section
+                                  23                         1890(a)(1) to be considered for endorsement
+                                  24                         under section 1890(b)(2).
+
+
+
+
+
+                                              •S 425 IS
+
+                                    1                        ‘‘(5) MATERNITY         10        CONSUMER ASSESSMENT OF
+                                    2              HEALTH              CARE         PROVIDERS                AND            SYSTEMS    SUR-
+                                    3              VEYS.—
+                                    4                                 ‘‘(A) ADAPTION                     OF SURVEYS.—Not               later
+                                    5                        than January 1, 2018, for the purpose of meas-
+                                    6                        uring the care experiences of childbearing
+                                    7                        women            and            newborns,             the        Agency    for
+                                    8                        Healthcare Research and Quality shall adapt
+                                    9                        the Consumer Assessment of Healthcare Pro-
+                                  10                         viders and Systems program surveys of—
+                                  11                                         ‘‘(i) providers;
+                                  12                                         ‘‘(ii) facilities; and
+                                  13                                         ‘‘(iii) health plans.
+                                  14                                  ‘‘(B) SURVEYS               MUST BE EFFECTIVE.—The
+                                  15                         Agency for Healthcare Research and Quality
+                                  16                         shall ensure that the surveys adapted under
+                                  17                         subparagraph (A) are effective in measuring as-
+                                  18                         pects of care that childbearing women and
+                                  19                         newborns experience, which may include—
+                                  20                                         ‘‘(i) various types of care settings;
+                                  21                                         ‘‘(ii) various types of caregivers;
+                                  22                                         ‘‘(iii) considerations relating to pain;
+                                  23                                         ‘‘(iv) shared decisionmaking;
+                                  24                                         ‘‘(v) supportive care around the time
+
+
+
+
+                                  25                                  of birth; and
+                                              •S 425 IS
+
+                                                                                         11
+                                    1                                         ‘‘(vi) other topics relevant to the qual-
+                                    2                                 ity of the experience of childbearing women
+                                    3                                 and newborns.
+                                    4                                 ‘‘(C) LANGUAGES.—The surveys adapted
+                                    5                        under subparagraph (A) shall be available in
+                                    6                        English and Spanish.
+                                    7                                 ‘‘(D) ENDORSEMENT.—The Agency for
+                                    8                        Healthcare Research and Quality shall submit
+                                    9                        any Consumer Assessment of Healthcare Pro-
+                                  10                         viders and Systems surveys adapted under this
+                                  11                         paragraph to the consensus-based entity with a
+                                  12                         contract under section 1890(a)(1) to be consid-
+                                  13                         ered for endorsement under section 1890(b)(2).
+                                  14                                  ‘‘(E) CONSULTATION.—The adaption of
+                                  15                         (and process for applying) the surveys under
+                                  16                         subparagraph (A) shall be conducted in con-
+                                  17                         sultation with the stakeholders identified in
+                                  18                         paragraph (6)(A).
+                                  19                         ‘‘(6) STAKEHOLDERS.—
+                                  20                                  ‘‘(A)       IN         GENERAL.—The                      stakeholders
+                                  21                         identified in this subparagraph are—
+                                  22                                          ‘‘(i) the various clinical disciplines and
+                                  23                                  specialties involved in providing maternity
+                                  24                                  care;
+
+
+
+
+
+                                  25                                          ‘‘(ii) State Medicaid administrators;
+
+
+                                              •S 425 IS
+
+                                                                                         12
+                                    1                                        ‘‘(iii) maternity care consumers and
+                                    2                                 their advocates;
+                                    3                                        ‘‘(iv) technical experts in quality
+                                    4                                 measurement;
+                                    5                                        ‘‘(v) hospital, facility and health sys-
+                                    6                                 tem leaders;
+                                    7                                        ‘‘(vi) employers and purchasers; and
+                                    8                                        ‘‘(vii) other individuals who are in-
+                                    9                                 volved in the advancement of evidence-
+                                  10                                  based maternity care quality measures.
+                                  11                                  ‘‘(B) PROFESSIONAL                           ORGANIZATIONS.—
+                                  12                         The stakeholders identified under subparagraph
+                                  13                         (A) may include representatives from relevant
+                                  14                         national medical specialty and professional or-
+                                  15                         ganizations and specialty societies.
+                                  16                         ‘‘(7) AUTHORIZATION                         OF APPROPRIATIONS.—
+                                  17               There              are         authorized              to        be        appropriated
+                                  18               $16,000,000 to carry out this subsection. Funds ap-
+                                  19               propriated under this paragraph shall remain avail-
+                                  20               able until expended.’’.
+                                  21               (b) CONFORMING AMENDMENTS.—
+                                  22                         (1) Section 1139A of the Social Security Act
+                                  23               (42 U.S.C. 1320b–9a) is amended—
+                                  24                                  (A) in subsection (a)(6), in the matter pre-
+
+
+
+
+                                  25                         ceding subparagraph (A), by inserting ‘‘and the
+                                              •S 425 IS
+
+                                                                                         13
+                                    1                        Medicaid and CHIP Payment and Access Com-
+                                    2                        mission’’ after ‘‘Congress’’; and
+                                    3                                 (B) in subsection (i), by striking ‘‘sub-
+                                    4                        section (e)’’ and inserting ‘‘subsections (e) and
+                                    5                        (j)’’.
+                                    6                        (2) Section 1139B(b)(4) of such Act (42 U.S.C.
+                                    7              1320b–9b(b)(4)) is amended by inserting ‘‘and the
+                                    8              Medicaid and CHIP Payment and Access Commis-
+                                    9              sion’’ after ‘‘Congress’’.
+                                  10      SEC. 3. QUALITY COLLABORATIVES.
+
+                                  11               (a) GRANTS.—The Secretary of Health and Human
+                                  12 Services (in this section referred to as the ‘‘Secretary’’)
+                                  13 may make grants to eligible entities to support—
+                                  14                         (1) the development of new State and regional
+                                  15               maternity care quality collaboratives;
+                                  16                         (2) expanded activities of existing maternity
+                                  17               care quality collaboratives; and
+                                  18                         (3) maternity care initiatives within established
+                                  19               State and regional quality collaboratives that are not
+                                  20               focused exclusively on maternity care.
+                                  21               (b) ELIGIBLE ENTITY.—The following entities shall
+                                  22 be eligible for a grant under subsection (a):
+                                  23                         (1) Quality collaboratives that focus entirely, or
+                                  24               in part, on maternity care initiatives, to the extent
+
+
+
+
+
+                                              •S 425 IS
+
+                                                                                         14
+                                    1              that such collaboratives use such grant only for such
+                                    2              initiatives.
+                                    3                        (2) Entities seeking to establish a maternity
+                                    4              care quality collaborative.
+                                    5                        (3) State Medicaid agencies.
+                                    6                        (4) State departments of health.
+                                    7                        (5) Health insurance issuers (as such term is
+                                    8              defined in section 2791 of the Public Health Service
+                                    9              Act (42 U.S.C. 300gg–91)).
+                                  10                         (6) Provider organizations, including associa-
+                                  11               tions representing—
+                                  12                                  (A) health professionals; and
+                                  13                                  (B) hospitals.
+                                  14               (c) ELIGIBLE PROJECTS                          AND        PROGRAMS.—In order
+                                  15 for a project or program of an eligible entity to be eligible
+                                  16 for funding under subsection (a), the project or program
+                                  17 must have goals that are designed to improve the quality
+                                  18 of maternity care delivered, such as—
+                                  19                         (1) improving the appropriate use of cesarean
+                                  20               section;
+                                  21                         (2) reducing maternal and newborn morbidity
+                                  22               rates;
+                                  23                         (3) improving breast-feeding rates;
+                                  24                         (4) reducing hospital readmission rates;
+
+
+
+
+
+                                              •S 425 IS
+
+                                                                                         15
+                                    1                        (5) identifying improvement priorities through
+                                    2              shared peer review and third-party reviews of quali-
+                                    3              tative and quantitative data, and developing and car-
+                                    4              rying out projects or programs to address such pri-
+                                    5              orities; or
+                                    6                        (6) delivering risk-appropriate levels of care.
+                                    7              (d) ACTIVITIES.—Activities that may be supported by
+                                    8 the funding under subsection (a) include the following:
+                                    9                        (1) Facilitating performance data collection and
+                                  10               feedback reports to providers with respect to their
+                                  11               performance, relative to peers and benchmarks, if
+                                  12               any.
+                                  13                         (2) Developing, implementing, and evaluating
+                                  14               protocols and checklists to foster safe, evidence-
+                                  15               based practice.
+                                  16                         (3) Developing, implementing, and evaluating
+                                  17               programs that translate into practice clinical rec-
+                                  18               ommendations supported by high-quality evidence in
+                                  19               national guidelines, systematic reviews, or other well-
+                                  20               conducted clinical studies.
+                                  21                         (4) Developing underlying infrastructure needed
+                                  22               to support quality collaborative activities under this
+                                  23               subsection.
+                                  24                         (5) Providing technical assistance to providers
+
+
+
+
+                                  25               and institutions to build quality improvement capac-
+                                              •S 425 IS
+
+                                                                                         16
+                                    1              ity and facilitate participation in collaborative activi-
+                                    2              ties.
+                                    3                        (6) Developing the capability to access the fol-
+                                    4              lowing data sources:
+                                    5                                 (A) A mother’s prenatal, intrapartum, and
+                                    6                        postpartum records.
+                                    7                                 (B) A mother’s medical records.
+                                    8                                 (C) An infant’s medical records since birth.
+                                    9                                 (D) Birth and death certificates.
+                                  10                                  (E) Any other relevant State-level gen-
+                                  11                         erated data (such as data from the pregnancy
+                                  12                         risk          assessment                    management                system
+                                  13                         (PRAMS)).
+                                  14                         (7) Developing access to blinded liability claims
+                                  15               data, analyzing the data, and using the results of
+                                  16               such analysis to improve practice.
+                                  17               (e) SPECIAL RULE FOR BIRTHS.—
+                                  18                         (1) IN       GENERAL.—Subject                      to paragraph (2), if
+                                  19               a grant under subsection (a) is for a project or pro-
+                                  20               gram that focuses on births, at least 25 percent of
+                                  21               the births addressed by such project or program
+                                  22               must occur in health facilities that perform fewer
+                                  23               than 1,000 births per year.
+                                  24                         (2) EXCEPTION.—In the case of a grant under
+
+
+
+
+                                  25               subsection (a) for a project or program located in a
+                                              •S 425 IS
+
+                                                                                         17
+                                    1              State in which less than 25 percent of the health fa-
+                                    2              cilities in the State perform less than 1,000 births
+                                    3              per year, the percentage of births in such facilities
+                                    4              addressed by such project or program shall be com-
+                                    5              mensurate with the Statewide percentage of births
+                                    6              performed at such facilities.
+                                    7              (f) USE        OF     QUALITY MEASURES.—Projects and pro-
+                                    8 grams for which such a grant is made shall—
+                                    9                        (1) include data collection with rapid analysis
+                                  10               and feedback to participants with a focus on improv-
+                                  11               ing practice and health outcomes;
+                                  12                         (2) develop a plan to identify and resolve data
+                                  13               collection problems;
+                                  14                         (3) identify and document evidence-based strat-
+                                  15               egies that will be used to improve performance on
+                                  16               quality measures and other metrics; and
+                                  17                         (4) exclude from quality measure collection and
+                                  18               reporting physicians and midwives who attend fewer
+                                  19               than 30 births per year.
+                                  20               (g) REPORTING                   ON    QUALITY MEASURES.—Any re-
+                                  21 porting requirements established by a project or program
+                                  22 funded under subsection (a) shall be designed to—
+                                  23                         (1) minimize costs and administrative effort;
+                                  24               and
+
+
+
+
+
+                                  25                         (2) use existing data resources when feasible.
+
+
+                                              •S 425 IS
+
+                                                                                         18
+                                    1              (h) CLEARINGHOUSE.—The Secretary shall establish
+                                    2 an online, open-access clearinghouse to make protocols,
+                                    3 procedures, reports, tools, and other resources of indi-
+                                    4 vidual collaboratives available to collaboratives and other
+                                    5 entities that are working to improve maternity care qual-
+                                    6 ity.
+                                    7              (i) EVALUATION.—A quality collaborative (or other
+                                    8 entity receiving a grant under subsection (a)) shall—
+                                    9                        (1) develop and carry out plans for evaluating
+                                  10               its maternity care quality improvement programs
+                                  11               and projects; and
+                                  12                         (2) publish its experiences and results in arti-
+                                  13               cles, technical reports, or other formats for the ben-
+                                  14               efit of others working on maternity care quality im-
+                                  15               provement activities.
+                                  16               (j) ANNUAL REPORTS                           TO       SECRETARY.—A quality
+                                  17 collaborative or other eligible entity that receives a grant
+                                  18 under subsection (a) shall submit an annual report to the
+                                  19 Secretary containing the following:
+                                  20                         (1) A description of the activities carried out
+                                  21               using the funding from such grant.
+                                  22                         (2) A description of any barriers that limited
+                                  23               the ability of the collaborative or entity to achieve its
+                                  24               goals.
+
+
+
+
+
+                                              •S 425 IS
+
+                                                                                         19
+                                    1                        (3) The achievements of the collaborative or en-
+                                    2              tity under the grant with respect to the quality,
+                                    3              health outcomes, and value of maternity care.
+                                    4                        (4) A list of lessons learned from the grant.
+                                    5 Such reports shall be made available to the public.
+                                    6              (k) GOVERNANCE.—
+                                    7                        (1) IN      GENERAL.—A                 maternity care quality col-
+                                    8              laborative or a maternity care program within a
+                                    9              broader quality collaborative that is supported under
+                                  10               subsection (a) shall be governed by a multi-stake-
+                                  11               holder executive committee.
+                                  12                         (2) COMPOSITION.—Such executive committee
+                                  13               shall include individuals who represent—
+                                  14                                  (A) physicians, including physicians in the
+                                  15                         fields of general obstetrics, maternal-fetal medi-
+                                  16                         cine, family medicine, neonatology, and pediat-
+                                  17                         rics;
+                                  18                                  (B) nurse-practitioners and nurses;
+                                  19                                  (C) certified nurse-midwives and certified
+                                  20                         midwives;
+                                  21                                  (D) health facilities and health systems;
+                                  22                                  (E) consumers;
+                                  23                                  (F) employers and other private pur-
+                                  24                         chasers;
+
+
+
+
+
+                                  25                                  (G) Medicaid programs; and
+
+
+                                              •S 425 IS
+
+                                                                                         20
+                                    1                                 (H) other public health agencies and orga-
+                                    2                        nizations, as appropriate.
+                                    3              Such committee also may include other individuals,
+                                    4              such as individuals with expertise in health quality
+                                    5              measurement and other types of expertise as rec-
+                                    6              ommended by the Secretary. Such committee also
+                                    7              may be composed of a combination of general col-
+                                    8              laborative executive committee members and mater-
+                                    9              nity specific project executive committee members.
+                                  10               (l) CONSULTATION.—A quality collaborative or other
+                                  11 eligible entity that receives a grant under subsection (a)
+                                  12 shall engage in regular ongoing consultation with—
+                                  13                         (1) regional and State public health agencies
+                                  14               and organizations;
+                                  15                         (2) public and private health insurers; and
+                                  16                         (3) regional and State organizations rep-
+                                  17               resenting physicians, midwives, and nurses who pro-
+                                  18               vide maternity services.
+                                  19               (m) AUTHORIZATION                             OF   APPROPRIATIONS.—There
+                                  20 are authorized to be appropriated $15,000,000 to carry
+                                  21 out this section. Funds appropriated under this subsection
+                                  22 shall remain available until expended.
+                                              •S 425 IS                                    Æ

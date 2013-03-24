@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="1243" updated="2013-03-21T15:46:23-04:00">
+  <state datetime="2013-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-18"/>
+  </status>
+  <introduced datetime="2013-03-18"/>
+  <titles>
+    <title as="introduced" type="official">To establish within the Department of Education the Innovation Inspiration school grant program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400352"/>
+  <cosponsors>
+    <cosponsor id="400230" joined="2013-03-18"/>
+    <cosponsor id="400274" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-18">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,823 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee183eb575d">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend the Immigration and Nationality Act to promote family unity, and for other purposes.;
+   		H.R. 717 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-03-19</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend the Immigration and Nationality Act to promote family unity, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 717 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-02-14</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>56 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee183eb575d</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113hr717ih</identifier>
+<identifier type="preferred citation">H.R. 717</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h717_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr717ih/html/BILLS-113hr717ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr717ih/pdf/BILLS-113hr717ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113hr717ih/xml/BILLS-113hr717ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-03-19</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2013-03-19</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113hr717ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mr. Honda</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Gutierrez</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ms. Pelosi</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Becerra</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Conyers</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ms. Lofgren</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Nadler</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ms. Lee of California</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Grijalva</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Ellison</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ms. Bordallo</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Israel</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ms. Clarke</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Rangel</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ms. Schakowsky</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ms. Wilson of Florida</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Holt</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Farr</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Al Green of Texas</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Rush</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Hastings of Florida</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Sires</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ms. Eddie Bernice Johnson of Texas</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Blumenauer</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Moran</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ms. Eshoo</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mrs. Napolitano</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. McGovern</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Faleomavaega</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mrs. Capps</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Capuano</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ms. Castor of Florida</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ms. Speier</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mrs. Carolyn B. Maloney of New York</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ms. Moore</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Welch</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Langevin</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ms. Tsongas</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mrs. Davis of California</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Markey</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Serrano</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on the Judiciary</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 8 Section 1101(a)</partNumber>
+  <partNumber>Title 8 Section 1101(a)(15)</partNumber>
+  <partNumber>Title 8 Section 1101(a)(15)(K)(iii)</partNumber>
+  <partNumber>Title 8 Section 1101(a)(51)(D)</partNumber>
+  <partNumber>Title 8 Section 1101(b)(1)</partNumber>
+  <partNumber>Title 8 Section 1101(b)(1)(B)</partNumber>
+  <partNumber>Title 8 Section 1101(c)</partNumber>
+  <partNumber>Title 8 Section 1101et seq.</partNumber>
+  <partNumber>Title 8 Section 1151(b)</partNumber>
+  <partNumber>Title 8 Section 1151(b)(1)</partNumber>
+  <partNumber>Title 8 Section 1151(b)(2)</partNumber>
+  <partNumber>Title 8 Section 1151(b)(2)(A)(i)</partNumber>
+  <partNumber>Title 8 Section 1151(c)</partNumber>
+  <partNumber>Title 8 Section 1151(d)</partNumber>
+  <partNumber>Title 8 Section 1151(f)</partNumber>
+  <partNumber>Title 8 Section 1152</partNumber>
+  <partNumber>Title 8 Section 1152(a)(2)</partNumber>
+  <partNumber>Title 8 Section 1152(a)(4)</partNumber>
+  <partNumber>Title 8 Section 1152(b)(2)</partNumber>
+  <partNumber>Title 8 Section 1153</partNumber>
+  <partNumber>Title 8 Section 1153(a)</partNumber>
+  <partNumber>Title 8 Section 1153(a)(2)</partNumber>
+  <partNumber>Title 8 Section 1153(a)(3)</partNumber>
+  <partNumber>Title 8 Section 1153(b)(5)(A)(ii)</partNumber>
+  <partNumber>Title 8 Section 1153(d)</partNumber>
+  <partNumber>Title 8 Section 1153(h)</partNumber>
+  <partNumber>Title 8 Section 1154</partNumber>
+  <partNumber>Title 8 Section 1154(a)(1)</partNumber>
+  <partNumber>Title 8 Section 1154(b)</partNumber>
+  <partNumber>Title 8 Section 1154(c)</partNumber>
+  <partNumber>Title 8 Section 1154(g)</partNumber>
+  <partNumber>Title 8 Section 1154(h)</partNumber>
+  <partNumber>Title 8 Section 1154(l)</partNumber>
+  <partNumber>Title 8 Section 1154(l)(1)</partNumber>
+  <partNumber>Title 8 Section 1155(d)</partNumber>
+  <partNumber>Title 8 Section 1157(c)</partNumber>
+  <partNumber>Title 8 Section 1158(b)(3)</partNumber>
+  <partNumber>Title 8 Section 1159(b)(3)</partNumber>
+  <partNumber>Title 8 Section 1182</partNumber>
+  <partNumber>Title 8 Section 1182(a)</partNumber>
+  <partNumber>Title 8 Section 1182(a)(6)(C)(ii)</partNumber>
+  <partNumber>Title 8 Section 1182(a)(6)(C)(iii)</partNumber>
+  <partNumber>Title 8 Section 1182(a)(9)</partNumber>
+  <partNumber>Title 8 Section 1182(d)</partNumber>
+  <partNumber>Title 8 Section 1182(d)(5)</partNumber>
+  <partNumber>Title 8 Section 1182(g)(1)(A)</partNumber>
+  <partNumber>Title 8 Section 1182(h)(1)(B)</partNumber>
+  <partNumber>Title 8 Section 1182(i)(1)</partNumber>
+  <partNumber>Title 8 Section 1184</partNumber>
+  <partNumber>Title 8 Section 1184(d)(1)</partNumber>
+  <partNumber>Title 8 Section 1186a</partNumber>
+  <partNumber>Title 8 Section 1186a(a)</partNumber>
+  <partNumber>Title 8 Section 1186a(b)</partNumber>
+  <partNumber>Title 8 Section 1186a(c)</partNumber>
+  <partNumber>Title 8 Section 1186a(d)(1)</partNumber>
+  <partNumber>Title 8 Section 1186a(g)</partNumber>
+  <partNumber>Title 8 Section 1186b</partNumber>
+  <partNumber>Title 8 Section 1186b(a)</partNumber>
+  <partNumber>Title 8 Section 1186b(b)(1)</partNumber>
+  <partNumber>Title 8 Section 1186b(c)</partNumber>
+  <partNumber>Title 8 Section 1186b(f)(2)</partNumber>
+  <partNumber>Title 8 Section 1227(a)</partNumber>
+  <partNumber>Title 8 Section 1227(a)(3)(D)</partNumber>
+  <partNumber>Title 8 Section 1229a</partNumber>
+  <partNumber>Title 8 Section 1229anote</partNumber>
+  <partNumber>Title 8 Section 1229b(b)</partNumber>
+  <partNumber>Title 8 Section 1255(d)</partNumber>
+  <partNumber>Title 8 Section 1255(e)</partNumber>
+  <partNumber>Title 8 Section 1255(i)(1)</partNumber>
+  <partNumber>Title 8 Section 1255(j)</partNumber>
+  <partNumber>Title 8 Section 1255note</partNumber>
+  <partNumber>Title 8 Section 1325(c)</partNumber>
+  <partNumber>Title 8 Section 1427(b)</partNumber>
+  <partNumber>Title 8 Section 1430</partNumber>
+  <partNumber>Title 8 Section 1430(a)</partNumber>
+  <partNumber>Title 8 Section 1440note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">8 U.S.C. 1101(a)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1101(a)(15)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1101(a)(15)(K)(iii)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1101(a)(51)(D)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1101(b)(1)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1101(b)(1)(B)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1101(c)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1101et seq.</identifier>
+ <identifier type="USC citation">8 U.S.C. 1151(b)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1151(b)(1)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1151(b)(2)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1151(b)(2)(A)(i)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1151(c)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1151(d)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1151(f)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1152</identifier>
+ <identifier type="USC citation">8 U.S.C. 1152(a)(2)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1152(a)(4)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1152(b)(2)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1153</identifier>
+ <identifier type="USC citation">8 U.S.C. 1153(a)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1153(a)(2)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1153(a)(3)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1153(b)(5)(A)(ii)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1153(d)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1153(h)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1154</identifier>
+ <identifier type="USC citation">8 U.S.C. 1154(a)(1)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1154(b)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1154(c)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1154(g)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1154(h)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1154(l)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1154(l)(1)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1155(d)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1157(c)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1158(b)(3)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1159(b)(3)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1182</identifier>
+ <identifier type="USC citation">8 U.S.C. 1182(a)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1182(a)(6)(C)(ii)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1182(a)(6)(C)(iii)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1182(a)(9)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1182(d)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1182(d)(5)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1182(g)(1)(A)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1182(h)(1)(B)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1182(i)(1)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1184</identifier>
+ <identifier type="USC citation">8 U.S.C. 1184(d)(1)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1186a</identifier>
+ <identifier type="USC citation">8 U.S.C. 1186a(a)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1186a(b)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1186a(c)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1186a(d)(1)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1186a(g)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1186b</identifier>
+ <identifier type="USC citation">8 U.S.C. 1186b(a)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1186b(b)(1)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1186b(c)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1186b(f)(2)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1227(a)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1227(a)(3)(D)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1229a</identifier>
+ <identifier type="USC citation">8 U.S.C. 1229anote</identifier>
+ <identifier type="USC citation">8 U.S.C. 1229b(b)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1255(d)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1255(e)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1255(i)(1)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1255(j)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1255note</identifier>
+ <identifier type="USC citation">8 U.S.C. 1325(c)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1427(b)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1430</identifier>
+ <identifier type="USC citation">8 U.S.C. 1430(a)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1440note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 89-732</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 89-732</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 99-639</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 99-639</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 106-386</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 106-386</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 106-554</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 106-554</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-113hr717ih</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>717</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <action date="2013-02-14">Mr. Honda (for himself, Mr. Gutierrez, Ms. Pelosi, Mr. Becerra, Mr. Conyers, Ms. Lofgren, Ms. Chu, Mr. Nadler, Ms. Lee of California, Mr. Grijalva, Mr. Ellison, Mr. Polis, Ms. Wasserman Schultz, Ms. Bordallo, Mr. Israel, Ms. Clarke, Mr. Rangel, Ms. Schakowsky, Ms. Wilson of Florida, Mr. Holt, Mr. Farr, Mr. Al Green of Texas, Mr. Rush, Mr. Hastings of Florida, Mr. Sires, Ms. Eddie Bernice Johnson of Texas, Mr. Lowenthal, Mr. Blumenauer, Mr. Moran, Ms. Eshoo, Mrs. Napolitano, Mr. McGovern, Mr. Faleomavaega, Mr. Deutch, Mrs. Capps, Mr. Quigley, Ms. Gabbard, Mr. Pocan, Ms. Pingree of Maine, Ms. Sinema, Mr. Capuano, Mr. Takano, Ms. Meng, Mr. Tonko, Mr. Sablan, Ms. Castor of Florida, Ms. Speier, Mr. Cicilline, Mr. Cárdenas, Mr. Connolly, Mrs. Carolyn B. Maloney of New York, Ms. Moore, Mr. Welch, Mr. Pierluisi, Mr. Vargas, Mr. Langevin, Ms. Tsongas, Mrs. Davis of California, Mr. Markey, Mr. Veasey, Mr. Swalwell of California, and Mr. Serrano) introduced the following bill; which was referred to the Committee on the Judiciary</action>
+ <congCommittee authorityId="hsju00" chamber="H" congress="113" type="S">
+                      <name type="authority-standard">Committee on the Judiciary</name>
+                      <name type="authority-short">Judiciary</name>
+                </congCommittee>
+ <congMember chamber="H" congress="113" role="SPONSOR">
+                      <name type="parsed">Mr. Honda</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Gutierrez</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Ms. Pelosi</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Becerra</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Conyers</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Ms. Lofgren</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Nadler</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Lee of California</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Grijalva</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Ellison</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Ms. Bordallo</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Israel</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Ms. Clarke</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Rangel</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Ms. Schakowsky</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="FL">
+                      <name type="parsed">Ms. Wilson of Florida</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Holt</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Farr</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Al Green of Texas</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Rush</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Hastings of Florida</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Sires</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="TX">
+                      <name type="parsed">Ms. Eddie Bernice Johnson of Texas</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Blumenauer</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Moran</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Ms. Eshoo</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mrs. Napolitano</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. McGovern</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Faleomavaega</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mrs. Capps</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Capuano</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="FL">
+                      <name type="parsed">Ms. Castor of Florida</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Ms. Speier</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mrs. Carolyn B. Maloney of New York</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Ms. Moore</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Welch</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Langevin</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Ms. Tsongas</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mrs. Davis of California</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Markey</name>
+                </congMember>
+ <congMember chamber="H" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Serrano</name>
+                </congMember>
+ <law congress="89" isPrivate="false" number="732"></law>
+ <law congress="99" isPrivate="false" number="639"></law>
+ <law congress="106" isPrivate="false" number="386"></law>
+ <law congress="106" isPrivate="false" number="554"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="8">
+                      <section detail="(a)" number="1101"></section>
+                      <section detail="(a)(15)" number="1101"></section>
+                      <section detail="(a)(15)(K)(iii)" number="1101"></section>
+                      <section detail="(a)(51)(D)" number="1101"></section>
+                      <section detail="(b)(1)" number="1101"></section>
+                      <section detail="(b)(1)(B)" number="1101"></section>
+                      <section detail="(c)" number="1101"></section>
+                      <section detail="et seq." number="1101"></section>
+                      <section detail="(b)" number="1151"></section>
+                      <section detail="(b)(1)" number="1151"></section>
+                      <section detail="(b)(2)" number="1151"></section>
+                      <section detail="(b)(2)(A)(i)" number="1151"></section>
+                      <section detail="(c)" number="1151"></section>
+                      <section detail="(d)" number="1151"></section>
+                      <section detail="(f)" number="1151"></section>
+                      <section number="1152"></section>
+                      <section detail="(a)(2)" number="1152"></section>
+                      <section detail="(a)(4)" number="1152"></section>
+                      <section detail="(b)(2)" number="1152"></section>
+                      <section number="1153"></section>
+                      <section detail="(a)" number="1153"></section>
+                      <section detail="(a)(2)" number="1153"></section>
+                      <section detail="(a)(3)" number="1153"></section>
+                      <section detail="(b)(5)(A)(ii)" number="1153"></section>
+                      <section detail="(d)" number="1153"></section>
+                      <section detail="(h)" number="1153"></section>
+                      <section number="1154"></section>
+                      <section detail="(a)(1)" number="1154"></section>
+                      <section detail="(b)" number="1154"></section>
+                      <section detail="(c)" number="1154"></section>
+                      <section detail="(g)" number="1154"></section>
+                      <section detail="(h)" number="1154"></section>
+                      <section detail="(l)" number="1154"></section>
+                      <section detail="(l)(1)" number="1154"></section>
+                      <section detail="(d)" number="1155"></section>
+                      <section detail="(c)" number="1157"></section>
+                      <section detail="(b)(3)" number="1158"></section>
+                      <section detail="(b)(3)" number="1159"></section>
+                      <section number="1182"></section>
+                      <section detail="(a)" number="1182"></section>
+                      <section detail="(a)(6)(C)(ii)" number="1182"></section>
+                      <section detail="(a)(6)(C)(iii)" number="1182"></section>
+                      <section detail="(a)(9)" number="1182"></section>
+                      <section detail="(d)" number="1182"></section>
+                      <section detail="(d)(5)" number="1182"></section>
+                      <section detail="(g)(1)(A)" number="1182"></section>
+                      <section detail="(h)(1)(B)" number="1182"></section>
+                      <section detail="(i)(1)" number="1182"></section>
+                      <section number="1184"></section>
+                      <section detail="(d)(1)" number="1184"></section>
+                      <section number="1186a"></section>
+                      <section detail="(a)" number="1186a"></section>
+                      <section detail="(b)" number="1186a"></section>
+                      <section detail="(c)" number="1186a"></section>
+                      <section detail="(d)(1)" number="1186a"></section>
+                      <section detail="(g)" number="1186a"></section>
+                      <section number="1186b"></section>
+                      <section detail="(a)" number="1186b"></section>
+                      <section detail="(b)(1)" number="1186b"></section>
+                      <section detail="(c)" number="1186b"></section>
+                      <section detail="(f)(2)" number="1186b"></section>
+                      <section detail="(a)" number="1227"></section>
+                      <section detail="(a)(3)(D)" number="1227"></section>
+                      <section number="1229a"></section>
+                      <section detail="note" number="1229a"></section>
+                      <section detail="(b)" number="1229b"></section>
+                      <section detail="(d)" number="1255"></section>
+                      <section detail="(e)" number="1255"></section>
+                      <section detail="(i)(1)" number="1255"></section>
+                      <section detail="(j)" number="1255"></section>
+                      <section detail="note" number="1255"></section>
+                      <section detail="(c)" number="1325"></section>
+                      <section detail="(b)" number="1427"></section>
+                      <section number="1430"></section>
+                      <section detail="(a)" number="1430"></section>
+                      <section detail="note" number="1440"></section>
+                </USCode>
+</extension>
+</mods>

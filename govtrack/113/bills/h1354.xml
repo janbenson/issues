@@ -1,0 +1,28 @@
+<bill session="113" type="h" number="1354" updated="2013-03-22T04:47:05-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Immigration and Nationality Act to stimulate international tourism to the United States and for other purposes.</title>
+  </titles>
+  <sponsor id="412446"/>
+  <cosponsors>
+    <cosponsor id="412500" joined="2013-03-21"/>
+    <cosponsor id="412470" joined="2013-03-21"/>
+    <cosponsor id="412451" joined="2013-03-21"/>
+    <cosponsor id="412331" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

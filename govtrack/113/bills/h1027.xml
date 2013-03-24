@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="1027" updated="2013-03-16T06:29:52-04:00">
+  <state datetime="2013-03-07">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-07"/>
+  </status>
+  <introduced datetime="2013-03-07"/>
+  <titles>
+    <title as="introduced" type="short">Advanced Vehicle Technology Act of 2013</title>
+    <title as="introduced" type="official">To provide for a program of research, development, demonstration, and commercial application in vehicle technologies at the Department of Energy.</title>
+  </titles>
+  <sponsor id="412305"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-07">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space, and Technology" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="488"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

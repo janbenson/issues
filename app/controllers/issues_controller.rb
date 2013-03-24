@@ -1,8 +1,7 @@
 class IssuesController < ApplicationController
   layout "frontpage"
+  
 
-  caches_page :pipa
-	
 	
    @logged_in == false	
 
@@ -13,10 +12,10 @@ class IssuesController < ApplicationController
       @index_tabs = [
               {:title => 'Most-Viewed Bills',
               :partial => 'bill',
-              :collection => ObjectAggregate.popular('Bill', 30, 5),
+              :collection => ObjectAggregate.popular('Bill', Settings.default_count_time, 5),
               :id => "bv",
               :link => '/bill/most/viewed',
-              :style => 'display: none;',
+              #:style => 'display: none;',
               :count_type => 'views'},
               {:title => 'Newest Bills',
               :partial => 'bill',
@@ -27,25 +26,25 @@ class IssuesController < ApplicationController
               :count_type => 'views'},
               {:title => 'Most-Viewed Senators',
               :partial => 'person',
-              :collection => Person.list_chamber('sen', '113', "view_count desc", :limit => 5),
+              :collection => Person.list_chamber('sen', Settings.default_congress, "view_count desc", 5),
               :id => 'ps',
               :style => 'display: none;',
               :link => '/people/senators?sort=popular',
               :count_type => 'views'},
               {:title => 'Most-Viewed Reps',
-               :partial => 'person',
-               :collection => Person.list_chamber('rep', 113, "view_count desc", 5),
-               :link => '/people/representatives?sort=popular',
-               :style => 'display: none;',
-               :id => 'pr',
-               :count_type => 'views'},
+              :partial => 'person',
+              :collection => Person.list_chamber('rep', Settings.default_congress, "view_count desc", 5),
+              :link => '/people/representatives?sort=popular',
+              :style => 'display: none;',
+              :id => 'pr',
+              :count_type => 'views'},
               {:title => 'Most-Viewed Issues',
-               :partial => 'issue',
-               :collection => ObjectAggregate.popular('Subject', 113, 5),
-               :style => 'display: none;',
-               :id => 'pis',
-               :link => '/issues',
-               :count_type => 'views'}]
+              :partial => 'issue',
+              :collection => ObjectAggregate.popular('Subject', Settings.default_count_time, 5),
+              :style => 'display: none;',
+              :id => 'pis',
+              :link => '/issues',
+              :count_type => 'views'}]
     end
     
    unless read_fragment("frontpage_featured_members")

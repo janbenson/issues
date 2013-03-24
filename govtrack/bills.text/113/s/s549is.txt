@@ -1,0 +1,906 @@
+                                                                                                                                   II
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                            S. 549
+                                  To establish an advisory committee to issue nonbinding governmentwide guide-
+                                      lines on making public information available on the Internet, to require
+                                      publicly available Government information held by the executive branch
+                                      to be made available on the Internet, to express the sense of Congress
+                                      that publicly available information held by the legislative and judicial
+                                      branches should be available on the Internet, and for other purposes.
+
+
+
+
+                                              IN THE SENATE OF THE UNITED STATES
+                                                                MARCH 13, 2013
+                                    Mr. TESTER introduced the following bill; which was read twice and referred
+                                        to the Committee on Homeland Security and Governmental Affairs
+
+
+
+
+                                                                            A BILL
+                                  To establish an advisory committee to issue nonbinding gov-
+                                     ernmentwide guidelines on making public information
+                                     available on the Internet, to require publicly available
+                                     Government information held by the executive branch
+                                     to be made available on the Internet, to express the
+                                     sense of Congress that publicly available information held
+                                     by the legislative and judicial branches should be avail-
+                                     able on the Internet, and for other purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+
+
+
+
+
+                                    1     SECTION 1. SHORT TITLE.                            2
+                                    2              This Act may be cited as the ‘‘Public Online Informa-
+                                    3 tion Act of 2013’’.
+                                    4     SEC. 2. TABLE OF CONTENTS.
+                                    5              The table of contents for this Act is as follows:
+                                          Sec.   1.   Short title.
+                                          Sec.   2.   Table of contents.
+                                          Sec.   3.   Definitions.
+                                          Sec.   4.   Purposes.
+                                          Sec.   5.   Findings of Congress.
+                                          Sec.   6.   Establishment of Public Online Information Advisory Committee.
+                                          Sec.   7.   Executive branch Internet publication mandate.
+                                          Sec.   8.   Legislative and judicial information.
+                                          Sec.   9.   Government Printing Office.
+                                    6     SEC. 3. DEFINITIONS.
+                                    7              In this Act:
+                                    8                        (1) ADVISORY                COMMITTEE.—The                        term ‘‘advi-
+                                    9              sory committee’’ means the Public Online Informa-
+                                  10               tion Advisory Committee established under section
+                                  11               6.
+                                  12                         (2) AGENCY.—The term ‘‘agency’’ means an
+                                  13               executive agency or an independent regulatory agen-
+                                  14               cy.
+                                  15                         (3) CIO.—The term ‘‘CIO’’ means a chief in-
+                                  16               formation officer of an independent regulatory agen-
+                                  17               cy.
+                                  18                         (4) EXECUTIVE                   AGENCY.—The                term ‘‘executive
+                                  19               agency’’ means any of the following:
+                                  20                                  (A) An executive department, as defined in
+
+
+
+
+                                  21                         section 101 of title 5, United States Code.
+                                              •S 549 IS
+
+                                                                                             3
+                                    1                                 (B) A military department, as defined in
+                                    2                        section 102 of such title.
+                                    3                                 (C) A Government corporation, as defined
+                                    4                        in section 103 of such title.
+                                    5                                 (D) Any other establishment in the execu-
+                                    6                        tive branch of the Government (including the
+                                    7                        Executive Office of the President), other than
+                                    8                        an independent regulatory agency.
+                                    9                        (5) INDEPENDENT                     REGULATORY AGENCY.—The
+                                  10               term ‘‘independent regulatory agency’’ means an
+                                  11               independent establishment, as defined in section 104
+                                  12               of title 5, United States Code.
+                                  13                         (6) RECORD.—The term ‘‘record’’—
+                                  14                                  (A) has the meaning provided the term
+                                  15                         ‘‘records’’ in section 3301 of title 44, United
+                                  16                         States Code; and
+                                  17                                  (B) includes contracts entered into by per-
+                                  18                         sons working as agents of the Federal Govern-
+                                  19                         ment, including records in the possession of
+                                  20                         Government contractors.
+                                  21                         (7)       PUBLIC            RECORD.—The                        term   ‘‘public
+                                  22               record’’ means any record, regardless of form or for-
+                                  23               mat, that an agency discloses, publishes, dissemi-
+                                  24               nates, or makes available to the public.
+
+
+
+
+
+                                              •S 549 IS
+
+                                                                                             4
+                                    1                        (8)       E-GOVERNMENT                        ADMINISTRATOR.—The
+                                    2              term ‘‘E-Government Administrator’’ means the Ad-
+                                    3              ministrator of the Office of Electronic Government
+                                    4              established under section 3602 of title 44, United
+                                    5              States Code.
+                                    6     SEC. 4. PURPOSES.
+                                    7              The purposes of this Act include the following:
+                                    8                        (1) To establish an advisory committee to issue
+                                    9              nonbinding guidelines for all three branches of Gov-
+                                  10               ernment regarding making public information avail-
+                                  11               able on the Internet, with sufficient flexibility to
+                                  12               adapt to changes in technology.
+                                  13                         (2) To empower the E-Government Adminis-
+                                  14               trator to establish binding rules concerning making
+                                  15               publicly available Government information held by
+                                  16               executive agencies to be made available on the Inter-
+                                  17               net, and to empower independent regulatory agen-
+                                  18               cies to do the same.
+                                  19                         (3) To express the sense of Congress that pub-
+                                  20               licly available information held by the legislative and
+                                  21               judicial branches should be available on the Internet.
+                                  22                         (4) To encourage the Government Printing Of-
+                                  23               fice to make all of its publications available on the
+                                  24               Internet in the formats most useful to the public,
+
+
+
+
+
+                                              •S 549 IS
+
+                                                                                             5
+                                    1              after having considered the formats identified by the
+                                    2              Advisory Committee.
+                                    3     SEC. 5. FINDINGS OF CONGRESS.
+                                    4              Congress finds the following:
+                                    5                        (1) The Federal Government holds a vast re-
+                                    6              pository of public information. Throughout the his-
+                                    7              tory of the United States, the Government has at-
+                                    8              tempted to make that information available to the
+                                    9              public, whether through the United States Postal
+                                  10               Service, the Federal Depository Library Program,
+                                  11               the Presidential Library System, Agency Reading
+                                  12               Rooms, under section 552 of title 5, United States
+                                  13               Code (commonly referred to as the ‘‘Freedom of In-
+                                  14               formation Act’’), or by other means. Providing this
+                                  15               information to the general public is a public good:
+                                  16               Informed citizens are informed voters. However,
+                                  17               even with these efforts, Government information is
+                                  18               too often hard to find, difficult to understand, ex-
+                                  19               pensive to obtain in useful formats, and available in
+                                  20               only a few locations.
+                                  21                         (2) The advent of the Internet presents the op-
+                                  22               portunity for the Government to make information
+                                  23               readily available to many more people in the United
+                                  24               States. The Internet is ubiquitous, turning every
+
+
+
+
+                                  25               computer into a portal to the largest library in the
+                                              •S 549 IS
+
+                                                                                             6
+                                    1              world. The Government has made some efforts to
+                                    2              take advantage of this new medium. As the public
+                                    3              moves online, the Government must do so as well.
+                                    4                        (3) In addition to the traditional means of dis-
+                                    5              seminating public information, the Federal Govern-
+                                    6              ment should make all of its public information avail-
+                                    7              able on the Internet. It should do so in ways that
+                                    8              take advantage of modern technology, that antici-
+                                    9              pate the needs of the public, and that provide access
+                                  10               to the greatest number of people. The Government
+                                  11               should strive to make its information available on
+                                  12               the Internet in real-time and in machine processable
+                                  13               formats.
+                                  14                         (4) The creation of this vast new information li-
+                                  15               brary will empower citizens of the United States to
+                                  16               gain a better understanding of how their Govern-
+                                  17               ment functions and what it does in their name. It
+                                  18               will also give innovators new tools to build on this
+                                  19               information and provide better goods and services to
+                                  20               the people of the United States. Government services
+                                  21               will be provided more efficiently, saving the tax-
+                                  22               payers money and allowing them to be more involved
+                                  23               in the lives of their communities.
+                                  24                         (5) Accomplishing these goals requires signifi-
+
+
+
+
+                                  25               cant coordination. It also requires the creation of
+                                              •S 549 IS
+
+                                                                                             7
+                                    1              new authorities and responsibilities within the Gov-
+                                    2              ernment, and the identification of appropriate tech-
+                                    3              nology standards.
+                                    4     SEC. 6. ESTABLISHMENT OF PUBLIC ONLINE INFORMATION
+                                    5                             ADVISORY COMMITTEE.
+                                    6              (a) ESTABLISHMENT.—There is established an advi-
+                                    7 sory committee to be known as the ‘‘Public Online Infor-
+                                    8 mation Advisory Committee’’.
+                                  109mittee are— (b) PURPOSES.—The purposes of the Advisory Com-
+                                  11                         (1) to coordinate and encourage the efforts of
+                                  12               the Government to make Government information
+                                  13               from all three branches of Government available on
+                                  14               the Internet; and
+                                  15                         (2) to issue nonbinding guidelines on how the
+                                  16               Government should make public information avail-
+                                  17               able on the Internet, and update the guidelines as
+                                  18               appropriate.
+                                  19               (c) MEMBERSHIP.—
+                                  20                         (1) IN         GENERAL.—The                       Advisory Committee
+                                  21               shall be composed of 19 members (including the
+                                  22               Chair), of whom—
+                                  23                                  (A) 6 members shall be appointed by the
+                                  24                         E-Government Administrator;
+
+
+
+
+
+                                              •S 549 IS
+
+                                                                                             8
+                                    1                                 (B) 6 members shall be appointed by the
+                                    2                        Director of the Administrative Office of the
+                                    3                        Courts;
+                                    4                                 (C) 3 members shall be appointed by the
+                                    5                        Chairman, in consultation with the Ranking
+                                    6                        Member, of the Committee on Homeland Secu-
+                                    7                        rity and Governmental Affairs of the Senate,
+                                    8                        with not more than 2 members chosen being
+                                    9                        from the party in the majority of the Senate at
+                                  10                         the time of appointment; and
+                                  11                                  (D) 3 members shall be appointed by the
+                                  12                         Chair, in consultation with the Ranking Mem-
+                                  13                         ber, of the Committee on Oversight and Gov-
+                                  14                         ernment Reform of the House of Representa-
+                                  15                         tives, with not more than 2 members chosen
+                                  16                         being from the party in the majority of the
+                                  17                         House of Representatives at the time of ap-
+                                  18                         pointment.
+                                  19                         (2) DIVERSITY              OF EXPERIENCE.—The                         members
+                                  20               of the Advisory Committee shall represent a diverse
+                                  21               range of perspectives, including members—
+                                  22                                  (A) from non-profit organizations; and
+                                  23                                  (B) with expertise in relevant subject
+                                  24                         areas.
+
+
+
+
+
+                                              •S 549 IS
+
+                                                                                             9
+                                    1                        (3) CHAIR.—The Chair shall be appointed by
+                                    2              the Administrator of General Services, after confer-
+                                    3              ring with the E-Government Administrator, the Di-
+                                    4              rector of the Administrative Office of the Courts, the
+                                    5              Chairman of the Committee on Homeland Security
+                                    6              and Governmental Affairs of the Senate, and the
+                                    7              Chair of the Committee on Oversight and Govern-
+                                    8              ment Reform of the House of Representatives.
+                                    9                        (4) VICE             CHAIR.—A               Vice Chair shall be se-
+                                  10               lected from among the members of the Advisory
+                                  11               Committee by the Chair.
+                                  12                         (5) LIMITATION                      ON GOVERNMENT EMPLOYEE
+                                  13               MEMBERS.—Not                    more than 6 members of the Advi-
+                                  14               sory Committee may be Government employees.
+                                  15                         (6) TERMS             OF OFFICE.—Each                          member of the
+                                  16               Advisory Committee shall be appointed for a renew-
+                                  17               able term of 5 years, except that—
+                                  18                                  (A) 1⁄3 of the members initially appointed
+                                  19                         shall be appointed for a 3-year term;
+                                  20                                  (B) 1⁄3 of the members initially appointed
+                                  21                         shall be appointed for a 4-year term; and
+                                  22                                  (C) 1⁄3 of the members initially appointed
+                                  23                         and the Chair shall be appointed for a 5-year
+                                  24                         term.
+
+
+
+
+
+                                              •S 549 IS
+
+                                                                                         10
+                                    1                        (7) INITIAL              APPOINTMENTS.—The                            initial ap-
+                                    2              pointments of members of the Advisory Committee
+                                    3              shall be made not later than 90 days after the date
+                                    4              of the enactment of this Act.
+                                    5                        (8) MEETINGS.—The Advisory Committee shall
+                                    6              meet not less than 6 times per year.
+                                    7              (d) POWERS OF ADVISORY COMMITTEE.—
+                                    8                        (1) IN       GENERAL.—From                      time to time, the Ad-
+                                    9              visory Committee shall—
+                                  10                                  (A) examine its legislative charter, struc-
+                                  11                         ture, and funding; and
+                                  12                                  (B) make recommendations to Congress,
+                                  13                         the President, and the Courts regarding how
+                                  14                         the Advisory Committee could be restructured
+                                  15                         to better accomplish its mission of making Gov-
+                                  16                         ernment information available to the public on
+                                  17                         the Internet.
+                                  18                         (2) PUBLICATION                      OF       RECOMMENDATIONS.—
+                                  19               The recommendations required under paragraph (1)
+                                  20               shall be published in print and on the Internet.
+                                  21                         (3) SPECIFIC              POWERS.—In                 order to carry out
+                                  22               the purposes described in subsection (b), the Advi-
+                                  23               sory Committee is authorized to—
+                                  24                                  (A) hold hearings;
+
+
+
+
+
+                                  25                                  (B) issue recommendations to Congress;
+
+
+                                              •S 549 IS
+
+                                                                                         11
+                                    1                                 (C) issue recommendations to agencies;
+                                    2                                 (D) issue reports, guidelines, and memo-
+                                    3                        randa;
+                                    4                                 (E) articulate guidelines on how the Gov-
+                                    5                        ernment should make public records available
+                                    6                        on the Internet, update the guidelines as appro-
+                                    7                        priate, and inquire into Government compliance
+                                    8                        with the guidelines;
+                                    9                                 (F) hold or host conferences and symposia;
+                                  10                                  (G) enter into cooperative agreements with
+                                  11                         outside experts to obtain relevant advice or ex-
+                                  12                         pertise, and oversee staff;
+                                  13                                  (H) establish subcommittees; and
+                                  14                                  (I) establish rules of procedure.
+                                  15                         (4) RELATIONSHIP                       TO FACA.—The                   Advisory
+                                  16               Committee shall not be subject to the control of any
+                                  17               advisory committee management officer designated
+                                  18               under section 8(b)(1) of the Federal Advisory Com-
+                                  19               mittee Act (5 U.S.C. App.).
+                                  20               (e) OPERATIONS.—
+                                  21                         (1) OPEN             GOVERNMENT PROCEDURES.—In                             ad-
+                                  22               dition to the rules in the Federal Advisory Com-
+                                  23               mittee Act (5 U.S.C. App.), in the interest of im-
+                                  24               proving transparency, the Advisory Committee shall
+
+
+
+
+                                  25               adhere to the following rules that supplement and
+                                              •S 549 IS
+
+                                                                                         12
+                                    1              modify that Act (in accordance with section 4(a) of
+                                    2              that Act):
+                                    3                                 (A) Subcommittees shall have the same du-
+                                    4                        ties and obligations as the full committee as de-
+                                    5                        lineated under sections 10 through 13 of the
+                                    6                        Federal Advisory Committee Act (5 U.S.C.
+                                    7                        App.). Subcommittees shall similarly be bound
+                                    8                        by the terms of this section.
+                                    9                                 (B) All information made available on the
+                                  10                         Internet shall be done so by state-of-the-art
+                                  11                         methods that are compatible with widely used,
+                                  12                         publicly available programs and equipment.
+                                  13                                  (C) Information required to be made avail-
+                                  14                         able on the Internet shall be done so in a timely
+                                  15                         fashion.
+                                  16                                  (D) Notice of all meetings shall be avail-
+                                  17                         able on the website of the Advisory Committee,
+                                  18                         with agendas available on the Internet not later
+                                  19                         than 3 days prior to any meeting.
+                                  20                                  (E) All records available for public copying
+                                  21                         under section 10 of the Federal Advisory Com-
+                                  22                         mittee Act (5 U.S.C. App.) shall also be made
+                                  23                         available on the website of the Advisory Com-
+                                  24                         mittee.
+
+
+
+
+
+                                              •S 549 IS
+
+                                                                                         13
+                                    1                                 (F) The Advisory Committee shall make
+                                    2                        available on the Internet and to any person, at
+                                    3                        no cost, transcripts of Advisory Committee pro-
+                                    4                        ceedings.
+                                    5                                 (G) Videos recordings of proceedings shall
+                                    6                        be made available on the Internet.
+                                    7                                 (H) Documents submitted to the Advisory
+                                    8                        Committee shall be made publicly available un-
+                                    9                        less the Advisory Committee determines that
+                                  10                         those materials would disclose matters de-
+                                  11                         scribed in section 552(b) of title 5, United
+                                  12                         States Code.
+                                  13                                  (I) The Advisory Committee shall make
+                                  14                         publicly available the names and brief biog-
+                                  15                         raphies of its members.
+                                  16                                  (J) All members of the Advisory Com-
+                                  17                         mittee shall file financial disclosure forms,
+                                  18                         which shall be made available on the Advisory
+                                  19                         Committee website after redactions to remove
+                                  20                         personally identifiable information, such as so-
+                                  21                         cial security numbers.
+                                  22                                  (K) All members of the Advisory Com-
+                                  23                         mittee shall have to state and publicly disclose
+                                  24                         conflicts of interest. These statements shall be
+
+
+
+
+                                  25                         updated whenever new conflicts arise or on an
+                                              •S 549 IS
+
+                                                                                         14
+                                    1                        annual basis, whichever is more frequent, and
+                                    2                        shall be published on the Internet.
+                                    3                        (2) SUPPORT              SERVICES.—The                    General Services
+                                    4              Administration shall be responsible for providing all
+                                    5              support services to the Advisory Committee, includ-
+                                    6              ing quarters and staff, and for requesting funds
+                                    7              from Congress on behalf of the Advisory Committee.
+                                    8                        (3) COMMUNICATION                           WITH CONGRESS.—Noth-
+                                    9              ing in this section shall be construed to prevent the
+                                  10               Advisory Committee from communicating with Con-
+                                  11               gress directly regarding funding or other matters.
+                                  12                         (4) DURATION.—The Advisory Committee is a
+                                  13               continuing body and is not subject to termination as
+                                  14               provided in section 14 of the Federal Advisory Com-
+                                  15               mittee Act (5 U.S.C. App.).
+                                  16                         (5) APPLICATION                   OF FACA.—Except                     as other-
+                                  17               wise provided in this section, the Federal Advisory
+                                  18               Committee Act (5 U.S.C. App.) shall apply to the
+                                  19               Advisory Committee.
+                                  20               (f) REPORTS.—The Advisory Committee shall issue
+                                  21 a report on its activities every 2 years, or as appropriate,
+                                  22 whichever is more frequent.
+                                  23               (g) AUTHORIZATION                         OF   APPROPRIATIONS.—There is
+                                  24 authorized to be appropriated to the General Services Ad-
+
+
+
+
+
+                                              •S 549 IS
+
+                                                                                         15
+                                    1 ministration such sums as may be necessary for the oper-
+                                    2 ations of the Advisory Committee.
+                                    3     SEC. 7. EXECUTIVE BRANCH INTERNET PUBLICATION MAN-
+                                    4                             DATE.
+                                    5              (a) ONLINE PUBLICATION REQUIREMENTS.—
+                                    6                        (1) FREE         AVAILABILITY.—
+
+                                    7                                 (A) IN        GENERAL.—Except                         as provided in
+                                    8                        subparagraph (B), the Government shall make
+                                    9                        public records available on the Internet at no
+                                  10                         charge (including a charge for recovery of
+                                  11                         costs) to the public.
+                                  12                                  (B) EXCEPTION.—Subparagraph (A) shall
+                                  13                         not apply in the case of a charge imposed by
+                                  14                         Federal law before the date of the enactment of
+                                  15                         this Act.
+                                  16                         (2) PERMANENCE.—Public records shall be per-
+                                  17               manently available on the Internet.
+                                  18                         (3) CURRENT              TECHNOLOGY.—
+
+                                  19                                  (A) IN           GENERAL.—Current                            information
+                                  20                         technology capabilities shall be applied to the
+                                  21                         means by which records are made available on
+                                  22                         the Internet, and the formats in which they are
+                                  23                         available.
+                                  24                                  (B)          PUBLIC                ACCESSIBILITY.—Public
+
+
+
+
+                                  25                         records shall be made accessible through pro-
+                                              •S 549 IS
+
+                                                                                         16
+                                    1                        grams and equipment that are readily available
+                                    2                        to the general public.
+                                    3                        (4) SEARCHABLE                   LIST.—
+
+                                    4                                 (A) IN       GENERAL.—Each                     agency shall pub-
+                                    5                        lish on the Internet a comprehensive, search-
+                                    6                        able, machine processable list of all records it
+                                    7                        makes publicly available.
+                                    8                                 (B) REQUIREMENTS.—With respect to the
+                                    9                        records described in subparagraph (A), the list
+                                  10                         shall include, at a minimum—
+                                  11                                         (i) where the records can be found;
+                                  12                                         (ii) whether the records are available
+                                  13                                  to the public at no cost or for a fee (and
+                                  14                                  the amount of the fee, if applicable); and
+                                  15                                         (iii) brief descriptions of the records.
+                                  16               (b) RULEMAKING AUTHORITY.—
+                                  17                         (1) IN       GENERAL.—Nothing                        in the grant of au-
+                                  18               thority in this subsection shall be construed to limit
+                                  19               the obligation of the Government to make records
+                                  20               publicly available as required by law.
+                                  21                         (2) EXECUTIVE                   AGENCIES.—
+
+                                  22                                  (A) RESPONSIBILITIES                        OF THE DIRECTOR
+                                  23                         OF OMB.—
+                                  24                                         (i) IN      GENERAL.—The                       Director of the
+
+
+
+
+                                  25                                  Office of Management and Budget shall
+                                              •S 549 IS
+
+                                                                                         17
+                                    1                                 delegate to the E-Government Adminis-
+                                    2                                 trator the authority to administer all func-
+                                    3                                 tions under this section, except that any
+                                    4                                 such delegation shall not relieve the Direc-
+                                    5                                 tor of responsibility for the administration
+                                    6                                 of such functions.
+                                    7                                        (ii) STAFFING.—The Director of the
+                                    8                                 Office of Management and Budget shall
+                                    9                                 ensure that the E-Government Adminis-
+                                  10                                  trator has adequate staff and resources to
+                                  11                                  properly fulfill all the functions of the Ad-
+                                  12                                  ministrator under this Act.
+                                  13                                  (B) RULEMAKING.—
+                                  14                                         (i) IN          GENERAL.—The                   E-Government
+                                  15                                  Administrator, after consulting with the
+                                  16                                  Office of Information and Regulatory Pol-
+                                  17                                  icy, shall promulgate such regulations as
+                                  18                                  are necessary to ensure that all public
+                                  19                                  records held by executive agencies are
+                                  20                                  available on the Internet in the formats
+                                  21                                  and by the means the E-Government Ad-
+                                  22                                  ministrator designates.
+                                  23                                         (ii)        CONSIDERATION                        OF   GUIDE-
+                                  24                                  LINES.—In              promulgating the regulations
+
+
+
+
+                                  25                                  required under clause (i), the E-Govern-
+                                              •S 549 IS
+
+                                                                                         18
+                                    1                                 ment Administrator shall consider the
+                                    2                                 guidelines issued by the Advisory Com-
+                                    3                                 mittee.
+                                    4                                 (C) RULEMAKING                     REQUIREMENTS.—In                 the
+                                    5                        regulations promulgated under subparagraph
+                                    6                        (B), the E-Government Administrator shall in-
+                                    7                        clude—
+                                    8                                        (i) rules on how executive agencies
+                                    9                                 shall publish records on the Internet, in-
+                                  10                                  cluding the format and timeframe; and
+                                  11                                         (ii) procedures through which execu-
+                                  12                                  tive agencies may object to placing public
+                                  13                                  records on the Internet, in accordance with
+                                  14                                  the exceptions under paragraph (4), and a
+                                  15                                  method by which the objections can be re-
+                                  16                                  viewed.
+                                  17                                  (D)         ADDITIONAL                     AVAILABILITY              OF
+                                  18                         RECORDS.—
+                                  19                                         (i) IN            GENERAL.—The                        regulations
+                                  20                                  promulgated under subparagraph (B) shall
+                                  21                                  not preclude executive agencies from mak-
+                                  22                                  ing additional records available on the
+                                  23                                  Internet beyond those required by the reg-
+                                  24                                  ulations, or in additional formats beyond
+
+
+
+
+                                  25                                  those required by the regulations, or on a
+                                              •S 549 IS
+
+                                                                                         19
+                                    1                                 more rapid timeframe than required by the
+                                    2                                 regulations.
+                                    3                                        (ii)       DESIGNATION                     OF         RESPONSI-
+                                    4                                 BILITY.—Each                head of an executive agency
+                                    5                                 shall designate a person within the agency
+                                    6                                 responsible for Internet publication of pub-
+                                    7                                 lic records.
+                                    8                        (3) INDEPENDENT                    REGULATORY AGENCIES.—
+
+                                    9                                 (A) RULEMAKING.—
+                                  10                                         (i) IN          GENERAL.—A                 CIO or an offi-
+                                  11                                  cial designated by the head of an inde-
+                                  12                                  pendent regulatory agency shall promul-
+                                  13                                  gate such regulations as are necessary to
+                                  14                                  ensure that public records are available on
+                                  15                                  the Internet in the formats and by the
+                                  16                                  means the CIO designates.
+                                  17                                         (ii)        CONSIDERATION                        OF     GUIDE-
+                                  18                                  LINES.—In              promulgating the regulations
+                                  19                                  required under clause (i), the CIO or other
+                                  20                                  official shall consider the guidelines issued
+                                  21                                  by the Advisory Committee, as well as reg-
+                                  22                                  ulations promulgated by the E-Government
+                                  23                                  Administrator under paragraph (1).
+                                  24                                  (B)         ADDITIONAL                     AVAILABILITY            OF
+                                  25                         RECORDS.—The                    regulations promulgated under
+
+
+                                              •S 549 IS
+
+                                                                                         20
+                                    1                        subparagraph (A) shall not preclude the heads
+                                    2                        of offices within an independent regulatory
+                                    3                        agency from making additional records available
+                                    4                        on the Internet beyond those required by the
+                                    5                        regulations, or in additional formats beyond
+                                    6                        those required by the regulations, or on a more
+                                    7                        rapid timeframe than required by the regula-
+                                    8                        tions.
+                                    9                                 (C) STAFFING.—The head of the inde-
+                                  10                         pendent regulatory agency shall ensure that the
+                                  11                         CIO or the official designated by the head of
+                                  12                         the independent regulatory agency has adequate
+                                  13                         staff and resources to properly fulfill all of the
+                                  14                         functions of the CIO under this Act.
+                                  15                         (4) EXCEPTIONS.—
+                                  16                                  (A) IN         GENERAL.—The                      regulations pro-
+                                  17                         mulgated under this subsection may contain ex-
+                                  18                         ceptions, in accordance with this paragraph, to
+                                  19                         the requirement that all public records be made
+                                  20                         available on the Internet.
+                                  21                                  (B) SCOPE              OF EXCEPTIONS.—The                    excep-
+                                  22                         tions may be no broader than the exceptions
+                                  23                         recognized under section 552 of title 5, United
+                                  24                         States Code.
+
+
+
+
+
+                                              •S 549 IS
+
+                                    1                                 (C) ADDITIONAL     21                EXCEPTIONS              BY   RE-
+                                    2                        QUEST.—In              addition to the exceptions provided
+                                    3                        under subparagraph (B), the regulations shall
+                                    4                        provide for the E-Government Administrator or,
+                                    5                        in the case of an independent regulatory agen-
+                                    6                        cy, the CIO or official designated by the head
+                                    7                        of the agency, to grant narrow case-by-case ex-
+                                    8                        ceptions to the Internet publication requirement
+                                    9                        if an agency requests an exception and the
+                                  10                         agency demonstrates that—
+                                  11                                         (i) there is clear and convincing evi-
+                                  12                                  dence that the record should not be made
+                                  13                                  available on the Internet; and
+                                  14                                         (ii) on balance, the harm caused by
+                                  15                                  disclosure significantly outweighs the inter-
+                                  16                                  est of the public in having the record avail-
+                                  17                                  able on the Internet.
+                                  18                                  (D) AVAILABILITY                     OF SEGREGABLE POR-
+                                  19                         TIONS.—
+                                  20                                         (i) IN          GENERAL.—If                    the E-Govern-
+                                  21                                  ment Administrator, CIO, or official des-
+                                  22                                  ignated by the head of an independent reg-
+                                  23                                  ulatory agency approves a request for an
+                                  24                                  exception with respect to a public record
+
+
+
+
+                                  25                                  under this paragraph, any reasonably seg-
+                                              •S 549 IS
+
+                                                                                         22
+                                    1                                 regable portion of the public record shall
+                                    2                                 be made available on the Internet in a
+                                    3                                 timely fashion after redaction of the por-
+                                    4                                 tions that are subject to the exception.
+                                    5                                        (ii) PUBLICATION                    OF AMOUNT OF RE-
+                                    6                                 DACTED INFORMATION.—The                                      amount of
+                                    7                                 information redacted shall be indicated on
+                                    8                                 the portion of the record that is made
+                                    9                                 available on the Internet, unless including
+                                  10                                  that indication would significantly harm
+                                  11                                  the interest protected by the exception,
+                                  12                                  and, if technically feasible, the amount of
+                                  13                                  the information redacted shall be indicated
+                                  14                                  at the place in the record where such
+                                  15                                  redactions are made.
+                                  16                                  (E)           DISCLOSURE                      OF             WITHHELD
+                                  17                         RECORDS.—The                    E-Government Administrator,
+                                  18                         CIO, or official designated by the head of an
+                                  19                         independent regulatory agency shall—
+                                  20                                         (i) maintain a list of records not made
+                                  21                                  available on the Internet by reason of an
+                                  22                                  exception under this section; and
+                                  23                                         (ii) publish the list on the Internet,
+                                  24                                  excluding any records the identification of
+
+
+
+
+
+                                              •S 549 IS
+
+                                                                                         23
+                                    1                                 which would significantly harm the interest
+                                    2                                 protected by the exception.
+                                    3                        (5) PUBLICATION.—Regulations promulgated
+                                    4              under this subsection shall be published—
+                                    5                                 (A) in the Federal Register; and
+                                    6                                 (B) on the relevant agency website.
+                                    7                        (6) APPLICABILITY.—Regulations promulgated
+                                    8              under this subsection shall apply only to public
+                                    9              records generated, updated, or released after the
+                                  10               date of the enactment of this Act.
+                                  11                         (7) EFFECTIVE                    DATE.—Regulations                    promul-
+                                  12               gated under this subsection shall take effect not ear-
+                                  13               lier than 3 years after the date of the enactment of
+                                  14               this Act.
+                                  15               (c) REPORTS TO CONGRESS.—
+                                  16                         (1) IN       GENERAL.—Not                     less than once every 4
+                                  17               years, the E-Government Administrator and each
+                                  18               CIO shall—
+                                  19                                  (A) review the exceptions provided under
+                                  20                         subsection (b)(4) to making public records
+                                  21                         available on the Internet; and
+                                  22                                  (B) if warranted, make recommendations
+                                  23                         to the President and to Congress regarding
+                                  24                         whether Federal law should be changed.
+
+
+
+
+
+                                              •S 549 IS
+
+                                                                                         24
+                                    1                        (2) PUBLICATION.—The reports required under
+                                    2              paragraph (1) shall be made publicly available, in-
+                                    3              cluding being published on the Internet.
+                                    4              (d) INSPECTOR GENERAL REVIEWS.—
+                                    5                        (1) IN       GENERAL.—Not                     less than once every 4
+                                    6              years, the Inspector General of each agency shall
+                                    7              conduct periodic reviews regarding compliance by
+                                    8              the agency with Internet publication requirements.
+                                    9                        (2) PUBLICATION.—The reviews required under
+                                  10               paragraph (1) shall be published on the Internet.
+                                  11               (e) ENFORCEMENT                      OF     PUBLIC ACCESS                   BY    PRIVATE
+                                  12 INDIVIDUALS OR ORGANIZATIONS.—
+                                  13                         (1) REQUESTS.—
+                                  14                                  (A) IN        GENERAL.—Private                        individuals or
+                                  15                         organizations may request that an agency place
+                                  16                         public records on the Internet, including the
+                                  17                         comprehensive searchable list of publicly avail-
+                                  18                         able records referred to in section 7(a)(4), in
+                                  19                         accordance with Federal regulations.
+                                  20                                  (B) RESPONSE                       REQUIRED                  WITHIN   30
+                                  21                         DAYS.—An             agency has 30 days to respond to a
+                                  22                         request made under subparagraph (A) in writ-
+                                  23                         ing or to place the record on the Internet.
+                                  24                                  (C) DENIAL               OF REQUEST.—If                       an agency
+
+
+
+
+                                  25                         denies the request in whole or in part, the pri-
+                                              •S 549 IS
+
+                                                                                         25
+                                    1                        vate individual or organization may file a com-
+                                    2                        plaint in Federal court.
+                                    3                        (2) JURISDICTION.—
+                                    4                                 (A) IN           GENERAL.—On                      complaint filed
+                                    5                        under paragraph (1)(C), the district court of
+                                    6                        the United States in the district in which the
+                                    7                        complainant resides, or has his principal place
+                                    8                        of business, or in which the agency records are
+                                    9                        situated, or in the District of Columbia, has ju-
+                                  10                         risdiction to—
+                                  11                                         (i) enjoin the agency from refusing to
+                                  12                                  publish agency records on the Internet, or
+                                  13                                  refusing to publish it in an appropriate
+                                  14                                  format; and
+                                  15                                         (ii) order the Internet online publica-
+                                  16                                  tion of any agency records improperly
+                                  17                                  withheld.
+                                  18                                  (B) DE        NOVO REVIEW.—In                         a case brought
+                                  19                         under paragraph (1)(C), the court shall deter-
+                                  20                         mine the matter de novo, and may examine the
+                                  21                         contents of such agency records in camera to
+                                  22                         determine whether such records or any part
+                                  23                         thereof shall be withheld under any of the ex-
+                                  24                         ceptions provided under subsection (b)(4), and
+
+
+
+
+
+                                              •S 549 IS
+
+                                                                                         26
+                                    1                        the burden is on the agency to sustain its ac-
+                                    2                        tion.
+                                    3                                 (C) FILING              DEADLINE.—Notwithstanding
+                                    4                        any other provision of law, the defendant shall
+                                    5                        serve an answer or otherwise plead to any com-
+                                    6                        plaint made under this subsection within 30
+                                    7                        days after service upon the defendant of the
+                                    8                        pleading in which such complaint is made, un-
+                                    9                        less the court otherwise directs for good cause
+                                  10                         shown.
+                                  11                         (3) ATTORNEY                    FEES.—In              any case brought
+                                  12               under this subsection in which the complainant has
+                                  13               substantially prevailed, the court may assess against
+                                  14               the United States—
+                                  15                                  (A) reasonable attorney fees; and
+                                  16                                  (B) other litigation costs reasonably in-
+                                  17                         curred.
+                                  18                         (4) SPECIAL            COUNSEL.—
+
+                                  19                                  (A) IN       GENERAL.—A                  Special Counsel shall
+                                  20                         promptly initiate a proceeding to determine
+                                  21                         whether disciplinary action is warranted against
+                                  22                         the officer or employee who was primarily re-
+                                  23                         sponsible for the withholding if a court—
+                                  24                                         (i) orders the production of any agen-
+
+
+
+
+                                  25                                  cy records improperly withheld from the
+                                              •S 549 IS
+
+                                                                                         27
+                                    1                                 complainant and assesses against the
+                                    2                                 United States reasonable attorney fees,
+                                    3                                 litigation costs, and interest under this
+                                    4                                 subsection; and
+                                    5                                        (ii) issues a written finding that the
+                                    6                                 circumstances surrounding the withholding
+                                    7                                 raise questions whether agency personnel
+                                    8                                 acted arbitrarily or capriciously with re-
+                                    9                                 spect to the withholding.
+                                  10                                  (B) FINDINGS               AND RECOMMENDATIONS.—
+                                  11                         A Special Counsel, after investigation and con-
+                                  12                         sideration of the evidence submitted under sub-
+                                  13                         paragraph (A), shall—
+                                  14                                         (i) submit findings and recommenda-
+                                  15                                  tions based on the evidence to the adminis-
+                                  16                                  trative authority of the agency concerned;
+                                  17                                  and
+                                  18                                         (ii) send copies of the findings and
+                                  19                                  recommendations to the officer or em-
+                                  20                                  ployee or his representative described in
+                                  21                                  subparagraph (A).
+                                  22                                  (C) CORRECTIVE                     ACTION.—The               adminis-
+                                  23                         trative authority described in subparagraph (B)
+                                  24                         shall take the corrective action that the Special
+
+
+
+
+                                  25                         Counsel recommends.
+                                              •S 549 IS
+
+                                                                                         28
+                                    1                        (5) CONTEMPT.—In the event of noncompliance
+                                    2              with the order of the court issued under this sub-
+                                    3              section, the district court may punish for contempt
+                                    4              the responsible employee, and in the case of a uni-
+                                    5              formed service, the responsible member.
+                                    6     SEC. 8. LEGISLATIVE AND JUDICIAL INFORMATION.
+                                    7              It is the sense of Congress that judicial and legislative
+                                    8 agencies (within the meaning of section 3701 of title 31,
+                                    9 United States Code) should adopt or adapt the rec-
+                                  10 ommendations of the Advisory Committee for their own
+                                  11 use. In addition, judicial and legislative agencies are en-
+                                  12 couraged to consider the guidelines issued by the Advisory
+                                  13 Committee and the regulations promulgated by the E-Gov-
+                                  14 ernment Administrator.
+                                  15      SEC. 9. GOVERNMENT PRINTING OFFICE.
+                                  16               It is the sense of Congress that the Government
+                                  17 Printing Office should make all of its publications perma-
+                                  18 nently available on the Internet in a multiplicity of for-
+                                  19 mats that best meet the needs of the public. In doing so,
+                                  20 the Government Printing Office is strongly encouraged to
+                                  21 consider the recommendations of the Advisory Committee
+                                  22 and the E-Government Administrator.
+                                              •S 549 IS                                    Æ

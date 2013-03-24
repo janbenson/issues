@@ -1,0 +1,384 @@
+                                                                                                                                   II
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                            S. 418
+                                  To require the Federal Trade Commission to prescribe regulations regarding
+                                      the collection and use of personal information obtained by tracking the
+                                      online activity of an individual, and for other purposes.
+
+
+
+
+                                              IN THE SENATE OF THE UNITED STATES
+                                                               FEBRUARY 28, 2013
+                                  Mr. ROCKEFELLER (for himself and Mr. BLUMENTHAL) introduced the fol-
+                                      lowing bill; which was read twice and referred to the Committee on Com-
+                                      merce, Science, and Transportation
+
+
+
+
+                                                                            A BILL
+                                  To require the Federal Trade Commission to prescribe regu-
+                                      lations regarding the collection and use of personal infor-
+                                      mation obtained by tracking the online activity of an
+                                      individual, and for other purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Do-Not-Track Online
+                                    5 Act of 2013’’.
+
+
+
+
+
+                                                                                             2
+                                    1     SEC.        2.    REGULATIONS                 RELATING               TO      ‘‘DO-NOT-TRACK’’
+                                    2                             MECHANISMS.
+                                    3              (a) IN GENERAL.—Not later than 1 year after the
+                                    4 date of the enactment of this Act, the Federal Trade Com-
+                                    5 mission shall promulgate—
+                                    6                        (1) regulations that establish standards for the
+                                    7              implementation of a mechanism by which an indi-
+                                    8              vidual can simply and easily indicate whether the in-
+                                    9              dividual prefers to have personal information col-
+                                  10               lected by providers of online services, including by
+                                  11               providers of mobile applications and services; and
+                                  12                         (2) rules that prohibit, except as provided in
+                                  13               subsection (b), such providers from collecting per-
+                                  14               sonal information on individuals who have expressed,
+                                  15               via a mechanism that meets the standards promul-
+                                  16               gated under paragraph (1), a preference not to have
+                                  17               such information collected.
+                                  18               (b) EXCEPTION.—The rules promulgated under para-
+                                  19 graph (2) of subsection (a) shall allow for the collection
+                                  20 and use of personal information on an individual described
+                                  21 in such paragraph, notwithstanding the expressed pref-
+                                  22 erence of the individual via a mechanism that meets the
+                                  23 standards promulgated under paragraph (1) of such sub-
+                                  24 section, to the extent—
+
+
+
+
+
+                                  25                         (1) necessary to provide a service requested by
+                                  26               the individual, including with respect to such service,
+                                              •S 418 IS
+
+                                                                                             3
+                                    1              basic functionality and effectiveness, so long as such
+                                    2              information is anonymized or deleted upon the provi-
+                                    3              sion of such service; or
+                                    4                        (2) the individual—
+                                    5                                 (A) receives clear, conspicuous, and accu-
+                                    6                        rate notice on the collection and use of such in-
+                                    7                        formation; and
+                                    8                                 (B) affirmatively consents to such collec-
+                                    9                        tion and use.
+                                  10               (c) FACTORS.—In promulgating standards and rules
+                                  11 under subsection (a), the Federal Trade Commission shall
+                                  12 consider and take into account the following:
+                                  13                         (1) The appropriate scope of such standards
+                                  14               and rules, including the conduct to which such rules
+                                  15               shall apply and the persons required to comply with
+                                  16               such rules.
+                                  17                         (2) The technical feasibility and costs of—
+                                  18                                  (A) implementing mechanisms that would
+                                  19                         meet such standards; and
+                                  20                                  (B) complying with such rules.
+                                  21                         (3) Mechanisms that—
+                                  22                                  (A) have been developed or used before the
+                                  23                         date of the enactment of this Act; and
+
+
+
+
+
+                                  24                                  (B) are for individuals to indicate simply
+                                  25                         and easily whether the individuals prefer to
+
+
+                                              •S 418 IS
+
+                                                                                             4
+                                    1                        have personal information collected by providers
+                                    2                        of online services, including by providers of mo-
+                                    3                        bile applications and services.
+                                    4                        (4) How mechanisms that meet such standards
+                                    5              should be publicized and offered to individuals.
+                                    6                        (5) Whether and how information can be col-
+                                    7              lected and used on an anonymous basis so that the
+                                    8              information—
+                                    9                                 (A) cannot be reasonably linked or identi-
+                                  10                         fied with a person or device, both on its own
+                                  11                         and in combination with other information; and
+                                  12                                  (B) does not qualify as personal informa-
+                                  13                         tion subject to the rules promulgated under
+                                  14                         subsection (a)(2).
+                                  15                         (6) The standards under which personal infor-
+                                  16               mation may be collected and used, subject to the
+                                  17               anonymization or deletion requirements of sub-
+                                  18               section (b)(1)—
+                                  19                                  (A) to fulfill the basic functionality and ef-
+                                  20                         fectiveness of an online service, including a mo-
+                                  21                         bile application or service;
+                                  22                                  (B) to provide the content or services re-
+                                  23                         quested by individuals who have otherwise ex-
+
+
+
+
+                                  24                         pressed, via a mechanism that meets the stand-
+                                  25                         ards promulgated under subsection (a)(1), a
+
+
+                                              •S 418 IS
+
+                                                                                             5
+                                    1                        preference not to have personal information col-
+                                    2                        lected; and
+                                    3                                 (C) for such other purposes as the Com-
+                                    4                        mission determines substantially facilitates the
+                                    5                        functionality and effectiveness of the online
+                                    6                        service, or mobile application or service, in a
+                                    7                        manner that does not undermine an individual’s
+                                    8                        preference, expressed via such mechanism, not
+                                    9                        to collect such information.
+                                  10               (d) RULEMAKING.—The Federal Trade Commission
+                                  11 shall promulgate the standards and rules required by sub-
+                                  12 section (a) in accordance with section 553 of title 5,
+                                  13 United States Code.
+                                  14      SEC. 3. ENFORCEMENT OF ‘‘DO-NOT-TRACK’’ MECHANISMS.
+
+                                  15               (a) ENFORCEMENT                       BY      FEDERAL TRADE COMMIS-
+                                  16      SION.—
+
+                                  17                         (1) UNFAIR               OR DECEPTIVE ACTS OR PRAC-
+                                  18               TICES.—A             violation of a rule promulgated under sec-
+                                  19               tion 2(a)(2) shall be treated as an unfair and decep-
+                                  20               tive act or practice in violation of a regulation under
+                                  21               section 18(a)(1)(B) of the Federal Trade Commis-
+                                  22               sion Act (15 U.S.C. 57a(a)(1)(B)) regarding unfair
+                                  23               or deceptive acts or practices.
+
+
+
+
+
+                                  24                         (2) POWERS             OF COMMISSION.—
+
+
+
+
+                                              •S 418 IS
+
+                                                                                             6
+                                    1                                 (A) IN        GENERAL.—Except                         as provided in
+                                    2                        subparagraph (C), the Federal Trade Commis-
+                                    3                        sion shall enforce this Act in the same manner,
+                                    4                        by the same means, and with the same jurisdic-
+                                    5                        tion, powers, and duties as though all applicable
+                                    6                        terms and provisions of the Federal Trade
+                                    7                        Commission Act (15 U.S.C. 41 et seq.) were in-
+                                    8                        corporated into and made a part of this Act.
+                                    9                                 (B) PRIVILEGES                     AND IMMUNITIES.—Ex-
+                                  10                         cept as provided in subparagraph (C), any per-
+                                  11                         son who violates this Act shall be subject to the
+                                  12                         penalties and entitled to the privileges and im-
+                                  13                         munities provided in the Federal Trade Com-
+                                  14                         mission Act (15 U.S.C. 41 et seq.).
+                                  15                                  (C)         NONPROFIT                 ORGANIZATIONS.—The
+                                  16                         Federal Trade Commission shall enforce this
+                                  17                         Act with respect to an organization that is not
+                                  18                         organized to carry on business for its own profit
+                                  19                         or that of its members as if such organization
+                                  20                         were a person over which the Commission has
+                                  21                         authority pursuant to section 5(a)(2) of the
+                                  22                         Federal Trade Commission Act (15 U.S.C.
+                                  23                         45(a)(2)).
+                                  24               (b) ENFORCEMENT BY STATES.—
+
+
+
+
+                                              •S 418 IS
+
+                                                                                             7
+                                    1                        (1) IN      GENERAL.—In                     any case in which the at-
+                                    2              torney general of a State has reason to believe that
+                                    3              an interest of the residents of the State has been or
+                                    4              is threatened or adversely affected by the engage-
+                                    5              ment of any person subject to a rule promulgated
+                                    6              under section 2(a)(2) in a practice that violates the
+                                    7              rule, the attorney general of the State may, as
+                                    8              parens patriae, bring a civil action on behalf of the
+                                    9              residents of the State in an appropriate district
+                                  10               court of the United States—
+                                  11                                  (A) to enjoin further violation of such rule
+                                  12                         by such person;
+                                  13                                  (B) to compel compliance with such rule;
+                                  14                                  (C) to obtain damages, restitution, or other
+                                  15                         compensation on behalf of such residents;
+                                  16                                  (D) to obtain such other relief as the court
+                                  17                         considers appropriate; or
+                                  18                                  (E) to obtain civil penalties in the amount
+                                  19                         determined under paragraph (2).
+                                  20                         (2) CIVIL        PENALTIES.—
+
+                                  21                                  (A) CALCULATION.—Subject to subpara-
+                                  22                         graph (B), for purposes of imposing a civil pen-
+                                  23                         alty under paragraph (1)(E) with respect to a
+
+
+
+
+                                  24                         person that violates a rule promulgated under
+                                  25                         section 2(a)(2), the amount determined under
+
+
+                                              •S 418 IS
+
+                                                                                             8
+                                    1                        this paragraph is the amount calculated by mul-
+                                    2                        tiplying the number of days that the person is
+                                    3                        not in compliance with the rule by an amount
+                                    4                        not greater than $16,000.
+                                    5                                 (B) MAXIMUM                        TOTAL         LIABILITY.—The
+                                    6                        total amount of civil penalties that may be im-
+                                    7                        posed with respect to a person that violates a
+                                    8                        rule promulgated under section 2(a)(2) shall
+                                    9                        not exceed $15,000,000 for all civil actions
+                                  10                         brought against such person under paragraph
+                                  11                         (1) for such violation.
+                                  12                                  (C) ADJUSTMENT                       FOR INFLATION.—Be-
+                                  13                         ginning on the date on which the Bureau of
+                                  14                         Labor Statistics first publishes the Consumer
+                                  15                         Price Index after the date that is 1 year after
+                                  16                         the date of the enactment of this Act, and an-
+                                  17                         nually thereafter, the amounts specified in sub-
+                                  18                         paragraphs (A) and (B) shall be increased by
+                                  19                         the percentage increase in the Consumer Price
+                                  20                         Index published on that date from the Con-
+                                  21                         sumer Price Index published the previous year.
+                                  22                         (3) RIGHTS                OF         FEDERAL             TRADE        COMMIS-
+                                  23               SION.—
+                                  24                                  (A) NOTICE                 TO FEDERAL TRADE COMMIS-
+                                  25          •S 418 IS    SION.—                        9
+                                    1                                         (i) IN         GENERAL.—Except                       as provided
+                                    2                                 in clause (iii), the attorney general of a
+                                    3                                 State shall notify the Federal Trade Com-
+                                    4                                 mission in writing that the attorney gen-
+                                    5                                 eral intends to bring a civil action under
+                                    6                                 paragraph (1) before initiating the civil ac-
+                                    7                                 tion.
+                                    8                                         (ii) CONTENTS.—The notification re-
+                                    9                                 quired by clause (i) with respect to a civil
+                                  10                                  action shall include a copy of the complaint
+                                  11                                  to be filed to initiate the civil action.
+                                  12                                          (iii) EXCEPTION.—If it is not feasible
+                                  13                                  for the attorney general of a State to pro-
+                                  14                                  vide the notification required by clause (i)
+                                  15                                  before initiating a civil action under para-
+                                  16                                  graph (1), the attorney general shall notify
+                                  17                                  the Federal Trade Commission imme-
+                                  18                                  diately upon instituting the civil action.
+                                  19                                  (B) INTERVENTION                        BY FEDERAL TRADE
+                                  20                         COMMISSION.—The                      Federal Trade Commission
+                                  21                         may—
+                                  22                                          (i) intervene in any civil action
+                                  23                                  brought by the attorney general of a State
+
+
+
+
+                                  24                                  under paragraph (1); and
+                                  25                                          (ii) upon intervening—
+
+
+                                              •S 418 IS
+
+                                                                                         10
+                                    1                                                  (I) be heard on all matters aris-
+                                    2                                        ing in the civil action; and
+                                    3                                                  (II) file petitions for appeal of a
+                                    4                                        decision in the civil action.
+                                    5                        (4) INVESTIGATORY                     POWERS.—Nothing                 in this
+                                    6              subsection may be construed to prevent the attorney
+                                    7              general of a State from exercising the powers con-
+                                    8              ferred on the attorney general by the laws of the
+                                    9              State to conduct investigations, to administer oaths
+                                  10               or affirmations, or to compel the attendance of wit-
+                                  11               nesses or the production of documentary or other
+                                  12               evidence.
+                                  13                         (5) PREEMPTIVE                   ACTION BY FEDERAL TRADE
+                                  14               COMMISSION.—If                   the Federal Trade Commission in-
+                                  15               stitutes a civil action or an administrative action
+                                  16               with respect to a violation of a rule promulgated
+                                  17               under section 2(a)(2), the attorney general of a
+                                  18               State may not, during the pendency of such action,
+                                  19               bring a civil action under paragraph (1) against any
+                                  20               defendant named in the complaint of the Commis-
+                                  21               sion for the violation with respect to which the Com-
+                                  22               mission instituted such action.
+                                  23                         (6) VENUE;            SERVICE OF PROCESS.—
+                                  24                                  (A) VENUE.—Any action brought under
+                                  25                         paragraph (1) may be brought in—
+
+
+                                              •S 418 IS
+
+                                                                                         11
+                                    1                                        (i) the district court of the United
+                                    2                                 States that meets applicable requirements
+                                    3                                 relating to venue under section 1391 of
+                                    4                                 title 28, United States Code; or
+                                    5                                        (ii) another court of competent juris-
+                                    6                                 diction.
+                                    7                                 (B) SERVICE               OF PROCESS.—In                     an action
+                                    8                        brought under paragraph (1), process may be
+                                    9                        served in any district in which the defendant—
+                                  10                                         (i) is an inhabitant; or
+                                  11                                         (ii) may be found.
+                                  12                         (7) ACTIONS             BY OTHER STATE OFFICIALS.—
+
+                                  13                                  (A) IN       GENERAL.—In                   addition to civil ac-
+                                  14                         tions brought by attorneys general under para-
+                                  15                         graph (1), any other officer of a State who is
+                                  16                         authorized by the State to do so may bring a
+                                  17                         civil action under paragraph (1), subject to the
+                                  18                         same requirements and limitations that apply
+                                  19                         under this subsection to civil actions brought by
+                                  20                         attorneys general.
+                                  21                                  (B) SAVINGS              PROVISION.—Nothing                    in this
+                                  22                         subsection may be construed to prohibit an au-
+                                  23                         thorized official of a State from initiating or
+
+
+
+
+                                  24                         continuing any proceeding in a court of the
+                                              •S 418 IS
+
+                                                                                         12
+                                    1                        State for a violation of any civil or criminal law
+                                    2                        of the State.
+                                    3     SEC. 4. BIENNIAL REVIEW AND ASSESSMENT.
+                                    4              Not later than 2 years after the effective date of the
+                                    5 regulations initially promulgated under section 2, the Fed-
+                                    6 eral Trade Commission shall—
+                                    7                        (1) review the implementation of this Act;
+                                    8                        (2) assess the effectiveness of such regulations,
+                                    9              including how such regulations define or interpret
+                                  10               the term ‘‘personal information’’ as such term is
+                                  11               used in section 2;
+                                  12                         (3) assess the effect of such regulations on on-
+                                  13               line commerce; and
+                                  14                         (4) submit to Congress a report on the results
+                                  15               of the review and assessments required by this sec-
+                                  16               tion.
+                                              •S 418 IS                                    Æ

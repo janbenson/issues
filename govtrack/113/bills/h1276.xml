@@ -1,0 +1,62 @@
+<bill session="113" type="h" number="1276" updated="2013-03-21T06:16:32-04:00">
+  <state datetime="2013-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-03-20"/>
+  <titles>
+    <title as="introduced" type="official">To amend title VII of the Tariff Act of 1930 to clarify that countervailing duties may be imposed to address subsidies relating to a fundamentally undervalued currency of any foreign country.</title>
+  </titles>
+  <sponsor id="400238"/>
+  <cosponsors>
+    <cosponsor id="412395" joined="2013-03-20"/>
+    <cosponsor id="400061" joined="2013-03-20"/>
+    <cosponsor id="400076" joined="2013-03-20"/>
+    <cosponsor id="400080" joined="2013-03-20"/>
+    <cosponsor id="400081" joined="2013-03-20"/>
+    <cosponsor id="400090" joined="2013-03-20"/>
+    <cosponsor id="400100" joined="2013-03-20"/>
+    <cosponsor id="400110" joined="2013-03-20"/>
+    <cosponsor id="412215" joined="2013-03-20"/>
+    <cosponsor id="412535" joined="2013-03-20"/>
+    <cosponsor id="412257" joined="2013-03-20"/>
+    <cosponsor id="412485" joined="2013-03-20"/>
+    <cosponsor id="400162" joined="2013-03-20"/>
+    <cosponsor id="412280" joined="2013-03-20"/>
+    <cosponsor id="400641" joined="2013-03-20"/>
+    <cosponsor id="412460" joined="2013-03-20"/>
+    <cosponsor id="400209" joined="2013-03-20"/>
+    <cosponsor id="400211" joined="2013-03-20"/>
+    <cosponsor id="400630" joined="2013-03-20"/>
+    <cosponsor id="400249" joined="2013-03-20"/>
+    <cosponsor id="400644" joined="2013-03-20"/>
+    <cosponsor id="412487" joined="2013-03-20"/>
+    <cosponsor id="412466" joined="2013-03-20"/>
+    <cosponsor id="400274" joined="2013-03-20"/>
+    <cosponsor id="400278" joined="2013-03-20"/>
+    <cosponsor id="400285" joined="2013-03-20"/>
+    <cosponsor id="412383" joined="2013-03-20"/>
+    <cosponsor id="412585" joined="2013-03-20"/>
+    <cosponsor id="400333" joined="2013-03-20"/>
+    <cosponsor id="400352" joined="2013-03-20"/>
+    <cosponsor id="400647" joined="2013-03-20"/>
+    <cosponsor id="412219" joined="2013-03-20"/>
+    <cosponsor id="400378" joined="2013-03-20"/>
+    <cosponsor id="412317" joined="2013-03-20"/>
+    <cosponsor id="400411" joined="2013-03-20"/>
+    <cosponsor id="400417" joined="2013-03-20"/>
+    <cosponsor id="412239" joined="2013-03-20"/>
+    <cosponsor id="400440" joined="2013-03-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-20">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

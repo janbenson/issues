@@ -1,0 +1,298 @@
+                                                                                                                                                                   II
+
+
+
+
+                                                                  113TH CONGRESS
+                                                                     1ST SESSION                            S. 106
+                                                                     To provide for the establishment, on-going validation, and use of an official
+                                                                      set of data on the historical temperature record, and for other purposes.
+
+
+
+
+                                                                              IN THE SENATE OF THE UNITED STATES
+                                                                                  JANUARY 23 (legislative day, JANUARY 3), 2013
+                                                                    Mr. VITTER introduced the following bill; which was read twice and referred
+                                                                           to the Committee on Commerce, Science, and Transportation
+
+
+
+
+                                                                                                            A BILL
+                                                                  To provide for the establishment, on-going validation, and
+                                                                     use of an official set of data on the historical tempera-
+                                                                     ture record, and for other purposes.
+                                                                    1               Be it enacted by the Senate and House of Representa-
+                                                                    2 tives of the United States of America in Congress assembled,
+                                                                    3     SECTION 1. SHORT TITLE.
+                                                                    4               This Act may be cited as the ‘‘Public Access to His-
+                                                                    5 torical Records Act’’.
+                                                                    6     SEC. 2. OFFICIAL DATASET ON HISTORICAL TEMPERATURE
+                                                                    7                             RECORD.
+                                                                    8               (a) ESTABLISHMENT                          OF        OFFICIAL DATASET          BY
+smartinez on DSK6TPTVN1PROD with
+
+
+
+                                                                    9 NASA.—The Administrator of the National Aeronautics
+                                                                                                                             2
+                                                                    1 and Space Administration shall establish an official
+                                                                    2 dataset on the historical temperature record.
+                                                                    3               (b) REQUIREMENTS FOR DATASET.—
+                                                                    4                        (1) USE          OF RAW DATA.—In                           establishing the
+                                                                    5               dataset required by this section, the Administrator
+                                                                    6               shall use the raw data relating to temperature col-
+                                                                    7               lected by each applicable station and vessel and
+                                                                    8               shall, for that purpose, reexamine applicable records
+                                                                    9               collected by such stations and vessels and accurately
+                                                                  10                quantify the statistical uncertainty (including esti-
+                                                                  11                mates of random and bias errors) of each tempera-
+                                                                  12                ture observation and any subsequent products based
+                                                                  13                on such observation.
+                                                                  14                         (2) CLEAR            AND FULL IDENTIFICATION OF GAPS
+                                                                  15                IN DATA.—In               establishing the dataset, the Adminis-
+                                                                  16                trator shall clearly and fully identify each gap that
+                                                                  17                exists in temperature station data and temperature
+                                                                  18                reading data.
+                                                                  19                         (3) FILL-IN                DATA.—If               in establishing the
+                                                                  20                dataset the Administrator supplies or fills in data to
+                                                                  21                address a gap in temperature station data or tem-
+                                                                  22                perature reading data, or for any other reason, the
+                                                                  23                Administrator shall—
+smartinez on DSK6TPTVN1PROD with                                  24                                  (A) clearly and fully identify the data so
+                                                                  25                         supplied or filled in as fill-in data; and
+
+
+                                                                               •S 106 IS
+
+                                                                                                                             3
+                                                                    1                                 (B) clearly and fully explain the rationale
+                                                                    2                        for supplying or filling in such data.
+                                                                    3               (c) PANEL            ON       USE    OF      DATA        FOR      ESTABLISHMENT
+                                                                    4     OF     DATASET.—
+                                                                    5                        (1) IN       GENERAL.—The                     Administrator shall es-
+                                                                    6               tablish a panel to assist the Administrator in the es-
+                                                                    7               tablishment of the dataset required by this section.
+                                                                    8                        (2) MEMBERS.—The panel shall consist of
+                                                                    9               seven individuals appointed by the Administrator
+                                                                  10                from among individuals in the private sector with ac-
+                                                                  11                knowledged expertise in meteorology and statistics
+                                                                  12                who—
+                                                                  13                                  (A) do not have a significant financial in-
+                                                                  14                         terest in taking a position on the matter of
+                                                                  15                         global climate change; and
+                                                                  16                                  (B) have not received funding from any de-
+                                                                  17                         partment, agency, or entity of the Federal Gov-
+                                                                  18                         ernment for activities relating to global climate
+                                                                  19                         research within the past five years.
+                                                                  20                         (3) DUTIES.—The panel shall assist the Admin-
+                                                                  21                istrator in establishing the dataset required by this
+                                                                  22                section by—
+                                                                  23                                  (A) determining which land surface, sea
+smartinez on DSK6TPTVN1PROD with                                  24                         surface, and satellite records shall be used in
+                                                                  25                         the establishment of the dataset;
+
+
+                                                                               •S 106 IS
+
+                                                                                                                             4
+                                                                    1                                 (B) establishing standards and criteria for
+                                                                    2                        determining confidence levels for the interpola-
+                                                                    3                        tion and extrapolation of historical average
+                                                                    4                        global temperatures over successive 25-year pe-
+                                                                    5                        riods in the past; and
+                                                                    6                                 (C) establishing a rationale for an average
+                                                                    7                        historical global temperature and a means of
+                                                                    8                        analysis for assessing the accuracy of such av-
+                                                                    9                        erage.
+                                                                  10                (d) INDEPENDENT VERIFICATION                                     AND       VALIDATION
+                                                                  11      OF     DATASET.—
+                                                                  12                         (1) IN         GENERAL.—Not                     less often than once
+                                                                  13                every three years, the Administrator shall enter into
+                                                                  14                a contract with an appropriate entity that is inde-
+                                                                  15                pendent of the Federal Government to perform a
+                                                                  16                verification and validation of the dataset established
+                                                                  17                under this section.
+                                                                  18                         (2) APPROPRIATE                     ENTITIES.—An                      entity with
+                                                                  19                which the Administrator enters into a contract
+                                                                  20                under this subsection shall be an entity with per-
+                                                                  21                sonnel having the skills and expertise appropriate for
+                                                                  22                the verification or validation (as the case may be) of
+                                                                  23                the dataset, including the following:
+smartinez on DSK6TPTVN1PROD with                                  24                                  (A) For the verification, personnel with
+                                                                  25                         skills and expertise relating to computer pro-
+
+
+                                                                               •S 106 IS
+
+                                                                                                                             5
+                                                                    1                        gramming and computer software development
+                                                                    2                        (including error handling).
+                                                                    3                                 (B) For the validation, personnel with ex-
+                                                                    4                        pertise in statistics and meteorology.
+                                                                    5                        (3) RESPONSIBILITIES.—In carrying out the
+                                                                    6               verification or validation of the dataset under a con-
+                                                                    7               tract under this subsection, an entity shall carry out
+                                                                    8               such activities with respect to the dataset as the Ad-
+                                                                    9               ministrator shall specify in the contract, including a
+                                                                  10                review of any data interpolation codes for purposes
+                                                                  11                of identifying and eliminating bias.
+                                                                  12                         (4) PUBLICATION.—Any algorithms used, and
+                                                                  13                any determinations made, in the verification and val-
+                                                                  14                idation of the dataset pursuant to this subsection
+                                                                  15                shall be made available to the public.
+                                                                  16      SEC. 3. USE OF DATASET IN GLOBAL CLIMATE RESEARCH.
+
+                                                                  17                (a) USE AS SOLE SOURCE OF DATA.—Upon the com-
+                                                                  18 pletion of the establishment of the dataset on the historical
+                                                                  19 temperature record required by section 2, any person or
+                                                                  20 entity engaged in global climate research that is funded
+                                                                  21 in whole or in part with funds from the Federal Govern-
+                                                                  22 ment shall use the dataset as the source of data on the
+                                                                  23 historical temperature record.
+                                                                  24                (b) USE AMONG MULTIPLE SOURCES                                          OF     DATA.—In
+smartinez on DSK6TPTVN1PROD with
+
+
+
+                                                                  25 publishing any findings or hypothesis on global climate
+                                                                               •S 106 IS
+
+                                                                                                                             6
+                                                                    1 change, any person or entity engaged in global climate re-
+                                                                    2 search that is funded in whole or in part with funds from
+                                                                    3 the Federal Government shall use the dataset described
+                                                                    4 in subsection (a) as the primary source, or at least one
+                                                                    5 of the primary sources, for historical global temperatures
+                                                                    6 if such person or entity elects to consider multiple sources
+                                                                    7 of such data.
+                                                                    8     SEC. 4. PUBLIC RELEASE OF TEMPERATURE STATION
+                                                                    9                             DATA.
+                                                                  10                (a) RELEASE              OF        RAW DATA REQUIRED.—The Sec-
+                                                                  11 retary of Commerce shall provide for the immediate re-
+                                                                  12 lease to the public, in unadjusted form, of all raw tempera-
+                                                                  13 ture station data from cooperative observers and auto-
+                                                                  14 mated stations collected by the National Climatic Data
+                                                                  15 Center as of the date of the enactment of this Act. The
+                                                                  16 data shall be released to the public in a digital electronic
+                                                                  17 format.
+                                                                  18                (b) RELEASE                   OF    CERTAIN ANALYSES.—The Sec-
+                                                                  19 retary shall provide for the immediate release to the public
+                                                                  20 of an analysis of the differences between the raw tempera-
+                                                                  21 ture datasets and the final temperature datasets collected
+                                                                  22 and administered by the National Climatic Data Center
+                                                                  23 as of the date of the enactment of this Act. The analysis
+smartinez on DSK6TPTVN1PROD with                                  24 shall be released to the public in digital numerical tabular
+                                                                  25 form and in graphical form. One such graph shall show
+
+
+                                                                               •S 106 IS
+
+                                                                                                                             7
+                                                                    1 the raw temperature dataset line overlain with the final
+                                                                    2 temperature dataset line over time.
+                                                                    3     SEC. 5. ACCURACY OF DATA PROCESSING AND DATA AD-
+                                                                    4                             JUSTMENT.
+                                                                    5               (a) DATA PROCESSING.—
+                                                                    6                        (1) RELEASE              TO PUBLIC.—The                        applicable Fed-
+                                                                    7               eral official shall publish on the Internet website of
+                                                                    8               the agency concerned that is available to the public
+                                                                    9               any coding or other algorithm used by such official
+                                                                  10                in processing data for purposes of complying with
+                                                                  11                the requirements of section 2 or 4, as the case may
+                                                                  12                be, together with a notice of the availability of the
+                                                                  13                review and correction of such coding or algorithm
+                                                                  14                for quality, objectivity, utility, and integrity by such
+                                                                  15                agency pursuant to the administrative mechanisms
+                                                                  16                applicable              to        such           agency             under       section
+                                                                  17                515(b)(2)(B) of the Information Quality Act.
+                                                                  18                         (2) REVIEW.—Any request for the correction of
+                                                                  19                coding or other algorithm under paragraph (1) shall
+                                                                  20                be processed in accordance with the guidelines of the
+                                                                  21                Information Quality Act applicable to the agency
+                                                                  22                concerned not later than 30 days after receipt of
+                                                                  23                such request by such agency.
+                                                                  24                (b) DATA ADJUSTMENT.—
+smartinez on DSK6TPTVN1PROD with
+
+
+
+
+                                                                               •S 106 IS
+
+                                                                                                                             8
+                                                                    1                        (1) METHODS                TO COMPLY WITH INFORMATION
+                                                                    2               QUALITY ACT.—The                         applicable Federal official may
+                                                                    3               not use a method for the adjustment of data for
+                                                                    4               purposes of complying with the requirements of sec-
+                                                                    5               tion 2 or 4, as the case may be, unless such official
+                                                                    6               ensures and certifies that such method complies with
+                                                                    7               the guidelines of the Information Quality Act, in-
+                                                                    8               cluding, but not limited to, requirements as follows:
+                                                                    9                                 (A) To make available to the public (in-
+                                                                  10                         cluding through the Internet website of the
+                                                                  11                         agency concerned that is available to the public)
+                                                                  12                         the computer coding and a detailed explanation
+                                                                  13                         of the processes used in such adjustment of
+                                                                  14                         data.
+                                                                  15                                  (B) To make available to the public (in-
+                                                                  16                         cluding through such Internet website) all peer
+                                                                  17                         review comments relating to the data being ad-
+                                                                  18                         justed and the processes and algorithms used in
+                                                                  19                         such adjustment of data.
+                                                                  20                                  (C) To make available to the public (in-
+                                                                  21                         cluding through such Internet website) a de-
+                                                                  22                         scription of any previous changes in the data
+                                                                  23                         being adjusted and of the effect of such changes
+smartinez on DSK6TPTVN1PROD with                                  24                         on trends, averages, and other statistical cat-
+                                                                  25                         egories of such data.
+
+
+                                                                               •S 106 IS
+
+                                                                                                                             9
+                                                                    1                                 (D) To cite all applicable studies, reports,
+                                                                    2                        and peer reviewed papers using the data being
+                                                                    3                        adjusted or any earlier iterations of such data.
+                                                                    4                                 (E) To use in such adjustment of data
+                                                                    5                        only data and adjustment processes and algo-
+                                                                    6                        rithms that are non-proprietary in nature.
+                                                                    7                                 (F) To require that any agents and con-
+                                                                    8                        tractors relied upon in such adjustment of data
+                                                                    9                        are subject to section 552 of title 5, United
+                                                                  10                         States Code (commonly referred to as the
+                                                                  11                         ‘‘Freedom of Information Act’’), regarding their
+                                                                  12                         activities in such adjustment of data.
+                                                                  13                         (2) AVAILABILITY                    UPON REQUEST.—Not                 later
+                                                                  14                than 10 days after the date of receipt of a request
+                                                                  15                therefor, the applicable Federal official shall make
+                                                                  16                available the certification with respect to a method
+                                                                  17                for the adjustment of data under paragraph (1), to-
+                                                                  18                gether with a description of such method sufficient
+                                                                  19                to permit independent replication of the adjustment
+                                                                  20                made by such method.
+                                                                  21                (c) DEFINITIONS.—In this section:
+                                                                  22                         (1) The term ‘‘applicable Federal official’’
+smartinez on DSK6TPTVN1PROD with                                  23                means the following:
+                                                                               •S 106 IS
+
+                                                                                                                         10
+                                                                    1                                 (A) The Administrator of the National
+                                                                    2                        Aeronautics and Space Administration for pur-
+                                                                    3                        poses of actions under section 2.
+                                                                    4                                 (B) The Secretary of Commerce for pur-
+                                                                    5                        poses of actions under section 4.
+                                                                    6                        (2) The term ‘‘Information Quality Act’’ means
+                                                                    7               section 515 of the Treasury and General Govern-
+                                                                    8               ment Appropriations Act, 2001 (as enacted into law
+                                                                    9               by the Consolidated Appropriations Act, 2001 (Pub-
+                                                                  10                lic Law 106–554; 114 Stat. 2763A–153)).
+                                                                                                                             Æ
+smartinez on DSK6TPTVN1PROD with
+
+
+
+
+                                                                               •S 106 IS
+

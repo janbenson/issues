@@ -1,0 +1,74 @@
+<bill session="113" type="h" number="787" updated="2013-03-16T06:27:48-04:00">
+  <state datetime="2013-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-15"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title as="introduced" type="short">Infrastructure Jobs and Energy Independence Act</title>
+    <title as="introduced" type="official">To greatly enhance America's path toward energy independence and economic and national security, to rebuild our Nation's aging roads, bridges, locks, and dams, and for other purposes.</title>
+  </titles>
+  <sponsor id="400285"/>
+  <cosponsors>
+    <cosponsor id="412445" joined="2013-03-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-15">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committees on the Judiciary, Energy and Commerce, Rules, the Budget, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+      <committee name="House Energy and Commerce"/>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to House Rules</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2013-02-19">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2013-02-19">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2013-02-19">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+    <action datetime="2013-03-01">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and Mineral Resources" name="House Natural Resources"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+    <committee code="HSBU" name="House Budget" activity="Referral, In Committee"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW12" subcommittee="Highways and Transit" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources and Environment" name="House Transportation and Infrastructure"/>
+    <committee activity="Referral" code="HSPW14" subcommittee="Railroads, Pipelines, and Hazardous Materials" name="House Transportation and Infrastructure"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,4 +1,3 @@
-
 var onMenu = 0;
 function switchBillTab(to, title) {
     allTabs = Element.childElements('bill_tabs')
@@ -10,9 +9,7 @@ function switchBillTab(to, title) {
     onMenu = 0;
     $j('#bill_tab_select').hide().toggleClass('small_heading_hover');
 }
-
 $j(document).ready(function(){
-
 $j('#popular_ul_title').hover(function(event) {
     $j('#bill_tab_select').show().toggleClass('small_heading_hover');
 }, function(event) {
@@ -30,5 +27,4 @@ $j('#bill_tab_select').hover(function(event) {
        $j('#bill_tab_select').hide().toggleClass('small_heading_hover');
    }
 });
-
 });

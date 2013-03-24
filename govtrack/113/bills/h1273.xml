@@ -1,0 +1,25 @@
+<bill session="113" type="h" number="1273" updated="2013-03-20T04:47:32-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title as="introduced" type="official">To amend the Farm Security and Rural Investment Act of 2002 to reauthorize and improve the Rural Energy for America Program.</title>
+  </titles>
+  <sponsor id="412239"/>
+  <cosponsors>
+    <cosponsor id="412214" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-19">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

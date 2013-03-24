@@ -1,0 +1,42 @@
+<bill session="113" type="h" number="1179" updated="2013-03-22T12:45:57-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="short">Improving Access to Medicare Coverage Act of 2013</title>
+    <title as="introduced" type="official">To amend title XVIII of the Social Security Act to count a period of receipt of outpatient observation services in a hospital toward satisfying the 3-day inpatient hospital requirement for coverage of skilled nursing facility services under Medicare.</title>
+  </titles>
+  <sponsor id="412193"/>
+  <cosponsors>
+    <cosponsor id="412470" joined="2013-03-19"/>
+    <cosponsor id="400103" joined="2013-03-19"/>
+    <cosponsor id="400162" joined="2013-03-19"/>
+    <cosponsor id="400230" joined="2013-03-19"/>
+    <cosponsor id="400233" joined="2013-03-19"/>
+    <cosponsor id="400234" joined="2013-03-14"/>
+    <cosponsor id="412209" joined="2013-03-19"/>
+    <cosponsor id="408211" joined="2013-03-19"/>
+    <cosponsor id="400295" joined="2013-03-19"/>
+    <cosponsor id="400360" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

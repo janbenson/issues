@@ -1,0 +1,821 @@
+                                                                                                                                   I
+
+
+
+
+                                  113TH CONGRESS
+                                     1ST SESSION                          H. R. 967
+                                  To amend the High-Performance Computing Act of 1991 to authorize activi-
+                                      ties for support of networking and information technology research, and
+                                      for other purposes.
+
+
+
+
+                                                IN THE HOUSE OF REPRESENTATIVES
+                                                               MARCH 5, 2013
+                                  Mrs. LUMMIS (for herself, Mr. SMITH of Texas, and Ms. EDDIE BERNICE
+                                      JOHNSON of Texas) introduced the following bill; which was referred to
+                                      the Committee on Science, Space, and Technology
+
+
+
+
+                                                                            A BILL
+                                  To amend the High-Performance Computing Act of 1991
+                                     to authorize activities for support of networking and
+                                     information technology research, and for other purposes.
+                                    1              Be it enacted by the Senate and House of Representa-
+                                    2 tives of the United States of America in Congress assembled,
+                                    3     SECTION 1. SHORT TITLE.
+                                    4              This Act may be cited as the ‘‘Advancing America’s
+                                    5 Networking and Information Technology Research and
+                                    6 Development Act of 2013’’.
+                                    7     SEC. 2. PROGRAM PLANNING AND COORDINATION.
+                                    8              (a) PERIODIC REVIEWS.—Section 101 of the High-
+                                    9 Performance Computing Act of 1991 (15 U.S.C. 5511)
+
+                                                                                             2
+                                    1 is amended by adding at the end the following new sub-
+                                    2 section:
+                                    3              ‘‘(d) PERIODIC REVIEWS.—The agencies identified in
+                                    4 subsection (a)(3)(B) shall—
+                                    5                        ‘‘(1) periodically assess the contents and fund-
+                                    6              ing levels of the Program Component Areas and re-
+                                    7              structure the Program when warranted, taking into
+                                    8              consideration any relevant recommendations of the
+                                    9              advisory committee established under subsection (b);
+                                  10               and
+                                  11                         ‘‘(2) ensure that the Program includes large-
+                                  12               scale, long-term, interdisciplinary research and de-
+                                  13               velopment activities, including activities described in
+                                  14               section 104.’’.
+                                  15               (b) DEVELOPMENT                       OF      STRATEGIC PLAN.—Section
+                                  16 101 of such Act (15 U.S.C. 5511) is amended further by
+                                  17 adding after subsection (d), as added by subsection (a)
+                                  18 of this Act, the following new subsection:
+                                  19               ‘‘(e) STRATEGIC PLAN.—
+                                  20                         ‘‘(1) IN       GENERAL.—The                     agencies identified in
+                                  21               subsection (a)(3)(B), working through the National
+                                  22               Science and Technology Council and with the assist-
+                                  23               ance of the National Coordination Office described
+                                  24               under section 102, shall develop, within 12 months
+
+
+
+
+                                  25               after the date of enactment of the Advancing Amer-
+                                              •HR 967 IH
+
+                                                                                             3
+                                    1              ica’s Networking and Information Technology Re-
+                                    2              search and Development Act of 2013, and update
+                                    3              every 3 years thereafter, a 5-year strategic plan to
+                                    4              guide the activities described under subsection
+                                    5              (a)(1).
+                                    6                        ‘‘(2) CONTENTS.—The strategic plan shall
+                                    7              specify near-term and long-term objectives for the
+                                    8              Program, the anticipated time frame for achieving
+                                    9              the near-term objectives, the metrics to be used for
+                                  10               assessing progress toward the objectives, and how
+                                  11               the Program will—
+                                  12                                  ‘‘(A) foster the transfer of research and
+                                  13                         development results into new technologies and
+                                  14                         applications for the benefit of society, including
+                                  15                         through cooperation and collaborations with
+                                  16                         networking and information technology re-
+                                  17                         search, development, and technology transition
+                                  18                         initiatives supported by the States;
+                                  19                                  ‘‘(B) encourage and support mechanisms
+                                  20                         for interdisciplinary research and development
+                                  21                         in networking and information technology, in-
+                                  22                         cluding through collaborations across agencies,
+                                  23                         across Program Component Areas, with indus-
+                                  24                         try, with Federal laboratories (as defined in
+
+
+
+
+                                  25                         section 4 of the Stevenson-Wydler Technology
+                                              •HR 967 IH
+
+                                                                                             4
+                                    1                        Innovation Act of 1980 (15 U.S.C. 3703)), and
+                                    2                        with international organizations;
+                                    3                                 ‘‘(C) address long-term challenges of na-
+                                    4                        tional importance for which solutions require
+                                    5                        large-scale, long-term, interdisciplinary research
+                                    6                        and development;
+                                    7                                 ‘‘(D) place emphasis on innovative and
+                                    8                        high-risk projects having the potential for sub-
+                                    9                        stantial societal returns on the research invest-
+                                  10                         ment;
+                                  11                                  ‘‘(E) strengthen all levels of networking
+                                  12                         and information technology education and
+                                  13                         training programs to ensure an adequate, well-
+                                  14                         trained workforce; and
+                                  15                                  ‘‘(F) attract more women and underrep-
+                                  16                         resented minorities to pursue postsecondary de-
+                                  17                         grees in networking and information tech-
+                                  18                         nology.
+                                  19                         ‘‘(3)        NATIONAL                 RESEARCH                  INFRASTRUC-
+                                  20               TURE.—The                strategic plan developed in accordance
+                                  21               with paragraph (1) shall be accompanied by mile-
+                                  22               stones and roadmaps for establishing and maintain-
+                                  23               ing the national research infrastructure required to
+                                  24               support the Program, including the roadmap re-
+
+
+
+
+                                  25               quired by subsection (a)(2)(E).
+                                              •HR 967 IH
+
+                                                                                             5
+                                    1                        ‘‘(4) RECOMMENDATIONS.—The entities in-
+                                    2              volved in developing the strategic plan under para-
+                                    3              graph (1) shall take into consideration the rec-
+                                    4              ommendations—
+                                    5                                 ‘‘(A) of the advisory committee established
+                                    6                        under subsection (b); and
+                                    7                                 ‘‘(B) of the stakeholders whose input was
+                                    8                        solicited by the National Coordination Office, as
+                                    9                        required under section 102(b)(3).
+                                  10                         ‘‘(5) REPORT              TO CONGRESS.—The                            Director of
+                                  11               the National Coordination Office shall transmit the
+                                  12               strategic plan required under paragraph (1) to the
+                                  13               advisory committee, the Committee on Commerce,
+                                  14               Science, and Transportation of the Senate, and the
+                                  15               Committee on Science, Space, and Technology of the
+                                  16               House of Representatives.’’.
+                                  17               (c) ADDITIONAL RESPONSIBILITIES                                    OF     DIRECTOR.—
+                                  18 Section 101(a)(2) of such Act (15 U.S.C. 5511(a)(2)) is
+                                  19 amended—
+                                  20                         (1) in subparagraph (A) by inserting ‘‘edu-
+                                  21               cation,’’ before ‘‘and other activities’’;
+                                  22                         (2) by redesignating subparagraphs (E) and
+                                  23               (F) as subparagraphs (F) and (G), respectively; and
+                                  24                         (3) by inserting after subparagraph (D) the fol-
+
+
+
+
+                                  25               lowing new subparagraph:
+                                              •HR 967 IH
+
+                                                                                             6
+                                    1                        ‘‘(E) encourage and monitor the efforts of the
+                                    2              agencies participating in the Program to allocate the
+                                    3              level of resources and management attention nec-
+                                    4              essary to ensure that the strategic plan under sub-
+                                    5              section (e) is developed and executed effectively and
+                                    6              that the objectives of the Program are met;’’.
+                                    7              (d) ADVISORY COMMITTEE.—Section 101(b)(1) of
+                                    8 such Act (15 U.S.C. 5511(b)(1)) is amended—
+                                    9                        (1) after the first sentence, by inserting the fol-
+                                  10               lowing: ‘‘The co-chairs of the advisory committee
+                                  11               shall meet the qualifications of committee member-
+                                  12               ship and may be members of the President’s Council
+                                  13               of Advisors on Science and Technology.’’; and
+                                  14                         (2) in subparagraph (D), by striking ‘‘high-per-
+                                  15               formance’’ and inserting ‘‘high-end’’.
+                                  16               (e) REPORT.—Section 101(a)(3) of such Act (15
+                                  17 U.S.C. 5511(a)(3)) is amended—
+                                  18                         (1) in subparagraph (C)—
+                                  19                                  (A) by striking ‘‘is submitted,’’ and insert-
+                                  20                         ing ‘‘is submitted, the levels for the previous
+                                  21                         fiscal year,’’; and
+                                  22                                  (B) by striking ‘‘each Program Component
+                                  23                         Area;’’ and inserting ‘‘each Program Compo-
+                                  24                         nent Area and research area supported in ac-
+
+
+
+
+                                  25                         cordance with section 104;’’;
+                                              •HR 967 IH
+
+                                                                                             7
+                                    1                        (2) in subparagraph (D)—
+                                    2                                 (A) by striking ‘‘each Program Component
+                                    3                        Area,’’ and inserting ‘‘each Program Compo-
+                                    4                        nent Area and research area supported in ac-
+                                    5                        cordance with section 104,’’;
+                                    6                                 (B) by striking ‘‘is submitted,’’ and insert-
+                                    7                        ing ‘‘is submitted, the levels for the previous
+                                    8                        fiscal year,’’; and
+                                    9                                 (C) by striking ‘‘and’’ after the semicolon;
+                                  10                         (3) by redesignating subparagraph (E) as sub-
+                                  11               paragraph (G); and
+                                  12                         (4) by inserting after subparagraph (D) the fol-
+                                  13               lowing new subparagraphs:
+                                  14                         ‘‘(E) include a description of how the objectives
+                                  15               for each Program Component Area, and the objec-
+                                  16               tives for activities that involve multiple Program
+                                  17               Component Areas, relate to the objectives of the
+                                  18               Program identified in the strategic plan required
+                                  19               under subsection (e);
+                                  20                         ‘‘(F) include—
+                                  21                                  ‘‘(i) a description of the funding required
+                                  22                         by the National Coordination Office to perform
+                                  23                         the functions specified under section 102(b) for
+                                  24                         the next fiscal year by category of activity;
+
+
+
+
+
+                                              •HR 967 IH
+
+                                                                                             8
+                                    1                                 ‘‘(ii) a description of the funding required
+                                    2                        by such Office to perform the functions speci-
+                                    3                        fied under section 102(b) for the current fiscal
+                                    4                        year by category of activity; and
+                                    5                                 ‘‘(iii) the amount of funding provided for
+                                    6                        such Office for the current fiscal year by each
+                                    7                        agency participating in the Program; and’’.
+                                    8              (f) DEFINITION.—Section 4 of such Act (15 U.S.C.
+                                  109 5503) is amended—    (1) by redesignating paragraphs (1) through
+                                  11               (7) as paragraphs (2) through (8), respectively;
+                                  12                         (2) by inserting before paragraph (2), as so re-
+                                  13               designated, the following new paragraph:
+                                  14                         ‘‘(1) ‘cyber-physical systems’ means physical or
+                                  15               engineered systems whose networking and informa-
+                                  16               tion technology functions and physical elements are
+                                  17               deeply integrated and are actively connected to the
+                                  18               physical world through sensors, actuators, or other
+                                  19               means to perform monitoring and control func-
+                                  20               tions;’’;
+                                  21                         (3) in paragraph (3), as so redesignated, by
+                                  22               striking ‘‘high-performance computing’’ and insert-
+                                  23               ing ‘‘networking and information technology’’;
+                                  24                         (4) in paragraph (4), as so redesignated—
+
+
+
+
+
+                                              •HR 967 IH
+
+                                                                                             9
+                                    1                                 (A) by striking ‘‘high-performance com-
+                                    2                        puting’’ and inserting ‘‘networking and infor-
+                                    3                        mation technology’’; and
+                                    4                                 (B) by striking ‘‘supercomputer’’ and in-
+                                    5                        serting ‘‘high-end computing’’;
+                                    6                        (5) in paragraph (6), as so redesignated, by
+                                    7              striking ‘‘network referred to as’’ and all that fol-
+                                    8              lows through the semicolon and inserting ‘‘network,
+                                    9              including advanced computer networks of Federal
+                                  10               agencies and departments;’’; and
+                                  11                         (6) in paragraph (7), as so redesignated, by
+                                  12               striking ‘‘National High-Performance Computing
+                                  13               Program’’ and inserting ‘‘networking and informa-
+                                  14               tion technology research and development program’’.
+                                  15      SEC. 3. LARGE-SCALE RESEARCH IN AREAS OF NATIONAL
+                                  16                              IMPORTANCE.
+                                  17               Title I of such Act (15 U.S.C. 5511) is amended by
+                                  18 adding at the end the following new section:
+                                  19      ‘‘SEC. 104. LARGE-SCALE RESEARCH IN AREAS OF NA-
+                                  20                              TIONAL IMPORTANCE.
+                                  21               ‘‘(a) IN GENERAL.—The Program shall encourage
+                                  22 agencies identified in section 101(a)(3)(B) to support
+                                  23 large-scale, long-term, interdisciplinary research and de-
+                                  24 velopment activities in networking and information tech-
+
+
+
+
+                                  25 nology directed toward application areas that have the po-
+                                              •HR 967 IH
+
+                                                                                         10
+                                    1 tential for significant contributions to national economic
+                                    2 competitiveness and for other significant societal benefits.
+                                    3 Such activities, ranging from basic research to the dem-
+                                    4 onstration of technical solutions, shall be designed to ad-
+                                    5 vance the development of research discoveries. The advi-
+                                    6 sory committee established under section 101(b) shall
+                                    7 make recommendations to the Program for candidate re-
+                                    8 search and development areas for support under this sec-
+                                    9 tion.
+                                  10               ‘‘(b) CHARACTERISTICS.—
+                                  11                         ‘‘(1) IN       GENERAL.—Research                         and development
+                                  12               activities under this section shall—
+                                  13                                  ‘‘(A) include projects selected on the basis
+                                  14                         of applications for support through a competi-
+                                  15                         tive, merit-based process;
+                                  16                                  ‘‘(B) involve collaborations among re-
+                                  17                         searchers in institutions of higher education
+                                  18                         and industry, and may involve nonprofit re-
+                                  19                         search institutions and Federal laboratories, as
+                                  20                         appropriate;
+                                  21                                  ‘‘(C) when possible, leverage Federal in-
+                                  22                         vestments through collaboration with related
+                                  23                         State initiatives; and
+                                  24                                  ‘‘(D) include a plan for fostering the trans-
+
+
+
+
+                                  25                         fer of research discoveries and the results of
+                                              •HR 967 IH
+
+                                                                                         11
+                                    1                        technology demonstration activities, including
+                                    2                        from institutions of higher education and Fed-
+                                    3                        eral laboratories, to industry for commercial de-
+                                    4                        velopment.
+                                    5                        ‘‘(2) COST-SHARING.—In selecting applications
+                                    6              for support, the agencies shall give special consider-
+                                    7              ation to projects that include cost sharing from non-
+                                    8              Federal sources.
+                                    9                        ‘‘(3) AGENCY              COLLABORATION.—If                           2 or more
+                                  10               agencies identified in section 101(a)(3)(B), or other
+                                  11               appropriate agencies, are working on large-scale re-
+                                  12               search and development activities in the same area
+                                  13               of national importance, then such agencies shall
+                                  14               strive to collaborate through joint solicitation and se-
+                                  15               lection of applications for support and subsequent
+                                  16               funding of projects.
+                                  17                         ‘‘(4)       INTERDISCIPLINARY                          RESEARCH            CEN-
+                                  18               TERS.—Research                    and development activities under
+                                  19               this section may be supported through interdiscipli-
+                                  20               nary research centers that are organized to inves-
+                                  21               tigate basic research questions and carry out tech-
+                                  22               nology demonstration activities in areas described in
+                                  23               subsection (a). Research may be carried out through
+                                  24               existing interdisciplinary centers, including those au-
+
+
+
+
+                                  25               thorized under section 7024(b)(2) of the America
+                                              •HR 967 IH
+
+                                                                                         12
+                                    1              COMPETES Act (Public Law 110–69; 42 U.S.C.
+                                    2              1862o–10).’’.
+                                    3     SEC. 4. CYBER-PHYSICAL SYSTEMS.
+
+                                    4              (a) ADDITIONAL PROGRAM CHARACTERISTICS.—Sec-
+                                    5 tion 101(a)(1) of such Act (15 U.S.C. 5511(a)(1)) is
+                                    6 amended—
+                                    7                        (1) in subparagraph (H), by striking ‘‘and’’
+                                    8              after the semicolon;
+                                    9                        (2) in subparagraph (I), by striking the period
+                                  10               at the end and inserting a semicolon; and
+                                  11                         (3) by adding at the end the following new sub-
+                                  12               paragraphs:
+                                  13                         ‘‘(J) provide for increased understanding of the
+                                  14               scientific principles of cyber-physical systems and
+                                  15               improve the methods available for the design, devel-
+                                  16               opment, and operation of cyber-physical systems
+                                  17               that are characterized by high reliability, safety, and
+                                  18               security; and
+                                  19                         ‘‘(K) provide for research and development on
+                                  20               human-computer interactions, visualization, and big
+                                  21               data.’’.
+                                  22               (b) TASK FORCE.—Title I of such Act (15 U.S.C.
+                                  23 5511) is amended further by adding after section 104, as
+                                  24 added by section 3 of this Act, the following new section:
+
+
+
+
+
+                                              •HR 967 IH
+
+                                    1     ‘‘SEC. 105. UNIVERSITY/INDUSTRY TASK FORCE.13
+                                    2              ‘‘(a) ESTABLISHMENT.—Not later than 180 days
+                                    3 after the date of enactment of the Advancing America’s
+                                    4 Networking and Information Technology Research and
+                                    5 Development Act of 2013, the Director of the National
+                                    6 Coordination Office shall convene a task force to explore
+                                    7 mechanisms for carrying out collaborative research and
+                                    8 development activities for cyber-physical systems, includ-
+                                    9 ing the related technologies required to enable these sys-
+                                  10 tems, through a consortium or other appropriate entity
+                                  11 with participants from institutions of higher education,
+                                  12 Federal laboratories, and industry.
+                                  13               ‘‘(b) FUNCTIONS.—The task force shall—
+                                  14                         ‘‘(1) develop options for a collaborative model
+                                  15               and an organizational structure for such entity
+                                  16               under which the joint research and development ac-
+                                  17               tivities could be planned, managed, and conducted
+                                  18               effectively, including mechanisms for the allocation
+                                  19               of resources among the participants in such entity
+                                  20               for support of such activities;
+                                  21                         ‘‘(2) propose a process for developing a re-
+                                  22               search and development agenda for such entity, in-
+                                  23               cluding guidelines to ensure an appropriate scope of
+                                  24               work focused on nationally significant challenges and
+
+
+
+
+                                  25               requiring collaboration and to ensure the develop-
+                                              •HR 967 IH
+
+                                                                                         14
+                                    1              ment of related scientific and technological mile-
+                                    2              stones;
+                                    3                        ‘‘(3) define the roles and responsibilities for the
+                                    4              participants from institutions of higher education,
+                                    5              Federal laboratories, and industry in such entity;
+                                    6                        ‘‘(4) propose guidelines for assigning intellec-
+                                    7              tual property rights and for the transfer of research
+                                    8              results to the private sector; and
+                                    9                        ‘‘(5) make recommendations for how such enti-
+                                  10               ty could be funded from Federal, State, and non-
+                                  11               governmental sources.
+                                  12               ‘‘(c) COMPOSITION.—In establishing the task force
+                                  13 under subsection (a), the Director of the National Coordi-
+                                  14 nation Office—
+                                  15                         ‘‘(1) shall appoint an equal number of individ-
+                                  16               uals with knowledge and expertise in cyber-physical
+                                  17               systems from—
+                                  18                                  ‘‘(A) institutions of higher education, in-
+                                  19                         cluding minority-serving institutions and com-
+                                  20                         munity colleges; and
+                                  21                                  ‘‘(B) industry; and
+                                  22                         ‘‘(2) may appoint not more than 2 individuals
+                                  23               from Federal laboratories.
+                                  24               ‘‘(d) REPORT.—Not later than 1 year after the date
+
+
+
+
+                                  25 of enactment of the Advancing America’s Networking and
+                                              •HR 967 IH
+
+                                                                                         15
+                                    1 Information Technology Research and Development Act of
+                                    2 2013, the Director of the National Coordination Office
+                                    3 shall transmit to the Committee on Commerce, Science,
+                                    4 and Transportation of the Senate and the Committee on
+                                    5 Science, Space, and Technology of the House of Rep-
+                                    6 resentatives a report describing the findings and rec-
+                                    7 ommendations of the task force.
+                                    8              ‘‘(e) TERMINATION.—The task force shall terminate
+                                    9 upon transmittal of the report required under subsection
+                                  10 (d).
+                                  11               ‘‘(f) COMPENSATION.—Members of the task force
+                                  12 shall serve without compensation.’’.
+                                  13      SEC. 5. CLOUD COMPUTING SERVICES FOR RESEARCH.
+                                  14               Title I of such Act (15 U.S.C. 5511) is amended fur-
+                                  15 ther by adding after section 105, as added by section 4(b)
+                                  16 of this Act, the following new section:
+                                  17      ‘‘SEC. 106. CLOUD COMPUTING SERVICES FOR RESEARCH.
+
+                                  18               ‘‘(a) INTERAGENCY WORKING GROUP.—Not later
+                                  19 than 180 days after the date of enactment of the Advanc-
+                                  20 ing America’s Networking and Information Technology
+                                  21 Research and Development Act of 2013, the Director of
+                                  22 the National Coordination Office, working through the
+                                  23 National Science and Technology Council, shall convene
+                                  24 an interagency working group to examine—
+
+
+
+
+
+                                  25                         ‘‘(1) the research and development needed—
+
+
+                                              •HR 967 IH
+
+                                                                                         16
+                                    1                                 ‘‘(A) to enhance the effectiveness and effi-
+                                    2                        ciency of cloud computing environments;
+                                    3                                 ‘‘(B) to increase the trustworthiness of
+                                    4                        cloud applications and infrastructure; and
+                                    5                                 ‘‘(C) to enhance the foundations of cloud
+                                    6                        architectures, programming models, and inter-
+                                    7                        operability; and
+                                    8                        ‘‘(2) the potential use of cloud computing for
+                                    9              federally funded science and engineering research,
+                                  10               including issues around funding mechanisms and
+                                  11               policies for the use of cloud computing services for
+                                  12               such research.
+                                  13               ‘‘(b) CONSULTATION.—In carrying out the tasks in
+                                  14 paragraphs (1) and (2) of subsection (a), the working
+                                  15 group shall consult with academia, industry, Federal lab-
+                                  16 oratories, and other relevant organizations and institu-
+                                  17 tions, as appropriate.
+                                  18               ‘‘(c) REPORT.—Not later than 1 year after the date
+                                  19 of enactment of the Advancing America’s Networking and
+                                  20 Information Technology Research and Development Act of
+                                  21 2013, the Director of the National Coordination Office
+                                  22 shall transmit to the Committee on Science, Space, and
+                                  23 Technology of the House of Representatives and the Com-
+                                  24 mittee on Commerce, Science, and Transportation of the
+
+
+
+
+
+                                              •HR 967 IH
+
+                                                                                         17
+                                    1 Senate a report describing the findings and any rec-
+                                    2 ommendations of the working group.
+                                    3              ‘‘(d) TERMINATION.—The interagency working group
+                                    4 shall terminate upon transmittal of the report required
+                                    5 under subsection (c).’’.
+                                    6     SEC. 6. NATIONAL COORDINATION OFFICE.
+                                    7              Section 102 of such Act (15 U.S.C. 5512) is amended
+                                    8 to read as follows:
+                                    9     ‘‘SEC. 102. NATIONAL COORDINATION OFFICE.
+
+                                  10               ‘‘(a) OFFICE.—The Director shall continue a Na-
+                                  11 tional Coordination Office with a Director and full-time
+                                  12 staff.
+                                  13               ‘‘(b) FUNCTIONS.—The National Coordination Office
+                                  14 shall—
+                                  15                         ‘‘(1) provide technical and administrative sup-
+                                  16               port to—
+                                  17                                  ‘‘(A) the agencies participating in planning
+                                  18                         and implementing the Program, including such
+                                  19                         support as needed in the development of the
+                                  20                         strategic plan under section 101(e); and
+                                  21                                  ‘‘(B) the advisory committee established
+                                  22                         under section 101(b);
+                                  23                         ‘‘(2) serve as the primary point of contact on
+                                  24               Federal networking and information technology ac-
+
+
+
+
+                                  25               tivities for government organizations, academia, in-
+                                              •HR 967 IH
+
+                                                                                         18
+                                    1              dustry, professional societies, State computing and
+                                    2              networking technology programs, interested citizen
+                                    3              groups, and others to exchange technical and pro-
+                                    4              grammatic information;
+                                    5                        ‘‘(3) solicit input and recommendations from a
+                                    6              wide range of stakeholders during the development
+                                    7              of each strategic plan required under section 101(e)
+                                    8              through the convening of at least 1 workshop with
+                                    9              invitees from academia, industry, Federal labora-
+                                  10               tories, and other relevant organizations and institu-
+                                  11               tions;
+                                  12                         ‘‘(4) conduct public outreach, including the dis-
+                                  13               semination of findings and recommendations of the
+                                  14               advisory committee, as appropriate; and
+                                  15                         ‘‘(5) promote access to and early application of
+                                  16               the technologies, innovations, and expertise derived
+                                  17               from Program activities to agency missions and sys-
+                                  18               tems across the Federal Government and to United
+                                  19               States industry.
+                                  20               ‘‘(c) SOURCE OF FUNDING.—
+                                  21                         ‘‘(1) IN       GENERAL.—The                      operation of the Na-
+                                  22               tional Coordination Office shall be supported by
+                                  23               funds from each agency participating in the Pro-
+                                  24               gram.
+
+
+
+
+
+                                              •HR 967 IH
+
+                                                                                         19
+                                    1                        ‘‘(2) SPECIFICATIONS.—The portion of the total
+                                    2              budget of such Office that is provided by each agen-
+                                    3              cy for each fiscal year shall be in the same propor-
+                                    4              tion as each such agency’s share of the total budget
+                                    5              for the Program for the previous fiscal year, as spec-
+                                    6              ified        in       the        report          required                under   section
+                                    7              101(a)(3).’’.
+                                    8     SEC.        7.    IMPROVING               NETWORKING                  AND          INFORMATION
+                                    9                             TECHNOLOGY EDUCATION.
+                                  10               Section 201(a) of such Act (15 U.S.C. 5521(a)) is
+                                  11 amended—
+                                  12                         (1) by redesignating paragraphs (2) through
+                                  13               (4) as paragraphs (3) through (5), respectively; and
+                                  14                         (2) by inserting after paragraph (1) the fol-
+                                  15               lowing new paragraph:
+                                  16                         ‘‘(2) the National Science Foundation shall use
+                                  17               its existing programs, in collaboration with other
+                                  18               agencies, as appropriate, to improve the teaching
+                                  19               and learning of networking and information tech-
+                                  20               nology at all levels of education and to increase par-
+                                  21               ticipation in networking and information technology
+                                  22               fields, including by women and underrepresented mi-
+                                  23               norities;’’.
+
+
+
+
+
+                                              •HR 967 IH
+
+                                    1     SEC. 8. CONFORMING AND TECHNICAL AMENDMENTS.   20
+                                    2              (a) SECTION 3.—Section 3 of such Act (15 U.S.C.
+                                    3 5502) is amended—
+                                    4                        (1) in the matter preceding paragraph (1), by
+                                    5              striking ‘‘high-performance computing’’ and insert-
+                                    6              ing ‘‘networking and information technology’’;
+                                    7                        (2) in paragraph (1)—
+                                    8                                 (A) in the matter preceding subparagraph
+                                    9                        (A), by striking ‘‘high-performance computing’’
+                                  10                         and inserting ‘‘networking and information
+                                  11                         technology’’;
+                                  12                                  (B) in subparagraphs (A), (F), and (G), by
+                                  13                         striking ‘‘high-performance computing’’ each
+                                  14                         place it appears and inserting ‘‘networking and
+                                  15                         information technology’’; and
+                                  16                                  (C) in subparagraph (H), by striking
+                                  17                         ‘‘high-performance’’ and inserting ‘‘high-end’’;
+                                  18                         and
+                                  19                         (3) in paragraph (2)—
+                                  20                                  (A) by striking ‘‘high-performance com-
+                                  21                         puting and’’ and inserting ‘‘networking and in-
+                                  22                         formation technology and’’; and
+                                  23                                  (B) by striking ‘‘high-performance com-
+                                  24                         puting network’’ and inserting ‘‘networking and
+
+
+
+
+                                  25                         information technology’’.
+                                              •HR 967 IH
+
+                                                                                         21
+                                    1              (b) TITLE I.—The heading of title I of such Act (15
+                                    2 U.S.C. 5511) is amended by striking ‘‘HIGH-PER-
+                                    3 FORMANCE COMPUTING’’ and inserting ‘‘NET-
+                                    4 WORKING                            AND                 INFORMATION                            TECH-
+                                    5 NOLOGY’’.
+                                    6              (c) SECTION 101.—Section 101 of such Act (15
+                                    7 U.S.C. 5511) is amended—
+                                    8                        (1) in the section heading, by striking ‘‘HIGH-
+                                    9              PERFORMANCE                          COMPUTING’’                         and     inserting
+                                  10               ‘‘NETWORKING                        AND           INFORMATION                      TECH-
+                                  11               NOLOGY RESEARCH AND DEVELOPMENT’’;
+                                  12                         (2) in subsection (a)—
+                                  13                                  (A) in the subsection heading, by striking
+                                  14                         ‘‘NATIONAL HIGH-PERFORMANCE COMPUTING’’
+                                  15                         and inserting ‘‘NETWORKING                                 AND        INFORMA-
+                                  16                         TION      TECHNOLOGY RESEARCH                                  AND    DEVELOP-
+                                  17                         MENT’’;
+
+                                  18                                  (B) in paragraph (1) of such subsection—
+                                  19                                         (i) in the matter preceding subpara-
+                                  20                                  graph (A), by striking ‘‘National High-Per-
+                                  21                                  formance Computing Program’’ and insert-
+                                  22                                  ing ‘‘networking and information tech-
+                                  23                                  nology research and development pro-
+                                  24                                  gram’’;
+
+
+
+
+
+                                              •HR 967 IH
+
+                                                                                         22
+                                    1                                        (ii) in subparagraph (A), by striking
+                                    2                                 ‘‘high-performance computing, including
+                                    3                                 networking’’ and inserting ‘‘networking
+                                    4                                 and information technology’’;
+                                    5                                        (iii) in subparagraphs (B) and (G), by
+                                    6                                 striking ‘‘high-performance’’ each place it
+                                    7                                 appears and inserting ‘‘high-end’’; and
+                                    8                                        (iv) in subparagraph (C), by striking
+                                    9                                 ‘‘high-performance computing and net-
+                                  10                                  working’’ and inserting ‘‘high-end com-
+                                  11                                  puting, distributed, and networking’’; and
+                                  12                                  (C) in paragraph (2) of such subsection—
+                                  13                                         (i) in subparagraphs (A) and (C)—
+                                  14                                                   (I) by striking ‘‘high-performance
+                                  15                                         computing’’ each place it appears and
+                                  16                                         inserting ‘‘networking and information
+                                  17                                         technology’’; and
+                                  18                                                   (II) by striking ‘‘development,
+                                  19                                         networking,’’ each place it appears
+                                  20                                         and inserting ‘‘development,’’; and
+                                  21                                         (ii) in subparagraphs (F) and (G), as
+                                  22                                  redesignated by section 2(c)(1) of this Act,
+                                  23                                  by striking ‘‘high-performance’’ each place
+                                  24                                  it appears and inserting ‘‘high-end’’;
+
+
+
+
+
+                                  25                         (3) in subsection (b)—
+
+
+                                              •HR 967 IH
+
+                                                                                         23
+                                    1                                 (A) in paragraph (1), in the matter pre-
+                                    2                        ceding subparagraph (A), by striking ‘‘high-per-
+                                    3                        formance computing’’ both places it appears
+                                    4                        and inserting ‘‘networking and information
+                                    5                        technology’’; and
+                                    6                                 (B) in paragraph (2), in the second sen-
+                                    7                        tence, by striking ‘‘2’’ and inserting ‘‘3’’; and
+                                    8                        (4) in subsection (c)(1)(A), by striking ‘‘high-
+                                    9              performance computing’’ and inserting ‘‘networking
+                                  10               and information technology’’.
+                                  11               (d) SECTION 201.—Section 201(a)(1) of such Act
+                                  12 (15 U.S.C. 5521(a)(1)) is amended by striking ‘‘high-per-
+                                  13 formance computing’’ and all that follows through ‘‘net-
+                                  14 working;’’ and inserting ‘‘networking and information re-
+                                  15 search and development;’’.
+                                  16               (e) SECTION 202.—Section 202(a) of such Act (15
+                                  17 U.S.C. 5522(a)) is amended by striking ‘‘high-perform-
+                                  18 ance computing’’ and inserting ‘‘networking and informa-
+                                  19 tion technology’’.
+                                  20               (f) SECTION 203.—Section 203(a) of such Act (15
+                                  21 U.S.C. 5523(a)(1)) is amended—
+                                  22                         (1) in paragraph (1), by striking ‘‘high-per-
+                                  23               formance computing and networking’’ and inserting
+                                  24               ‘‘networking and information technology’’; and
+
+
+
+
+
+                                              •HR 967 IH
+
+                                                                                         24
+                                    1                        (2) in paragraph (2)(A), by striking ‘‘high-per-
+                                    2              formance’’ and inserting ‘‘high-end’’.
+                                    3              (g) SECTION 204.—Section 204 of such Act (15
+                                    4 U.S.C. 5524) is amended—
+                                    5                        (1) in subsection (a)(1)—
+                                    6                                 (A) in subparagraph (A), by striking
+                                    7                        ‘‘high-performance computing systems and net-
+                                    8                        works’’ and inserting ‘‘networking and informa-
+                                    9                        tion technology systems and capabilities’’;
+                                  10                                  (B) in subparagraph (B), by striking
+                                  11                         ‘‘interoperability                of        high-performance               com-
+                                  12                         puting systems in networks and for common
+                                  13                         user interfaces to systems’’ and inserting
+                                  14                         ‘‘interoperability and usability of networking
+                                  15                         and information technology systems’’; and
+                                  16                                  (C) in subparagraph (C), by striking
+                                  17                         ‘‘high-performance computing’’ and inserting
+                                  18                         ‘‘networking and information technology’’; and
+                                  19                         (2) in subsection (b)—
+                                  20                                  (A) in the heading, by striking ‘‘HIGH-
+                                  21                         PERFORMANCE COMPUTING                                   AND           NETWORK’’
+                                  22                         and inserting ‘‘NETWORKING                                 AND         INFORMA-
+                                  23                         TION      TECHNOLOGY’’; and
+                                  24                                  (B) by striking ‘‘sensitive’’.
+
+
+
+
+
+                                              •HR 967 IH
+
+                                                                                         25
+                                    1              (h) SECTION 205.—Section 205(a) of such Act (15
+                                    2 U.S.C. 5525(a)) is amended by striking ‘‘computational’’
+                                    3 and inserting ‘‘networking and information technology’’.
+                                    4              (i) SECTION 206.—Section 206(a) of such Act (15
+                                    5 U.S.C. 5526(a)) is amended by striking ‘‘computational
+                                    6 research’’ and inserting ‘‘networking and information
+                                    7 technology research’’.
+                                    8              (j) SECTION 207.—Section 207(b) of such Act (15
+                                    9 U.S.C. 5527(b)) is amended by striking ‘‘high-perform-
+                                  10 ance computing’’ and inserting ‘‘networking and informa-
+                                  11 tion technology’’.
+                                  12               (k) SECTION 208.—Section 208 of such Act (15
+                                  13 U.S.C. 5528) is amended—
+                                  14                         (1) in the section heading, by striking ‘‘HIGH-
+                                  15               PERFORMANCE                          COMPUTING’’                         and    inserting
+                                  16               ‘‘NETWORKING                        AND           INFORMATION                     TECH-
+                                  17               NOLOGY’’;             and
+                                  18                         (2) in subsection (a)—
+                                  19                                  (A) in paragraph (1), by striking ‘‘High-
+                                  20                         performance computing and associated’’ and in-
+                                  21                         serting ‘‘Networking and information’’;
+                                  22                                  (B) in paragraph (2), by striking ‘‘high-
+                                  23                         performance computing’’ and inserting ‘‘net-
+                                  24                         working and information technologies’’;
+
+
+
+
+
+                                              •HR 967 IH
+
+                                                                                         26
+                                    1                                 (C) in paragraph (3), by striking ‘‘high-
+                                    2                        performance’’ and inserting ‘‘high-end’’;
+                                    3                                 (D) in paragraph (4), by striking ‘‘high-
+                                    4                        performance computers and associated’’ and in-
+                                    5                        serting ‘‘networking and information’’; and
+                                    6                                 (E) in paragraph (5), by striking ‘‘high-
+                                    7                        performance computing and associated’’ and in-
+                                    8                        serting ‘‘networking and information’’.
+                                              •HR 967 IH                                   Æ

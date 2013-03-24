@@ -1,0 +1,29 @@
+<bill session="113" type="h" number="1151" updated="2013-03-21T06:16:26-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title as="introduced" type="official">To direct the Secretary of State to develop a strategy to obtain observer status for Taiwan at the triennial International Civil Aviation Organization Assembly, and for other purposes.</title>
+  </titles>
+  <sponsor id="400348"/>
+  <cosponsors>
+    <cosponsor id="412272" joined="2013-03-20"/>
+    <cosponsor id="400122" joined="2013-03-14"/>
+    <cosponsor id="400654" joined="2013-03-20"/>
+    <cosponsor id="400344" joined="2013-03-20"/>
+    <cosponsor id="400606" joined="2013-03-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-14">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

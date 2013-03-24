@@ -1,0 +1,32 @@
+<bill session="113" type="s" number="495" updated="2013-03-16T06:19:24-04:00">
+  <state datetime="2013-03-07">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-07"/>
+  </status>
+  <introduced datetime="2013-03-07"/>
+  <titles>
+    <title as="introduced" type="short">Careers for Veterans Act of 2013</title>
+    <title as="introduced" type="official">A bill to amend title 38, United States Code, to require Federal agencies to hire veterans, to require States to recognize the military experience of veterans when issuing licenses and credentials to veterans, and for other purposes.</title>
+  </titles>
+  <sponsor id="400054"/>
+  <cosponsors>
+    <cosponsor id="400040" joined="2013-03-07"/>
+    <cosponsor id="300027" joined="2013-03-07"/>
+    <cosponsor id="412218" joined="2013-03-07"/>
+    <cosponsor id="400194" joined="2013-03-07"/>
+    <cosponsor id="412491" joined="2013-03-11"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-07">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="113" type="s" number="492"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,30 @@
+<bill session="113" type="h" number="1352" updated="2013-03-22T04:47:04-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To provide for the protection of the quality of water in the Lower Colorado River and the development and implementation of a comprehensive plan for the prevention and elimination of pollution in the Lower Colorado River and the maintenance of a healthy Lower Colorado River ecosystem.</title>
+  </titles>
+  <sponsor id="400162"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Natural Resources</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="113" type="h" number="556" updated="2013-03-21T06:15:47-04:00">
+  <state datetime="2013-02-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-06"/>
+  </status>
+  <introduced datetime="2013-02-06"/>
+  <titles>
+    <title as="introduced" type="short">Refundable Child Tax Credit Eligibility Verification Reform Act of 2013</title>
+    <title as="introduced" type="official">To amend the Internal Revenue Code of 1986 to require individuals to include their social security numbers on the income tax return as a condition of claiming the refundable portion of the child tax credit, and for other purposes.</title>
+  </titles>
+  <sponsor id="400206"/>
+  <cosponsors>
+    <cosponsor id="400018" joined="2013-03-20"/>
+    <cosponsor id="400029" joined="2013-03-20"/>
+    <cosponsor id="400089" joined="2013-03-20"/>
+    <cosponsor id="412457" joined="2013-03-20"/>
+    <cosponsor id="400165" joined="2013-03-20"/>
+    <cosponsor id="400220" joined="2013-03-20"/>
+    <cosponsor id="412290" joined="2013-03-14"/>
+    <cosponsor id="412294" joined="2013-03-20"/>
+    <cosponsor id="412475" joined="2013-03-20"/>
+    <cosponsor id="412302" joined="2013-03-20"/>
+    <cosponsor id="400320" joined="2013-03-20"/>
+    <cosponsor id="412310" joined="2013-03-20"/>
+    <cosponsor id="412417" joined="2013-03-14"/>
+    <cosponsor id="412408" joined="2013-03-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-06">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Income tax credits"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Tax treatment of families"/>
+  </subjects>
+  <amendments/>
+  <summary>2/6/2013--Introduced.
+Refundable Child Tax Credit Eligibility Verification Reform Act of 2013 - Amends the Internal Revenue Code, with respect to the child tax credit, to require taxpayers claiming such credit to provide their social security numbers on their tax returns. Prohibits taxpayers who improperly claimed such credit in a previous year from claiming such credit during a disallowance period of: (1) 2 years for claims made with reckless or intentional disregard of rules governing such credit, or (2) 10 years for fraudulent claims. Requires the Secretary of the Treasury to prescribe a form for completion by paid income tax preparers in connection with claims for the refundable portion of the child tax credit. Imposes a penalty on preparers who fail to comply with due diligence requirements for claiming the refundable portion of the credit.</summary>
+</bill>

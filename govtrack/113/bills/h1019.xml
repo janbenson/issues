@@ -1,0 +1,45 @@
+<bill session="113" type="h" number="1019" updated="2013-03-13T04:46:31-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="short">Health Insurance Rate Review Act</title>
+    <title as="introduced" type="official">To amend the Public Health Service Act to provide protections for consumers against excessive, unjustified, or unfairly discriminatory increases in premium rates.</title>
+  </titles>
+  <sponsor id="400360"/>
+  <cosponsors>
+    <cosponsor id="400062" joined="2013-03-06"/>
+    <cosponsor id="412379" joined="2013-03-06"/>
+    <cosponsor id="400080" joined="2013-03-06"/>
+    <cosponsor id="412193" joined="2013-03-06"/>
+    <cosponsor id="400103" joined="2013-03-06"/>
+    <cosponsor id="400111" joined="2013-03-06"/>
+    <cosponsor id="412215" joined="2013-03-06"/>
+    <cosponsor id="400129" joined="2013-03-06"/>
+    <cosponsor id="412382" joined="2013-03-06"/>
+    <cosponsor id="400162" joined="2013-03-06"/>
+    <cosponsor id="412511" joined="2013-03-12"/>
+    <cosponsor id="400238" joined="2013-03-06"/>
+    <cosponsor id="400262" joined="2013-03-06"/>
+    <cosponsor id="400278" joined="2013-03-06"/>
+    <cosponsor id="400661" joined="2013-03-06"/>
+    <cosponsor id="400295" joined="2013-03-06"/>
+    <cosponsor id="400308" joined="2013-03-06"/>
+    <cosponsor id="400333" joined="2013-03-06"/>
+    <cosponsor id="400378" joined="2013-03-06"/>
+    <cosponsor id="400425" joined="2013-03-06"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

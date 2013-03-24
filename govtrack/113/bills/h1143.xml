@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="1143" updated="2013-03-19T15:47:17-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="short">Federal Correctional Workers Safety Act of 2013</title>
+    <title as="introduced" type="official">To amend title 18, United States Code, to require the Bureau of Prisons to provide secure storage areas on institution grounds outside the secure perimeter for employees authorized to carry a firearm.</title>
+  </titles>
+  <sponsor id="410396"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-13">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

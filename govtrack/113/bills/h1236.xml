@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="1236" updated="2013-03-19T04:46:50-04:00">
+  <state datetime="2013-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-18"/>
+  </status>
+  <introduced datetime="2013-03-18"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 10, United States Code, to require the inclusion of a behavioral health professional on any physical evaluation board that considers issues of post-traumatic stress disorder, traumatic brain injury, or other mental health condition.</title>
+  </titles>
+  <sponsor id="400209"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-18">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="1360" updated="2013-03-22T04:47:08-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title as="introduced" type="official">To amend title 10, United States Code, to provide for forgiveness of certain overpayments of retired pay paid to deceased retired members of the Armed Forces following their death.</title>
+  </titles>
+  <sponsor id="400209"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-21">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

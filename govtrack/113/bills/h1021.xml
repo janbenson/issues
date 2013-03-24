@@ -1,0 +1,42 @@
+<bill session="113" type="h" number="1021" updated="2013-03-16T04:46:42-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title as="introduced" type="short">Land Acquisition to cut National Debt Act</title>
+    <title as="introduced" type="short">LAND Act</title>
+    <title as="introduced" type="official">To provide that there shall be no net increase in the acres of certain Federal land under the jurisdiction of the Bureau of Land Management, the National Park Service, the United States Fish and Wildlife Service, or the Forest Service unless the Federal budget is balanced for the year in which the land would be purchased.</title>
+  </titles>
+  <sponsor id="412461"/>
+  <cosponsors/>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-06">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2013-03-12">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+    <action datetime="2013-03-12">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+      <committee name="House Natural Resources"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII10" subcommittee="Public Lands and Environmental Regulation" name="House Natural Resources"/>
+    <committee activity="Referral" code="HSII22" subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" name="House Natural Resources"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

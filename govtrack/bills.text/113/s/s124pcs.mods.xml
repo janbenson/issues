@@ -1,0 +1,256 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee183eb8bf1">
+<name type="corporate">
+ <namePart>United States Government Printing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">printer</roleTerm>
+  <roleTerm type="code" authority="marcrelator">prt</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To provide that Members of Congress may not receive pay after October 1 of any fiscal year in which Congress has not approved a concurrent resolution on the budget and passed the regular appropriations bills.;
+   		No Budget, No Pay Act;S. 124 (PCS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>113_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2013-03-19</dateIngested>
+</extension>
+<titleInfo>
+ <title>To provide that Members of Congress may not receive pay after October 1 of any fiscal year in which Congress has not approved a concurrent resolution on the budget and passed the regular appropriations bills.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>No Budget, No Pay Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 124 (PCS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Printing Office</publisher>
+ <dateIssued encoding="w3cdtf">2013-01-28</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>6 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee183eb8bf1</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/BILLS-113s124pcs</identifier>
+<identifier type="preferred citation">S. 124</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s124_pcs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="raw object" displayLabel="HTML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s124pcs/html/BILLS-113s124pcs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s124pcs/pdf/BILLS-113s124pcs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">http://www.gpo.gov/fdsys/pkg/BILLS-113s124pcs/xml/BILLS-113s124pcs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2013-03-19</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2013-03-19</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-113s124pcs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mr. Heller</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Alexander</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Barrasso</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Burr</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Coburn</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Boozman</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Cornyn</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Enzi</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Chambliss</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Corker</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Flake</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mr. Vitter</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 2 Section 632</partNumber>
+</titleInfo>
+ <identifier type="USC citation">2 U.S.C. 632</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 2106</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 2106</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 6</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-113s124pcs</accessId>
+ <congress>113</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>124</billNumber>
+ <billVersion reprint="false">pcs</billVersion>
+ <fileSuffix>pcs</fileSuffix>
+ <shortTitle>No Budget, No Pay Act</shortTitle>
+ <action date="2013-01-23" legislativeDay="2013-01-03">Mr. Heller (for himself, Mr. Manchin, Mr. Alexander, Ms. Ayotte, Mr. Barrasso, Mr. Burr, Mr. Coburn, Mr. Boozman, Mr. Cornyn, Mr. Enzi, Mr. Chambliss, Mr. Corker, Mr. Flake, and Mr. Vitter) introduced the following bill; which was read the first time</action>
+ <action date="2013-01-28">Read the second time and placed on the calendar</action>
+ <congMember chamber="S" congress="113" role="SPONSOR">
+                      <name type="parsed">Mr. Heller</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Alexander</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Barrasso</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Burr</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Coburn</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Boozman</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Cornyn</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Enzi</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Chambliss</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Corker</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Flake</name>
+                </congMember>
+ <congMember chamber="S" congress="113" role="COSPONSOR">
+                      <name type="parsed">Mr. Vitter</name>
+                </congMember>
+ <congCalendar congress="113" number="6" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="2">
+                      <section number="632"></section>
+                </USCode>
+ <USCode title="5">
+                      <section number="2106"></section>
+                </USCode>
+</extension>
+</mods>

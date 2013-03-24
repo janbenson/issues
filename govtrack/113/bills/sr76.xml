@@ -1,0 +1,27 @@
+<bill session="113" type="sr" number="76" updated="2013-03-16T06:32:31-04:00">
+  <state datetime="2013-03-13">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title as="introduced" type="official">A resolution designating room S-126 of the United States Capitol as the "Senator Daniel K. Inouye Room" in recognition of his service to the Senate and the people of the United States.</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors>
+    <cosponsor id="300065" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <vote state="PASSED:SIMPLERES" datetime="2013-03-13" how="by Unanimous Consent" result="pass" type="vote" where="s">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S1825-2826" label="consideration"/>
+      <reference ref="CR S1793" label="text as passed Senate"/>
+    </vote>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>3/13/2013--Passed Senate without amendment.
+Designates room S-126 of the U.S. Capitol as the "Senator Daniel K. Inouye Room," in recognition of his service to the Senate and the people of the United States.</summary>
+</bill>

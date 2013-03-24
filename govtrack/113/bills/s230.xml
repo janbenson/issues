@@ -1,0 +1,41 @@
+<bill session="113" type="s" number="230" updated="2013-03-15T15:45:48-04:00">
+  <state datetime="2013-03-14">REPORTED</state>
+  <status>
+    <unknown datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-02-07"/>
+  <titles>
+    <title as="introduced" type="official">A bill to authorize the Peace Corps Commemorative Foundation to establish a commemorative work in the District of Columbia and its environs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400325"/>
+  <cosponsors>
+    <cosponsor id="412326" joined="2013-03-04"/>
+    <cosponsor id="300058" joined="2013-02-25"/>
+    <cosponsor id="412323" joined="2013-03-13"/>
+    <cosponsor id="400412" joined="2013-02-07"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-02-07">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <calendar state="REPORTED" datetime="2013-03-14">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+      <committee name="Committee on Energy and Natural Resources"/>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="District of Columbia"/>
+    <term name="Monuments and memorials"/>
+    <term name="National and community service"/>
+    <term name="Peace Corps"/>
+  </subjects>
+  <amendments/>
+  <summary>2/7/2013--Introduced.
+Authorizes the Peace Corps Commemorative Foundation to establish a commemorative work on federal land in the District of Columbia to commemorate the mission of the Peace Corps and the ideals on which it was founded.</summary>
+</bill>

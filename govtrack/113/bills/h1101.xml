@@ -1,0 +1,37 @@
+<bill session="113" type="h" number="1101" updated="2013-03-21T15:46:15-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title as="introduced" type="short">Homeowners and Taxpayers Protection Act of 2013</title>
+    <title as="introduced" type="official">To strengthen America's financial infrastructure, by requiring pre-funding for catastrophe losses using private insurance premium dollars to better prepare and protect homeowners from natural catastrophes and to protect taxpayers from massive bailouts, and to provide dedicated funding from insurance premiums to improve catastrophe preparedness, loss prevention and mitigation, and to improve the availability and affordability of private market homeowners insurance coverage for catastrophic events, and for other purposes.</title>
+  </titles>
+  <sponsor id="412186"/>
+  <cosponsors>
+    <cosponsor id="400402" joined="2013-03-20"/>
+  </cosponsors>
+  <actions>
+    <action state="REFERRED" datetime="2013-03-12">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-12">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2013-03-12">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2013-03-13">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+      <committee name="House Transportation and Infrastructure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+    <committee code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>
